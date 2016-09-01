@@ -4,7 +4,7 @@
 
 Regulated Activities
 
-(*Provision marked with asterisk (*) has not yet come into operation. Please see paragraph (x) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2015 (L.N. 95 of 2015).)
+(Format changes—E.R. 1 of 2013)
 
 - Part 1 The following are regulated activities—
 
@@ -26,7 +26,17 @@ Regulated Activities
 
 - Type 9 : | asset management; (Amended L.N. 28 of 2011)
 
-- Type 10 : | providing credit rating services. (Added L.N. 28 of 2011)
+- Type 10 : | providing credit rating services; (Added L.N. 28 of 2011. Amended 6 of 2014 s. 53)
+
+- #Type 11 : | dealing in OTC derivative products or advising on OTC derivative products; (Added 6 of 2014 s. 53)
+
+- @Type 12 : | providing client clearing services for OTC derivative transactions. (Added 6 of 2014 s. 53)
+
+- Editorial Note:
+
+- # Not yet in operation.
+
+- @ The new Type 12, Part 1, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to paragraph (c) of the new definition of excluded services in Part 2 of Schedule 5. Please see paragraph (g) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
 
 - Part 2 In this Schedule—
 
@@ -202,15 +212,21 @@ Regulated Activities
 
     - (a) real estate investment scheme management; or
 
-    - (b)
-
-    - securities or futures contracts management; (Added L.N. 197 of 2005)
+    - (b) securities or futures contracts management; (Added L.N. 197 of 2005)
 
   - automated trading services (自動化交易服務) means services provided by means of electronic facilities, not being facilities provided by a recognized exchange company or a recognized clearing house, whereby—
 
     - (a) offers to sell or purchase securities or futures contracts are regularly made or accepted in a way that forms or results in a binding transaction in accordance with established methods, including any method commonly used by a stock market or futures market;
 
-    - (b) persons are regularly introduced, or identified to other persons in order that they may negotiate or conclude, or with the reasonable expectation that they will negotiate or conclude sales or purchases of securities or futures contracts in a way that forms or results in a binding transaction in accordance with established methods, including any method commonly used by a stock market or futures market; or
+    - +(ab) offers to enter into OTC derivative transactions are regularly made or accepted in a way that forms or results in a binding transaction in accordance with established methods; (Added 6 of 2014 s. 53)
+
+    - (b) persons are regularly introduced, or identified to other persons in order that they may negotiate or conclude, or with the reasonable expectation that they will negotiate or conclude sales or purchases of securities or futures contracts in a way that forms or results in a binding transaction in accordance with established methods, including any method commonly used by a stock market or futures market; (Amended 6 of 2014 s. 53)
+
+    - @(ba) persons are regularly introduced, or identified to other persons—
+
+      - (i) in order that they may negotiate or conclude OTC derivative transactions in a way that forms or results in a binding transaction in accordance with established methods; or
+
+      - (ii) with the reasonable expectation that they will negotiate or conclude OTC derivative transactions in such a way; (Added 6 of 2014 s. 53)
 
     - (c) transactions—
 
@@ -220,9 +236,17 @@ Regulated Activities
 
       - (iii) effected on, or subject to the rules of, a stock market or futures market,
 
-    - may be novated, cleared, settled or guaranteed,
+    - may be novated, cleared, settled or guaranteed; or
 
-  - but does not include such services provided by a corporation operated by or on behalf of the Government;
+    - ##(d) transactions—
+
+      - (i) referred to in paragraph (ab); or
+
+      - (ii) resulting from the activities referred to in paragraph (ba),
+
+    - may be novated, cleared, settled or guaranteed, (Added 6 of 2014 s. 53)
+
+  - but does not include such services provided by a corporation operated by or on behalf of the Government or any excluded services; (Amended 6 of 2014 s. 53)
 
   - credit ratings (信貸評級) means opinions, expressed using a defined ranking system, primarily regarding the creditworthiness of—
 
@@ -290,7 +314,7 @@ Regulated Activities
 
     - (iii) is a corporation providing automated trading services under authorization granted under section 95(2) of this Ordinance;
 
-    - (iv) performs the act through another person (“the securities dealer”)—
+    - (iv) performs the act through another person (the securities dealer)—
 
       - (A) who is licensed or registered for Type 1 regulated activity; or
 
@@ -349,6 +373,28 @@ Regulated Activities
     - (xv) in any case where each of the parties to the transaction or proposed transaction under which securities are or will be acquired, disposed of, subscribed for or underwritten as described in paragraph (a) is an authorized financial institution, is an approved money broker and performs the act for each of the parties to the transaction or proposed transaction; (Added L.N. 197 of 2005. Amended 6 of 2014 s. 53)
 
   - debt securities (債務證券) means debenture stocks, loan stocks, debentures, bonds, notes, indexed bonds, convertible debt securities, bonds with warrants, non-interest bearing debt securities, and other securities or instruments acknowledging, evidencing or creating indebtedness; (Added L.N. 28 of 2011)
+
+  - excluded services (豁除服務) means—
+
+    - #(a) services for trading in OTC derivative products that do not fall within paragraph (a), (b) or (c) of the definition of automated trading services and which are provided—
+
+      - (i) by an authorized financial institution or an approved money broker;
+
+      - (ii) by means of electronic facilities; and
+
+      - (iii) wholly incidentally in carrying out an act that would constitute dealing in OTC derivative products but for the exclusion under section 2(f) of Part 2A;
+
+    - #(b) services for clearing OTC derivative products that—
+
+      - (i) also constitute Type 12 regulated activity; and
+
+      - (ii) are provided by a person licensed for that regulated activity; and
+
+    - (c) services for clearing OTC derivative products that—
+
+      - (i) would constitute Type 12 regulated activity but for the exclusion under section 4(b) of Part 2A; and
+
+      - (ii) are provided by an authorized financial institution or an approved money broker; (Added 6 of 2014 s. 53)
 
   - foreign exchange trading (外匯交易) means entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a contract or arrangement whereby any person undertakes to—
 
@@ -416,7 +462,7 @@ Regulated Activities
 
     - (xi) that is wholly incidental to one or more than one transaction in specified debt securities or a series of such transactions;
 
-    - *(xia) that is an OTC derivative dealing act carried out by a person who is licensed for Type 12 regulated activity and is carried out wholly incidentally to the carrying on of that regulated activity; (Added 6 of 2014 s. 53)
+    - #(xia) that is an OTC derivative dealing act carried out by a person who is licensed for Type 12 regulated activity and is carried out wholly incidentally to the carrying on of that regulated activity; (Added 6 of 2014 s. 53)
 
     - (xib) that is an act that constitutes entering into a market contract; (Added 6 of 2014 s. 53)
 
@@ -453,6 +499,8 @@ Regulated Activities
     - authorized by the Commission under section 104 of this Ordinance;
 
   - preferred securities (優先證券) means preference shares, preferred shares or preferred stock; (Added L.N. 28 of 2011)
+
+  - §providing client clearing services for OTC derivative transactions (為場外衍生工具交易提供客户結算服務), in relation to a person and subject to Part 2A, means providing services to another person for the clearing and settlement of OTC derivative transactions through a central counterparty (whether located in Hong Kong or elsewhere), whether or not as a member of the central counterparty; (Added 6 of 2014 s. 53)
 
   - providing credit rating services (提供信貸評級服務) means—
 
@@ -536,6 +584,206 @@ Regulated Activities
 
 - (Amended E.R. 2 of 2014)
 
+- Editorial Note:
+
+- + The new paragraph (ab) in the definition of automated trading services, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to the new paragraph (d) of the definition of automated trading services. Please see paragraph (h) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
+
+- Editorial Note:
+
+- @ The new paragraph (ba) in the definition of automated trading services, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to the new paragraph (d) of the definition of automated trading services. Please see paragraph (j) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
+
+- Editorial Note:
+
+- ## The new paragraph (d) in the definition of automated trading services, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, except in so far as it relates to Type 7 regulated activity under the Securities and Futures Ordinance (Cap. 571). Please see paragraph (l) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
+
+- Editorial Note:
+
+- # Not yet in operation.
+
+- Editorial Note:
+
+- § The new definition of providing client clearing services for OTC derivative transactions, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to paragraph (c) of the new definition of excluded services. Please see paragraph (n)(ii) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
+
+- Part 2A
+
+  - #1. In Part 2, advising on OTC derivative products does not include the following—
+
+    - (a) an act that falls within—
+
+      - (i) Type 4 regulated activity, carried out by a person licensed to carry on that regulated activity; or
+
+      - (ii) Type 5 regulated activity, carried out by a person licensed to carry on that regulated activity;
+
+    - (b) an act that is excluded from the definition of advising on futures contracts in Part 2 under paragraph (ii) of that definition;
+
+    - (c) an act that is excluded from the definition of advising on securities in Part 2 under paragraph (ii) of that definition;
+
+    - (d) an OTC derivative advising act carried out in the ordinary course of business by—
+
+      - (i) an authorized financial institution; or
+
+      - (ii) an approved money broker;
+
+    - (e) an OTC derivative advising act carried out by a person licensed for Type 9 regulated activity who—
+
+      - (i) provides a service of OTC derivative products management that the person is permitted to provide under that licence; and
+
+      - (ii) carries out the act solely for the purpose of providing that service;
+
+    - (f) an OTC derivative advising act carried out by a person who—
+
+      - (i) falls within a class prescribed by rules made under section 397 of this Ordinance for the purposes of this paragraph; or
+
+      - (ii) carries on a type or description of business so prescribed;
+
+    - (g) an OTC derivative advising act carried out by a corporation, if the giving of the advice or issuing of the analyses or reports constituting the act is solely to—
+
+      - (i) any of its wholly owned subsidiaries; or
+
+      - (ii) a holding company that holds all its issued shares or to other wholly owned subsidiaries of that holding company;
+
+    - (h) an OTC derivative advising act carried out by—
+
+      - (i) a solicitor, if carrying out that act is wholly incidental to his or her practice as a solicitor in a Hong Kong firm or foreign firm (both as defined by section 2(1) of the Legal Practitioners Ordinance (Cap. 159));
+
+      - (ii) counsel, if carrying out that act is wholly incidental to his or her practice as counsel;
+
+      - (iii) a certified public accountant, if carrying out that act is wholly incidental to his or her practice as a certified public accountant in a practice unit (as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50)); or
+
+      - (iv) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29), if carrying out that act is wholly incidental to the discharge of its duties as such a trust company;
+
+    - (i) an OTC derivative advising act carried out by a person through—
+
+      - (i) a newspaper, magazine, book or other publication that is made generally available to the public; or
+
+      - (ii) a television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise.
+
+  - #2. In Part 2, dealing in OTC derivative products does not include the following—
+
+    - (a) an act that falls within—
+
+      - (i) Type 1 regulated activity, carried out by a person licensed to carry on that regulated activity;
+
+      - (ii) Type 2 regulated activity, carried out by a person licensed to carry on that regulated activity; or
+
+      - (iii) Type 3 regulated activity, carried out by a person licensed to carry on that regulated activity;
+
+    - (b) an act that is excluded from the definition of dealing in securities in Part 2 under paragraph (iv) or (xiii) of that definition;
+
+    - (c) an act that is excluded from the definition of dealing in futures contracts in Part 2 under paragraph (ii) of that definition;
+
+    - (d) an act that is excluded from the definition of leveraged foreign exchange trading in Part 2 under paragraph (i), (iii), (vii) or (xiv) of that definition;
+
+    - (e) an act carried out by a person for the purpose of performing the person’s functions as—
+
+      - (i) a recognized clearing house;
+
+      - (ii) a recognized exchange company; or
+
+      - (iii) a provider of automated trading services authorized under section 95(2) of this Ordinance;
+
+    - (f) an act carried out in the ordinary course of business by—
+
+      - (i) an authorized financial institution; or
+
+      - (ii) an approved money broker;
+
+    - (g) an act referred to in paragraph (a) of the definition of dealing in OTC derivative products in Part 2 that is carried out by a person as a price taker;
+
+    - (h) an OTC derivative dealing act carried out by a person licensed for Type 9 regulated activity who—
+
+      - (i) provides a service of managing a portfolio of OTC derivative products for another person that the person is permitted to provide under that licence; and
+
+      - (ii) carries out the act solely for the purpose of providing that service;
+
+    - (i) an OTC derivative dealing act—
+
+      - (i) carried out by a person who is licensed for Type 12 regulated activity; and
+
+      - (ii) is carried out wholly incidentally to the carrying on of that regulated activity;
+
+    - (j) an act that constitutes entering into a market contract;
+
+    - (k) an act carried out by a person who—
+
+      - (i) falls within a class prescribed by rules made under section 397 of this Ordinance for the purposes of this paragraph; or
+
+      - (ii) carries on a type or description of business so prescribed;
+
+    - (l) an OTC derivative dealing act carried out only on a market referred to in section 3(a), (b) or (c) of the Commodity Exchanges (Prohibition) Ordinance (Cap. 82);
+
+    - (m) an OTC derivative dealing act carried out by a person who—
+
+      - (i) is a member of a commodity exchange referred to in section 3(d) of the Commodity Exchanges (Prohibition) Ordinance (Cap. 82); and
+
+      - (ii) carries out the act only on an exchange referred to in subparagraph (i);
+
+    - (n) an OTC derivative dealing act that is carried out by a person (first person) through another person (OTC derivative products dealer) who is—
+
+      - (i) licensed for Type 11 regulated activity;
+
+      - (ii) an authorized financial institution;
+
+      - (iii) an approved money broker;
+
+      - (iv) an officer or employee of an authorized financial institution, acting in the person’s capacity as such; or
+
+      - (v) an officer or employee of an approved money broker, acting in the person’s capacity as such,
+
+    - except that the first person is to be regarded as dealing in OTC derivative products if that person, in return for a commission, rebate or other remuneration carries out an act set out in section 3.
+
+  - #3. The acts referred to in section 2(n) are that the first person (within the meaning of that section)—
+
+    - (a) receives from a third person an offer or invitation to enter into an OTC derivative transaction, and communicates it, either in the first person’s name or in the name of the third person to the OTC derivative products dealer (within the meaning of section 2(n));
+
+    - (b) effects an introduction between the OTC derivative products dealer or that dealer’s representative and a third person, so that the third person may enter into, or offer or invite to enter into, an OTC derivative transaction with the OTC derivative products dealer;
+
+    - (c) effects the entering into an OTC derivative transaction by a third person through the OTC derivative products dealer;
+
+    - (d) makes an offer for the OTC derivative products dealer to a third person to enter into an OTC derivative transaction; or
+
+    - (e) accepts for the OTC derivative products dealer an offer by a third person to enter into an OTC derivative transaction.
+
+  - 4. In Part 2, providing client clearing services for OTC derivative transactions does not include the following—
+
+    - #(a) an act carried out by a central counterparty, whether located in Hong Kong or elsewhere, for the purpose of performing the person’s functions as a central counterparty;
+
+    - @(b) an act carried out by an authorized financial institution or an approved money broker in the ordinary course of business;
+
+    - #(c) an act of an acceptable participant of a central counterparty located in Hong Kong; or
+
+    - #(d) an act of an agent, who does not handle client money or client assets, of such an acceptable participant.
+
+  - #5. In section 4—
+
+    - acceptable participant (可接受參與者) means a person—
+
+      - (a) who does not have a place of business in Hong Kong;
+
+      - (b) who is, or has applied to become, a member of a central counterparty located in Hong Kong;
+
+      - (c) who does not market its services to persons in Hong Kong other than through an authorized financial institution or a licensed corporation; and
+
+      - (d) the provision by whom of clearing and settlement services (other than acts referred to in section 4) in respect of OTC derivative transactions or other similar transactions on behalf of another person and through a central counterparty (either directly as a member of the central counterparty or indirectly through another person that is such a member) is governed by legal or regulatory requirements of a comparable overseas jurisdiction;
+
+    - comparable overseas jurisdiction (相若的海外司法管轄區) means a jurisdiction—
+
+      - (a) which the Commission is satisfied has legal or regulatory requirements comparable to those of Hong Kong for regulating the provision of clearing and settlement services (other than acts referred to in section 4) in respect of OTC derivative transactions or other similar transactions on behalf of another person and through a central counterparty (either directly as a member of the central counterparty or indirectly through another person that is such a member); and
+
+      - (b) with the regulators of which the Commission has adequate cooperative arrangements or agreements.
+
+- (Part 2A added 6 of 2014 s. 53)
+
+- Editorial Note:
+
+- # Not yet in operation.
+
+- @ The new section 4(b), Schedule 5, Part 2A added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to the new definition of providing client clearing services for OTC derivative transactions in Part 2 of Schedule 5. Please see paragraph (o) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
+
+- Editorial Note:
+
+- # Not yet in operation.
+
 - Part 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
 
   - (a) the acquisition of securities listed on a stock market which is or forms part of a stock borrowing or stock return as defined in section 19(16) of the Stamp Duty Ordinance (Cap. 117), or any transaction in securities similar to such a borrowing or return; or
@@ -547,5 +795,3 @@ Regulated Activities
     - (ii) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities; or
 
     - (iii) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member.
-
-- (Format changes—E.R. 1 of 2013)
