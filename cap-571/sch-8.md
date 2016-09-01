@@ -4,6 +4,8 @@
 
 Securities and Futures Appeals Tribunal
 
+(Format changes—E.R. 1 of 2013)
+
 - Part 1 Appointment of Members and Proceedings of Tribunal, etc.
 
   - 1. In this Schedule, unless the context otherwise requires—
@@ -168,274 +170,286 @@ Securities and Futures Appeals Tribunal
 
   - Division 1—Specified Decisions Made by Commission
 
-Item | Provision | Description of decision
+- Item | Provision | Description of decision
 
-1. | Section 93(12) of this Ordinance | Requirement to pay costs or expenses.
+- 1. | Section 93(12) of this Ordinance | Requirement to pay costs or expenses.
 
-2. | Section 95(2) of this Ordinance | Refusal to grant an authorization, or imposition of any condition.
+- 2. | Section 95(2) of this Ordinance | Refusal to grant an authorization, or imposition of any condition.
 
-3. | Section 97(1) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
+- 3. | Section 97(1) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
 
-4. | Section 98(1) of this Ordinance | Withdrawal of an authorization.
+- 4. | Section 98(1) of this Ordinance | Withdrawal of an authorization.
 
-4A. | Section 101H(1)(a) or (b) of this Ordinance | Refusal to grant an exemption, or imposition of any condition. (Added 6 of 2014 s. 54)
+- 4A. | Section 101H(1)(a) or (b) of this Ordinance | Refusal to grant an exemption, or imposition of any condition. (Added 6 of 2014 s. 54)
 
-4B. | Section 101H(2)(a) or (b) of this Ordinance | Suspension or withdrawal of an exemption, or amendment of any condition. (Added 6 of 2014 s. 54)
+- 4B. | Section 101H(2)(a) or (b) of this Ordinance | Suspension or withdrawal of an exemption, or amendment of any condition. (Added 6 of 2014 s. 54)
 
-5. | Section 104(1) of this Ordinance | Refusal to authorize a collective investment scheme, or imposition of any condition.
+- 4C. | Section 101J(1)(b) of this Ordinance | Refusal to designate a person as a central counterparty. (Added 6 of 2014 s. 54)
 
-6. | Section 104(3) of this Ordinance | Refusal to approve an individual nominated in respect of a collective investment scheme.
+- 4D. | Section 101J(5)(a) of this Ordinance | Imposition of any condition. (Added 6 of 2014 s. 54)
 
-7. | Section 104(3) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a collective investment scheme.
+- 4E. | Section 101J(5)(b) or (c) of this Ordinance | Amendment or revocation of any condition, or imposition of any additional condition. (Added 6 of 2014 s. 54)
 
-8. | Section 104(4) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
+- 4F. | Section 101J(5)(d) of this Ordinance | Revocation of a designation. (Added 6 of 2014 s. 54)
 
-8A. | Section 104A(1) of this Ordinance | Refusal to authorize a structured product, or imposition of any conditions. (Added 8 of 2011 s. 15)
+- 5. | Section 104(1) of this Ordinance | Refusal to authorize a collective investment scheme, or imposition of any condition.
 
-8B. | Section 104A(3) of this Ordinance | Refusal to approve an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
+- 6. | Section 104(3) of this Ordinance | Refusal to approve an individual nominated in respect of a collective investment scheme.
 
-8C. | Section 104A(4)(a) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 8 of 2011 s. 15)
+- 7. | Section 104(3) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a collective investment scheme.
 
-8D. | Section 104A(4)(b) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
+- 8. | Section 104(4) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
 
-9. | Section 105(1) of this Ordinance | Refusal to authorize the issue of any advertisement, invitation or document, or imposition of any condition.
+- 8A. | Section 104A(1) of this Ordinance | Refusal to authorize a structured product, or imposition of any conditions. (Added 8 of 2011 s. 15)
 
-10. | Section 105(3) of this Ordinance | Refusal to approve an individual nominated in respect of the issue of any advertisement, invitation or document.
+- 8B. | Section 104A(3) of this Ordinance | Refusal to approve an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
 
-11. | Section 105(3) of this Ordinance | Withdrawal of approval of an individual nominated in respect of the issue of any advertisement, invitation or document.
+- 8C. | Section 104A(4)(a) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 8 of 2011 s. 15)
 
-12. | Section 105(4) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
+- 8D. | Section 104A(4)(b) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
 
-13. | Section 106(1) of this Ordinance | Withdrawal of an authorization.
+- 9. | Section 105(1) of this Ordinance | Refusal to authorize the issue of any advertisement, invitation or document, or imposition of any condition.
 
-14. | Section 106(3) of this Ordinance | Refusal to withdraw an authorization.
+- 10. | Section 105(3) of this Ordinance | Refusal to approve an individual nominated in respect of the issue of any advertisement, invitation or document.
 
-15. | Section 106(4) of this Ordinance | Imposition of any condition.
+- 11. | Section 105(3) of this Ordinance | Withdrawal of approval of an individual nominated in respect of the issue of any advertisement, invitation or document.
 
-16. | Section 116(1) of this Ordinance | Refusal to grant a licence.
+- 12. | Section 105(4) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
 
-17. | Section 116(6) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
+- 13. | Section 106(1) of this Ordinance | Withdrawal of an authorization.
 
-18. | Section 117(1) of this Ordinance | Refusal to grant a licence for a period not exceeding 3 months.
+- 14. | Section 106(3) of this Ordinance | Refusal to withdraw an authorization.
 
-19. | Section 117(3) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
+- 15. | Section 106(4) of this Ordinance | Imposition of any condition.
 
-20. | Section 119(1) of this Ordinance | Refusal to grant registration.
+- 16. | Section 116(1) of this Ordinance | Refusal to grant a licence.
 
-21. | Section 119(5) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
+- 17. | Section 116(6) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
 
-22. | Section 120(1) of this Ordinance | Refusal to grant a licence.
+- 18. | Section 117(1) of this Ordinance | Refusal to grant a licence for a period not exceeding 3 months.
 
-23. | Section 120(5) of this Ordinance | Imposition of any condition.
+- 19. | Section 117(3) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
 
-24. | Section 120(7) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
+- 20. | Section 119(1) of this Ordinance | Refusal to grant registration.
 
-25. | Section 121(1) of this Ordinance | Refusal to grant a licence for a period not exceeding 3 months.
+- 21. | Section 119(5) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
 
-26. | Section 121(3) of this Ordinance | Imposition of any condition.
+- 22. | Section 120(1) of this Ordinance | Refusal to grant a licence.
 
-27. | Section 121(5) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
+- 23. | Section 120(5) of this Ordinance | Imposition of any condition.
 
-28. | Section 122(1) of this Ordinance | Refusal to approve an accreditation.
+- 24. | Section 120(7) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
 
-29. | Section 122(2) of this Ordinance | Refusal to approve a transfer of an accreditation.
+- 25. | Section 121(1) of this Ordinance | Refusal to grant a licence for a period not exceeding 3 months.
 
-30. | Section 124(1) of this Ordinance | Refusal to issue a duplicate printed licence or certificate of registration. (Amended 19 of 2015 s. 13)
+- 26. | Section 121(3) of this Ordinance | Imposition of any condition.
 
-31. | Section 126(1) of this Ordinance | Refusal to approve a person as a responsible officer.
+- 27. | Section 121(5) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
 
-32. | Section 126(3) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
+- 28. | Section 122(1) of this Ordinance | Refusal to approve an accreditation.
 
-33. | Section 127(1) of this Ordinance | Refusal to vary any regulated activity.
+- 29. | Section 122(2) of this Ordinance | Refusal to approve a transfer of an accreditation.
 
-34. | Section 130(1) of this Ordinance | Refusal to approve premises.
+- 30. | Section 124(1) of this Ordinance | Refusal to issue a duplicate printed licence or certificate of registration. (Amended 19 of 2015 s. 13)
 
-35. | Section 132(1) of this Ordinance | Refusal to approve a person to become or continue to be a substantial shareholder.
+- 31. | Section 126(1) of this Ordinance | Refusal to approve a person as a responsible officer.
 
-36. | Section 132(3) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
+- 32. | Section 126(3) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
 
-37. | Section 133(1) of this Ordinance | Direction to a licensed corporation.
+- 33. | Section 127(1) of this Ordinance | Refusal to vary any regulated activity.
 
-38. | Section 133(2) of this Ordinance | Direction to a person.
+- 34. | Section 130(1) of this Ordinance | Refusal to approve premises.
 
-39. | Section 134(1)(a), (b), (c), (d), (e), (f), (g), (h), (i) or (j) of this Ordinance | Refusal to grant a modification or waiver.
+- 35. | Section 132(1) of this Ordinance | Refusal to approve a person to become or continue to be a substantial shareholder.
 
-40. | Section 134(4) of this Ordinance | Amendment of a modification or waiver, imposition, amendment or revocation of any condition, or imposition of any new condition.
+- 36. | Section 132(3) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
 
-40A. | Section 145A(1) of this Ordinance | Variation of any financial resources rule. (Added 6 of 2014 s. 54)
+- 37. | Section 133(1) of this Ordinance | Direction to a licensed corporation.
 
-41. | Section 146(2) or (5)(b) of this Ordinance | Imposition of any condition.
+- 38. | Section 133(2) of this Ordinance | Direction to a person.
 
-42. | Section 146(5)(a) of this Ordinance | Suspension of a licence.
+- 39. | Section 134(1)(a), (b), (c), (d), (e), (f), (g), (h), (i) or (j) of this Ordinance | Refusal to grant a modification or waiver.
 
-43. | Section 146(6) or (7) of this Ordinance | Amendment of any condition.
+- 40. | Section 134(4) of this Ordinance | Amendment of a modification or waiver, imposition, amendment or revocation of any condition, or imposition of any new condition.
 
-44. | Section 147(3)(a) of this Ordinance | Suspension of a licence.
+- 40A. | Section 145A(1) of this Ordinance | Variation of any financial resources rule. (Added 6 of 2014 s. 54)
 
-45. | Section 147(3)(b) of this Ordinance | Imposition of any condition.
+- 41. | Section 146(2) or (5)(b) of this Ordinance | Imposition of any condition.
 
-46. | Section 147(4) or (5) of this Ordinance | Amendment of any condition.
+- 42. | Section 146(5)(a) of this Ordinance | Suspension of a licence.
 
-47. | Section 159(1) of this Ordinance | Appointment of an auditor.
+- 43. | Section 146(6) or (7) of this Ordinance | Amendment of any condition.
 
-48. | Section 159(4) of this Ordinance | Direction to pay any of the costs and expenses of any examination and audit.
+- 44. | Section 147(3)(a) of this Ordinance | Suspension of a licence.
 
-49. | Section 160(1) of this Ordinance | Appointment of an auditor.
+- 45. | Section 147(3)(b) of this Ordinance | Imposition of any condition.
 
-50. | Section 160(8) of this Ordinance | Direction to pay any of the costs and expenses of any examination and audit.
+- 46. | Section 147(4) or (5) of this Ordinance | Amendment of any condition.
 
-51. | Section 194(1)(i), (ii), (iii) or (iv) of this Ordinance | Exercise of power to revoke or suspend a licence or the approval of a person as a responsible officer, to publicly or privately reprimand a person, or to impose a prohibition on a person.
+- 47. | Section 159(1) of this Ordinance | Appointment of an auditor.
 
-52. | Section 194(2) of this Ordinance | Order to pay a pecuniary penalty.
+- 48. | Section 159(4) of this Ordinance | Direction to pay any of the costs and expenses of any examination and audit.
 
-53. | Section 195(1)(a), (b) or (c) of this Ordinance | Revocation or suspension of a licence.
+- 49. | Section 160(1) of this Ordinance | Appointment of an auditor.
 
-54. | Section 195(2) of this Ordinance | Revocation of a licence.
+- 50. | Section 160(8) of this Ordinance | Direction to pay any of the costs and expenses of any examination and audit.
 
-55. | Section 195(7) of this Ordinance | Revocation or suspension of the approval of a person as a responsible officer.
+- 51. | Section 194(1)(i), (ii), (iii) or (iv) of this Ordinance | Exercise of power to revoke or suspend a licence or the approval of a person as a responsible officer, to publicly or privately reprimand a person, or to impose a prohibition on a person.
 
-56. | Section 196(1)(i), (ii) or (iii) of this Ordinance | Exercise of power to revoke or suspend any registration, to publicly or privately reprimand a person, or to impose a prohibition on a person.
+- 52. | Section 194(2) of this Ordinance | Order to pay a pecuniary penalty.
 
-57. | Section 196(2) of this Ordinance | Order to pay a pecuniary penalty.
+- 53. | Section 195(1)(a), (b) or (c) of this Ordinance | Revocation or suspension of a licence.
 
-58. | Section 197(1)(a) or (b) of this Ordinance | Revocation or suspension of any registration.
+- 54. | Section 195(2) of this Ordinance | Revocation of a licence.
 
-59. | Section 197(2) of this Ordinance | Revocation of any registration.
+- 55. | Section 195(7) of this Ordinance | Revocation or suspension of the approval of a person as a responsible officer.
 
-60. | Section 202(1) of this Ordinance | Requirement to transfer records.
+- 56. | Section 196(1)(i), (ii) or (iii) of this Ordinance | Exercise of power to revoke or suspend any registration, to publicly or privately reprimand a person, or to impose a prohibition on a person.
 
-61. | Section 203(1F) of this Ordinance | Imposition of any condition. (Amended 19 of 2015 s. 26)
+- 57. | Section 196(2) of this Ordinance | Order to pay a pecuniary penalty.
 
-62. | Section 204(1)(a) or (b) of this Ordinance | Prohibition or requirement imposed on a licensed corporation concerning transactions, etc.
+- 58. | Section 197(1)(a) or (b) of this Ordinance | Revocation or suspension of any registration.
 
-63. | Section 205(1)(a) or (b) of this Ordinance | Prohibition or requirement imposed on a licensed corporation concerning relevant property.
+- 59. | Section 197(2) of this Ordinance | Revocation of any registration.
 
-64. | Section 206(1) of this Ordinance | Requirement imposed on a licensed corporation to maintain property.
+- 60. | Section 202(1) of this Ordinance | Requirement to transfer records.
 
-65. | Section 208(1)(b) of this Ordinance | Substitution or variation of a prohibition or requirement under section 204, 205 or 206 of this Ordinance.
+- 61. | Section 203(1F) of this Ordinance | Imposition of any condition. (Amended 19 of 2015 s. 26)
 
-66. | Section 208(1) of this Ordinance | Refusal to withdraw, substitute or vary a prohibition or requirement under section 204, 205 or 206 of this Ordinance.
+- 62. | Section 204(1)(a) or (b) of this Ordinance | Prohibition or requirement imposed on a licensed corporation concerning transactions, etc.
 
-67. | Section 309(2) of this Ordinance | Refusal to grant an exemption, or imposition of any condition.
+- 63. | Section 205(1)(a) or (b) of this Ordinance | Prohibition or requirement imposed on a licensed corporation concerning relevant property.
 
-68. | Section 309(3) of this Ordinance | Refusal to grant an exemption, or imposition of any condition.
+- 64. | Section 206(1) of this Ordinance | Requirement imposed on a licensed corporation to maintain property.
 
-69. | Section 309(4)(a) or (b) of this Ordinance | Suspension or withdrawal of an exemption, or amendment of any condition.
+- 65. | Section 208(1)(b) of this Ordinance | Substitution or variation of a prohibition or requirement under section 204, 205 or 206 of this Ordinance.
 
-70. | Section 403 of this Ordinance | Imposition of any condition.
+- 66. | Section 208(1) of this Ordinance | Refusal to withdraw, substitute or vary a prohibition or requirement under section 204, 205 or 206 of this Ordinance.
 
-71. | Section 38A(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition. (Amended 28 of 2012 ss. 912 & 920)
+- 67. | Section 309(2) of this Ordinance | Refusal to grant an exemption, or imposition of any condition.
 
-72. | Section 342A(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition. (Amended 28 of 2012 ss. 912 & 920)
+- 68. | Section 309(3) of this Ordinance | Refusal to grant an exemption, or imposition of any condition.
 
-73. | Section 6(2) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V) | Objection to a listing of securities. (Added L.N. 231 of 2002)
+- 69. | Section 309(4)(a) or (b) of this Ordinance | Suspension or withdrawal of an exemption, or amendment of any condition.
 
-74. | Section 6(3)(b) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V) | Imposition of any condition. (Added L.N. 231 of 2002)
+- 70. | Section 403 of this Ordinance | Imposition of any condition.
 
-75. | Section 8(3) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) | Refusal to approve a corporation as an approved lending agent. (Added L.N. 231 of 2002)
+- 71. | Section 38A(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition. (Amended 28 of 2012 ss. 912 & 920)
 
-76. | Section 8(4) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) | Imposition of any condition. (Added L.N. 231 of 2002)
+- 72. | Section 342A(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition. (Amended 28 of 2012 ss. 912 & 920)
 
-77. | Section 8(6) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) | Withdrawal of an approval. (Added L.N. 231 of 2002)
+- 73. | Section 6(2) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V) | Objection to a listing of securities. (Added L.N. 231 of 2002)
 
-78. | Section 4(4)(c) of the Securities and Futures (Contracts Limits and Reportable Positions) Rules (Cap. 571 sub. leg. Y) | Refusal to give notice. (Added L.N. 231 of 2002)
+- 74. | Section 6(3)(b) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V) | Imposition of any condition. (Added L.N. 231 of 2002)
 
-- Division 2—Specified Decisions Made by Monetary Authority
+- 75. | Section 8(3) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) | Refusal to approve a corporation as an approved lending agent. (Added L.N. 231 of 2002)
 
-Item | Provision | Description of decision
+- 76. | Section 8(4) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) | Imposition of any condition. (Added L.N. 231 of 2002)
 
-1. | Section 58A(1)(c) or (d) of the Banking Ordinance (Cap. 155) | Removal or suspension of relevant particulars of a relevant individual from the register.
+- 77. | Section 8(6) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) | Withdrawal of an approval. (Added L.N. 231 of 2002)
 
-2. | Section 71C(1) of the Banking Ordinance (Cap. 155) | Refusal to give consent.
+- 78. | Section 4(4)(c) of the Securities and Futures (Contracts Limits and Reportable Positions) Rules (Cap. 571 sub. leg. Y) | Refusal to give notice. (Added L.N. 231 of 2002)
 
-3. | Section 71C(2)(b) of the Banking Ordinance (Cap. 155) | Attachment of any condition.
+  - Division 2—Specified Decisions Made by Monetary Authority
 
-4. | Section 71C(4)(c) or (d) of the Banking Ordinance (Cap. 155) | Withdrawal or suspension of consent.
+- Item | Provision | Description of decision
 
-5. | Section 71C(9) of the Banking Ordinance (Cap. 155) | Attachment or amendment of any condition.
+- 1. | Section 58A(1)(c) or (d) of the Banking Ordinance (Cap. 155) | Removal or suspension of relevant particulars of a relevant individual from the register.
 
-6. | Section 71E(3) of the Banking Ordinance (Cap. 155) | Attachment or amendment of any condition.
+- 2. | Section 71C(1) of the Banking Ordinance (Cap. 155) | Refusal to give consent.
 
-7. | Section 203A(1)(a), (b) or (c) of this Ordinance | Exercise of power to publicly or privately reprimand a person, to impose a prohibition on a person, or to order to pay a pecuniary penalty. (Added 6 of 2014 s. 54)
+- 3. | Section 71C(2)(b) of the Banking Ordinance (Cap. 155) | Attachment of any condition.
 
-- Division 3—Specified Decisions Made by Commission or Recognized Investor Compensation Company
+- 4. | Section 71C(4)(c) or (d) of the Banking Ordinance (Cap. 155) | Withdrawal or suspension of consent.
 
-Item | Provision | Description of decision
+- 5. | Section 71C(9) of the Banking Ordinance (Cap. 155) | Attachment or amendment of any condition.
 
-1. | Section 4(4) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Refusal to determine that a claim which is not lodged within the time limit provided in section 4(3) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) is not barred. (Added L.N. 231 of 2002)
+- 6. | Section 71E(3) of the Banking Ordinance (Cap. 155) | Attachment or amendment of any condition.
 
-2. | Section 7(1)(a), (b) or (c) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Determination as to whether there has been a default, as to the date of default, or as to whether a claimant is entitled to compensation. (Added L.N. 231 of 2002)
+- 7. | Section 203A(1)(a), (b) or (c) of this Ordinance | Exercise of power to publicly or privately reprimand a person, to impose a prohibition on a person, or to order to pay a pecuniary penalty. (Added 6 of 2014 s. 54)
 
-3. | Section 7(2) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Determination of a provisional amount of compensation. (Added L.N. 231 of 2002)
+  - Division 3—Specified Decisions Made by Commission or Recognized Investor Compensation Company
 
-4. | Section 9(3) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Aggregation of separate claims or parts of those claims. (Added L.N. 231 of 2002)
+- Item | Provision | Description of decision
 
-- Part 3 Division 1—Specified Decisions Referred to in Section 217(3)(b) of this Ordinance
+- 1. | Section 4(4) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Refusal to determine that a claim which is not lodged within the time limit provided in section 4(3) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) is not barred. (Added L.N. 231 of 2002)
 
-Item | Description of specified decision | Provisions
+- 2. | Section 7(1)(a), (b) or (c) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Determination as to whether there has been a default, as to the date of default, or as to whether a claimant is entitled to compensation. (Added L.N. 231 of 2002)
 
-1. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
+- 3. | Section 7(2) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Determination of a provisional amount of compensation. (Added L.N. 231 of 2002)
 
-2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
+- 4. | Section 9(3) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Aggregation of separate claims or parts of those claims. (Added L.N. 231 of 2002)
 
-- Division 2—Specified Decisions Referred to in Section 218(4)(a) of this Ordinance
+- Part 3
 
-Item | Description of specified decision | Provisions
+  - Division 1—Specified Decisions Referred to in Section 217(3)(b) of this Ordinance
 
-1. | A specified decision set out in item 56 or 57 of Division 1 of Part 2. | Sections 58A(1) and 71C(4) of the Banking Ordinance (Cap. 155).
+- Item | Description of specified decision | Provisions
 
-- Division 3—Specified Decisions Referred to in Section 218(4)(b) of this Ordinance
+- 1. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
 
-Item | Description of specified decision | Provision
+- 2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
 
-1. | A specified decision set out in item 1 or 4 of Division 2 of Part 2. | Section 196(1) and (2) of this Ordinance.
+  - Division 2—Specified Decisions Referred to in Section 218(4)(a) of this Ordinance
 
-- Division 4—Specified Decisions Referred to in Section 232(1) of this Ordinance
+- Item | Description of specified decision | Provisions
 
-Item | Description of specified decision | Provision
+- 1. | A specified decision set out in item 56 or 57 of Division 1 of Part 2. | Sections 58A(1) and 71C(4) of the Banking Ordinance (Cap. 155).
 
-1. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
+  - Division 3—Specified Decisions Referred to in Section 218(4)(b) of this Ordinance
 
-2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
+- Item | Description of specified decision | Provision
 
-- Division 5—Specified Decisions Referred to in Section 232(2) of this Ordinance
+- 1. | A specified decision set out in item 1 or 4 of Division 2 of Part 2. | Section 196(1) and (2) of this Ordinance.
 
-Item | Description of specified decision | Provision
+  - Division 4—Specified Decisions Referred to in Section 232(1) of this Ordinance
 
-1. | A specified decision set out in item 3 of Division 1 of Part 2. | Section 97(2) of this Ordinance.
+- Item | Description of specified decision | Provision
 
-2. | A specified decision set out in item 4 of Division 1 of Part 2. | Section 98(6) of this Ordinance.
+- 1. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
 
-3. | A specified decision set out in item 17 of Division 1 of Part 2. | Section 116(7) of this Ordinance.
+- 2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
 
-4. | A specified decision set out in item 19 of Division 1 of Part 2. | Section 117(4) of this Ordinance.
+  - Division 5—Specified Decisions Referred to in Section 232(2) of this Ordinance
 
-5. | A specified decision set out in item 21 of Division 1 of Part 2. | Section 119(6) of this Ordinance.
+- Item | Description of specified decision | Provision
 
-6. | A specified decision set out in item 24 of Division 1 of Part 2. | Section 120(8) of this Ordinance.
+- 1. | A specified decision set out in item 3 of Division 1 of Part 2. | Section 97(2) of this Ordinance.
 
-7. | A specified decision set out in item 27 of Division 1 of Part 2. | Section 121(6) of this Ordinance.
+- 2. | A specified decision set out in item 4 of Division 1 of Part 2. | Section 98(6) of this Ordinance.
 
-8. | A specified decision set out in item 36 of Division 1 of Part 2. | Section 132(4) of this Ordinance.
+- 2A. | A specified decision set out in item 4E of Division 1 of Part 2. | Section 101J(7) of this Ordinance. (Added 6 of 2014 s. 54)
 
-8A. | A specified decision set out in item 40A of Division 1 of Part 2. | Section 145A(8) of this Ordinance. (Added 6 of 2014 s. 54)
+- 2B. | A specified decision set out in item 4F of Division 1 of Part 2. | Section 101J(8) of this Ordinance. (Added 6 of 2014 s. 54)
 
-9. | A specified decision set out in item 42 of Division 1 of Part 2. | Section 146(9) of this Ordinance.
+- 3. | A specified decision set out in item 17 of Division 1 of Part 2. | Section 116(7) of this Ordinance.
 
-10. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
+- 4. | A specified decision set out in item 19 of Division 1 of Part 2. | Section 117(4) of this Ordinance.
 
-11. | A specified decision set out in item 44 of Division 1 of Part 2. | Section 147(7) of this Ordinance.
+- 5. | A specified decision set out in item 21 of Division 1 of Part 2. | Section 119(6) of this Ordinance.
 
-12. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
+- 6. | A specified decision set out in item 24 of Division 1 of Part 2. | Section 120(8) of this Ordinance.
 
-13. | A specified decision set out in item 61 of Division 1 of Part 2. | Section 203(3) of this Ordinance.
+- 7. | A specified decision set out in item 27 of Division 1 of Part 2. | Section 121(6) of this Ordinance.
 
-14. | A specified decision set out in item 62, 63, 64 or 65 of Division 1 of Part 2. | Section 209(1) of this Ordinance.
+- 8. | A specified decision set out in item 36 of Division 1 of Part 2. | Section 132(4) of this Ordinance.
 
-15. | A specified decision set out in item 6 of Division 2 of Part 2. | Section 71E(4) of the Banking Ordinance (Cap. 155).
+- 8A. | A specified decision set out in item 40A of Division 1 of Part 2. | Section 145A(8) of this Ordinance. (Added 6 of 2014 s. 54)
 
-16. | A specified decision set out in item 73 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
+- 9. | A specified decision set out in item 42 of Division 1 of Part 2. | Section 146(9) of this Ordinance.
 
-17. | A specified decision set out in item 74 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
+- 10. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
 
-(Format changes—E.R. 1 of 2013)
+- 11. | A specified decision set out in item 44 of Division 1 of Part 2. | Section 147(7) of this Ordinance.
+
+- 12. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
+
+- 13. | A specified decision set out in item 61 of Division 1 of Part 2. | Section 203(3) of this Ordinance.
+
+- 14. | A specified decision set out in item 62, 63, 64 or 65 of Division 1 of Part 2. | Section 209(1) of this Ordinance.
+
+- 15. | A specified decision set out in item 6 of Division 2 of Part 2. | Section 71E(4) of the Banking Ordinance (Cap. 155).
+
+- 16. | A specified decision set out in item 73 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
+
+- 17. | A specified decision set out in item 74 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)

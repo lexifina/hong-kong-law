@@ -4,6 +4,8 @@
 
 Interpretation and General Provisions
 
+(Format changes—E.R. 2 of 2012)
+
 - Part 1 Interpretation
 
   - 1. Interpretation of this Ordinance In this Ordinance, unless otherwise defined or excluded or the context otherwise requires—
@@ -127,6 +129,8 @@ Interpretation and General Provisions
       - (c) who guarantees the settlement of any such transactions as are referred to in paragraph (a) or (b),
 
     - but does not include a corporation operated by or on behalf of the Government;
+
+    - clearing obligation (結算責任) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
 
     - clearing participant (結算所參與者) means a person—
 
@@ -500,7 +504,7 @@ Interpretation and General Provisions
 
     - Mandatory Provident Fund Schemes Authority (積金局) means the Mandatory Provident Fund Schemes Authority established under section 6 of the Mandatory Provident Fund Schemes Ordinance (Cap. 485);
 
-    - #market contract (市場合約) means—
+    - market contract (市場合約) means—
 
       - (a) a contract that is subject to the rules of a recognized clearing house and entered into by the clearing house with a clearing participant, whether or not pursuant to a novation, for the purpose of the clearing and settlement of a transaction in securities or futures contracts that is—
 
@@ -510,7 +514,7 @@ Interpretation and General Provisions
 
       - (b) a contract that is subject to the rules of a recognized clearing house and entered into by the clearing house with a clearing participant, whether or not pursuant to a novation, for the purpose of the clearing and settlement of an OTC derivative transaction; or
 
-      - (c) a contract that is—
+      - #(c) a contract that is—
 
         - (i) subject to the rules of a designated CCP (as defined by section 101A of this Ordinance) that is a provider of authorized automated trading services and specified by the Commission by notice published in the Gazette under section 1C; and
 
@@ -692,7 +696,7 @@ Interpretation and General Provisions
 
     - record keeping obligation (備存紀錄責任) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
 
-    - registered (註冊) means registered under section 119 of this Ordinance, and “registration” (註冊) shall be construed accordingly;
+    - registered (註冊) means registered under section 119 of this Ordinance, and registration (註冊) shall be construed accordingly;
 
     - registered institution (註冊機構) means an authorized financial institution which is registered under section 119 of this Ordinance;
 
@@ -702,13 +706,13 @@ Interpretation and General Provisions
 
     - regulated investment agreement (受規管投資協議) means an agreement the purpose or effect, or pretended purpose or effect, of which is to provide, whether conditionally or unconditionally, to any party to the agreement a profit, income or other returns calculated by reference to changes in the value of any property, but does not include an interest in a collective investment scheme;
 
-    - relevant Ordinance (《有關條例》) means the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date* of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622); (Added 28 of 2012 ss. 912 & 920)
+    - relevant Ordinance (《有關條例》) means the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date## of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622); (Added 28 of 2012 ss. 912 & 920)
 
     - relevant provisions (有關條文) means the provisions of—
 
       - (a) this Ordinance;
 
-      - (b) Parts II and XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), so far as those Parts relate, directly or indirectly, to the performance of functions relating to prospectuses, whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance; (Added 15 of 2011 s. 91. Amended 28 of 2012 ss. 912 & 920)
+      - (b) Parts II and XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), so far as those Parts relate, directly or indirectly, to the performance of functions relating to prospectuses, whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance; ( Amended 28 of 2012 ss. 912 & 920)
 
       - (ba) Part 5 of the Companies Ordinance (Cap. 622), so far as that Part relates, directly or indirectly, to the performance of functions relating to—
 
@@ -822,7 +826,7 @@ Interpretation and General Provisions
 
       - (g) a structured product that does not come within any of paragraphs (a) to (f) but in respect of which the issue of any advertisement, invitation or document that is or contains an invitation to the public to do any act referred to in section 103(1)(a) of this Ordinance is authorized, or required to be authorized, under section 105(1) of this Ordinance, (Added 8 of 2011 s. 14)
 
-      - but does not include—
+    - but does not include—
 
       - (i) shares or debentures of a company that is a private company within the meaning of section 11 of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
@@ -950,7 +954,15 @@ Interpretation and General Provisions
 
   - (Amended 23 of 2004 s. 56; 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
 
-- §Commencement date: 13 November 2015.
+  - Editorial Note:
+
+  - # Not yet commenced.
+
+  - Editorial Note:
+
+  - § Commencement date: 13 November 2015.
+
+  - ## Commencement date : 3 March 2014.
 
   - 1A. Meaning of structured product
 
@@ -1046,15 +1058,17 @@ Interpretation and General Provisions
 
     - (3) An OTC derivative product also includes a product prescribed by notice under section 392(1)(a)(vii) of this Ordinance as a product that is to be regarded as an OTC derivative product in accordance with the notice.
 
-    - (4) In this section— spot contract (現貨合約) means a contract for the sale of any type or combination of types of securities, commodity, index, property, interest rate or currency exchange rate under the terms of which the settlement of the contract is scheduled to be made within the longest of the following periods—
+    - (4) In this section—
 
-      - (a) if the contract is—
+      - spot contract (現貨合約) means a contract for the sale of any type or combination of types of securities, commodity, index, property, interest rate or currency exchange rate under the terms of which the settlement of the contract is scheduled to be made within the longest of the following periods—
 
-        - (i) entered into in Hong Kong, 2 business days after the date of entering into the contract; or
+        - (a) if the contract is—
 
-        - (ii) settled outside Hong Kong, 2 days on which each settlement facility necessary to settle the transaction is open for business, after the date of entering into the contract;
+          - (i) entered into in Hong Kong, 2 business days after the date of entering into the contract; or
 
-      - (b) the period generally accepted in the market for that type or combination of types of securities, commodity, index, property, interest rate or currency exchange rate as the standard delivery period.
+          - (ii) settled outside Hong Kong, 2 days on which each settlement facility necessary to settle the transaction is open for business, after the date of entering into the contract;
+
+        - (b) the period generally accepted in the market for that type or combination of types of securities, commodity, index, property, interest rate or currency exchange rate as the standard delivery period.
 
   - (Added 6 of 2014 s. 52)
 
@@ -1264,7 +1278,7 @@ Interpretation and General Provisions
 
   - 33. Tokyo Stock Exchange, Inc.
 
-  - 34. Zhengzhou Commodity Exchange (Replaced L.N. 94 of 2012)
+  - 34. Zhengzhou Commodity Exchange (Part 2 Replaced L.N. 94 of 2012)
 
 - Part 3 Specified Stock Exchanges
 
@@ -1330,7 +1344,7 @@ Interpretation and General Provisions
 
   - 31. TSX Inc.
 
-  - 32. Wiener Börse AG (Replaced L.N. 94 of 2012)
+  - 32. Wiener Börse AG (Part 3 Replaced L.N. 94 of 2012)
 
 - Part 4 Multilateral Agencies
 
@@ -1364,10 +1378,4 @@ Interpretation and General Provisions
 
     - (b) A-3 or above for short term debt.
 
-  - (Amended E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)
-
-Editorial Note:
-
-- * Commencement date : 3 March 2014.
-
-- # The amendment to Schedule 1, Part 1, section 1 by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) has come into operation on 10 July 2015, in so far as it relates to paragraphs (a) and (b) of the new definition of market contract. Please see paragraph (t) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2015 (L.N. 95 of 2015).
+  - (Amended E.R. 2 of 2012)
