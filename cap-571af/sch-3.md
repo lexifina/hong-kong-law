@@ -1,4 +1,4 @@
-# Schedule 3
+# SCHEDULE 3
 
 [ss. 10 & 11 & Sch. 1]
 
@@ -11,6 +11,10 @@ Fees relating to Part III of Ordinance
 1. | Prescribed application fee payable under section 96(1)(b) of the Ordinance on an application for authorization to provide automated trading services | $10,000
 
 2. | Prescribed fee payable under section 99(5)(b) of the Ordinance for a copy of an entry in or extract of a register maintained under section 99 of the Ordinance | $9 per page
+
+Fees relating to Part IIIA of Ordinance
+
+2A. | Prescribed fee payable under section 101J(1) of the Ordinance on an application for designation as a central counterparty (L.N. 32 of 2016) | $10,000
 
 Fees relating to Part V of Ordinance
 

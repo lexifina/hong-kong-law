@@ -4,21 +4,29 @@
 
 Fees Prescribed for Purposes of Section 395(1)(a)(i), (iii) and (iv) of Ordinance
 
+(Format changes—E.R. 1 of 2013)
+
 Item | Description | Amount
 
 Fees relating to Part III of Ordinance
 
 1. | Annual fee payable in respect of authorization of the provision of automated trading services under section 95(2) of the Ordinance | $10,000
 
+Fees relating to Part IIIA of Ordinance
+
+1A. | Annual fee payable in respect of designation as a central counterparty under section 101J(1)(a) of the Ordinance (L.N. 32 of 2016) | $10,000
+
 Fees relating to Part IV of Ordinance
 
 2. | Fee payable on an application under section 104(1) of the Ordinance for—
 
-(a) | authorization of a collective investment scheme— | $40,000, plus $5,000 for each such fund (excluding any such fund which is already within or maintained by another collective investment scheme which has been authorized under section 104 of the Ordinance)
+(a) | authorization of a collective investment scheme— | $40,000, plus $5,000 for each such fund (excluding any such fund which is already within or maintained by another collective
 
 (i) | within which there is, or could be, more than one fund; or
 
 (ii) | which maintains, or is capable of maintaining, more than one fund
+
+investment scheme which has been authorized under section 104 of the Ordinance)
 
 (b) | authorization of any other collective investment scheme | $20,000
 
@@ -127,5 +135,3 @@ Miscellaneous fees
 (f) | in the case of any other prospectus | $30,000
 
 22. | Fee payable for a copy of a document provided by the Commission in the performance of a function under any of the relevant provisions for which no fee is otherwise prescribed in this Schedule | $9 per page
-
-(Format changes—E.R. 1 of 2013)
