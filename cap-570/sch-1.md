@@ -26,6 +26,10 @@ Country Parks and Special Areas Regulations (Cap. 208 sub. leg. A)
 
 Summary Offences Ordinance (Cap. 228)
 
+6A. | Section 4A | Obstruction of public places | $1,500
+
+(Added 4 of 2016 s. 4)
+
 7. | Section 4D(1) | Marine littering | $1,500
 
 Waste Disposal Ordinance (Cap. 354)
