@@ -20,17 +20,25 @@ Standards
 
   - “Safety of toys—Part 4: Swings, slides and similar activity toys for indoor and outdoor family domestic use” (Replaced L.N. 17 of 2015)
 
+  - (cb) ISO 8124-5:2015
+
+  - “Safety of toys—Part 5: Determination of total concentration of certain elements in toys” (Added L.N. 7 of 2016)
+
   - (d) IEC 62115 Edition 1.2
 
   - (2011-02) [IEC 62115 Edition 1:2003 consolidated with amendment 1:2004 and amendment 2:2010] “Electric Toys—Safety” (Replaced 26 of 2012 s. 15)
 
 - 2. European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
 
-  - (a) BS EN 71-1:2011 + A3:2014 “Safety of toys—Part 1: Mechanical and physical properties”
+  - (a) BS EN 71-1:2014
+
+  - “Safety of toys—Part 1: Mechanical and physical properties”
 
   - (b) BS EN 71-2:2011 + A1:2014 “Safety of toys—Part 2: Flammability”
 
-  - (c) BS EN 71-3:2013 “Safety of toys—Part 3: Migration of certain elements”
+  - (c) BS EN 71-3:2013 + A1:2014
+
+  - “Safety of toys—Part 3: Migration of certain elements”
 
   - (d) BS EN 71-4:2013 “Safety of toys—Part 4: Experimental sets for chemistry and related activities”
 
@@ -46,10 +54,14 @@ Standards
 
   - “Safety of toys—Part 12: N-Nitrosamines and N-nitrosatable substances” (Added L.N. 17 of 2015)
 
+  - (hb) BS EN 71-14:2014
+
+  - “Safety of toys—Part 14: Trampolines for domestic use” (Added L.N. 7 of 2016)
+
   - (i) BS EN 62115:2005 + A11:2012 “Electric toys—Safety”
 
 - 3. ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in—
 
 - ASTM F963-11 “Standard consumer safety specification for toy safety”
 
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015) (Format changes—E.R. 2 of 2012)
+(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016) (Format changes—E.R. 2 of 2012)

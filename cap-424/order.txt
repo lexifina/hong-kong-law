@@ -39,5 +39,5 @@ s-034.md
 s-035.md
 s-036.md
 s-037.md
-sch-0.md
+sch-1.md
 sch-2.md
