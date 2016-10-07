@@ -110,6 +110,8 @@ Poisons List
 
     - Alglucosidase alfa
 
+    - Alirocumab
+
     - Aliskiren; its salts; its esters; their salts
 
     - Alizapride; its salts
@@ -414,6 +416,8 @@ Poisons List
 
     - Becaplermin; its salts
 
+    - Bedaquiline; its salts
+
     - Befunolol; its salts
 
     - Belimumab
@@ -701,6 +705,8 @@ Poisons List
     - Clozapine; its salts
 
     - Cobicistat; its salts
+
+    - Cobimetinib; its salts
 
     - Colaspase
 
@@ -1344,6 +1350,8 @@ Poisons List
 
     - Ibuprofen; its salts
 
+    - Idarucizumab
+
     - Idelalisib; its salts
 
     - Idursulfase
@@ -1521,6 +1529,8 @@ Poisons List
     - Loxapine; its salts
 
     - Lumefantrine; its salts
+
+    - Lurasidone; its salts
 
     - Lysergamide; its salts, simple or complex; its quaternary compounds
 
@@ -1934,6 +1944,8 @@ Poisons List
 
     - Panitumumab
 
+    - Panobinostat; its salts
+
     - Pantethine; its salts
 
     - Pantoprazole; its salts
@@ -2312,6 +2324,8 @@ Poisons List
 
     - Ruxolitinib; its salts
 
+    - Sacubitril; its salts
+
     - Salbutamol; its salts
 
     - Salmeterol; its salts
@@ -2339,6 +2353,8 @@ Poisons List
     - Sildenafil; its salts; any compound containing the chemical structure of 5-(2-ethoxyphenyl)-1-methyl-3-propyl-1H-pyrazolo[4,3-d]pyrimidin-7(6H)-one substituted to any degree or without substitution; its salts
 
     - Siltuximab
+
+    - Simeprevir; its salts
 
     - Simvastatin
 
@@ -2718,7 +2734,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016)
 
     - Division B
 
