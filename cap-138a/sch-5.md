@@ -6,7 +6,7 @@
 
 Texts Prescribed by Regulation 15 for Purposes of Section 27(c) or (ca)
 
-(2 of 2015 s. 68)
+(2 of 2015 s. 68) (Format changes—E.R. 1 of 2016)
 
 - 1. To be labelled with the text “Caution. It is dangerous to take this preparation except under medical supervision.” 「注意：非經醫生指示，服食此藥有危險。」——
 
@@ -70,10 +70,10 @@ Texts Prescribed by Regulation 15 for Purposes of Section 27(c) or (ca)
 
 - 12. To be labelled with the text “Prescription Drug 處方藥物”—
 
-  - Medicine containing a poison included in the Third Schedule (2 of 2015 s. 68)
+  - Medicine containing a poison included in Schedule 3 (2 of 2015 s. 68; E.R. 1 of 2016)
 
 - 13. To be labelled with the text “Drug under Supervised Sales 監督售賣藥物”—
 
-  - Medicine containing a poison included in Part I of the Poisons List but not containing a poison included in the Third Schedule (2 of 2015 s. 68)
+  - Medicine containing a poison included in Part 1 of the Poisons List but not containing a poison included in Schedule 3 (2 of 2015 s. 68; E.R. 1 of 2016)
 
 (2 of 2015 s. 68)

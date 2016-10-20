@@ -1,5 +1,7 @@
 Merchant Shipping (Prevention of Air Pollution) Regulation
 
-(Made by the Secretary for Transport and Housing under section 3 of the Merchant Shipping (Prevention and Control of Pollution) Ordinance (Cap. 413))
+(Cap. 413, section 3)
+
+(Enacting provision omitted—E.R. 1 of 2016)
 
 [1 July 2016]

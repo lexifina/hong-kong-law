@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 10]
 
-PROVISION WITH RESPECT TO MEETINGS AND PROCEDURES OF THE COUNCIL
+Provision with Respect to Meetings and Procedures of the Council
 
 - 1. Meetings of the Council shall be held at such times and places as may be appointed by the person for the time being acting as Chairman, who shall preside at all such meetings.
 
