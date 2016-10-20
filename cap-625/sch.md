@@ -1,7 +1,3 @@
-“74. | Electronic Health Record Sharing System Ordinance (15 of 2015) | A decision of the Commissioner for the Electronic Health Record— (a) to refuse to register a healthcare recipient under section 8(1); (b) to suspend the registration of a healthcare recipient under section 10(1); (c) to cancel the registration of a healthcare recipient under section 11(1); (d) to refuse to register a healthcare provider as a healthcare provider for the Electronic Health Record Sharing System under section 20(1); (e) to suspend a registration of a registered healthcare provider under section 24(1); (f) to cancel a registration of a registered healthcare provider under section 25(1).”.
-
-(Amended E.R. 3 of 2015)
-
 # Schedule
 
 [ss. 2 & 61]
