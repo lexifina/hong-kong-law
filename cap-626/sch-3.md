@@ -4,8 +4,6 @@
 
 Property Management Services Authority
 
-(Not yet in operation)
-
 - Part 1 Interpretation
 
   - 1. Interpretation In this Schedule—

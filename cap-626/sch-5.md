@@ -4,11 +4,7 @@
 
 Related Amendments
 
-(Not yet in operation)
-
 - Part 1 Amendment to Prevention of Bribery Ordinance (Cap. 201)
-
-- (Not yet in operation)
 
   - 1. Schedule 1 amended (public bodies) Schedule 1— Add
 

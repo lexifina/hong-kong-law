@@ -3,5 +3,3 @@ An Ordinance to establish a Property Management Services Authority; to provide f
 [24 October 2016]
 
 Enacted by the Legislative Council.
-
-(Not yet in operation)
