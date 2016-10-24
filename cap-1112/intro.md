@@ -1,8 +1,8 @@
 (Adaptation amendments retroactively made - see 4 of 2000 s. 3)
 
-To give statutory recognition to and to regulate the provision of permanent cemeteries for persons of Chinese race permanently resident in Hong Kong and to provide for the proper maintenance and administration thereof, and for purposes connected therewith.
+To give statutory recognition to and to regulate the provision of permanent cemeteries for persons of Chinese race permanently resident in Hong Kong and their relatives, and to provide for the proper maintenance and administration thereof, and for purposes connected therewith.
 
-(Amended 4 of 2000 s. 3)
+(Amended 4 of 2000 s. 3; 11 of 2016 s. 3)
 
 [4 December 1964]
 
@@ -18,4 +18,8 @@ Preamble Whereas—
 
 - (e) all of the said pieces of land are now used exclusively as cemeteries and burial grounds for persons of the Chinese race permanently resident in Hong Kong; (Amended 31 of 1994 s. 5)
 
-- (f) it is considered desirable that the said former Board be dissolved and replaced by a body corporate having perpetual succession and full powers to provide, administer and manage cemeteries and burial grounds for such persons of the Chinese race:
+- (f) it is considered desirable that the said former Board be dissolved and replaced by a body corporate having perpetual succession and full powers to provide, administer and manage cemeteries and burial grounds for such persons of the Chinese race; (Amended 11 of 2016 s. 4)
+
+- (g) subsequent to the events mentioned in paragraphs (a), (d) and (f), the pieces or parcels of land referred to in paragraphs (a) and (d) and other pieces or parcels of land were appropriated or granted to the Board established under section 3 (Board) for use as cemeteries; (Added 11 of 2016 s. 4)
+
+- (h) after modifications to the documents effecting the appropriation or grant of all of the pieces or parcels of land appropriated or granted to the Board, all those pieces or parcels of land are now permitted to be used in accordance with this Ordinance and the rules made under it: (Added 11 of 2016 s. 4)

@@ -1,6 +1,8 @@
 # FIRST SCHEDULE
 
-[rule 2]
+[rules 2 & 3]
+
+(11 of 2016 s. 32)
 
 Cemeteries
 
