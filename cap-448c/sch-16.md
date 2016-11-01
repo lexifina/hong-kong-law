@@ -1,12 +1,16 @@
-# Schedule 16 The Air Navigation (Dangerous Goods) Regulations
+# Schedule 16
 
-- Article 44
+Article 44
+
+The Air Navigation (Dangerous Goods) Regulations
+
+(Format changes—E.R. 1 of 2012)
 
   - 1. Citation These Regulations may be cited as the Air Navigation (Dangerous Goods) Regulations.
 
   - 2. Interpretation
 
-    - (1) In these Regulations:—
+    - (1) In these Regulations—
 
       - appropriate authority means any authority designated, or otherwise recognized by a State concerned to perform specific functions related to provisions contained in the Technical Instructions; (L.N. 179 of 1999)
 
@@ -32,7 +36,7 @@
 
       - States concerned has the same meaning as it has in Chapter 1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011; L.N. 182 of 2013)
 
-      - Technical Instructions* means the 2013–2014 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013)
+      - Technical Instructions* means the 2015–2016 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016)
 
       - unit load device means any type of freight container including any container designed for loading on an aircraft.
 
@@ -74,6 +78,8 @@
 
       - (i) of a type specified in Chapter 2.2.1 of Part 1 of the Technical Instructions;
 
+      - (ia) of a type specified in Chapter 2.6 of Part 1 of the Technical Instructions; (L.N. 92 of 2016)
+
       - (j) of a type specified in Table 8–1 of Part 8 of the Technical Instructions. (L.N. 195 of 2007; L.N. 182 of 2013)
 
     - (3A)-(3F) (Repealed L.N. 140 of 2011)
@@ -102,7 +108,9 @@
 
   - 6. Operator’s responsibilities
 
-    - (1A) The operator of an aircraft shall not accept for transport aboard the aircraft any package or unit load device containing dangerous goods unless the operator has verified the matters set out in Chapter 1.3.1 of Part 7 of the Technical Instructions by an acceptance check list. (L.N. 193 of 2009)
+    - (1A) The operator of an aircraft must not accept for carriage by the aircraft any package or unit load device containing dangerous goods unless the operator has verified the matters set out in Chapter 1.3.1 of Part 7 of the Technical Instructions by an acceptance check list. (L.N. 193 of 2009; L.N. 92 of 2016)
+
+    - (1B) However, paragraph (1A) does not apply in relation to a package or unit load device that was carried by air to Hong Kong for further carriage by air to a place outside Hong Kong. (L.N. 92 of 2016)
 
     - (1) The operator of an aircraft in which any package or unit load device containing dangerous goods is to be carried shall satisfy himself by making an inspection:
 
@@ -240,4 +248,4 @@
 
 Editorial Note:
 
-* The English and Chinese texts of the 2013–2014 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
+* The English and Chinese texts of the 2015–2016 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
