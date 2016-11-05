@@ -1,6 +1,6 @@
 # First Schedule
 
-[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70 & 71 & 2nd Sch. & Schs. 7, 8 & 9] (Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26) (Format changes—E.R. 1 of 2015)
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71 & 72 & 2nd Sch. & Schs. 7, 8 & 9] (Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 2 of 2018 s. 11) (Format changes—E.R. 1 of 2015)
 
 Nature of Instrument | (A) (B) (C) | Stamp Duty Time for stamping Persons liable
 
@@ -12,7 +12,15 @@ See LEASE and section 16 (Amended 14 of 2014 s. 28)
 
 (1) | CONVEYANCE ON SALE CHARGEABLE WITH AD VALOREM STAMP DUTY (Amended 14 of 2014 s. 28)
 
-SCALE 1—
+SCALE 1— (Amended 2 of 2018 s. 11)
+
+Part 1 (Added 2 of 2018 s. 11) | (A) | 15% of the amount or value of the consideration
+
+(B) | 30 days after the execution; but see Note 2 to this sub-head
+
+(C) | All parties, and all other persons executing; but see Notes 2 and 7 to this sub-head
+
+Part 2 (Added 2 of 2018 s. 11)
 
 (a) | if the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A) | (a) | 1.5% of the amount or value of the consideration
 
@@ -110,7 +118,7 @@ Note 7
 
 This sub-head is subject to sections 29DE, 29DF, 29DG and 29DH (Added 14 of 2014 s. 28)
 
-Exchange, Instruments effecting—see sections 25(7), 29AO and 29AP (Replaced 14 of 2014 s. 28)
+Exchange, Instruments effecting—see sections 25(7), 29AIA, 29AO and 29AP (Replaced 2 of 2018 s. 11)
 
 (1AA) | CONVEYANCE ON SALE CHARGEABLE WITH SPECIAL STAMP DUTY
 
@@ -166,7 +174,15 @@ This sub-head is subject to sections 29D, 29DB and 29DC (Added 2 of 2014 s. 20)
 
 (1A) | AGREEMENT FOR SALE CHARGEABLE WITH AD VALOREM STAMP DUTY (Amended 14 of 2014 s. 28)
 
-SCALE 1—
+SCALE 1— (Amended 2 of 2018 s. 11)
+
+Part 1 (Added 2 of 2018 s. 11) | (A) | 15% of the amount or value of the consideration
+
+(B) | 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head
+
+(C) | All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects that party, and all other persons executing; but see Note 7 to this sub-head
+
+Part 2 (Added 2 of 2018 s. 11)
 
 (a) | if the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A) | (a) | 1.5% of the amount or value of the consideration
 
