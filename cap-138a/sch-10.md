@@ -100,6 +100,8 @@ Poisons List
 
     - Aldesleukin
 
+    - Alectinib; its salts
+
     - Alefacept
 
     - Alemtuzumab
@@ -358,6 +360,8 @@ Poisons List
 
     - Apraclonidine; its salts
 
+    - Apremilast; its salts
+
     - Aprepitant; its salts
 
     - Aprindine; its salts
@@ -583,6 +587,8 @@ Poisons List
     - Carbromal
 
     - Carbutamide
+
+    - Carfilzomib; its salts
 
     - Carisoprodol
 
@@ -1011,6 +1017,8 @@ Poisons List
     - Eletriptan; its salts
 
     - Elosulfase alfa
+
+    - Elotuzumab
 
     - Eltrombopag; its salts; its esters; their salts
 
@@ -1896,6 +1904,8 @@ Poisons List
 
     - Oseltamivir; its salts
 
+    - Osimertinib; its salts
+
     - Oteracil; its salts
 
     - Ouabain
@@ -1931,6 +1941,8 @@ Poisons List
     - Oxytocins
 
     - Paclitaxel
+
+    - Palbociclib; its salts
 
     - Paliperidone; its salts
 
@@ -2734,7 +2746,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016)
 
     - Division B
 
