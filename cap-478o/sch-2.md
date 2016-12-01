@@ -1,25 +1,41 @@
-# SCHEDULE 2
+# Schedule 2
 
-[ss. 6(1), 7, 11(5) & 17]
+[ss. 5, 6, 11 & 17]
 
-MEDICAL FITNESS CERTIFICATE
+Contents of Medical Fitness Certificate
 
-MERCHANT SHIPPING (SEAFARERS) (MEDICAL EXAMINATION) REGULATION
+- 1. The following particulars of the holder of the medical fitness certificate—
 
-- PART A I, (doctor’s name) ., being a medical practitioner approved by the Seafarers’ Authority for the medical examination of seafarers, have today examined (seafarer’s name) . Date of Birth . Place of Birth . *Discharge Book/Seaman’s Service Record Book/Seafarer’s Employment Registration Book No. .OR (where Discharge Book or Seaman’s Service Record Book or Seafarer’s Employment Registration Book not held) Passport or other Travel Document No. . and have found him fit for employment as (capacity) . . on board (type of Ship) . to the medical and non-colour visual standards specified in Schedule 1 to the Merchant Shipping (Seafarers) (Medical Examination) Regulation, subject to the restriction detailed below* Restriction (if any) .
+  - (a) name;
 
-- .
+  - (b) date of birth;
 
-- Period of restriction .
+  - (c) gender;
 
-- Date of examination .
+  - (d) nationality.
 
-- Period of validity of certificate . . Approved medical practitioner. . Office Stamp
+- 2. A declaration by the issuer of the medical fitness certificate that the identification documents of the holder of the certificate have been checked at the point of the medical examination.
 
-- PART B The above-named seafarer has satisfied the requirements of the Regulation in respect of colour visual standards, for the following type of sea service. . *Approved medical practitioner/
+- 3. A declaration by the issuer of the medical fitness certificate on whether the holder of the certificate is fit for sea service, and in particular, whether—
 
-- Superintendent, Mercantile
+  - (a) the holder’s hearing meets the standards specified in Appendix B to the Guidelines;
 
-- Marine Office. . Office Stamp Dated .
+  - (b) the holder’s unaided hearing is satisfactory;
 
-- * Delete if inapplicable. Note: Section 7(3) of the Merchant Shipping (Seafarers) (Medical Examination) Regulation reads as follows— “A medical fitness certificate completed in respect of Part A only shall not constitute a valid medical fitness certificate for the purpose of this Regulation other than for a type of seagoing employment in which colour visual standards do not require to be tested.”.
+  - (c) the holder’s visual acuity meets the standards specified in Appendix A to the Guidelines;
+
+  - (d) the holder’s colour vision meets the standards specified in Appendix A to the Guidelines;
+
+  - (e) the holder is fit for lookout duties;
+
+  - (f) there is any limitation or restriction on the holder’s fitness and, if so, the limitation or restriction; and
+
+  - (g) the holder is free from any medical condition likely to be aggravated by sea service or to render the holder unfit for the service or to endanger the health of other persons on board.
+
+- 4. The date of the medical examination.
+
+- 5. The expiry date of the medical fitness certificate.
+
+- 6. The name of the issuer of the medical fitness certificate and the place where the issuer is qualified to practise medicine.
+
+(Schedule 2 replaced L.N. 74 of 2016)
