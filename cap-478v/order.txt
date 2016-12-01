@@ -3,10 +3,15 @@ s-001.md
 s-002.md
 s-003.md
 s-004.md
+s-004A.md
+s-004B.md
+s-004C.md
 s-005.md
 s-005A.md
 s-006.md
+s-006A.md
 s-007.md
+s-007A.md
 s-008.md
 sch-1.md
 sch-2.md
