@@ -108,17 +108,25 @@ Item | Ordinance | Decision
 
 52. | Merchant Shipping (Seafarers) Ordinance (Cap. 478) | A decision of the Superintendent of the Mercantile Marine Office— (a) to refuse to grant a permit; (b) to impose any condition under section 52(3); (c) to refuse to approve any person for the purposes of section 57(1); or (d) to cancel a permit. (Added 23 of 2002 s. 14)
 
-53. | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | A decision of the Seafarers’ Authority under section 8(2) or 10(2) to refuse to issue a certificate or licence. (Added 23 of 2002 s. 14)
+53. | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | A decision of the Seafarers’ Authority— (L.N. 143 of 2016) (a)to refuse to issue or renew a certificate of competency under section 7B; or (b)to refuse to issue a licence under section 10(2). (Added 23 of 2002 s. 14; L.N. 143 of 2016)
 
 54. | Merchant Shipping (Seafarers) (Tankers-Officers and Ratings) Regulation (Cap. 478 sub. leg. K) | A decision of the Seafarers’ Authority to refuse to make an entry referred to in section 5(2) or (3) in an employment registration book, service record book or discharge book. (Added 23 of 2002 s. 14)
 
-55. | Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg. V) | A decision of the Seafarers’ Authority to refuse to issue an Engine Room Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
+55. | Merchant Shipping (Seafarers) (Engine Room Watch Ratings and Electro-technical Ratings) Regulation (Cap. 478 sub. leg. V) | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 4A. (Added 23 of 2002 s. 14. Amended L.N. 143 of 2016)
 
 56. | Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg. W) | A decision of the Seafarers’ Authority to refuse to issue a Navigational Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
 
 57. | Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg. Y) | A decision of the Seafarers’ Authority— (a) under section 6(3) to refuse an application for the grant of a certificate of competency as A.B.; or (b) under section 10 (whether to confirm, vary or reverse the decision concerned of the examiner or to substitute another decision for that decision). (Added 23 of 2002 s. 14)
 
 58. | Merchant Shipping (Seafarers) (Certificates of Proficiency in Survival Craft, Rescue Boats and Fast Rescue Boats) Rules (Cap. 478 sub. leg. Z) | A decision of the Seafarers’ Authority— (a) to refuse to issue a certificate of proficiency in survival craft and rescue boats under section 4; (b) to refuse to issue a certificate of proficiency in fast rescue boats under section 4A; or (c) to cancel a certificate of proficiency in survival craft and rescue boats or a certificate of proficiency in fast rescue boats under section 7(2). (Added 23 of 2002 s. 14)
+
+58B. | Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 9. (Added L.N. 143 of 2016)
+
+58C. | Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 8. (Added L.N. 143 of 2016)
+
+58D. | Merchant Shipping (Seafarers) (Navigational Watch) Regulation | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 6. (Added L.N. 143 of 2016)
+
+58E. | Merchant Shipping (Seafarers) (Tankers) Regulation | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency or an endorsement, or to refuse to renew an endorsement, under section 6. (Added L.N. 143 of 2016)
 
 59. | Marine Fish Culture Ordinance (Cap. 353) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to grant or renew a licence under section 8(6); (b) to refuse to approve the transfer of a licence under section 8A(3)(b); (c) to cancel a licence under section 9(1); (d) to refuse to grant a permit under section 14(1); (e) to cancel or refuse to renew a permit under section 14(2). (Added 10 of 2005 s. 230)
 
