@@ -4,8 +4,6 @@
 
 PERIODICAL AND ANNUAL SURVEYS
 
-PERIODICAL AND ANNUAL SURVEYS
-
 (L.N. 34 of 2000) In general the scope of the periodical and annual surveys shall be as follows— (L.N. 34 of 2000)
 
 - 1. It shall consist of—
@@ -22,11 +20,7 @@ PERIODICAL AND ANNUAL SURVEYS
 
 SURVEY
 
-- 1.
-
-- Examination of ship’s certificates
-
-- The examination of the ship’s certificates in general shall consist of checking—
+- 1. Examination of ship’s certificates The examination of the ship’s certificates in general shall consist of checking—
 
   - (a) the validity of the Cargo Ship Safety Construction Certificate, the Cargo Ship Safety Equipment Certificate, the Cargo Ship Safety Radio Certificate and Exemption Certificates; (L.N. 11 of 1992)
 
@@ -34,11 +28,7 @@ SURVEY
 
   - (c) the certificate of class if the ship is classed with a classification society.
 
-- 2.
-
-- Survey of the life-saving appliances and other equipment
-
-- The survey shall consist of—
+- 2. Survey of the life-saving appliances and other equipment The survey shall consist of—
 
   - (a) confirming that any new equipment has been properly approved before installation and that no changes have been made such as will affect the validity of the Cargo Ship Safety Equipment Certificate;
 
@@ -62,11 +52,7 @@ SURVEY
 
   - (k) a test of the emergency lighting and general alarm system.
 
-- 3.
-
-- Survey of the fire appliances
-
-- The survey shall consist of—
+- 3. Survey of the fire appliances The survey shall consist of—
 
   - (a) ascertaining whether or not any fire has occurred on board necessitating the operation of the fixed fire extinguishing systems, or the portable fire extinguishers since the last survey;
 
@@ -88,11 +74,7 @@ SURVEY
 
   - (j) confirming that the fireman’s outfits are complete and in good condition and that the cylinders of any required self-contained breathing apparatus are charged.
 
-- 4.
-
-- Survey of the navigational equipment
-
-- The survey shall consist of—
+- 4. Survey of the navigational equipment The survey shall consist of—
 
   - (a) checking that navigation lights, shapes, sound signalling equipment and daylight signalling lamps are in order;
 
@@ -102,17 +84,15 @@ SURVEY
 
   - (d) checking that pilot ladders, associated equipment and mechanical pilot hoists are in good condition and operational; and
 
-  - (e) checking that the nautical publications and charts are adequate for the ship’s intended trading programme and that they comply with the requirements of the Merchant Shipping (Safety) (Carriage of Nautical Publications) Regulations (Cap. 369 sub. leg. M).
+  - (e) checking that the nautical publications and charts are adequate for the ship’s intended trading programme and that they comply with the requirements of the Merchant Shipping (Safety) (Navigational Equipment and Safety of Navigation) Regulation. (L.N. 130 of 2016)
 
-- 5.
-
-- Additional survey for tankers
-
-- The survey shall consist of—
+- 5. Additional survey for tankers The survey shall consist of—
 
   - (a) an external examination of the piping of the cargo pumproom fixed fire-fighting system;
 
-  - (b) confirming that the deck foam system and deck sprinkler system are in satisfactory operating condition, and for the inert gas systems, when fitted, the survey shall consist of—
+  - (b) confirming that the deck foam system and deck sprinkler system are in satisfactory operating condition,
+
+- and for the inert gas systems, when fitted, the survey shall consist of—
 
   - (i) an external examination of the condition of all piping and components for signs of corrosion or gas leakage or effluent leakage;
 
