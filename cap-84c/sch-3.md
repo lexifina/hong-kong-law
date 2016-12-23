@@ -2,44 +2,46 @@
 
 [para. 6]
 
-Experience Required for the Classes of Pilotage and for Amendment of a Licence to a Higher Class of Pilotage
+Experience Required for Amendment of Licence to Higher Class of Pilotage
 
-Class of Pilotage | Experience required
+Column 1 | Column 2 | Column 3
 
-IID | (a) Pilotage of ships of not less than 107 metres and not more than 150 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise. (b) Berthing and unberthing of ships of not less than 107 metres and not more than 150 metres in length from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+Item | Class of pilotage | Experience required
 
-IIC | (a) A minimum of 12 months continuous experience in Class IID. (b) Pilotage of ships of not less than 150 metres and not more than 165 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise. (c) Berthing and unberthing of ships of not less than 150 metres and not more than 165 metres in length from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+1. | From IIF to IIE | (a) A minimum of 12 months continuous experience in Class IIF.
 
-IIB | (a) A minimum of 12 months continuous experience in Class IIC. (b) Pilotage of ships of not less than 165 metres and not more than 220 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise. (c) Berthing and unberthing of ships of not less than 165 metres and not more than 220 metres in length from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+(b) Pilotage of ships exceeding 107 metres and not exceeding 160 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise.
 
-IIA | (a) A minimum of 12 months continuous experience in Class IIB. (b) Pilotage of ships of not less than 220 metres and not more than 260 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise. (c) Berthing and unberthing of ships of not less than 220 metres and not more than 260 metres in length from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+(c) Berthing or unberthing of ships exceeding 107 metres and not exceeding 160 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
 
-I | A minimum of 12 months continuous experience in Class IIA.
+2. | From IIE to IID | (a) A minimum of 12 months continuous experience in Class IIE.
 
-(L.N. 118 of 1996)
+(b) Pilotage of ships exceeding 160 metres and not exceeding 180 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise.
 
-Editorial Note:
+(c) Berthing or unberthing of ships exceeding 160 metres and not exceeding 180 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
 
-- 1. Please see the transitional provisions contained in section 4 of the Pilotage (Amendment) Order 1996 (L.N. 118 of 1996) , which section is reproduced as follows— “4. Transitional provisions The Second and Third Schedules to the principal Order, as in force immediately before 9 April 1996, shall apply to a licensed pilot who was qualified to undertake a Class IIA, IIB or IIC pilotage, as specified in that Second Schedule as so in force, before that date as if section 3 of this Order had never been enacted.”.
+3. | From IID to IIC | (a) A minimum of 12 months continuous experience in Class IID.
 
-- 2. The Third Schedule, as in force immediately before 9 April 1996, is reproduced below—
+(b) Pilotage of ships exceeding 180 metres and not exceeding 210 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise.
 
-- “THIRD SCHEDULE | [paragraph 6]
+(c) Berthing or unberthing of ships exceeding 180 metres and not exceeding 210 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
 
-- EXPERIENCE REQUIRED FOR THE CLASSES OF
+4. | From IIC to IIB | (a) A minimum of 12 months continuous experience in Class IIC.
 
-- PILOTAGE AND FOR AMENDMENT OF A LICENCE
+(b) Pilotage of ships exceeding 210 metres and not exceeding 250 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise.
 
-- TO A HIGHER CLASS OF PILOTAGE
+(c) Berthing or unberthing of ships exceeding 210 metres and not exceeding 250 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
 
-- Class of Pilotage | Experience required
+5. | From IIB to IIA | (a) A minimum of 12 months continuous experience in Class IIB.
 
-- IIC | (a) Pilotage of ships of not less than 107 metres and not more than 153 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise; and (b) berthing or unberthing of ships of not less than 107 metres and not more than 153 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+(b) Pilotage of ships exceeding 250 metres and not exceeding 300 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise.
 
-- IIB | (a) A minimum of 12 months continuous experience in Class IIC; and (b) pilotage of ships of not less than 153 metres and not more than 168 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise; and (c) berthing or unberthing of ships of not less than 153 metres and not more than 168 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+(c) Berthing or unberthing of ships exceeding 250 metres and not exceeding 300 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
 
-- IIA | (a) A minimum of 12 months continuous experience in Class IIB; and (b) pilotage of ships of not less than 168 metres and not more than 229 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise; and (c) berthing or unberthing of ships of not less than 168 metres and not more than 229 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+6. | From IIA to I | (a) A minimum of 12 months continuous experience in Class IIA.
 
-- I | A minimum of 12 months continuous experience in Class IIA.
+(b) Pilotage of ships exceeding 300 metres and not exceeding 350 metres in length to or from buoys or anchorages on at least 10 occasions, of which at least 5 must commence during the hours between sunset and sunrise.
 
-- (L.N. 431 of 1984)”.
+(c) Berthing or unberthing of ships exceeding 300 metres and not exceeding 350 metres in length to or from wharves, berths, docks or piers on at least 20 occasions, of which at least 10 must commence during the hours between sunset and sunrise.
+
+(Schedule 3 replaced L.N. 120 of 2016)
