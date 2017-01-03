@@ -1,6 +1,6 @@
 # Schedule 7
 
-[s. 40(1BE), section (1BF) & section (1BG)] (Amended E.R. 1 of 2013)
+[s. 40(1BE), (1BF) & (1BG)] (Amended E.R. 1 of 2013)
 
 Penalty Notice
 
@@ -70,7 +70,7 @@ Penalty Notice
 
 - 16. In proceedings under section 15 of this Schedule, if the court determines that the person is guilty of the offence of failing to comply with the notice served on the person under section 30C(3) or (4) without reasonable excuse, the person is liable to the fine and imprisonment under section 40(1BD).
 
-- 17. After proceedings have been instituted but not less than 2 days (excluding any public holiday) before the day specified in the summons for the person’s appearance, the person may pay the fixed penalty of $1,500 and a sum of $500 by way of costs with the production of the summons at any magistracy to terminate the proceedings.
+- 17. After proceedings have been instituted but not less than 2 days (excluding any Saturday and public holiday) before the day specified in the summons for the person’s appearance, the person may pay the fixed penalty of $1,500 and a sum of $500 by way of costs with the production of the summons at any magistracy to terminate the proceedings. (Amended 18 of 2016 s. 14)
 
 - 18. If a person’s failure to comply with the notice served on the person under section 30C(3) or (4) continues without reasonable excuse despite a penalty notice served under section 40(1BE), the Building Authority may—
 
@@ -78,4 +78,6 @@ Penalty Notice
 
   - (b) proceed to take court proceedings against the person under section 40(1BD).
 
-- 19. The decision of the Building Authority to serve a penalty notice under section 18 of this Schedule is not subject to appeal under section 44. (Schedule 7 added 16 of 2011 s. 37) (Format changes—E.R. 2 of 2012)
+- 19. The decision of the Building Authority to serve a penalty notice under section 18 of this Schedule is not subject to appeal under section 44.
+
+(Schedule 7 added 16 of 2011 s. 37) (Format changes—E.R. 2 of 2012)

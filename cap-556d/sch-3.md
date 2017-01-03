@@ -1,4 +1,4 @@
-# Schedule 3
+# SCHEDULE 3
 
 [ss. 1, 39, 40, 44 & 50]
 
@@ -18,7 +18,7 @@ Transaction no. _
 
 is alleged to have committed a contravention.
 
-Contravention Details:-
+Contravention Details:—
 
 Date _
 
@@ -56,129 +56,11 @@ PAYMENT INSTRUCTIONS
 
   - (a) By Post Addressed to the Director of Accounting Services, P.O. Box 8000, General Post Office, Hong Kong; or
 
-  - (b) Personally or By an Agent at any of the following offices:—
-
-Hong Kong Island
-
-- (i) The Treasury Headquarters, Collection and Payment Office, Immigration Tower, 1st floor, 7 Gloucester Road;
-
-- (ii) The Central Sub-Treasury, Central Government Offices, West Wing, 1st floor, 11 Ice House Street (side entrance to the building in Ice House Street);
-
-- (iii) The North Point Sub-Treasury, Max Share Centre, 1st floor, 373 King’s Road;
-
-- (iv) The Sai Wan Ho Sub-Treasury, Eastern Law Courts Building, Ground floor, 29 Tai On Street;
-
-- (v) The Western Magistracy, 2A Pok Fu Lam Road;
-
-- (vi) The Eastern Magistracy, Eastern Law Courts Building, 7th floor, 29 Tai On Street. Kowloon
-
-- (vii) The Yaumati Sub-Treasury, 4th floor, Kowloon Government Offices, 405 Nathan Road (Market Street entrance);
-
-- (viii) The Kowloon City Sub-Treasury, Man Sang Commercial Building, 1st floor, 348-352 Prince Edward Road (corner of Prince Edward Road and Junction Road);
-
-- (ix) The San Po Kong Magistracy, 690 Prince Edward Road East;
-
-- (x) The South Kowloon Magistracy, 38 Gascoigne Road;
-
-- (xi) The Kwun Tong Magistracy, Kwun Tong Law Courts, 10 Lei Yue Mun Road;
-
-- (xii) The North Kowloon Magistracy, 292 Tai Po Road. New Territories
-
-- (xiii) The Fanling Magistracy, 302 Jockey Club Road, Fanling;
-
-- (xiv) The Tsuen Wan Magistracy, 70 Tai Ho Road, Tsuen Wan;
-
-- (xv) The Shatin Magistracy, 1 Yi Ching Lane, Shatin;
-
-- (xvi) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
-
-- (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing. These offices receive payments during the hours of— Monday-Friday 9 a.m. to 4 p.m.
-
-- (District Offices and Magistracies close 1-2 p.m.) Saturday 9 a.m. to 12 noon
-
-- (District Offices close 11:30 a.m.)
-
-- 2. Cheques, drafts and cashier orders should be made payable to “Government of the HKSAR” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post dated cheques will not be accepted. Overdue payment will not be accepted. NOTES (Please read carefully)
-
-- A. Liability for the contravention can be discharged by presenting this notice intact and paying the Fixed Penalty within 21 days of the date of issue. Payment must be made in accordance with the Payment Instructions.
-
-- B. A Demand Notice will be issued in due course. You may ignore the Demand Notice only if you have made prior payment on this notice.
-
-- C.
-
-- Failure to pay and to notify the MTR Corporation Limited that you wish to dispute liability may result in additional penalty being imposed.
-
-- Payment By Post
-
-- This form (intact) must accompany the payment.
-
-- It will be returned with a receipt.
-
-- If payment is made by post, state the name and address of the person to whom the receipt should be forwarded—
-
-- Name: _
-
-- Address: _
-
-- _
-
-- (13 of 2000 s. 64)
-
-- FORM 2 Mass Transit Railway (Transport Interchange) Bylaw
-
-- (Cap. 556 sub. leg. D) Notice Demanding Payment of Fixed Penalty
-
-- (Section 39(3))
-
-- To: Name _
-
-- Address _ On _ at about _ at _ a contravention under section _ of the Mass Transit Railway (Transport Interchange) Bylaw _ was committed for which you as the registered owner/driver of motor vehicle no. _ at the time are liable.
-
-- I hereby demand payment of the Fixed Penalty of $320 and inform you that if you wish to dispute liability for the contravention you should inform me.
-
-- You are required to—
-
-  - (a) pay the Fixed Penalty; or
-
-  - (b) notify me that you wish to dispute liability for the contravention on or before _ .
-
-- If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with this notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional penalty equal to the Fixed Penalty and costs.
-
-- Secretarial and Legal
-
-- MTR Corporation Limited
-
-- Date: _
-
-- Last Date of Payment/Notification of dispute: _ LIST OF CONTRAVENTIONS
-
-  - The motor vehicle was-
-
-  - (Contravention Code No.):
-
-  - (01) Improper parking (section 10(1)).
-
-  - (02) Improper parking (section 10(2)).
-
-  - (03) Parking in a closed car park, or any closed part thereof (section 13).
-
-  - (04) Improper parking (section 14(4)).
-
-  - (05) Improper parking (section 14(5)).
-
-  - (06) Improper parking (section 14(6)).
-
-  - (07) Improper parking (section 14(7)). PAYMENT INSTRUCTIONS
-
-  - 1. Payment may be made:—
-
-  - (a) By Post Addressed to the Director of Accounting Services, P.O. Box 8000, General Post Office, Hong Kong; or
-
   - (b)
 
   - Personally or By an Agent at any of the following offices:—
 
-  - Hong Kong Island
+- Hong Kong Island
 
     - (i) The Treasury Headquarters, Collection and Payment Office, Immigration Tower, 1st floor, 7 Gloucester Road;
 
@@ -192,7 +74,7 @@ Hong Kong Island
 
     - (vi) The Eastern Magistracy, Eastern Law Courts Building, 7th floor, 29 Tai On Street.
 
-  - Kowloon
+- Kowloon
 
     - (vii) The Yaumati Sub-Treasury, 4th floor, Kowloon Government Offices, 405 Nathan Road (Market Street entrance);
 
@@ -204,7 +86,9 @@ Hong Kong Island
 
     - (xi) The Kwun Tong Magistracy, Kwun Tong Law Courts, 10 Lei Yue Mun Road;
 
-    - (xii) The North Kowloon Magistracy, 292 Tai Po Road. New Territories
+    - (xii) The North Kowloon Magistracy, 292 Tai Po Road.
+
+- New Territories
 
     - (xiii) The Fanling Magistracy, 302 Jockey Club Road, Fanling;
 
@@ -214,13 +98,137 @@ Hong Kong Island
 
     - (xvi) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
 
-    - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North, Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing. These offices receive payments during the hours of— Monday-Friday 9 a.m. to 4 p.m.
+    - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.
 
-    - (District Offices and Magistracies close 1-2 p.m.) Saturday 9 a.m. to 12 noon
+- For the opening hours of the magistrates’ courts, please dial 2677 8373 or visit the web site of the Judiciary of Hong Kong (URL address: http://www.judiciary.gov.hk/en/others/contactus.htm).
 
-    - (District Offices close 11:30 a.m.)
+- 2. Cheques, drafts and cashier orders should be made payable to “Government of the HKSAR” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post dated cheques will not be accepted. Overdue payment will not be accepted.
 
-- 2. Cheques, drafts and cashier orders should be made payable to “Government of the HKSAR” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post dated cheques will not be accepted. Overdue payment will not be accepted. Enquiries: For enquiries about this notice, please contact the Legal Adviser (Litigation), MTR Corporation Limited (Tel: 2993 3364) NOTE FOR THOSE WHO WISH TO DISPUTE LIABILITY—
+NOTES (Please read carefully)
+
+- A. Liability for the contravention can be discharged by presenting this notice intact and paying the Fixed Penalty within 21 days of the date of issue. Payment must be made in accordance with the Payment Instructions.
+
+- B. A Demand Notice will be issued in due course. You may ignore the Demand Notice only if you have made prior payment on this notice.
+
+- C.
+
+- Failure to pay and to notify the MTR Corporation Limited that you wish to dispute liability may result in additional penalty being imposed.
+
+Payment By Post This form (intact) must accompany the payment. It will be returned with a receipt. If payment is made by post, state the name and address of the person to whom the receipt should be forwarded—
+
+Name: _
+
+Address: _
+
+_
+
+(13 of 2000 s. 64; 18 of 2016 s. 32)
+
+_
+
+FORM 2 Mass Transit Railway (Transport Interchange) Bylaw
+
+(Cap. 556 sub. leg. D) Notice Demanding Payment of Fixed Penalty
+
+(Section 39(3))
+
+To: Name _
+
+Address _
+
+On _ at about _ at _ a contravention under section _ of the Mass Transit Railway (Transport Interchange) Bylaw _ was committed for which you as the registered owner/driver of motor vehicle no. _ at the time are liable.
+
+I hereby demand payment of the Fixed Penalty of $320 and inform you that if you wish to dispute liability for the contravention you should inform me.
+
+You are required to—
+
+- (a) pay the Fixed Penalty; or
+
+- (b) notify me that you wish to dispute liability for the contravention on or before _ .
+
+If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with this notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional penalty equal to the Fixed Penalty and costs.
+
+Secretarial and Legal
+
+MTR Corporation Limited
+
+Date: _
+
+Last Date of Payment/Notification of dispute: _ LIST OF CONTRAVENTIONS
+
+The motor vehicle was—
+
+(Contravention Code No.):
+
+- (01) Improper parking (section 10(1)).
+
+- (02) Improper parking (section 10(2)).
+
+- (03) Parking in a closed car park, or any closed part thereof (section 13).
+
+- (04) Improper parking (section 14(4)).
+
+- (05) Improper parking (section 14(5)).
+
+- (06) Improper parking (section 14(6)).
+
+- (07) Improper parking (section 14(7)).
+
+PAYMENT INSTRUCTIONS
+
+- 1. Payment may be made:—
+
+  - (a) By Post Addressed to the Director of Accounting Services, P.O. Box 8000, General Post Office, Hong Kong; or
+
+  - (b) Personally or By an Agent at any of the following offices:—
+
+- Hong Kong Island
+
+    - (i) The Treasury Headquarters, Collection and Payment Office, Immigration Tower, 1st floor, 7 Gloucester Road;
+
+    - (ii) The Central Sub-Treasury, Central Government Offices, West Wing, 1st floor, 11 Ice House Street (side entrance to the building in Ice House Street);
+
+    - (iii) The North Point Sub-Treasury, Max Share Centre, 1st floor, 373 King’s Road;
+
+    - (iv) The Sai Wan Ho Sub-Treasury, Eastern Law Courts Building, Ground floor, 29 Tai On Street;
+
+    - (v) The Western Magistracy, 2A Pok Fu Lam Road;
+
+    - (vi) The Eastern Magistracy, Eastern Law Courts Building, 7th floor, 29 Tai On Street.
+
+- Kowloon
+
+    - (vii) The Yaumati Sub-Treasury, 4th floor, Kowloon Government Offices, 405 Nathan Road (Market Street entrance);
+
+    - (viii) The Kowloon City Sub-Treasury, Man Sang Commercial Building, 1st floor, 348-352 Prince Edward Road (corner of Prince Edward Road and Junction Road);
+
+    - (ix) The San Po Kong Magistracy, 690 Prince Edward Road East;
+
+    - (x) The South Kowloon Magistracy, 38 Gascoigne Road;
+
+    - (xi) The Kwun Tong Magistracy, Kwun Tong Law Courts, 10 Lei Yue Mun Road;
+
+    - (xii) The North Kowloon Magistracy, 292 Tai Po Road.
+
+- New Territories
+
+    - (xiii) The Fanling Magistracy, 302 Jockey Club Road, Fanling;
+
+    - (xiv) The Tsuen Wan Magistracy, 70 Tai Ho Road, Tsuen Wan;
+
+    - (xv) The Shatin Magistracy, 1 Yi Ching Lane, Shatin;
+
+    - (xvi) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
+
+    - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North, Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.
+
+- For the opening hours of the magistrates’ courts, please dial 2677 8373 or visit the web site of the Judiciary of Hong Kong (URL address: http://www.judiciary.gov.hk/en/others/contactus.htm).
+
+- 2. Cheques, drafts and cashier orders should be made payable to “Government of the HKSAR” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post dated cheques will not be accepted. Overdue payment will not be accepted.
+
+Enquiries: For enquiries about this notice, please contact the Legal Adviser (Litigation), MTR Corporation Limited (Tel: 2993 3364)
+
+NOTE FOR THOSE WHO WISH TO DISPUTE LIABILITY—
 
 - 1. You may notify me, if you wish to dispute liability for the contravention, by signing the form appended below and delivering it to me on or before the last date for notification of dispute.
 
@@ -248,92 +256,100 @@ Hong Kong Island
 
 - Kowloon
 
-- Take Notice that I wish to dispute liability for the contravention specified in your notice (details given overleaf) issued under section 39(3) of the Mass Transit Railway (Transport Interchange) Bylaw.
+Take Notice that I wish to dispute liability for the contravention specified in your notice (details given overleaf) issued under section 39(3) of the Mass Transit Railway (Transport Interchange) Bylaw.
 
-- Signature: _
+Signature: _
 
-- Date:
+Date:
 
-- (13 of 2000 s. 64)
+(13 of 2000 s. 64; 18 of 2016 s. 32)
 
-- FORM 3 Mass Transit Railway (Transport Interchange) Bylaw
+_
 
-- (Cap. 556 sub. leg. D) Certificate of Posting of Notice
+FORM 3 Mass Transit Railway (Transport Interchange) Bylaw
 
-- (Section 39(8))
+(Cap. 556 sub. leg. D) Certificate of Posting of Notice
 
-- This is to certify that on _ a Notice under section 39(8), Mass Transit Railway (Transport Interchange) Bylaw was posted. The particulars of the Notice are as follows:—
+(Section 39(8))
 
-- Serial No. _
+This is to certify that on _ a Notice under section 39(8), Mass Transit Railway (Transport Interchange) Bylaw was posted. The particulars of the Notice are as follows:—
 
-- Date of Notice _
+Serial No. _
 
-- Name of Addressee __
+Date of Notice _
 
-- Address _
+Name of Addressee _
 
-- Secretarial and Legal
+Address _
 
-- MTR Corporation Limited
+Secretarial and Legal
 
-- Date:
+MTR Corporation Limited
 
-- (13 of 2000 s. 64)
+Date:
 
-- FORM 4 Mass Transit Railway (Transport Interchange) Bylaw
+(13 of 2000 s. 64)
 
-- (Cap. 556 sub. leg. D) Certificate of Posting of Summons
+_
 
-- (Section 44(2))
+FORM 4 Mass Transit Railway (Transport Interchange) Bylaw
 
-- This is to certify that on _ a Summons issued by the magistrate sitting in the Magistrate’s Court at _ was posted. The particulars of the Summons are as follows:—
+(Cap. 556 sub. leg. D) Certificate of Posting of Summons
 
-- Serial No. _ Date of Summons _ Name of Defendant _
+(Section 44(2))
 
-- Address _
+This is to certify that on _ a Summons issued by the magistrate sitting in the Magistrate’s Court at _ was posted. The particulars of the Summons are as follows:—
 
-- _
+Serial No. _ Date of Summons _ Name of Defendant _
 
-- Secretarial and Legal
+Address _
 
-- MTR Corporation Limited
+_
 
-- Date:
+Secretarial and Legal
 
-- (13 of 2000 s. 64)
+MTR Corporation Limited
 
-- FORM 5 Mass Transit Railway (Transport Interchange) Bylaw
+Date:
 
-- (Cap. 556 sub. leg. D) Certificate of Identity of Registered Owner/Driver, Registered
+(13 of 2000 s. 64)
 
-- Address and Non-payment of Fixed Penalty
+_
 
-- (Section 50)
+FORM 5 Mass Transit Railway (Transport Interchange) Bylaw
 
-- This is to certify that—
+(Cap. 556 sub. leg. D) Certificate of Identity of Registered Owner/Driver, Registered
 
-  - (a) *on _ at about _ the registered owner/driver of motor vehicle registration mark _ was _ ;
+Address and Non-payment of Fixed Penalty
 
-  - (b) +on _ the registered address of such person was _ ;
+(Section 50)
 
-  - (c) #on _ the registered address of such person was _ ;
+This is to certify that—
 
-  - (d) @before _ no payment was made of the fixed penalty in respect of the contravention specified in Notice No. _ dated _ ; and
+- (a) * on _ at about _ the registered owner/driver of motor vehicle registration mark _ was _ ;
 
-  - (e) before _ such person had not notified Secretarial & Legal of MTR Corporation Limited that he wished to dispute liability for the contravention. Secretarial and Legal
+- (b) † on _ the registered address of such person was _ ;
 
-  - MTR Corporation Limited
+- (c) # on _ the registered address of such person was _ ;
 
-- Date:
+- (d) ‡ before _ no payment was made of the fixed penalty in respect of the contravention specified in Notice No. _ dated _ ; and
 
-- _
+- (e) before _ such person had not notified Secretarial & Legal of MTR Corporation Limited that he wished to dispute liability for the contravention.
 
-- * Insert date and time of the contravention to which the proceedings relate.
+Secretarial and Legal
 
-- + Insert date on which notice under section 39(2) in respect of such contravention was posted.
+MTR Corporation Limited
 
-- # Insert date on which summons under section 44(2) in respect of such proceedings was posted.
+Date:
 
-- @ Insert last date of payment specified in the notice under section 39(3).
+_
 
-- (13 of 2000 s. 64)
+* Insert date and time of the contravention to which the proceedings relate.
+
+† Insert date on which notice under section 39(2) in respect of such contravention was posted.
+
+\# Insert date on which summons under section 44(2) in respect of such proceedings was posted.
+
+‡ Insert last date of payment specified in the notice under section 39(3).
+
+(13 of 2000 s. 64)
