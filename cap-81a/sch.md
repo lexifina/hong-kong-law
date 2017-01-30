@@ -4,15 +4,15 @@
 
 FEES AND CHARGES
 
-In this Schedule—
+- In this Schedule—
 
-- (a) a reference to a period of time includes a part of the period;
+  - (a) a reference to a period of time includes a part of the period;
 
-- (b) a reference to a dimension or an amount includes a part of the dimension or amount;
+  - (b) a reference to a dimension or an amount includes a part of the dimension or amount;
 
-- (c) a reference to a measurement of a vessel means the measurement as shown in its licence book or Certificate of Registry; and
+  - (c) a reference to a measurement of a vessel means the measurement as shown in its licence book or Certificate of Registry; and
 
-- (d) “month” (月) means a calendar month.
+  - (d) “month” (月) means a calendar month.
 
 $
 
@@ -22,7 +22,7 @@ $
 
 (i) | for each 8 m in length of a vessel to be berthed alongside the seawall | 60
 
-(ii) | for each 8 m in breadth of a vessel to be berthed end on to the seawall . | 60
+(ii) | for each 8 m in breadth of a vessel to be berthed end on to the seawall | 60
 
 (b) | Daily Surcharge—
 
@@ -64,7 +64,7 @@ the lesser of—
 
 per month | 570
 
-8.-9. | (Repealed L.N. 71 of 1999)
+8-9. | (Repealed L.N. 71 of 1999)
 
 10. | For the release of any cargo or cargo container seized under section 5 of the Ordinance per m2 of land occupied per day | 280
 
@@ -76,13 +76,13 @@ per month | 570
 
 14. | Vanning and Devanning Permit per cargo container per operation per day | 365
 
-15. | Vehicle Entry Ticket—
+15. | Vehicle entry ticket—
 
-(a) | for each hour during the period from 8.00 a.m. to 6.00 p.m. | 33
+(a) | subject to paragraphs (b) and (c), the fee payable under regulation 14(5) or (7) for a period | 33 per hour
 
-(b) | for each hour during the period from 6.00 p.m. to 8.00 a.m. | 33
+(b) | the fee payable under regulation 14(5) for a period that does not exceed 30 minutes | 25
 
-but each ticket is subject to a maximum of (L.N. 71 of 1999) | 85
+(c) | the maximum fee payable for a period to the extent the period is after 6 p.m. and before 8 a.m. the next day (L.N. 180 of 2016) | 85
 
 16. | Operation Area Permit
 
