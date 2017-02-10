@@ -88,7 +88,7 @@ Item | Body
 
 42. | (Repealed L.N. 99 of 2001)
 
-43. | Hong Kong Travel & Tourism Training Centre Limited
+43. | (Repealed L.N. 21 of 2017)
 
 44. | (Repealed L.N. 99 of 2001)
 
@@ -170,7 +170,7 @@ Item | Body
 
 84. | Vassar International Chinese Medical Society Limited (Added L.N. 224 of 2008)
 
-85. | Institute for Entrepreneurship, The Hong Kong Polytechnic University (Added L.N. 224 of 2008. Amended L.N. 142 of 2014)
+85. | (Repealed L.N. 21 of 2017)
 
 86. | Farida Hair & Beauty Education Centre (Added L.N. 224 of 2008)
 
@@ -188,7 +188,7 @@ Item | Body
 
 93. | Occupational Safety and Health Council (Added L.N. 221 of 2009)
 
-94. | Pivot Point College…Hong Kong (Added L.N. 75 of 2010)
+94. | (Repealed L.N. 21 of 2017)
 
 95. | Leo Hair & Beauty Training Centre (Added L.N. 75 of 2010)
 
@@ -222,7 +222,7 @@ Item | Body
 
 113. | Travel Industry Council of Hong Kong (Added L.N. 99 of 2010)
 
-114. | Pui Ching Academy (Added L.N. 173 of 2010)
+114. | (Repealed L.N. 21 of 2017)
 
 115. | (Repealed L.N. 142 of 2014)
 
@@ -236,7 +236,7 @@ Item | Body
 
 120-122. | (Repealed L.N. 69 of 2013)
 
-123. | The Hong Kong Marble & Granite Merchants Association, Limited (Added L.N. 173 of 2010)
+123. | (Repealed L.N. 21 of 2017)
 
 124. | (Repealed L.N. 142 of 2014)
 
@@ -246,7 +246,7 @@ Item | Body
 
 127. | (Repealed L.N. 69 of 2013)
 
-128. | Hong Kong Association of Registered Tour Co-ordinators Limited (Added L.N. 173 of 2010)
+128. | (Repealed L.N. 21 of 2017)
 
 129. | Hong Kong Tour Guides General Union (Added L.N. 173 of 2010)
 
@@ -290,7 +290,7 @@ Item | Body
 
 151. | (Repealed L.N. 1 of 2016)
 
-152. | Fu Hong Society Training Department (Added L.N. 49 of 2012)
+152. | (Repealed L.N. 21 of 2017)
 
 153. | New Home Association Limited (Added L.N. 49 of 2012)
 
