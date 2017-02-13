@@ -6,8 +6,4 @@ Companies (Reports on Conduct of Directors) Regulation
 
 [15 July 1994]
 
-(*Format changes—E.R. 1 of 2014)
-
-Editorial Note:
-
-* The format of the Regulation has been updated to the current legislative styles.
+(Format changes—E.R. 1 of 2014)

@@ -1,8 +1,12 @@
 # Fifteenth Schedule
 
-[s. 168K]
+[s. 168K & Sch. 26]
+
+(Amended 14 of 2016 s. 117)
 
 Matters for Determining Unfitness of Directors
+
+(Fifteenth Schedule added 30 of 1994 s. 13) (Format changes—E.R. 1 of 2014)
 
 - Part I Matters Applicable in all Cases
 
@@ -10,7 +14,7 @@ Matters for Determining Unfitness of Directors
 
   - 2. Any misapplication or retention by the director of, or any conduct by the director giving rise to an obligation to account for, any money or other property of the company.
 
-  - 3. The extent of the director’s responsibility for any failure by the company to comply with—
+  - 3. The extent of the director’s responsibility for any failure by the company to comply with— (Amended 28 of 2012 ss. 912 & 920)
 
     - (a) any of the following provisions of the pre-amended Ordinance—
 
@@ -92,7 +96,7 @@ Matters for Determining Unfitness of Directors
 
   - 2. The extent of the director’s responsibility for any failure by the company to supply any goods or services which have been paid for (in whole or in part).
 
-  - 3. The extent of the director’s responsibility for the company entering into any transaction or giving any preference, being a transaction or preference liable to be set aside under section 182 or 266.
+  - 3. The extent of the director’s responsibility for the company entering into any transaction or giving any unfair preference, being a transaction or unfair preference liable to be set aside under section 182, 265D or 266. (Amended 14 of 2016 s. 117)
 
   - 4. The extent of the director’s responsibility for any failure by the directors of the company to comply with section 241.
 
@@ -109,5 +113,3 @@ Matters for Determining Unfitness of Directors
     - (da) section 274; and (Added 3 of 1997 s. 64)
 
     - (e) section 300A.
-
-  - (Fifteenth Schedule added 30 of 1994 s. 13) (Format changes—E.R. 1 of 2014)

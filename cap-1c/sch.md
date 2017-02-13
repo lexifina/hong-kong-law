@@ -12,7 +12,7 @@ Chief Justice | Bankruptcy Ordinance (Cap. 6), paragraph (c) of the definition o
 
 Chief Justice | Evidence Ordinance (Cap. 8), sections 27(2) and 29A(2).
 
-Chief Justice | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), paragraph (c) of the definition of Registrar in section 222A(7).
+Chief Justice | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), paragraph (d) of the definition of Registrar in section 286E(7). (14 of 2016 s. 180)
 
 Chief Justice | Juvenile Offenders Ordinance (Cap. 226), section 3A(2).
 
