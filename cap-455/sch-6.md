@@ -1,10 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 24A & 24C]
 
-PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
+Particulars to be Recorded by Remittance Agents and Money Changers
 
-- PART 1 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE PARAGRAPH (a)(i) OF THE DEFINITION OF “REMITTANCE AGENT” IN SECTION 24A IS APPLICABLE
+- Part 1 Particulars to be Recorded by Remittance Agents where Paragraph (a)(i) of the Definition of Remittance Agent in Section 24A is Applicable
 
   - 1. Transaction serial number
 
@@ -26,7 +26,7 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 10. Date and time sent
 
-- PART 2 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE PARAGRAPH (a)(ii) OF THE DEFINITION OF “REMITTANCE AGENT” IN SECTION 24A IS APPLICABLE
+- Part 2 Particulars to be Recorded by Remittance Agents where Paragraph (a)(ii) of the Definition of Remittance Agent in Section 24A is Applicable
 
   - 1. Transaction serial number
 
@@ -48,9 +48,7 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 10. Date and time received by recipient(s)
 
-- PART 3 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE
-
-- PARAGRAPH (a)(iii) OF THE DEFINITION OF “REMITTANCE AGENT” IN SECTION 24A IS APPLICABLE
+- Part 3 Particulars to be Recorded by Remittance Agents where Paragraph (a)(iii) of the Definition of Remittance Agent in Section 24A is Applicable
 
   - 1. Transaction serial number
 
@@ -72,7 +70,7 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 10. Name, identity card number (or certificate of identity, document of identity or travel document number with place of issue), telephone number and address of sender(s) (Added L.N. 262 of 2006)
 
-- PART 4 PARTICULARS TO BE RECORDED BY MONEY CHANGERS
+- Part 4 Particulars to be Recorded by Money Changers
 
   - 1. Transaction serial number
 

@@ -1,14 +1,12 @@
-# SCHEDULE
+# Schedule
 
-(Adaptation amendments retroactively made - see 13 of 1999 s. 3)
-
-FORM 1 | [reg. 3]
+Form 1 | [reg. 3]
 
 CONFIDENTIAL
 
 Not to be destroyed within five years of the date of operation OFFENCES AGAINST THE PERSON ORDINANCE
 
-(Chapter 212) CERTIFICATE TO BE COMPLETED IN RELATION TO THE TERMINATION OF A PREGNANCY UNDER SECTION 47A(l) OF THE ORDINANCE
+(Chapter 212) Certificate to be completed in relation to the termination of a pregnancy under section 47A(l) of the Ordinance
 
 I,
 
@@ -42,9 +40,9 @@ of
 
 This certificate of opinion is given before the commencement of the treatment for the termination of the pregnancy to which it relates.
 
-Signed . Date .
+Signed | Date
 
-Signed . Date .
+Signed | Date
 
 Note: For termination of a pregnancy in emergency under section 47A(4) and termination of a pregnancy of more than 24 weeks duration under section 47A(2C) of the Ordinance, use respectively Form 2 and Form 2A.
 
@@ -52,13 +50,13 @@ Note: For termination of a pregnancy in emergency under section 47A(4) and termi
 
 _
 
-FORM 2 | [reg. 3]
+Form 2 | [reg. 3]
 
 CONFIDENTIAL
 
 Not to be destroyed within five years of the date of operation OFFENCES AGAINST THE PERSON ORDINANCE
 
-(Chapter 212) CERTIFICATE TO BE COMPLETED IN RELATION TO THE TERMINATION OF A PREGNANCY IN EMERGENCY UNDER SECTION 47A(4) OF THE ORDINANCE
+(Chapter 212) Certificate to be completed in relation to the termination of a pregnancy in emergency under section 47A(4) of the Ordinance
 
 I,
 
@@ -76,7 +74,7 @@ of
 
 (Full address of practitioner)
 
-hereby certify that we are* were* of the opinion, formed in good faith, that it is* was* immediately necessary to terminate the pregnancy of . | (*Delete as appropriate)
+hereby certify that we are* were* of the opinion, formed in good faith, that it is* was* immediately necessary to terminate the pregnancy of | (* Delete as appropriate)
 
 (Full name of pregnant woman in block capitals)
 
@@ -96,21 +94,21 @@ A. | before the commencement of the treatment for the termination of the pregnan
 
 B. | not later than 24 hours after such termination.
 
-Signed . Date .
+Signed | Date
 
-Signed . Date .
+Signed | Date
 
 (L.N. 50 of 1982; L.N. 107 of 1995)
 
 _
 
-FORM 2A | [reg. 3]
+Form 2A | [reg. 3]
 
 CONFIDENTIAL
 
 Not to be destroyed within five years of the date of operation OFFENCES AGAINST THE PERSON ORDINANCE
 
-(Chapter 212) CERTIFICATE TO BE COMPLETED IN RELATION TO THE TERMINATION OF A PREGNANCY OF MORE THAN 24 WEEKS DURATION UNDER SECTION 47A(2C) OF THE ORDINANCE
+(Chapter 212) Certificate to be completed in relation to the termination of a pregnancy of more than 24 weeks duration under section 47A(2C) of the Ordinance
 
 I,
 
@@ -128,7 +126,7 @@ of
 
 (Full address of practitioner)
 
-hereby certify that we are* were* of the opinion, formed in good faith, that it is* was* necessary to terminate the pregnancy of . | (*Delete as appropriate)
+hereby certify that we are* were* of the opinion, formed in good faith, that it is* was* immediately necessary to terminate the pregnancy of | (* Delete as appropriate)
 
 (Full name of pregnant woman in block capitals)
 
@@ -144,21 +142,21 @@ A. | before the commencement of the treatment for the termination of the pregnan
 
 B. | not later than 24 hours after such termination.
 
-Signed . Date .
+Signed | Date
 
-Signed . Date .
+Signed | Date
 
 (L.N. 50 of 1982; L.N. 107 of 1995)
 
 _
 
-FORM 3 | [reg. 4]
+Form 3 | [reg. 4]
 
 CONFIDENTIAL
 
 OFFENCES AGAINST THE PERSON ORDINANCE
 
-(Chapter 212) NOTIFICATION TO THE DIRECTOR OF HEALTH OF THE TERMINATION OF A PREGNANCY UNDER SECTION 47A OF THE ORDINANCE
+(Chapter 212) Notification to the Director of Health of the termination of a pregnancy under section 47A of the Ordinance
 
 I, | A. (To be completed in all cases)
 
@@ -178,7 +176,7 @@ of
 
 at
 
-on . (date) at . (time).
+on | (date) at | (time).
 
 The termination of the pregnancy was certified as necessary because— | B. (To be completed in all cases) (Ring appropriate number)
 
@@ -198,7 +196,7 @@ The termination of the pregnancy was certified as immediately necessary—
 
 The circumstances giving rise to the emergency and relating to the termination of the pregnancy were—
 
-(include details of the pregnant woman’s medical condition)
+(Include details of the pregnant woman’s medical condition)
 
 IN CASE OF TERMINATION OF PREGNANCY OF MORE THAN 24 WEEKS DURATION | D. (To be completed only when pregnancy was more than 24 weeks)
 
@@ -224,7 +222,7 @@ Address
 
 Qualifications
 
-Other information relating to the termination of pregnancy— | F. (to be completed in all cases)
+Other information relating to the termination of pregnancy— | F. (To be completed in all cases)
 
 1. | Maiden name of woman
 
@@ -266,15 +264,15 @@ Other information relating to the termination of pregnancy— | F. (to be comple
 
 11. | Was the terminated pregnancy that of a woman impregnated before attaining the age of 16 years? | (Ring appropriate answer)
 
-YesNo
+Yes | No
 
 If “Yes”, give an estimate of her age at the time of impregnation.
 
-Estimate .
+Estimate
 
-12. | Was the terminated pregnancy that of a woman who had made a report to a police officer, that she had been the victim of an alleged offence under section 47 (which relates to incest), 118 (which relates to rape), 119 (which relates to intercourse procured by threats), 120 (which relates to intercourse procured by false pretences) or 121 (which relates to intercourse procured by drugs) of the Crimes Ordinance within a period not exceeding 3 months after the date upon which she alleged that any such offence was committed?
+12. | Was the terminated pregnancy that of a woman who had made a report to a police officer, that she had been the victim of an alleged offence under section 47 (which relates to incest), 118 (which relates to rape), 119 (which relates to intercourse procured by threats), 120 (which relates to intercourse procured by false pretences) or 121 (which relates to intercourse procured by drugs) of the Crimes Ordinance (Cap. 200) within a period not exceeding 3 months after the date upon which she alleged that any such offence was committed?
 
-YesNo | (Ring appropriate answer)
+Yes | No | (Ring appropriate answer)
 
 If “Yes”, give the name of the alleged offence, the date that it was alleged to have been committed, the date and place of report to the police—
 
@@ -310,7 +308,7 @@ If “Yes”, give the name of the alleged offence, the date that it was alleged
 
 15. | Was sterilization performed? | (Ring appropriate answer)
 
-YesNo
+Yes | No
 
 16. | Complications or death prior to notification— | (Ring appropriate letter)
 

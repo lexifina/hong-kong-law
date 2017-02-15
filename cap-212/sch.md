@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 9A]
 
-ARTICLE II OF GENOCIDE CONVENTION
+Article II of Genocide Convention
 
 In the present Convention genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
 

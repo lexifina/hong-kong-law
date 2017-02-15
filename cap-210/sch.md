@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 32]
 
-ALTERNATIVE VERDICTS
+Alternative Verdicts
 
-Offences | Other offences of which the defendantmay be found guilty
+Offences | Other offences of which the defendant may be found guilty
 
 1. | Theft (section 9). | (i) | Taking conveyance without authority (section 14).
 

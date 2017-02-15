@@ -258,7 +258,7 @@ Public Bodies
 
 125. | HK Television Entertainment Company Limited. (Added L.N. 84 of 2015)
 
-128. | Property Management Services Authority (including any committees established under the Property Management Services Ordinance (10 of 2016)). (Added 10 of 2016 s. 68)
+128. | Property Management Services Authority (including any committees established under the Property Management Services Ordinance (Cap. 626)). (Added 10 of 2016 s. 68. Amended E.R. 1 of 2017)
 
 129. | Hong Kong Green Building Council Limited. (Added L.N. 67 of 2016)
 

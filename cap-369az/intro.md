@@ -1,5 +1,7 @@
 Merchant Shipping (Safety) (IMSBC Code) Regulation
 
-(Made by the Secretary for Transport and Housing under sections 107 and 112B of the Merchant Shipping (Safety) Ordinance (Cap. 369))
+(Cap. 369, sections 107 and 112B)
+
+(Enacting provision omitted—E.R. 1 of 2017)
 
 [1 July 2016]

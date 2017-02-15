@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 11 & 17]
 
-MINIMUM WAGE COMMISSION
+Minimum Wage Commission
 
 - 1. Terms and conditions of appointment of members
 

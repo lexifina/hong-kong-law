@@ -1,10 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 46]
 
-WRITS
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+Writs
 
 - (1) Writ of Summons
 

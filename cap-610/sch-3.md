@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2 & 43]
 
-MAJOR RETROFITTING WORKS
+Major Retrofitting Works
+
+(Format changes—E.R. 1 of 2017)
 
 - 1. Works involving addition or replacement of a building services installation specified in a code of practice that covers one or more places with a floor area or total floor area of not less than 500 m2 under the same series of works within 12 months in a unit or a common area of a prescribed building.
 
@@ -14,7 +16,7 @@ MAJOR RETROFITTING WORKS
 
   - (c) addition or replacement of the motor drive and mechanical drive of a lift, an escalator or a passenger conveyor.
 
-- Notes
+Notes
 
 - (1) For the purposes of item 1 of this Schedule—
 
@@ -26,7 +28,7 @@ MAJOR RETROFITTING WORKS
 
 - (3)
 
-  - In Note (2), “relevant factors” (有關因素) means—
+  - In Note (2), relevant factors (有關因素) means—
 
     - (a) whether the works are carried out by a single contractor;
 

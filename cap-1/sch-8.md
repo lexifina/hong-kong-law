@@ -1,10 +1,10 @@
-# SCHEDULE 8
+# Schedule 8
 
 [s. 2A(3)]
 
-CONSTRUCTION ON AND AFTER 1 JULY 1997 OF WORDS AND EXPRESSIONS IN LAWS PREVIOUSLY IN FORCE
+Construction on and after 1 July 1997 of Words and Expressions in Laws Previously in Force
 
-(Adaptation amendments retroactively made - see 26 of 1998 s. 42)
+(Format changes—E.R. 1 of 2017)
 
 - 1. Any reference in any provision to Her Majesty, the Crown, the British Government or the Secretary of State (or to similar names, terms or expressions) where the content of the provision—
 

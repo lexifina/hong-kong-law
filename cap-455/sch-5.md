@@ -1,10 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 13(8) & 31]
 
-CERTIFICATE OF SENTENCE IN RESPECT OF TERM OF IMPRISONMENT FIXED UNDER SECTION 13 OF THE ORGANIZED AND SERIOUS CRIMES ORDINANCE (CAP. 455)
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+Certificate of Sentence in respect of Term of Imprisonment Fixed under Section 13 of the Organized and Serious Crimes Ordinance (Cap. 455)
 
 To the Commissioner of Correctional Services. Whereas the Court of First Instance/District Court*—
 

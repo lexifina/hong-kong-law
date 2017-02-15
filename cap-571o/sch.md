@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3 & 10]
 
-RECORDS TO BE KEPT BY INTERMEDIARIES UNDER SECTION 3(2)(a)
+Records to be Kept by Intermediaries under Section 3(2)(a)
 
 - 1. Records showing particulars of—
 

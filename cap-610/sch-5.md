@@ -1,8 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 22 & 43]
 
-SCHEDULE OF THE FIRST ENERGY AUDIT FOR BUILDINGS WITHOUT CERTIFICATE OF COMPLIANCE REGISTRATION
+Schedule of the First Energy Audit for Buildings without Certificate of Compliance Registration
+
+(Format changes—E.R. 1 of 2017)
 
 Date of issue of occupation approval in respect of the building | Period within which the first energy audit must be carried out
 

@@ -1,14 +1,14 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 9 & 17]
 
-ASSESSMENT OF DEGREE OF PRODUCTIVITY OF PWDS
+Assessment of Degree of Productivity of PWDs
 
 - 1. Interpretation
 
   - (1) In this Schedule—
 
-    - “approved assessor” (認可評估員) means a person who—
+    - approved assessor (認可評估員) means a person who—
 
       - (a) is of a kind specified by the Commissioner for the purposes of this paragraph under subsection (2);
 
@@ -16,11 +16,11 @@ ASSESSMENT OF DEGREE OF PRODUCTIVITY OF PWDS
 
       - (c) is approved by the Commissioner under section 6(4) of this Schedule;
 
-    - “assessment” (評估) means an assessment referred to in section 6 of this Schedule.
+    - assessment (評估) means an assessment referred to in section 6 of this Schedule.
 
-  - (2) The Commissioner may, by notice published in the Gazette, specify kinds of persons for the purposes of paragraph (a) of the definition of “approved assessor” in subsection (1), whether by reference to the profession practised by them or the occupation or qualification held by them or on any other basis.
+  - (2) The Commissioner may, by notice published in the Gazette, specify kinds of persons for the purposes of paragraph (a) of the definition of approved assessor in subsection (1), whether by reference to the profession practised by them or the occupation or qualification held by them or on any other basis.
 
-  - (3) The Commissioner may, by notice published in the Gazette, specify a length of experience for the purposes of paragraph (b) of the definition of “approved assessor” in subsection (1).
+  - (3) The Commissioner may, by notice published in the Gazette, specify a length of experience for the purposes of paragraph (b) of the definition of approved assessor in subsection (1).
 
 - 2. Trial period of employment
 
@@ -38,15 +38,9 @@ ASSESSMENT OF DEGREE OF PRODUCTIVITY OF PWDS
 
   - (5) On an application made to the Commissioner jointly by the PWD and the employer before the end of the trial period, the Commissioner may, in exceptional circumstances, extend the length of the trial period applying to them by up to 4 weeks.
 
-- 3. Percentage of prescribed minimum hourly
+- 3. Percentage of prescribed minimum hourly wage rate applicable during trial period of employment For the purposes of section 9(1)(a), the specified percentage is 50%.
 
-- wage rate applicable during trial
-
-- period of employment For the purposes of section 9(1)(a), the specified percentage is 50%.
-
-- 4. PWDs employed before commencement
-
-- may opt for an assessment
+- 4. PWDs employed before commencement may opt for an assessment
 
   - (1) A PWD who—
 
@@ -64,7 +58,7 @@ ASSESSMENT OF DEGREE OF PRODUCTIVITY OF PWDS
 
     - (a) be in the form approved by the Commissioner;
 
-    - (b) specify the hourly wage rate (“the current contractual rate”) at which the PWD is then employed; and
+    - (b) specify the hourly wage rate (the current contractual rate) at which the PWD is then employed; and
 
     - (c) specify the percentage of the first prescribed minimum hourly wage rate that the current contractual rate represents.
 
@@ -92,7 +86,7 @@ ASSESSMENT OF DEGREE OF PRODUCTIVITY OF PWDS
 
   - (3) The assessment must be made by an approved assessor at a time agreed by the PWD and his or her employer. For a PWD who has chosen to undergo a trial period of employment under section 2 of this Schedule, that time may be within the trial period of employment or after the expiry of that period.
 
-  - (4) The Commissioner may, in writing, approve an assessor who satisfies the requirements of paragraphs (a) and (b) of the definition of “approved assessor” in section 1(1) of this Schedule for the purpose of making assessments under this Schedule.
+  - (4) The Commissioner may, in writing, approve an assessor who satisfies the requirements of paragraphs (a) and (b) of the definition of approved assessor in section 1(1) of this Schedule for the purpose of making assessments under this Schedule.
 
   - (5) The Commissioner may, by notice published in the Gazette, specify methods of assessment for the purposes of this Schedule.
 

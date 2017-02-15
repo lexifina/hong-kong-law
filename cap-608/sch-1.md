@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 17]
 
-EDUCATION INSTITUTIONS
+Education Institutions
 
 - 1. The Education University of Hong Kong established by The Education University of Hong Kong Ordinance (Cap. 444). (Amended 6 of 2016 s. 2)
 

@@ -1,6 +1,8 @@
-BOND FUND
+Bond Fund
 
-RESOLUTION OF THE LEGISLATIVE COUNCIL
+Resolution of the Legislative Council
+
+(Format changes—E.R. 1 of 2017)
 
 Resolution made and passed by the Legislative Council under section 29 of the Public Finance Ordinance (Cap. 2) on 8 July 2009.
 

@@ -1,10 +1,12 @@
-LAND FUND
+Land Fund
 
-RESOLUTION OF THE PROVISIONAL LEGISLATIVE COUNCIL
+Resolution of the Provisional Legislative Council
+
+(Format changes—E.R. 1 of 2017)
 
 Resolution made and passed by the Provisional Legislative Council under section 29 of the Public Finance Ordinance (Cap. 2) on 23 July 1997.
 
-RESOLVED that with effect from the establishment of the Government of the Hong Kong Special Administrative Region on 1 July 1997—
+Resolved that with effect from the establishment of the Government of the Hong Kong Special Administrative Region on 1 July 1997—
 
 1. there shall be established a fund called the Land Fund;
 
@@ -14,7 +16,7 @@ RESOLVED that with effect from the establishment of the Government of the Hong K
 
 4. there shall be credited to the Land Fund—
 
-- (a) all sums earned by way of interest, dividends or other investment revenue relating to the investment of the Hong Kong Special Administrative Region Government Land Fund and all sums earned from the sale or other disposal of all or part of any assets of the Hong Kong Special Administrative Region Government Land Fund, after the deduction of all of the expenses relating to the administration and management of the Hong Kong Special Administrative Region Government Land Fund; and
+- (a) all sums earned by way of interest, dividends or other investment revenue relating to the investment of the Hong Kong Special Administrative Region Government and all sums earned from the sale or other disposal of all or part of any assets of the Hong Kong Special Administrative Region Government Land Fund, after the deduction of all of the expenses relating to the administration and management of the Hong Kong Special Administrative Region Government Land Fund; and
 
 - (b) all accounts receivable and all sums earned by way of interest, dividends or other investment revenue relating to the investment of the Land Fund and all sums earned from the sale or other disposal of all or part of any assets of the Land Fund, after the deduction of all of the expenses relating to the administration and management of the Land Fund;
 
@@ -30,6 +32,6 @@ RESOLVED that with effect from the establishment of the Government of the Hong K
 
 Editorial Note:
 
-Please also see the Resolutions of the Legislative Council in L.N. 117 of 2003 & L.N. 126 of 2004. The text of L.N. 117 of 2003 is reproduced below— “Resolution made and passed by the Legislative Council under section 29 of the Public Finance Ordinance (Cap. 2) on 7 May 2003. RESOLVED with respect to the Land Fund established by resolution made and passed by the Provisional Legislative Council on 23 July 1997 and published in the Gazette as Legal Notice No. 398 of 1997, that a sum of $120,000,000,000 be transferred from the Land Fund to the general revenue.”
+Please also see the following Resolutions of the Legislative Council—
 
-The text of L.N. 126 of 2004 is reproduced below— “Resolution made and passed by the Legislative Council under section 29 of the Public Finance Ordinance (Cap. 2) on 16 June 2004. RESOLVED, with respect to the Land Fund established by resolution made and passed by the Provisional Legislative Council on 23 July 1997 and published in the Gazette as Legal Notice No. 398 of 1997, that a sum of $40,000,000,000 be transferred from the Land Fund to the general revenue.”.
+(a) L.N. 117 of 2003 (regarding the transfer of a sum of $120,000,000,000 to the general revenue); (b) L.N. 126 of 2004 (regarding the transfer of a sum of $40,000,000,000 to the general revenue).

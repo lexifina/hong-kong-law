@@ -2,100 +2,94 @@
 
 [s. 4(1)(a)]
 
-FORM D.O. 1
+FORM D.O. 1 COMPANIES (WINDING UP AND MISCELLANEOUS PROVISIONS) ORDINANCE (Cap. 32) Particulars of a disqualification order
 
-COMPANIES (WINDING UP AND MISCELLANEOUS PROVISIONS) ORDINANCE (Cap. 32) Particulars of a disqualification order Pursuant to section 168R
+Pursuant to section 168R
 
 To the Registrar of Companies
 
 I furnish the following particulars of a disqualification order made against a person as required by the Companies (Disqualification Orders) Regulation—
 
-- (1) Section of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (C(WUMP)O), the repealed Securities (Insider Dealing) Ordinance (“SIDO”), the Securities and Futures Ordinance (“SFO”) or the Competition Ordinance (“ComO”) under which the order was made†—
+(1) | Section of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (C(WUMP)O), the repealed Securities (Insider Dealing) Ordinance (“SIDO”), the Securities and Futures Ordinance (“SFO”) or the Competition Ordinance (“ComO”) under which the order was made†—
 
-- Section 168E of C(WUMP)O
+Section 168E of C(WUMP)O
 
-- Section 168F of C(WUMP)O
+Section 168F of C(WUMP)O
 
-- Section 168G of C(WUMP)O
+Section 168G of C(WUMP)O
 
-- Section 168H of C(WUMP)O
+Section 168H of C(WUMP)O
 
-- Section 168J of C(WUMP)O
+Section 168J of C(WUMP)O
 
-- Section 168L of C(WUMP)O
+Section 168L of C(WUMP)O
 
-- Section 23(1)(a) of SIDO
+Section 23(1)(a) of SIDO
 
-- Section 24(1) of SIDO
+Section 24(1) of SIDO
 
-- Section 214(2)(d) of SFO
+Section 214(2)(d) of SFO
 
-- Section 257(1)(a) of SFO
+Section 257(1)(a) of SFO
 
-- Section 258(1) of SFO
+Section 258(1) of SFO
 
-- Section 303(2)(a) of SFO
+Section 303(2)(a) of SFO
 
-- Section 307N(1)(a) of SFO
+Section 307N(1)(a) of SFO
 
-- Section 101 of ComO
+Section 101 of ComO
 
-- (2) Particulars of the person against whom the order was made—
+(2) | Particulars of the person against whom the order was made—
 
-  - (a) if an individual
+(a) | if an individual
 
-  - Forename (Note 2) _____________________* ()
+Forename (Note 2) | *( | )
 
-  - Surname (Note 3) ______________________* ()
+Surname (Note 3) | *( | )
 
-  - Usual residential address at the date of the order (Note 4) | ______________________________
+Usual residential address at the date of the order (Note 4)
 
-  - ______________________________
+Hong Kong identity card No., if any (Note 5)
 
-  - ______________________________
+Number and issuing country of any passport (Note 6)
 
-  - ______________________________
+(b) | if a body corporate
 
-  - Hong Kong identity card No., if any (Note 5)
+Corporate name
 
-  - ____________________________
+Registered No.
 
-  - Number and issuing country of any passport (Note 6) | ____________________________
+Address of registered or principal office in Hong Kong at the date of the order
 
-  - ____________________________
+(3) | Date on which the order was made—
 
-  - (b) if a body corporate
+Day | Month | Year
 
-  - Corporate name | ___________________________________
+(4) | Period of disqualification specified in the order—
 
-  - ___________________________________
+Signed | Date
 
-  - Registered No. | ___________________________________
+Name | Position
 
-  - Address of registered or principal office in Hong Kong at the date of the order | ___________________________
+Court††
 
-  - ___________________________
+† | Please tick appropriate box
 
-  - ___________________________
+* | Note 1
 
-- (3) Date on which the order was made—
+†† | Please state full name
 
-- Day | Month | Year
+Notes | 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included.
 
-- (4) Period of disqualification specified in the order—
+2. “Forename” includes a Christian or given name.
 
-- Signed _________________________________ Date ________________
+3. “Surname” in the case of a person usually known by a title different from his surname, means that title.
 
-- Name _______________________________ Position ________________
+4. Usual residential address must be given. “Residential address” does not include an address at a hotel unless the person to whom it relates is stated to have no other permanent address nor does it include a post office box number unless coupled with a residential address.
 
-- Court†† _____________________________________________________
+5. “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”.
 
-- † Please tick appropriate box
-
-- * Note 1
-
-- †† Please state full name
-
-Notes | 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included. 2. “Forename” includes a Christian or given name. 3. “Surname” in the case of a person usually known by a title different from his surname, means that title. 4. Usual residential address must be given. “Residential address” does not include an address at a hotel unless the person to whom it relates is stated to have no other permanent address nor does it include a post office box number unless coupled with a residential address. 5. “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”. 6. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
+6. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
 
 (46 of 2000 s. 40; 5 of 2002 s. 407; 14 of 2012 s. 176; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 174)

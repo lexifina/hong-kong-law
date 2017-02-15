@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 
 [para. 2]
 

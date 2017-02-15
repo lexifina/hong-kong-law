@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 8 & 31] (Replaced 26 of 2002 s. 3)
 
-OTHER SPECIFIED OFFENCES
+Other Specified Offences
 
 Common law offences
 
@@ -12,7 +12,7 @@ Common law offences
 
 Statutory offences
 
-Offence | Description*
+Offence | Description#
 
 3. | Import and Export Ordinance (Cap. 60)
 
@@ -116,6 +116,4 @@ section 298 | disclosure of false or misleading information inducing transaction
 
 section 299 | stock market manipulation (Added 6 of 2014 s. 69)
 
-Editorial Note:
-
-* The short description of offences in this Schedule is for ease of reference only.
+- # Note: | The short description of offences in this Schedule is for ease of reference only.

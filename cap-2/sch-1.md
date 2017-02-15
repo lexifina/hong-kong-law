@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [s. 29]
 
-FUNDS
+Funds
 
 Lotteries Fund
 

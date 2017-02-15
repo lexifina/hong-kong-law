@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [s. 30]
 
-SPECIAL SUSPENSE ACCOUNTS
+Special Suspense Accounts
 
 Financial Secretary Incorporated Suspense Account
 

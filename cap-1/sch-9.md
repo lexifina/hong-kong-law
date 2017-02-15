@@ -1,18 +1,18 @@
-# SCHEDULE 9
+# Schedule 9
 
 [s. 102]
 
-TEMPORARY PROVISIONS
+Temporary Provisions
 
-(Adaptation amendments retroactively made - see 26 of 1998 s. 43)
+(Schedule 9 added 26 of 1998 s. 43. Format changes—E.R. 1 of 2017)
 
 - 1. Interpretation of words and expressions
 
-  - “British citizen” (英國公民) means a person who has the status of a British citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
+  - British citizen (英國公民) means a person who has the status of a British citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “British Dependent Territories citizen” (英國屬土公民) means a person who has or had the status of a British Dependent Territories citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
+  - British Dependent Territories citizen (英國屬土公民) means a person who has or had the status of a British Dependent Territories citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “British enactment” and “imperial enactment” (英國成文法則) mean—
+  - British enactment and imperial enactment (英國成文法則) mean—
 
     - (a) any Act of Parliament;
 
@@ -20,13 +20,13 @@ TEMPORARY PROVISIONS
 
     - (c) any rule, regulation, proclamation, order, notice, rule of court, by-law or other instrument made under or by virtue of any such Act or Order in Council;
 
-  - “British Overseas citizen” (英國海外公民) means a person who has the status of a British Overseas citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
+  - British Overseas citizen (英國海外公民) means a person who has the status of a British Overseas citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “British protected person” (受英國保護人士) means a person who has the status of a British protected person under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
+  - British protected person (受英國保護人士) means a person who has the status of a British protected person under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “British subject” (英籍人士) means a person who has the status of a British subject under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
+  - British subject (英籍人士) means a person who has the status of a British subject under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “Commonwealth” (英聯邦) means collectively—
+  - Commonwealth (英聯邦) means collectively—
 
     - (a) the United Kingdom;
 
@@ -38,23 +38,23 @@ TEMPORARY PROVISIONS
 
     - (e) the British Dependent Territories mentioned in Schedule 6 to the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “Commonwealth citizen” (英聯邦公民) means a person who has the status of a Commonwealth citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
+  - Commonwealth citizen (英聯邦公民) means a person who has the status of a Commonwealth citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - “Crown Agents” (英聯邦代辦) means the persons or body for the time being acting as Crown Agents for Oversea Governments and Administrations;
+  - Crown Agents (英聯邦代辦) means the persons or body for the time being acting as Crown Agents for Oversea Governments and Administrations;
 
-  - “Order in Council” (樞密院頒令) means an order made by Her Majesty in Her Privy Council (being the Lords and others for the time being of Her Majesty’s Most Honourable Privy Council);
+  - Order in Council (樞密院頒令) means an order made by Her Majesty in Her Privy Council (being the Lords and others for the time being of Her Majesty’s Most Honourable Privy Council);
 
-  - “Parliament” (國會) means the Parliament of England, the Parliament of Great Britain and the Parliament of the United Kingdom;
+  - Parliament (國會) means the Parliament of England, the Parliament of Great Britain and the Parliament of the United Kingdom;
 
-  - “territorial waters” (領海) has the same meaning as waters of Hong Kong;
+  - territorial waters (領海) has the same meaning as waters of Hong Kong;
 
-  - “United Kingdom” (聯合王國) means—
+  - United Kingdom (聯合王國) means—
 
     - (a) the United Kingdom of Great Britain and Northern Ireland; or
 
     - (b) when used with reference to citizenship or nationality, Great Britain, Northern Ireland, the Channel Islands and the Isle of Man;
 
-  - “Victoria” (維多利亞) means the area within the boundaries specified in Schedule 1 to this Ordinance.
+  - Victoria (維多利亞) means the area within the boundaries specified in Schedule 1 to this Ordinance.
 
 - 2. Modifications A British enactment shall be judicially noticed as such and shall be read with such modifications as to names, localities, courts, officers, persons, moneys, penalties or otherwise as may be necessary to make the same applicable to the circumstances of Hong Kong.
 
@@ -68,7 +68,9 @@ TEMPORARY PROVISIONS
 
   - (a) is published in the Gazette or purports to be printed by the Government Printer; or
 
-  - (b) is contained in any printed collection purporting to be published or printed by authority, be deemed, until the contrary is proved, to be an authentic copy of the British enactment as at the date of such publication or printing.
+  - (b) is contained in any printed collection purporting to be published or printed by authority,
+
+- be deemed, until the contrary is proved, to be an authentic copy of the British enactment as at the date of such publication or printing.
 
 - 7. Construction of certain references to Crown
 
@@ -82,8 +84,6 @@ TEMPORARY PROVISIONS
 
   - (2) Subsection (1) does not prejudice the operation of section 2A(2)(c) of this Ordinance, whether before, on or after the commencement of this section.
 
-- (Schedule 9 added 26 of 1998 s. 43)
-
 Editorial Note:
 
-\# Please also see L.N. 308 of 1993.
+\# Please see L.N. 308 of 1993.

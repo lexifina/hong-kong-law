@@ -1,8 +1,14 @@
-RESOLUTIONS OF THE LEGISLATIVE COUNCIL
+Resolutions of the Legislative Council
 
-1. Resolution made and passed by the Legislative Council under section 3(1) of the Loans Ordinance on the 18th June 1975. RESOLVED, in exercise of the powers conferred by section 3(1) of the Loans Ordinance, that the Government be authorized to borrow for the purposes of general revenue a sum or sums not exceeding in total the equivalent of £6,500,000 Sterling. (L.N. 151 of 1975)
+(Format changes—E.R. 1 of 2017)
 
-2. Resolution made and passed by the Legislative Council under section 3(1) of the Loans Ordinance on the 1st October 1975. RESOLVED, in exercise of the powers conferred by section 3(1) of the Loans Ordinance and in substitution for the Resolution passed by this Council on the 13th August 1975 and published as Legal Notice 197 of 1975, that the Government be authorized to borrow for the purposes of general revenue a sum or sums not exceeding in total the equivalent of US$60 million. (L.N. 231 of 1975)
+1. Resolution made and passed by the Legislative Council under section 3(1) of the Loans Ordinance on the 18th June 1975.
+
+Resolved, in exercise of the powers conferred by section 3(1) of the Loans Ordinance, that the Government be authorized to borrow for the purposes of general revenue a sum or sums not exceeding in total the equivalent of £6,500,000 Sterling. (L.N. 151 of 1975)
+
+2. Resolution made and passed by the Legislative Council under section 3(1) of the Loans Ordinance on the 1st October 1975.
+
+Resolved, in exercise of the powers conferred by section 3(1) of the Loans Ordinance and in substitution for the Resolution passed by this Council on the 13th August 1975 and published as Legal Notice 197 of 1975, that the Government be authorized to borrow for the purposes of general revenue a sum or sums not exceeding in total the equivalent of US$60 million. (L.N. 231 of 1975)
 
 ____________________
 

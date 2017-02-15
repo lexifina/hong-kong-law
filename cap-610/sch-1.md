@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 43]
 
-BUILDINGS THAT REQUIRE CERTIFICATE OF COMPLIANCE REGISTRATION AND FORM OF COMPLIANCE
+Buildings that Require Certificate of Compliance Registration and Form of Compliance
+
+(Format changes—E.R. 1 of 2017)
 
 - 1. Commercial building.
 

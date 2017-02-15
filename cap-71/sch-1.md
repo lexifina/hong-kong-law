@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 6, 7, 8, 9, 12 & 15]
 
-SCOPE OF SECTIONS 7, 8, 9 AND 12
+Scope of Sections 7, 8, 9 and 12
 
 - 1. Sections 7, 8 and 9 do not apply to—
 

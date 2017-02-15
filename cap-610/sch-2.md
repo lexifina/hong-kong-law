@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4 & 43]
 
-BUILDING SERVICES INSTALLATIONS TO WHICH THIS ORDINANCE DOES NOT APPLY
+Building Services Installations to which this Ordinance does not Apply
+
+(Format changes—E.R. 1 of 2017)
 
 - 1. An installation that is solely used for—
 

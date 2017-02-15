@@ -1,77 +1,81 @@
 # Schedule 1
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2; 27 of 1999 s. 3)
-
 (Amended 123 of 1997 s. 18)
 
-Part I | [section 14]
+- Part I
 
-Declaration
+- [s. 14]
 
-I, A.B., of
+- Declaration
 
-, solemnly and sincerely declare that [Insert facts.]
+- I, A.B., of
 
-And I make this solemn declaration conscientiously believing the
+- , solemnly and sincerely declare that [Insert facts.]
 
-same to be true and by virtue of the Oaths and Declarations Ordinance.
+- And I make this solemn declaration conscientiously believing the
 
-(Signed) A.B.
+- same to be true and by virtue of the Oaths and Declarations Ordinance.
 
-Declared at in Hong Kong
+- (Signed) A.B.
 
-this day of 19
+- Declared at in Hong Kong
 
-Before me,
+- this day of 19
 
-[Signature and designation, i.e., Justice of the Peace/Notary Public/Commissioner for Oaths.]
+- Before me,
 
-(Amended 123 of 1997 s. 18)
+- [Signature and designation, i.e., Justice of the Peace/Notary Public/Commissioner for Oaths.]
 
-PART II | [section 14]
+- (Amended 123 of 1997 s. 18)
 
-Declaration by Person who is Unfamiliar with the English Language or the Chinese Language
+- Part II
 
-I, A.B., of
+- [s. 14]
 
-, solemnly and sincerely declare that [Insert facts.]
+- Declaration by person who is unfamiliar with the English language or the Chinese language
 
-And I make this solemn declaration conscientiously believing the
+- I, A.B., of
 
-same to be true and by virtue of the Oaths and Declarations Ordinance.
+- , solemnly and sincerely declare that [Insert facts.]
 
-(Signed) A.B.
+- And I make this solemn declaration conscientiously believing the
 
-Declared at in Hong Kong
+- same to be true and by virtue of the Oaths and Declarations Ordinance.
 
-this day of 19 , through the interpretation of [Insert name of interpreter] of [Insert address and occupation], the said interpreter having been also first declared [or sworn, as the case may be] that he had truly, distinctly, and audibly interpreted the contents of this document to the declarant, and that he would truly and faithfully interpret the declaration about to be administered to him.
+- (Signed) A.B.
 
-Before me,
+- Declared at in Hong Kong
 
-[Signature and designation, i.e., Justice of the Peace/Notary Public/Commissioner for Oaths.]
+- this day of 19 , through the interpretation of [Insert name of interpreter] of [Insert address and occupation], the said interpreter having been also first declared [or sworn, as the case may be] that he had truly, distinctly, and audibly interpreted the contents of this document to the declarant, and that he would truly and faithfully interpret the declaration about to be administered to him.
 
-(Part II amended 51 of 1995 s. 9; 123 of 1997 s. 18)
+- Before me,
 
-PART III | [section 14]
+- [Signature and designation, i.e., Justice of the Peace/Notary Public/Commissioner for Oaths.]
 
-Declaration or Oath by Interpreter
+- (Part II amended 51 of 1995 s. 9; 123 of 1997 s. 18)
 
-I, C.D., of
+- Part III
 
-, solemnly and sincerely declare* that I well understand the official language in which this document is written and [state language in which the contents of this document are interpreted] language and that I have truly, distinctly, and audibly interpreted the contents of this document to the declarant [Insert name], and that I will truly and faithfully interpret the declaration about to be administered to him.
+- [s. 14]
 
-(Signed) C.D.
+- Declaration or oath by interpreter
 
-Interpreter.
+- I, C.D., of
 
-Declared at in Hong Kong
+- , solemnly and sincerely declare* that I well understand the official language in which this document is written and [state language in which the contents of this document are interpreted] language and that I have truly, distinctly, and audibly interpreted the contents of this document to the declarant [Insert name], and that I will truly and faithfully interpret the declaration about to be administered to him.
 
-this day of 19 .
+- (Signed) C.D.
 
-Before me,
+- Interpreter.
 
-[Signature and designation, i.e., Justice of the Peace/Notary Public/Commissioner for Oaths.]
+- Declared at in Hong Kong
 
-*In case of an oath substitute “swear” for “solemnly and sincerely declare”.
+- this day of 19 .
 
-(Part III amended 51 of 1995 s. 9; 123 of 1997 s. 18; 23 of 1998 s. 2) (Schedule 1 amended 27 of 1999 s. 3)
+- Before me,
+
+- [Signature and designation, i.e., Justice of the Peace/Notary Public/Commissioner for Oaths.]
+
+- *In case of an oath substitute “swear” for “solemnly and sincerely declare”.
+
+- (Part III amended 51 of 1995 s. 9; 123 of 1997 s. 18; 23 of 1998 s. 2) (Schedule 1 amended 27 of 1999 s. 3)

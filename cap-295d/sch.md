@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [regs. 12(1) & 13]
 
-FEES
+Fees
 
-- PART I
+- Part I
 
   - 1. Subject to paragraph 2, the fees per consignment for the storage in a depot of explosives and explosive accessories shall be—
 
@@ -14,41 +14,39 @@ FEES
 
   - 2. Where a consignment of explosives or explosive accessories is delivered to a depot for storage after the fifteenth day of any month the fees calculated in accordance with paragraph 1 shall be reduced by 50% for that month only in relation to those explosives or explosive accessories (including the weight of any inner and outer packages).
 
-- PART II
+- Part II
 
   - 1. Subject to paragraph 2, the fees for delivery from a depot to any other place by the Government—
 
-    - (a) of—
+  - (a) | of—
 
-      - (i) explosives contained in inner packages only; or
+  - (i) | explosives contained in inner packages only; or
 
-      - (ii) explosives contained in inner and outer packages;
+  - (ii) | explosives contained in inner and outer packages;
 
-    - (b) of—
+  - (b) | of—
 
-      - (i) explosives contained in inner packages only; or
+  - (i) | explosives contained in inner packages only; or
 
-      - (ii) explosives contained in inner and outer packages,
+  - (ii) | explosives contained in inner and outer packages,
 
-    - together with, in either case, the accompanying explosive accessories contained in inner packages or not contained in any packages;
+  - together with, in either case, the accompanying explosive accessories contained in inner packages or not contained in any packages;
 
-    - (c) of—
+  - (c) | of—
 
-      - (i) explosives; and
+  - (i) | explosives; and
 
-      - (ii) the accompanying explosive accessories,
+  - (ii) | the accompanying explosive accessories,
 
-    - contained in inner and outer packages;
+  - contained in inner and outer packages;
 
-    - (d) of explosive accessories only contained in inner and outer packages,
+  - (d) | of explosive accessories only contained in inner and outer packages,
 
   - shall be in accordance with the following table.
 
-  - TABLE
+- Table
 
-  - Quantity
-
-  - Item | (explosives/explosives and explosive accessories/ explosive accessories/ packaging) | Fee per delivery $
+  - Item | Quantity (explosives/explosives and explosive accessories/ explosive accessories/ packaging) | Fee per delivery $
 
   - 1. | Not exceeding 50 kg | 4,000
 
@@ -72,15 +70,15 @@ FEES
 
   - 2. The weight in the case of—
 
-    - (a) paragraph 1(a)(ii), of any outer packages;
+  - (a) | paragraph 1(a)(ii), of any outer packages;
 
-    - (b) paragraph 1(b)—
+  - (b) | paragraph 1(b)—
 
-      - (i) of any outer packages; and
+  - (i) | of any outer packages; and
 
-      - (ii) of the accompanying explosive accessories (including the weight of any inner packages);
+  - (ii) | of the accompanying explosive accessories (including the weight of any inner packages);
 
-    - (c) paragraph 1(c)(i), of any outer packages,
+  - (c) | paragraph 1(c)(i), of any outer packages,
 
   - shall be disregarded.
 

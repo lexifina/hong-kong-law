@@ -2,104 +2,94 @@
 
 [s. 4(1)(b)]
 
-FORM D.O. 2
+FORM D.O. 2 COMPANIES (WINDING UP AND MISCELLANEOUS PROVISIONS) ORDINANCE (Cap. 32) Particulars of the grant of leave in relation to a disqualification order
 
-COMPANIES (WINDING UP AND MISCELLANEOUS PROVISIONS) ORDINANCE (Cap. 32) Particulars of the grant of leave in relation
-
-to a disqualification order Pursuant to section 168R
+Pursuant to section 168R
 
 To the Registrar of Companies
 
 I furnish the following particulars of the grant of leave in relation to a disqualification order as required by the Companies (Disqualification Orders) Regulation—
 
-- (1) Date of disqualification order in relation to which leave was granted—
+(1) | Date of disqualification order in relation to which leave was granted—
 
-- Day | Month | Year
+Day | Month | Year
 
-- (2) Court which made the disqualification order in relation to which leave was granted—
+(2) | Court which made the disqualification order in relation to which leave was granted—
 
-- (3) Particulars of the person to whom leave was granted—
+(3) | Particulars of the person to whom leave was granted—
 
-  - (a) if an individual
+(a) | if an individual
 
-  - Forename (Note 2) _____________________* ()
+Forename (Note 2) | *( | )
 
-  - Surname (Note 3) ______________________* ()
+Surname (Note 3) | *( | )
 
-  - Hong Kong identity card No., if any (Note 4)
+Hong Kong identity card No., if any (Note 4)
 
-  - ____________________________
+Number and issuing country of any passport (Note 5)
 
-  - Number and issuing country of any passport (Note 5) | ____________________________
+(b) | if a body corporate
 
-  - ____________________________
+Corporate name
 
-  - (b) if a body corporate
+Registered No.
 
-  - Corporate name | ___________________________________
+(4) | If the name in which the disqualification order was made was different from that at item (3), the name in which that order was made—
 
-  - ___________________________________
+(a) | if an individual
 
-  - Registered No. | ___________________________________
+Forename (Note 2) | *( | )
 
-- (4) If the name in which the disqualification order was made was different from that at item (3), the name in which that order was made—
+Surname (Note 3) | *( | )
 
-  - (a) if an individual
+Hong Kong identity card No., if any (Note 4)
 
-  - Forename (Note 2) _____________________* ()
+Number and issuing country of any passport (Note 5)
 
-  - Surname (Note 3) ______________________* ()
+(b) | if a body corporate
 
-  - Hong Kong identity card No., if any (Note 4)
+Corporate name
 
-  - ____________________________
+Registered No.
 
-  - Number and issuing country of any passport (Note 5) | ____________________________
+(5) | Name of company in respect of which leave was granted, or in the case of leave to promote or form a company, the proposed name of the company where it is available, or if not, a brief description of the activities of the company—
 
-  - ____________________________
+(6) | Date on which leave was granted—
 
-  - (b) if a body corporate
+Day | Month | Year
 
-  - Corporate name | ___________________________________
+(7) | Activity for which leave was granted†——
 
-  - ___________________________________
+Promotion
 
-  - Registered No. | ___________________________________
+Formation
 
-- (5) Name of company in respect of which leave was granted, or in the case of leave to promote or form a company, the proposed name of the company where it is available, or if not, a brief description of the activities of the company—
+Directorship or other participation in management
 
-- _____________________________________________________
+Liquidation
 
-- _____________________________________________________
+Receivership or management of the property of the company
 
-- (6) Date on which leave was granted—
+Signed | Date
 
-- Day | Month | Year
+Name | Position
 
-- (7) Activity for which leave was granted†—
+Court††
 
-- Promotion
+* | Note 1
 
-- Formation
+† | Please tick appropriate box(es)
 
-- Directorship or other participation in management
+†† | Please state full name
 
-- Liquidation
+Notes | 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included.
 
-- Receivership or management of the property of the company
+2. “Forename” includes a Christian or given name.
 
-- Signed _________________________________ Date ________________
+3. “Surname” in the case of a person usually known by a title different from his surname, means that title.
 
-- Name _______________________________ Position ________________
+4. “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”.
 
-- Court†† _____________________________________________________
-
-- * Note 1
-
-- † Please tick appropriate box(es)
-
-- †† Please state full name
-
-Notes | 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included. 2. “Forename” includes a Christian or given name. 3. “Surname” in the case of a person usually known by a title different from his surname, means that title. 4. “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”. 5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
+5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
 
 (28 of 2012 ss. 912 & 920)

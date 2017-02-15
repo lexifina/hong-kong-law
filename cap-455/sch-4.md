@@ -1,10 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 3(7)(c)]
 
-ORGANIZED AND SERIOUS CRIMES ORDINANCE (CAP. 455)
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+Organized and Serious Crimes Ordinance (Cap. 455)
 
 SECTION 3 NOTICE REQUIRING ATTENDANCE TO ANSWER QUESTIONS OR FURNISH INFORMATION
 
@@ -16,7 +14,7 @@ To:
 
 (date)
 
-order was made by the Hon. Mr. Justice .......................................... under section 3 of the Organized and Serious Crimes Ordinance (Cap. 455) for the purpose of an investigation into an organized crime. A copy of the order as it relates to you is annexed to this Notice.
+order was made by the Hon. Mr. Justice ................................ under section 3 of the Organized and Serious Crimes Ordinance (Cap. 455) for the purpose of an investigation into an organized crime. A copy of the order as it relates to you is annexed to this Notice.
 
 2. | Particulars of the organized crime under investigation are—
 
@@ -70,7 +68,7 @@ the following material or class of material—
 
 (other terms of the order relevant to the person)
 
-7. | NOTE: | 1. This Notice has important legal consequences. It is in your interests to read the provisions of the Ordinance set out with this Notice, and to seek legal advice in relation to your rights and obligations under the Notice. 2. You may be accompanied by a solicitor and a barrister when you attend to answer questions or furnish information in compliance with paragraph 5(a) of the notice, or to produce material in compliance with paragraph 5(b) of the notice.
+7. | NOTE: | 1. This Notice has important legal consequences. It is in your interests to read the provisions of the Ordinance set out with this Notice, and to seek legal advice in relation to your rights and obligations under the Notice. 2. You may be accompanied by a solicitor and a barrister when you attend to answer questions or furnish information in compliance with paragraph 5(a) of the Notice, or to produce material in compliance with paragraph 5(b) of the Notice.
 
 Dated this day of 19 .
 
