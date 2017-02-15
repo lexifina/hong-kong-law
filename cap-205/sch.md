@@ -1,12 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [s. 3]
 
 - 1. The pension calculated on the contributions up to and including 30 June 1959 may be increased in accordance with any increase granted by the Government up to and including 30 June 1959.
 
-- 2. The pension calculated on the total contributions up to 30 June 1959 inclusive plus the total increase in pension up to that date may be increased by 13 1/2% with effect from 1 April 1965.
+- 2. The pension calculated on the total contributions up to 30 June 1959 inclusive plus the total increase in pension up to that date may be increased by 13.5% with effect from 1 April 1965. (Amended E.R. 1 of 2017)
 
-- 3. The pension calculated on the contributions from 1 July 1959 to 30 June 1963 inclusive may be increased by 13 1/2% with effect from 1 April 1965.
+- 3. The pension calculated on the contributions from 1 July 1959 to 30 June 1963 inclusive may be increased by 13.5% with effect from 1 April 1965. (Amended E.R. 1 of 2017)
 
 - 4. The pension calculated on the contributions from 1 July 1963 to 31 March 1965 inclusive may be increased by 1% with effect from 1 April 1965.
 
@@ -106,4 +106,4 @@
 
 - 52. The pension calculated on the total contributions up to 31 March 1991 inclusive plus the total increases in pension up to 31 March 1992 may be increased by 11.54% with effect from 1 April 1992. (Added L.N. 150 of 1992)
 
-- 53. The pension calculated on contributions from 1 April 1991 to 31 March 1992 inclusive may be increased by 11.54% with effect from 1 April 1992. (Added L.N. 150 of 1992)
+- 53. The pension calculated on contributions from 1 April 1991 to 31 March 1992 inclusive may be increased by 11.54% with effect from 1 April 1992. (Added L.N. 150 of 1992) (Amended 3 of 1993 s.56)
