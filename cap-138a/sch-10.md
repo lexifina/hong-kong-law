@@ -396,6 +396,8 @@ Poisons List
 
     - Auranofin
 
+    - Avanafil; its salts
+
     - Axitinib; its salts
 
     - Azacitidine; its salts
@@ -479,6 +481,8 @@ Poisons List
     - Bitolterol; its salts
 
     - Bivalirudin; its salts
+
+    - Blinatumomab
 
     - Blood products derived from human blood or manufactured by biotechnology, the following—
 
@@ -841,6 +845,8 @@ Poisons List
     - Dapoxetine; its salts
 
     - Dapsone
+
+    - Daratumumab
 
     - Darbepoetin alfa
 
@@ -1398,6 +1404,8 @@ Poisons List
 
     - Interferons
 
+    - Iodine-131; its salts; when contained in pharmaceutical products
+
     - Ipilimumab
 
     - Iprindole; its salts
@@ -1599,6 +1607,8 @@ Poisons List
     - Mepirizole; its salts
 
     - Mepivacaine; its salts
+
+    - Mepolizumab
 
     - Meprobamate
 
@@ -2746,7 +2756,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 38 of 2017)
 
     - Division B
 
