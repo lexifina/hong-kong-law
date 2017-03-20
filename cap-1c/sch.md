@@ -56,7 +56,7 @@ Chief Secretary for Administration | Jesuit Order (Portuguese Province) Incorpor
 
 Chief Secretary for Administration | Kowloon Union Church Incorporation Ordinance (Cap. 1032), section 6(2).
 
-Chief Secretary for Administration | Petites Soeurs des Pauvres, St. Pern, Bretagne, Incorporation Ordinance (Cap. 1039), section 6(2).
+Chief Secretary for Administration | Petites Sœurs des Pauvres, St. Pern, Bretagne, Incorporation Ordinance (Cap. 1039), section 6(2).
 
 Chief Secretary for Administration | Pontifical Foreign Missions Institute Incorporation Ordinance (Cap. 1041), section 5(2).
 
@@ -64,7 +64,7 @@ Chief Secretary for Administration | Salesian Society Incorporation Ordinance (C
 
 Chief Secretary for Administration | Sisters of the Precious Blood Order Incorporation Ordinance (Cap. 1045), section 4(2).
 
-Chief Secretary for Administration | Soeurs de Saint Paul de Chartres Incorporation Ordinance (Cap. 1046), section 5(2).
+Chief Secretary for Administration | Sœurs de Saint Paul de Chartres Incorporation Ordinance (Cap. 1046), section 5(2).
 
 Chief Secretary for Administration | Chater (Cathedral and St. Andrew’s) Endowment Funds Incorporation Ordinance (Cap. 1050), section 4(3).
 
@@ -208,7 +208,7 @@ Director of Agriculture, Fisheries and Conservation | Public Health (Animals and
 
 Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) Regulations (Cap. 139 sub. leg. A), regulations 30, 34, 35, 37, 44 and 51.
 
-Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) (Animal Traders) Regulations (Cap. 139 sub. leg. B), regulations 5(1) and (3) and 7.
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) (Trading and Breeding) Regulations (Cap. 139 sub. leg. B), regulations 5, 5A, 5B, 5C, 5D, 5E, 5F, 5G, 5H and 7. (L.N. 68 of 2016)
 
 Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) (Keeping of Cattle, Sheep and Goats) Regulations (Cap. 139 sub. leg. C), regulations 4, 11(1) and 13.
 
@@ -416,7 +416,7 @@ Secretary for Development | Buildings Ordinance (Cap. 123).
 
 Secretary for Education | Non-local Higher and Professional Education (Regulation) Ordinance (Cap. 493), section 8(1)(a)(ii)(B).
 
-Secretary for Education | Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150), sections 4(1)(g) and (2), 5(2) (e), (ea), (g) and (l), 9(1), 12(b), 13(1), (2) and (3) and 17.
+Secretary for Education | Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150), sections 4(1)(g) and (2), 5(2)(e), (ea), (g) and (l), 9(1), 12(b), 13(1), (2) and (3) and 17.
 
 Secretary for Home Affairs | Probate and Administration Ordinance (Cap. 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K.
 
@@ -452,4 +452,4 @@ Secretary for Transport and Housing | Roads (Works, Use and Compensation) Ordina
 
 Secretary for Transport and Housing | Tate’s Cairn Tunnel Ordinance (Cap. 393).
 
-(Schedule replaced 18 of 2014 s. 62. 7 of 2016 s.21)
+(Schedule replaced 18 of 2014 s. 62. 7 of 2016 s. 21)
