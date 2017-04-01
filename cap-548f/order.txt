@@ -32,6 +32,8 @@ s-030.md
 s-031.md
 s-032.md
 s-033.md
+s-033A.md
+s-033B.md
 s-034.md
 s-035.md
 s-036.md
