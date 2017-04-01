@@ -4,7 +4,7 @@
 
 Paris Convention Countries and WTO Members
 
-Countries which have acceded to the Paris Convention
+(Format changes—E.R. 2 of 2014) Countries which have acceded to the Paris Convention
 
 The Republic of Albania
 
@@ -360,6 +360,8 @@ The Republic of Zimbabwe
 
 Countries, territories and areas which have acceded to the World Trade Organization Agreement
 
+The Islamic Republic of Afghanistan
+
 The Republic of Albania
 
 The Republic of Angola
@@ -504,6 +506,8 @@ Japan
 
 The Hashemite Kingdom of Jordan
 
+The Republic of Kazakhstan
+
 The Republic of Kenya
 
 Republic of Korea
@@ -517,6 +521,8 @@ The Lao People’s Democratic Republic
 Republic of Latvia
 
 The Kingdom of Lesotho
+
+The Republic of Liberia
 
 The Principality of Liechtenstein
 
@@ -612,6 +618,8 @@ The Republic of Senegal
 
 Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
+The Republic of Seychelles
+
 The Republic of Sierra Leone
 
 The Republic of Singapore
@@ -678,4 +686,4 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013; L.N. 70 of 2014; L.N. 123 of 2015) (Format changes—E.R. 2 of 2014)
+(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013; L.N. 70 of 2014; L.N. 123 of 2015; L.N. 18 of 2017)
