@@ -4,7 +4,7 @@
 
 Paris Convention Countries and WTO Member Countries, Territories and Areas
 
-Paris Convention countries
+(Format changes—E.R. 2 of 2014) Paris Convention countries
 
 The following are specified for the purposes of the definition of Paris Convention country in section 2(1) as countries which have acceded to the Paris Convention—
 
@@ -364,6 +364,8 @@ WTO member countries, territories and areas (not including Paris Convention coun
 
 The following are specified as being countries, territories or areas which have acceded to the World Trade Organisation Agreement—
 
+The Islamic Republic of Afghanistan
+
 The Republic of Cabo Verde
 
 European Union
@@ -382,4 +384,4 @@ The Solomon Islands
 
 The Republic of Vanuatu
 
-(Amended L.N. 341 of 1998; L.N. 66 of 2002; L.N. 217 of 2005; L.N. 252 of 2009; L.N. 62 of 2013; L.N. 68 of 2014; L.N. 121 of 2015) (Format changes—E.R. 2 of 2014)
+(Amended L.N. 341 of 1998; L.N. 66 of 2002; L.N. 217 of 2005; L.N. 252 of 2009; L.N. 62 of 2013; L.N. 68 of 2014; L.N. 121 of 2015; L.N. 16 of 2017)
