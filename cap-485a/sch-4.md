@@ -42,11 +42,51 @@ Financial Penalties
 
 - 4 | 22B | Approved trustee to pay annual registration fee | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
-- Part 2 Mandatory Provident Fund Schemes (General) Regulation
+- 4A | 27(2A) | Approved trustee to invest accrued benefits according to selection of scheme member as permitted under the governing rules (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
-- (Cap. 485 sub. leg. A)
+- 4B | 34DB(1)(a) | Approved trustee to provide in the governing rules a default investment strategy that complies with Part 2 of Schedule 10 to the Ordinance (9 of 2016 s. 26) | if approved trustee fails to provide in the governing rules of a registered scheme a default investment strategy that complies with Part 2 of Schedule 10 to the Ordinance— (a) in the case of the first occasion on which the trustee fails to do so, a daily penalty of $10,000 for each day on which the failure continues; (b) in the case of the second occasion on which the trustee fails to do so, a daily penalty of $20,000 for each day on which the failure continues; and (c) in the case of the third or subsequent occasion on which the trustee fails to do so, a daily penalty of $50,000 for each day on which the failure continues
 
-- Item | Relevant section of the Regulation | Short description of the relevant duty or requirement | Amount offinancial penalty for first failure | Amount of financial penalty for second failure | Amount of financial penalty for third or subsequent failure
+- 4C | 34DB(1)(b) | Approved trustee to ensure investment related to default investment strategy accords with Part 4AA of, and Part 2 of Schedule 10 to, the Ordinance (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4D | 34DB(1)(c) | Approved trustee to invest accrued benefits of scheme member according to default investment strategy in default of specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4E | 34DB(1)(d) | Approved trustee to ensure default investment strategy is available for selection by scheme member (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4F | 34DB(3) | Approved trustee must not invest according to default investment strategy the accrued benefits in pre-existing account of scheme member who the trustee is aware has reached 60 years of age before the commencement date# of Part 4AA of the Ordinance unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4G | 34DC(1) | Approved trustee to ensure transferred benefits remain invested in the same manner as they were invested immediately before the transfer unless scheme member otherwise instructs (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4H | 34DD(1) | Approved trustee to ensure only payments for services complying with section 34DD(3) of the Ordinance may be charged to or imposed on scheme member etc. relating to DIS constituent fund (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4I | 34DD(4) | Approved trustee to ensure aggregate of certain payments does not exceed percentage of net asset value of DIS constituent fund specified in Schedule 11 to the Ordinance (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4J | 34DH(1) | Approved trustee to continue to invest accrued benefits in DIA account unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4K | 34DH(2) | Approved trustee to continue to invest any accrued benefits in DIA account according to default investment strategy after accrued benefits have been invested according to strategy under section 34DI(2) or 34DJ(3) or (5) unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4L | 34DI(1) | Approved trustee to give specified notice to scheme member within 6 months after the commencement date# of Part 4AA of the Ordinance (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4M | 34DI(2) | Approved trustee to invest accrued benefits according to default investment strategy in default of reply to specified notice within 14 days after expiry day (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4N | 34DJ(2) | Approved trustee to locate scheme member in the manner and within time limit specified in guidelines (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4O | 34DJ(3) | Approved trustee to invest within 14 days after time limit accrued benefits of scheme member who cannot be located (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4P | 34DJ(4) | Approved trustee to give specified notice to scheme member who is located (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4Q | 34DJ(5) | Approved trustee to invest accrued benefits of scheme member who is located according to default investment strategy in default of reply to specified notice within 14 days after expiry day (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4R | 34DK(2) | Approved trustee not to invest accrued benefits invested in guaranteed fund according to default investment strategy unless the market value of those benefits is not less than the value guaranteed by the fund (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4S | 34DM | Approved trustee to continue to invest part of accrued benefits in pre-existing account unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- Editorial Note:
+
+- # Commencement date: 1 April 2017.
+
+- Part 2 Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A)
+
+- Item | Relevant section of the Regulation | Short description of the relevant duty or requirement | Amount of financial penalty for first failure | Amount of financial penalty for second failure | Amount of financial penalty for third or subsequent failure
 
 - $ | $ | $
 

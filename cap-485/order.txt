@@ -98,6 +98,19 @@ s-034A.md
 s-034B.md
 s-034C.md
 s-034D.md
+s-034DA.md
+s-034DB.md
+s-034DC.md
+s-034DD.md
+s-034DE.md
+s-034DF.md
+s-034DG.md
+s-034DH.md
+s-034DI.md
+s-034DJ.md
+s-034DK.md
+s-034DL.md
+s-034DM.md
 s-034E.md
 s-034F.md
 s-034G.md
@@ -209,3 +222,5 @@ sch-6.md
 sch-7.md
 sch-8.md
 sch-9.md
+sch-10.md
+sch-11.md
