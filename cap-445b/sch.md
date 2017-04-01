@@ -4,6 +4,8 @@
 
 Qualifying Countries, Territories or Areas
 
+The Islamic Republic of Afghanistan
+
 The Republic of Albania
 
 The Republic of Angola
@@ -148,6 +150,8 @@ Japan
 
 The Hashemite Kingdom of Jordan
 
+The Republic of Kazakhstan
+
 The Republic of Kenya
 
 Republic of Korea
@@ -161,6 +165,8 @@ The Lao People’s Democratic Republic
 Republic of Latvia
 
 The Kingdom of Lesotho
+
+The Republic of Liberia
 
 The Principality of Liechtenstein
 
@@ -256,6 +262,8 @@ The Republic of Senegal
 
 Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
+The Republic of Seychelles
+
 The Republic of Sierra Leone
 
 The Republic of Singapore
@@ -322,4 +330,4 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(L.N. 218 of 2005; L.N. 255 of 2009; L.N. 65 of 2013; L.N. 71 of 2014; L.N. 124 of 2015)
+(L.N. 218 of 2005; L.N. 255 of 2009; L.N. 65 of 2013; L.N. 71 of 2014; L.N. 124 of 2015; L.N. 19 of 2017)
