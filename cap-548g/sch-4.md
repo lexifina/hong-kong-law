@@ -22,7 +22,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
     - (1) Where a local vessel is required by this Schedule to be provided with fire pumps operated by power—
 
-      - (a) such fire pumps shall be—
+      - (a) unless otherwise specified in this Schedule, such fire pumps shall be— (L.N. 187 of 2016)
 
         - (i) driven by means other than the vessel’s main engines; and
 
@@ -398,7 +398,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
     - (1) The requirement for a Class II vessel of 75 m or more in length shall be specified by the Director on a case-by-case basis.
 
-    - (2) In vessels having cargoes with flash point exceeding 61°C (closed cup test), such system may be substituted by a non-portable fire extinguisher if it can be satisfactorily demonstrated that the jet of the fire extinguishing media can reach any part of the engine room and cargo pump room.
+    - (2) In vessels having cargoes with flash point exceeding 60°C (closed cup test), such system may be substituted by a non-portable fire extinguisher if it can be satisfactorily demonstrated that the jet of the fire extinguishing media can reach any part of the engine room and cargo pump room. (L.N. 187 of 2016)
 
     - (3) The fire pump may be propulsion engine driven, provided it can be readily engaged to the engine.
 

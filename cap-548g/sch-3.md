@@ -150,7 +150,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (6) The minimum length of buoyant lifeline is 30 m. Table 4 Class II vessels that operate within river trade limits
 
-  - Oil carrier having cargoes with flash point not exceeding 61°C (closed cup test) | Other vessels
+  - Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
 
   - lifejacket | 100%(1)
 
@@ -172,7 +172,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - rocket parachute flare(4) | 6
 
-  - Notes:
+  - (L.N. 187 of 2016) Notes:
 
   - (1) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
 
