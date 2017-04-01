@@ -8,7 +8,9 @@ AMOUNTS OF COMPENSATION
 
 - OR MESOTHELIOMA (OR BOTH) (Amended 6 of 2008 s. 27)
 
-  - 1. An amount calculated according to the formula— (Average yearly earnings x Age factor x 55%) x 110%, rounded up to the nearest $10.
+  - 1. An amount calculated according to the formula— (Average yearly earnings x Age factor x 55%) x 110%,
+
+  - rounded up to the nearest $10.
 
   - 2. In paragraph 1—
 
@@ -46,7 +48,7 @@ AMOUNTS OF COMPENSATION
 
 - PART IIA COMPENSATION FOR PAIN, SUFFERING
 
-- AND LOSS OF AMENITIES $4,650. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015)
+- AND LOSS OF AMENITIES $5,110. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
 
 - PART III COMPENSATION FOR PERIOD PRIOR TO DATE OF DIAGNOSIS
 
@@ -68,11 +70,11 @@ AMOUNTS OF COMPENSATION
 
     - “No. of months” (月數) means the number of full months, not exceeding 24, in the period from the earliest diagnosed date to the date of diagnosis.
 
-- PART IV COMPENSATION FOR CARE AND ATTENTION $4,930. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015)
+- PART IV COMPENSATION FOR CARE AND ATTENTION $5,210. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
 
-- PART V COMPENSATION FOR BEREAVEMENT $110,390. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015)
+- PART V COMPENSATION FOR BEREAVEMENT $121,230. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
 
-- PART VI FUNERAL EXPENSES An amount not exceeding $76,220, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015)
+- PART VI FUNERAL EXPENSES An amount not exceeding $83,700, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
 
 - PART VII INTERPRETATION In this Schedule—
 
