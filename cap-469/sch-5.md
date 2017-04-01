@@ -12,17 +12,25 @@ Amount of Compensation
 
     - Age | Multiplying factor
 
-    - under 40 40 to under 56 56 and above | 96 72 48; or
+    - under 40 | 96
 
-    - (ii) the sum of $426,880; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015)
+    - 40 to under 56 | 72
+
+    - 56 and above | 48; or
+
+    - (ii) the sum of $464,360; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017)
 
   - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— Table 2
 
   - Age | Sum
 
-  - under 40 40 to under 56 56 and above | $2,502,720 $1,877,040 $1,251,360
+  - under 40 | $2,722,560
 
-- (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015)
+  - 40 to under 56 | $2,041,920
+
+  - 56 and above | $1,361,280
+
+- (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017)
 
 - 2. For the purpose of this Schedule, earnings include—
 
@@ -34,17 +42,19 @@ Amount of Compensation
 
   - (d) any overtime payments or other special remuneration for work done, whether by way of bonus, allowance or otherwise, if of constant character or for work habitually performed; and
 
-  - (e) tips if the employment be of such a nature that the habitual giving or receiving thereof is open and well known and is recognized by the employer, but do not include—
+  - (e) tips if the employment be of such a nature that the habitual giving or receiving thereof is open and well known and is recognized by the employer,
 
-    - (i) remuneration for intermittent overtime;
+- but do not include—
 
-    - (ii) casual payments of a non-recurrent nature;
+  - (i) remuneration for intermittent overtime;
 
-    - (iii) the value of a travelling allowance or a travelling concession;
+  - (ii) casual payments of a non-recurrent nature;
 
-    - (iv) a contribution paid by the employer of a claimant towards any pension or provident fund; or
+  - (iii) the value of a travelling allowance or a travelling concession;
 
-    - (v) a sum paid to a claimant to cover any special expenses entailed on him by the nature of his employment.
+  - (iv) a contribution paid by the employer of a claimant towards any pension or provident fund; or
+
+  - (v) a sum paid to a claimant to cover any special expenses entailed on him by the nature of his employment.
 
 - 3. For the purpose of this Schedule—
 
