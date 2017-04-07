@@ -28,13 +28,17 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 - The public fill charge payable in respect of each load of construction waste delivered to a public fill reception facility for disposal is calculated as follows—
 
-- (a) | For a load of waste weighing 1 tonne or less | Charge $27
+- Charge
 
-- (b) | For a load of waste weighing more than 1 tonne | $2.7 per 0.1 tonne*
+- (a) | For a load of waste weighing 1 tonne or less | $71
 
-- (c) | For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems | $27
+- (b) | For a load of waste weighing more than 1 tonne | $7.1 per 0.1 tonne*
 
-- (d) | For each load of waste delivered by a vessel approved under Part 4 | $2.7 for every 0.1 tonne of the maximum load of the vessel*
+- (c) | For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems | $71
+
+- (d) | For each load of waste delivered by a vessel approved under Part 4 | $7.1 for every 0.1 tonne of the maximum load of the vessel*
+
+- (L.N. 60 of 2016)
 
 - * | In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b) or (d)—
 
