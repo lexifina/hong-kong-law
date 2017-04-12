@@ -1,6 +1,12 @@
+Editorial Note:
+
+* Date of publication in the Gazette: 20 April 2018.
+
 # First Schedule
 
-[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71 & 72 & 2nd Sch. & Schs. 7, 8 & 9] (Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 2 of 2018 s. 11) (Format changes—E.R. 1 of 2015)
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71, 72 & 73 & 2nd Sch. & Schs. 7, 8 & 9]
+
+(Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 2 of 2018 s. 11; 18 of 2018 s. 9) (Format changes—E.R. 1 of 2015)
 
 Nature of Instrument | (A) (B) (C) | Stamp Duty Time for stamping Persons liable
 
