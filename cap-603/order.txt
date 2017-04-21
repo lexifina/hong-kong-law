@@ -46,8 +46,14 @@ s-028M.md
 s-028N.md
 s-029.md
 s-030.md
+s-031.md
+s-044.md
+s-045.md
+s-046.md
 sch-1.md
 sch-2.md
 sch-3.md
 sch-4.md
 sch-5.md
+sch-6.md
+sch-7.md

@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[s. 4]
+[ss. 4 & 5] (3 of 2016 s. 22)
 
 FEES
 
