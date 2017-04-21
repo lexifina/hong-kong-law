@@ -1,5 +1,7 @@
 Construction Workers Registration (Exemption) Regulation
 
-(Made by the Secretary for Development under section 63A of the Construction Workers Registration Ordinance (Cap. 583))
+(Cap. 583, section 63A)
+
+(Enacting provision omitted—E.R. 2 of 2017)
 
 [1 April 2017]

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-SPECIFIED JURISDICTIONS
+Specified Jurisdictions
 
 - 1. United Kingdom
 
