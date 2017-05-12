@@ -228,7 +228,7 @@ Item | Body
 
 116. | Royal International College (Added L.N. 173 of 2010)
 
-117. | Knowledge Education Centre (Added L.N. 173 of 2010)
+117. | (Repealed L.N. 78 of 2017)
 
 118. | Hongkong School of Commerce (Added L.N. 173 of 2010)
 
@@ -282,7 +282,7 @@ Item | Body
 
 147. | (Repealed L.N. 142 of 2014)
 
-148. | Hong Kong Storehouses, Transportation & Logistics Staff Association (Added L.N. 173 of 2010)
+148. | (Repealed L.N. 78 of 2017)
 
 149. | Logistics Cargo Supervisors Association (Added L.N. 173 of 2010)
 
