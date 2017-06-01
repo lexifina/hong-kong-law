@@ -34,9 +34,25 @@ Item | Chemical | CAS registry number
 
 (c) other tetra- and pentabromodiphenyl ethers present in commercial pentabromodiphenyl ether
 
-(Amended L.N. 73 of 2014)
+7. | Hexabromocyclododecane:
 
-- Part 2 Extent to which Part 2 of Ordinance does not Apply to Type 1 Chemicals
+(a) hexabromocyclododecane | 25637-99-4
+
+(b) 1,2,5,6,9,10-hexabromocyclododecane | 3194-55-6
+
+and its main diastereoisomers:
+
+(i) alpha-hexabromocyclododecane | 134237-50-6
+
+(ii) beta-hexabromocyclododecane | 134237-51-7
+
+(iii) gamma- hexabromocyclododecane | 134237-52-8
+
+(Amended L.N. 73 of 2014; L.N. 194 of 2016)
+
+- Part 2 Extent to which Part 2 of Ordinance does not
+
+- Apply to Type 1 Chemicals
 
   - 1. Interpretation of this Part
 
