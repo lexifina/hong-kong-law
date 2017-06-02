@@ -16,6 +16,8 @@ Item | Year of assessment | Amount
 
 5. | For the years of assessment 2007/08 to 2012/13 inclusive (Replaced 5 of 2013 s. 5) | $60,000
 
-6. | For the year of assessment 2013/14 and for each year after that year (Added 5 of 2013 s. 5) | $80,000
+6. | For the years of assessment 2013/14 to 2016/17 inclusive (Replaced 3 of 2017 s. 7) | $80,000
+
+7. | For the year of assessment 2017/18 and for each year after that year (Added 3 of 2017 s. 7) | $100,000
 
 (Added 42 of 1997 s. 5)
