@@ -90,6 +90,8 @@ Poisons List
 
     - Aflibercept
 
+    - Afoxolaner; its salts
+
     - Agalsidase beta
 
     - Agomelatine; its salts
@@ -1182,6 +1184,8 @@ Poisons List
 
     - Fingolimod; its salts; its esters; their salts
 
+    - Firocoxib; its salts
+
     - Flavoxate; its salts
 
     - Flecainide; its salts
@@ -1207,6 +1211,8 @@ Poisons List
     - Fluoxetine; its salts
 
     - Flupenthixol; its salts
+
+    - Fluralaner; its salts
 
     - Flurbiprofen
 
@@ -1439,6 +1445,8 @@ Poisons List
     - Itraconazole; its salts
 
     - Ivabradine; its salts
+
+    - Ixekizumab
 
     - Ketamine; its salts
 
@@ -1803,6 +1811,8 @@ Poisons List
     - Nateglinide; its salts; its esters
 
     - Nebivolol; its salts
+
+    - Necitumumab
 
     - Nedocromil; its salts
 
@@ -2450,6 +2460,8 @@ Poisons List
 
     - [1’,2’:1,6]pyrido[3,4-b]indole-1,4-dione substituted to any degree or without substitution; its salts
 
+    - Tafamidis; its salts
+
     - Tafluprost
 
     - Tamoxifen; its salts
@@ -2684,6 +2696,8 @@ Poisons List
 
     - Vedolizumab
 
+    - Velpatasvir; its salts
+
     - Vemurafenib; its salts
 
     - Venlafaxine; its salts
@@ -2756,7 +2770,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 38 of 2017)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 38 of 2017; L.N. 119 of 2017)
 
     - Division B
 
