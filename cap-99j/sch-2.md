@@ -1,4 +1,4 @@
-# Schedule 2
+# SCHEDULE 2
 
 [ss. 1 & 2]
 
@@ -144,6 +144,8 @@ Chiropodist II (HA) | 1.12.1991
 
 Clinical Psychologist (HA) | 1.12.1991
 
+Cluster General Manager (Human Resources) (HA) (L.N. 121 of 2017) | 17.7.2014
+
 Consultant (HA) | 1.12.1991
 
 Consultant (Hospital Services) (HA) (L.N. 13 of 2008) | 8.9.2006
@@ -154,7 +156,7 @@ Darkroom Technician (HA) | 1.12.1991
 
 Department Manager (HA) | 14.10.1992
 
-Departmental Operations Manager (HA) | 3. 7.1992
+Departmental Operations Manager (HA) | 3.7.1992
 
 Deputy Director of Hospital Services (HA) | 1.12.1991
 
@@ -174,13 +176,13 @@ Ganger (HA) (L.N. 104 of 2008) | 1.10.2008
 
 Gardener (HA) (L.N. 104 of 2008) | 1.10.2008
 
-General Manager (Administrative Services) (HA) | 1. 5.1992
+General Manager (Administrative Services) (HA) | 1.5.1992
 
-General Manager (Allied Health Services) (HA) | 1. 7.1992
+General Manager (Allied Health Services) (HA) | 1.7.1992
 
-General Manager (Clinical Services) (HA) | 3. 7.1992
+General Manager (Clinical Services) (HA) | 3.7.1992
 
-General Manager (Nursing) (HA) | 3. 7.1992
+General Manager (Nursing) (HA) | 3.7.1992
 
 Head Property Attendant (HA) | 1.6.1995
 
