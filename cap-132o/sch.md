@@ -82,7 +82,7 @@
 
 - 40. The part of the first floor, Commercial Complex, Tai Hing Estate, Tuen Mun, hatched blue on a map dated 29 September 1978, signed by the Secretary for Home Affairs and deposited in the Tuen Mun District Office of the Leisure and Cultural Services Department.
 
-- 41. The 1st floor of the building known as Yuen Long Government Offices, 2 Kiu Lok Square, Yuen Long.
+- 41. The ground and first floors of Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long. (L.N. 39 of 2017)
 
 - 42. The 4th floor of the building known as Kwai Hing Government Offices, 166-174 Hing Fong Road, Kwai Chung.
 
