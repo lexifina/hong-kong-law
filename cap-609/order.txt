@@ -103,6 +103,17 @@ s-098A.md
 s-098B.md
 s-098C.md
 s-098D.md
+s-098E.md
+s-098F.md
+s-098G.md
+s-098H.md
+s-098I.md
+s-098J.md
+s-098P.md
+s-098Q.md
+s-098R.md
+s-098S.md
+s-098X.md
 s-099.md
 s-100.md
 s-101.md
