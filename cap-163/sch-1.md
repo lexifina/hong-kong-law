@@ -12,7 +12,7 @@
 
   - 4. A trade union registered under the Trade Unions Ordinance (Cap. 332).
 
-  - 5. An insurer, within the meaning of the Insurance Companies Ordinance (Cap. 41), authorized under that Ordinance to carry on a class, or classes, of insurance business specified in Part 2 of the First Schedule to that Ordinance.
+  - 5. An insurer, within the meaning of the Insurance Ordinance (Cap. 41), authorized under that Ordinance to carry on a class, or classes, of insurance business specified in Part 2 of Schedule 1 to that Ordinance. (Amended 12 of 2015 s. 107)
 
   - 6. (Repealed L.N. 140 of 1991)
 

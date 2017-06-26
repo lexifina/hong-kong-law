@@ -208,21 +208,21 @@ Investment of Scheme Funds
 
     - (1) The funds of a constituent fund may be invested in—
 
-      - (a) fully-paid up shares listed on an approved stock exchange other than the shares of a company which is a collective investment scheme; (5 of 2002 s. 407; L.N. 145 of 2006)
+      - (a) fully-paid up shares listed on an approved stock exchange other than the shares of a company which is a collective investment scheme; (5 of 2002 s. 407)
 
-      - (b) an index-tracking collective investment scheme approved by the Authority for the purposes of section 6A of this Schedule; or (29 of 2002 s. 14; L.N. 145 of 2006)
+      - (b) an index-tracking collective investment scheme approved by the Authority for the purposes of section 6A of this Schedule; or (29 of 2002 s. 14)
 
       - (c) securities listed on an approved stock exchange that are approved, or are of a kind approved, by the Authority. (L.N. 145 of 2006)
 
     - (2) Not more than 10 per cent in total of the funds of a constituent fund may be invested in the following— (L.N. 145 of 2006)
 
-      - (a) fully-paid up shares listed on a stock exchange that is not an approved stock exchange, other than the shares of a company that is a collective investment scheme; (L.N. 145 of 2006)
+      - (a) fully-paid up shares listed on a stock exchange that is not an approved stock exchange, other than the shares of a company that is a collective investment scheme;
 
-      - (b) securities that are approved, or are of a kind approved, by the Authority, other than shares listed on an approved stock exchange; and (L.N. 145 of 2006)
+      - (b) securities that are approved, or are of a kind approved, by the Authority, other than shares listed on an approved stock exchange; and
 
       - (c) an authorized unit trust or authorized mutual fund of a kind to which Part 4 of this Schedule does not apply but which is approved by the Authority for the purposes of this Part. (5 of 2002 s. 407)
 
-  - (E.R. 1 of 2013)
+  - (L.N. 145 of 2006; E.R. 1 of 2013)
 
   - 9. Permissible investments: convertible debt securities
 
@@ -368,9 +368,7 @@ Investment of Scheme Funds
 
 - Part 3 Currency Exposure
 
-  - 16. Permissible investments: minimum Hong Kong
-
-  - dollar currency exposure
+  - 16. Permissible investments: minimum Hong Kong dollar currency exposure
 
     - (1) At least 30 per cent of a constituent fund must be held in Hong Kong dollar currency investments, as measured by the effective currency exposure.
 
@@ -472,7 +470,7 @@ Investment of Scheme Funds
 
     - (1) The funds of a constituent fund may be invested in an insurance policy, but only if the policy—
 
-      - (a) is within class G or H insurance business for the purposes of the Insurance Companies Ordinance (Cap. 41); and
+      - (a) is within class G or H insurance business for the purposes of the Insurance Ordinance (Cap. 41); and (12 of 2015 s. 132)
 
       - (b) is issued by an authorized insurer; and
 

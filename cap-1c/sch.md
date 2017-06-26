@@ -376,8 +376,6 @@ Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (C
 
 Gas Authority | Gas Safety Ordinance (Cap. 51).
 
-Insurance Authority | Insurance Companies Ordinance (Cap. 41).
-
 Land Registrar | Government Rights (Re-entry and Vesting Remedies) Ordinance (Cap. 126), sections 11(1) and (3) and 12(1) and (3).
 
 Land Registrar | Land Registration Ordinance (Cap. 128).
@@ -452,4 +450,4 @@ Secretary for Transport and Housing | Roads (Works, Use and Compensation) Ordina
 
 Secretary for Transport and Housing | Tate’s Cairn Tunnel Ordinance (Cap. 393).
 
-(Schedule replaced 18 of 2014 s. 62. 7 of 2016 s. 21)
+(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21)

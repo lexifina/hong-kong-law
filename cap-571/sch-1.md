@@ -454,9 +454,9 @@ Interpretation and General Provisions
 
     - information system (資訊系統) means an information system as defined in section 2(1) of the Electronic Transactions Ordinance (Cap. 553);
 
-    - Insurance Authority (保險業監督) means the Insurance Authority appointed under section 4 of the Insurance Companies Ordinance (Cap. 41);
+    - Insurance Authority (保監局) means the Insurance Authority established under section 4AAA of the Insurance Ordinance (Cap. 41); (Replaced 12 of 2015 s. 144)
 
-    - insurer (保險人) means an insurer as defined in section 2(1) of the Insurance Companies Ordinance (Cap. 41);
+    - insurer (保險人) means an insurer as defined in section 2(1) of the Insurance Ordinance (Cap. 41); (Amended 12 of 2015 s. 144)
 
     - interest rate-linked instrument (利率掛鈎票據) means—
 
@@ -610,7 +610,7 @@ Interpretation and General Provisions
 
       - (c) any authorized financial institution, or any bank which is not an authorized financial institution but is regulated under the law of any place outside Hong Kong;
 
-      - (d) any insurer authorized under the Insurance Companies Ordinance (Cap. 41), or any other person carrying on insurance business and regulated under the law of any place outside Hong Kong;
+      - (d) any insurer authorized under the Insurance Ordinance (Cap. 41), or any other person carrying on insurance business and regulated under the law of any place outside Hong Kong; (Amended 12 of 2015 s. 144)
 
       - (e) any scheme which—
 
@@ -836,7 +836,7 @@ Interpretation and General Provisions
 
         - (B) an occupational retirement scheme as defined in section 2(1) of the Occupational Retirement Schemes Ordinance (Cap. 426); or
 
-        - (C) a contract of insurance in relation to any class of insurance business specified in the First Schedule to the Insurance Companies Ordinance (Cap. 41);
+        - (C) a contract of insurance in relation to any class of insurance business specified in Schedule 1 to the Insurance Ordinance (Cap. 41); (Amended 12 of 2015 s. 144)
 
       - (iii) any interest arising under a general partnership agreement or proposed general partnership agreement unless the agreement or proposed agreement relates to an undertaking, scheme, enterprise or investment contract promoted by or on behalf of a person whose ordinary business is or includes the promotion of similar undertakings, schemes, enterprises or investment contracts (whether or not that person is, or is to become, a party to the agreement or proposed agreement);
 
@@ -1012,7 +1012,7 @@ Interpretation and General Provisions
 
         - (ii) a contest included in a service licensed under Part 3A of the Telecommunications Ordinance (Cap. 106);
 
-      - (i) a contract of insurance in relation to any class of insurance business specified in the First Schedule to the Insurance Companies Ordinance (Cap. 41); or
+      - (i) a contract of insurance in relation to any class of insurance business specified in Schedule 1 to the Insurance Ordinance (Cap. 41); or (Amended 12 of 2015 s. 144)
 
       - (j) any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as not being regarded as structured products in accordance with the notice.
 

@@ -1,8 +1,10 @@
-# EIGHTH SCHEDULE
+# Schedule 8
 
-[s. 25A]
+(Replaced 12 of 2015 s. 97)
 
-ASSETS WHICH QUALIFY AS ASSETS IN HONG KONG
+[ss. 25A & 138] (Replaced 12 of 2015 s. 97)
+
+Assets which Qualify as Assets in Hong Kong
 
 - 1. The following qualify as assets in Hong Kong—
 
@@ -10,7 +12,7 @@ ASSETS WHICH QUALIFY AS ASSETS IN HONG KONG
 
   - (b) computer equipment, office machinery, furniture, motor vehicles and other equipment located in Hong Kong;
 
-  - (c) money, in any currency or monetary unit, deposited and kept in Hong Kong at an authorized institution, as defined in the Banking Ordinance (Cap. 155); (Amended 51 of 1999 s. 8)
+  - (c) money, in any currency or monetary unit, deposited and kept in Hong Kong at an authorized institution; (Amended 51 of 1999 s. 8; 12 of 2015 s. 97)
 
   - (d) bonds or other securities issued in Hong Kong provided that they are transferable and registrable at a register in Hong Kong and, in the case of bonds or other securities which are evidenced by certificates, the certificates for them are for the time being kept in Hong Kong;
 
@@ -24,7 +26,7 @@ ASSETS WHICH QUALIFY AS ASSETS IN HONG KONG
 
       - (i) transferable and registrable only at a register in Hong Kong; or
 
-      - (ii) in the ordinary course of business, transferred and registered at a register in Hong Kong and the certificates for which (if any) are for the time being kept in Hong Kong.
+      - (ii) in the ordinary course of business, transferred and registered at a register in Hong Kong and the certificates for which (if any) are for the time being kept in Hong Kong;
 
   - (h) debts that may be enforced only by legal proceedings in a Hong Kong court, other than amounts recoverable in respect of claims outstanding under reinsurance contracts ceded;
 
@@ -34,4 +36,4 @@ ASSETS WHICH QUALIFY AS ASSETS IN HONG KONG
 
   - For the purpose of paragraph 1(i), “unit trust” (單位信託) means any arrangement made for the purpose, or having the effect, of providing facilities for the participation by persons, as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever. (Added 5 of 2002 s. 407)
 
-(Eighth Schedule Added 26 of 1994 s. 8)
+(Schedule 8 added 26 of 1994 s. 8)

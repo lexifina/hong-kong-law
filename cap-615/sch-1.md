@@ -90,7 +90,7 @@ Interpretation
 
     - authorized insurance broker (獲授權保險經紀) has the meaning given by section 2(1) of the Insurance Companies Ordinance (Cap. 41);
 
-    - authorized insurer (獲授權保險人) means an insurer authorized under the Insurance Companies Ordinance (Cap. 41);
+    - authorized insurer (獲授權保險人) means an insurer authorized under the Insurance Ordinance (Cap. 41); (Amended 12 of 2015 s. 162)
 
     - Commissioner (關長) means the Commissioner of Customs and Excise, any Deputy Commissioner of Customs and Excise, any Assistant Commissioner of Customs and Excise or a person to whom the Commissioner of Customs and Excise has delegated any of his or her functions under section 26;
 
@@ -112,7 +112,7 @@ Interpretation
 
       - (h) an SVF licensee; (Added 18 of 2015 s. 71)
 
-    - Insurance Authority (保險業監督) means the Insurance Authority appointed under section 4 of the Insurance Companies Ordinance (Cap. 41);
+    - Insurance Authority (保監局) means the Insurance Authority established under section 4AAA of the Insurance Ordinance (Cap. 41); (Replaced 12 of 2015 s. 162)
 
     - licensed corporation (持牌法團) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571);
 

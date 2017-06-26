@@ -440,7 +440,7 @@ Regulated Activities
 
     - (iv) arranged by an approved money broker and every party to which is a corporation or a limited partnership registered under the Limited Partnerships Ordinance (Cap. 37); (Amended 6 of 2014 s. 53)
 
-    - (v) that is a transaction executed solely for the purpose of its insurance business by an insurer authorized under section 8 of the Insurance Companies Ordinance (Cap. 41) to carry on insurance business or deemed to be so authorized under section 61(1) or (2) of that Ordinance;
+    - (v) that is a transaction executed solely for the purpose of its insurance business by an insurer authorized under section 8 of the Insurance Ordinance (Cap. 41) (Cap. 41) to carry on insurance business, or deemed to be so authorized under section 61(1) or (2) of Cap. 41 as in force immediately before the commencement date of section 10 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) having continuing effect by the operation of section 2(7) of Schedule 11 to Cap. 41; (Amended 12 of 2015 s. 145)
 
     - (vi) that is a contract executed on a specified futures exchange by or through a person who is licensed or registered for Type 2 regulated activity or is wholly incidental to one or more than one such contract or a series of such contracts;
 

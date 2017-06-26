@@ -28,7 +28,7 @@ Prescribed Offices
 
   - 11. Any office occupied by the executive, professional, managerial, technical or secretarial staff of the Hong Kong Monetary Authority. (Added 10 of 1996 s. 8)
 
-  - 12. Any office of the insurance officer grade staff (including the Commissioner or Assistant Commissioner) or the secretarial staff of the Office of the Commissioner of Insurance. (Added 10 of 1996 s. 8)
+  - 12. (Repealed 12 of 2015 s. 113)
 
   - 13. Any office occupied by the executive, professional, managerial, technical, inspectorate or secretarial staff of the Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 11)
 
@@ -36,4 +36,6 @@ Prescribed Offices
 
 - Part 2 Other Offices
 
-  - 1. Any office occupied by the executive staff (including the Executive Directors) or the secretarial staff of the Securities and Futures Commission. (Part 2 added 10 of 1996 s. 8)
+  - 1. Any office occupied by the executive staff (including the Executive Directors) or the secretarial staff of the Securities and Futures Commission.
+
+  - 2. Any office occupied by the executive, professional, managerial, technical, inspectorate or secretarial staff of the Insurance Authority. (Added 12 of 2015 s. 113) (Part 2 added 10 of 1996 s. 8)

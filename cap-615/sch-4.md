@@ -120,7 +120,7 @@ Provisions Relating to Anti-Money Laundering and Counter-Terrorist Financing (Fi
 
       - (b) in relation to the Securities and Futures Commission, means an employee of the Commission;
 
-      - (c) in relation to the Insurance Authority, means a public officer employed in the Office of the Commissioner of Insurance; and
+      - (c) in relation to the Insurance Authority, means an employee of the Authority; and (Replaced 12 of 2015 s. 164)
 
       - (d) in relation to the Commissioner, means a public officer employed in the Customs and Excise Department.
 

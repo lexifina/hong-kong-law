@@ -258,6 +258,10 @@ Public Bodies
 
 125. | HK Television Entertainment Company Limited. (Added L.N. 84 of 2015)
 
+126. | Insurance Authority. (Added 12 of 2015 s. 108)
+
+127. | Any wholly-owned subsidiary of the Insurance Authority established under section 4B(2)(g) of the Insurance Ordinance (Cap. 41). (Added 12 of 2015 s. 108)
+
 128. | Property Management Services Authority (including any committees established under the Property Management Services Ordinance (Cap. 626)). (Added 10 of 2016 s. 68. Amended E.R. 1 of 2017)
 
 129. | Hong Kong Green Building Council Limited. (Added L.N. 67 of 2016)
