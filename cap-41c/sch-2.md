@@ -1,11 +1,15 @@
 # Schedule 2
 
-[s. 2]
+[ss. 2 & 3]
 
-Item | Section of Ordinance | Fee to be paid | Class of insurance business carried on by captive insurer | Fee $
+Fees Payable under Section 13(1)(a) and (b) of Ordinance by Authorized Insurer who is Captive Insurer
 
-1. | Section 13(1)(a) | Fee payable upon authorization | General business | 22600
+Column 1 | Column 2 | Column 3 | Column 4
 
-2. | Section 13(1)(b) | Annual fee | General business | 22600
+Item | Section of Ordinance | Fee to be paid | Fee
 
-(L.N. 511 of 1997)
+1. | Section 13(1)(a) | Fee payable upon authorization | The aggregate of a fixed fee of $30,000 and a variable fee
+
+2. | Section 13(1)(b) | Annual fee | The aggregate of a fixed fee of $30,000 and a variable fee
+
+(Schedule 2 replaced L.N. 58 of 2017)
