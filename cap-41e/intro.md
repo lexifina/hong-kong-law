@@ -1,5 +1,7 @@
-INSURANCE COMPANIES (DETERMINATION OF LONG TERM LIABILITIES) REGULATION
+Insurance (Determination of Long Term Liabilities) Rules
 
-(Cap. 41, section 59)
+(L.N. 67 of 2017)
+
+(Cap. 41, section 129(1))
 
 [27 October 1995] L.N. 484 of 1995
