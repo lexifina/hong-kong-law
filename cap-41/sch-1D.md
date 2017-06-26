@@ -8,7 +8,7 @@ Non-delegable Functions of Authority
 
 - 1. The following functions of the Authority are specified for the purposes of section 4F(2)—
 
-  - (a) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - (a) to make subsidiary legislation under this Ordinance or any other Ordinance;
 
   - (b) to borrow money under section 4B(2)(c);
 
@@ -32,12 +32,18 @@ Non-delegable Functions of Authority
 
   - (l) to appoint auditors under section 5E(1);
 
-  - (m) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - (m) to authorize a company to carry on a class or classes of insurance business under section 8;
 
-  - (n) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - *(n) to appoint a person, other than an employee of the Authority, to investigate any matter referred to in sections 41D(1) and 64ZZH(1);
 
-  - (o) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - **(o) to publish codes or guidelines under section 41R, 83, 95 or 133;
 
-  - (p) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - (p) to specify the time at which a specified decision as defined by section 96 is to take effect;
 
-  - (q) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - (q) to consult the Financial Secretary with a view to recommending to the Chief Executive in Council that a levy be reduced, and to recommend to the Chief Executive in Council that the levy be reduced, under section 135.
+
+Editorial Note:
+
+* | The newly added section 1(n) of the new Schedule 1D of this Ordinance by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017 except in so far as it relates to the new section 64ZZH(1)—see paragraph (zd)(iii) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
+
+** | The newly added section 1(o) of the new Schedule 1D of this Ordinance by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017 except in so far as it relates to the new sections 83 and 95—see paragraph (zd)(iv) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
