@@ -1,5 +1,7 @@
-INSURANCE COMPANIES (GENERAL BUSINESS) (VALUATION) REGULATION
+Insurance (General Business) (Valuation) Rules
 
-(Cap. 41, section 59(a))
+(L.N. 69 of 2017)
+
+(Cap. 41, section 129(1))
 
 [29 December 1995]
