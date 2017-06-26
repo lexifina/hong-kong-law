@@ -1,5 +1,7 @@
-INSURANCE COMPANIES (ACTUARIES’ STANDARDS) REGULATION
+Insurance (Actuaries’ Standards) Rules
 
-(Cap. 41, section 59(2)(aa))
+(L.N. 70 of 2017)
+
+(Cap. 41, section 129(1))
 
 [1 January 2001]
