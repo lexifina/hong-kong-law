@@ -1,5 +1,7 @@
-INSURANCE COMPANIES (MARGIN OF SOLVENCY) REGULATION
+Insurance (Margin of Solvency) Rules
 
-(Cap. 41, section 59)
+(L.N. 68 of 2017)
+
+(Cap. 41, section 129(1))
 
 [27 October 1995] L.N. 485 of 1995
