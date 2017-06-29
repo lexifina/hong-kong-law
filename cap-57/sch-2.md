@@ -1,12 +1,14 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [s. 67]
 
-PROCEDURE FOR APPREHENSION OF ABSCONDING EMPLOYER
+Procedure for Apprehension of Absconding Employer
 
-- PART I
+(Format changes—E.R. 3 of 2017)
 
-  - 1. In this Part, the wages and moneys described in section 67(1)(a) and (b) are referred to as “the debt”. (Amended 32 of 2000 s. 48)
+- Part I
+
+  - 1. In this Part, the wages and moneys described in section 67(1)(a) and (b) are referred to as the debt. (Amended 32 of 2000 s. 48)
 
   - 2. An application under section 67 shall be as in Form 1 in Part II.
 
@@ -68,7 +70,7 @@ PROCEDURE FOR APPREHENSION OF ABSCONDING EMPLOYER
 
   - 10. No fees shall be payable to the District Court in respect of or in connection with an application made under section 67 or under paragraph 8 or 9.
 
-- PART II
+- Part II
 
 - Form 1 | [Employment Ordinance,
 

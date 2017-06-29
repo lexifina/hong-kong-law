@@ -1,18 +1,18 @@
-# EIGHTH SCHEDULE
+# Eighth Schedule
 
 [s. 32G]
 
 Employment Protection
 
-DEATH OF EMPLOYER OR OF EMPLOYEE
+Death of Employer or of Employee (Format changes—E.R. 3 of 2017)
 
-- PART I Death of Employer
+- Part I Death of Employer
 
   - 1. If an employer dies after his employee’s right of action has arisen under Part VIA of this Ordinance on employment protection but before the adjudication of the claim, the claim shall be actionable by the employee against the personal representative of the deceased employer.
 
   - 2. In relation to the death of an employer, a reference to renewal or re-engagement by the employer in section 32B or 32C shall be construed as including a reference to renewal or re-engagement by any personal representative of the deceased employer, and a reference to an offer made by the employer shall be construed as including a reference to an offer made by any personal representative of the deceased employer.
 
-- PART II Death of Employee
+- Part II Death of Employee
 
   - 3. If an employee dies after his right of action has arisen under Part VIA of this Ordinance on employment protection but before the adjudication of the claim, the claim shall be actionable by a personal representative of the deceased employee.
 

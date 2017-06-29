@@ -1,8 +1,10 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [s. 72(1)]
 
 Specified Ordinances
+
+(Format changes—E.R. 3 of 2017)
 
 Item | Title
 

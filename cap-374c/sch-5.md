@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [reg. 12]
 
-CONDITIONS FOR ISSUE OF PARKING CARDS
+Conditions for Issue of Parking Cards
 
 - 1. The Commissioner or any authorized person issuing a parking card on his behalf shall not be liable for any error or omission not drawn to the attention of the person issuing at the time of issue. Accordingly, any person purchasing a parking card should examine the parking card and the change, if any, tendered before leaving the place where the card is issued.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [regs. 2(1) & 22(1)]
 
-CONDITIONS FOR ISSUE OF MONTHLY PASSES
+Conditions for Issue of Monthly Passes
 
 - 1. Subject to any specification or prohibition under regulation 22(5), the person in whom the management of a car park is vested may issue to an applicant a monthly pass in such form as shall be approved in writing by the Commissioner.
 

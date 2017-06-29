@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 3 & 8]
 
-RELEVANT COMMUNICATIONS
+Relevant Communications
 
 Item | Communication | Relevant notes (see below)
 

@@ -1,10 +1,12 @@
-# SIXTH SCHEDULE
+# Sixth Schedule
 
 [s. 31ZC]
 
 Death of Employer—Long Service Payments
 
-- 1. This Schedule shall have effect in relation to an employee where his employer (in this Schedule referred to as “the deceased employer”) dies.
+(Format changes—E.R. 3 of 2017)
+
+- 1. This Schedule shall have effect in relation to an employee where his employer (in this Schedule referred to as the deceased employer) dies.
 
 - 2. Section 31Z shall not apply to any change whereby the ownership of the business, for the purposes of which the employee was employed by the deceased employer, passes to a personal representative of the deceased employer.
 

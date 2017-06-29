@@ -1,8 +1,10 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [ss. 3 & 75] (Amended 16 of 2006 s. 10)
 
-CONTINUOUS EMPLOYMENT
+Continuous Employment
+
+(Format changes—E.R. 3 of 2017)
 
 1. | (a) | The provisions of this Schedule are to ascertain whether or not any contract of employment is a “continuous contract” for the purposes of this Ordinance.
 
@@ -36,8 +38,8 @@ CONTINUOUS EMPLOYMENT
 
 - 7. In this Schedule, unless the context otherwise requires—
 
-  - “lock-out” (閉廠) and “strike” (罷工), respectively, have the meanings assigned to them in the Trade Unions Ordinance (Cap. 332);
+  - lock-out (閉廠) and strike (罷工), respectively, have the meanings assigned to them in the Trade Unions Ordinance (Cap. 332);
 
-  - “week” (星期) means a week ending with Saturday.
+  - week (星期) means a week ending with Saturday.
 
 - (Amended 5 of 1970 s. 9; 71 of 1970 s. 6; 41 of 1990 s. 23)

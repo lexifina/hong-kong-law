@@ -1,109 +1,145 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 2, 4, 5, 6 & 11]
 
-FIGURES
+Figures
 
-(All measurements shown in the Figures are given in millimetres) FIGURE NO. 1 PARKING FOR VEHICLES OTHER THAN MEDIUM AND HEAVY GOODS VEHICLES, BUSES, MOTOR CYCLES AND PEDAL CYCLES
+(All measurements shown in the Figures are given in millimetres)
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO.14 OR 15 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR VEHICLES OTHER THAN MEDIUM AND HEAVY GOODS VEHICLES, BUSES, MOTOR CYCLES AND PEDAL CYCLES.
+Figure No. 1
 
-FIGURE NO.2 PARKING FOR GOODS VEHICLES
+Parking for Vehicles other than Medium and Heavy Goods Vehicles, Buses, Motor Cycles and Pedal Cycles
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO.14 OR 15 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR GOODS VEHICLES ONLY.
+This sign indicates that when used in conjunction with the road marking in Figure No. 14 or 15 or both, the parking place or parking space is for vehicles other than medium and heavy goods vehicles, buses, motor cycles and pedal cycles.
 
-FIGURE NO.3 PARKING FOR BUSES
+Figure No. 2
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO.14 OR 15 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR BUSES ONLY.
+Parking for Goods Vehicles
 
-FIGURE NO.4 PARKING PLACE FOR MOTOR CYCLES
+This sign indicates that when used in conjunction with the road marking in Figure No. 14 or 15 or both, the parking place or parking space is for goods vehicles only.
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO.13 THE PARKING PLACE IS FOR MOTOR CYCLES ONLY.
+Figure No. 3
 
-FIGURE NO.5 PARKING PLACE FOR PEDAL CYCLES
+Parking for Buses
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO.14 OR 15 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR PEDAL CYCLES ONLY.
+This sign indicates that when used in conjunction with the road marking in Figure No. 14 or 15 or both, the parking place or parking space is for buses only.
 
-FIGURE NO.6 NO PARKING
+Figure No. 4
 
-THIS SIGN INDICATES THAT ON THE SIDE OF THE ROAD WHERE IT IS DISPLAYED, PARKING IS PROHIBITED. IT MAY BE USED WITH THE SIGNS IN FIGURE NOS. 9 AND 10 TO INDICATE THE DIRECTION IN WHICH THE RESTRICTION APPLIES AND WITH THE SIGN IN FIGURE NO.8 TO INDICATE THE PERIOD FOR WHICH IT APPLIES.
+Parking Place for Motor Cycles
 
-FIGURE NO.7 TEMPORARY NO PARKING SIGN
+This sign indicates that when used in conjunction with the road marking in Figure No. 13 the parking place is for motor cycles only.
 
-THIS SIGN INDICATES THAT ON THE SIDE OF THE ROAD WHERE IT IS DISPLAYED. PARKING IS TEMPORARILY PROHIBITED. THE SIGN MAY BE USED WITHOUT THE ARROWS OR WITH AN ARROW POINTING IN ONLY ONE DIRECTION.
+Figure No. 5
 
-FIGURE NO.8 TIME PLATE
+Parking Place for Pedal Cycles
 
-THIS PLATE INDICATES THE PERIOD OF TIME OR DAYS FOR WHICH PARKING IS PROHIBITED OR PERMITTED.
+This sign indicates that when used in conjunction with the road marking in Figure No. 14 or 15 or both, the parking place or parking space is for pedal cycles only.
 
-IT MAY BE USED IN CONJUNCTION WITH FIGURE NOS. 6 AND 7 TO INDICATE THE PERIOD OF TIME OR DAYS DURING WHICH THE RESTRICTION ON PARKING APPLIES OR USED IN CONJUNCTION WITH FIGURE NOS.1,2,3,4 OR 5 TO INDICATE THE PERIOD OF TIME OR DAYS WHEN PARKING IS PERMITTED.
+Figure No. 6
 
-THE WORDING MAY BE VARIED TO SPECIFY ANY PERIOD OF TIME OR ANY DAY OR DAYS.
+No Parking
 
-FIGURE NO.9 ARROW PLATE
+This sign indicates that on the side of the road where it is displayed, parking is prohibited. It may be used with the signs in Figure Nos. 9 and 10 to indicate the direction in which the restriction applies and with the sign in Figure No. 8 to indicate the period for which it applies.
 
-THIS PLATE IS FOR USE WITH THE SIGN IN FIGURE NO.6 TO INDICATE THE DIRECTION IN WHICH THE RESTRICTION ON PARKING APPLIES.
+Figure No. 7
 
-THE ARROW MAY BE REVERSED TO INDICATE A RESTRICTION IN THE OTHER DIRECTION.
+Temporary No Parking Sign
 
-FIGURE NO.10 ARROW PLATE
+This sign indicates that on the side of the road where it is displayed. Parking is temporarily prohibited. The sign may be used without the arrows or with an arrow pointing in only one direction.
 
-THIS PLATE IS FOR USE WITH THE SIGN IN FIGURE NO.6 TO INDICATE THE RESTRICTION ON PARKING APPLIES IN BOTH DIRECTIONS.
+Figure No. 8
 
-FIGURE NO.11 NO PARKING
+Time Plate
 
-THIS ROAD MARKING IS USED TO INDICATE A SECTION OF ROAD, WHETHER OR NOT IT IS USED IN CONJUNCTION WITH FIGURE NO.6, WHERE THE PARKING OF VEHICLES IS PROHIBITED.
+This plate indicates the period of time or days for which parking is prohibited or permitted.
 
-FIGURE NO.12 NO PARKING
+It may be used in conjunction with Figure Nos. 6 and 7 to indicate the period of time or days during which the restriction on parking applies or used in conjunction with Figure Nos. 1, 2, 3, 4 or 5 to indicate the period of time or days when parking is permitted.
 
-THIS ROAD MARKING IS USED TO INDICATE THAT THE PARKING OF VEHICLES IS PROHIBITED ON THE AREA SHOWN BY THE YELLOW HATCHED MARKINGS.
+The wording may be varied to specify any period of time or any day or days.
 
-FIGURE NO.13 MOTOR CYCLE PARKING PLACES
+Figure No. 9
 
-THIS ROAD MARKING IS USED TO INDICATE PARKING PLACES FOR MOTOR CYCLES ONLY SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
+Arrow Plate
 
-FIGURE NO.14 ROAD MARKINGS FOR PARKING PLACES
+This plate is for use with the sign in Figure No. 6 to indicate the direction in which the restriction on parking applies.
 
-THIS ROAD MARKING IS USED TO INDICATE PARKING PLACES FOR VEHICLES SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE.
+The arrow may be reversed to indicate a restriction in the other direction.
 
-FIGURE NO.15 ROAD MARKINGS FOR PARKING PLACES
+Figure No. 10
 
-THIS ROAD MARKING IS USED TO INDICATE PARKING PLACES FOR VEHICLES, SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
+Arrow Plate
 
-FIGURE NO.16 PARKING FOR SPECIAL VEHICLES
+This plate is for use with the sign in Figure No. 6 to indicate the restriction on parking applies in both directions.
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NOS. 14 OR 15 THE PARKING PLACE OR PARKING SPACE MAY BE USED ONLY BY THE VEHICLES INDICATED ON THE SIGN.
+Figure No. 11
 
-THE WORDING MAY BE VARIED TO SPECIFY ANY PARTICULAR TYPE OR CLASS OF VEHICLE.
+No Parking
 
-FIGURE NO.17 TIME PLATE
+This road marking is used to indicate a section of road, whether or not it is used in conjunction with Figure No. 6, where the parking of vehicles is prohibited.
 
-THIS PLATE MAY BE USED IN CONJUNCTION WITH FIGURE NOS. 1, 2 OR 3 TO ADVISE THAT A FEE MUST BE INSERTED IN THE PARKING METER ERECTED ADJACENT TO THE PARKING SPACES DURING THE TIMES INDICATED.
+Figure No. 12
 
-THE WORDING MAY BE CHANGED TO SPECIFY ANY PERIOD OF TIME AND ANY SYSTEM OF CHARGING THAT IS IN EFFECT AT THESE PARKING SPACES, OR TO SPECIFY A NEW OR ADDITIONAL TELEPHONE NUMBER.
+No Parking
 
-(L.N. 252 of 1991)
+This road marking is used to indicate that the parking of vehicles is prohibited on the area shown by the yellow hatched markings.
 
-FIGURE NO.18 TIME PLATE
+Figure No. 13
 
-THIS PLATE MAY BE USED IN CONJUNCTION WITH FIGURE NOS. 1, 2 OR 3 TO ADVISE THAT A PARKING CARD OR AN APPROVED CARD MUST BE USED TO OPERATE THE PARKING METER ERECTED ADJACENT TO THE PARKING SPACES DURING THE TIMES INDICATED.
+Motor Cycle Parking Places
 
-THE WORDING MAY BE CHANGED TO SPECIFY ANY PERIOD OF TIME AND ANY SYSTEM OF CHARGING THAT IS IN EFFECT AT THESE PARKING SPACES, OR TO SPECIFY A NEW OR ADDITIONAL TELEPHONE NUMBER.
+This road marking is used to indicate parking places for motor cycles only subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.
 
-(L.N. 252 of 1991; L.N. 45 of 2000)
+Figure No. 14
 
-FIGURE NO.19 PAY & DISPLAY
+Road Markings for Parking Places
 
-THIS PLATE MAY BE USED IN CONJUNCTION WITH FIGURE NOS. 1, 2 OR 3 TO ADVISE THAT PAYMENT MUST BE MADE BY PURCHASING A DISPLAY TICKET AND DISPLAYING THE TICKET.
+This road marking is used to indicate parking places for vehicles subject to such conditions, if any, as may be in force.
 
-THE PLATE MAY ALSO BE USED ALONE TO INDICATE ANY PLACE WHERE A PAY AND DISPLAY MACHINE IS ERECTED.
+Figure No. 15
 
-(L.N. 252 of 1991)
+Road Markings for Parking Places
 
-FIGURE NO. 20 SUPPLEMENTARY PLATE
+This road marking is used to indicate parking places for vehicles, subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE NOS. 1 AND 2 TO INDICATE THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 14 OR 15 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR PRIVATE CARS ONLY.
+Figure No. 16
 
-THE WORDS “ Private cars “ AND THE CHARACTERS “ 私家車 “ MAY BE VARIED TO ACCORD WITH THE SPECIFIED TYPES OR CLASSES OF VEHICLE PERMITTED TO PARK IN THE PARKING PLACE OR PARKING SPACE.
+Parking for Special Vehicles
+
+This sign indicates that when used in conjunction with the road marking in Figure Nos. 14 or 15 the parking place or parking space may be used only by the vehicles indicated on the sign.
+
+The wording may be varied to specify any particular type or class of vehicle.
+
+Figure No. 17
+
+Time Plate
+
+This plate may be used in conjunction with Figure Nos. 1, 2 or 3 to advise that a fee must be inserted in the parking meter erected adjacent to the parking spaces during the times indicated.
+
+The wording may be changed to specify any period of time and any system of charging that is in effect at these parking spaces, or to specify a new or additional telephone number.
+
+(L.N. 252 of 1991) Figure No. 18
+
+Time Plate
+
+This plate may be used in conjunction with Figure Nos. 1, 2 or 3 to advise that a parking card or an approved card must be used to operate the parking meter erected adjacent to the parking spaces during the times indicated.
+
+The wording may be changed to specify any period of time and any system of charging that is in effect at these parking spaces, or to specify a new or additional telephone number.
+
+(L.N. 252 of 1991; L.N. 45 of 2000) Figure No. 19
+
+Pay & Display
+
+This plate may be used in conjunction with Figure Nos. 1, 2 or 3 to advise that payment must be made by purchasing a display ticket and displaying the ticket.
+
+The plate may also be used alone to indicate any place where a pay and display machine is erected.
+
+(L.N. 252 of 1991) Figure No. 20
+
+Supplementary Plate
+
+This plate may be used with the signs in Figure Nos. 1 and 2 to indicate that when used in conjunction with the road marking in Figure No. 14 or 15 or both, the parking place or parking space is for private cars only.
+
+The words “Private cars” and the characters “私家車” may be varied to accord with the specified types or classes of vehicle permitted to park in the parking place or parking space.
 
 (L.N. 38 of 1997)

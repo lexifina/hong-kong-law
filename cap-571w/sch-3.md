@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 9]
 
-POST-STABILIZATION DISCLOSURE
+Post-Stabilization Disclosure
 
 The public announcement referred to in section 9(2) of these Rules shall contain the following information—
 

@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 15]
 
-OVERSEAS STABILIZATION
+Overseas Stabilization
 
 Item | Specified provisions | Specified body or authority which made the specified provisions
 

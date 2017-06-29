@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [regs. 20, 21 & 22]
 
-FEES FOR USE OF CAR PARKS
+Fees for Use of Car Parks
 
 - 1-5. (Repealed L.N. 304 of 1989)
 
@@ -14,13 +14,11 @@ FEES FOR USE OF CAR PARKS
 
   - (2)
 
-    - In subparagraph (1), “specified period” (指明時段) means any period of use of a car park specified in the Table appropriate to that car park. (L.N. 220 of 1988)
+    - In subparagraph (1), specified period (指明時段) means any period of use of a car park specified in the Table appropriate to that car park. (L.N. 220 of 1988)
 
 - 7. A duplicate monthly pass for any car park may be issued for a fee of $10.
 
-- 8. The minimum fee for use of any car park for any one occasion shall be the appropriate fee
-
-- for 1 hour.
+- 8. The minimum fee for use of any car park for any one occasion shall be the appropriate fee for 1 hour.
 
 - 9.
 

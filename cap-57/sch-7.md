@@ -1,8 +1,8 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
 [ss. 31G & 31V]
 
-TABLE A
+(Format changes—E.R. 3 of 2017) Table A
 
 Column 1 | Column 2
 
@@ -30,7 +30,7 @@ On or after the date of commencement of the Employment (Amendment) Ordinance 199
 
 On or after 1 October 2003 | $390,000
 
-TABLE B
+Table B
 
 Column 1 | Column 2
 

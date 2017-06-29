@@ -1,12 +1,14 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [s. 31M]
 
-DEATH OF EMPLOYER OR OF EMPLOYEE
+Death of Employer or of Employee
 
-- PART I Death of Employer
+(Format changes—E.R. 3 of 2017)
 
-  - 1. This Part shall have effect in relation to an employee where his employer (in this Part referred to as “the deceased employer”) dies.
+- Part I Death of Employer
+
+  - 1. This Part shall have effect in relation to an employee where his employer (in this Part referred to as the deceased employer) dies.
 
   - 2. Section 31J shall not apply to any change whereby the ownership of the business, for the purposes of which the employee was employed by the deceased employer, passes to a personal representative of the deceased employer.
 
@@ -48,7 +50,7 @@ DEATH OF EMPLOYER OR OF EMPLOYEE
 
   - 10. Where by virtue of Part VA of this Ordinance, as modified by this Part of this Schedule, a personal representative of the deceased employer is liable to pay a severance payment, or part of a severance payment, and that liability had not accrued before the death of the deceased employer, it shall be treated for all purposes as if it were a liability of the deceased employer which had accrued immediately before his death.
 
-- PART II Death of Employee
+- Part II Death of Employee
 
   - 11. Where an employer has given notice to an employee to terminate his contract of employment, and before that notice expires the employee dies, Part VA of this Ordinance shall apply as if the contract had been duly terminated by the employer by notice expiring on the date of the employee’s death.
 
