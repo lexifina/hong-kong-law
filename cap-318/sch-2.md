@@ -10,7 +10,7 @@ MEMBERS OF THE AUTHORITY AND QUORUM OF MEETINGS
 
   - (b) 2 shall be persons nominated by the Hong Kong Garment Manufacturers’ Association;
 
-  - (c) 2 shall be persons nominated by the Textile and Clothing Training Board of the Vocational Training Council; (Amended L.N. 200 of 1999)
+  - (c) 2 shall be persons nominated by the Fashion and Textile Training Board of the Vocational Training Council; (Amended L.N. 200 of 1999; L.N. 138 of 2017)
 
   - (d) 1 shall be a person nominated by the Federation of Hong Kong Industries;
 
