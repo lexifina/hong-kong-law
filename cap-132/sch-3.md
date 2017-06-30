@@ -200,6 +200,8 @@ Section | Designated Authorities
 
 112A | Director of Food and Environmental Hygiene
 
+113A | Secretary for Food and Health
+
 114 | Director of Lands in respect of cemeteries specified in Parts 1, 2 and 4A of the Fifth Schedule
 
 115 | Director of Food and Environmental Hygiene in respect of cemeteries specified in Part 1 of the Fifth Schedule
@@ -254,4 +256,4 @@ Section | Designated Authorities
 
 128D | Director of Food and Environmental Hygiene
 
-(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; 1 of 2002 s. 4; L.N. 130 of 2007; 3 of 2009 s. 3; 5 of 2011 s. 71; E.R. 1 of 2013)
+(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; 1 of 2002 s. 4; L.N. 130 of 2007; 3 of 2009 s. 3; 5 of 2011 s. 71; E.R. 1 of 2013; 8 of 2017 s. 126)

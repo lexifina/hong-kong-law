@@ -270,6 +270,10 @@ Public Bodies
 
 131. | Fantastic Television Limited. (Added L.N. 93 of 2016)
 
+132. | Private Columbaria Licensing Board established under section 8 of the Private Columbaria Ordinance (8 of 2017). (Added 8 of 2017 s. 131)
+
+133. | Private Columbaria Appeal Board established under section 83 of the Private Columbaria Ordinance (8 of 2017). (Added 8 of 2017 s. 131)
+
 (Replaced L.N. 272 of 1974)
 
 Editorial Note:
