@@ -10,7 +10,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 2. | South East New Territories (SENT) Landfill | Shek Miu Wan, Tseung Kwan O, N.T. | Drawing number 90872/SP10/014B
 
-3. | North East New Territories (NENT) Landfill | Wo Keng Shan Road, Ta Kwu Ling, N.T. | Drawing number 90303/ CON-01 TO 04
+3. | North East New Territories (NENT) Landfill | Wo Keng Shan Road, Ta Kwu Ling, N.T. | Drawing number 90303/CON-01 TO 04
 
 4. | Chemical Waste Treatment Centre | 51 Tsing Yi Road South, Tsing Yi, N.T. | Plan number KT 1047-DA
 
@@ -59,3 +59,5 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 26. | Mui Wo Temporary Public Fill Reception Facility | Mui Wo Ferry Pier Road, Mui Wo, Lantau, N.T. | Plan number P 20332-8 (L.N. 165 of 2004)
 
 27. | Chai Wan Public Fill Barging Point | 11 Ka Yip Street, Chai Wan, Hong Kong. | Plan number FM 10019-32 (L.N. 231 of 2008)
+
+28. | Organic Resources Recovery Centre (Phase 1) | 5 Sham Fung Road, Siu Ho Wan, North Lantau, N.T. | Plan number 60336238/SK4000 (L.N. 74 of 2017)
