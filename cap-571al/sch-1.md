@@ -1,161 +1,97 @@
 # Schedule 1
 
-[rules 2 & 26]
+[rr. 2 & 2A]
 
-Specified OTC Derivative Transactions and Transaction Information to be Submitted to Monetary Authority
+Transaction Information to be Submitted to Monetary Authority
 
-- Part 1 Interpretation
+Column 1 | Column 2
 
-  - 1. Interpretation In this Schedule—
+Item | Category of information and particulars relating to specified OTC derivative transaction, and to persons involved in transaction
 
-    - interest rate swap (掉期息率) means an OTC derivative transaction under the terms and conditions of which—
+1. | Information and particulars relating to the Monetary Authority’s administration of the reporting of the transaction, including information and particulars identifying—
 
-      - (a) the 2 counterparties to the transaction agree to exchange interest rate cash flows at specified intervals while the transaction is still outstanding; and
+(a) | the nature of the report;
 
-      - (b) the payments are to be calculated by reference to—
+(b) | the person submitting the report;
 
-        - (i) a notional amount that is denominated in a single currency; and
+(c) | the person that is required to comply with the reporting obligation; and
 
-        - (ii) agreed interest rates or interest rate indexes;
+(d) | if the person that is required to comply with the reporting obligation is regarded as having conducted the transaction in Hong Kong on behalf of an affiliate of the person, the affiliate.
 
-    - non-deliverable forward (不交收遠期) means an OTC derivative transaction under the terms and conditions of which the 2 counterparties to the transaction agree that—
+2. | Information and particulars relating to the class or type of product to which the transaction belongs.
 
-      - (a) 1 counterparty is to purchase from the other counterparty a notional amount of a currency for settlement on a single date in the future;
+3. | Days and periods relating to the transaction, including—
 
-      - (b) on settlement of the transaction, the purchase is to be settled—
+(a) | the day on which the transaction was entered into or on which a subsequent event is agreed;
 
-        - (i) on a net cash payment basis (without physical delivery of the reference currency); and
+(b) | the day on which the transaction or a subsequent event becomes effective;
 
-        - (ii) in an agreed currency that is not the same currency as the reference currency; and
+(c) | the day on which the transaction matures or terminates;
 
-      - (c) the amount to be paid by 1 counterparty to the other counterparty is the difference between the values of the notional amount of the reference currency, denominated in the settlement currency, calculated using—
+(d) | dates or periods relating to a feature of the class or type of product to which the transaction belongs; and
 
-        - (i) an agreed currency exchange rate (whether express or implied); and
+(e) | dates or periods relating to the reporting of a transaction that is outstanding as at a particular time.
 
-        - (ii) a market currency exchange rate (as determined in accordance with the terms and conditions of the transaction) that is prevailing on an agreed future date;
+4. | Information and particulars relating to the counterparties to the transaction, including names, places of incorporation or residence, identifying references, and rights and obligations arising under, or relating to, the transaction.
 
-    - payments (付款), in relation to an OTC derivative transaction that is an interest rate swap, means the interest rate cash flows referred to in paragraph (a) of the definition of interest rate swap in this section;
+5. | Information and particulars relating to pricing of the transaction (other than valuation transaction information), including—
 
-    - reference currency (參考貨幣), in relation to an OTC derivative transaction that is a non-deliverable forward, means the currency referred to in paragraph (a) of the definition of non-deliverable forward in this section;
+(a) | notional amounts and schedules;
 
-    - settlement currency (交收貨幣), in relation to an OTC derivative transaction that is a non-deliverable forward, means the agreed currency referred to in paragraph (b)(ii) of the definition of non-deliverable forward in this section;
+(b) | reference and settlement currencies;
 
-    - specified currency (指明貨幣) means a currency that is specified by the Monetary Authority by notice published in the Gazette;
+(c) | agreed prices, rates or indices;
 
-    - specified floating interest rate index (指明浮動息率指數) means a floating interest rate index specified by the Monetary Authority by notice published in the Gazette.
+(d) | settlement details; and
 
-  - 2. Monetary Authority notices not subsidiary legislation The following notices published in the Gazette are not subsidiary legislation—
+(e) | other features or details specific to the class or type of product to which the transaction belongs that may affect the value of the transaction.
 
-    - (a) a notice by which the Monetary Authority specifies a currency for the purposes of this Schedule;
+6. | Information and particulars relating to the confirmation of the transaction, including the platform through which, and the manner in which, the transaction was confirmed and any identifying reference assigned to the transaction by the confirmation platform.
 
-    - (b) a notice by which the Monetary Authority specifies a floating interest rate index for the purposes of this Schedule.
+7. | Information and particulars relating to the execution of the transaction, including—
 
-- Part 2 Specified Product Classes
+(a) | the platform through which, and the manner in which, the transaction was executed;
 
-- Column 1 | Column 2 | Column 3
+(b) | any identifying reference assigned to the transaction by the execution platform;
 
-- Item | Product class | Product class specification day
+(c) | the day on which, and the time at which, the transaction was executed; and
 
-- 1. | Interest rate swap | 10 July 2015
+(d) | any agent involved in the execution of the transaction.
 
-- 2. | Non-deliverable forward | 10 July 2015
+8. | Information and particulars relating to the clearing of the transaction, including—
 
-- Part 3 Specified Product Types
+(a) | whether the transaction was, or is intended to be, cleared through a central counterparty;
 
-- Column 1 | Column 2 | Column 3 | Column 4
+(b) | if applicable, the central counterparty through which the transaction was, or is intended to be, cleared;
 
-- Item | Product class | Product type | Product type specification day
+(c) | identifying references assigned to the original transaction before it is cleared, and the 2 new transactions resulting from the clearing process;
 
-- 1. | Interest rate swap | The payments are to be calculated by reference to— | 10 July 2015
+(d) | the client clearing services provider (if any) involved in, or intended to be involved in, clearing the transaction; and
 
-- (a) | a fixed interest rate applied to a notional amount that is denominated in a specified currency; and
+(e) | whether or not the clearing obligation applies to the transaction.
 
-- (b) | a specified floating interest rate index applied to the same notional amount.
+9. | Information and particulars relating to whether and how the transaction arises from, or is amended as a result of, a portfolio compression exercise.
 
-- 2. | Interest rate swap | The payments are to be calculated by reference to— | 10 July 2015
+10. | Particulars of any identifying reference assigned to the transaction (being types of references that may be accepted by the Monetary Authority, as specified by the Monetary Authority in the directions and instructions published under rule 21(2)).
 
-- (a) | a specified floating interest rate index applied to a notional amount that is denominated in a specified currency; and
+11. | Information and particulars relating to the valuation of the transaction, including—
 
-- (b) | another specified floating interest rate index applied to the same notional amount.
+(a) | the basis of the valuation;
 
-- 3. | Non-deliverable forward | The reference currency is a specified currency and the settlement currency is a specified currency | 10 July 2015
+(b) | the day on which, and the time at which, the valuation was calculated;
 
-- Part 4 Transaction Information to be Submitted to Monetary Authority
+(c) | the value of the transaction; and
 
-  - 1. The product class and product type to which the specified OTC derivative transaction belongs.
+(d) | the currency in which the value is denominated.
 
-  - 2. The dates on which the specified OTC derivative transaction—
+12. | Information and particulars relating to a subsequent event, including—
 
-    - (a) was entered into;
+(a) | the day on which the event occurred;
 
-    - (b) starts or otherwise becomes effective; and
+(b) | the type of the event; and
 
-    - (c) matures.
+(c) | the changes resulting from the event to information or particulars submitted to the Monetary Authority.
 
-  - 3. Particulars of the counterparties to the specified OTC derivative transaction.
+13. | Other information and particulars relating to the transaction, or to the persons involved in the transaction.
 
-  - 4. Information relating to the confirmation of the specified OTC derivative transaction, including particulars of—
-
-    - (a) the platform through which, or the manner in which, the transaction was confirmed; and
-
-    - (b) any identifying reference assigned to the transaction by the platform.
-
-  - 5. Information relating to the clearing of the specified OTC derivative transaction, including particulars of—
-
-    - (a) whether the transaction was, or is intended to be, cleared through a central counterparty;
-
-    - (b) if applicable, the central counterparty through which the transaction was, or is intended to be, cleared; and
-
-    - (c) the client clearing services provider (if any) involved in, or intended to be involved in, clearing the transaction.
-
-  - 6. Information relating to a subsequent event (being a type of subsequent event for which information may be accepted by the Monetary Authority, as specified by the Monetary Authority in the directions and instructions published under rule 21(2)), including particulars of—
-
-    - (a) the date on which the event occurred;
-
-    - (b) the type of the event;
-
-    - (c) the changes to any of the matters referred to in any other item in this Part as a result of the event;
-
-    - (d) the outstanding notional amount after the event; and
-
-    - (e) the currency in which the outstanding notional amount is denominated.
-
-  - 7. The identifying references assigned to the specified OTC derivative transaction (being types of references that may be accepted by the Monetary Authority, as specified by the Monetary Authority in the directions and instructions published under rule 21(2)).
-
-  - 8. If the specified OTC derivative transaction is an interest rate swap, particulars of—
-
-    - (a) the notional amount;
-
-    - (b) the currency in which the notional amount is denominated;
-
-    - (c) the currency in which the payments are to be made, if it is not the same currency as the currency referred to in paragraph (b);
-
-    - (d) each agreed interest rate or interest rate index, including the tenor and spread (if applicable); and
-
-    - (e) for each agreed interest rate or interest rate index, the counterparty to the transaction that has agreed to pay that rate or index.
-
-  - 9. If the specified OTC derivative transaction is a non-deliverable forward, particulars of—
-
-    - (a) the reference currency;
-
-    - (b) the settlement currency;
-
-    - (c) the notional amount of the reference currency—
-
-      - (i) denominated in the reference currency; and
-
-      - (ii) denominated in the settlement currency;
-
-    - (d) the counterparty to the transaction that is the purchaser of the reference currency;
-
-    - (e) the counterparty to the transaction from which the reference currency is to be purchased;
-
-    - (f) the agreed currency exchange rate;
-
-    - (g)
-
-      - the fixing date, being the date referred to in paragraph (c)(ii) of the definition of non-deliverable forward in section 1 of Part 1 of this Schedule; and
-
-    - (h)
-
-      - the value date, being the date referred to in paragraph (a) of the definition of non-deliverable forward in section 1 of Part 1 of this Schedule.
+(Schedule 1 replaced L.N. 30 of 2016)
