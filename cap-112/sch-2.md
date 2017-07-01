@@ -2,6 +2,8 @@
 
 [ss. 13 & 43(1)]
 
+(Format changes——E.R. 3 of 2017)
+
 Rates
 
 For the years of assessment 1947/48 to 1949/50 inclusive (Amended 49 of 1956 s. 68)
@@ -184,23 +186,23 @@ Second Column | Third Column
 
 Second Column | Third Column
 
-(a) | Upon the first $10,000 | 2 per cent
+(a) | Upon the first $10,000 | 2%
 
-(b) | Upon the next $10,000 | 4 per cent
+(b) | Upon the next $10,000 | 4%
 
-(c) | — do — | 9 per cent
+(c) | — do — | 9%
 
-(d) | — do — | 12 per cent
+(d) | — do — | 12%
 
-(e) | — do — | 15 per cent
+(e) | — do — | 15%
 
-(f) | — do — | 18 per cent
+(f) | — do — | 18%
 
-(g) | — do — | 21 per cent
+(g) | — do — | 21%
 
-(h) | Upon the remainder | 25 per cent
+(h) | Upon the remainder | 25%
 
-(Added 30 of 1990 s. 5. Amended 42 of 1991 s. 2) For the years of assessment 1991/92 and 1992/93
+(Added 30 of 1990 s. 5. Amended 42 of 1991 s. 2; E.R. 3 of 2017) For the years of assessment 1991/92 and 1992/93
 
 Second Column | Third Column
 
