@@ -1,6 +1,6 @@
 # SCHEDULE 3
 
-[rules 2 & 10]
+[rr. 2, 10 & 13 & Sch. 2] (L.N. 173 of 2016)
 
 EXCLUSIONS AND CONDITIONS
 
@@ -10,15 +10,15 @@ EXCLUSIONS AND CONDITIONS
 
     - Provided that—
 
-      - (a) the Company may pay or include in any payment made out of the fund in respect of any claim the whole or any part of any deductible applicable thereto, and in that event the firm in respect of which Indemnity was or would have been provided over and above the deductibles shall thereafter on request reimburse to the Company on behalf of the fund the whole or (subject as further provided below) such part as the Company may request of any payment so made and interest on the amount of any payment so made from the date of the payment thereof at the same rate as allowed for a judgement debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal in such firm shall be jointly and severally responsible to the Company for such reimbursement accordingly; and (25 of 1998 s. 2)
+      - (a) the Company may at any time pay or include in any payment made out of the fund in respect of any claim, claimant’s costs or related costs the whole or any part of any deductible applicable thereto, and in that event the firm in respect of which Indemnity was or would have been provided over and above the deductibles shall thereafter on request reimburse to the Company on behalf of the fund the whole or (subject as further provided below) such part of the deductible applicable to that payment as the Company may request and interest on the amount so requested by the Company from the date of the payment at the same rate as allowed for a judgement debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal and former principal in such firm shall be jointly and severally responsible to the Company for such reimbursement accordingly; and (25 of 1998 s. 2; L.N. 173 of 2016)
 
-      - (b) the Company may with the authority of the Claims Committee in any claim which is disposed of without—
+      - (b) if, in relation to any claim—
 
-        - (i) any admission or finding being made or acceptance of liability on the part of the indemnified; or
+        - (i) there is no admission or finding or acceptance of liability on the part of the indemnified; and
 
-        - (ii) payment being made from the fund to the claimant in respect of his claim against the indemnified,
+        - (ii) there is no payment made from the fund to the claimant in respect of the claimant’s claim against the indemnified,
 
-      - waive in writing in whole or part the Company’s right to be reimbursed the amount of the deductible paid out of the fund, and amend or revoke any such waiver. (L.N. 359 of 1993)
+      - the Company may waive in writing in whole or part the Company’s right to be reimbursed the amount of the deductible paid out of the fund, and amend or revoke the waiver. (L.N. 173 of 2016)
 
   - (2) The Company will not provide Indemnity to the indemnified or a former solicitor in respect of— (L.N. 359 of 1993; L.N. 162 of 2001)
 
@@ -48,11 +48,11 @@ EXCLUSIONS AND CONDITIONS
 
       - (ix) in respect of any undertaking given by any indemnified or on his behalf (whether in his own name or in the name of the Practice) to any person in connection with the provision of finance, property, assistance or other advantage whatsoever to or for the benefit of him or any other indemnified or of his or any other indemnified’s spouse or children or of any business firm, company, enterprise, association or venture owned or controlled by him or any other indemnified in a beneficial capacity whether alone or in concert with others, except to the extent that he shall establish that any such undertaking was given by him or on his behalf without him knowing that the undertaking was or was likely to be connected with the provision of any such finance, property, assistance or other advantage;
 
-      - (x) which arises from circumstances occurring when a receipt has not been issued to the indemnified under rule 9 because of the failure of any principal to comply with any provision of these rules. (L.N. 359 of 1993)
+      - (x) (Repealed L.N. 173 of 2016)
 
       - (xi) which arises directly or indirectly from or is in any way connected with the fact that any Computer Equipment is not Year 2000 Compliant or any cost or expense incurred in preventing or remedying the same (except insofar as the Computer Equipment in question is not owned or operated by the indemnified or a company, the principal business of which is the provision of services ancillary to the indemnified’s business of practising as a solicitor and such claim arises solely from advice which the indemnified has given to his clients in the course of his business of practising as a solicitor); (L.N. 218 of 1999)
 
-    - (d) a direct or indirect loss by the indemnified of the amount of his fees or profit costs and disbursements; (L.N. 58 of 1993)
+    - (d) a direct or indirect loss by the indemnified of the amount of his fees or profit costs; (L.N. 58 of 1993; L.N. 173 of 2016)
 
     - (e) a loss or expense incurred by the indemnified in connection with a claim against the indemnified, including a loss or expense however incurred whether in connection with the notification of the claim to the Company, the investigation of the claim by the Company or panel solicitor, the preparation of the defence and the defence of the claim and the settlement of the claim or in connection generally with the indemnified’s obligations under paragraph 8(10) or otherwise, unless the Company has specifically agreed or specifically agrees in writing that it will pay them. For the purpose of this subparagraph loss and expense includes costs incurred by the indemnified in producing or reproducing and delivering files and documents required by the Company and panel solicitors, the costs incurred by the indemnified in respect of attendance at any meeting or court of law and the value of time expended by the indemnified in connection with the activities mentioned in this subparagraph. (L.N. 58 of 1993)
 
@@ -88,7 +88,7 @@ EXCLUSIONS AND CONDITIONS
 
   - (1) The Indemnity covers that part of the indemnified’s loss that exceeds the deductibles referred to in subparagraph (2) up to a sum not exceeding the difference between such deductibles and $10,000,000 in respect of any one claim. (L.N. 528 of 1994)
 
-  - (2) The deductibles for the purpose of subparagraph (1) are—
+  - (2) The deductibles for the purposes of subparagraph (1) are— (L.N. 173 of 2016)
 
     - (a) where the indemnified is a sole practitioner at the relevant date, the first $30,000 in respect of any one claim;
 
@@ -156,7 +156,7 @@ EXCLUSIONS AND CONDITIONS
 
   - (3) In applying rule 16 for the purpose of this paragraph, the reference to “principal” in that rule shall be taken as a reference to “former solicitor”. (L.N. 162 of 2001)
 
-- 4. Related costs For the purpose of calculating the indemnified’s loss in any one claim, related costs shall be aggregated with the sum paid in respect of such claim and claimant’s costs.
+- 4. Related costs For the purpose of calculating the indemnified’s loss in respect of any one claim, related costs shall be aggregated with the sum paid in respect of such claim and claimant’s costs. (L.N. 173 of 2016)
 
 - 5. Recoveries subsequent to claim settlement All recoveries or payments recovered or received subsequent to a claim settlement shall be applied as if recovered prior to such settlement and all necessary adjustments shall then be made between the indemnified and the Company.
 
@@ -164,13 +164,13 @@ EXCLUSIONS AND CONDITIONS
 
   - (1) The aggregate liability of the fund for all claims arising from the same act or omission (whether or not made or intimated or arising out of circumstances notified during the same indemnity period) against any indemnified or former solicitor or any combination of persons entitled to Indemnity under these rules shall in no event exceed in total the Indemnity limit determined in accordance with paragraph 2 or 3, whichever is smaller.
 
-  - (2) If a payment exceeding the Indemnity limit is made to dispose of any claim or claims for loss (including related costs) the amount of any such related costs shall be limited to such proportion of such related costs as the Indemnity limit bears to the amount of the payment so made.
+  - (2) (Repealed L.N. 173 of 2016)
 
 - (L.N. 162 of 2001)
 
 - 7. Non-compliance
 
-  - (1) Where non-compliance with any of these rules by the indemnified results in prejudice to the handling or settlement of a claim to Indemnity whether or not the prejudice would have entitled the Company to refuse to provide Indemnity in respect of the claim under paragraph 1(c)(vii), the indemnified shall upon request reimburse to the Company on behalf of the fund the difference between any sum paid out of the fund in respect of that claim and the sum which would have been paid in the absence of the prejudice and interest on the amount of the difference so paid from the date of the payment thereof at the same rate as allowed for a judgment debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal in such indemnified shall be jointly and severally responsible to the Company for such reimbursement accordingly. (L.N. 58 of 1993; L.N. 359 of 1993; 25 of 1998 s. 2)
+  - (1) Where non-compliance with any of these rules by the indemnified results in prejudice to the handling or settlement of a claim to Indemnity whether or not the prejudice would have entitled the Company to refuse to provide Indemnity in respect of the claim under paragraph 1(2)(c)(vii), the indemnified shall upon request reimburse to the Company on behalf of the fund the difference between any sum paid out of the fund in respect of that claim and the sum which would have been paid in the absence of the prejudice and interest on the amount of the difference so paid from the date of the payment thereof at the same rate as allowed for a judgment debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal in such indemnified shall be jointly and severally responsible to the Company for such reimbursement accordingly. (L.N. 58 of 1993; L.N. 359 of 1993; 25 of 1998 s. 2; L.N. 173 of 2016)
 
   - (2) It shall be a condition precedent of the right of the Company on behalf of the fund to such reimbursement that it shall first have provided full Indemnity for the indemnified by payment (up to the limits contained in paragraphs 2 and 3) in or towards satisfying, or in or towards enabling the indemnified to satisfy the claim and claimants’ costs in accordance with the terms hereof. (L.N. 58 of 1993)
 
@@ -178,27 +178,27 @@ EXCLUSIONS AND CONDITIONS
 
   - (1)
 
-    - (a) The indemnified shall not admit liability for, or settle, any claim falling under rule 10 or incur any costs or expenses in connection therewith without the prior consent of the Company (such consent not to be unreasonably withheld), and subject to sub-subparagraph (c) shall procure that the Company shall be entitled at the fund’s own expense at any time to take over the conduct in the name of the indemnified of the defence or settlement of any such claim, including any claim in respect of which the indemnified may become entitled to partial indemnity under any insurance with any insurers and any claim which but for paragraphs 2(2), 3(1)(b) or 3(2)(b) would have fallen within the scope of the Indemnity provided by these rules.
+    - (a) The indemnified shall not admit liability for, or settle, any claim falling under rule 10 or incur any costs or expenses in connection therewith without the prior consent of the Company (such consent not to be unreasonably withheld). (L.N. 173 of 2016)
 
     - (b) Subject to sub-subparagraph (c) and to the limitation on the amount of the fund’s liability contained in paragraphs 2 and 3, if the indemnified unreasonably refuses to consent to or to accept any proposed settlement made by the Company or continues any legal proceedings in connection therewith the fund’s liability to provide Indemnity to the indemnified shall be limited to the amount for which the claim against the indemnified could have been so settled plus any related costs incurred up to the date of such refusal.
 
     - (c)
 
-      - (i) Where a difference or dispute arises between the indemnified and the Company regarding the contest or otherwise of actual or threatened legal proceedings relating to a claim, the difference or dispute shall be referred by the Claims Committee to a Senior Counsel (to be mutually agreed upon or failing agreement to be appointed by the President of the Society) for a determination whether the proceedings should be contested, and the Senior Counsel shall be instructed to certify whether or not he has found substantially in favour of the Company.
+      - (i) If a difference or dispute arises between the indemnified and the Company regarding the contest, defence, settlement or otherwise of a claim, the difference or dispute must be referred by the Claims Committee to a counsel (to be mutually agreed on by the indemnified and the Company or failing agreement to be appointed by the President of the Society) for a determination whether the claim should be contested, defended, settled or otherwise disposed of, and the counsel is to be instructed to certify whether the counsel has found substantially in favour of the Company. (L.N. 173 of 2016)
 
       - (ii) The determination referred to in sub-sub-subparagraph (i) shall be binding on the indemnified and the Company and shall be conclusive between them.
 
-      - (iii) The Claims Committee shall make available to the indemnified a draft of the terms of the reference to the Senior Counsel, and the indemnified shall make available to the Claims Committee his comments, if any, on the draft within 7 days of the draft being made available to him.
+      - (iii) The Claims Committee shall make available to the indemnified a draft of the terms of the reference to the counsel, and the indemnified shall make available to the Claims Committee his comments, if any, on the draft within 7 days of the draft being made available to him. (L.N. 173 of 2016)
 
-      - (iv) If the comments of the indemnified are given in accordance with sub-sub-subparagraph (iii), they shall be sent to the Senior Counsel.
+      - (iv) If the comments of the indemnified are given in accordance with sub-sub-subparagraph (iii), they shall be sent to the counsel. (L.N. 173 of 2016)
 
-      - (v) Unless the Claims Committee otherwise agrees, it shall be a condition precedent to the making of a reference to the Senior Counsel that the indemnified deposits with the Company an amount fixed by the Claims Committee as security for the costs of the reference (in case costs have to be reimbursed by the indemnified under sub-sub-subparagraph (viii)) within 7 days of the Claims Committee requiring the indemnified to do so.
+      - (v) Unless the Claims Committee otherwise agrees, it shall be a condition precedent to the making of a reference to the counsel that the indemnified deposits with the Company an amount fixed by the Claims Committee as security for the costs of the reference (in case costs have to be reimbursed by the indemnified under sub-sub-subparagraph (viii)) within 7 days of the Claims Committee requiring the indemnified to do so. (L.N. 173 of 2016)
 
       - (vi) If the indemnified fails to deposit the amount in accordance with sub-sub-subparagraph (v), he shall be bound by the decision of the Claims Committee in respect of the difference or dispute referred to in sub-sub-subparagraph (i).
 
-      - (vii) Subject to sub-sub-subparagraph (viii), the costs of the reference to the Senior Counsel shall be paid by the Company.
+      - (vii) Subject to sub-sub-subparagraph (viii), the costs of the reference to the counsel shall be paid by the Company. (L.N. 173 of 2016)
 
-      - (viii) If the Senior Counsel certifies that he has found substantially in favour of the Company, the indemnified shall reimburse the Company for the costs of the reference to the Senior Counsel paid by the Company in accordance with this subparagraph.
+      - (viii) If the counsel certifies that he has found substantially in favour of the Company, the indemnified shall reimburse the Company for the costs of the reference to the counsel paid by the Company in accordance with this subparagraph. (L.N. 173 of 2016)
 
       - (ix) Subject to sub-sub-subparagraph (x), where the costs of the reference are to be reimbursed by the indemnified, the amount referred to in sub-sub-subparagraph (v) may be applied by the Company in or towards reimbursement of those costs to the Company.
 
@@ -210,7 +210,7 @@ EXCLUSIONS AND CONDITIONS
 
       - (xi) The balance mentioned in sub-sub-subparagraph (x)(A) shall be recoverable as a civil debt and shall carry simple interest at the judgment rate determined for the time being under section 49(1)(b) of the High Court Ordinance (Cap. 4) from the date of payment by the Company to the date of actual payment of the amount outstanding by the indemnified.
 
-      - (xii) If the Senior Counsel does not find substantially in favour of the Company, the amount referred to in sub-sub-subparagraph (v) shall be refunded by the Company to the indemnified without interest.
+      - (xii) If the counsel does not find substantially in favour of the Company, the amount referred to in sub-sub-subparagraph (v) shall be refunded by the Company to the indemnified without interest. (L.N. 173 of 2016)
 
       - (xiii) The Claims Committee may, in its sole discretion, extend or abridge any of the time limits specified under this sub-subparagraph (including the time limits mentioned in sub-sub-subparagraphs (iii) and (v)).
 
@@ -218,19 +218,23 @@ EXCLUSIONS AND CONDITIONS
 
         - For the purpose of sub-sub-subparagraph (i), “contest” (爭辯) includes a contest in respect of the defence, prosecution, appeal or taking of interlocutory or any ancillary steps or procedures in legal proceedings to which a claim relates.
 
-      - (xv) For the purpose of this sub-subparagraph, costs of the reference to the Senior Counsel include fees of the Senior Counsel. (L.N. 266 of 1999)
+      - (xv) For the purpose of this sub-subparagraph, costs of the reference to the counsel include fees of the counsel. (L.N. 266 of 1999; L.N. 173 of 2016)
 
-  - (2) The indemnified shall procure that notice to the Company shall be given in writing as soon as practicable of—
+    - (d) Subject to sub-subparagraph (c), the Company may, in its discretion and at any time, take over in the name of the indemnified the conduct of the defence or settlement of any claim, including any claim in respect of which the indemnified may become entitled to partial indemnity under any insurance with any insurers and any claim which but for paragraph 2(2) or 3(1)(b) or (2)(b) would have fallen within the scope of the Indemnity provided by these rules; and the indemnified must at their own cost give all reasonable assistance to the Company and panel solicitors and co-operate in the defence or settlement of any claim. (L.N. 173 of 2016)
+
+  - (2) The indemnified must notify the Company in writing as soon as practicable of— (L.N. 173 of 2016)
 
     - (a) any claim made during the period of indemnity against the indemnified, which falls within rule 10; (L.N. 162 of 2001)
 
-    - (b) the receipt by the indemnified of notice from any person of any intention to make any such claim.
+    - (b) the receipt by the indemnified of notice from any person of any intention to make any such claim; and (L.N. 173 of 2016)
 
-  - (3) The indemnified shall also give notice in writing to the Company of any circumstance of which the indemnified becomes aware during the period of indemnity and which may (whether during or after the period of indemnity) give rise to any such claim.
+    - (c) any circumstances of which the indemnified becomes aware during the period of indemnity and which may (whether during or after the period of indemnity) give rise to any such claim. (L.N. 173 of 2016)
 
-  - (4) Any notice to be given to the Company under subparagraph (2) or (3) must be received by the Company not later than the last day of the period of indemnity during which such claim is made, notice is received or circumstances become known, except that the Company may, in its sole discretion, accept such notification not later than 60 days following the last day of such period of indemnity.
+  - (3) (Repealed L.N. 173 of 2016)
 
-  - (5) If due notice is given to the Company under subparagraph (2)(b) or (3), any claim subsequently made (whether during or after the period of indemnity) pursuant to such an intention to claim or arising from circumstances so notified shall be deemed to have been made at the date when such notice was given. (L.N. 162 of 2001)
+  - (4) Any notice to be given to the Company under subparagraph (2) must be received by the Company not later than the last day of the period of indemnity during which such claim is made, notice is received or circumstances become known, except that the Company may, in its sole discretion, accept such notification not later than 60 days following the last day of such period of indemnity. (L.N. 173 of 2016)
+
+  - (5) If due notice is given to the Company under subparagraph (2)(b) or (c), any claim subsequently made (whether during or after the period of indemnity) pursuant to such an intention to claim or arising from circumstances so notified shall be deemed to have been made at the date when such notice was given. (L.N. 162 of 2001; L.N. 173 of 2016)
 
   - (6) The Company on behalf of the fund waives any rights of subrogation against any employee of the firm or indemnified save where those rights arise in connection with a dishonest or criminal act by that employee. (L.N. 162 of 2001)
 
@@ -240,10 +244,16 @@ EXCLUSIONS AND CONDITIONS
 
   - (9) For the avoidance of doubt, any adjustment by way of claims loading which may at any future date or in respect of any future period be may by reference to any claim or claims first made or intimated during any period of indemnity is not loss arising from any such claim or claims under rule 10 and shall in no event be recoverable hereunder.
 
-  - (10) On request the indemnified shall give all information and assistance that the Claims Committee may reasonably require—
+  - (10) On request the indemnified shall give all information and assistance that the Claims Committee or panel solicitors may reasonably require— (L.N. 173 of 2016)
 
-    - (a) in considering whether the indemnified is entitled to Indemnity out of the fund in respect of a claim which is made against the indemnified, or which may arise from a notice or circumstance of which notice is given to the Company under subparagraph (2) or (3); or
+    - (a) in considering whether the indemnified is entitled to Indemnity out of the fund in respect of a claim which is made against the indemnified, or which may arise from a notice or circumstance of which notice is given to the Company under subparagraph (2); or
 
-    - (b) in handling a claim which is made against the indemnified or a notice or circumstance of which notice is given under subparagraph (2) or (3). (L.N. 58 of 1993)
+    - (b) in handling a claim which is made against the indemnified or a notice or circumstance of which notice is given under subparagraph (2). (L.N. 58 of 1993; L.N. 173 of 2016)
 
-- 9. Special Condition Where the issue of a receipt under rule 9 has been withheld or delayed due to the failure of any principal to comply with any provision of these rules and while such receipt remains unissued a claim has been made or intimated against the indemnified or a former solicitor in respect of which such indemnified or former solicitor would otherwise have been entitled to be provided with Indemnity, then subject to paragraph 1(2)(c)(x), the Company shall provide such Indemnity by payment (up to the indemnity limit determined in accordance with paragraph 2) in or towards satisfying or enabling the indemnified or former solicitor to satisfy the claim and related costs and the firm shall thereafter upon request reimburse to the Company on behalf of the fund the whole or such part as the Company may request of any payment so made and interest on the amount of any payment so made from the date of the payment thereof at the same rate as allowed for a judgment debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal in such firm shall be jointly and severally liable to the Company for such reimbursement accordingly. (25 of 1998 s. 2; L.N. 162 of 2001) (L.N. 359 of 1993)
+- 9. Special condition
+
+  - (1) If the issue of a receipt under rule 9 has been withheld or delayed as a result of a failure to pay any contribution due in accordance with these rules by a principal of the firm and a claim has been made or intimated against the indemnified in respect of which the indemnified would otherwise have been entitled to be provided with Indemnity, the Company must provide the payment (up to the limit provided for in paragraphs 2 and 3) in or towards satisfying, or enabling the indemnified to satisfy, the claim, claimant’s costs and related costs.
+
+  - (2) Each principal of the firm must, on request, reimburse to the Company the whole or such part as the Company may request of any payment so made and interest on the amount calculated in accordance with paragraph 5(3) of Schedule 1. Each principal of the firm so indemnified under subparagraph (1) is jointly and severally liable to the Company for the reimbursement.
+
+- (L.N. 173 of 2016)

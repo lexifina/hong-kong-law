@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[rules 2, 4 & 9]
+[rr. 2, 4 & 9 & Schs. 2 & 3] (L.N. 173 of 2016)
 
 CONTRIBUTIONS TO FUND
 
@@ -108,11 +108,11 @@ CONTRIBUTIONS TO FUND
 
       - (ii) thereafter, for each subsequent indemnity period an amount equal to 200% of the rate of contribution for the preceding indemnity period until such principal or principals have made disclosure of such particulars of the gross fee income or other information as was required.
 
-    - (d) Upon a principal making good all failures under sub-subparagraph (c), the Company shall assess the contribution payable in respect of the Practice. If the amount of the contribution as assessed—
+    - (d) On a principal making good all failures under sub-subparagraph (c), the Company must assess the contribution payable in respect of the Practice, and—
 
-      - (i) is less than the amount of the contribution paid, the difference shall be repaid to his firm without interest; or
+      - (i) if the amount of the contribution as assessed is less than the amount of the contribution paid, the difference must be repaid to the firm without interest; or
 
-      - (ii) exceeds the amount of the contribution paid, his firm shall upon demand pay to the Company the balance of the amount of the contribution together with interest on the amount of such balance at the rate of 4% per annum above the best lending rate from time to time of The Hongkong and Shanghai Banking Corporation Limited calculated from the date stipulated in or prescribed by the Society under rule 8(1)(c) until receipt of payment by the Company.
+      - (ii) if the amount of the contribution as assessed exceeds the amount of the contribution paid, the firm must on demand pay and each principal of the firm is jointly and severally liable to pay to the Company the balance of the amount of the contribution together with interest on the amount of the balance calculated in accordance with paragraph 5(3) until receipt of payment by the Company. (L.N. 173 of 2016)
 
   - (2) In the case of a solicitor or solicitors commencing a Practice during any indemnity period the contribution payable in respect of such Practice for the year of commencement of Practice shall be assessed by the Company based on the average contribution paid for the current indemnity period by firms of similar composition to the Practice and be paid pro rata and such basis shall continue to be applied until such Practice shall have submitted a certified public accountant (practising)’s report of gross fee income and other information in accordance with the foregoing provisions of this paragraph. Subject to subparagraph (7), the basic contribution payable by such Practice during any indemnity period shall not be less than $20,000. (L.N. 363 of 1991; 23 of 2004 s. 56; L.N. 154 of 2007; L.N. 65 of 2010)
 
@@ -213,3 +213,17 @@ CONTRIBUTIONS TO FUND
   - (j) the amount of the reduction in the contribution payable by a firm under paragraph 2(7)(c). (L.N. 363 of 1991)
 
 - 4. No refund of contributions A contribution is not refundable.
+
+- 5. Interest on overdue contributions
+
+  - (1) The Company may at any time demand in writing from each principal of the firm who is required to make contribution in respect of the firm to pay any outstanding balance of the amount of the contribution together with interest on the outstanding balance calculated in accordance with subparagraph (3).
+
+  - (2) Each principal of the firm is jointly and severally liable to pay to the Company the amount under subparagraph (1) within 14 days after the issue of the written demand.
+
+  - (3) Interest is to be calculated—
+
+    - (a) from the date on which the outstanding balance is due and payable or from any later date as the Company may specify in the written demand; and
+
+    - (b) at the same rate as allowed for a judgment debt from time to time under section 49 of the High Court Ordinance (Cap. 4).
+
+- (L.N. 173 of 2016)
