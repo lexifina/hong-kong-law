@@ -1359,3 +1359,19 @@ Savings, Transitional, Consequential and Related Provisions, etc.
   - 2. During the period during which section 128(3) and section 129(3) of the relevant Ordinance have a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622) in relation to accounts of a corporation, section 336(11), despite its repeal, continues to apply to a register of interests in shares and short positions or an index of the names recorded in the register, in relation to any information of that corporation. Section 336(10)(b) is subject to section 336(11) during the period during which section 336(11) so continues to apply.
 
   - 3. During the period during which section 128(3) and section 129(3) of the relevant Ordinance have a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622) in relation to accounts of a corporation, section 352(12), despite its repeal, continues to apply to a register of directors’ and chief executives’ interests and short positions or an index of the names recorded in the register, in relation to any information of that corporation. Section 352(11)(b) is subject to section 352(12) during the period during which section 352(12) so continues to apply. (Part 5 added 28 of 2012 ss. 912 & 920)
+
+- Part 6 Savings and Transitional Provisions Relating to Securities and Futures (Amendment) Ordinance 2014
+
+  - 1. Subject to section 2, section 374 of this Ordinance as substituted by section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) applies to a specified document if the duty to give or deliver the document arose on or after the commencement date of section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014).
+
+  - 2. If the duty to give or deliver a specified document arose before the commencement date of section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014), the document is to be regarded as duly given or delivered if it is—
+
+    - (a) delivered, left or sent on or after that date in accordance with section 374 of this Ordinance as in force immediately before that date; or
+
+    - (b) sent in accordance with section 374 of this Ordinance as substituted by section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014).
+
+  - 3. In this Part—
+
+    - specified document (指明文件) means a document referred to in section 374(1) of this Ordinance as substituted by section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014).
+
+- (Part 6 added 6 of 2014 s. 65)
