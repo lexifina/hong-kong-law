@@ -205,8 +205,10 @@ s-203.md
 s-204.md
 s-205.md
 s-206.md
+s-206A.md
 s-207.md
 s-208.md
+s-208A.md
 s-209.md
 s-210.md
 s-211.md
