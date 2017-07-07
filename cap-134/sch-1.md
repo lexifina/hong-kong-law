@@ -222,6 +222,8 @@
 
     - Phenampromide
 
+    - Phenazepam (Added L.N. 75 of 2017)
+
     - Phenazocine
 
     - Phencyclidine
@@ -308,6 +310,8 @@
 
     - 4-Cyano-1-methyl-4-phenylpiperidine
 
+    - 1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine (Added L.N. 75 of 2017)
+
     - 3,4-Dichloro-N-[[1- (dimethylamino)cyclohexyl]methyl]benzamide (Added L.N. 58 of 2016)
 
     - [2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1, 2, 3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone (Added L.N. 7 of 2011)
@@ -343,6 +347,8 @@
     - 4-Methyl aminorex
 
     - 4-Methyl-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
+
+    - 4-Methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine (Added L.N. 75 of 2017)
 
     - 4-Methylthioamphetamine (Added L.N. 149 of 2001)
 
