@@ -4,8 +4,6 @@
 
 Resolution Compensation Tribunal
 
-(Not yet in operation)
-
 - 1. Interpretation In this Schedule—
 
   - chairperson (主席) means the chairperson of the Tribunal;
@@ -40,7 +38,7 @@ Resolution Compensation Tribunal
 
     - (d) is not a member of, or employed by, the Securities and Futures Commission; and
 
-    - (e) is not the Insurance Authority or employed by the Insurance Authority.
+    - (e) is not a member of, or employed by, the Insurance Authority. (Replaced 23 of 2016 s. 243)
 
   - (2) Subject to subsections (3) and (5), the chairperson is appointed for the period, not exceeding 5 years, that the Chief Executive considers appropriate and may be reappointed from time to time.
 
@@ -74,7 +72,7 @@ Resolution Compensation Tribunal
 
     - (d) is not a member of, or employed by, the Securities and Futures Commission; and
 
-    - (e) is not the Insurance Authority or employed by the Insurance Authority.
+    - (e) is not a member of, or employed by, the Insurance Authority. (Replaced 23 of 2016 s. 243)
 
   - (3) Subject to subsections (4) and (6), a panel member is appointed for the period, not exceeding 5 years, that the Chief Executive considers appropriate and may be reappointed from time to time.
 
