@@ -376,6 +376,8 @@ Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (C
 
 Gas Authority | Gas Safety Ordinance (Cap. 51).
 
+Insurance Authority | Financial Institutions (Resolution) Ordinance (Cap. 628). (23 of 2016 s. 205 and E.R. 2 of 2017)
+
 Land Registrar | Government Rights (Re-entry and Vesting Remedies) Ordinance (Cap. 126), sections 11(1) and (3) and 12(1) and (3).
 
 Land Registrar | Land Registration Ordinance (Cap. 128).
@@ -383,6 +385,8 @@ Land Registrar | Land Registration Ordinance (Cap. 128).
 Land Registrar | Building Management Ordinance (Cap. 344).
 
 Monetary Authority | Crimes Ordinance (Cap. 200), sections 103(1) and 104(1).
+
+Monetary Authority | Financial Institutions (Resolution) Ordinance (Cap. 628). (23 of 2016 s. 205 and E.R. 2 of 2017)
 
 Permanent Secretary for Education | Post Secondary Colleges Ordinance (Cap. 320), sections 3, 8, 9, 11 and 12(2).
 
