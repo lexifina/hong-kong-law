@@ -2700,6 +2700,8 @@ Poisons List
 
     - Vemurafenib; its salts
 
+    - Venetoclax; its salts
+
     - Venlafaxine; its salts
 
     - Veralipride; its salts
@@ -2770,7 +2772,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 38 of 2017; L.N. 119 of 2017)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017)
 
     - Division B
 
