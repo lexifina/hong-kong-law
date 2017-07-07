@@ -177,6 +177,7 @@ s-053.md
 s-054.md
 s-054A.md
 s-055.md
+s-055A.md
 s-056.md
 s-056A.md
 s-057.md
