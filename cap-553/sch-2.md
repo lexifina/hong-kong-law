@@ -40,6 +40,10 @@ Proceedings in Relation to which Sections 5, 5A, 6, 7 and 8 of this Ordinance do
 
   - (mb) any person arbitrating disputes in accordance with rules made under section 118(2) of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
 
+  - (mc) the Resolution Compensation Tribunal established by section 127(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628) or an additional tribunal established under section 128(1) of that Ordinance; (Added 23 of 2016 s. 214. Amended E.R. 2 of 2017)
+
+  - (md) the Resolvability Review Tribunal established by section 110(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628) or an additional tribunal established under section 111(1) of that Ordinance; (Added 23 of 2016 s. 214. Amended E.R. 2 of 2017)
+
   - (n) the Administrative Appeals Board established under the Administrative Appeals Board Ordinance (Cap. 442); (Added L.N. 59 of 2000)
 
   - (o) the Appeal Tribunal established under the Buildings Ordinance (Cap. 123); (Added L.N. 59 of 2000)
