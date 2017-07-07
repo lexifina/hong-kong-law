@@ -358,4 +358,12 @@ Securities and Futures Commission
 
     - (88) to apply to the Court of First Instance, pursuant to section 1(6)(a) of Part 6 of Schedule 3 to this Ordinance;
 
-    - (89) to apply to the Court of First Instance, pursuant to section 1(7) of Part 6 of Schedule 3 to this Ordinance.
+    - (89) to apply to the Court of First Instance, pursuant to section 1(7) of Part 6 of Schedule 3 to this Ordinance; (Amended 23 of 2016 s. 222)
+
+    - (90) to recommend the designation of a recognized exchange company as a within scope financial institution under section 6(1)(b) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 s. 222. Amended E.R. 2 of 2017)
+
+    - (91) to make an application under section 145(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 s. 222. Amended E.R. 2 of 2017)
+
+    - (92) to issue a code of practice under section 196 of the Financial Institutions (Resolution) Ordinance (Cap. 628). (Added 23 of 2016 s. 222. Amended E.R. 2 of 2017)
+
+- Part 3 Functions of Commission Delegable for Resolution (Part 3 added 23 of 2016 s. 222) A function mentioned in section 2(12), (13), (14), (21), (22), (23), (24), (25), (26), (27), (28), (33), (34), (35), (36), (37), (38), (39), (40), (46), (47), (48), (49) or (50) of Part 2.

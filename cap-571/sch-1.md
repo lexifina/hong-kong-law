@@ -14,6 +14,8 @@ Interpretation and General Provisions
 
     - Advisory Committee (諮詢委員會) means the Advisory Committee referred to in section 7 of this Ordinance;
 
+    - affiliated operational entity (相聯營運實體) has the meaning given by section 2(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 s. 221. Amended E.R. 2 of 2017)
+
     - approved money broker (核准貨幣經紀) has the meaning given by section 2(1) of the Banking Ordinance (Cap. 155); (Added 6 of 2014 s. 52)
 
     - associate (有聯繫者), in relation to a person, means—
@@ -752,6 +754,20 @@ Interpretation and General Provisions
 
     - reporting obligation (匯報責任) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
 
+    - resolution authority (處置機制當局) has the meaning given by section 2(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 s. 221. Amended E.R. 2 of 2017)
+
+    - Resolution Compensation Tribunal (處置補償審裁處) means—
+
+      - (a) the Tribunal established by section 127(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); or (Amended E.R. 2 of 2017)
+
+      - (b) an additional tribunal established under section 128(1) of that Ordinance; (Added 23 of 2016 s. 221)
+
+    - Resolvability Review Tribunal (處置可行性覆檢審裁處) means—
+
+      - (a) the Tribunal established by section 110(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); or (Amended E.R. 2 of 2017)
+
+      - (b) an additional tribunal established under section 111(1) of that Ordinance; (Added 23 of 2016 s. 221)
+
     - responsible officer (負責人員) means an individual who is approved by the Commission under section 126(1) of this Ordinance as a responsible officer of a licensed corporation;
 
     - Risk Management Committee (風險管理委員會), in relation to a recognized exchange controller, means the committee of that name established under section 65(1) of this Ordinance by the controller;
@@ -936,6 +952,8 @@ Interpretation and General Provisions
 
     - specified stock exchange (指明證券交易所) means a stock exchange specified in Part 3;
 
+    - stabilization option (穩定措施) has the meaning given by section 2(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 s. 221. Amended E.R. 2 of 2017)
+
     - Stock Exchange Company (聯交所) means the company incorporated, and registered by the name The Stock Exchange of Hong Kong Limited, under the relevant Ordinance; (Amended 28 of 2012 ss. 912 & 920)
 
     - stock market (證券市場) means a place where persons regularly meet together to negotiate sales and purchases of securities (including prices), or a place at which facilities are provided for bringing together sellers and purchasers of securities; but does not include the office of—
@@ -951,6 +969,8 @@ Interpretation and General Provisions
     - title (稱銜) includes name or description;
 
     - trading right (交易權), in relation to a recognized exchange company, means a right to be eligible to trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company and entered as such a right in a list, roll or register kept by that exchange company.
+
+    - within scope financial institution (受涵蓋金融機構) has the meaning given by section 2(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628). (Added 23 of 2016 s. 221. Amended E.R. 2 of 2017)
 
   - (Amended 23 of 2004 s. 56; 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
 
