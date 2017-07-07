@@ -106,6 +106,18 @@ Qualifying Criteria to be Met to be Additional Tier 1 Capital
 
         - (II) an assessment by the institution of the possible market implications that might arise from the inclusion of those additional trigger events or on the occurrence of those additional trigger events;
 
-      - (B) a detailed description of the rationale for the specified conversion method, including computations of the indicative dilution of the institution’s ordinary shares that would occur on the occurrence of the trigger event and the resulting ordinary shareholder structure, and an explanation of why such a conversion method would help to ensure or maintain the viability of the institution.
+      - (B) a detailed description of the rationale for the specified conversion method, including computations of the indicative dilution of the institution’s ordinary shares that would occur on the occurrence of the trigger event and the resulting ordinary shareholder structure, and an explanation of why such a conversion method would help to ensure or maintain the viability of the institution; (23 of 2016 s. 212)
+
+  - (r) if the instrument is issued on or after the commencement date* of Part 5 of the Financial Institutions (Resolution) Ordinance (Cap. 628), the terms and conditions of the instrument contain a provision to the effect that the holder of the instrument— (E.R. 2 of 2017)
+
+    - (i) acknowledges that the instrument is subject to being written off, cancelled, converted or modified, or to having its form changed, in the exercise of powers under that Ordinance;
+
+    - (ii) agrees to be bound by any such write off, cancellation, conversion, modification or form change; and
+
+    - (iii) acknowledges that the rights of the holder are subject to anything done in the exercise of those powers. (23 of 2016 s. 212)
+
+- Editorial Note:
+
+- * Commencement date: 7 July, 2017.
 
 - 2. Application of section 1(k) and (q) of this Schedule to capital instruments other than ordinary shares Section 1(k) and (q) of this Schedule, with necessary modifications, applies to a capital instrument that is equivalent to an ordinary share in the case of an entity other than a joint-stock company as it applies to an ordinary share in the case of a joint-stock company. (Schedule 4B added L.N. 156 of 2012)
