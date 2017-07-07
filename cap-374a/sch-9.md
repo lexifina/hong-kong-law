@@ -28,9 +28,9 @@ DIRECTION INDICATORS
 
     - (1) An additional indicator may be fitted at the rear of any vehicle on any side to which there is fitted any indicator not being an additional indicator. Such additional indicator shall either—
 
-      - (a) be in the form specified in paragraph 1 and shall, except when a trailer is being towed, be visible at a reasonable distance from any point to the rear of the vehicle; or
+    - (a) be in the form specified in paragraph 1 and shall, except when a trailer is being towed, be visible at a reasonable distance from any point to the rear of the vehicle; or
 
-      - (b) comply with the requirements of paragraph 3(1) of Part II as respects indicators showing a flashing light to the rear.
+    - (b) comply with the requirements of paragraph 3(1) of Part II as respects indicators showing a flashing light to the rear.
 
     - (2) An additional indicator may be fitted on the front of any vehicle on any side to which there is fitted an indicator not being an additional indicator. Such additional indicator shall comply with the requirements of paragraphs 3(1), 4 and 5 of Part II as respects indicators showing a flashing light to the front.
 
@@ -42,11 +42,11 @@ DIRECTION INDICATORS
 
     - (1) The illuminated colour of every direction indicator shall—
 
-      - (a) if it shows both to the front and to the rear, be amber;
+    - (a) if it shows both to the front and to the rear, be amber;
 
-      - (b) if it shows only to the front, be amber or white; and
+    - (b) if it shows only to the front, be amber or white; and
 
-      - (c) if it shows only to the rear, be amber or red.
+    - (c) if it shows only to the rear, be amber or red.
 
     - (2) The light emitted by every direction indicator shall be diffused by frosted glass or other adequate means.
 
@@ -126,7 +126,7 @@ DIRECTION INDICATORS
 
     - (1) In this Part and in the diagrams set out in Part IV—
 
-      - “inboard angle” (內側角度),in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally inwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator;
+      - “inboard angle” (內側角度), in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally inwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator;
 
       - “outboard angle” (外側角度), in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally outwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator;
 
@@ -162,7 +162,7 @@ DIRECTION INDICATORS
 
       - (c) at least one side indicator.
 
-    - (2) A motor vehicle to which front indicators have been fitted in accordance with sub- paragraph (1) shall in addition have fitted on each side of the vehicle at least one flank indicator, if the distance between the nearest part of the illuminated area of the front indicator and the nearest part of the illuminated area of the rear indicator on either side of the vehicle exceeds 6 metres or if the motor vehicle is the towing vehicle forming part of an articulated vehicle.
+    - (2) A motor vehicle to which front indicators have been fitted in accordance with sub-paragraph (1) shall in addition have fitted on each side of the vehicle at least one flank indicator, if the distance between the nearest part of the illuminated area of the front indicator and the nearest part of the illuminated area of the rear indicator on either side of the vehicle exceeds 6 metres or if the motor vehicle is the towing vehicle forming part of an articulated vehicle.
 
     - (3) Where one or more flank indicators are fitted on each side of a motor vehicle in accordance with sub-paragraph (2) at least one shall be so fitted on that side that the distance between the foremost part of the motor vehicle which is comprised in the overall length of the vehicle and the rearmost part of the illuminated area of that indicator is not more than one third of the overall length of the motor vehicle or, where the motor vehicle is the towing vehicle forming part of an articulated vehicle, not more than one third of the overall length of the articulated vehicle.
 
@@ -180,13 +180,13 @@ DIRECTION INDICATORS
 
   - 7. Every direction indicator other than a flank indicator or an additional indicator shall be so designed and fitted to a vehicle that the minimum illuminated area showing to the front and the minimum illuminated area showing to the rear in accordance with the diagram relating to that indicator shall be—
 
-    - (a) not less than 25 square centimetres in extent in the case of either a motor vehicle the permitted gross vehicle weight of which does not exceed 5.5 tonnes or a passenger vehicle adapted to carry not more than 16 passengers, if in either case the vehicle is not being used, except in a case of emergency, to tow a trailer other than one with less than 4 wheels or a four-wheeled trailer having 2 close-coupled wheels on each side; (89 of 1988 s. 9)
+    - (a) not less than 25 square centimetres in extent in the case of either a motor vehicle the permitted gross vehicle weight of which does not exceed 5.5 tonnes or a passenger vehicle adapted to carry not more than 19 passengers, if in either case the vehicle is not being used, except in a case of emergency, to tow a trailer other than one with less than 4 wheels or a four-wheeled trailer having 2 close-coupled wheels on each side; (89 of 1988 s. 9; 10 of 2017 s. 11)
 
     - (b) not less than 25 square centimetres in extent in the case of a trailer which has less than 4 wheels or is a four-wheeled trailer having 2 close-coupled wheels on each side; and
 
     - (c) not less than 80 square centimetres in extent in any other case.
 
-  - 8. Every direction indicator of a kind to which a diagram in Part IV applies and which is fitted to a vehicle in compliance with this Part shall have an illuminated area of at least 2 square centimetres visible within a reasonable distance at any point between not less than 15 degrees above and not less than 15 degrees below the horizontal throughout at least each inboard angle and at least each outboard angle (excluding any blind angle not exceeding 10 degrees) shown in the diagram relating to that kind of indicator.
+  - 8. Every direction indicator of a kind to which a diagram in Part IV applies and which is fitted to a vehicle in compliance with this Part shall have an illuminated area of at least 2 square centimetres visible within a reasonable distance at any point between not less than 15 degrees above and not less than 15 degrees below the horizontal throughout at least each inboard angle and at least each outboard angle (excluding any blind angle not exceeding 10 degrees) shown in the diagram relating to that kind of indicator:
 
     - Provided that in the case of any indicator fitted to a motor vehicle towing one or more trailers the foregoing provisions of this paragraph shall be treated as being satisfied if the said illuminated area of the indicator would have been visible as aforesaid but for the presence of the trailer or trailers.
 

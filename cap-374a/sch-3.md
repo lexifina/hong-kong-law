@@ -10,7 +10,7 @@ Private Car | 7
 
 Taxi | 5
 
-Light Bus | 16
+Light Bus | 19
 
 Light Goods Vehicle | 5
 
@@ -24,4 +24,4 @@ Motor Cycle (with sidecar) | 2
 
 Motor Tricycle | 1
 
-(89 of 1988 s. 8)
+(89 of 1988 s. 8; 10 of 2017 s. 10)
