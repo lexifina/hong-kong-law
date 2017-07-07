@@ -40,10 +40,16 @@ Non-delegable Functions of Authority
 
   - (p) to specify the time at which a specified decision as defined by section 96 is to take effect;
 
-  - (q) to consult the Financial Secretary with a view to recommending to the Chief Executive in Council that a levy be reduced, and to recommend to the Chief Executive in Council that the levy be reduced, under section 135.
+  - (q) to consult the Financial Secretary with a view to recommending to the Chief Executive in Council that a levy be reduced, and to recommend to the Chief Executive in Council that the levy be reduced, under section 135; (Amended 23 of 2016 ss. 208A & 241)
+
+  - (r) to defer, under section 78(2) of the Financial Institutions (Resolution) Ordinance (Cap. 628), the application of any provision of this Ordinance to an application made under this Ordinance by a bridge institution; (Added 23 of 2016 ss. 208A & 241. Amended E.R. 2 of 2017)
+
+  - (s) to make an application under section 145(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 ss. 208A & 241. Amended E.R. 2 of 2017)
+
+  - (t) to issue a code of practice under section 196 of the Financial Institutions (Resolution) Ordinance (Cap. 628). (Added 23 of 2016 ss. 208A & 241. Amended E.R. 2 of 2017)
 
 Editorial Note:
 
-* | The newly added section 1(n) of the new Schedule 1D of this Ordinance by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017 except in so far as it relates to the new section 64ZZH(1)—see paragraph (zd)(iii) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
+* | Section 1(n) of Schedule 1D of this Ordinance as added by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017, except in so far as it relates to the new section 64ZZH(1)—see paragraph (zd)(iii) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
 
-** | The newly added section 1(o) of the new Schedule 1D of this Ordinance by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017 except in so far as it relates to the new sections 83 and 95—see paragraph (zd)(iv) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
+** | Section 1(o) of Schedule 1D of this Ordinance as added by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017, except in so far as it relates to the new sections 83 and 95—see paragraph (zd)(iv) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
