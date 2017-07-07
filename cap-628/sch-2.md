@@ -4,8 +4,6 @@
 
 Appointment Criteria for Independent Valuer
 
-(Not yet in operation)
-
 - 1. The person must not be a public officer.
 
 - 2. The person must have the expertise, experience and resources that are necessary for the person to be able to perform the functions of an independent valuer in relation to the entity concerned.

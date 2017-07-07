@@ -4,8 +4,6 @@
 
 Valuation Assumptions and Principles
 
-(Not yet in operation)
-
 - 1. In assessing the value of the winding up treatment in relation to an affected entity for the purposes of Part 6, the following assumptions are to be made and principles applied—
 
   - (a) an assessment is to be made as if any stabilization option applied to the entity had not been applied and as if no other stabilization option would be applied to the entity;

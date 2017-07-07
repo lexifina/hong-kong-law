@@ -4,8 +4,6 @@
 
 Excluded Liabilities
 
-(Not yet in operation)
-
 - 1. Interpretation In this Schedule—
 
   - clearing participant (結算所參與者) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571);

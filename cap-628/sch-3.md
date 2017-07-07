@@ -4,8 +4,6 @@
 
 Securities Transfer Instruments
 
-(Not yet in operation)
-
 - Part 1 General
 
   - 1. Interpretation In this Schedule—
