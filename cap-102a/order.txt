@@ -18,6 +18,7 @@ s-016.md
 s-017.md
 s-018.md
 s-019.md
+s-019A.md
 s-020.md
 s-021.md
 s-022.md

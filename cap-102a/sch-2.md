@@ -1,210 +1,250 @@
 # Schedule 2
 
-[reg. 19]
+[regs. 19, 19A, 20 & 25] (L.N. 81 of 2017)
 
 - Part 1 Pipes and Fittings
 
-  - 1.
+  - 1. Pipes for a fresh water fire service must be made of cast iron, ductile iron, steel, stainless steel or copper.
 
-    - (1) Pipes on a fresh water fire service shall be made of cast iron, steel or copper.
+  - 2. Pipes for a salt water fire service must be made of steel and internally lined with chlorinated polyvinyl chloride or of ductile iron.
 
-    - (2) Pipes and fittings on a salt water fire service shall be made of such material as the Water Authority, in consultation with the Director of Fire Services, thinks fit.
+  - 3. Pipes for a fresh water inside service must be made of cast iron, ductile iron, unplasticized polyvinyl chloride, polybutylene, steel, stainless steel, copper, polyethylene, crosslinked polyethylene or chlorinated polyvinyl chloride, but pipes made of unplasticized polyvinyl chloride or polyethylene must not be used for a hot fresh water inside service.
 
-    - (3) Pipes on a fresh water inside service shall be made of cast iron, unplasticized P.V.C., polybutylene, steel, copper, polyethylene, crosslinked polyethylene or chlorinated polyvinyl chloride. (L.N. 673 of 1994)
+  - 4. Pipes for a salt water inside service must be made of cast iron, ductile iron, unplasticized polyvinyl chloride or polyethylene.
 
-    - (4) Pipes on a salt water inside service shall be made of cast iron or unplasticized P.V.C. (L.N. 320 of 1992)
+  - 5. A pipe must not be less than 20 mm in nominal diameter, except that a branch pipe may be of 15 mm or more in nominal diameter if its length is not longer than 3 m and it supplies only 1 draw-off point.
 
-  - 2. No pipe shall be less than 20 mm diameter, except that a branch pipe may be 15 mm diameter if the pipe run is short and the pipe supplies only one draw-off point.
+  - 6. A bend or curve must not be made in any pipe so as to diminish the waterway or alter the internal diameter of the pipe.
 
-  - 3. No bend or curve shall be made in any pipe so as to diminish the waterway or alter the internal diameter of the pipe in any part.
+  - 7. Ductile iron pipes and fittings must be of a class appropriate to the duty required and comply with BS EN 545:2010.
 
-  - 4. Changes of direction for a pipe of less than 40 mm diameter shall be effected by slow bends and no elbows shall be used.
-
-  - 5.
-
-      - (a) Cast iron pipes shall comply with BS 4622 for grey iron pipe and with BS 4772 for ductile iron pipe, except that they may incorporate a mechanical or automatic joint of approved design.
-
-      - (b) Cast iron pipes to BS 4622 and ductile iron pipes to BS 4772 shall be of a class appropriate to the duty required.
-
-  - 6. (Repealed L.N. 320 of 1992)
-
-  - 7. Cast iron fittings for use with cast iron pipes shall comply with BS 4622 for grey iron fittings and with BS 4772 for ductile iron fittings, except that they may incorporate a mechanical joint of approved design. Fittings shall be of a class appropriate to the duty required. (L.N. 320 of 1992)
-
-  - 8. (Repealed L.N. 252 of 1977)
-
-  - 9. Steel pipes shall—
+  - 8. Steel pipes must—
 
     - (a) be galvanized;
 
-    - (b) comply with BS 1387 for ‘Medium’ tubes and tubulars; and
+    - (b) comply with the requirements for tubes in medium or heavy series in BS EN 10255:2004;
 
-    - (c) if on a fresh water inside service, be lined with internal unplasticized polyvinyl chloride or polyethylene lining approved by the Water Authority. (L.N. 673 of 1994)
+    - (c) for a cold fresh water inside service—be internally lined with unplasticized polyvinyl chloride, chlorinated polyvinyl chloride or polyethylene;
 
-  - 10. Malleable cast iron fittings for use with steel pipes shall be galvanized and shall comply with BS 143 and 1256 for malleable cast iron and cast copper alloy pipe fittings. (L.N. 320 of 1992)
+    - (d) for a hot fresh water inside service—be internally lined with chlorinated polyvinyl chloride; and
 
-  - 11. Wrought fittings of iron or steel for use with steel pipes shall be galvanized and shall comply with BS 1740, Part 1 for wrought iron pipe fittings. (L.N. 320 of 1992)
+    - (e) for a fresh water fire service—be internally lined with chlorinated polyvinyl chloride or without any lining.
 
-  - 12. Unplasticized P.V.C. pipes and fittings shall comply with BS 3505 for Class ‘D’ tubes or equivalent.
+  - 9. Malleable cast iron fittings for use with steel pipes must be galvanized and comply with the relevant requirements in BS 143 and 1256:2000.
 
-  - 13. Copper pipes incorporating screw joints shall comply with BS 2871, Part 2, for copper tubes (heavy gauge) for general purposes and screw thereof shall comply with BS 61, for screw threads for copper tubes.
+  - 10. Fittings made of wrought iron or steel for use with steel pipes must be galvanized and comply with BS EN 10241:2000.
 
-  - 14. (Repealed L.N. 320 of 1992)
+  - 11. Unplasticized polyvinyl chloride pipes and fittings must comply with the requirements for Class D or superior pipes in BS 3505:1986 or the relevant requirements in BS EN ISO 1452-1:2009, BS EN ISO 1452-2:2009, BS EN ISO 1452-3:2010, BS EN ISO 1452-4:2009 and BS EN ISO 1452-5:2009.
 
-  - 15. Cast copper alloy fittings, for copper pipes screwed in accordance with Table 1 of BS 61, shall comply with the relevant requirements of BS 143 and 1256 for malleable cast iron and cast copper alloy pipe fittings. (L.N. 320 of 1992)
+  - 12. Copper pipes incorporating screw joints must comply with BS EN 12449:2016. The screws of the pipes must comply with BS 61:1969.
 
-  - 16. Copper pipes to be jointed with compression fittings or capillary fittings or by bronze or autogenous welding shall comply with BS 2871, Part 1.
+  - 13. Cast copper alloy fittings, for copper pipes screwed in accordance with Table 1 of BS 61:1969, must comply with the relevant requirements in BS 143 and 1256:2000.
 
-  - 17. Capillary fittings or compression fittings shall comply with BS 864, Parts 2 for capillary and compression fittings of copper and copper alloy and compression fittings for pipes laid under the ground shall be Type B. (L.N. 320 of 1992)
+  - 14. Copper pipes to be jointed with mechanical joint fittings or capillary fittings or, by bronze or autogenous welding, must comply with BS EN 1057:2006+A1:2010.
 
-  - 18. Polybutylene pipes and fittings shall comply with BS 7291 Parts 1 and 2. (L.N. 673 of 1994)
+  - 15. Mechanical joint fittings or capillary fittings made of copper or copper alloy must comply with the relevant requirements in BS EN 1254-1:1998, BS EN 1254-2:1998, BS EN 1254-4:1998, BS EN 1254-5:1998, BS EN 1254-6:2012, BS EN 1254-8:2012 and BS 8537:2010. Compression fittings made of copper or copper alloy for pipes laid underground must be of Type B. Soft soldering material must comply with BS EN ISO 9453:2014. Filler metal for brazing must comply with BS EN ISO 17672:2010.
 
-  - 19. Polyethylene pipes shall comply with BS 6730 and BS 6572. (L.N. 673 of 1994)
+  - 16. Polybutylene pipes and fittings must comply with BS 7291-1:2010 and BS 7291-2:2010.
 
-  - 20. Crosslinked polyethylene pipes and fittings shall comply with BS 7291 Parts 1 and 3. (L.N. 673 of 1994)
+  - 17. Polyethylene pipes and fittings must comply with BS EN 12201-1:2011, BS EN 12201-2:2011+A1:2013, BS EN 12201-3:2011+A1:2012, BS EN 12201-4:2012 and BS EN 12201-5:2011.
 
-  - 21. Chlorinated polyvinyl chloride pipes and fittings shall comply with BS 7291 Parts 1 and 4. (L.N. 673 of 1994) (L.N. 252 of 1977)
+  - 18. Crosslinked polyethylene pipes and fittings must comply with BS 7291-1:2010 and BS 7291-3:2010.
+
+  - 19. Chlorinated polyvinyl chloride pipes and fittings must comply with BS EN ISO 15877-1:2009+A1:2010, BS EN ISO 15877-2:2009+A1:2010 and BS EN ISO 15877-3:2009+A1:2010.
+
+  - 20. Stainless steel pipes must be of grade 304 or better and comply with the relevant requirements in BS 6362:1990, BS EN 10217-7:2014 and BS EN 10312:2002. Stainless steel fittings must comply with AS 3688:2016.
+
+  - 21. Pipe flanges made of steel must comply with BS EN 1092- 1:2007+A1:2013. Pipe flanges made of cast iron or ductile iron must comply with BS EN 1092-2:1997.
+
+  - 22. Flexible pipe joints must comply with the hydraulic test requirements in BS EN 12266-1:2012.
+
+  - 23. Non-metallic materials and products for use in contact with water intended for human consumption must comply with the relevant requirements in BS 6920-1:2014, BS 6920-2.1:2014, BS 6920-2.2.1:2000+A3:2014, BS 6920-2.2.2:2000+A1:2014, BS 6920-2.2.3:2000+A2:2014, BS 6920-2.3:2000+A1:2014, BS 6920-2.4:2000+A1:2014, BS 6920-2.5:2000+A2:2014, BS 6920-2.6:2000+A2:2014 and BS 6920-3:2000.
+
+- (L.N. 81 of 2017)
 
 - Part 2 Taps and Valves
 
-  - 1. Draw-off taps and stop valves of the ordinary screw-down pattern and of nominal size not exceeding 50 mm shall comply with BS 1010, Part 2 for draw-off taps and stop valves.
+  - 1. Draw-off taps and stop valves that are not of the ordinary screw-down pattern must be capable of resisting a pressure of at least 1 600 kPa. Valves, spindles and other internal parts of the draw-off taps and stop valves must be made of a corrosion-resisting material. If the nominal diameter of such a draw-off tap or stop valve does not exceed 50 mm, its body must be made of a corrosion-resisting material.
 
-  - 2. Draw-off taps and stop valves not being of the ordinary screw-down pattern, shall be capable of resisting a pressure of at least 2 000 kPa, and every valve, spindle, and other internal part and, where the nominal size of the tap or valve does not exceed 50 mm, the body thereof, shall be made of a corrosion resisting alloy.
+  - 2. Cast iron or ductile iron waterworks gate valves or check valves of a nominal diameter of not less than 50 mm and with a pressure rating at PN 10 or above must comply with the relevant requirements in BS 5163-1:2004, BS 5163-2:2004, BS EN 1074-1:2000, BS EN 1074-2:2000 and BS EN 1074-3:2000. Gate valves for fire hydrant systems must comply with BS 5041-1:1987.
 
-  - 3. Sluice valves of nominal size of 50 mm or more shall comply with BS 5163 for sluice valves for waterworks purposes of PN 10 or PN 16 according to the pressure to which the valve will be liable to be subjected under working conditions.
+  - 3. Ball float valves must comply with BS 1212-1:1990, BS 1212-2:1990, BS 1212-3:1990 or BS 1212-4:2016.
 
-  - 4.
+  - 4. For ball float valves of a nominal diameter not exceeding 50 mm, their valve bodies must be made of copper alloy or stainless steel. For ball float valves of a nominal diameter exceeding 50 mm, their valve bodies must be made of copper alloy, stainless steel, epoxy coated cast iron or epoxy coated ductile iron.
 
-    - (1) Ball valves of the “Piston” type and of a nominal size not exceeding 50 mm shall comply with BS 1212, Part 1 for ball valves and shall comply with the following requirements—
+  - 5. Floats for use with fresh water must be made of copper alloy or stainless steel. Floats for use with salt water must be made of plastic or stainless steel.
 
-      - (a) valves shall be provided with a washer of suitable vulcanized rubber or some other equally suitable material and the washer shall be enclosed in an internally flanged cap screwed to the piston;
+  - 6. Copper floats or plastic floats must respectively comply with BS 1968:1953 or BS 2456:1990 if the nominal diameter of the floats does not exceed 300 mm.
 
-      - (b) the body and piston shall be of a corrosion-resisting alloy, and the lever shall be of a corrosion-resisting alloy or of copper and shall be of sufficient rigidity not to bend permanently under working conditions. (L.N. 320 of 1992)
+  - 7. Ball float valves fitted to a cistern must have the size of the orifice, the size of the float and the length of the lever so proportioned to one another that, when the float is immersed to an extent not exceeding half its volume, the valve is watertight against the highest pressure at which the valve may be required to work.
 
-    - (2) Ball valves not being of the “Piston” type shall be sound and suitable and comply with the following requirements—
+  - 8. A ball float valve or float-operated valve fitted to a cistern must be securely fixed to the cistern above the waterline of the float of the valve, and must be supported independently of the inlet pipe (unless the inlet pipe is itself rigid and securely fixed to the cistern), in a position that no part of the body of the valve is submerged when the cistern is charged to the overflowing level.
 
-      - (a) high pressure valves shall close against a test pressure of 1 400 kPa, medium pressure valves against a test pressure of 700 kPa, low pressure valves against a test pressure of 300 kPa; and the valves, not being valves having an interchangeable orifice seating, shall have the letters “H.P.”, “M.P.” or “L.P.” respectively cast or stamped on the body of the fitting, and shall, while held in a closed position, be capable of resisting a pressure of 2 000 kPa;
+  - 9. If a ball float valve or float-operated valve is provided with a pipe so arranged as to discharge water into a cistern below its overflowing level, an air hole must be provided in the outlet chamber of the valve above the overflowing level. The air hole must be of a size sufficient to prevent siphonage of water back through the valve.
 
-      - (b)-(c) (Repealed L.N. 320 of 1992)
+  - 10. Ball float valves must not be fitted to a cistern that is used to contain heated water.
 
-      - (d) valves of ferrous metal of a nominal size exceeding 50 mm shall be provided with a flange on their inlets complying with BS 4504, Part 1, Table 16, shall be protected against corrosion by dipping in accordance with the requirements of BS 4164 or by galvanizing in accordance with the requirements of BS 1387 and shall have all their working surfaces lined or faced with, and its orifice seating of, a corrosion-resisting alloy.
+  - 11. Except with the written permission of the Water Authority, fitting with a threaded outlet, or any device facilitating the connecting of rubber hose or another type of flexible hose, must not be used.
 
-    - (3) Ball valve floats of a nominal outside diameter not exceeding 300 mm shall comply with BS 1968 for copper floats or with BS 2456 for plastic floats.
+  - 12. Draw-off taps, valves and valve floats for use with salt water must be made of a corrosion-resisting material and comply with the relevant requirements governing the use of fittings with fresh water.
 
-    - (4) Ball valves when fixed to a cistern shall have the size of the orifice, the size of the float and the length of the lever so proportioned to one another that, when the float is immersed to an extent not exceeding half its volume, the ball valves shall be watertight against the highest pressure at which it may be required to work.
+  - 13. The minimum flow rate requirement for taps in any prescribed specification does not apply to draw-off taps.
 
-  - 5. Ball valves or float-operated valves fitted to storage cisterns shall be securely and rigidly fixed thereto above the water-line, and shall be supported independently of the inlet pipe (unless such inlet pipe is itself rigid and rigidly fixed to the cistern), in such a position that no part of the body of the valve will be submerged when the cistern is charged to overflowing level.
+  - 14. Draw-off taps must—
 
-  - 6. Where a ball valve or float-operated valve provided with a pipe so arranged as to discharge water into a cistern below its overflowing level, an air hole shall be provided in the outlet chamber of the valve above such level of a size sufficient to prevent siphonage of water back through the valve.
+    - (a) for those of a single tap type—comply with BS EN 200:2008;
 
-  - 7. No ball valve shall be fitted to a storage cistern to contain heated water.
+    - (b) for those of a combination tap type—comply with BS EN 200:2008, BS EN 1286:1999 or BS EN 1287:1999;
 
-  - 8. Gate valves shall comply with BS 5154 for copper alloy gate valves for general purposes.
+    - (c) for those of a self-closing tap type—comply with BS EN 816:1997; or
 
-  - 9. Fitting with threaded outlets, or any device facilitating the connecting of rubber or other type flexible hose, shall not be permitted, except with the written permission of the Water Authority.
+    - (d) for those of a sensor tap type—comply with BS EN 15091:2013.
 
-  - 10. Draw-off taps, valves and valve floats for use with salt water shall, where applicable, comply with the British Standard and other requirements for such fittings for use with fresh water and shall, in addition, be manufactured from materials capable of withstanding the corrosive effect of salt water.
+  - 15. Gate valves must—
 
-  - 11. No draw-off tap or valve shall be installed or used unless it has been tested in accordance with regulation 21 or otherwise approved by the Water Authority. (L.N. 320 of 1992) (L.N. 252 of 1977)
+    - (a) for those with a copper alloy body—comply with BS EN 12288:2010;
 
-- Part 3 Cold Water Storage Cisterns
+    - (b) for those with a steel body—comply with BS EN 1984:2010; or
+
+    - (c) for those with a cast iron or ductile iron body and used for general purpose—comply with the relevant requirements in BS EN 1171:2015, BS 5163-1:2004, BS 5163-2:2004, BS EN 1074-1:2000 and BS EN 1074-2:2000.
+
+  - 16. Mixing valves must—
+
+    - (a) for those used for a basin or sink—comply with BS EN 200:2008 or BS EN 1286:1999;
+
+    - (b) for those used for a shower or bath—comply with BS EN 200:2008, BS EN 1286:1999 or BS EN 1287:1999; or
+
+    - (c) for those of a sensor type—comply with BS EN 15091:2013.
+
+  - 17. Globe valves must—
+
+    - (a) for those with a copper alloy body—comply with BS 5154:1991;
+
+    - (b) for those with a steel body—comply with BS EN 13709:2010; or
+
+    - (c) for those with a cast iron or ductile iron body—comply with BS EN 13789:2010.
+
+  - 18. Check valves must—
+
+    - (a) for those with a copper alloy body—comply with BS 5154:1991;
+
+    - (b) for those with a steel body—comply with BS EN 16767:2016; or
+
+    - (c) for those with a cast iron or ductile iron body—comply with BS EN 12334:2001 or BS EN 16767:2016.
+
+  - 19. Ball valves must—
+
+    - (a) for those with a stainless steel body—comply with BS EN 13828:2003; or
+
+    - (b) for those with a copper alloy body—comply with the relevant requirements in BS EN 13547:2013 and BS EN 13828:2003.
+
+  - 20. Butterfly valves must comply with BS EN 593:2009+A1:2011.
+
+  - 21. Pressure reducing valves must comply with BS EN 1567:1999.
+
+- (L.N. 81 of 2017)
+
+- Part 3 Cold Water Cisterns (L.N. 81 of 2017)
 
   - 1. No cistern for the storage of cold water shall be installed or used except with the permission in writing of the Water Authority who shall specify the maximum permitted capacity.
 
-  - 2. Every cistern shall be watertight, of adequate strength, properly supported and shall be constructed of concrete, galvanized mild steel or other approved material. (L.N. 320 of 1992)
+  - 2. A cistern must be watertight, of adequate strength, properly supported and be made of concrete, stainless steel or fibre glass.
 
-  - 3. A cistern of mild steel not exceeding 5 000 litres capacity shall comply with BS 417, Part 2 for galvanized mild steel cisterns.
+  - 3. (Repealed L.N. 81 of 2017)
 
-  - 4.
+  - 4. A cistern must be so located as to minimize the risk of contamination of stored water and be fitted with a suitable close fitting lockable cover that is not airtight. The cover must be so positioned as to facilitate inspection and cleaning.
 
-      - (a) Every cistern shall be located so as to minimize the risk of contamination of the stored water and shall be fitted with suitable close fitting lockable covers which shall not be air-tight. Covers shall be positioned so as to facilitate inspection and cleaning.
+  - 5. If a cistern for non-potable water is placed adjoining to a cistern for potable water, a physical break must be provided between the cisterns, such that the walls and slabs of the cisterns are separated, however, tie beams linking the cisterns for structural requirements may be fitted and, if fitted, must be constructed in a way that cross contamination of the cisterns via the tie beams is not possible.
 
-      - (b) Where a storage cistern for non-potable water is placed adjoining to a storage cistern for potable water there shall be an air space between such storage cisterns.
+  - 6. The inlet of a single cistern fed by a gravity supply must be fitted with a ball float valve and stop valve.
 
-  - 5. Cisterns shall be fitted with a ball valve controlled inlet in the case of a gravity supply or with an automatic control switch in the case of a pumped supply. The ball valve or control switch shall shut off the supply when the water level is 25 mm below the invert of the overflow pipe. The invert of the inlet pipe or the face of the outlet nose of the ball valve shall be not less than 25mm above the top of the overflow pipe.
+  - 7. The inlet of a single cistern fed by a pumped supply must be fitted with an automatic control switch and without any stop valve.
 
-  - 6. An overflow pipe of one commercial size larger than the inlet pipe, and in no case less than 25 mm diameter, shall be fitted to each cistern and shall be extended to terminate in a conspicuous position. No overflow pipe shall be connected to a drain, sewer or to the overflow pipe from any other cistern.
+  - 7A. Each inlet of a twin cistern fed by a pumped supply must be fitted with an automatic control switch and a stop valve for temporary isolation purpose.
 
-  - 7. A stop valve shall be provided on the outlet of every cistern and provision shall be made for a drain-off pipe to enable the cistern to be emptied.
+  - 7B. A ball float valve or automatic control switch installed at the inlet of a cistern must shut off the supply when the water level is 25 mm below the invert of the overflow pipe or warning pipe. The invert of the inlet pipe or the outlet of the ball float valve must not be less than 25 mm above the top of the overflow pipe.
+
+  - 7C. All overflow pipes and warning pipes of a potable water cistern must be made of a corrosion-resisting material.
+
+  - 7D. An overflow pipe of one commercial size larger than the inlet pipe, and in no case less than 25 mm in nominal diameter, must be fitted to a cistern and be extended to terminate in a conspicuous position. The overflow pipe must not be connected to a drain or sewer or to the overflow pipe from another cistern.
+
+  - 7E. A stop valve must be provided at the outlet of a cistern. Provisions must be made for a drain-off pipe to enable the cistern to be emptied.
 
   - 8. No cistern for the storage of fresh water supplied from the waterworks shall, without the written permission of the Water Authority, be so connected that it can be used for the storage of any water other than that supplied from the waterworks.
 
   - 9. Every cistern shall be installed so that it is easily accessible for cleaning or repair. Where a cistern is installed inside a building and, due to limited headroom available, it is fixed with limited clearance from the ceiling or underside of the roof, a quickly detachable fitting must be used to enable it to be easily removed for cleansing and repair.
 
-  - 10. Safe access shall be provided to all cisterns by means of a secure permanent ladder or readily available portable ladder. (L.N. 252 of 1977)
+  - 10. Safe access shall be provided to all cisterns by means of a secure permanent ladder or readily available portable ladder.
 
-- Part 4 Water Heaters
+- (L.N. 252 of 1977; L.N. 81 of 2017)
 
-  - 1.
+- Part 4 Hot Water Inside Services
 
-    - (1) Subject to subparagraph (2), a water heater shall be supplied with water from a cold water storage cistern.
+  - 1. Subject to paragraph 2, a water heater must be supplied with water from a cold water cistern.
 
-    - (2) The following types of water heaters may, with the written permission of the Water Authority, be connected direct to a main—
+  - 2. With the written permission of the Water Authority, a water heater may be connected direct to a main if—
 
-      - (a) non-pressure type water heaters where no restriction of flow can be effected beyond the inlet control valve;
+    - (a) it has been tested satisfactorily at factory to a pressure at least 1.5 times the maximum static working pressure of the water heater; and
 
-      - (b) cistern type water heaters;
+    - (b) it is of the following type—
 
-      - (c) instantaneous water heaters where the guaranteed test pressure of the water heater is at least 1 1/2 times the static head available at the water heater;
+      - (i) a non-pressure type water heater in which no restriction of flow can be effected beyond the inlet control valve;
 
-      - (d) unvented thermal storage type electric water heaters which comply with the safety requirements under the Electrical Products (Safety) Regulation (Cap. 406 sub. leg. G). (L.N. 106 of 1999)
+      - (ii) a cistern type water heater;
 
-    - (3) Where a water heater is connected direct to a main—
+      - (iii) an instantaneous water heater;
 
-      - (a) every draw-off point of the water heater shall be not less than 15 mm above the lowest part of the top edge of the receptacle supplied from the water heater;
+      - (iv) an unvented thermal storage type electric water heater that complies with the safety requirements under the Electrical Products (Safety) Regulation (Cap. 406 sub. leg. G).
 
-      - (b) if it is a water heater burning gas, the construction of the water heater shall be such that no leakage of gas into the water can occur;
+  - 3. If a water heater is connected direct to a main—
 
-      - (c) if it is a water heater using electricity, the construction of the water heater shall be according to the relevant British Standards.
+    - (a) every draw-off point of the water heater must not be less than 15 mm above the lowest part of the top edge of the receptacle supplied from the water heater; and
 
-  - 2. Where mixing valves, showers or water blenders are installed, the cold water supply to these fittings shall be from the same cold water storage cistern or main that supplies the water heater and the installation shall be such that the hot water flow will stop before that of the cold water in the event of a failure in the water supply.
+    - (b) if it is a gas water heater—the water heater must be constructed in a way that no leakage of gas into water can occur.
 
-  - 3. Every water heater of the thermal storage type, other than an electric water heater of the type specified in paragraph 1(2)(d), shall be provided with an individual expansion pipe taken from its highest point and shall continuously rise without obstruction until it discharges to atmosphere above the storage cistern at a sufficient height to prevent a constant out-flow of hot water therefrom. (L.N. 286 of 1990)
+  - 4. If mixing valves, water blenders or other combination of fittings are used with a water heater, the cold water supply to those fittings must be drawn from the same source that supplies the water heater in order to provide a balanced pressure and to obviate the risk of scalding if the water supply at the source fails or is restricted for any reason.
 
-  - 4. No tap or other means of drawing off water (other than a screwed plug with a removable key for emptying the system for cleansing or repair) shall be connected to any part of the hot water system below the top of the hot water cylinder in such a way that the level of the water in the cylinder can be lowered.
+  - 5. A thermal storage type water heater, other than a water heater of the type specified in paragraph 2(b)(iv), must be provided with an individual expansion pipe at its highest point and the pipe must continuously rise without obstruction until it discharges to atmosphere above the cistern at a sufficient height to prevent a constant outflow of hot water from the water heater via the pipe.
 
-  - 5. No tap used for the purpose of drawing hot water shall be fixed at a greater distance (measure along the axis of the pipe by which the tap is supplied) from a water heater or hot water cistern, cylinder or tank, or from a flow and return system, than the distance appropriate to the largest internal diameter of any part of the said pipe as shown in the following table—
+  - 6. Taps or other fittings for drawing off water (other than a screwed plug with a removable key for emptying the system for cleansing or repair) must not be connected to any part of the hot water system below the top of the hot water cylinder in such a way that the level of the water in the cylinder can be lowered.
 
-  - Table Largest internal diameter of pipe | Distance in metres
+  - 7. A tap used for drawing hot water must not be fixed at a greater distance (measured along the axis of the pipe by which the tap is supplied) from a hot water fitting, or from a flow and return system, than the distance opposite to the largest nominal diameter of the pipe as shown in the following table—
 
-  - (a) | Not exceeding 20 mm | 12
+  - Table
 
-  - (b) | Exceeding 20 mm but not exceeding 25 mm | 8
+  - Largest nominal diameter of pipe | Distance in metres
 
-  - (c) | Exceeding 25 mm | 3
+  - (a) | Not exceeding 22 mm | 12
 
-  - 6. A loose jumper type valve shall be fitted on the inlet of every water heater if a non-return valve is not incorporated in such water heater; but this requirement does not apply to an electric water heater of the thermal storage type that is not provided with an individual expansion pipe. (L.N. 286 of 1990)
+  - (b) | Exceeding 22 mm but not exceeding 28 mm | 8
 
-  - 7. Pipes used for conveying hot water shall be of galvanized steel, copper, or of some corrosion-resisting alloy:
+  - (c) | Exceeding 28 mm | 3
 
-    - Provided that cast iron pipes of not less than 50 mm internal diameter may be used if suitable provision for their expansion is made. (L.N. 320 of 1992)
+  - 8. A loose jumper type valve fitted with a loose valve plate stopping any backflow, or a similar backflow stopping device, must be fitted at the inlet of a water heater if the water heater is not fitted with a non-return valve. This requirement does not apply to unvented thermal storage type electric water heaters.
 
-  - 8. Every hot water cylinder or tank of a capacity of not less than 100 litres shall—
+  - 9. Pipes used for conveying hot water must be made of steel and internally lined with chlorinated polyvinyl chloride, of copper or of a corrosion-resisting material. Cast iron pipes of not less than 50 mm in internal diameter may be used if suitable provision for their expansion is made.
 
-    - (a) if made of mild steel, comply with the requirements for cylinders or tanks, as the case may be, of BS 417, Part 2 for galvanized mild steel cisterns, tanks and cylinders; and (L.N. 106 of 1999)
+  - 10. A hot water cylinder or tank of a capacity of not less than 100 L must—
 
-    - (b) if made of copper, comply with BS 699 for copper cylinders for domestic purposes or with BS 1566, Parts 1 and 2 for copper indirect cylinders.
+    - (a) if made of mild steel—comply with the requirements for cylinders or tanks in BS 417-2:1987; or
 
-  - 9. Every water heater of thermal storage type or the calorifier type shall comply with the requirements of BS 3456, Part 102, Section 102.21 for stationary non-instantaneous electric water heater or with BS 853 for hot water calorifiers respectively. (L.N. 106 of 1999)
+    - (b) if made of copper—comply with the relevant requirements in BS 1566-1:2002+A1:2011 and BS 1566-2:1984.
 
-  - 10. (Repealed L.N. 320 of 1992)
+  - 11. A system incorporating an unvented thermal storage type electric water heater must be provided with—
 
-  - 11. (Repealed L.N. 106 of 1999)
+    - (a) a pipe that branches off from the supply pipe at a point above the top of the water heater, or some other devices that prevent water from draining down from the water heater if the water supply at the source fails;
 
-  - 12. Every system incorporating an electric water heater of the thermal storage type shall be provided with—
+    - (b) an anti-vacuum valve that complies with the relevant requirements in BS EN 13959:2004 and BS EN 14451:2005, or some other devices that prevent heated water from being syphoned back to the supply pipe; and
 
-    - (a) a supply pipe that branches off from the feed pipe at a point above the top of the water heater, or some other device to prevent the water from draining down from the water heater if there is a failure at the source of water supply;
+    - (c) a vessel that accommodates the expansion of heated water if that expansion is constrained by a non-return valve, or a similar device, incorporated at the inlet of the water heater.
 
-    - (b) an anti-vacuum valve complying with BS 6282 or some other device to prevent heated water from being syphoned back to the supply pipe; and
-
-    - (c) a vessel to accommodate the expansion of heated water where that expansion is constrained by a non-return valve, or a similar device, incorporated at the inlet of the water heater. (L.N. 286 of 1990)
-
-  - (L.N. 252 of 1977)
+- (L.N. 81 of 2017)
 
 - Part 5 Flushing Apparatus
 
-  - 1. Every flushing cistern shall be of the valveless syphonic type unless otherwise approved by the Water Authority. A stop valve shall be fixed in a readily accessible position so as to control the supply to the cistern.
+  - 1. A flushing cistern must be fitted with a flushing device of the valveless syphonic or valve type. A stop valve must be fixed in a readily accessible position so as to control the water supply to the cistern.
 
-  - 2. Flushing cisterns for water-closet fitments and slop sinks shall be capable of giving a flush of not less than 7.5 litres and not more than 15 litres of water on each occasion such fitment is used. (L.N. 106 of 1999)
+  - 2. A flushing cistern for a water-closet fitment or slop sink must be capable of giving a flush of not more than 15 L of water on each occasion the fitment is used.
 
   - 3. The capacity of the flushing cistern in the case of trough water-closets and urinals shall be approved by the Water Authority subject to the discharge in the case of trough water-closets being not less than 9 litres of water for every metre of the channel and the discharge in the case of urinals being not less than 4.5 litres of water for every basin or stall, or in the case of a trough urinal, every metre thereof.
 
@@ -216,15 +256,21 @@
 
     - (c) in the case of trough urinals, be not less than 15 mm for every metre thereof.
 
-  - 5. Every flushing apparatus shall be operated by hand, except in cases where written permission from the Water Authority has been granted for the installation of automatic flushing. In such cases the method of control and the amount and frequency of the flushes shall be decided by the Water Authority.
+  - 5. A flushing apparatus must be operated by mechanical means or a sensor. In the case of an automatic flushing apparatus, the method of control and the volume and frequency of the flushes must be designed to ensure adequate cleaning.
 
-  - 6. Every flushing cistern operated by hand shall be provided with a ball valve so arranged as to refill the cistern within 2 minutes.
+  - 6. A flushing cistern operated by mechanical means or a sensor must be fitted with a ball float valve that is arranged to refill the cistern within 2 minutes.
 
-  - 7. Flushing cisterns shall in all cases be supplied from storage cisterns and such storage cisterns shall not be used to supply any other apparatus, appliance or fitting. Every such cistern shall be fitted with a suitable close fitting cover and provided with adequate access to enable the cistern to be entered and cleaned.
+  - 7. A flushing cistern must in all cases be supplied from a cistern. Except with the written permission of the Water Authority, the cistern must not be used to supply any other apparatus, appliance or fitting. The cistern must be fitted with a suitable close fitting cover and provided with appropriate access to enable the cistern to be entered and cleaned.
 
   - 8. Every flushing cistern shall have an overflow which shall discharge in a conspicuous position.
 
-  - 9. Flushing apparatus without flushing cisterns shall not be used. (L.N. 252 of 1977)
+  - 9. A trough water-closet or urinal must be fitted with a flushing cistern.
+
+  - 10. A water-closet fitment or slop sink must be fitted with a flushing cistern. However, a pressure flushing valve may be installed for flushing without the provision of a flushing cistern if there is a suitable head of water.
+
+  - 11. Flushing valves must comply with the relevant requirements in BS EN 997:2012+A1:2015 and BS EN 15091:2013.
+
+- (L.N. 252 of 1977; L.N. 81 of 2017)
 
 - Part 6 Baths, Lavatory Basins and Sinks
 
@@ -234,10 +280,10 @@
 
   - 3. The water supply to any bidet, sitz bath, slop or sluicing sink or similar apparatus, shall, if the inlet is liable to be submerged, be provided by—
 
-    - (a) a storage cistern supplying water to such apparatus only;
+    - (a) a cistern supplying water to such apparatus only;
 
-    - (b) a storage cistern for flushing purposes only; or
+    - (b) a cistern for flushing purposes only; or
 
-    - (c) a hot water distribution system supplying such apparatus only.
+    - (c) a hot water distribution system supplying such apparatus only. (L.N. 81 of 2017)
 
   - 4. All taps supplying baths, lavatory basins, sinks or similar apparatus shall have a stop valve fixed in a readily accessible position to control the supply to each fitting or branch pipe supplying a range of fittings.
