@@ -110,6 +110,8 @@ Poisons List
 
     - Alendronic acid; its salts
 
+    - Alfacalcidol; its salts
+
     - Alfuzosin; its salts
 
     - Alglucosidase alfa
@@ -559,6 +561,8 @@ Poisons List
     - Cabergoline; its salts
 
     - Calcipotriol; its salts
+
+    - Calcitriol; its salts
 
     - Canagliflozin; its salts
 
@@ -1982,8 +1986,6 @@ Poisons List
 
     - Pantoprazole; its salts
 
-    - Paracetamol when contained in pharmaceutical products for human parenteral administration
-
     - Paraldehyde
 
     - Paramethadione
@@ -2041,6 +2043,202 @@ Poisons List
     - Perindoprilat; its salts; its esters; their salts
 
     - Pertuzumab
+
+    - Pharmaceutical products for human parenteral administration containing the following or their salts, as active ingredients, except in mixture with insulin—
+
+    - Acetic acid
+
+    - Acetylcholine
+
+    - Acetylcysteine
+
+    - Adenosine
+
+    - Adrenaline
+
+    - Ambroxol
+
+    - Amino acids
+
+    - Aminophylline
+
+    - Anti-D (rho) immunoglobulins
+
+    - Anti-histamine substances
+
+    - Atropine
+
+    - Betiatide
+
+    - Bicisate
+
+    - Butetamate
+
+    - Caffeine
+
+    - Carnitine
+
+    - Cations, the following, except in preparations containing any substance to which the Antibiotics Ordinance (Cap. 137) applies—
+
+    - Calcium
+
+    - Chromium
+
+    - Copper
+
+    - Iron
+
+    - Magnesium
+
+    - Manganese
+
+    - Potassium
+
+    - Selenium
+
+    - Sodium, except sodium chloride 0.9%
+
+    - Zinc
+
+    - Choline
+
+    - Cimetidine
+
+    - Dextromethorphan
+
+    - Dicycloverine
+
+    - Difenidol
+
+    - Diprophylline
+
+    - Disofenin
+
+    - Ephedrine
+
+    - Exametazime
+
+    - Fish oil
+
+    - Fluorescein
+
+    - Gallium
+
+    - Gelatin
+
+    - Glucosamine
+
+    - Glucose
+
+    - Glycerol
+
+    - Glyceryl trinitrate
+
+    - Guaifenesin
+
+    - Heparin
+
+    - Hyaluronic acid
+
+    - Hyaluronidase
+
+    - Hydroxyethyl starch
+
+    - Hyoscine
+
+    - Icodextrin
+
+    - Indocyanine green
+
+    - Iodine norcholesterol
+
+    - Isosorbide
+
+    - Lactic acid
+
+    - Lecithin
+
+    - Lignocaine
+
+    - Mannitol
+
+    - Mebrofenin
+
+    - Medronic acid
+
+    - Mesna
+
+    - Methoxyphenamine
+
+    - Methylene blue
+
+    - Methylephedrine
+
+    - Metronidazole
+
+    - Noradrenaline
+
+    - Olive oil
+
+    - Omeprazole
+
+    - Oxidronate
+
+    - Papaverine
+
+    - Paracetamol
+
+    - Patent blue V
+
+    - Pentetic acid
+
+    - Pentoxifylline
+
+    - Phenol
+
+    - Phenylephrine
+
+    - Piracetam
+
+    - Procaine
+
+    - Protamine
+
+    - Ranitidine
+
+    - Rhenium
+
+    - Sodium pyrophosphate
+
+    - Sodium tetradecyl sulfate
+
+    - Sodium thiosulfate
+
+    - Sorbitol
+
+    - Soya oil
+
+    - Stonefish antivenom
+
+    - Succimer
+
+    - Terbutaline
+
+    - Tetrakis copper tetrafluoroborate
+
+    - Tetrofosmin
+
+    - Thallium
+
+    - Tin
+
+    - Triglycerides
+
+    - Tuberculin
+
+    - Vitamins
+
+    - Xantinol nicotinate
 
     - Phenacemide
 
@@ -2730,6 +2928,10 @@ Poisons List
 
     - Vitamin A and its esters when contained in pharmaceutical products the recommended daily dose of which contains not less than 10 000 international units of vitamin A
 
+    - Vitamin D and its salts when contained in pharmaceutical products the recommended daily dose of which contains more than 1 000 international units of vitamin D
+
+    - Vitamin K and its salts when contained in pharmaceutical products, except products with recommended daily dose of 120 mcg or less of vitamin K1 or K2 or its salts
+
     - Voriconazole; its salts
 
     - Vortioxetine; its salts
@@ -2772,7 +2974,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017)
 
     - Division B
 
