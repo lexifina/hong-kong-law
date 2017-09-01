@@ -32,7 +32,7 @@ SURVEY
 
   - (a) confirming that any new equipment has been properly approved before installation and that no changes have been made such as will affect the validity of the Cargo Ship Safety Equipment Certificate;
 
-  - (b) an examination of the ship’s Official Log Book to establish that the required musters, training, emergency procedures and inspections of lifeboat equipment have been carried out as required by the Merchant Shipping (Safety) (Musters and Training) Regulations (Cap. 369 sub. leg. AI), together with posting of the appropriate Muster List as required by those regulations;
+  - (b) an examination of the ship’s Official Log Book to establish that the required musters, training, emergency procedures and inspections of lifeboat equipment have been carried out as required by the Merchant Shipping (Safety) (Life-Saving Appliances and Arrangements, Musters and Training) Regulation (Cap. 369 sub. leg. AY), together with posting of the appropriate Muster List as required by those regulations; (L.N. 91 of 2017)
 
   - (c) an examination of all lifeboats, davits, embarkation arrangements and launching gear in position, as far as practicable. If practicable, one of the lifeboats shall be lowered to the water;
 
