@@ -24,7 +24,7 @@ Particulars of entry | Signatory | Witness
 
 7. | A record of the date and hour of departure for sea from, and arrival from sea at, any dock, wharf, port or harbour. | The master in person | An Officer
 
-8. | A record of each occasion on which, in accordance with regulation 8 of the Musters Regulations, a muster, drill or training of the crew in the use of life-saving appliances is held on board the ship, the training and type of drill held, and the occasions on which lifeboats, rescue boats and davit-launched liferafts, as applicable, are lowered or launched. | The master | A member of the crew
+8. | A record of each occasion on which, in accordance with the Musters Regulations, a muster, drill or training of the crew in the use of life-saving appliances is held on board the ship, the training and type of drill held, and the occasions on which lifeboats, rescue boats and davit-launched liferafts, as applicable, are lowered or launched. (L.N. 90 of 2017) | The master | A member of the crew
 
 9. | Where a muster, drill, training or inspection is not held on board the ship when required by the Musters Regulations, a record of why the muster, drill, training or inspection, as the case may be, was not carried out or carried out only in part. | The master | A member of the crew
 
