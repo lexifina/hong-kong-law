@@ -152,4 +152,8 @@
 
 - 75. The ground floor, Room 201 of the second floor, and the third to fifth floors of the High Block of Yuen Chau Kok Complex, 35 Ngan Shing Street, Sha Tin. (L.N. 87 of 2016)
 
+- 76. The building known as Self-service Library Station situated at the Island East Sports Centre, 52 Lei King Road, Sai Wan Ho. (L.N. 97 of 2017)
+
+- 77. The building known as Self-service Library Station situated at the Hong Kong Cultural Centre, 10 Salisbury Road, Tsim Sha Tsui. (L.N. 97 of 2017)
+
 (Schedule replaced 78 of 1999 s. 7)
