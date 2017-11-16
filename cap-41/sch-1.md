@@ -1,10 +1,14 @@
-# FIRST SCHEDULE
+# Schedule 1
 
-[ss. 3, 51& 61]
+(Replaced 12 of 2015 s. 89)
 
-CLASSES OF INSURANCE BUSINESS
+[ss. 2, 3, 8, 10, 22, 23, 50A, 51 & 138 & Sch. 3] (Replaced 12 of 2015 s. 89)
 
-- PART I PRELIMINARY
+Classes of Insurance Business
+
+(Format changes—E.R. 4 of 2017)
+
+- Part 1 Preliminary
 
   - 1. The classes of insurance business specified in Parts 2 and 3 of this Schedule shall constitute the classes of insurance business that are relevant for the purposes of this Ordinance.
 
@@ -12,7 +16,7 @@ CLASSES OF INSURANCE BUSINESS
 
   - 3. If an insurer authorized to carry on long term business effects and carries out a contract of insurance which combines long term business and additional business of the nature specified in Part 3 of this Schedule in relation to class 1 or 2, the additional business shall as respects that contract be regarded as long term business and not as general business.
 
-  - 3A. There shall not be combined in the one contract long term business of the nature specified in class G or H in Part 2 of this Schedule and business of any other nature specified in this Schedule unless that contract is a contract (or belongs to a class or description of contract) specified by the Insurance Authority by notice in the Gazette under paragraph 3B as being a contract to which this paragraph shall not apply. (Added 59 of 1993 s. 17)
+  - 3A. There shall not be combined in the one contract long term business of the nature specified in class G or H in Part 2 of this Schedule and business of any other nature specified in this Schedule unless that contract is a contract (or belongs to a class or description of contract) specified by the Authority by notice in the Gazette under paragraph 3B as being a contract to which this paragraph shall not apply. (Added 59 of 1993 s. 17. Amended 12 of 2015 s. 2)
 
   - 3AA.
 
@@ -20,7 +24,7 @@ CLASSES OF INSURANCE BUSINESS
 
     - (b) Subparagraph (a) shall be deemed to have come into operation on the commencement of the Insurance Companies (Amendment) Ordinance 1993 (59 of 1993). (Added 75 of 1995 s. 11)
 
-  - 3B. The Insurance Authority may specify, by notice in the Gazette, any contract (including any lass or description of contract) to which paragraph 3A shall not apply. (Added 59 of 1993 s. 17)
+  - 3B. The Authority may specify, by notice in the Gazette, any contract (including any class or description of contract) to which paragraph 3A shall not apply. (Added 59 of 1993 s. 17. Amended 12 of 2015 s. 2)
 
   - 3C. Subject to paragraph 3D, where a contract effected and carried out on or after the date of commencement of the Insurance Companies (Amendment) Ordinance 1993 (59 of 1993) can be both a contract of the nature specified in class I in Part 2 of this Schedule and a contract of the nature specified in another class (or classes) of long term business, the contract shall, for the purposes of this Ordinance, be treated as being only a contract of the nature specified in class I, and the provisions of this Ordinance shall have effect accordingly. (Added 59 of 1993 s. 17)
 
@@ -28,67 +32,67 @@ CLASSES OF INSURANCE BUSINESS
 
   - 3E.
 
-    - In Parts 1 and 2 of this Schedule, “retirement scheme” (退休計劃) means any scheme, whether in writing or oral, express or implied, under which benefits, in the form of pensions, allowances, gratuities or other payments, are payable to or in respect of a member of the scheme on the cessation of his—
+    - In Parts 1 and 2 of this Schedule, retirement scheme (退休計劃) means any scheme, whether in writing or oral, express or implied, under which benefits, in the form of pensions, allowances, gratuities or other payments, are payable to or in respect of a member of the scheme on the cessation of his—
 
-      - (a) employment (including any self-employment) by termination of service (including termination for disability), death or retirement;
+        - (a) employment (including any self-employment) by termination of service (including termination for disability), death or retirement;
 
-      - (b) service under a contract for services; or
+        - (b) service under a contract for services; or
 
-      - (c) membership of an association or partnership,
+        - (c) membership of an association or partnership,
 
-      - but does not include any scheme (including any class or description of scheme) specified by the Insurance Authority by notice in the Gazette under paragraph 3F or 3FB as not being a retirement scheme for the purposes of this Ordinance. (Added 59 of 1993 s. 17. Amended L.N. 398 of 1994)
+      - but does not include any scheme (including any class or description of scheme) specified by the Authority by notice in the Gazette under paragraph 3F or 3FB as not being a retirement scheme for the purposes of this Ordinance. (Added 59 of 1993 s. 17. Amended L.N. 398 of 1994; 12 of 2015 s. 2)
 
-  - 3F. Subject to paragraph 3FB, the Insurance Authority may, except in relation to a scheme which is an occupational retirement scheme within the meaning of the Occupational Retirement Schemes Ordinance (Cap. 426), specify, by notice in the Gazette, any scheme (including any class or description of scheme) as not being a retirement scheme for the purposes of this Ordinance. (Added 59 of 1993 s. 17. Amended L.N. 398 of 1994)
+  - 3F. Subject to paragraph 3FB, the Authority may, except in relation to a scheme which is an occupational retirement scheme within the meaning of the Occupational Retirement Schemes Ordinance (Cap. 426), specify, by notice in the Gazette, any scheme (including any class or description of scheme) as not being a retirement scheme for the purposes of this Ordinance. (Added 59 of 1993 s. 17. Amended L.N. 398 of 1994; 12 of 2015 s. 2)
 
   - 3FA.
 
-    - In long term business of the nature specified in class G or H in Part 2 of this Schedule, “party” (一方), in relation to a contract referred to in that class of long term business—
+    - In long term business of the nature specified in class G or H in Part 2 of this Schedule, party (一方), in relation to a contract referred to in that class of long term business—
 
-      - (a) means—
+        - (a) means—
 
-        - (i) a company authorized, or deemed to be authorized, under section 8 to carry on that class of long term business;
+          - (i) a company authorized, or deemed to be authorized, under section 8 to carry on that class of long term business;
 
-        - (ii) Lloyd’s; or
+          - (ii) Lloyd’s; or
 
-        - (iii) an association of underwriters approved under section 6; and
+          - (iii) an association of underwriters approved under section 6; and
 
-      - (b) includes, on and after the day on which section 3 of the Occupational Retirement Schemes Ordinance (Cap. 426) comes into operation, any other person except a person who—
+        - (b) includes, on and after the day on which section 3 of the Occupational Retirement Schemes Ordinance (Cap. 426) comes into operation, any other person except a person who—
 
-        - (i) holds on trust the contributions (or premiums) which become his property under that contract; and
+          - (i) holds on trust the contributions (or premiums) which become his property under that contract; and
 
-        - (ii) is not a person referred to in subparagraph (a). (Added L.N. 398 of 1994)
+          - (ii) is not a person referred to in subparagraph (a). (Added L.N. 398 of 1994)
 
   - 3FB. Where—
 
-    - (a) an occupational retirement scheme within the meaning of the Occupational Retirement Schemes Ordinance (Cap. 426) is neither—
+      - (a) an occupational retirement scheme within the meaning of the Occupational Retirement Schemes Ordinance (Cap. 426) is neither—
 
-      - (i) governed by a trust; nor
+        - (i) governed by a trust; nor
 
-      - (ii) the subject of or regulated by an insurance arrangement within the meaning of that Ordinance; and
+        - (ii) the subject of or regulated by an insurance arrangement within the meaning of that Ordinance; and
 
-    - (b) the administrator, within the meaning of that Ordinance, of such scheme is not a person referred to in paragraph 3FA(a),
+      - (b) the administrator, within the meaning of that Ordinance, of such scheme is not a person referred to in paragraph 3FA(a),
 
-  - then the Insurance Authority may specify, by notice in the Gazette, such scheme (including any class or description of such scheme) as not being a retirement scheme for the purposes of this Ordinance. (Added L.N. 398 of 1994)
+  - then the Authority may specify, by notice in the Gazette, such scheme (including any class or description of such scheme) as not being a retirement scheme for the purposes of this Ordinance. (Added L.N. 398 of 1994. Amended 12 of 2015 s. 2)
 
   - 3G. It is hereby declared that a notice under paragraph 3B, 3F or 3FB is subsidiary legislation. (Added 59 of 1993 s. 17. Amended L.N. 398 of 1994)
 
-  - 4. Subject to paragraph 5, an insurer authorized to carry on a class of general business may, in effecting and carrying out a contract of insurance against a risk (“the principal risk”) within that class, include in the contract provision whereby the insurer incidentally assumes liability against a risk (“the ancillary risk”) that is not within that class.
+  - 4. Subject to paragraph 5, an insurer authorized to carry on a class of general business may, in effecting and carrying out a contract of insurance against a risk (the principal risk) within that class, include in the contract provision whereby the insurer incidentally assumes liability against a risk (the ancillary risk) that is not within that class.
 
   - 5. Paragraph 4 shall apply only if—
 
-    - (a) the assumption of liability against the ancillary risk is included in the same contract as that providing for the assumption of liability against the principal risk; and
+      - (a) the assumption of liability against the ancillary risk is included in the same contract as that providing for the assumption of liability against the principal risk; and
 
-    - (b) the ancillary risk is related to the principal risk and to the object, state, condition or person that is insured against the principal risk; and
+      - (b) the ancillary risk is related to the principal risk and to the object, state, condition or person that is insured against the principal risk; and
 
-    - (c) the ancillary risk is not of the kind to which class 14 or 15 relates and is otherwise such that insurance against it constitutes general business.
+      - (c) the ancillary risk is not of the kind to which class 14 or 15 relates and is otherwise such that insurance against it constitutes general business.
 
   - 6.
 
-    - In classes 6 and 12 “vessels” (船隻) includes hovercraft.
+    - In classes 6 and 12 vessels (船隻) includes hovercraft.
 
   - 7. The Insurance Companies Ordinance (Amendment of First Schedule) Regulation 1994 (L.N. 398 of 1994) shall be deemed to have come into operation on the commencement of the Insurance Companies (Amendment) Ordinance 1993 (59 of 1993). (Added 75 of 1995 s. 11)
 
-- PART 2 CLASSES OF LONG TERM BUSINESS
+- Part 2 Classes of Long Term Business
 
 - Class | Description | Nature of Business
 
@@ -126,7 +130,7 @@ CLASSES OF INSURANCE BUSINESS
 
 - (b) | contracts within class 1 or 2 below. (Added 59 of 1993 s. 17. Amended L.N. 398 of 1994)
 
-- PART 3 CLASSES OF GENERAL BUSINESS
+- Part 3 Classes of General Business
 
 - Class | Description | Nature of Business
 
@@ -182,7 +186,7 @@ CLASSES OF INSURANCE BUSINESS
 
 - 17 | Legal expenses | Effecting and carrying out contracts of insurance against risks of loss to the persons insured attributable to their incurring legal expenses (including costs of litigation).
 
-- PART 4 GROUPS
+- Part 4 Groups
 
 - Number | Designation | Composition
 
@@ -208,7 +212,11 @@ CLASSES OF INSURANCE BUSINESS
 
 - 11 | Retirement schemes | Classes G and H. (Added 59 of 1993 s. 17)
 
-- PART 5 TRANSITIONAL PROVISIONS Where immediately before the commencement of this Ordinance an insurer was authorized under an Ordinance repealed or amended by this Ordinance to carry on any of the former classes shown in column 1 of the table below, the appropriate corresponding business as respects that insurer shall, for the purposes of this Ordinance be corresponding business shown in column 2 of the table. TABLE
+- Part 5 Transitional Provisions
+
+- Where immediately before the commencement of this Ordinance an insurer was authorized under an Ordinance repealed or amended by this Ordinance to carry on any of the former classes shown in column 1 of the table below, the appropriate corresponding business as respects that insurer shall, for the purposes of this Ordinance, be the corresponding business shown in column 2 of the table.
+
+- TABLE
 
 - Former Classes | Corresponding Business
 
