@@ -1,5 +1,3 @@
-“73. | Private Columbaria Ordinance (8 of 2017) | Sections 21(2)(b)(ii), 23(1)(a) and (3), 39(3)(a), (7) and (8), 40(4), 41(2)(a) and (3), 42(4), 43(2)(a) and (4), 44(1), (3)(b)(i) and (5), 49(3)(b) and (g), 50(1) and (2), 53(1) and (4), 56(2)(b), 57(10), 63(2)(b), 71(b) and (c), 75(1), (4)(a) and (8), 80(4), 84(2), 86(3)(b) and (13), 87(1)(b), 93(1), (3) and (4)(b), 98(1), 107(1)(b)(i), (ii)(A), (iii) and (iv) and 110(4)(b), section 6(1) of Schedule 1, sections 2(2)(b) and (c) and 5 of Schedule 3 and sections 4(3)(a), 13, 15(2) and 18(3) and (4) of Schedule 5”.
-
 # Schedule 1
 
 [ss. 8 & 103]
