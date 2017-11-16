@@ -116,7 +116,7 @@ Item | Ordinance | Decision
 
 25. | Chinese Permanent Cemeteries Rules (Cap. 1112 sub. leg. A) | A decision of the Board of Management of the Chinese Permanent Cemeteries not to withdraw a notice in rule 12(2) regarding reversion of a subscriber lot to the Board.
 
-Note: The Board of Management of the Chinese Permanent Cemeteries is specified for the purposes of section 22(5) of this Ordinance.
+Note: | The Board of Management of the Chinese Permanent Cemeteries is specified for the purposes of section 22(5) of this Ordinance.
 
 26. | Sewage Services Ordinance (Cap. 463) | A decision of the Drainage Authority under the Ordinance. (Added 105 of 1994 s. 15)
 
@@ -280,13 +280,13 @@ Note: The Board of Management of the Chinese Permanent Cemeteries is specified f
 
 56.-58. | (Repealed L.N. 143 of 2016)
 
-58B. | Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 9. (Added L.N. 143 of 2016)
+58B. | Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation (Cap. 478 sub. leg. AJ) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 9. (Added L.N. 143 of 2016)
 
-58C. | Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 8. (Added L.N. 143 of 2016)
+58C. | Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation (Cap. 478 sub. leg. AI) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 8. (Added L.N. 143 of 2016)
 
-58D. | Merchant Shipping (Seafarers) (Navigational Watch) Regulation | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 6. (Added L.N. 143 of 2016)
+58D. | Merchant Shipping (Seafarers) (Navigational Watch) Regulation (Cap. 478 sub. leg. AH) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 6. (Added L.N. 143 of 2016)
 
-58E. | Merchant Shipping (Seafarers) (Tankers) Regulation | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency or an endorsement, or to refuse to renew an endorsement, under section 6. (Added L.N. 143 of 2016)
+58E. | Merchant Shipping (Seafarers) (Tankers) Regulation (Cap. 478 sub. leg. AG) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency or an endorsement, or to refuse to renew an endorsement, under section 6. (Added L.N. 143 of 2016)
 
 59. | Marine Fish Culture Ordinance (Cap. 353) | A decision of the Director of Agriculture, Fisheries and Conservation—
 

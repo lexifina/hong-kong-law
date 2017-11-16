@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 1 & 3]
 
-TOLLS
+Tolls
 
 Category | Type or class of vehicle | Toll or description of toll payable
 
@@ -12,11 +12,11 @@ Category | Type or class of vehicle | Toll or description of toll payable
 
 3. | Public light bus, private light bus | *$20
 
-4. | Light goods vehicle, special purpose vehicle-of a permitted gross vehicle weight not exceeding 5.5 tonnes | *$20
+4. | Light goods vehicle, special purpose vehicle—of a permitted gross vehicle weight not exceeding 5.5 tonnes | *$20
 
-5. | Medium goods vehicle, special purpose vehicle (other than an articulated vehicle)-of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | *$25
+5. | Medium goods vehicle, special purpose vehicle (other than an articulated vehicle)—of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | *$25
 
-6. | Heavy goods vehicle, special purpose vehicle (other than an articulated vehicle)-of a permitted gross vehicle weight exceeding 24 tonnes | *$40
+6. | Heavy goods vehicle, special purpose vehicle (other than an articulated vehicle)—of a permitted gross vehicle weight exceeding 24 tonnes | *$40
 
 7. | Public single-decked bus, private single-decked bus | *$20
 

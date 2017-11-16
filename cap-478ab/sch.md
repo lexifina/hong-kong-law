@@ -190,7 +190,7 @@
 
 - (e) | For a certificate of service | 890
 
-- (f) | For issue or renewal of an endorsement under the Merchant Shipping (Seafarers) (Tankers) Regulation on a certificate of competency or a certificate of service (L.N. 142 of 2016) | Nil
+- (f) | For issue or renewal of an endorsement under the Merchant Shipping (Seafarers) (Tankers) Regulation (Cap. 478 sub. leg. AG) on a certificate of competency or a certificate of service (L.N. 142 of 2016; E.R. 4 of 2017) | Nil
 
 - (g) | For endorsement of a certificate of competency, a certificate of service or a licence for the continued proficiency and updating of knowledge | 530
 
@@ -214,19 +214,19 @@
 
 - (L.N. 142 of 2016)
 
-- 8B. | Fee for a copy of any determination made under section 10 of the Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation | 155
+- 8B. | Fee for a copy of any determination made under section 10 of the Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation (Cap. 478 sub. leg. AJ) (E.R. 4 of 2017) | 155
 
 - (L.N. 142 of 2016)
 
-- 8C. | Fee for a copy of any determination made under section 9 of the Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation | 155
+- 8C. | Fee for a copy of any determination made under section 9 of the Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation (Cap. 478 sub. leg. AI) (E.R. 4 of 2017) | 155
 
 - (L.N. 142 of 2016)
 
-- 8D. | Fee for a copy of any determination made under section 7 of the Merchant Shipping (Seafarers) (Navigational Watch) Regulation | 155
+- 8D. | Fee for a copy of any determination made under section 7 of the Merchant Shipping (Seafarers) (Navigational Watch) Regulation (Cap. 478 sub. leg. AH) (E.R. 4 of 2017) | 155
 
 - (L.N. 142 of 2016)
 
-- 8E. | Fee for a copy of any determination made under section 7 of the Merchant Shipping (Seafarers) (Tankers) Regulation | 155
+- 8E. | Fee for a copy of any determination made under section 7 of the Merchant Shipping (Seafarers) (Tankers) Regulation (Cap. 478 sub. leg. AG) (E.R. 4 of 2017) | 155
 
 - (L.N. 142 of 2016)
 
@@ -338,7 +338,7 @@
 
 - 9. | (Repealed L.N. 142 of 2016)
 
-- 9A. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation—
+- 9A. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation (Cap. 478 sub. leg. AJ)— (E.R. 4 of 2017)
 
 - (a) | For issue or renewal of a certificate of proficiency | Nil
 
@@ -346,7 +346,7 @@
 
 - (L.N. 142 of 2016)
 
-- 9B. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation—
+- 9B. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation (Cap. 478 sub. leg. AI)— (E.R. 4 of 2017)
 
 - (a) | For issue of a certificate of proficiency | Nil
 
@@ -354,7 +354,7 @@
 
 - (L.N. 142 of 2016)
 
-- 9C. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Navigational Watch) Regulation—
+- 9C. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Navigational Watch) Regulation (Cap. 478 sub. leg. AH)— (E.R. 4 of 2017)
 
 - (a) | For issue of a certificate of proficiency | Nil
 
@@ -362,7 +362,7 @@
 
 - (L.N. 142 of 2016)
 
-- 9D. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Tankers) Regulation—
+- 9D. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Tankers) Regulation —
 
 - (a) | For issue of a certificate of proficiency | Nil
 

@@ -4,7 +4,9 @@
 
 [ss. 13B & 138] (Replaced 12 of 2015 s. 94)
 
-PERSON PROPOSING TO BECOME CONTROLLER WITHIN THE MEANING OF SECTION 13B(1)
+Person Proposing to Become Controller Within the Meaning of Section 13B(1)
+
+(Schedule 5 added 44 of 1990 s. 10) (Format changes—E.R. 4 of 2017)
 
 - 1. Application of Schedule 5 (Amended 12 of 2015 s. 94) This Schedule sets out the information to be furnished to the Authority by a person proposing to become a controller (within the meaning of section 13B(1) of this Ordinance) of an authorized insurer. (Amended 12 of 2015 s. 2)
 
@@ -32,9 +34,9 @@ Name of Authorized Insurer*
 
 The following are particulars of—
 
-\#(a) | +
+\#(a) | †
 
-\#(b) | ++. , of which +
+\#(b) | ‡. , of which †
 
 . is a partner.
 
@@ -60,11 +62,7 @@ Place of birth (including town or city).
 
 7A. | If, in the last 10 years, you have been—
 
-(a) | refused or restricted from the right to carry on any trade, business or profession by any regulatory authority in Hong Kong or elsewhere;
-
-(b) | censured, disciplined or publicly criticized by any regulatory authority in Hong Kong or elsewhere; or
-
-(c) | the subject of an investigation conducted by any regulatory authority in Hong Kong or elsewhere,
+(a) refused or restricted from the right to carry on any trade, business or profession by any regulatory authority in Hong Kong or elsewhere; (b) censured, disciplined or publicly criticized by any regulatory authority in Hong Kong or elsewhere; or (c) the subject of an investigation conducted by any regulatory authority in Hong Kong or elsewhere,
 
 give full particulars.
 
@@ -78,7 +76,7 @@ give full particulars.
 
 12. | Has any body corporate or insurer with which you were associated as director or controller (within the meaning of section 9 of the Insurance Ordinance (Cap. 41)) in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either while you were associated with it or within one year after you ceased to be associated with it? If so, give full particulars.
 
-(Note: | In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
+(Note: | In relation to a body corporate which is not an insurer, controller (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
 13. | Of what bodies corporate or insurers—
 
@@ -100,7 +98,7 @@ I certify that—
 
 ＃(i) | proposing to become a controller within the meaning of section 13B(1) of the Insurance Ordinance (Cap. 41);
 
-＃(ii) | a partner in ++.which is proposing to become a controller within the meaning of section 13B(1) of the Insurance Ordinance (Cap. 41).
+＃(ii) | a partner in ‡.which is proposing to become a controller within the meaning of section 13B(1) of the Insurance Ordinance (Cap. 41).
 
 Date
 
@@ -110,9 +108,9 @@ Signed
 
 * | Insert name of Authorized Insurer.
 
-+ | Insert name of individual to whom particulars relate.
+† | Insert name of individual to whom particulars relate.
 
-++ | Insert name of partnership.
+‡ | Insert name of partnership.
 
 \# | Delete as necessary.
 
@@ -142,7 +140,7 @@ The following are particulars of a body corporate which is proposing to become a
 
 6. | Full name and residential address of every director and every controller within the meaning of section 9 of the Insurance Ordinance (Cap. 41).
 
-(Note: | In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
+(Note: | In relation to a body corporate which is not an insurer, controller (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
 7. | Name and address of main bank.
 
@@ -156,7 +154,7 @@ The following are particulars of a body corporate which is proposing to become a
 
 (a) | name(s) and address(es) of its authorized representative(s) as defined by section 774 of the Companies Ordinance (Cap. 622);
 
-(b) | date of the certificate of registration issued under Part XI of the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622) or under section 777 of the Companies Ordinance (Cap. 622).
+(b) | date of the certificate of registration issued under Part XI of the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date## of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622) or under section 777 of the Companies Ordinance (Cap. 622).
 
 10A. | If, in the last 10 years, the above-named body corporate has been—
 
@@ -170,7 +168,7 @@ give full particulars.
 
 11. | Has any body corporate or insurer with which the above-named body corporate was associated as director or controller (within the meaning of section 9 of the Insurance Ordinance (Cap. 41)) in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either while the above-named body corporate was associated with it or within one year after the above-named body corporate ceased to be associated with it? If so, give full particulars.
 
-(Note: | In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
+(Note: | In relation to a body corporate which is not an insurer, controller (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
 I certify that—
 
@@ -198,4 +196,8 @@ Signed
 
 ‡ | Insert name of partnership.
 
-(Amended 28 of 2012 ss. 912 & 920; 12 of 2015 ss. 2 & 94; L.N. 72 of 2017) (Schedule 5 added 44 of 1990 s. 10)
+(Amended 28 of 2012 ss. 912 & 920; 12 of 2015 ss. 2 & 94; L.N. 72 of 2017)
+
+Editorial Note:
+
+\## | Commencement date: 3 March 2014.

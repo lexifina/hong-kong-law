@@ -8,49 +8,53 @@
 
 25A, 25B, 50C & 138] (Replaced 12 of 2015 s. 92)
 
-ACCOUNTS AND STATEMENTS
+Accounts and Statements
 
-- PART 1: INTERPRETATION AND PRELIMINARY
+(Format changes—E.R. 4 of 2017)
+
+- Part 1 Interpretation and Preliminary
 
   - 1.
 
     - (1) In this Schedule, unless the context otherwise requires— (Amended L.N. 391 of 1990)
 
-      - “accounting class of general business” (一般業務會計類別) and “accounting class” (會計類別) mean respectively insurance business falling under any of the headings given below, against which are shown the corresponding classes of insurance business as defined in Part 3 of Schedule 1,— (Amended 12 of 2015 s. 92)
+      - accounting class of general business (一般業務會計類別) and accounting class (會計類別) mean respectively insurance business falling under any of the headings given below, against which are shown the corresponding classes of insurance business as defined in Part 3 of Schedule 1,—
 
-      - Accounting class | Corresponding classes of insurance business
+    - (Amended 12 of 2015 s. 92)
 
-      - 1. | Accident and health | 1, 2
+    - Accounting class | Corresponding classes of insurance business
 
-      - 2. | Motor vehicle (including damage to other land vehicles), damage and liability | 3, 10
+    - 1. | Accident and health | 1, 2
 
-      - 3. | Aircraft, damage and liability | 5, 11
+    - 2. | Motor vehicle (including damage to other land vehicles), damage and liability | 3, 10
 
-      - 4. | Ships, damage and liability | 6, 12
+    - 3. | Aircraft, damage and liability | 5, 11
 
-      - 5. | Goods in transit | 7
+    - 4. | Ships, damage and liability | 6, 12
 
-      - 6. | Property damage | 4, 8, 9
+    - 5. | Goods in transit | 7
 
-      - 7. | General liability | 13
+    - 6. | Property damage | 4, 8, 9
 
-      - 8. | Pecuniary loss | 14, 15, 16, 17
+    - 7. | General liability | 13
 
-      - 9. | Non-proportional treaty reinsurance | —
+    - 8. | Pecuniary loss | 14, 15, 16, 17
 
-      - 10. | Proportional treaty reinsurance | — ;
+    - 9. | Non-proportional treaty reinsurance | —
 
-      - “additional amount for unexpired risks” (未過期風險的額外款額) means the amount set aside by an authorized insurer at the end of its financial year, in addition to any unearned premiums, which is considered necessary to meet the cost of claims and expenses of settlement arising from risks to be borne by the insurer after the end of the financial year under contracts of insurance entered into before the end of that year; (Amended 12 of 2015 s. 2)
+    - 10. | Proportional treaty reinsurance | — ;
 
-      - “appointed actuary” (委任精算師) means the person appointed as actuary to an authorized insurer under section 15 of this Ordinance; (Amended 12 of 2015 s. 2)
+      - additional amount for unexpired risks (未過期風險的額外款額) means the amount set aside by an authorized insurer at the end of its financial year, in addition to any unearned premiums, which is considered necessary to meet the cost of claims and expenses of settlement arising from risks to be borne by the insurer after the end of the financial year under contracts of insurance entered into before the end of that year; (Amended 12 of 2015 s. 2)
 
-      - “appointed auditor” (委任核數師) means the person appointed as auditor to an authorized insurer under section 15 of this Ordinance; (Amended 12 of 2015 s. 2)
+      - appointed actuary (委任精算師) means the person appointed as actuary to an authorized insurer under section 15 of this Ordinance; (Amended 12 of 2015 s. 2)
 
-      - “claim” (申索) means a claim against an authorized insurer under a contract of insurance; (Amended 12 of 2015 s. 2)
+      - appointed auditor (委任核數師) means the person appointed as auditor to an authorized insurer under section 15 of this Ordinance; (Amended 12 of 2015 s. 2)
 
-      - “claims equalization” (申索平衡基金) means the amount set aside by an authorized insurer as at the end of its financial year for the purpose of being used to prevent exceptional fluctuations in the amounts charged to revenue in subsequent financial years in respect of claims arising due to the occurrence of events of an exceptional nature, that is to say, events not normally occurring every year; (Amended 12 of 2015 s. 2)
+      - claim (申索) means a claim against an authorized insurer under a contract of insurance; (Amended 12 of 2015 s. 2)
 
-      - “claims outstanding” (未決申索) means, unless otherwise specified, the amount set aside by an authorized insurer as at the beginning or end of its financial year as being an amount likely to be sufficient to meet— (Amended 12 of 2015 s. 2)
+      - claims equalization (申索平衡基金) means the amount set aside by an authorized insurer as at the end of its financial year for the purpose of being used to prevent exceptional fluctuations in the amounts charged to revenue in subsequent financial years in respect of claims arising due to the occurrence of events of an exceptional nature, that is to say, events not normally occurring every year; (Amended 12 of 2015 s. 2)
+
+      - claims outstanding (未決申索) means, unless otherwise specified, the amount set aside by an authorized insurer as at the beginning or end of its financial year as being an amount likely to be sufficient to meet— (Amended 12 of 2015 s. 2)
 
         - (a) claims in respect of incidents occurring—
 
@@ -62,37 +66,37 @@ ACCOUNTS AND STATEMENTS
 
         - (b) expenses (such as, for example, legal, medical, surveying or engineering costs) which have been incurred but not yet recorded as paid or which are likely to be incurred by the insurer, whether through the employment of its own staff or otherwise, and are directly attributable to the settlement of individual claims which relate to incidents occurring before the beginning or the end of the financial year (as the case may be), whether or not the individual claims in question are those mentioned above;
 
-      - “claims paid” (已償付申索), in relation to general business, means unless otherwise specified the amount that is paid by an authorized insurer in full or partial settlement of— (Amended 12 of 2015 s. 2)
+      - claims paid (已償付申索), in relation to general business, means unless otherwise specified the amount that is paid by an authorized insurer in full or partial settlement of— (Amended 12 of 2015 s. 2)
 
         - (a) claims, including claims relating to business accounted for over a longer period than a financial year; and
 
         - (b) expenses (such as, for example, legal, medical, surveying or engineering costs) which are incurred by the insurer, whether through the employment of its own staff or otherwise, and are directly attributable to the settlement of individual claims, whether or not the individual claims in question are those mentioned above;
 
-      - “claims paid and outstanding” (已償付及未決申索) means the amount obtained by taking the sum of the claims paid during a financial year and the claims outstanding as at the end of that year and deducting therefrom the claims outstanding as at the beginning of the year;
+      - claims paid and outstanding (已償付及未決申索) means the amount obtained by taking the sum of the claims paid during a financial year and the claims outstanding as at the end of that year and deducting therefrom the claims outstanding as at the beginning of the year;
 
-      - “commission payable” (須付的佣金), in relation to a financial year of an authorized insurer, means the amounts, whether or not paid during that year, which are recorded during that year as due to intermediaries and cedants in respect of the inception, amendment or renewal of contracts of insurance; (Amended 12 of 2015 s. 2)
+      - commission payable (須付的佣金), in relation to a financial year of an authorized insurer, means the amounts, whether or not paid during that year, which are recorded during that year as due to intermediaries and cedants in respect of the inception, amendment or renewal of contracts of insurance; (Amended 12 of 2015 s. 2)
 
-      - “contract of insurance” (保險合約) includes a contract of reinsurance;
+      - contract of insurance (保險合約) includes a contract of reinsurance;
 
-      - “direct business” (直接業務) means contracts of insurance, other than contracts of reinsurance, entered into by an authorized insurer; (Added L.N. 391 of 1990. Amended 12 of 2015 s. 2)
+      - direct business (直接業務) means contracts of insurance, other than contracts of reinsurance, entered into by an authorized insurer; (Added L.N. 391 of 1990. Amended 12 of 2015 s. 2)
 
-      - “expenses for settling claims outstanding” (了結未決申索的開支) means the amount set aside by an authorized insurer at the end of its financial year as being an amount likely to be sufficient to meet that part of the insurer’s expenses which is likely to be incurred in respect of general business in the settlement of claims in respect of incidents occurring before the end of that year other than expenses which fall to be included under claims outstanding; (Amended 12 of 2015 s. 2)
+      - expenses for settling claims outstanding (了結未決申索的開支) means the amount set aside by an authorized insurer at the end of its financial year as being an amount likely to be sufficient to meet that part of the insurer’s expenses which is likely to be incurred in respect of general business in the settlement of claims in respect of incidents occurring before the end of that year other than expenses which fall to be included under claims outstanding; (Amended 12 of 2015 s. 2)
 
-      - “expenses of settling claims” (了結申索的開支) means that part of an authorized insurer’s expenses which has been incurred in respect of general business in the settlement of claims; (Amended 12 of 2015 s. 2)
+      - expenses of settling claims (了結申索的開支) means that part of an authorized insurer’s expenses which has been incurred in respect of general business in the settlement of claims; (Amended 12 of 2015 s. 2)
 
-      - “fund” (基金), in relation to—
+      - fund (基金), in relation to—
 
         - (a) general business recorded as commencing in any financial year of an authorized insurer but accounted for over a period longer than that financial year, means, during such period, an amount not less than the aggregate amount of the premiums receivable during that period (net of reinsurance premiums payable) reduced by the aggregate amount of the claims paid (net of reinsurance recoveries), expenses for settling claims, commission (net of reinsurance commission receivable) and premium taxes in respect of that business and any management expenses attributable to the management of the fund and, after the end of such period, means such amount as is considered necessary to discharge the remaining obligations (net of reinsurance) in respect of that business; (Amended 12 of 2015 s. 2)
 
         - (b) long term business, means the amount standing to the credit of an account maintained in respect of that business in accordance with section 22 of this Ordinance;
 
-      - “gross premiums” (毛保費), in relation to a financial year—
+      - gross premiums (毛保費), in relation to a financial year—
 
         - (a) means premiums after deduction of discounts specified in policies or refunds of premiums made in respect of any termination or reduction of risks but before deduction of premiums for reinsurance ceded and of commission payable by the authorized insurer; and (Amended 12 of 2015 s. 2)
 
         - (b) includes premiums receivable by the insurer under reinsurance contracts accepted by the insurer;
 
-      - “Hong Kong insurance business” (香港保險業務) means—
+      - Hong Kong insurance business (香港保險業務) means—
 
         - ※(a) any direct business or facultative reinsurance business, being general business, in relation to which the risk is underwritten in Hong Kong, that is to say—
 
@@ -116,7 +120,7 @@ ACCOUNTS AND STATEMENTS
 
         - in Hong Kong, other than treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (2); (Added L.N. 391 of 1990)
 
-      - ※“Hong Kong long term insurance business” (香港長期保險業務) means—
+      - ※Hong Kong long term insurance business (香港長期保險業務) means—
 
         - (a) any direct business or facultative reinsurance business, being long term business, in relation to which the risk is underwritten in Hong Kong, that is to say—
 
@@ -140,29 +144,29 @@ ACCOUNTS AND STATEMENTS
 
         - but does not include any treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (3); (Added L.N. 2 of 2003)
 
-      - “intermediary” (中介人) means a person who in the course of any business or profession invites other persons to make offers or proposals or to take other step with a view to entering into contracts of insurance with an authorized insurer, other than a person who only publishes such invitations on behalf of, or to the order of, some other person; (Amended 12 of 2015 s. 2)
+      - intermediary (中介人) means a person who in the course of any business or profession invites other persons to make offers or proposals or to take other steps with a view to entering into contracts of insurance with an authorized insurer, other than a person who only publishes such invitations on behalf of, or to the order of, some other person; (Amended 12 of 2015 s. 2)
 
-      - “management expenses”(管理開支) means expenses incurred in the administration of an authorized insurer or its business which are not commission payable and, in the case of general business, are not included in claims paid, claims outstanding, expenses for settling claims and expenses for settling claims outstanding; (Amended 12 of 2015 s. 2)
+      - management expenses(管理開支) means expenses incurred in the administration of an authorized insurer or its business which are not commission payable and, in the case of general business, are not included in claims paid, claims outstanding, expenses for settling claims and expenses for settling claims outstanding; (Amended 12 of 2015 s. 2)
 
-      - “premiums” (保費) includes the consideration for the granting of an annuity;
+      - premiums (保費) includes the consideration for the granting of an annuity;
 
-      - “profit and loss account” (損益帳), in relation to an authorized insurer not trading for profit, means an income and expenditure account; (Amended 12 of 2015 s. 2)
+      - profit and loss account (損益帳), in relation to an authorized insurer not trading for profit, means an income and expenditure account; (Amended 12 of 2015 s. 2)
 
-      - “provision” (準備金) means any amount written off or retained by way of providing for depreciation, amortization, renewals or diminution in value of assets or retained by way of providing for any known liability, including liabilities in respect of expenditure contracted for and all disputed or contingent liabilities, the amount of which cannot be determined with substantial accuracy;
+      - provision (準備金) means any amount written off or retained by way of providing for depreciation, amortization, renewals or diminution in value of assets or retained by way of providing for any known liability, including liabilities in respect of expenditure contracted for and all disputed or contingent liabilities, the amount of which cannot be determined with substantial accuracy;
 
-      - “receivable” (可收取), in relation to income during a financial year, means, unless otherwise specified, such amounts as become due to the authorized insurer, whether or not received by the insurer during that year, including (where appropriate) income which has accrued; (Amended 12 of 2015 s. 2)
+      - receivable (可收取), in relation to income during a financial year, means, unless otherwise specified, such amounts as become due to the authorized insurer, whether or not received by the insurer during that year, including (where appropriate) income which has accrued; (Amended 12 of 2015 s. 2)
 
-      - “reinsurance” (再保險) and “reinsurer” (再保險人) include retrocession and retrocessionaire, respectively;
+      - reinsurance (再保險) and reinsurer (再保險人) include retrocession and retrocessionaire, respectively;
 
-      - “reinsurance premiums payable” (須付的再保險保費)—
+      - reinsurance premiums payable (須付的再保險保費)—
 
         - (a) means the premiums recorded in an authorized insurer’s books during a financial year as due by it to reinsurers in respect of reinsurance contracts commencing in that year or reinsurance contracts commencing in earlier financial years but not accounted for in the insurer’s revenue account prior to that financial year, whether or not paid by the insurer during that financial year, after deducting discounts, refunds and rebates of premiums as recorded in the same period, and for the purpose of determining whether a premium is due no account shall be taken of any credit arrangements made in respect thereof; and (Amended 12 of 2015 s. 2)
 
         - (b) in the case of general business, includes, unless otherwise specified, unearned premium portfolios and outstanding claims portfolios payable by the insurer under reinsurance contracts ceded by the insurer, after deduction of any premium portfolios or loss portfolios refunded to the insurer by reinsurers;
 
-      - “reserve” (儲備金) includes any amount written off or retained other than by way of provision;
+      - reserve (儲備金) includes any amount written off or retained other than by way of provision;
 
-      - “statutory business” (法定業務) means—
+      - statutory business (法定業務) means—
 
         - (a) the business of insurance against liability described in section 6 of the Motor Vehicles Insurance (Third Party Risks) Ordinance (Cap. 272);
 
@@ -172,9 +176,9 @@ ACCOUNTS AND STATEMENTS
 
         - (d) the business of insurance against liability described in section 28 of the Building Management Ordinance (Cap. 344) and any regulation made under section 41 of the Ordinance; (Added L.N. 72 of 2017)
 
-      - “unearned premiums” (未滿期保費) means the amount set aside by an authorized insurer at the end of its financial year out of premiums in respect of risks to be borne by the insurer after the end of the financial year under contracts of insurance entered into before the end of that year. (Amended 12 of 2015 s. 2)
+      - unearned premiums (未滿期保費) means the amount set aside by an authorized insurer at the end of its financial year out of premiums in respect of risks to be borne by the insurer after the end of the financial year under contracts of insurance entered into before the end of that year. (Amended 12 of 2015 s. 2)
 
-    - ※(2) For the purposes of paragraph (b) of the definition of “Hong Kong insurance business”, a risk is deemed to arise in Hong Kong— (Amended L.N. 2 of 2003)
+    - ※(2) For the purposes of paragraph (b) of the definition of Hong Kong insurance business, a risk is deemed to arise in Hong Kong— (Amended L.N. 2 of 2003)
 
       - (a) in the case of insurance business of “accident and health” or “pecuniary loss”, if—
 
@@ -186,11 +190,15 @@ ACCOUNTS AND STATEMENTS
 
       - (c) in all other cases of insurance business, if the risk is located in Hong Kong. (Added L.N. 391 of 1990)
 
-    - ※(3) For the purposes of paragraph (b) of the definition of “Hong Kong long term insurance business”, a risk is deemed to arise in Hong Kong, if—
+    - ※(3) For the purposes of paragraph (b) of the definition of Hong Kong long term insurance business, a risk is deemed to arise in Hong Kong, if—
 
       - (a) the policy holder being an individual is resident in Hong Kong; or
 
       - (b) the policy holder is a company as defined by section 2(1) of the Companies Ordinance (Cap. 622). (Added L.N. 2 of 2003. Amended 28 of 2012 ss. 912 & 920)
+
+  - Editorial Note:
+
+  - ※ | For application provision relating to the amendments made by L.N. 2 of 2003, see section 2 of the Insurance Companies Ordinance (Amendment of Part 1 of Third Schedule) Regulation 2003 (L.N. 2 of 2003).
 
   - 1A.
 
@@ -210,7 +218,9 @@ ACCOUNTS AND STATEMENTS
 
       - (c) the heading, and paragraphs 10, 11 and 12, of Part 3 of this Schedule;
 
-      - (d) paragraph 16(b)(ii), (d)(i), (e) and (g) of Part 4 of this Schedule. (Added 12 of 2005 s. 21)
+      - (d) paragraph 16(b)(ii), (d)(i), (e) and (g) of Part 4 of this Schedule.
+
+    - (Added 12 of 2005 s. 21)
 
   - 2. All accounts and statements shall be produced in the Chinese or the English language or, if not so produced, be accompanied by a complete Chinese or English translation. (Replaced L.N. 599 of 1995)
 
@@ -338,6 +348,10 @@ ACCOUNTS AND STATEMENTS
 
     - (3) Subject to the provisions of Part 8, any information required to be submitted under this Schedule may be submitted in the form of notes if, but only if, the information submitted can readily be interpreted as a whole and the appointed auditor’s report is attached. (Amended L.N. 391 of 1990; 26 of 1994 s. 7)
 
+  - Editorial Note:
+
+  - ※ | For application provision relating to the amendments made by L.N. 2 of 2003, see section 2 of the Insurance Companies Ordinance (Amendment of Part 1 of Third Schedule) Regulation 2003 (L.N. 2 of 2003).
+
   - 5.
 
     - (1) The information to be submitted in respect of long term business under Part 7 of this Schedule shall be accompanied by a certificate by the appointed actuary— (Amended 59 of 1993 s. 18; 4 of 1998 s. 3)
@@ -378,7 +392,7 @@ ACCOUNTS AND STATEMENTS
 
   - 6. Except to the extent that any statutory provisions have been followed in the preparation thereof, there shall be annexed to the accounts and statements a supplementary statement or statements describing in full and sufficient detail the accounting policies used in arriving at the values of each and every asset and liability and in making any estimate, apportionment, reserve or provision.
 
-- PART 2: DIRECTORS’ REPORT
+- Part 2 Directors' Report
 
   - 7. There shall be attached to every balance sheet submitted under this Schedule a report by the directors with respect to the profit or loss of the authorized insurer for the financial year and the state of the insurer’s affairs as at the end thereof. (Amended 12 of 2015 s. 2)
 
@@ -430,7 +444,7 @@ ACCOUNTS AND STATEMENTS
 
     - (p) contain particulars of any other matters, including events after the date of the balance sheet, so far as they are material for the appreciation of the state of the insurer’s affairs.
 
-- PART 3: ADDITIONAL PROVISIONS RELATING TO AN AUTHORIZED INSURER WHICH IS A HOLDING COMPANY (Amended 12 of 2015 s. 2)
+- Part 3 Additional Provisions relating to an Authorized Insurer which is a Holding Company (Amended 12 of 2015 s. 2)
 
   - 10. This Part shall apply to—
 
@@ -446,7 +460,7 @@ ACCOUNTS AND STATEMENTS
 
   - 13. Subject as aforesaid, the consolidated accounts shall, in giving the said information, comply so far as practicable with the requirements of this Schedule as if they were the accounts of an authorized insurer. (Amended 12 of 2015 s. 2)
 
-- PART 4: GENERAL PROVISIONS RELATING TO BALANCE SHEET
+- Part 4 General Provisions relating to Balance Sheet
 
   - 14. The authorized share capital (or maximum number of shares issuable under the articles), issued share capital, assets and liabilities shall be summarized in the balance sheet, with such particulars as are necessary to disclose the general nature of the assets and liabilities, and there shall be specified— (Amended 28 of 2012 ss. 912 & 920)
 
@@ -638,7 +652,7 @@ ACCOUNTS AND STATEMENTS
 
   - 23. Except in the case of the first balance sheet, the corresponding amounts at the end of the immediately preceding financial year shall be shown for all items.
 
-- PART 5: GENERAL PROVISIONS RELATING TO REVENUE ACCOUNT AND PROFIT AND LOSS ACCOUNT
+- Part 5 General Provisions relating to Revenue Account and Profit and Loss Account
 
 - Revenue Account
 
@@ -770,7 +784,7 @@ ACCOUNTS AND STATEMENTS
 
     - (n) the amount of any charge arising in consequence of the occurrence of an event in a preceding financial year and of any credit so arising shall, if not included in a heading relating to other matters, be stated under a separate heading;
 
-    - (o) the amount of the remuneration of the auditors shall be shown under a separate heading, and for the purposes of this paragraph, any sums paid by the insurer in respect of the auditors’ expenses shall be deemed to be included in the expression “remuneration”;
+    - (o) the amount of the remuneration of the auditors shall be shown under a separate heading, and for the purposes of this paragraph, any sums paid by the insurer in respect of the auditors’ expenses shall be deemed to be included in the expression remuneration;
 
     - (p)
 
@@ -806,13 +820,13 @@ ACCOUNTS AND STATEMENTS
 
       - (iii) by any correction of fundamental errors in any of the preceding financial years.
 
-- PART 6: ADDITIONAL REQUIREMENTS IN RESPECT OF AUTHORIZED INSURERS CARRYING ON LONG TERM BUSINESS (Amended 12 of 2015 s. 2)
+- Part 6 Additional Requirements in Respect of Authorized Insurers Carrying on Long Term Business (Amended 12 of 2015 s. 2)
 
 - Identification of Long Term Assets and Liabilities
 
   - 28. This Part sets out the method of identification of long term assets and liabilities required under section 22 of this Ordinance.
 
-  - 29. All assets and liabilities not identified with its long term business at the end of the financial year of the authorized insurer beginning next after the commencement of this Ordinance shall be so identified at that date (“the base date”). (Amended 12 of 2015 s. 2)
+  - 29. All assets and liabilities not identified with its long term business at the end of the financial year of the authorized insurer beginning next after the commencement of this Ordinance shall be so identified at that date (the base date). (Amended 12 of 2015 s. 2)
 
   - 30. In the case of liabilities, the amount to be identified shall be the aggregate of the following—
 
@@ -858,7 +872,11 @@ ACCOUNTS AND STATEMENTS
 
       - (b) in his opinion, the insurer has complied with subparagraph (1)(c).
 
-- PART 7: INFORMATION TO BE FURNISHED FOLLOWING ACTUARIAL INVESTIGATION UNDER SECTION 18 OR 32 OF THIS ORDINANCE
+- Part 7 Information to be Furnished Following Actuarial
+
+- Investigation under Section 18 or 32
+
+- of this Ordinance
 
   - 37. The following forms and supplementary information shall be furnished in support of any actuarial valuation required to be produced under section 18 or 32 of this Ordinance, and the information hereinafter required shall be furnished for each type of business set out in paragraph 38(1) of this Schedule for each fund and in total.
 
@@ -886,7 +904,11 @@ ACCOUNTS AND STATEMENTS
 
       - Provided that if the appointed actuary certifies that the effect of business under any of the types of business (ii) to (v) above is not material, such business may be accounted for under (i) above.
 
-- FORM L1 REVENUE ACCOUNT OF . (name of authorized insurer) in respect of class(es) * . for the period commencing . and ending .
+- Form L1
+
+- REVENUE ACCOUNT OF . (name of authorized insurer)
+
+- in respect of class(es) * . for the period commencing . and ending .
 
 - $ | $
 
@@ -898,45 +920,37 @@ ACCOUNTS AND STATEMENTS
 
 - Gross Premiums | Reinsurance Premiums Ceded | Net of Reinsurance Premiums | XX
 
-- (i) | Direct Underwriting Business: | Claims Payable | XX
+- Claims Payable | XX
 
-- Single Premiums | ... | ... | ...
-
-- Regular Premiums | ... | ... | ... | Gross Amount | Recoverable from Reinsurers | Net Amount
-
-- (ii) | Reinsurance Contracts Accepted:
+- (i) | Direct Underwriting Business: | Gross Amount | Recoverable from Reinsurers | Net Amount
 
 - Single Premiums | ... | ... | ... | (i) | Direct Underwriting Business:
 
 - Regular Premiums | ... | ... | ... | On Death | ... | ... | ...
 
-- ... | ... | ... | On Surrender | ... | ... | ...
-
-- By Way of Lump Sums | ... | ... | ...
-
-- XX | on Maturity
-
-- By Way of Periodic | ... | ... | ...
-
-- Payments
-
-- Interest or Income from Long Term Business Assets | XX
-
-- Commissions Receivable | XX
-
-- Other Receipts (accounts to be specified) | XX | (ii) | Reinsurance Contracts Accepted:
-
-- On Death | ... | ... | ...
-
 - On Surrender | ... | ... | ...
 
-- By Way of Lump Sums | ... | ... | ...
+- (ii) | Reinsurance Contracts Accepted: | By Way of Lump Sums on Maturity | ... | ... | ...
 
-- on Maturity
+- Single Premiums | ... | ... | ... | By Way of Periodic Payments | ... | ... | ...
 
-- By Way of Periodic | ... | ... | ...
+- ... | ... | ...
 
-- Payments
+- Regular Premiums | ... | ... | ...
+
+- ... | ... | ...
+
+- XX
+
+- Interest or Income from Long Term Business Assets | XX | (ii) | Reinsurance Contracts Accepted:
+
+- Commissions Receivable | XX | On Death | ... | ... | ...
+
+- Other Receipts (accounts to be specified) | XX | On Surrender | ... | ... | ...
+
+- By Way of Lump Sums on Maturity | ... | ... | ...
+
+- By Way of Periodic Payments | ... | ... | ...
 
 - ... | ... | ...
 
@@ -984,7 +998,7 @@ ACCOUNTS AND STATEMENTS
 
     - (1) There shall be furnished in the Forms L2 and L3 below a statement of the liabilities of the authorized insurer under each of the types of business specified in paragraph 38(1) at the date of the valuation, showing the number of policies, the amount assured and the amount of premiums payable annually under each type of policy, both with and without participation in profits, and the net liabilities and assets of the insurer, and the amount of any surplus or deficiency. (Amended 12 of 2015 s. 2)
 
-- FORM L2 VALUATION SUMMARY OF . (name of authorized insurer) for the period commencing . and ending .
+- Form L2 VALUATION SUMMARY OF . (name of authorized insurer) for the period commencing . and ending .
 
 - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
 
@@ -1016,8 +1030,6 @@ ACCOUNTS AND STATEMENTS
 
 - Total assurances without profits
 
-- ╳╳
-
 - Total assurances
 
 - (II) | Annuities
@@ -1042,25 +1054,25 @@ ACCOUNTS AND STATEMENTS
 
 - Total annuities without profits
 
-- Total annuities | ╳╳
+- Total annuities
 
-- B | Marriage and birth | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- B | Marriage and birth
 
-- C | Linked long term | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- C | Linked long term
 
-- D | Permanent health | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- D | Permanent health
 
-- E | Tontines | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- E | Tontines
 
-- F | Capital redemption | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- F | Capital redemption
 
-- G | Retirement scheme management category I | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- G | Retirement scheme management category I
 
-- H | Retirement scheme management category II | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- H | Retirement scheme management category II
 
 - I | Retirement scheme management category III
 
-- TOTALS | ╳╳
+- TOTALS
 
 - Notes
 
@@ -1084,7 +1096,7 @@ ACCOUNTS AND STATEMENTS
 
 - (Amended 59 of 1993 s. 18; 35 of 1996 s. 33; 12 of 2015 ss. 2 & 92)
 
-- FORM L3
+- Form L3
 
 - Valuation Balance Sheet of , as at , 19 .
 
@@ -1098,7 +1110,11 @@ ACCOUNTS AND STATEMENTS
 
     - (2) There shall be furnished with the Forms L2 and L3 above particulars of the average rate of interest yielded by the assets whether invested or uninvested constituting the long term business fund of the authorized insurer, calculated upon the mean fund of each year during the period since the last investigation. (Amended 12 of 2015 s. 2)
 
-- PART 8: ACCOUNTS AND INFORMATION IN RESPECT OF THE HONG KONG INSURANCE BUSINESS AND HONG KONG LONG TERM INSURANCE BUSINESS OF AN AUTHORIZED INSURER (Amended L.N. 3 of 2003; 12 of 2015 s. 2)
+- Part 8 Accounts and Information in Respect of the Hong Kong Insurance Business and Hong Kong
+
+- Long Term Insurance Business
+
+- of an Authorized Insurer (Amended L.N. 3 of 2003; 12 of 2015 s. 2)
 
   - 40.
 
@@ -1138,7 +1154,7 @@ ACCOUNTS AND STATEMENTS
 
       - (k) statistics of outstanding claims provision (Net), in the form provided in Form 9.
 
-- FORM 1
+- Form 1
 
 - HONG KONG INSURANCE BUSINESS—DIRECT BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) for the period commencing on . and ending on .
 
@@ -1174,7 +1190,7 @@ ACCOUNTS AND STATEMENTS
 
 - (9) | Gross expenses (6)+(7)+(8)
 
-- (10) | Commissions receivable from reinsurers
+- (10) | Commissions receivable from reinsurance
 
 - (11) | Total net expenses (9)-(10)
 
@@ -1202,11 +1218,9 @@ ACCOUNTS AND STATEMENTS
 
 - _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
 
-- Note: Amounts must be expressed in Hong Kong dollars. * Delete as necessary.
+- Note: Amounts must be expressed in Hong Kong dollars. * Delete as necessary. (Amended 12 of 2015 s. 2; L.N. 72 of 2017)
 
-- (Amended 12 of 2015 s. 2; L.N. 72 of 2017)
-
-- FORM 1A HONG KONG INSURANCE BUSINESS—DIRECT BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) SUPPLEMENTARY INFORMATION for the period commencing on . and ending on .
+- Form 1A HONG KONG INSURANCE BUSINESS—DIRECT BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) SUPPLEMENTARY INFORMATION for the period commencing on . and ending on .
 
 - ACCOUNTING CLASSES OF GENERAL BUSINESS
 
@@ -1240,7 +1254,7 @@ ACCOUNTS AND STATEMENTS
 
 - (b) | Amount recoverable from
 
-- (i) rein-surers
+- (i) reinsurers
 
 - (ii) others
 
@@ -1258,15 +1272,13 @@ ACCOUNTS AND STATEMENTS
 
 - _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
 
-- Note: Amounts must be expressed in Hong Kong dollars. * Delete as necessary.
+- Note: Amounts must be expressed in Hong Kong dollars. * Delete as necessary. (Amended 12 of 2015 s. 2; L.N. 72 of 2017)
 
-- (Amended 12 of 2015 s. 2; L.N. 72 of 2017)
-
-- FORM 2 HONG KONG INSURANCE BUSINESS—REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) for the period commencing on . and ending on .
+- Form 2 HONG KONG INSURANCE BUSINESS—REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) for the period commencing on . and ending on .
 
 - ACCOUNTING CLASSES OF GENERAL BUSINESS
 
-- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | ^Non-pro-portional treaty $ | ^Pro-portional treaty $ | Total $
+- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | †Non-pro-portional treaty $ | †Pro-portional treaty $ | Total $
 
 - GROSS PREMIUMS
 
@@ -1320,17 +1332,17 @@ ACCOUNTS AND STATEMENTS
 
 - (b) | Both treaty and facultative reinsurance business must be included.
 
-- ^ | In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. However, in such circumstances the insurer must supply estimates of the gross premiums receivable (i.e. item (1) above) attributable to the treaty reinsurance business of each of the first 8 accounting classes of general business.
+- † | In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. However, in such circumstances the insurer must supply estimates of the gross premiums receivable (i.e. item (1) above) attributable to the treaty reinsurance business of each of the first 8 accounting classes of general business.
 
 - * | Delete as necessary.
 
 - (Amended 12 of 2015 s. 2)
 
-- FORM 2A HONG KONG INSURANCE BUSINESS—REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) SUPPLEMENTARY INFORMATION for the period commencing on . and ending on .
+- Form 2A HONG KONG INSURANCE BUSINESS—REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of authorized insurer) SUPPLEMENTARY INFORMATION for the period commencing on . and ending on .
 
 - ACCOUNTING CLASSES OF GENERAL BUSINESS
 
-- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | ^Non-pro-portional treaty $ | ^Pro-portional treaty $ | Total $
+- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | †Non-pro-portional treaty $ | †Pro-portional treaty $ | Total $
 
 - (4) | UNEARNED PREMIUMS ADJUSTMENT
 
@@ -1374,13 +1386,13 @@ ACCOUNTS AND STATEMENTS
 
 - (b) | Both treaty and facultative reinsurance business must be included.
 
-- ^ | In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance.
+- † | In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance.
 
 - * | Delete as necessary.
 
 - (Amended 32 of 2000 s. 48; 12 of 2015 s. 2)
 
-- FORM 3 HONG KONG INSURANCE BUSINESS—DIRECT BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of authorized insurer) for the period commencing on . and ending on .
+- Form 3 HONG KONG INSURANCE BUSINESS—DIRECT BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of authorized insurer) for the period commencing on . and ending on .
 
 - ACCOUNTING CLASS OF GENERAL BUSINESS: _
 
@@ -1436,13 +1448,13 @@ ACCOUNTS AND STATEMENTS
 
 - (b) | If the insurer’s direct business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 1 and 1A.
 
-- (c) | a separate form must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A.
+- (c) | A separate form must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A.
 
 - * | Delete as necessary.
 
 - (Amended 32 of 2000 s. 48; 12 of 2015 s. 2)
 
-- FORM 4 HONG KONG INSURANCE BUSINESS—REINSURANCE BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of authorized insurer) for the period commencing on . and ending on .
+- Form 4 HONG KONG INSURANCE BUSINESS—REINSURANCE BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of authorized insurer) for the period commencing on . and ending on .
 
 - ACCOUNTING CLASS OF GENERAL BUSINESS: _
 
@@ -1508,7 +1520,7 @@ ACCOUNTS AND STATEMENTS
 
 - (Amended 12 of 2015 s. 2)
 
-- FORM 5
+- Form 5
 
 - HONG KONG INSURANCE BUSINESS—STATISTICS OF STATUTORY BUSINESS
 
@@ -1522,11 +1534,11 @@ ACCOUNTS AND STATEMENTS
 
 - THIRD PARTY RISKS | COMPREHENSIVE | TOTAL
 
-- Private Cars | Public Hire Vehicles | Other Commercial Vehicles | Motor Cycles | Private Cars | Public Hire Vehicles | Other Commerical Vehicles | Motor Cycles
+- Private Cars | Public Hire Vehicles | Other Commercial Vehicles | Motor Cycles | Private Cars | Public Hire Vehicles | Other Commercial Vehicles | Motor Cycles
 
 - B. | Employees’ Compensation Insurance Business under section 40 of the Employees’ Compensation Ordinance (Cap. 282)
 
-- No. of policies in force at end of period | No. of outstanding claims at end of a period
+- No. of policies in force at end of period | No. of outstanding claims at end of period
 
 - C. | Local Vessels Insurance Business under section 23D of the Merchant Shipping (Local Vessels) Ordinance (Cap. 548) and any regulation made under section 89 of the Ordinance
 
@@ -1544,7 +1556,7 @@ ACCOUNTS AND STATEMENTS
 
 - (Amended 24 of 2005 s. 55; 12 of 2015 s. 2)
 
-- FORM 6
+- Form 6
 
 - HONG KONG INSURANCE BUSINESS—CLAIMS PAID STATISTICS (GROSS)
 
@@ -1610,7 +1622,7 @@ ACCOUNTS AND STATEMENTS
 
 - (Replaced 51 of 1999 s. 6(a). Amended 12 of 2015 s. 2)
 
-- FORM 7
+- Form 7
 
 - HONG KONG INSURANCE BUSINESS—OUTSTANDING CLAIMS PROVISION
 
@@ -1654,6 +1666,8 @@ ACCOUNTS AND STATEMENTS
 
 - We certify that the above information is true and correct.
 
+- _ | _ | _
+
 - () | () | ()
 
 - Director | Director | *Chief Executive/Secretary
@@ -1674,7 +1688,9 @@ ACCOUNTS AND STATEMENTS
 
 - * Delete as necessary.
 
-- (Replaced 51 of 1999 s. 6(a). Amended 12 of 2015 s. 2) FORM 8
+- (Replaced 51 of 1999 s. 6(a). Amended 12 of 2015 s. 2)
+
+- Form 8
 
 - HONG KONG INSURANCE BUSINESS—CLAIMS PAID STATISTICS (NET)
 
@@ -1720,6 +1736,8 @@ ACCOUNTS AND STATEMENTS
 
 - We certify that the above information is true and correct.
 
+- _ | _ | _
+
 - () | () | ()
 
 - Director | Director | *Chief Executive/Secretary
@@ -1740,7 +1758,7 @@ ACCOUNTS AND STATEMENTS
 
 - (Replaced 51 of 1999 s. 6(a). Amended 12 of 2015 s. 2)
 
-- FORM 9
+- Form 9
 
 - HONG KONG INSURANCE BUSINESS—OUTSTANDING CLAIMS PROVISION
 
@@ -1784,6 +1802,8 @@ ACCOUNTS AND STATEMENTS
 
 - We certify that the above information is true and correct.
 
+- _ | _ | _
+
 - () | () | ()
 
 - Director | Director | *Chief Executive/Secretary
@@ -1824,7 +1844,7 @@ ACCOUNTS AND STATEMENTS
 
     - (2) The revenue account referred to in subparagraph (1)(c) is, in respect of each class of business specified in Part 2 of Schedule 1, a revenue account, in Form HKL1, and the supplementary information referred to in that subparagraph is— (Amended 12 of 2015 s. 92)
 
-      - (a) the date up to which the valuation referred to in section 18(1)(a) or 32(1)(a) of this Ordinance (“the valuation”) is made;
+      - (a) the date up to which the valuation referred to in section 18(1)(a) or 32(1)(a) of this Ordinance (the valuation) is made;
 
       - (b) the principles on which the valuation and distribution of profits among the policy holders are made, and whether those principles were determined by the instrument constituting the authorized insurer or by the insurer’s regulations or bylaws or otherwise; (Amended 12 of 2015 s. 2)
 
@@ -1846,7 +1866,7 @@ ACCOUNTS AND STATEMENTS
 
     - (3) The valuation summary referred to in subparagraph (1)(d) is a valuation summary, as at the date up to which the valuation is made, in Form HKL2.
 
-    - (4) The valuation balance sheet referred to in subparagraph (1)(e) is a valuation balance sheet, as at the date up to which the valuation is made, in Form HKL3, and the supplementary information referred to in that subparagraph is particulars of the average rate of interest yielded by the assets (whether invested or uninvested) constituting the long term business fund of the authorized insurer, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by it (“Hong Kong fund”), calculated on the mean Hong Kong fund of the financial year. (Amended 12 of 2015 s. 2)
+    - (4) The valuation balance sheet referred to in subparagraph (1)(e) is a valuation balance sheet, as at the date up to which the valuation is made, in Form HKL3, and the supplementary information referred to in that subparagraph is particulars of the average rate of interest yielded by the assets (whether invested or uninvested) constituting the long term business fund of the authorized insurer, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by it (Hong Kong fund), calculated on the mean Hong Kong fund of the financial year. (Amended 12 of 2015 s. 2)
 
     - (5) If, during a financial year, an insurer authorized to carry on long term business does not carry on Hong Kong long term insurance business in respect of which information would have had to be submitted under subparagraph (1) had the insurer carried on such business, the insurer shall submit a statement to that effect.
 
@@ -1858,7 +1878,9 @@ ACCOUNTS AND STATEMENTS
 
       - (c) in Form HKL3.
 
-- FORM HKL1 HONG KONG LONG TERM INSURANCE BUSINESS - REVENUE ACCOUNT OF . (Name of authorized insurer)
+- Form HKL1
+
+- HONG KONG LONG TERM INSURANCE BUSINESS - REVENUE ACCOUNT OF . (Name of authorized insurer)
 
 - in respect of class(es) *. for the period commencing on . and ending on .
 
@@ -1878,7 +1900,9 @@ ACCOUNTS AND STATEMENTS
 
 - Single Premiums | . . . | . . . | (. . .) | On Other Events | . . . | . . . | (. . .)
 
-- Transferred Premiums | . . . _ . . . | . . . _ . . . | (. . .) _ (. . .) | _ . . . | _ . . . | _ (. . .)
+- Transferred Premiums | . . . | . . . | (. . .) | . . . | . . . | (. . .)
+
+- . . . | . . . | (. . .)
 
 - Net Premiums Receivable | XX | Net Claims Payable | XX
 
@@ -1896,6 +1920,8 @@ ACCOUNTS AND STATEMENTS
 
 - Transfer from Profit and Loss Account | XX | Amount of Fund(s)# as at the End of the Period | XX
 
+- XX | XX
+
 - We certify that the above information is true and correct.
 
 - _ | _ | _
@@ -1906,13 +1932,15 @@ ACCOUNTS AND STATEMENTS
 
 - * | The classes referred to correspond to the classes of Long Term Business set out in Part 2 of Schedule 1 to the Insurance Ordinance (Cap. 41).
 
-- # | “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the authorized insurer.
+- # | Fund means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the authorized insurer.
 
 - § | Delete as necessary.
 
 - (Amended 12 of 2015 ss. 2 & 92)
 
-- FORM HKL2 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION SUMMARY OF . (Name of authorized insurer)
+- Form HKL2
+
+- HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION SUMMARY OF . (Name of authorized insurer)
 
 - for the period commencing on . and ending on .
 
@@ -1950,8 +1978,6 @@ ACCOUNTS AND STATEMENTS
 
 - Total assurances without profits
 
-- ╳╳
-
 - Total assurances
 
 - (II) Annuities
@@ -1960,13 +1986,11 @@ ACCOUNTS AND STATEMENTS
 
 - (b) | Without participation in profits
 
-- ╳╳
-
 - Total annuities
 
-- Total of Class A | ╳╳
+- Total of Class A
 
-- B | Marriage and birth | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- B | Marriage and birth
 
 - C | Linked long term:
 
@@ -1978,37 +2002,37 @@ ACCOUNTS AND STATEMENTS
 
 - Others
 
-- Total of Class C | ╳╳
+- Total of Class C
 
-- D | Permanent health | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- D | Permanent health
 
-- E | Tontines | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- E | Tontines
 
-- F | Capital redemption | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- F | Capital redemption
 
-- G | Retirement scheme management category I: | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- G | Retirement scheme management category I:
 
-- (i) | MPF subfunds | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- (i) | MPF subfunds
 
-- (ii) | other subfunds | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- (ii) | other subfunds
 
-- Total of Class G* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- Total of Class G*
 
-- H | Retirement scheme management category II: | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- H | Retirement scheme management category II:
 
-- (i) | MPF subfunds | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- (i) | MPF subfunds
 
-- (ii) | other subfunds | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- (ii) | other subfunds
 
-- Total of Class H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- Total of Class H*
 
-- Total of Classes G & H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- Total of Classes G & H*
 
 - I | Retirement scheme management category III
 
-- Other reserves (to be specified) | ╳╳ | ╳╳ | ╳╳ | ╳╳
+- Other reserves (to be specified)
 
-- TOTALS | ╳╳
+- TOTALS
 
 - We certify that the above information is true and correct.
 
@@ -2042,7 +2066,11 @@ ACCOUNTS AND STATEMENTS
 
 - (Amended 12 of 2015 ss. 2 & 92)
 
-- FORM HKL3 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION BALANCE SHEET OF . (Name of authorized insurer) as at .
+- Form HKL3
+
+- HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION BALANCE SHEET OF . (Name of authorized insurer)
+
+- as at .
 
 - HK$ | HK$
 
@@ -2058,7 +2086,7 @@ ACCOUNTS AND STATEMENTS
 
 - Director | Director | # Chief Executive/Secretary
 
-- * | “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the authorized insurer.
+- * | Fund means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the authorized insurer.
 
 - # | Delete as necessary.
 
@@ -2066,7 +2094,7 @@ ACCOUNTS AND STATEMENTS
 
 - (Part 8 added L.N. 391 of 1990)
 
-- PART 9
+- Part 9
 
 - [ss. 20(1A), 25A, 25B & 50C]
 
@@ -2225,11 +2253,3 @@ ACCOUNTS AND STATEMENTS
 - † | Enter N/A in line 41 to line 49 if section 25A(3)(b) is not applicable.
 
 - (Part 9 added 26 of 1994 s. 7. Amended 12 of 2015 s. 2)
-
-- Editorial Note:
-
-- Section 6 of the Insurance Companies (Amendment) Ordinance 1999 (51 of 1999) replaced Forms 6, 7, 8 and 9.
-
-  - ※ The application provision contained in section 2 of the Insurance Companies Ordinance (Amendment of Part 1 of Third Schedule) Regulation 2003 (L.N. 2 of 2003) reads as follows:
-
-- “2. Application This Regulation applies to an insurer within the meaning of the Insurance Companies Ordinance (Cap. 41) in respect of its financial year ending on or after 31 December 2003 and every successive financial year.”.

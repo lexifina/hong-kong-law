@@ -4,7 +4,7 @@
 
 Controllers, Directors, Key Persons in Control Functions, Actuaries and Authorized Representatives of Lloyd’s
 
-(Replaced L.N. 72 of 2017)
+(Replaced L.N. 72 of 2017) (Format changes—E.R. 4 of 2017)
 
 - 1. Application of Schedule 2 (Amended 12 of 2015 s. 91) This Schedule sets out the information to be furnished or delivered by an insurer or Lloyd’s to the Authority under this Ordinance in the following cases— (Amended 12 of 2015 s. 2; L.N. 72 of 2017)
 
@@ -64,9 +64,9 @@ Name of §Authorized Insurer/Insurer*
 
 The following are particulars of—
 
-§(a) | †
+§ | (a) | †
 
-§(b) | ‡., of which †
+§ | (b) | ‡., of which †
 
 . is a partner who became
 
@@ -114,7 +114,7 @@ give full particulars.
 
 12. | Has any body corporate or insurer with which you were associated as director or controller in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either while you were associated with it or within one year after you ceased to be associated with it? If so, give full particulars.
 
-(Note: | In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
+(Note: | In relation to a body corporate which is not an insurer, controller (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
 13. | Of what bodies corporate or insurers—
 
@@ -168,9 +168,9 @@ Name of Authorized Insurer*
 
 The following are particulars of—
 
-§(a) | †
+§ | (a) | †
 
-§(b) | ‡., of which †
+§ | (b) | ‡., of which †
 
 . is a partner who became
 
@@ -246,9 +246,9 @@ has supplied the above information and that in respect of *
 
 . the individual is—
 
-§(a) | an actuary;
+§ | (a) | an actuary;
 
-§(b) | a partner in ‡ ............................................................. which is an actuary appointed under section 15(3) of the Insurance Ordinance (Cap. 41).
+§ | (b) | a partner in ‡ ................................................................ which is an actuary appointed under section 15(3) of the Insurance Ordinance (Cap. 41).
 
 Date .
 
@@ -272,9 +272,9 @@ Name of Captive Insurer*
 
 The following are particulars of—
 
-§(a) | †
+§ | (a) | †
 
-§(b) | ‡., of which †
+§ | (b) | ‡., of which †
 
 . is a partner who became
 
@@ -348,9 +348,9 @@ has supplied the above information and that in respect of *
 
 . the individual is—
 
-§(a) | a key person in control functions within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41) and is responsible for the performance of the §risk management function/financial control function/compliance function/internal audit function/actuarial function/intermediary management function;
+§ | (a) | a key person in control functions within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41) and is responsible for the performance of the §risk management function/financial control function/compliance function/internal audit function/actuarial function/intermediary management function;
 
-§(b) | a partner in ‡ ........................................................................... which is a key person in control function within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41) and is responsible for the performance of the §risk management function/financial control function/compliance function/internal audit function/actuarial function/intermediary management function.
+§ | (b) | a partner in ‡ . which is a key person in control function within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41) and is responsible for the performance of the §risk management function/financial control function/compliance function/internal audit function/actuarial function/intermediary management function.
 
 Date .
 
@@ -386,7 +386,7 @@ The following are particulars of a body corporate which became director, control
 
 6. | Full name and residential address of every director and every controller.
 
-(Note: | In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
+(Note: | In relation to a body corporate which is not an insurer, controller (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
 7. | Name and address of main bank.
 
@@ -416,7 +416,7 @@ give full particulars.
 
 12. | Has any body corporate or insurer with which the above-named body corporate was associated as director or controller in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either while the above-named body corporate was associated with it or within one year after the above-named body corporate ceased to be associated with it? If so, give full particulars.
 
-(Note: | In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
+(Note: | In relation to a body corporate which is not an insurer, controller (控權人) is to be construed as a reference to a person who would, if the person were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
 I certify that the above information is complete and correct to the best of my knowledge and belief and I certify that this notice is served with the knowledge and consent of the above-named body corporate.
 
@@ -430,9 +430,9 @@ Signed .
 
 .—
 
-†(a) | the above-named body corporate is †Director/Controller/Chief Executive/Managing Director;
+† | (a) | the above-named body corporate is †Director/Controller/Chief Executive/Managing Director;
 
-†(b) | ‡ . of which the above-named body corporate is a partner is Controller.
+† | (b) | ‡ . of which the above-named body corporate is a partner is Controller.
 
 Date .
 
@@ -458,23 +458,39 @@ Particulars Required under Section 14(2) of Insurance Ordinance (Cap. 41) in Res
 
 1. | Name of †authorized insurer/Lloyd’s of which person has—
 
-†(a) become a controller within the meaning of section †13A(12)/13B(1) of the Insurance Ordinance (Cap. 41); †(b) become a director pursuant to section 13AC(1) of the Insurance Ordinance (Cap. 41); †(c) become a key person in control functions (within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41)) pursuant to section 13AE(1) of the Insurance Ordinance (Cap. 41); †(d) become an authorized representative of Lloyd’s pursuant to section 50B of the Insurance Ordinance (Cap. 41); †(e) ceased to be a †controller/director/key person in control functions/authorized representative.
+†(a) | become a controller within the meaning of section †13A(12)/13B(1) of the Insurance Ordinance (Cap. 41);
+
+†(b) | become a director pursuant to section 13AC(1) of the Insurance Ordinance (Cap. 41);
+
+†(c) | become a key person in control functions (within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41)) pursuant to section 13AE(1) of the Insurance Ordinance (Cap. 41);
+
+†(d) | become an authorized representative of Lloyd’s pursuant to section 50B of the Insurance Ordinance (Cap. 41);
+
+†(e) | ceased to be a †controller/director/key person in control functions/authorized representative.
 
 2. | Name of person.*
 
 3. | Date on which person—
 
-†(a) became a controller within the meaning of section †13A(12)/13B(1) of the Insurance Ordinance (Cap. 41); †(b) became a director pursuant to section 13AC(1) of the Insurance Ordinance (Cap. 41); †(c) became a key person in control functions (within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41)) pursuant to section 13AE(1) of the Insurance Ordinance (Cap. 41); †(d) became an authorized representative of Lloyd’s pursuant to section 50B of the Insurance Ordinance (Cap. 41); †(e) ceased to be a †controller/director/key person in control functions/authorized representative.
+†(a) | became a controller within the meaning of section †13A(12)/13B(1) of the Insurance Ordinance (Cap. 41);
+
+†(b) | became a director pursuant to section 13AC(1) of the Insurance Ordinance (Cap. 41);
+
+†(c) | became a key person in control functions (within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41)) pursuant to section 13AE(1) of the Insurance Ordinance (Cap. 41);
+
+†(d) | became an authorized representative of Lloyd’s pursuant to section 50B of the Insurance Ordinance (Cap. 41);
+
+†(e) | ceased to be a †controller/director/key person in control functions/authorized representative.
 
 †4. | Confirmation that person has become, or, after becoming, is—
 
-†(a) a controller within the meaning of section †13A(12)/13B(1) of the Insurance Ordinance (Cap. 41);
+†(a) | a controller within the meaning of section †13A(12)/13B(1) of the Insurance Ordinance (Cap. 41);
 
-†(b) a director pursuant to section 13AC(1) of the Insurance Ordinance (Cap. 41);
+†(b) | a director pursuant to section 13AC(1) of the Insurance Ordinance (Cap. 41);
 
-†(c) a key person in control functions (within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41)) pursuant to section 13AE(1) of the Insurance Ordinance (Cap. 41);
+†(c) | a key person in control functions (within the meaning of section 13AE(12) of the Insurance Ordinance (Cap. 41)) pursuant to section 13AE(1) of the Insurance Ordinance (Cap. 41);
 
-†(d) an authorized representative of Lloyd’s pursuant to section 50B of the Insurance Ordinance (Cap. 41),
+†(d) | an authorized representative of Lloyd’s pursuant to section 50B of the Insurance Ordinance (Cap. 41),
 
 and that there has been no change in any information provided under that section in respect of that person.
 
@@ -482,7 +498,7 @@ and that there has been no change in any information provided under that section
 
 Date .
 
-Signed .
+Signed
 
 †(†Director/Secretary of the Authorized Insurer)/(Chairman of Lloyd’s)
 
@@ -500,23 +516,27 @@ Particulars Required in Respect of Person Becoming Actuary of Authorized Insurer
 
 1. | Name of Authorized Insurer* ....................... of which a person has—
 
-†(a) become an actuary pursuant to section 15(3A) of the Insurance Ordinance (Cap. 41); †(b) ceased to be an actuary.
+†(a) | become an actuary pursuant to section 15(3A) of the Insurance Ordinance (Cap. 41);
+
+†(b) | ceased to be an actuary.
 
 2. | Name of the person.‡
 
 3. | Date on which person—
 
-†(a) became an actuary of the authorized insurer; †(b) ceased to be an actuary of the authorized insurer.
+†(a) | became an actuary of the authorized insurer;
+
+†(b) | ceased to be an actuary of the authorized insurer.
 
 †4. | Confirmation that the person has become, or, after becoming, is an actuary pursuant to section 15(3A) of the Insurance Ordinance (Cap. 41) and that there has been no change in any information provided under that section in respect of that person.
 
 †5. | Reasons for ceasing to be an actuary—
 
-†(a) resignation (a written notice signed by the actuary pursuant to section 15B(2)(a) of the Insurance Ordinance (Cap. 41) is †attached/submitted separately);
+†(a) | resignation (a written notice signed by the actuary pursuant to section 15B(2)(a) of the Insurance Ordinance (Cap. 41) is †attached/submitted separately);
 
-†(b) the actuary has been so appointed for a fixed term and decides not to seek reappointment (a written notice signed by the actuary pursuant to section 15B(2)(b) of the Insurance Ordinance (Cap. 41) is †attached/submitted separately);
+†(b) | the actuary has been so appointed for a fixed term and decides not to seek reappointment (a written notice signed by the actuary pursuant to section 15B(2)(b) of the Insurance Ordinance (Cap. 41) is †attached/submitted separately);
 
-†(c) other reasons to be specified.
+†(c) | other reasons to be specified.
 
 Date .
 
@@ -524,6 +544,10 @@ Signed .
 
 (†Director/Secretary of the Authorized Insurer.)
 
-* Insert name of Authorized Insurer. † Delete as necessary. ‡ Insert name of individual, body corporate or partnership.
+* | Insert name of Authorized Insurer.
+
+† | Delete as necessary.
+
+‡ | Insert name of individual, body corporate or partnership.
 
 (Form C1 added L.N. 72 of 2017)

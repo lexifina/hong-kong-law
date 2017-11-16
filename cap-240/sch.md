@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 12]
 
-OFFENCE
+Offence
 
 Item | Section or Regulation | Description | Fixed Penalty
 
@@ -84,7 +84,7 @@ Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 su
 
 Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E)
 
-31. | Regulation 8(2) | Registration mark not displayed/lit/ adequately fitted | $320
+31. | Regulation 8(2) | Registration mark not displayed/lit/adequately fitted | $320
 
 32. | Regulation 18(1) | Failing to report change of vehicle particulars | $320
 
@@ -114,7 +114,7 @@ Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)
 
 40. | Regulation 35(1)(a) | Driver of first or second public light bus at public light bus stand leaving vehicle | $320
 
-41. | Regulation 35(1)(b) | Driver of first or second public light bus at public light bus stand not ready/ willing to drive from public light bus stand | $320
+41. | Regulation 35(1)(b) | Driver of first or second public light bus at public light bus stand not ready/willing to drive from public light bus stand | $320
 
 42. | Regulation 35(2)(a) | Public light bus driver not moving forward at public light bus stand | $320
 

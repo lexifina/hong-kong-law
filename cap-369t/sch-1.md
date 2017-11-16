@@ -84,7 +84,7 @@ SURVEY
 
   - (d) checking that pilot ladders, associated equipment and mechanical pilot hoists are in good condition and operational; and
 
-  - (e) checking that the nautical publications and charts are adequate for the ship’s intended trading programme and that they comply with the requirements of the Merchant Shipping (Safety) (Navigational Equipment and Safety of Navigation) Regulation. (L.N. 130 of 2016)
+  - (e) checking that the nautical publications and charts are adequate for the ship’s intended trading programme and that they comply with the requirements of the Merchant Shipping (Safety) (Navigational Equipment and Safety of Navigation) Regulation (Cap. 369 sub. leg. BA). (L.N. 130 of 2016; E.R. 4 of 2017)
 
 - 5. Additional survey for tankers The survey shall consist of—
 

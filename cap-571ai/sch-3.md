@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 2]
 
-SPECIFIED CREDIT RATINGS
+Specified Credit Ratings
 
 - 1. A Moody’s Investors Service rating of A or above for Long-Term Insurance Financial Strength.
 

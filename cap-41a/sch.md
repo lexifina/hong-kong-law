@@ -1,10 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
 (L.N. 56 of 2017)
 
 Qualifications for Appointment as Actuary
+
+(Format changes—E.R. 4 of 2017)
 
 - 1. Fellow of the Institute and Faculty of Actuaries of the United Kingdom. (L.N. 56 of 2017)
 

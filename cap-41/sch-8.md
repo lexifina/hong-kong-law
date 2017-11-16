@@ -6,6 +6,8 @@
 
 Assets which Qualify as Assets in Hong Kong
 
+(Schedule 8 added 26 of 1994 s. 8) (Amended E.R. 4 of 2017)
+
 - 1. The following qualify as assets in Hong Kong—
 
   - (a) real property, including a leasehold interest therein, located in Hong Kong;
@@ -22,7 +24,7 @@ Assets which Qualify as Assets in Hong Kong
 
   - (g)
 
-    - shares in respect of a company, wherever incorporated and whether or not it comes within the definition of “company” (公司) in section 2(1) of this Ordinance, which shares are—
+    - shares in respect of a company, wherever incorporated and whether or not it comes within the definition of company (公司) in section 2(1) of this Ordinance, which shares are—
 
       - (i) transferable and registrable only at a register in Hong Kong; or
 
@@ -34,6 +36,4 @@ Assets which Qualify as Assets in Hong Kong
 
 - 2.
 
-  - For the purpose of paragraph 1(i), “unit trust” (單位信託) means any arrangement made for the purpose, or having the effect, of providing facilities for the participation by persons, as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever. (Added 5 of 2002 s. 407)
-
-(Schedule 8 added 26 of 1994 s. 8)
+  - For the purpose of paragraph 1(i), unit trust (單位信託) means any arrangement made for the purpose, or having the effect, of providing facilities for the participation by persons, as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever. (Added 5 of 2002 s. 407)

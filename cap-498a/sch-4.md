@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 6]
 
-ADMINISTRATION FEES
+Administration Fees
 
 Item | Particulars | Fee
 

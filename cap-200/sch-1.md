@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 149] (Amended 31 of 2003 s. 17)
 
-OTHER OFFENCES OF WHICH ACCUSED MAY BE CONVICTED
+Other Offences of which Accused May Be Convicted
+
+(Format changes—E.R. 4 of 2017)
 
 Item | Offence charged | Other offences of which defendant may be convicted
 

@@ -2,4 +2,4 @@ An Ordinance to provide for the licensing of non-Government columbaria for keepi
 
 [30 June 2017]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 4 of 2017)

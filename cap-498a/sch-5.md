@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 7]
 
-PERMIT FEES
+Permit Fees
 
 Item | Particulars | Fee
 

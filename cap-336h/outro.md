@@ -1,4 +1,4 @@
-APPENDIX A FORMS No. 1
+Appendix A Forms No. 1
 
 Writ of Summons (Order 6 rule 1)
 
@@ -1348,7 +1348,7 @@ Take notice that the plaintiff/defendant __________________ has paid $__________
 
 Signed | Position or office held (If signing on behalf of a firm, company or corporation)
 
-Plainfiff/Defendant(’s solicitor)
+Plaintiff/Defendant(’s solicitor)
 
 Date | With company chop (if applicable)
 
@@ -1372,7 +1372,7 @@ Solicitor for
 
 * Delete as appropriate
 
-(L.N. 153 of 2008)
+(L.N. 153 of 2008; E.R. 4 of 2017)
 
 _
 
@@ -1474,7 +1474,7 @@ No. 31
 
 Summons for examination within jurisdiction of witness before trial (Order 39 rule 1) (Heading as in cause or matter)
 
-- Let all parties concerned attend His/Her Honour Judge/Master ................................................................................................................. in chambers at the District Court in Hong Kong on .................. day the ...................... day of .................. 20 ........ at ........ o’clock in the ........ noon on the hearing of an application on the part of ............................ that A.B. a witness on behalf of the .............................. be examined forthwith before a Judge, [the Registrar or Master] or one of the examiners of the Court upon the usual terms, and that the costs of this application be (costs in the cause).
+- Let all parties concerned attend His/Her Honour Judge/Master ................................................................................................................ in chambers at the District Court in Hong Kong on .................. day the ...................... day of .................. 20 ........ at ........ o’clock in the ........ noon on the hearing of an application on the part of ............................ that A.B. a witness on behalf of the .............................. be examined forthwith before a Judge, [the Registrar or Master] or one of the examiners of the Court upon the usual terms, and that the costs of this application be (costs in the cause).
 
 - Dated the .................. day of ...................... 20 ..........
 
@@ -2112,7 +2112,7 @@ Order appointing receiver by way of equitable execution (Order 51 rule 1) (Headi
 
 - And that the receiver have liberty, if he shall think proper (but not otherwise), out of the rents, profits and moneys to be received by him to keep down the interest upon the prior incumbrances, according to their priorities, and be allowed such payments, if any, in passing his accounts.
 
-- And that the receiver shall on the .................................. day of .............................. 20 ........ (3 months after the date of order), and at such further and other times as may be ordered by the Court leave and pass his accounts, and shall on the ...................... day of .............................. 20 ........ (4 months after the date of order) and at such further and other times as may be hereafter ordered by the Court pay the balance or balances appearing due on the accounts so left, or such part thereof as shall be certified as proper to be so paid, such sums to be paid in or towards satisfaction of what shall for the time being be due in respect of the judgment signed on the ........................... day of ................................. 20 ........ for the sum of $ ....................... debt and $ ....................... costs, making together the sum of $ ....................
+- And that the receiver shall on the .................................. day of .............................. 20 ........ (3 months after the date of order), and at such further and other times as may be ordered by the Court leave and pass his accounts, and shall on the ...................... day of .............................. 20 ........ (4 months after the date of order) and at such further and other times as may be hereafter ordered by the Court pay the balance or balances appearing due on the accounts so left, or such part thereof as shall be certified as proper to be so paid, such sums to be paid in or towards satisfaction of what shall for the time being be due in respect of the judgment signed on the ........................... day of ................................ 20 ........ for the sum of $ ....................... debt and $ ....................... costs, making together the sum of $ ....................
 
 - And that the costs of the receiver (including his remuneration), the costs of obtaining his appointment, of completing his security (if any), of passing his accounts and of obtaining his discharge shall not exceed ten per cent of the amount due under the said judgment or the amount recovered by the receiver, whichever is the less, provided that not less than ............................ be allowed unless otherwise ordered. Such costs shall be taxed unless assessed by the Court and shall be primarily payable out of the sums received by the receiver, but if there shall be no sums received or the amount shall be insufficient, then upon the certificate of the Court being given stating the amount of the deficiency, such certificate to be given after passing the final account, the amount of the deficiency so certified shall be paid by the defendant to the plaintiff.
 
@@ -2156,7 +2156,7 @@ and
 
 C.D. | Defendant
 
-To: The Chief Bailiff and his assistants and the Commissioner of Correctional Services. WHEREAS by an order of this Court pronounced this day it was ordered that the above-named [here insert name of defendant], do stand committed to Prison for his/her contempt in the said order mentioned. You are required to apprehend the said [here insert name of defendant], and him/her safely convey to Prison there to be detained and kept in safe custody until such time as the said order granted by His/Her Honour Judge .................................................... on the ...................... day of .............................. 20 ........ shall have been complied with and obeyed or until such time as the said [here insert name of defendant] may be discharged by the Court on his/her application. Dated the .................. day of ...................... 20 ..........
+To: The Chief Bailiff and his assistants and the Commissioner of Correctional Services. WHEREAS by an order of this Court pronounced this day it was ordered that the above-named [here insert name of defendant], do stand committed to Prison for his/her contempt in the said order mentioned: You are required to apprehend the said [here insert name of defendant], and him/her safely convey to Prison there to be detained and kept in safe custody until such time as the said order granted by His/Her Honour Judge .................................................... on the ...................... day of .............................. 20 ........ shall have been complied with and obeyed or until such time as the said [here insert name of defendant] may be discharged by the Court on his/her application. Dated the .................. day of ...................... 20 ..........
 
 ..............................................................
 
@@ -2188,7 +2188,7 @@ Take notice that the paying party ______________________ has paid $____________ 
 
 Signed | Position or office held (If signing on behalf of a firm, company or corporation)
 
-Paying party (’s solicitor)
+Paying party(’s solicitor)
 
 Date | With company chop (if applicable)
 
@@ -2208,7 +2208,7 @@ Take notice that the receiving party accepts the payment(s) into court totalling
 
 Signed | Position or office held (If signing on behalf of a firm, company or corporation)
 
-Receiving party (’s solicitor)
+Receiving party(’s solicitor)
 
 Date | With company chop (if applicable)
 
@@ -2464,7 +2464,7 @@ Dated the .................. day of ...................... 20 ..........
 
 NOTE: C.D. may apply to the Court to discharge this order.
 
-APPENDIX C No. 1
+Appendix C No. 1
 
 Warrant for bailiff to call upon defendant to give security to produce property (Order 44A rule 8)
 
@@ -2486,7 +2486,7 @@ Registrar
 
 Note:—This warrant is to be returned into the Registry immediately after the execution thereof, with a memorandum indorsed thereon of the date and mode of execution.
 
-APPENDIX D FORMS
+Appendix D Forms
 
 20 ......., No. ...........
 
@@ -2520,7 +2520,7 @@ Travelling expenses to be paid to the judgment debtor | $
 
 $
 
-(18 of 2005 s. 27)
+(18 of 2003 s. 27)
 
 _
 
@@ -2550,7 +2550,7 @@ Sum on payment of which this summons will be discharged | $
 
 Note: If payment is made too late to prevent the judgment creditor’s attendance on the day of hearing, you may be liable for further costs. [The judgment creditor’s solicitor is ..................]
 
-(18 of 2005 s. 27)
+(18 of 2003 s. 27)
 
 _
 
@@ -2600,7 +2600,7 @@ SHEWETH:
 
 Applicant
 
-APPENDIX E Code of conduct for expert witnesses
+Appendix E Code of conduct for expert witnesses
 
 (Order 38 rules 35, 37B and 37C)
 

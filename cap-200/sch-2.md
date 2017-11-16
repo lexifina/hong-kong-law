@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 153P, 153Q & 153R]
 
-SEXUAL OFFENCE PROVISIONS THAT HAVE EXTRA-TERRITORIAL EFFECT
+Sexual Offence Provisions That Have Extra-Territorial Effect
+
+(Format changes—E.R. 4 of 2017)
 
 Section | Description of offence
 

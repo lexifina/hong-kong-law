@@ -1,5 +1,7 @@
-DECLARATION OF MENTAL HOSPITAL (CONSOLIDATION) ORDER
+Declaration of Mental Hospital (Consolidation) Order
 
-(Cap. 136 section 3)
+(Cap. 136, section 3)
 
 [26 January 1962]
+
+(Format changes—E.R. 4 of 2017)

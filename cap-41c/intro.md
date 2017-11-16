@@ -2,6 +2,8 @@ Insurance (Authorization and Annual Fees) Regulation
 
 (Cap. 41, section 128(1))
 
+(Enacting provision omitted—E.R. 4 of 2017)
+
 [20 November 1992] L.N. 376 of 1992
 
 Editorial Note:
