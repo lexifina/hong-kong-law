@@ -100,9 +100,9 @@ Item | Enactment | Provision
 
 59A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg. H) | Sections 6(13) and 9(2) (L.N. 268 of 2001)
 
-59B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg. I) | Section 42(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on polling day) and section 64(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on polling day) (15 of 2016 s. 48)
+59B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg. I) | Section 42(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on polling day) and section 64(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on polling day) (L.N. 268 of 2001; 15 of 2016 s. 48)
 
-59C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Section 4(1), section 9(2), section 25(5) and (7) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on the polling date), section 44(4) and (6) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on the polling date) and section 80(2) (15 of 2016 s. 48)
+59C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Section 4(1), section 9(2), section 25(5) and (7) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on the polling date), section 44(4) and (6) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on the polling date) and section 80(2) (L.N. 282 of 2001; 11 of 2012 s. 23; 15 of 2016 s. 48)
 
 60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 38(3), 40(1)(b) and 42(2) (21 of 2001 s. 75; 12 of 2014 s. 51)
 
@@ -120,7 +120,7 @@ Item | Enactment | Provision
 
 67. | Election Committee (Registration) (Voters for Subsectors) (Members of Election Committee) (Appeals) Regulation (Cap. 569 sub. leg. B) | Section 3(1) and (2)(c) (L.N. 268 of 2001)
 
-68. | Rural Representative Election Ordinance (Cap. 576) | Sections 8(1), 10(1), 24 and 26(2) (2 of 2003 s. 68) (5 of 2014 s. 2)
+68. | Rural Representative Election Ordinance (Cap. 576) | Sections 8(1), 10(1), 24 and 26(2) (2 of 2003 s. 68; 5 of 2014 s. 2)
 
 69-70. | (Repealed L.N. 152 of 2006)
 
@@ -128,4 +128,4 @@ Item | Enactment | Provision
 
 72. | Arbitration Ordinance (Cap. 609) | Sections 26(1), 31(7), 32(1)(a) and (3), 33(1), 50, 52, 54(1), 66(2), 67(1), 74(2) and 102(a) (17 of 2010 s. 112)
 
-73. | Private Columbaria Ordinance (8 of 2017) | Sections 21(2)(b)(ii), 23(1)(a) and (3), 39(3)(a), (7) and (8), 40(4), 41(2)(a) and (3), 42(4), 43(2)(a) and (4), 44(1), (3)(b)(i) and (5), 49(3)(b) and (g), 50(1) and (2), 53(1) and (4), 56(2)(b), 57(10), 63(2)(b), 71(b) and (c), 75(1), (4)(a) and (8), 80(4), 84(2), 86(3)(b) and (13), 87(1)(b), 93(1), (3) and (4)(b), 98(1), 107(1)(b)(i), (ii)(A), (iii) and (iv) and 110(4)(b), section 6(1) of Schedule 1, sections 2(2)(b) and (c) and 5 of Schedule 3 and sections 4(3)(a), 13, 15(2) and 18(3) and (4) of Schedule 5 (8 of 2017 s. 133)
+73. | Private Columbaria Ordinance (Cap. 630) | Sections 21(2)(b)(ii), 23(1)(a) and (3), 39(3)(a), (7) and (8), 40(4), 41(2)(a) and (3), 42(4), 43(2)(a) and (4), 44(1), (3)(b)(i) and (5), 49(3)(b) and (g), 50(1) and (2), 53(1) and (4), 56(2)(b), 57(10), 63(2)(b), 71(b) and (c), 75(1), (4)(a) and (8), 80(4), 84(2), 86(3)(b) and (13), 87(1)(b), 93(1), (3) and (4)(b), 98(1), 107(1)(b)(i), (ii)(A), (iii) and (iv) and 110(4)(b), section 6(1) of Schedule 1, sections 2(2)(b) and (c) and 5 of Schedule 3 and sections 4(3)(a), 13, 15(2) and 18(3) and (4) of Schedule 5 (8 of 2017 s. 133; E.R. 4 of 2017)
