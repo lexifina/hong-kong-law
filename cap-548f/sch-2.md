@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[s. 9]
+[ss. 9 & 33C] (L.N. 186 of 2016)
 
 SPEED OF LOCAL VESSELS
 
