@@ -16,9 +16,9 @@
 
 - 7. Sai Kung West Country Park That area delineated and coloured pink on Plan No. CP/SK(W)A approved on 17 January 1978 by the Governor in Council and deposited in the Land Registry. (L.N. 33 of 1978)
 
-- 8. Plover Cove Country Park Those areas delineated and coloured pink on Plan No. CP/PCB approved on 21 March 1978 by the Governor in Council and deposited in the Land Registry. (L.N. 78 of 1978)
+- 8. Plover Cove Country Park Those areas delineated and coloured pink on Plan No. CP/PCC approved on 25 April 2017 by the Chief Executive in Council and deposited in the Land Registry. (L.N. 78 of 1978; L.N. 141 of 2017)
 
-- 9. Lantau South Country Park Those areas delineated and coloured pink on plan CP/LT(S)A approved on 4 April 1978 by the Governor in Council and deposited in the Land Registry. (L.N. 90 of 1978)
+- 9. Lantau South Country Park Those areas delineated and coloured pink on Plan No. CP/LT(S)B approved on 25 April 2017 by the Chief Executive in Council and deposited in the Land Registry. (L.N. 90 of 1978; L.N. 141 of 2017)
 
 - 10. Lantau North Country Park Those areas delineated and coloured pink on plan CP/LT(N)C approved on 25 July 1978 by the Governor in Council and deposited in the Land Registry. (L.N. 201 of 1978)
 
@@ -49,7 +49,3 @@
 - 23. Lung Fu Shan Country Park Those areas delineated and coloured pink on map CP/LFSB approved on 10 November 1998 by the Chief Executive in Council and deposited in the Land Registry. (L.N. 383 of 1998)
 
 - 24. Lantau North (Extension) Country Park Those areas delineated and coloured pink on Plan No. CP/LN(E)A approved on 3 June 2008 by the Chief Executive in Council and deposited in the Land Registry. (L.N. 190 of 2008) (8 of 1993 s. 30)
-
-Editorial Note:
-
-For provisions for validation in relation to designations made under section 14 of the Country Parks Ordinance (Cap. 208) and published after 31 December 1989 but before 5 December 2014 - see section 68 of Ord. No. 18 of 2014.
