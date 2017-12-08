@@ -4,13 +4,13 @@
 
 - Part 1 Pipes and Fittings
 
-  - 1. Pipes for a fresh water fire service must be made of cast iron, ductile iron, steel, stainless steel or copper.
+  - 1. Pipes for a fresh water fire service must be made of ductile iron, steel, stainless steel or copper. (L.N. 165 of 2017)
 
   - 2. Pipes for a salt water fire service must be made of steel and internally lined with chlorinated polyvinyl chloride or of ductile iron.
 
-  - 3. Pipes for a fresh water inside service must be made of cast iron, ductile iron, unplasticized polyvinyl chloride, polybutylene, steel, stainless steel, copper, polyethylene, crosslinked polyethylene or chlorinated polyvinyl chloride, but pipes made of unplasticized polyvinyl chloride or polyethylene must not be used for a hot fresh water inside service.
+  - 3. Pipes for a fresh water inside service must be made of ductile iron, unplasticized polyvinyl chloride, polybutylene, steel, stainless steel, copper, polyethylene, crosslinked polyethylene or chlorinated polyvinyl chloride, but pipes made of unplasticized polyvinyl chloride or polyethylene must not be used for a hot fresh water inside service. (L.N. 165 of 2017)
 
-  - 4. Pipes for a salt water inside service must be made of cast iron, ductile iron, unplasticized polyvinyl chloride or polyethylene.
+  - 4. Pipes for a salt water inside service must be made of ductile iron, unplasticized polyvinyl chloride or polyethylene. (L.N. 165 of 2017)
 
   - 5. A pipe must not be less than 20 mm in nominal diameter, except that a branch pipe may be of 15 mm or more in nominal diameter if its length is not longer than 3 m and it supplies only 1 draw-off point.
 
@@ -54,17 +54,21 @@
 
   - 20. Stainless steel pipes must be of grade 304 or better and comply with the relevant requirements in BS 6362:1990, BS EN 10217-7:2014 and BS EN 10312:2002. Stainless steel fittings must comply with AS 3688:2016.
 
-  - 21. Pipe flanges made of steel must comply with BS EN 1092- 1:2007+A1:2013. Pipe flanges made of cast iron or ductile iron must comply with BS EN 1092-2:1997.
+  - 21. Pipe flanges made of steel must comply with BS EN 1092- 1:2007+A1:2013. Pipe flanges made of ductile iron must comply with BS EN 1092-2:1997. (L.N. 165 of 2017)
 
   - 22. Flexible pipe joints must comply with the hydraulic test requirements in BS EN 12266-1:2012.
 
-  - 23. Non-metallic materials and products for use in contact with water intended for human consumption must comply with the relevant requirements in BS 6920-1:2014, BS 6920-2.1:2014, BS 6920-2.2.1:2000+A3:2014, BS 6920-2.2.2:2000+A1:2014, BS 6920-2.2.3:2000+A2:2014, BS 6920-2.3:2000+A1:2014, BS 6920-2.4:2000+A1:2014, BS 6920-2.5:2000+A2:2014, BS 6920-2.6:2000+A2:2014 and BS 6920-3:2000.
+  - 23. Non-metallic materials and products that, when used, may come into contact with water intended for human consumption must comply with the relevant requirements in BS 6920-1:2014, BS 6920-2.1:2014, BS 6920-2.2.1:2000+A3:2014, BS 6920-2.2.2:2000+A1:2014, BS 6920-2.2.3:2000+A2:2014, BS 6920-2.3:2000+A1:2014, BS 6920-2.4:2000+A1:2014, BS 6920-2.5:2000+A2:2014, BS 6920-2.6:2000+A2:2014 and BS 6920-3:2000. (L.N. 165 of 2017)
+
+  - Note—
+
+  - The products described in this paragraph include, but are not limited to, taps, valves and cold water cisterns mentioned in Parts 2 and 3 of this Schedule. (L.N. 165 of 2017)
 
 - (L.N. 81 of 2017)
 
 - Part 2 Taps and Valves
 
-  - 1. Draw-off taps and stop valves that are not of the ordinary screw-down pattern must be capable of resisting a pressure of at least 1 600 kPa. Valves, spindles and other internal parts of the draw-off taps and stop valves must be made of a corrosion-resisting material. If the nominal diameter of such a draw-off tap or stop valve does not exceed 50 mm, its body must be made of a corrosion-resisting material.
+  - 1. (Repealed L.N. 165 of 2017)
 
   - 2. Cast iron or ductile iron waterworks gate valves or check valves of a nominal diameter of not less than 50 mm and with a pressure rating at PN 10 or above must comply with the relevant requirements in BS 5163-1:2004, BS 5163-2:2004, BS EN 1074-1:2000, BS EN 1074-2:2000 and BS EN 1074-3:2000. Gate valves for fire hydrant systems must comply with BS 5041-1:1987.
 
@@ -180,6 +184,12 @@
 
 - Part 4 Hot Water Inside Services
 
+  - 1A. This Part applies to—
+
+    - (a) a water heater used for heating water not intended for human consumption; and
+
+    - (b) a pipe or fitting that, when used, may come into contact with water heated by the water heater. (L.N. 165 of 2017)
+
   - 1. Subject to paragraph 2, a water heater must be supplied with water from a cold water cistern.
 
   - 2. With the written permission of the Water Authority, a water heater may be connected direct to a main if—
@@ -222,7 +232,7 @@
 
   - 8. A loose jumper type valve fitted with a loose valve plate stopping any backflow, or a similar backflow stopping device, must be fitted at the inlet of a water heater if the water heater is not fitted with a non-return valve. This requirement does not apply to unvented thermal storage type electric water heaters.
 
-  - 9. Pipes used for conveying hot water must be made of steel and internally lined with chlorinated polyvinyl chloride, of copper or of a corrosion-resisting material. Cast iron pipes of not less than 50 mm in internal diameter may be used if suitable provision for their expansion is made.
+  - 9. Pipes used for conveying hot water must be made of steel and internally lined with chlorinated polyvinyl chloride, of copper or of a corrosion-resisting material. (L.N. 165 of 2017)
 
   - 10. A hot water cylinder or tank of a capacity of not less than 100 L must—
 
