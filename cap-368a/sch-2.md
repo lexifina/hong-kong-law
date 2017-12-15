@@ -4,7 +4,9 @@
 
 TOLLS AND FEES
 
-- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel and Eastern Harbour Crossing) (7 of 2016 s. 18)
+- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel and Eastern Harbour Crossing)
+
+- (7 of 2016 s. 18)
 
 - Vehicle | Tolls
 
@@ -38,7 +40,9 @@ TOLLS AND FEES
 
 - Part 3 Tolls (for Eastern Harbour Crossing)
 
-- Column 1 Item | Column 2 Vehicle | Column 3 Tolls
+- Column 1 | Column 2 | Column 3
+
+- Item | Vehicle | Tolls
 
 - 1. | Motor cycles, motor tricycles | $13
 
@@ -78,25 +82,29 @@ TOLLS AND FEES
 
   - 2. Removal fee The removal fee for a Type A vehicle, Type B vehicle or Type C vehicle is set out in the Table.
 
-  - Table
+- Table
 
-  - Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+- Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-  - Item | Tunnel | Removal fee for Type A vehicle | Removal fee for Type B vehicle | Removal fee for Type C vehicle
+- Item | Tunnel | Removal fee for Type A vehicle | Removal fee for Type B vehicle | Removal fee for Type C vehicle
 
-  - 1. | Aberdeen Tunnel | $140 | $175 | $215
+- 1. | Aberdeen Tunnel | $140 | $175 | $215
 
-  - 2. | Cross-Harbour Tunnel | $140 | $175 | $215
+- 1A. | Airport Tunnel (L.N. 60 of 2017) | $140 | $175 | $215
 
-  - 3. | Eastern Harbour Crossing | $140 | $175 | $215
+- 2. | Cross-Harbour Tunnel | $140 | $175 | $215
 
-  - 4. | Kai Tak Tunnel | $140 | $175 | $215
+- 3. | Eastern Harbour Crossing | $140 | $175 | $215
 
-  - 5. | Lion Rock Tunnel | $140 | $175 | $215
+- 4. | Kai Tak Tunnel | $140 | $175 | $215
 
-  - 6. | Shing Mun Tunnels | $140 | $175 | $215
+- 5. | Lion Rock Tunnel | $140 | $175 | $215
 
-  - 7. | Tseung Kwan O Tunnel | $140 | $175 | $215
+- 5A. | Scenic Hill Tunnel (L.N. 60 of 2017) | $140 | $175 | $215
+
+- 6. | Shing Mun Tunnels | $140 | $175 | $215
+
+- 7. | Tseung Kwan O Tunnel | $140 | $175 | $215
 
 - (7 of 2016 s. 18)
 
@@ -108,6 +116,8 @@ TOLLS AND FEES
 
 - 1. | Aberdeen Tunnel | $82
 
+- 1A. | Airport Tunnel (L.N. 60 of 2017) | $82
+
 - 2. | Cross-Harbour Tunnel | $82
 
 - 3. | Eastern Harbour Crossing | $82
@@ -115,6 +125,8 @@ TOLLS AND FEES
 - 4. | Kai Tak Tunnel | $82
 
 - 5. | Lion Rock Tunnel | $82
+
+- 5A. | Scenic Hill Tunnel (L.N. 60 of 2017) | $82
 
 - 6. | Shing Mun Tunnels | $82
 
