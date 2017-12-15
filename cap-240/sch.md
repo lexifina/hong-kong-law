@@ -154,10 +154,20 @@ Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
 Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
 
-56. | Regulation 11 | Failing to comply with restriction on using offside lane (Added L.N. 255 of 1991) | $450
+56. | Regulation 11(2) | Failing to comply with restriction on using the right most lane of the carriageway of a left-driving expressway (Replaced L.N. 139 of 2017) | $450
 
-56A. | Regulation 12(1) | Falling to drive in the nearside lane of the carriageway of an expressway (Added L.N. 117 of 2005) | $450
+56A. | (Repealed L.N. 139 of 2017)
 
-57. | Regulation 13 | Overtaking another vehicle on its nearside (Added L.N. 255 of 1991) | $450
+57. | (Repealed L.N. 139 of 2017)
+
+58. | Regulation 11A(2) | Failing to comply with restriction on using the left most lane of the carriageway of a right-driving expressway (Added L.N. 139 of 2017) | $450
+
+59. | Regulation 12(1) | Driving on a left-driving expressway without confining the motor vehicle to the left most lane of the carriageway of the expressway (Added L.N. 139 of 2017) | $450
+
+60. | Regulation 12A(1) | Driving on a right-driving expressway without confining the motor vehicle to the right most lane of the carriageway of the expressway (Added L.N. 139 of 2017) | $450
+
+61. | Regulation 13 | Overtaking another vehicle on its left-hand side on a left-driving expressway (Added L.N. 139 of 2017) | $450
+
+62. | Regulation 13A(1) | Overtaking another vehicle on its right-hand side on a right-driving expressway (Added L.N. 139 of 2017) | $450
 
 (Schedule replaced L.N. 47 of 1989. Amended L.N. 110 of 1994; L.N. 206 of 2000; L.N. 219 of 2000; 50 of 2000 s. 2)
