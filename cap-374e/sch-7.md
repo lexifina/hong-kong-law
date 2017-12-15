@@ -174,9 +174,41 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (x) Sea Point Road; (L.N. 58 of 2005; L.N. 52 of 2006)
 
-    - (xi) Sky Plaza Road; and (L.N. 52 of 2006)
+    - (xi) Sky Plaza Road; (L.N. 52 of 2006; L.N. 62 of 2017)
 
-    - (xii) Cheong Tat Road westbound between Airport North Interchange and Cheong Hing Road. (L.N. 52 of 2006)
+    - (xii) Cheong Tat Road westbound between Airport North Interchange and Cheong Hing Road; (L.N. 52 of 2006; L.N. 62 of 2017)
+
+    - (xiii) Chek Lap Kok Road, but excluding—
+
+      - (A) the section of the southbound carriageway of Chek Lap Kok Road south of its junction with Tung Wing Road; and
+
+      - (B) the section of the northbound carriageway of Chek Lap Kok Road between the junction of Chek Lap Kok Road with East Coast Road and the junction of Chek Lap Kok Road with the slip road leading to it from Sky City Interchange; (L.N. 62 of 2017)
+
+    - (xiv) Shun Fai Road; (L.N. 62 of 2017)
+
+    - (xv) Shun Wui Road; (L.N. 62 of 2017)
+
+    - (xvi) Shun Ming Road; (L.N. 62 of 2017)
+
+    - (xvii) Shun Lin Road; (L.N. 62 of 2017)
+
+    - (xviii) Shun Chit Road; (L.N. 62 of 2017)
+
+    - (xix) Tung Wing Road; (L.N. 62 of 2017)
+
+    - (xx) Sky City Interchange; (L.N. 62 of 2017)
+
+    - (xxi) the section of Cheong Lin Road between Sky City Interchange and Airport South Interchange; (L.N. 62 of 2017)
+
+    - (xxii) the roundabout joining Cheong Lin Road and Cheong Shun Road, and the section of the westbound carriageway of Cheong Lin Road between the roundabout and Airport South Interchange; (L.N. 62 of 2017)
+
+    - (xxiii) Cheong King Road; (L.N. 62 of 2017)
+
+    - (xxiv) the section of the northbound carriageway of East Coast Road between Cheong King Road and Sky City Interchange; (L.N. 62 of 2017)
+
+    - (xxv) the slip road of Cheong Lin Road leading to Cheong Hong Road from the roundabout joining Cheong Lin Road and Cheong Shun Road; and (L.N. 62 of 2017)
+
+    - (xxvi) (Addition not yet in operation—see L.N. 62 of 2017)
 
   - (j) The following roads in the Kwai Tsing District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
 
@@ -210,4 +242,10 @@ Permitted Areas for New Territories and Lantau Taxis
 
 - (L.N. 58 of 2005)
 
-- 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau— The island of Lantau; and The island of Chek Lap Kok. (L.N. 65 of 1998) (Format changes—E.R. 2 of 2012)
+- 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau—
+
+  - (a) All roads in Lantau. (L.N. 62 of 2017)
+
+  - (b) All roads in Chek Lap Kok. (L.N. 62 of 2017)
+
+(L.N. 65 of 1998) (Format changes—E.R. 2 of 2012)
