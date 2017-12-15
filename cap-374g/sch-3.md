@@ -10,7 +10,25 @@ LIGHT SIGNALS
 
   - (a) 3 lights facing the approaching vehicular traffic, one red, one amber and one green shall be used;
 
-  - (b) the lights shall be arranged either vertically or horizontally and where they are arranged vertically the lamp showing a red light shall be uppermost and that showing a green light shall be lowermost and where they are arranged horizontally the lamp showing a red light shall be nearest to the right hand side of the carriageway viewed by the drivers of approaching vehicles and the lamp showing a green light shall be nearest to the left hand side of the carriageway as viewed by the drivers of such vehicles;
+  - (b) the lights must be arranged either vertically or horizontally; (L.N. 63 of 2017)
+
+  - (ba) if the lights are arranged vertically—
+
+    - (i) the lamp showing a red light must be uppermost; and
+
+    - (ii) the lamp showing a green light must be lowermost; (L.N. 63 of 2017)
+
+  - (bb) if the lights are arranged horizontally on a carriageway of a left-driving road, the lights as viewed by the drivers of approaching vehicles must be such that—
+
+    - (i) the lamp showing a red light is nearest to the right-hand side of the carriageway; and
+
+    - (ii) the lamp showing a green light is nearest to the left-hand side of the carriageway; (L.N. 63 of 2017)
+
+  - (bc) if the lights are arranged horizontally on a carriageway of a right-driving road, the lights as viewed by the drivers of approaching vehicles must be such that—
+
+    - (i) the lamp showing a red light is nearest to the left-hand side of the carriageway; and
+
+    - (ii) the lamp showing a green light is nearest to the right-hand side of the carriageway; (L.N. 63 of 2017)
 
   - (c) the sequence of the light signals shall be as follows—
 
