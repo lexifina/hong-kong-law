@@ -8,6 +8,8 @@ Column 1 Item | Column 2 Tunnel
 
 1. | Aberdeen Tunnel
 
+1A. | Airport Tunnel (Added L.N. 65 of 2017)
+
 2. | Cross-Harbour Tunnel
 
 3. | Eastern Harbour Crossing
@@ -15,6 +17,8 @@ Column 1 Item | Column 2 Tunnel
 4. | Kai Tak Tunnel
 
 5. | Lion Rock Tunnel
+
+5A. | Scenic Hill Tunnel (Added L.N. 65 of 2017)
 
 6. | Shing Mun Tunnels
 
