@@ -18,9 +18,13 @@ FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE
 
 (Chapter 240, section 3(1))
 
-右述車輛的司機 THE DRIVER | 車主 OWNER | 車輛號碼 OF VEHICLE NO.
+右述車輛的司機 | 車主 | 車輛號碼
 
-檔號 TRANSACTION NO.
+THE DRIVER | OWNER | OF VEHICLE NO.
+
+檔號
+
+TRANSACTION NO.
 
 涉嫌犯交通罪行
 
@@ -28,41 +32,59 @@ IS ALLEGED TO HAVE COMMITTED A TRAFFIC OFFENCE
 
 司機詳情(如知悉者) | 罪行詳情
 
-DETAILS OF DRIVER (IF AVAILABLE) | OFFENCE DETAILS
+OFFENCE DETAILS
 
-駕駛執照/身分證號碼 | 日 day | 月 | month | 年 | year
+DETAILS OF DRIVER (IF AVAILABLE) | 日 | day | 月 | month | 年 | year
+
+駕駛執照/身分證號碼
+
+時 | hours | 分 | minutes | 罪行編號 | OFFENCE CODE NO.
 
 DRIVING LICENCE / IDENTITY CARD NO.
 
-時 hours | 分 minutes | 罪行編號 OFFENCE CODE NO.
-
 電單車 | 車輛類別(在其中一格加✓號) | 其他車輛
 
-\- | M. Cycle | VEHICLE TYPE (tick one) | other
+M. Cycle | VEHICLE TYPE (tick one) | Other
 
-英文姓氏 SURNAME | 定額罰款(在其中一格加✓號) FIXED PENALTY (tick one)
+定額罰款(在其中一格加✓號)
 
-(從左方起每格填一個字母) | $1,000 | $600 | $450 | $320 | $230
+FIXED PENALTY (tick one)
+
+英文姓氏
+
+SURNAME | $1 000 | $600 | $450 | $320 | $230
+
+(從左方起每格填一個字母)
 
 (one letter per box from left)
 
 地點(如以英文填寫請用正楷) 必須填寫A及B PLACE (Use block letters if in English) Always complete A and B
 
-A. 路名 ROAD
+A. | 路名
 
-*B. 位置(如項目1或2不適用，則填寫項目3) LOCATION (If item 1 or 2 is not applicable, then complete item 3)
+ROAD
 
-1. □ 在右述地點 | 外 / 對面 / 附近 / 內 O/S / OPP / NEAR / I/S | 屋宇 / 地段 / 路段 / 燈柱 / 咪錶號碼 Hse. / Lot / Ch. / L/P / Meter No.
+*B. | 位置 (如項目1或2不適用，則填寫項目3)
 
-2. □ | 在 / 近 AT / NEAR | 與右列道路交匯處 Junction with
+LOCATION (If item 1 or 2 is not applicable, then complete item 3)
 
-3. □ 在右述地點 | 外 / 對面 O/S / OPP | 大廈 / 建築物 / 其他可予識辨的特徵 Bldg. / Erection / Other identifying feature
+1. | 在右述地點 | 外 / 對面 / 附近 / 內 | 屋宇 / 地段 / 路段 / 燈柱 / 咪錶號碼
+
+O/S / OPP / NEAR / I/S | Hse. / Lot / Ch. / L/P / Meter No.
+
+2. | 在 / 近 | 與右列道路交匯處
+
+AT / NEAR | Junction with
+
+3. | 在右述地點 | 外 / 對面 | 大廈 / 建築物 / 其他可予識辨的特徵
+
+O/S / OPP | Bldg. / Erection / Other identifying feature
 
 * 在適當方格加上「✓」號並刪去不適用者。 | * Tick the appropriate box(es) and delete where appropriate.
 
-發出日期 DATE OF ISSUE 簽發通知書人員 ISSUING OFFICER
+發出日期 | DATE OF ISSUE | 簽發通知書人員 | ISSUING OFFICER
 
-日 day | 月 month | 年 year | *字母 *Letter | 號碼 Number | 所屬單位 Unit
+日 | day | 月 | month | 年 | year | *字母 | *Letter | 號碼 | Number | 所屬單位 | Unit
 
 (* 輔警請在此欄填寫“A”字) (* Auxiliary Police Officer write “A”in the box)
 
@@ -70,9 +92,9 @@ A. 路名 ROAD
 
 Enquiries concerning the issue of this notice may be made by contacting the Duty Officer of any Police Station.
 
-\| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| | [ 條碼 | ]
+\| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| | [ | 條碼 | ]
 
-[ Bar Code | ]
+[ | Bar Code | ]
 
 個人資料
 
@@ -80,7 +102,7 @@ PERSONAL DATA
 
 郵寄付款須知： 請沿左面虛線撕下郵寄付款回條，並將回條連同支票、匯票或本票寄回。
 
-Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order.
+Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order. | 下列機印所示款項收訖 —— RECEIVED the sum imprinted below—
 
 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。
 
@@ -192,65 +214,113 @@ Slip for Payment by Post
 
 LIST OF OFFENCES AND FIXED PENALTY
 
-編號 Code Number | 罪行 Offence | 違反 Contrary To | 定額罰款 Fixed Penalty
+編號 | 罪行 | 違反 | 定額罰款
+
+Code Number | Offence | Contrary To | Fixed Penalty
 
 《道路交通條例》(第374章) Road Traffic Ordinance (Cap. 374)
 
-1. | 以比速度限制高出每小時15公里或以下的速度駕駛 Driving in excess of speed limit by 15 km/h or less | 第41條 Section 41 | $320 $320
+1. | 以比速度限制高出每小時15公里或以下的速度駕駛 | 第41條 | $320
 
-\#2. | 以比速度限制高出逾每小時15公里的速度駕駛，但罪行編號2A或2B適用的情況除外 Driving in excess of speed limit by more than 15 km/h, other than where Code Number 2A or 2B applies | 第41條 Section 41 | $450 $450
+Driving in excess of speed limit by 15 km/h or less | Section 41 | $320
 
-!2A. | 以比速度限制高出逾每小時30公里的速度駕駛，但罪行編號2B適用的情況除外 Driving in excess of speed limit by more than 30 km/h, other than where Code Number 2B applies | 第41條 Section 41 | $600 $600
+\#2. | 以比速度限制高出逾每小時15公里的速度駕駛，但罪行編號2A或2B適用的情況除外 | 第41條 | $450
+
+Driving in excess of speed limit by more than 15 km/h, other than where Code Number 2A or 2B applies | Section 41 | $450
+
+!2A. | 以比速度限制高出逾每小時30公里的速度駕駛，但罪行編號2B適用的情況除外 | 第41條 | $600
+
+Driving in excess of speed limit by more than 30 km/h, other than where Code Number 2B applies | Section 41 | $600
 
 Ω2B. | 以比速度限制高出逾每小時45公里的速度駕駛 | 第41條 | $1,000
 
 Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 
-3. | 持過期駕駛執照駕駛 Driving with an expired driving licence | 第42(1)條 Section 42(1) | $320 $320
+3. | 持過期駕駛執照駕駛 | 第42(1)條 | $320
 
-4. | 駕駛時沒有攜帶駕駛執照 Failing to carry driving licence when driving | 第42(2)條 Section 42(2) | $320 $320
+Driving with an expired driving licence | Section 42(1) | $320
 
-5. | 沒有出示駕駛執照 Failing to produce driving licence | 第43(3)條 Section 43(3) | $320 $320
+4. | 駕駛時沒有攜帶駕駛執照 | 第42(2)條 | $320
 
-6. | 駕駛未獲發牌照的車輛 Driving unlicensed vehicle | 第52(1)條 Section 52(1) | $450 $450
+Failing to carry driving licence when driving | Section 42(2) | $320
 
-7. | 駕駛運載重量超過200公斤的貨物的私家車 Driving a private car which is carrying goods weighing more than 200 kg | 第52(8)條 Section 52(8) | $320 $320
+5. | 沒有出示駕駛執照 | 第43(3)條 | $320
 
-*8. | 違反車輛牌照的條件 Contravening condition of a vehicle licence | 第52(9)條 Section 52(9) | $450 $450
+Failing to produce driving licence | Section 43(3) | $320
 
-《道路交通(交通管制)規例》(第374 章，附屬法例G) Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
+6. | 駕駛未獲發牌照的車輛 | 第52(1)條 | $450
 
-9. | 非法進入黃色方格路口 Unlawfully entering box junction | 第10(1)條 Regulation 10(1) | $320 $320
+Driving unlicensed vehicle | Section 52(1) | $450
 
-9A. | 非法進入交通燈控制的黃條過路處 Unlawfully entering yellow striped light signal crossing | 第10A條 Regulation 10A | $320 $320
+7. | 駕駛運載重量超過200公斤的貨物的私家車 | 第52(8)條 | $320
 
-\#10. | 橫過連續雙白綫或附有虛綫的連續白綫 Crossing continuous double white line or white line with a broken white line | 第11(1)條 Regulation 11(1) | $450 $450
+Driving a private car which is carrying goods weighing more than 200 kg | Section 52(8) | $320
 
-11. | 在禁區內駕駛 Driving in prohibited zone | 第14(5)條 Regulation 14(5) | $450 $450
+*8. | 違反車輛牌照的條件 | 第52(9)條 | $450
 
-12. | 在限制區內讓乘客上落 Picking up/setting down passengers in restricted zone | 第14(6)條 Regulation 14(6) | $450 $450
+Contravening condition of a vehicle licence | Section 52(9) | $450
 
-13. | 在限制區內裝卸貨物 Loading/unloading goods in restricted zone | 第14(7)條 Regulation 14(7) | $450 $450
+《道路交通(交通管制)規例》(第374章，附屬法例G) Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
-!14. | 沒有遵從交通燈的指示 Failing to comply with traffic signals | 第18條 Regulation 18 | $600 $600
+9. | 非法進入黃色方格路口 | 第10(1)條 | $320
 
-15. | 沒有許可證而在封閉道路上駕駛 Driving on closed road without permit | 第27(4)條 Regulation 27(4) | $320 $320
+Unlawfully entering box junction | Regulation 10(1) | $320
 
-\#16. | 沒有讓斑馬綫上的行人先行 Failing to give precedence to pedestrians on a zebra crossing | 第31條 Regulation 31 | $450 $450
+9A. | 非法進入交通燈控制的黃條過路處 | 第10A條 | $320
 
-\#17. | 沒有為學校交通安全隊員而停車 Failing to stop for school crossing patrol | 第38(2)條 Regulation 38(2) | $450 $450
+Unlawfully entering yellow striped light signal crossing | Regulation 10A | $320
 
-18. | 車輛作“U”字形轉向導致阻礙 “U” turn causing obstruction | 第42(1)(d)條 Regulation 42(1)(d) | $320 $320
+\#10. | 橫過連續雙白綫或附有虛綫的連續白綫 | 第11(1)條 | $450
+
+Crossing continuous double white line or white line with a broken white line | Regulation 11(1) | $450
+
+11. | 在禁區內駕駛 | 第14(5)條 | $450
+
+Driving in prohibited zone | Regulation 14(5) | $450
+
+12. | 在限制區內讓乘客上落 | 第14(6)條 | $450
+
+Picking up/setting down passengers in restricted zone | Regulation 14(6) | $450
+
+13. | 在限制區內裝卸貨物 | 第14(7)條 | $450
+
+Loading/unloading goods in restricted zone | Regulation 14(7) | $450
+
+!14. | 沒有遵從交通燈的指示 | 第18條 | $600
+
+Failing to comply with traffic signals | Regulation 18 | $600
+
+15. | 沒有許可證而在封閉道路上駕駛 | 第27(4)條 | $320
+
+Driving on closed road without permit | Regulation 27(4) | $320
+
+\#16. | 沒有讓斑馬綫上的行人先行 | 第31條 | $450
+
+Failing to give precedence to pedestrians on a zebra crossing | Regulation 31 | $450
+
+\#17. | 沒有為學校交通安全隊員而停車 | 第38(2)條 | $450
+
+Failing to stop for school crossing patrol | Regulation 38(2) | $450
+
+18. | 車輛作“U”字形轉向導致阻礙 | 第42(1)(d)條 | $320
+
+“U” turn causing obstruction | Regulation 42(1)(d) | $320
 
 18A. | 在汽車移動時，使用流動電話或其他電訊設備或該等電話或設備的附件 | 第42(1)(g)條 | $450
 
 Using a mobile telephone or other telecommunications equipment or an accessory to such telephone or equipment while the vehicle is in motion | Regulation 42(1)(g) | $450
 
-19. | 在不必要的情況下鳴響發聲警報設備 Sounding audible warning device unnecessarily | 第43條 Regulation 43 | $320 $320
+19. | 在不必要的情況下鳴響發聲警報設備 | 第43條 | $320
 
-20. | 未經授權而在巴士站、公共小巴站、的士站或公共小巴停車處停車 Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | 第45條 Regulation 45 | $320 $320
+Sounding audible warning device unnecessarily | Regulation 43 | $320
 
-21. | 在沒有亮着所需車燈的情況下駕駛 Driving without necessary lights illuminated | 第47(1)(a)條 Regulation 47(1)(a) | $320 $320
+20. | 未經授權而在巴士站、公共小巴站、的士站或公共小巴停車處停車 | 第45條 | $320
+
+Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | Regulation 45 | $320
+
+21. | 在沒有亮着所需車燈的情況下駕駛 | 第47(1)(a)條 | $320
+
+Driving without necessary lights illuminated | Regulation 47(1)(a) | $320
 
 22. | 車尾亮着並非准許亮着的燈 | 第47(1)(b)及(c)條 | $320
 
@@ -260,95 +330,165 @@ Light other than permitted illuminated lights showing to rear | Regulation 47(1)
 
 Driving motor cycle or motor tricycle without keeping obligatory lamps lighted | Regulation 47(1A) | $320
 
-23. | 超額載客 Excess passengers | 第53(3)條 Regulation 53(3) | $450 $450
+23. | 超額載客 | 第53(3)條 | $450
 
-24. | 超重 Overloading | 第54(1)條 Regulation 54(1) | $1,000 $1,000
+Excess passengers | Regulation 53(3) | $450
 
-25. | 負載物不穩固 Insecure load | 第57條 Regulation 57 | $450 $450
+24. | 超重 | 第54(1)條 | $1,000
 
-26. | 沒有遵從交通標誌 Failing to comply with traffic signs | 第59條 Regulation 59 | $450 $450
+Overloading | Regulation 54(1) | $1,000
 
-27. | 沒有遵從道路標記 Failing to comply with road markings | 第59條 Regulation 59 | $450 $450
+25. | 負載物不穩固 | 第57條 | $450
+
+Insecure load | Regulation 57 | $450
+
+26. | 沒有遵從交通標誌 | 第59條 | $450
+
+Failing to comply with traffic signs | Regulation 59 | $450
+
+27. | 沒有遵從道路標記 | 第59條 | $450
+
+Failing to comply with road markings | Regulation 59 | $450
 
 《道路交通(車輛構造及保養)規例》(第374章，附屬法例A) Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 sub. leg. A)
 
-*28. | 轉向指示器欠妥 Defective direction indicator | 第5(4)條 Regulation 5(4) | $320 $320
+*28. | 轉向指示器欠妥 | 第5(4)條 | $320
 
-*29. | 煙霧或可見氣體過量 Excess smoke or visible vapour | 第31(1)(a)條 Regulation 31(1)(a) | $1,000 $1,000
+Defective direction indicator | Regulation 5(4) | $320
 
-*30. | 低燈機制欠妥或不適當 Defective or inadequate dipping mechanism | 第90(2)條 Regulation 90(2) | $320 $320
+*29. | 煙霧或可見氣體過量 | 第31(1)(a)條 | $1,000
+
+Excess smoke or visible vapour | Regulation 31(1)(a) | $1,000
+
+*30. | 低燈機制欠妥或不適當 | 第90(2)條 | $320
+
+Defective or inadequate dipping mechanism | Regulation 90(2) | $320
 
 《道路交通(車輛登記及領牌)規例》(第374章，附屬法例E) Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E)
 
-31. | 沒有展示、亮起或裝妥車輛登記號碼 Registration mark not displayed/lit/adequately fitted | 第8(2)條 Regulation 8(2) | $320 $320
+31. | 沒有展示、亮起或裝妥車輛登記號碼 | 第8(2)條 | $320
 
-*32. | 沒有申報已變更的車輛資料 Failing to report change of vehicle particulars | 第18(1)條 Regulation 18(1) | $320 $320
+Registration mark not displayed/lit/adequately fitted | Regulation 8(2) | $320
 
-*33. | 沒有展示有效的車輛牌照 Failing to display valid licence | 第25條 Regulation 25 | $320 $320
+*32. | 沒有申報已變更的車輛資料 | 第18(1)條 | $320
+
+Failing to report change of vehicle particulars | Regulation 18(1) | $320
+
+*33. | 沒有展示有效的車輛牌照 | 第25條 | $320
+
+Failing to display valid licence | Regulation 25 | $320
 
 《道路交通(駕駛執照)規例》(第374章，附屬法例B) Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B)
 
-33A. | 駕駛沒有展示“P”字牌的車輛 Driving a vehicle without a “P” plate | 第12K(1)條 Regulation 12K(1) | $450 $450
+33A. | 駕駛沒有展示“P”字牌的車輛 | 第12K(1)條 | $450
 
-33B. | 違反禁止運載乘客的規定 Failing to comply with restriction on carrying passengers | 第12K(2)條 Regulation 12K(2) | $450 $450
+Driving a vehicle without a “P” plate | Regulation 12K(1) | $450
 
-34. | 違反駕駛執照的條件 Contravening condition of driving licence | 第17(4)條 Regulation 17(4) | $320 $320
+33B. | 違反禁止運載乘客的規定 | 第12K(2)條 | $450
 
-35. | 沒有展示“學”字牌 Failing to display “L” plates | 第30(3)(b)條 Regulation 30(3)(b) | $450 $450
+Failing to comply with restriction on carrying passengers | Regulation 12K(2) | $450
 
-36. | 違反學習駕駛執照的條件 Contravening condition of learner’s driving licence | 第30(4)條 Regulation 30(4) | $450 $450
+34. | 違反駕駛執照的條件 | 第17(4)條 | $320
+
+Contravening condition of driving licence | Regulation 17(4) | $320
+
+35. | 沒有展示“學”字牌 | 第30(3)(b)條 | $450
+
+Failing to display “L” plates | Regulation 30(3)(b) | $450
+
+36. | 違反學習駕駛執照的條件 | 第30(4)條 | $450
+
+Contravening condition of learner’s driving licence | Regulation 30(4) | $450
 
 《道路交通(安全裝備)規例》(第374章，附屬法例F) Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
-37. | 在沒有戴上防護頭盔的情況下駕駛電單車 Driving motor cycle without protective helmet | 第3(1)條 Regulation 3(1) | $320 $320
+37. | 在沒有戴上防護頭盔的情況下駕駛電單車 | 第3(1)條 | $320
 
-38. | 在沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car without being securely fastened with seat belt | 第7(1)(a)條 Regulation 7(1)(a) | $320 $320
+Driving motor cycle without protective helmet | Regulation 3(1) | $320
 
-39. | 在前排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car when front seat passenger not securely fastened with seat belt | 第7(3)條 Regulation 7(3) | $230 $230
+38. | 在沒有穩妥繫上安全帶的情況下駕駛私家車 | 第7(1)(a)條 | $320
+
+Driving private car without being securely fastened with seat belt | Regulation 7(1)(a) | $320
+
+39. | 在前排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 | 第7(3)條 | $230
+
+Driving private car when front seat passenger not securely fastened with seat belt | Regulation 7(3) | $230
 
 《道路交通(公共服務車輛)規例》(第374章，附屬法例D) Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)
 
-40. | 公共小巴站內最前面的第一或第二輛公共小巴的司機離開其車輛 Driver of first or second public light bus at public light bus stand leaving vehicle | 第35(1)(a)條 Regulation 35(1)(a) | $320 $320
+40. | 公共小巴站內最前面的第一或第二輛公共小巴的司機離開其車輛 | 第35(1)(a)條 | $320
 
-41. | 公共小巴站內最前面的第一或第二輛公共小巴的司機沒有隨時準備或不願意將其車輛駛離該站 Driver of first or second public light bus at public light bus stand not ready/willing to drive from public light bus stand | 第35(1)(b)條 Regulation 35(1)(b) | $320 $320
+Driver of first or second public light bus at public light bus stand leaving vehicle | Regulation 35(1)(a) | $320
+
+41. | 公共小巴站內最前面的第一或第二輛公共小巴的司機沒有隨時準備或不願意將其車輛駛離該站 | 第35(1)(b)條 | $320
+
+Driver of first or second public light bus at public light bus stand not ready/willing to drive from public light bus stand | Regulation 35(1)(b) | $320
 
 42. | 公共小巴司機在公共小巴站內不將其車輛駛前 | 第35(2)(a)條 | $320
 
 Public light bus driver not moving forward at public light bus stand | Regulation 35(2)(a) | $320
 
-43. | 公共小巴在公共小巴站內阻礙其他公共小巴 Public light bus obstructing other public light bus at public light bus stand | 第35(2)(b)條 Regulation 35(2)(b) | $320 $320
+43. | 公共小巴在公共小巴站內阻礙其他公共小巴 | 第35(2)(b)條 | $320
 
-44. | 公共小巴司機在車站內不遵從警務人員或交通督導員給予的指示 Public light bus driver at stand not obeying directions given by police officer/traffic warden | 第35(2)(c)條 Regulation 35(2)(c) | $320 $320
+Public light bus obstructing other public light bus at public light bus stand | Regulation 35(2)(b) | $320
 
-45. | 的士司機在的士站內不將車輛駛前 Taxi driver not moving forward at taxi stand | 第36(2)條 Regulation 36(2) | $320 $320
+44. | 公共小巴司機在車站內不遵從警務人員或交通督導員給予的指示 | 第35(2)(c)條 | $320
 
-45A. | 的士站內最前面的第一或第二輛的士的的士司機不坐在其車內或不站在其車旁 Taxi driver of first or second taxi at a taxi stand not sitting in or standing beside his taxi | 第36(1)條 Regulation 36(1) | $320 $320
+Public light bus driver at stand not obeying directions given by police officer/traffic warden | Regulation 35(2)(c) | $320
 
-46. | 的士司機在的士站內不依輪候次序載客 Taxi driver at stand accepting fare out of turn | 第36(3)(b)條 Regulation 36(3)(b) | $320 $320
+45. | 的士司機在的士站內不將車輛駛前 | 第36(2)條 | $320
 
-47. | 司機沒有採取一切合理預防措施，以確保公共巴士、公共小巴或的士乘客的安全 Driver not taking all reasonable precautions to ensure safety of passengers of a public bus, public light bus or taxi | 第45(1)(d)條 Regulation 45(1)(d) | $320 $320
+Taxi driver not moving forward at taxi stand | Regulation 36(2) | $320
 
-48. | 公共巴士、公共小巴或的士上落乘客時停車超過所需的時間 Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | 第45(1)(h)條 Regulation 45(1)(h) | $320 $320
+45A. | 的士站內最前面的第一或第二輛的士的的士司機不坐在其車內或不站在其車旁 | 第36(1)條 | $320
 
-49. | 沒有將的士計程錶設定於記錄位置 Not setting taxi meter to recording position | 第49(2)條 Regulation 49(2) | $320 $320
+Taxi driver of first or second taxi at a taxi stand not sitting in or standing beside his taxi | Regulation 36(1) | $320
+
+46. | 的士司機在的士站內不依輪候次序載客 | 第36(3)(b)條 | $320
+
+Taxi driver at stand accepting fare out of turn | Regulation 36(3)(b) | $320
+
+47. | 司機沒有採取一切合理預防措施，以確保公共巴士、公共小巴或的士乘客的安全 | 第45(1)(d)條 | $320
+
+Driver not taking all reasonable precautions to ensure safety of passengers of a public bus, public light bus or taxi | Regulation 45(1)(d) | $320
+
+48. | 公共巴士、公共小巴或的士上落乘客時停車超過所需的時間 | 第45(1)(h)條 | $320
+
+Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | Regulation 45(1)(h) | $320
+
+49. | 沒有將的士計程錶設定於記錄位置 | 第49(2)條 | $320
+
+Not setting taxi meter to recording position | Regulation 49(2) | $320
 
 《道路交通(安全裝備)規例》(第374章，附屬法例F) Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
-50. | 在沒有穩妥繫上安全帶的情況下駕駛的士 Driving taxi without being securely fastened with seat belt | 第7A(1)(a)條 Regulation 7A(1)(a) | $320 $320
+50. | 在沒有穩妥繫上安全帶的情況下駕駛的士 | 第7A(1)(a)條 | $320
+
+Driving taxi without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
 
 51. | 在沒有穩妥繫上安全帶的情況下駕駛小型巴士 | 第7A(1)(a)條 | $320
 
 Driving light bus without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
 
-52. | 在沒有穩妥繫上安全帶的情況下駕駛貨車 Driving goods vehicle without being securely fastened with seat belt | 第7A(1)(a)條 Regulation 7A(1)(a) | $320 $320
+52. | 在沒有穩妥繫上安全帶的情況下駕駛貨車 | 第7A(1)(a)條 | $320
 
-53. | 在有15 歲以下的前排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家小巴 Driving private light bus when front seat passenger under 15 years of age not securely fastened with seat belt | 第7A(3)條 Regulation 7A(3) | $230 $230
+Driving goods vehicle without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
 
-54. | 在有15 歲以下的前排座位乘客沒有穩妥繫上安全帶的情況下駕駛貨車 Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | 第7A(3)條 Regulation 7A(3) | $230 $230
+53. | 在有15 歲以下的前排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家小巴 | 第7A(3)條 | $230
 
-55. | 在後排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car when rear seat passenger not securely fastened with seat belt | 第7B(2)條 Regulation 7B(2) | $230 $230
+Driving private light bus when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
 
-55A. | 在有15 歲以下的後排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car when rear seat passenger under 15 years of age not securely fastened with seat belt | 第7B(3)條 Regulation 7B(3) | $230 $230
+54. | 在有15 歲以下的前排座位乘客沒有穩妥繫上安全帶的情況下駕駛貨車 | 第7A(3)條 | $230
+
+Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
+
+55. | 在後排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 | 第7B(2)條 | $230
+
+Driving private car when rear seat passenger not securely fastened with seat belt | Regulation 7B(2) | $230
+
+55A. | 在有15 歲以下的後排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 | 第7B(3)條 | $230
+
+Driving private car when rear seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7B(3) | $230
 
 55B. | 在一個並沒設有安全帶的私家車後排座位上有乘客但該私家車內有另外一個設有安全帶且無人佔用的後排座位的情況下，駕駛該私家車 | 第7B(6)條 | $230
 
@@ -356,41 +496,69 @@ Driving private car when rear seat passenger occupies rear seat without seat bel
 
 《道路交通(快速公路)規例》(第374章，附屬法例Q) Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
 
-56. | 沒有遵守使用右邊行車綫的限制 Failing to comply with restriction on using offside lane | 第11條 Regulation 11 | $450 $450
+56. | 沒有遵從使用靠左駛快速公路車路的最右線的限制 | 第11(2)條 | $450
 
-56A. | 沒有在快速公路車路的左邊行車綫上駕駛 | 第12(1)條 | $450
+Failing to comply with restriction on using the right most lane of the carriageway of a left-driving expressway | Regulation 11(2) | $450
 
-Failing to drive in the nearside lane of the carriageway of an expressway | Regulation 12(1) | $450
+56A. | (由2017年第156號法律公告廢除)
 
-57. | 在其他車輛的左邊超越該車輛 Overtaking another vehicle on its nearside | 第13條 Regulation 13 | $450 $450
+(Repealed L.N. 156 of 2017)
 
-\# 凡有“#”符號的罪行每宗記3分。
+57. | (由2017年第156號法律公告廢除)
+
+(Repealed L.N. 156 of 2017)
+
+58. | 沒有遵從使用靠右駛快速公路車路的最左線的限制 | 第11A(2)條 | $450
+
+Failing to comply with restriction on using the left most lane of the carriageway of a right-driving expressway | Regulation 11A(2) | $450
+
+59. | 在靠左駛快速公路上駕駛而沒有局限汽車在快速公路車路的最左線行駛 | 第12(1)條 | $450
+
+Driving on a left-driving expressway without confining the motor vehicle to the left most lane of the carriageway of the expressway | Regulation 12(1) | $450
+
+60. | 在靠右駛快速公路上駕駛而沒有局限汽車在快速公路車路的最右線行駛 | 第12A(1)條 | $450
+
+Driving on a right-driving expressway without confining the motor vehicle to the right most lane of the carriageway of the expressway | Regulation 12A(1) | $450
+
+61. | 在靠左駛快速公路上，在另一車輛的左邊越過該車輛 | 第13條 | $450
+
+Overtaking another vehicle on its left-hand side on a left-driving expressway | Regulation 13 | $450
+
+62. | 在靠右駛快速公路上，在另一車輛的右邊越過該車輛 | 第13A(1)條 | $450
+
+Overtaking another vehicle on its right-hand side on a right-driving expressway | Regulation 13A(1) | $450
+
+\# | 凡有“#”符號的罪行每宗記3分。
 
 Offences marked with “#” carry 3 driving-offence points.
 
-! 凡有“!”符號的罪行每宗記5分。
+! | 凡有“!”符號的罪行每宗記5分。
 
 Offence marked with “!” carries 5 driving-offence points.
 
-Ω 凡有“Ω”符號的罪行每宗記10分。
+Ω | 凡有“Ω”符號的罪行每宗記10分。
 
 Offence marked with “Ω” carries 10 driving-offence points.
 
-* 凡有“*”符號的罪行，車主均須負法律責任。
+* | 凡有“*”符號的罪行，車主均須負法律責任。
 
 Vehicle owners liable for offences marked with “*”.
 
-(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18)
+(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017)
 
 通知書號碼： | 表格 2 | [第2(2)條]
 
 Notice No. : | FORM 2 | [reg. 2(2)]
 
-《定額罰款(刑事訴訟)條例》 | 電子繳款號碼 E-Payment Number
+《定額罰款(刑事訴訟)條例》 | 電子繳款號碼
 
-(第240章) | 請輸入下列18位數字 Please key in the following 18 digit nos.
+E-Payment Number
 
-FIXED PENALTY (CRIMINAL PROCEEDING) ORDINANCE
+(第240章) | 請輸入下列18位數字
+
+FIXED PENALTY (CRIMINAL | Please key in the
+
+PROCEEDINGS) ORDINANCE | following 18 digit nos.
 
 (Chapter 240) | 帳類 Bill Type | 04
 
@@ -398,63 +566,69 @@ FIXED PENALTY (CRIMINAL PROCEEDING) ORDINANCE
 
 Batch Date: | (第3(3)條)
 
-NOTICE DEMANDING PAYMENT OF FIXED PENALTY | 個人資料 PERSONAL DATA
+NOTICE DEMANDING PAYMENT OF FIXED PENALTY
 
-(Section 3(3)) | FP M
+(Section 3(3))
 
-致：
+致： | 個人資料
 
-先寫姓氏 | To:
+先寫姓氏 | To: | FP M
 
-Surname First | 地址：
+Surname | 地址： | PERSONAL DATA
 
-of
+First | of
 
-於 (日期) 大約 (時間) 在 (地點)
+於 (日期) | 大約 (時間) | 在 (地點)
 
-On at about at
+On | at about | at
 
 發生一宗觸犯交通罪行的事件，違反
 
 a traffic offence contrary to
 
-而你作為汽車 的 涉嫌須對該事件負法律責任。
+而你作為汽車 | 的 | 涉嫌須對該事件負法律責任。
 
-was committed for which you as the of the motor vehicle no. are alleged to be liable.
+was committed for which you as the | of the motor vehicle no. | are alleged to be liable.
 
-該罪行屬本條例的附表內所列的第 項，即 。
+該罪行屬本條例的附表內所列的第 | 項，即 | 。
 
-The offence is listed at item of the Schedule to the Ordinance, namely .
+The offence is listed at item | of theSchedule to the Ordinance, namely | .
 
-本人現要求你繳付 ，作為該罪行的定額罰款，並通知你若意欲就該罪行的法
+本人現要求你繳付 | ，作為該罪行的定額罰款，並通知你若意欲就該罪行的法
 
-I hereby demand payment of which is the Fixed Penalty for this offence and inform you
+I hereby demand payment of | which is the Fixed Penalty for this offence and inform you
 
-律責任提出爭議，你必須通知本人。你必須在 或之前——
+律責任提出爭議，你必須通知本人。你必須在 或之前 ——
 
-that, if you wish to dispute liability for the offence, you should inform me. You are required—
+that, if you wish to dispute liability for the offence, you should inform me. You are required ——
 
-- (a) 繳付定額罰款；或 to pay the Fixed Penalty; or
+(a) | 繳付定額罰款；或
 
-- (b) (使用背頁的通知書)告知本人你意欲就該罪行的法律責任提出爭議。 to notify me that you wish to dispute liability for the offence (by using the notification
+to pay the Fixed Penalty; or
 
-- form overleaf),
+(b) | (使用背頁的通知書)告知本人你意欲就該罪行的法律責任提出爭議。
 
-on or before . 倘若你不按照本通知書繳付定額罰款或告知本人你意欲就法律責任提出爭議，本人將向
+to notify me that you wish to dispute liability for the offence (by using the notification form overleaf),
 
-If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with this
+on or before
 
-裁判官申請頒發命令，飭令你繳付定額罰款、一項相等於定額罰款數額的附加罰款及訟費。
+倘若你不按照本通知書繳付定額罰款或告知本人你意欲就法律責任提出爭議，本人
 
-notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional
+If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance
 
-penalty equal to the amount of the Fixed Penalty and costs. 下列機印所示款項收訖。
+將向裁判官申請頒發命令，飭令你繳付定額罰款、一項相等於定額罰款數額的附加罰款
 
-RECEIVED the sum imprinted below. 警務處處長( 代行)
+with this notice, an application will be made to a magistrate for an order that you pay the Fixed
 
-for Commissioner of Police
+及訟費。
 
-日期：
+Penalty, an additional penalty equal to the amount of the Fixed Penalty and costs.
+
+下列機印所示款項收訖。
+
+RECEIVED the sum imprinted below. | 警務處處長( 代行)
+
+日期： | for Commissioner of Police
 
 Date:
 
@@ -466,31 +640,27 @@ Last Date for Payment/Notification of Dispute: | Slip for Payment by Post
 
 Please note:
 
-1. 就此事根據本條例第3(1)條發出的通知書(號碼： )可能經已向你送達。
-
-A notice under section 3(1) of the Ordinance (No.: ) may already have been served on you in this case.
+1. | 就此事根據本條例第3(1)條發出的通知書(號碼： ) 可能經已向你送達。 A notice under section 3(1) of the Ordinance (No.: ) may already have been served on you in this case.
 
 如你已繳付該通知書所指明的定額罰款，則無須理會本通知書。 | C.R.C.
 
-If you have paid the Fixed Penalty specified by that notice, you should ignore | 105
+If you have paid the Fixed Penalty specified by that notice, you should ignore this demand. | 105
 
-this demand. | FP M
-
-2. 款項應按照背面所載的指示繳付。
+2. | 款項應按照背面所載的指示繳付。 | FP M
 
 Payment should be made according to the instructions set out overleaf.
 
-3. 若按照繳款辦法第1(e)段所示方法繳款，本通知書必須保持完整並於繳款時出示。
+3. | 若按照繳款辦法第1(e)段所示方法繳款，本通知書必須保持完整並於繳款時出示。
 
 For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice must be kept intact and produced at the time of payment.
 
-通知書號碼： 罪行編號： 定額罰款：
+通知書號碼： | 罪行編號： | 定額罰款：
 
-Notice No.: Offence Code: Fixed Penalty:
+Notice No.: | Offence Code: | Fixed Penalty:
 
-身分證號碼： 犯罪日期： 繳款類別：
+身分證號碼： | 犯罪日期： | 繳款類別：
 
-I.D. No.: Offence Date: Payment Type:
+I.D. No.: | Offence Date: | Payment Type:
 
 繳款辦法： | PAYMENT INSTRUCTIONS :
 
@@ -574,7 +744,7 @@ LIABILITY FOR OFFENCE
 
 (Section 3(3))
 
-致：警務處處長 香港灣仔軍器廠街1號 警察總部警政大樓31樓 交通總部中央交通 違例檢控組 第3組 | To : The Commissioner of Police Unit 3, Central Traffic Prosecutions Division, Traffic Branch Headquarters, 31st Floor, Arsenal House, Police Headquarters, No. 1 Arsenal Street, Wan Chai, Hong Kong.
+致： | 警務處處長 香港灣仔軍器廠街1號 警察總部警政大樓31樓 交通總部中央交通 違例檢控組 第3組 | To: | The Commissioner of Police Unit 3, Central Traffic Prosecutions Division, Traffic Branch Headquarters, 31st Floor, Arsenal House, Police Headquarters, No. 1 Arsenal Street, Wan Chai, Hong Kong.
 
 就貴處根據《定額罰款(刑事訴訟)條例》第3(3)條所發出的通知書(詳情見背頁而本人經已閱悉)，本人意欲就該通知書所指罪行的法律責任提出爭議，特此通知。
 
@@ -582,53 +752,75 @@ Take notice that I wish to dispute liability for the offence specified in your n
 
 日期：
 
-Date : . | .
+Date:
 
-簽名 Signature
+簽名 | Signature
 
-(L.N. 165 of 2001; L.N. 159 of 2005; 10 of 2008 s. 51; 18 of 2016 s. 18)
+(L.N. 165 of 2001; L.N. 159 of 2005; 10 of 2008 s. 51; 18 of 2016 s. 18) _
 
-_
-
-FORM 3 | [regulation 4]
+FORM 3 | [reg. 4]
 
 FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) CERTIFICATE OF IDENTITY, REGISTERED ADDRESS AND
 
 NON-PAYMENT OF FIXED PENALTY (Section 8)
 
-- This is to certify that—
+This is to certify that—
 
-- A. On the at about the registered owner of the motor vehicle bearing registration mark was—
+A. | On the | at about | the
 
-- B. On the the registered address of the person specified at A above was—
+registered owner of the motor vehicle bearing registration mark | was—
 
-- C. On the the holder of driving licence number was—
+B. | On the | the registered address of the person
 
-- D. On the the registered address of the person specified at C above was—
+specified at A above was—
 
-- E. On the the registered address of the person specified at above was—
+C. | On the | the holder of driving licence
 
-- F. Before the full payment of the Fixed Penalty in respect of the offence shown at item in the Schedule to the Fixed Penalty (Criminal Proceedings) Ordinance specified in a notice under section 3(3) of the Ordinance, bearing the number and dated was not made.
+number was—
 
-- G. Before the the person specified at above had not notified the Commissioner of Police that he wished to dispute liability for the offence specified at F above.
+D. | On the | the registered address of the person
 
-- . (Date) | . (Signature)
+specified at C above was—
 
-- . (Full Name) for Commissioner of Police.
+E. | On the | the registered address of the person
 
-(L.N. 89 of 1984)
+specified at above was—
 
-FORM 4 | [regulation 5]
+F. | Before the | full payment of the
+
+Fixed Penalty in respect of the offence shown at item
+
+in the Schedule to the Fixed Penalty (Criminal Proceedings) Ordinance
+
+specified in a notice under section 3(3) of the Ordinance, bearing the number
+
+and dated was not made.
+
+G. | Before the | the person specified
+
+at | above had not notified the Commissioner of
+
+Police that he wished to dispute liability for the offence specified at F above.
+
+(Date) | (Signature)
+
+(Full Name)
+
+for Commissioner of Police.
+
+(L.N. 89 of 1984) _
+
+FORM 4 | [reg. 5]
 
 FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) CERTIFICATE OF CLEARANCE (Section 10(3))
 
-This is to certify that there are no fines or costs unpaid by .
+This is to certify that there are no fines or costs unpaid by
 
-the registered owner of motor vehicle registration mark . Issued on the . day of . at . a.m./p.m.
+the registered owner of motor vehicle registration mark
 
-.
+Issued on the . day of . at . a.m./p.m.
 
-for Commissioner of Transport.
+for Commissioner for Transport.
 
 NOTE: This certificate remains valid for not more than 72 hours from the time of issue.
 
