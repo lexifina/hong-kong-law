@@ -4,151 +4,377 @@
 
 - PART I (Repealed L.N. 188 of 1999)
 
-- PART II FORMS OF HEALTH WARNING AND INDICATION OF TAR
+- Part 2 Forms of Health Warning on Packet of Cigarettes or Retail Container of Tobacco Products (Not in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2 replaced L.N. 66 of 2017 and L.N. 126 of 2017)
 
-- AND NICOTINE YIELDS ON PACKET OR RETAIL
+- Form 1
 
-- CONTAINER OF CIGARETTES
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 2
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 3
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 4
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 5
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 6
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 7
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 8
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 9
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 10
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 11
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Form 12
+
+- Chinese Version of Version A
+
+- Chinese Version of Version B
+
+- Chinese Version of Version C
+
+- English Version of Version A
+
+- English Version of Version B
+
+- English Version of Version C
+
+- Specifications—
+
+- 1. | Each form is rectangular in shape and surrounded by a black line as demarcation.
+
+- 2. | The characters, letters and numbers are surrounded by either a black line or white line.
+
+- 3. | For the Chinese version, the characters and numbers are printed in “中黑體” typeface. For the English version, the letters and numbers are printed in Univers Bold typeface.
+
+- 4. | The graphic, characters, letters and numbers are printed by 4-colour printing with a minimum resolution of 300 dpi.
+
+- Part 2A Forms of Health Warning on Packet of Cigarettes or Retail Container of Tobacco Products (in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2A replaced L.N. 66 of 2017)
+
+- Form 1
+
+- Chinese Version
+
+- English Version
+
+- Form 2
+
+- Chinese Version
+
+- English Version
+
+- Form 3
+
+- Chinese Version
+
+- English Version
+
+- Form 4
+
+- Chinese Version
+
+- English Version
+
+- Form 5
+
+- Chinese Version
+
+- English Version
+
+- Form 6
+
+- Chinese Version
+
+- English Version
+
+- Form 7
+
+- Chinese Version
+
+- English Version
+
+- Form 8
+
+- Chinese Version
+
+- English Version
+
+- Form 9
+
+- Chinese Version
+
+- English Version
+
+- Form 10
+
+- Chinese Version
+
+- English Version
+
+- Form 11
+
+- Chinese Version
+
+- English Version
+
+- Form 12
+
+- Chinese Version
+
+- English Version
+
+- Specifications—
+
+- 1. | The Chinese version of each form is rectangular in shape and surrounded by a black line as demarcation. The English version of each form is hemispherical in shape and surrounded by a black line as demarcation.
+
+- 2. | The characters, letters and numbers are surrounded by either a black line or white line.
+
+- 3. | For the Chinese version, the characters and numbers are printed in “中黑體” typeface. For the English version, the letters and numbers are printed in Univers Bold typeface.
+
+- 4. | The graphic, characters, letters and numbers are printed by 4-colour printing with a minimum resolution of 300 dpi.
+
+- Part 2B Forms of Health Warning on Retail Container Containing One Cigar (Part 2B replaced L.N. 66 of 2017)
+
+- Form 1
+
+- Chinese Version
+
+- English Version
+
+- Form 2
+
+- Chinese Version
+
+- English Version
+
+- Form 3
+
+- Chinese Version
+
+- English Version
+
+- Form 4
+
+- Chinese Version
+
+- English Version
+
+- Form 5
+
+- Chinese Version
+
+- English Version
+
+- Form 6
+
+- Chinese Version
+
+- English Version
+
+- Form 7
+
+- Chinese Version
+
+- English Version
+
+- Form 8
+
+- Chinese Version
+
+- English Version
+
+- Form 9
+
+- Chinese Version
+
+- English Version
+
+- Form 10
+
+- Chinese Version
+
+- English Version
+
+- Form 11
+
+- Chinese Version
+
+- English Version
+
+- Form 12
+
+- Chinese Version
+
+- English Version
+
+- Specifications—
+
+- 1. | Each form is rectangular in shape and surrounded by a black line as demarcation. The width and the length are 7 cm and 3 cm respectively.
+
+- 2. | The characters, letters and numbers are surrounded by either a black line or white line.
+
+- 3. | For the Chinese version, the characters and numbers are printed in “中黑體” typeface. For the English version, the letters and numbers are printed in Univers Bold typeface.
+
+- 4. | The graphic, characters, letters and numbers are printed by 4-colour printing with a minimum resolution of 300 dpi.
+
+- Part 2C Forms of Indication of Tar and Nicotine Yields on Packet of Cigarettes or Retail Container of Cigarette Packets (Part 2C added L.N. 66 of 2017)
 
 - Form 1
 
 - Form 2
 
-- Form 3
+- Specifications—
 
-- Form 4
+- 1. | The Chinese characters and Arabic numerals on the same line are printed in “中黑體” typeface. The English letters and Arabic numerals on the same line are printed in Univers Bold typeface.
 
-- Form 5
+- 2. | The characters, letters and numbers are—
 
-- Form 6
+- (a) | of a font size not less than 8 point;
 
-- Specifications:
+- (b) | printed in white for white or 100% black for black, whichever colour contrasts more clearly with the colour of their background; and
 
-  - 1. Each form is rectangular in shape and surrounded by a black line as demarcation.
-
-  - 2. Each form is divided into 3 rectangular areas (marked “A”, “B” and “C” in the diagram below). The ratio of the length of area A to that of area B to that of area C (marked “a”, “b” and “c” respectively in that diagram) is 9 to 2 to 1.
-
-  - 3. Area A contains the graphic (on which “香港特區政府忠告市民” (in the Chinese version) or “HKSAR GOVERNMENT WARNING” (in the English version) is printed) as set out in the form. Area B contains the message in words as set out in the form. Area C contains an indication of tar and nicotine yields as set out in the form.
-
-  - 4. For the Chinese version, the characters and numbers are printed in “中黑體” typeface. For the English version, the letters and numbers are printed in Univers Bold typeface.
-
-  - 5. In relation to area A—
-
-    - (a) the characters and letters are printed in white;
-
-    - (b) the graphic is printed by 4-colour printing with a minimum resolution of 300 dpi.
-
-  - 6. In relation to areas B and C—
-
-    - (a) the background colour is white;
-
-    - (b) the characters, letters and numbers are printed in—
-
-      - (i) 100% black for black; and
-
-      - (ii) 100% yellow plus 100% magenta for red.
-
-  - (21 of 2006 s. 40)
-
-- PART IIA FORMS OF HEALTH WARNING ON RETAIL CONTAINER OF CIGAR,
-
-- PIPE TOBACCO OR CIGARETTE TOBACCO (OTHER THAN RETAIL
-
-- CONTAINER CONTAINING ONE CIGAR)
-
-- Form 1
-
-- Form 2
-
-- Form 3
-
-- Form 4
-
-- Form 5
-
-- Form 6
-
-- Specifications:
-
-  - 1. Each form is rectangular in shape and surrounded by a black line as demarcation.
-
-  - 2. Each form is divided into 2 rectangular areas (marked “A” and “B” in the diagram below). The ratio of the length of area A to that of area B (marked “a” and “b” respectively in that diagram) is 3 to 1.
-
-  - 3. Area A contains the graphic (on which “香港特區政府忠告市民” (in the Chinese version) or “HKSAR GOVERNMENT WARNING” (in the English version) is printed) as set out in the form. Area B contains the message in words as set out in the form.
-
-  - 4. For the Chinese version, the characters are printed in “中黑體” typeface.
-
-- For the English version, the letters are printed in Univers Bold typeface.
-
-  - 5. In relation to area A—
-
-    - (a) the characters and letters are printed in white;
-
-    - (b) the graphic is printed by 4-colour printing with a minimum resolution of 300 dpi.
-
-  - 6. In relation to area B—
-
-    - (a) the background colour is white;
-
-    - (b) the characters and letters are printed in—
-
-      - (i) 100% black for black; and
-
-      - (ii) 100% yellow plus 100% magenta for red.
-
-  - (21 of 2006 s. 40)
-
-- PART IIB FORMS OF HEALTH WARNING ON RETAIL CONTAINER
-
-- CONTAINING ONE CIGAR
-
-- Form 1
-
-- Form 2
-
-- Form 3
-
-- Form 4
-
-- Form 5
-
-- Form 6
-
-- Specifications:
-
-  - 1. Each form is rectangular in shape and surrounded by a black line as demarcation. The width and the length (marked “w” and “l” respectively in the diagram below) are 7 cm and 3 cm respectively.
-
-  - 2. Each form is divided into 2 rectangular areas (marked “A” and “B” in that diagram). The lengths of area A and area B (marked “a” and “b” respectively in that diagram) are 2.25 cm and 0.75 cm respectively.
-
-  - 3. Area A contains the graphic (on which “香港特區政府忠告市民” (in the Chinese version) or “HKSAR GOVERNMENT WARNING” (in the English version) is printed) as set out in the form. Area B contains the message in words as set out in the form.
-
-  - 4. For the Chinese version, the characters are printed in “中黑體” typeface.
-
-- For the English version, the letters are printed in Univers Bold typeface.
-
-  - 5. In relation to area A—
-
-    - (a) the characters and letters are printed in white;
-
-    - (b) the graphic is printed by 4-colour printing with a minimum resolution of 300 dpi.
-
-  - 6. In relation to area B—
-
-    - (a) the background colour is white;
-
-    - (b) the characters and letters are printed in—
-
-      - (i) 100% black for black; and
-
-      - (ii) 100% yellow plus 100% magenta for red.
-
-  - (21 of 2006 s. 40)
+- (c) | clearly visible.
 
 - PART III (Repealed 21 of 2006 s. 40)
 
-- PART IIIA FORM OF HEALTH WARNING ON PRICE BOARD
+- Part 3A FORM OF HEALTH WARNING ON PRICE BOARD
 
-- OF TOBACCO PRODUCTS
+- OF TOBACCO PRODUCTS (L.N. 66 of 2017)
 
 - Specifications:
 
@@ -174,9 +400,9 @@
 
 - PART V (Repealed 21 of 2006 s. 40)
 
-- PART VI SIGN WHEN OFFERING TOBACCO
+- Part 6 SIGN WHEN OFFERING TOBACCO
 
-- PRODUCTS FOR SALE, ETC. BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
+- PRODUCTS FOR SALE, ETC. (L.N. 66 of 2017) BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
 
 - TO PERSON UNDER 18 OR GIVEN FOR
 
