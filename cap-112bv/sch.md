@@ -12,9 +12,9 @@
 
 - Double Taxation and the Prevention of Fiscal Evasion
 
-- with respect to Taxes on Income
+- with respect to Taxes on Income Article 1 Persons Covered
 
-- Article 1 Persons Covered This Agreement shall apply to persons who are residents of one or both of the Contracting Parties.
+- This Agreement shall apply to persons who are residents of one or both of the Contracting Parties.
 
 - Article 2 Taxes Covered
 
@@ -246,7 +246,9 @@
 
     - (a) a resident of a Contracting Party beneficially owns (whether as a direct beneficiary of a trust or through one or more interposed trusts) a share of the profits of a business of an enterprise carried on in the other Contracting Party by the trustee of a trust other than a trust which is treated as a company for tax purposes; and
 
-    - (b) in relation to that enterprise, that trustee has or would have, if it were a resident of the first-mentioned Party, a permanent establishment in the other Party, then the business of the enterprise carried on by the trustee through such permanent establishment shall be deemed to be a business carried on in the other Party by that resident through a permanent establishment situated in that other Party and the resident’s share of profits may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
+    - (b) in relation to that enterprise, that trustee has or would have, if it were a resident of the first-mentioned Party, a permanent establishment in the other Party,
+
+  - then the business of the enterprise carried on by the trustee through such permanent establishment shall be deemed to be a business carried on in the other Party by that resident through a permanent establishment situated in that other Party and the resident’s share of profits may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
 
   - 8. Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
@@ -268,7 +270,9 @@
 
     - (a) an enterprise of a Contracting Party participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting Party, or
 
-    - (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party, and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
+    - (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party,
+
+  - and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
   - 2. Where a Contracting Party includes in the profits of an enterprise of that Party - and taxes accordingly - profits on which an enterprise of the other Contracting Party has been charged to tax in that other Party and the profits so included are profits which would have accrued to the enterprise of the first-mentioned Party if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other Party shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting Parties shall if necessary consult each other.
 
@@ -442,7 +446,9 @@
 
   - 3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting Party shall be taxable only in that Party.
 
-- Article 15 Directors’ Fees Directors’ fees and other similar payments derived by a resident of a Contracting Party in that person’s capacity as a member of the board of directors of a company which is a resident of the other Contracting Party may be taxed in that other Party.
+- Article 15 Directors’ Fees
+
+- Directors’ fees and other similar payments derived by a resident of a Contracting Party in that person’s capacity as a member of the board of directors of a company which is a resident of the other Contracting Party may be taxed in that other Party.
 
 - Article 16 Entertainers and Sportspersons
 
@@ -480,7 +486,9 @@
 
   - 3. The provisions of Articles 14, 15, 16 and 17 shall apply to payments in respect of services rendered in connection with a business carried on by a Government of a Contracting Party.
 
-- Article 19 Students Payments which a student who is or was immediately before visiting a Contracting Party a resident of the other Contracting Party and who is present in the first-mentioned Party solely for the purpose of the student’s education receives for the purpose of the student’s maintenance or education shall not be taxed in that Party, provided that such payments arise from sources outside that Party.
+- Article 19 Students
+
+- Payments which a student who is or was immediately before visiting a Contracting Party a resident of the other Contracting Party and who is present in the first-mentioned Party solely for the purpose of the student’s education receives for the purpose of the student’s maintenance or education shall not be taxed in that Party, provided that such payments arise from sources outside that Party.
 
 - Article 20 Other Income
 
@@ -556,7 +564,9 @@
 
   - 5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting Party to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
-- Article 25 Members of Government Missions Nothing in this Agreement shall affect the fiscal privileges of members of government missions, including consular posts, under the general rules of international law or under the provisions of special agreements.
+- Article 25 Members of Government Missions
+
+- Nothing in this Agreement shall affect the fiscal privileges of members of government missions, including consular posts, under the general rules of international law or under the provisions of special agreements.
 
 - Article 26 Entry into Force
 
@@ -564,9 +574,7 @@
 
   - 2. The provisions of this Agreement shall thereupon have effect:
 
-    - (a) in the Hong Kong Special Administrative Region:
-
-  - in respect of Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the Agreement enters into force;
+    - (a) in the Hong Kong Special Administrative Region: in respect of Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the Agreement enters into force;
 
     - (b) in New Zealand:
 
@@ -574,21 +582,23 @@
 
       - (ii) in respect of other New Zealand tax, for any income year beginning on or after 1 April in the calendar year next following that in which the Agreement enters into force.
 
-- Article 27 Termination This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate the Agreement by giving the other Contracting Party written notice of termination on or before 30 June in any calendar year beginning after the expiration of 5 years from the date of its entry into force. In such event, the Agreement shall cease to have effect:
+- Article 27 Termination
 
-  - (a) in the Hong Kong Special Administrative Region:
+  - This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate the Agreement by giving the other Contracting Party written notice of termination on or before 30 June in any calendar year beginning after the expiration of 5 years from the date of its entry into force. In such event, the Agreement shall cease to have effect:
 
-- in respect of Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the notice of termination is given;
+    - (a) in the Hong Kong Special Administrative Region: in respect of Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the notice of termination is given;
 
-  - (b) in New Zealand:
+    - (b) in New Zealand:
 
-    - (i) in respect of withholding tax on income, profits or gains derived by a non-resident, for amounts paid or credited on or after 1 April in the calendar year next following that in which the notice of termination is given;
+      - (i) in respect of withholding tax on income, profits or gains derived by a non-resident, for amounts paid or credited on or after 1 April in the calendar year next following that in which the notice of termination is given;
 
-    - (ii) in respect of other New Zealand tax, for any income year beginning on or after 1 April in the calendar year next following that in which the notice of termination is given. (Chinese Translation) 第一條 所涵蓋的人
+      - (ii) in respect of other New Zealand tax, for any income year beginning on or after 1 April in the calendar year next following that in which the notice of termination is given.
 
-  - 本協定適用於屬締約一方的居民或同時屬締約雙方的居民的人。
+- (Chinese Translation) 第一條 所涵蓋的人
 
-  - 第二條 所涵蓋的稅項
+- 本協定適用於屬締約一方的居民或同時屬締約雙方的居民的人。
+
+- 第二條 所涵蓋的稅項
 
   - 1. 本協定適用於代締約方課徵的收入稅項，不論該等稅項以何種方式徵收。
 
@@ -598,11 +608,13 @@
 
     - (a) 就香港特別行政區而言︰
 
-    - (i) 利得稅；
+      - (i) 利得稅；
 
-    - (ii) 薪俸稅；及
+      - (ii) 薪俸稅；及
 
-    - (iii) 物業稅； 不論是否按個人入息課稅徵收；
+      - (iii) 物業稅；
+
+    - 不論是否按個人入息課稅徵收；
 
     - (b) 就新西蘭而言，所得稅。
 
@@ -610,7 +622,9 @@
 
   - 5. 儘管有第1、3及4款的規定，本協定所涵蓋的稅項並不包括任何屬根據任何締約方的法律所課徵的罰款或利息的款額。
 
-  - 6. 現有稅項連同在本協定簽訂後課徵的稅項，以下稱為“香港特別行政區稅項”或“新西蘭稅項”，按文意所需而定。 第三條 一般定義
+  - 6. 現有稅項連同在本協定簽訂後課徵的稅項，以下稱為“香港特別行政區稅項”或“新西蘭稅項”，按文意所需而定。
+
+- 第三條 一般定義
 
   - 1. 就本協定而言，除文意另有所指外：
 
@@ -620,9 +634,9 @@
 
         - “香港特別行政區”一詞指中華人民共和國香港特別行政區的稅務法律所適用的任何地區；及
 
-    - (ii)
+      - (ii)
 
-      - “新西蘭”一詞指新西蘭領土(但不包括托克勞)；它亦包括根據新西蘭法律及按照國際法獲指定為新西蘭可在其內就天然資源方面行使其主權的位於其領海以外的地區；
+        - “新西蘭”一詞指新西蘭領土(但不包括托克勞)；它亦包括根據新西蘭法律及按照國際法獲指定為新西蘭可在其內就天然資源方面行使其主權的位於其領海以外的地區；
 
     - (b)
 
@@ -680,7 +694,9 @@
 
   - 2. 就第十、十一及十二條而言，凡股息、利息或特許權使用費是在某締約方產生，並由某信託或透過某信託而取得，則如該收入在該信託的受託人手中須在另一締約方課稅，則該收入須當作由該另一方的居民實益擁有。
 
-  - 3. 在締約方於任何時候施行本協定時，凡有任何詞語在本協定中並無界定，則除文意另有所指外，該詞語須具有它當其時根據該方就本協定適用的稅項而施行的法律所具有的涵義，而在根據該方適用的稅務法律給予該詞語的任何涵義與根據該方的其他法律給予該詞語的涵義兩者中，以前者為準。 第四條 居民
+  - 3. 在締約方於任何時候施行本協定時，凡有任何詞語在本協定中並無界定，則除文意另有所指外，該詞語須具有它當其時根據該方就本協定適用的稅項而施行的法律所具有的涵義，而在根據該方適用的稅務法律給予該詞語的任何涵義與根據該方的其他法律給予該詞語的涵義兩者中，以前者為準。
+
+- 第四條 居民
 
   - 1.
 
@@ -710,7 +726,9 @@
 
     - (d) 如該個人既擁有香港特別行政區的居留權亦屬新西蘭的國民，或該個人既沒有香港特別行政區的居留權亦不屬新西蘭的國民，則締約雙方的主管當局須透過共同協商解決該問題。
 
-  - 3. 如並非個人的人因第1款的規定而同時屬締約雙方的居民，則該個人須當作僅屬其實際管理工作地點所處的一方的居民。 第五條 常設機構
+  - 3. 如並非個人的人因第1款的規定而同時屬締約雙方的居民，則該個人須當作僅屬其實際管理工作地點所處的一方的居民。
+
+- 第五條 常設機構
 
   - 1.
 
@@ -778,7 +796,9 @@
 
   - 9. 凡某企業透過經紀、一般佣金代理人或任何其他具獨立地位的代理人在某締約方經營業務，則只要該等人士是在其業務的通常運作中行事的，該企業不得僅因它如此經營業務而被當作在該方設有常設機構。
 
-  - 10. 如屬某締約方的居民的某公司，控制屬另一締約方的居民的其他公司或在該另一締約方(不論是透過常設機構或以其他方式)經營業務的其他公司，或受該其他公司所控制，此項事實本身並不會令上述其中一間公司成為另一間公司的常設機構。 第六條 來自不動產的收入
+  - 10. 如屬某締約方的居民的某公司，控制屬另一締約方的居民的其他公司或在該另一締約方(不論是透過常設機構或以其他方式)經營業務的其他公司，或受該其他公司所控制，此項事實本身並不會令上述其中一間公司成為另一間公司的常設機構。
+
+- 第六條 來自不動產的收入
 
   - 1. 某締約方的居民自位於另一締約方的不動產而取得的收入(包括自農業、林業或捕魚業取得的收入)，可在該另一方徵稅。
 
@@ -790,7 +810,9 @@
 
   - 4. 本條第2款提述的權利，須視為處於與其有關的財產所處的地方或處於會進行勘探或開發的地方。
 
-  - 5. 第1及3款的規定亦適用於來自企業的不動產的收入。 第七條 營業利潤
+  - 5. 第1及3款的規定亦適用於來自企業的不動產的收入。
+
+- 第七條 營業利潤
 
   - 1. 某締約方的企業的利潤只可在該方徵稅，但如該企業透過位於另一締約方的常設機構在該另一方經營業務則除外。如該企業如前述般經營業務，其利潤可在該另一方徵稅，但以該等利潤中可歸因於該常設機構的利潤為限。
 
@@ -808,11 +830,15 @@
 
     - (a) 某締約方的居民實益擁有(不論作為信託的直接受益人或透過一項或多項中間信託)由某信託(就稅收而言視作公司的信託除外)的受託人在另一締約方內經營的某企業的業務的一部分利潤；而
 
-    - (b) 就該企業而言，該受託人在該另一方擁有常設機構或如該受託人屬首述一方的居民，該受託人會在該另一方擁有常設機構， 則由該受託人透過該常設機構所經營的該企業的業務，須被當作為該居民透過位於該另一方的常設機構在該另一方所經營的業務，而該部分屬該居民的利潤，可在該另一方徵稅(但僅限於可歸因於該常設機構的部分)。
+    - (b) 就該企業而言，該受託人在該另一方擁有常設機構或如該受託人屬首述一方的居民，該受託人會在該另一方擁有常設機構，
+
+  - 則由該受託人透過該常設機構所經營的該企業的業務，須被當作為該居民透過位於該另一方的常設機構在該另一方所經營的業務，而該部分屬該居民的利潤，可在該另一方徵稅(但僅限於可歸因於該常設機構的部分)。
 
   - 8. 如利潤包括在本協定其他條文另有規定的收入項目，該等條文的規定不受本條的規定影響。
 
-  - 9. 本條不影響任何締約方在任何時候有效的、影響對來自任何形式的保險的收入的課稅的法律規定。 第八條 航運及空運
+  - 9. 本條不影響任何締約方在任何時候有效的、影響對來自任何形式的保險的收入的課稅的法律規定。
+
+- 第八條 航運及空運
 
   - 1. 某締約方的企業自營運船舶或航空器從事國際運輸所得的利潤，只可在該方徵稅。
 
@@ -820,15 +846,21 @@
 
   - 3. 第1及2款的規定亦適用於來自參與聯營、聯合業務或國際營運機構的利潤。
 
-  - 4. 就本條而言，凡在某締約方以船舶或航空器載運乘客、牲畜、郵件、貨物或商品至該方內某地方，自該等載運而取得的利潤，須視為來自僅限於在該方內的地方之間的運輸的利潤。 第九條 相聯企業
+  - 4. 就本條而言，凡在某締約方以船舶或航空器載運乘客、牲畜、郵件、貨物或商品至該方內某地方，自該等載運而取得的利潤，須視為來自僅限於在該方內的地方之間的運輸的利潤。
+
+- 第九條 相聯企業
 
   - 1. 凡
 
     - (a) 某締約方的企業直接或間接參與另一締約方的企業的管理、控制或資本，或
 
-    - (b) 相同的人直接或間接參與某締約方的企業的和另一締約方的企業的管理、控制或資本， 而在上述任何一種情況下，該兩間企業之間在商業或財務關係上訂立或施加的條件，是有別於互相獨立的企業之間所訂立的條件的，則若非因該等條件便本應會產生而歸於其中一間企業、但因該等條件而未有產生而歸於該企業的利潤，可計算在該企業的利潤之內，並據此徵稅。
+    - (b) 相同的人直接或間接參與某締約方的企業的和另一締約方的企業的管理、控制或資本，
 
-  - 2. 凡某締約方將某些利潤計算在該方的某企業的利潤之內，並據此徵稅，而另一締約方的某企業已在該另一方就該等被計算在內的利潤課稅，如假設上述兩間企業之間訂立的條件正如互相獨立的企業之間所訂立的條件一樣，該等被計算在內的利潤是會產生而歸於首述一方的該企業的，則該另一方須就其對該等利潤徵收的稅額，作出適當的調整。在斷定上述調整時，須充分顧及本協定的其他規定，而締約雙方的主管當局在有必要的情況下須共同磋商。 第十條 股息
+  - 而在上述任何一種情況下，該兩間企業之間在商業或財務關係上訂立或施加的條件，是有別於互相獨立的企業之間所訂立的條件的，則若非因該等條件便本應會產生而歸於其中一間企業、但因該等條件而未有產生而歸於該企業的利潤，可計算在該企業的利潤之內，並據此徵稅。
+
+  - 2. 凡某締約方將某些利潤計算在該方的某企業的利潤之內，並據此徵稅，而另一締約方的某企業已在該另一方就該等被計算在內的利潤課稅，如假設上述兩間企業之間訂立的條件正如互相獨立的企業之間所訂立的條件一樣，該等被計算在內的利潤是會產生而歸於首述一方的該企業的，則該另一方須就其對該等利潤徵收的稅額，作出適當的調整。在斷定上述調整時，須充分顧及本協定的其他規定，而締約雙方的主管當局在有必要的情況下須共同磋商。
+
+- 第十條 股息
 
   - 1. 由屬某締約方的居民的公司支付予另一締約方的居民的股息，可在該另一方徵稅。
 
@@ -884,7 +916,9 @@
 
   - 7. 如某公司是某締約方的居民，並自另一締約方取得利潤或收入，則該另一方不得對該公司就某股份支付的股息徵稅(但在有關股息是支付予該另一方的居民的範圍內，或在持有該股份是與位於該另一方的常設機構有實際關連的範圍內，則屬例外)，而即使支付的股息或未派發利潤的全部或部分，是在該另一方產生的利潤或收入，該另一方亦不得對該公司的未派發利潤徵收未派發利潤的稅項。
 
-  - 8. 任何與股息轉讓，或與產生或轉讓孳生股息的股份或其他權利有關的人，或與成立、收購或維持作為該股息的實益擁有人的公司或與執行其運作有關的人，如其主要目的或其中一個主要目的是利用本條，則不得根據本條獲得寬免。 第十一條 利息
+  - 8. 任何與股息轉讓，或與產生或轉讓孳生股息的股份或其他權利有關的人，或與成立、收購或維持作為該股息的實益擁有人的公司或與執行其運作有關的人，如其主要目的或其中一個主要目的是利用本條，則不得根據本條獲得寬免。
+
+- 第十一條 利息
 
   - 1. 產生於某締約方而支付予另一締約方的居民的利息，可在該另一方徵稅。
 
@@ -916,7 +950,7 @@
 
     - 儘管有第2款的規定，在某締約方產生的利息，如為屬另一締約方的居民所實益擁有，而該居民是一間與支付人沒有關係且是完全獨立地與支付人進行交易的金融機構，則該利息須獲首述締約方豁免繳稅。就本條而言，“金融機構”一詞指銀行或符合以下說明的其他企業︰其利潤主要來自在金融市場發債融資或接受有息存款，以及將該等資金用於營運提供融資業務。
 
-  - 5. 儘管有第4款的規定，在下述情況下，該款提述的利息可在它所產生的一方被徵稅，但稅率不得超過該利息總額的百份之十︰
+  - 5. 儘管有第4款的規定，在下述情況下，該款提述的利息可在它所產生的一方被徵稅，但稅率不得超過該利息總額的百份之十 ︰
 
     - (a)
 
@@ -934,7 +968,9 @@
 
   - 9. 凡因支付人與實益擁有人之間或他們兩人與某其他人之間的特殊關係，以致所支付的利息的款額，無論因何理由屬超出支付人與實益擁有人在沒有上述關係時會同意的款額，則本條的規定只適用於該會同意的款額。在此情況下，多付的部分仍須在充分顧及本協定的其他規定下，按照每一締約方的法律徵稅。
 
-  - 10. 任何與利息轉讓、與產生或轉讓孳生利息的債權或其他權利有關的人，或與成立、收購或維持作為該利息的實益擁有人的人或與執行其運作有關的人，如其主要目的或其中一個主要目的是利用本條，則不得根據本條獲得寬免。 第十二條 特許權使用費
+  - 10. 任何與利息轉讓、與產生或轉讓孳生利息的債權或其他權利有關的人，或與成立、收購或維持作為該利息的實益擁有人的人或與執行其運作有關的人，如其主要目的或其中一個主要目的是利用本條，則不得根據本條獲得寬免。
+
+- 第十二條 特許權使用費
 
   - 1. 產生於某締約方而支付予另一締約方的居民的特許權使用費，可在該另一方徵稅。
 
@@ -960,7 +996,9 @@
 
   - 6. 凡因支付人與實益擁有人之間或他們兩人與某其他人之間的特殊關係，以致所支付的特許權使用費的款額，無論因何理由屬超出支付人與實益擁有人在沒有上述關係時會同意的款額，則本條的規定只適用於該會同意的款額。在此情況下，多付的部分仍須在充分顧及本協定的其他規定下，按照每一締約方的法律徵稅。
 
-  - 7. 任何與特許權使用費轉讓，或與產生或轉讓孳生特許權使用費的權利有關的人，或與成立、收購或維持作為該特許權使用費的實益擁有人的人或與執行其運作有關的人，如其主要目的或其中一個主要目的是利用本條，則不得根據本條獲得寬免。 第十三條 財產轉讓
+  - 7. 任何與特許權使用費轉讓，或與產生或轉讓孳生特許權使用費的權利有關的人，或與成立、收購或維持作為該特許權使用費的實益擁有人的人或與執行其運作有關的人，如其主要目的或其中一個主要目的是利用本條，則不得根據本條獲得寬免。
+
+- 第十三條 財產轉讓
 
   - 1. 某締約方的居民自轉讓位於另一締約方並屬第六條所提述的不動產而取得的收入或收益，可在該另一方徵稅。
 
@@ -976,7 +1014,9 @@
 
     - (c) 符合以下說明的公司的股份：該公司有超過百分之五十的資產值，是來自其經營業務所在的不動產。
 
-  - 5. 就締約方對自任何財產(本條上述各款中任何一款適用之財產除外)轉讓而取得的資本性質收益進行徵稅的法律而言，本協定不影響該等法律的施行。 第十四條 來自受僱工作的入息
+  - 5. 就締約方對自任何財產(本條上述各款中任何一款適用之財產除外)轉讓而取得的資本性質收益進行徵稅的法律而言，本協定不影響該等法律的施行。
+
+- 第十四條 來自受僱工作的入息
 
   - 1. 除第十五、十七及十八條另有規定外，某締約方的居民自受僱工作而取得的薪金、工資及其他類似報酬，只可在該方徵稅，但如受僱工作是在另一締約方進行則除外。如受僱工作是在另一締約方進行，則自該受僱工作而取得的報酬可在該另一方徵稅。
 
@@ -988,15 +1028,25 @@
 
     - (c) 該報酬並非由該僱主在該另一方設有的常設機構所負擔，而在斷定可歸因於該機構的利潤時亦不可予扣除。
 
-  - 3. 儘管有本條上述各款的規定，自於某締約方的企業所營運從事國際運輸的船舶或航空器上進行受僱工作而取得的報酬，只可在該方徵稅。 第十五條 董事酬金 某締約方的居民以其作為屬另一締約方的居民的公司的董事會的成員身分所取得的董事酬金及其他類似付款，可在該另一方徵稅。 第十六條 演藝人員及運動員
+  - 3. 儘管有本條上述各款的規定，自於某締約方的企業所營運從事國際運輸的船舶或航空器上進行受僱工作而取得的報酬，只可在該方徵稅。
+
+- 第十五條 董事酬金
+
+- 某締約方的居民以其作為屬另一締約方的居民的公司的董事會的成員身分所取得的董事酬金及其他類似付款，可在該另一方徵稅。
+
+- 第十六條 演藝人員及運動員
 
   - 1. 儘管有第七及十四條的規定，某締約方的居民作為演藝人員(例如戲劇、電影、電台或電視藝人，或樂師)或作為運動員在另一締約方以上述身分進行其個人活動所取得的收入，可在該另一方徵稅。
 
-  - 2. 演藝人員或運動員以其演藝人員或運動員的身分在某締約方進行個人活動所取得的收入，如並非歸於該演藝人員或運動員，而是歸於另一人，則儘管有第七及十四條的規定，該收入可在該締約方徵稅。 第十七條 退休金
+  - 2. 演藝人員或運動員以其演藝人員或運動員的身分在某締約方進行個人活動所取得的收入，如並非歸於該演藝人員或運動員，而是歸於另一人，則儘管有第七及十四條的規定，該收入可在該締約方徵稅。
+
+- 第十七條 退休金
 
   - 1. 除第十八條第2款另有規定外，作為過往的受僱工作或過往的自僱工作的代價而支付予某締約方的居民的退休金及其他類似報酬，只可在該方徵稅。
 
-  - 2. 儘管有第1款的規定，在強制性公積金計劃下以及在任何其他為取代上述計劃而設立的計劃或安排下所支付的整筆付款，只可在香港特別行政區徵稅。 第十八條 政府服務
+  - 2. 儘管有第1款的規定，在強制性公積金計劃下以及在任何其他為取代上述計劃而設立的計劃或安排下所支付的整筆付款，只可在香港特別行政區徵稅。
+
+- 第十八條 政府服務
 
   - 1.
 
@@ -1020,17 +1070,27 @@
 
     - (d) 儘管有本款(a)、(b)及(c)段的規定，如提供服務的個人屬另一締約方的居民，且有關個案屬本條第1款(b)段所述者，則相應的退休金(不論是整筆付款或分期付款)只可在該另一締約方徵稅。
 
-  - 3. 第十四、十五、十六及十七條的規定，適用於就在與某締約方的政府所經營的業務有關連的情況下提供的服務而取得的款項。 第十九條 學生 如學生在緊接前往某締約方之前是或曾是另一締約方的居民，而該學生逗留在首述一方純粹是為了接受教育，則該學生為了維持其生活或教育的目的而收取的款項，如是在首述一方以外的來源產生，則不得在該方徵稅。 第二十條 其他收入
+  - 3. 第十四、十五、十六及十七條的規定，適用於就在與某締約方的政府所經營的業務有關連的情況下提供的服務而取得的款項。
+
+- 第十九條 學生
+
+- 如學生在緊接前往某締約方之前是或曾是另一締約方的居民，而該學生逗留在首述一方純粹是為了接受教育，則該學生為了維持其生活或教育的目的而收取的款項，如是在首述一方以外的來源產生，則不得在該方徵稅。
+
+- 第二十條 其他收入
 
   - 1. 某締約方的居民的各項收入無論在何處產生，如在本協定位於本條之前的各條中未有規定，均只可在該方徵稅。
 
   - 2. 就某權利或財產支付的收入如非來自第六條第2款所界定的不動產的收入，而該收入的收款人是某締約方的居民，並在另一締約方內透過位於該另一方的常設機構經營業務，且該權利或財產是與該機構有實際關連的，則第1款的規定不適用於該收入。在此情況下，第七條的規定適用。
 
-  - 3. 儘管有第1及2款的規定，某締約方的居民在另一締約方產生的各項收入，如在本協定位於本條之前的各條中未有規定，則亦可在該另一方徵稅。 第二十一條 消除雙重課稅
+  - 3. 儘管有第1及2款的規定，某締約方的居民在另一締約方產生的各項收入，如在本協定位於本條之前的各條中未有規定，則亦可在該另一方徵稅。
+
+- 第二十一條 消除雙重課稅
 
   - 1. 在不抵觸香港特別行政區的法律中關乎容許在香港特別行政區以外的管轄區繳付的稅項用作抵免香港特別行政區稅項的規定(該等規定並不影響本條的一般性原則)的情況下，如已根據新西蘭法律和按照本協定，就屬香港特別行政區居民的人自新西蘭的來源而取得收入繳付新西蘭稅項，則不論是直接繳付或以扣除的方式繳付，所繳付的新西蘭稅項須容許用作抵免就該收入而須繳付的香港特別行政區稅項，但如此獲容許抵免的款額，不得超過按照香港特別行政區的稅務法律就該收入計算所得的香港特別行政區稅項的款額。
 
-  - 2. 在不抵觸新西蘭的法律中關乎容許在新西蘭以外的國家繳付的稅項用作抵免新西蘭稅項的規定(該等規定並不影響本條的一般性原則)的情況下，如已根據香港特別行政區法律並在與本協定相符的情況下，就新西蘭居民自香港特別行政區的來源而取得收入繳付香港特別行政區稅項(就股息而言，如股息是從利潤中支付，則不包括就該等利潤而支付的稅項)，所繳付的香港特別行政區稅項須容許用作抵免就該收入而須繳付的新西蘭稅項。 第二十二條 反歧視條文
+  - 2. 在不抵觸新西蘭的法律中關乎容許在新西蘭以外的國家繳付的稅項用作抵免新西蘭稅項的規定(該等規定並不影響本條的一般性原則)的情況下，如已根據香港特別行政區法律並在與本協定相符的情況下，就新西蘭居民自香港特別行政區的來源而取得收入繳付香港特別行政區稅項(就股息而言，如股息是從利潤中支付，則不包括就該等利潤而支付的稅項)，所繳付的香港特別行政區稅項須容許用作抵免就該收入而須繳付的新西蘭稅項。
+
+- 第二十二條 反歧視條文
 
   - 1. 任何人如就香港特別行政區而言享有該處的居留權或在該處成立為法團或以其他方式組成，而就新西蘭而言屬新西蘭國民，則該人在另一締約方不得受符合以下說明的任何課稅或與之有關連的任何規定所規限：該課稅是較在該另一方(如該另一方是香港特別行政區)享有該處的居留權或在該處成立為法團或以其他方式組成的人，或屬該另一方(如該另一方是新西蘭)的國民，在相同情況下(尤其是在居住方面)須接受或可接受的課稅及與之有關連的規定更為嚴苛。儘管有第一條的規定，本規定亦適用於並非締約一方或雙方的居民的人。
 
@@ -1060,7 +1120,9 @@
 
     - (b) 受控制的外國公司及類似規則；及
 
-    - (c) 用於確保能有效地收取及討回稅款的措施(包括保護措施)。 第二十三條 雙方協商程序
+    - (c) 用於確保能有效地收取及討回稅款的措施(包括保護措施)。
+
+- 第二十三條 雙方協商程序
 
   - 1. 如任何人認為任何締約方或締約雙方的行動導致或將導致對該人作出不符合本協定規定的課稅時，則無論該等締約方的當地法律的補救辦法如何，該人如屬某締約方的居民，可將其案件呈交該締約方的主管當局；如該案件屬第二十二條第1款的情況，而該人享有某締約方的居留權或在某締約方成立為法團或以其他方式組成(就香港特別行政區而言)，或屬某締約方的國民(就新西蘭而言)，則該人可將其案件呈交該締約方的主管當局。該案件須於就導致不符合本協定規定課稅的行動發出首次通知之時起計的三年內呈交。
 
@@ -1068,7 +1130,9 @@
 
   - 3. 締約雙方的主管當局須致力共同協商，解決就本協定的詮釋或適用而產生的任何困難或疑問。
 
-  - 4. 締約雙方的主管當局可為達成以上各款所述的協議而直接(包括透過由締約雙方的主管當局或其代表組成的聯合委員會)與對方聯絡。 第二十四條 資料交換
+  - 4. 締約雙方的主管當局可為達成以上各款所述的協議而直接(包括透過由締約雙方的主管當局或其代表組成的聯合委員會)與對方聯絡。
+
+- 第二十四條 資料交換
 
   - 1. 凡資料屬可預見攸關實施本協定的規定的資料，或可預見攸關施行或強制執行締約雙方關乎本協定所涵蓋的稅項的當地法律(但以根據該等法律作出的課稅不違反本協定者為限)的資料，締約雙方的主管當局須交換該等資料。該等資料交換不受第一條的規定所限制。
 
@@ -1084,7 +1148,13 @@
 
   - 4. 如某締約方按照本條請求提供資料，則另一締約方即使未必為其本身的稅務目的而需要該資料，仍須以其收集資料措施取得所請求的資料。前述句子所載的責任，受第3款的限制所規限，但在任何情況下，該等限制不得解釋為容許某締約方純粹因資料無關其本土利益而拒絕提供該資料。
 
-  - 5. 在任何情況下，第3款的規定均不得解釋為容許某締約方純粹因以下理由而拒絕提供該資料：該資料是由某銀行、其他金融機構、代名人或以代理人或受信人身分行事的人所持有，或該資料關乎某人的擁有權權益。 第二十五條 政府代表團成員 本協定並不影響政府代表團(包括領館)成員根據國際法的一般規則或特別協定的規定享有的財政特權。 第二十六條 協定的生效
+  - 5. 在任何情況下，第3款的規定均不得解釋為容許某締約方純粹因以下理由而拒絕提供該資料：該資料是由某銀行、其他金融機構、代名人或以代理人或受信人身分行事的人所持有，或該資料關乎某人的擁有權權益。
+
+- 第二十五條 政府代表團成員
+
+- 本協定並不影響政府代表團(包括領館)成員根據國際法的一般規則或特別協定的規定享有的財政特權。
+
+- 第二十六條 協定的生效
 
   - 1. 每一締約方均須以書面通知另一締約方已完成其法律規定的使本協定生效的程序。本協定自上述通知的較後一份的日期起生效。
 
@@ -1096,7 +1166,9 @@
 
       - (i) 就對非居民取得的收入、利潤或收益徵收的預扣稅而言，對在本協定生效的公曆年的翌年4月1日或之後支付或存入貸方帳戶的款額具有效力；
 
-      - (ii) 就其他新西蘭稅項而言，對在本協定生效的公曆年的翌年4月1日或之後開始的任何入息年度具有效力。 第二十七條 終止協定
+      - (ii) 就其他新西蘭稅項而言，對在本協定生效的公曆年的翌年4月1日或之後開始的任何入息年度具有效力。
+
+- 第二十七條 終止協定
 
   - 本協定維持有效，直至被任何締約方終止為止。任何締約方均可在本協定生效日期起5年屆滿後開始的任何公曆年的6月30日或之前向另一締約方發出書面終止通知，終止本協定。在該情況下，本協定：
 
@@ -1124,9 +1196,7 @@
 
   - 2. With reference to Articles 10 and 11: The competent authorities of the Contracting Parties shall only agree to institutions wholly or mainly owned by the Governments of the Contracting Parties that perform functions of a governmental nature.
 
-  - 3.
-
-  - With reference to Article 18:
+  - 3. With reference to Article 18:
 
   - It is understood that paragraph 2(a) applies only to:
 
@@ -1138,15 +1208,15 @@
 
     - (a) it is understood that the Article does not require the Contracting Parties to exchange information on an automatic or a spontaneous basis; and
 
-    - (b) the New Zealand competent authority may disclose information to the Office of the Ombudsmen in the investigation of complaints against the administrative actions of the New Zealand Inland Revenue Department. (Chinese Translation)
+    - (b) the New Zealand competent authority may disclose information to the Office of the Ombudsmen in the investigation of complaints against the administrative actions of the New Zealand Inland Revenue Department.
+
+- (Chinese Translation)
 
   - 1. 就第八及二十六條而言： 儘管有第二十六條第2款的規定，本協定第八條由本協定生效日起對以航空器進行的國際運輸具有效力。
 
   - 2. 就第十及十一條而言： 締約雙方的主管當局須僅議定由締約雙方的政府完全擁有或主要由締約雙方的政府擁有並執行屬政府性質的功能的機構。
 
-  - 3.
-
-  - 就第十八條而言：
+  - 3. 就第十八條而言：
 
   - 按締約雙方理解，第2(a)款只適用於：
 
@@ -1159,3 +1229,13 @@
     - (a) 按締約雙方理解，該條並不規定締約雙方須自動或自發交換資料；及
 
     - (b) 凡有就對新西蘭稅務部門的行政行動作出之投訴而進行的調查，新西蘭主管當局可向申訴專員公署披露資料。
+
+- Part 3 Paragraphs 1 and 2 of the Second Protocol to Amend the Agreement between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of New Zealand for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, signed at Auckland on 1 December 2010 and the Protocol thereto
+
+  - 1. Paragraph 4 of the Protocol to the Agreement shall be deleted and replaced by the following: “With reference to Article 24:
+
+  - The New Zealand competent authority may disclose information to the Office of the Ombudsman in the investigation of complaints against the administrative actions of the New Zealand Inland Revenue Department.”
+
+  - 2. This Second Protocol, which shall form an integral part of the Agreement, shall, upon written notifications by both Contracting Parties of the completion of their respective required approval procedures, enter into force on the date of the later of these notifications.
+
+- (L.N. 154 of 2017)
