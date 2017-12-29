@@ -4,11 +4,13 @@
 
 Fees
 
+(Format changes—E.R. 2 of 2012)
+
 Fee $
 
 Certificate of particulars in the register fee (L.N. 201 of 1995) | 45
 
-Registration fee (L.N. 201 of 1995; L.N. 171 of 2005; L.N. 92 of 2015) | 91
+Registration fee (L.N. 201 of 1995; L.N. 171 of 2005; L.N. 92 of 2015; L.N. 158 of 2017) | 100
 
 Transfer of registration mark fee | 560
 
@@ -20,111 +22,117 @@ Transfer of ownership fee
 
 Duplicate registration document fee, duplicate vehicle licence fee other than in the case of a rickshaw, or duplicate certificate of allocation fee (25 of 2005 s. 27) | 60
 
-Duplicate vehicle licence fee in the case of a rickshaw (L.N. 92 of 2015) | 12
+Duplicate vehicle licence fee in the case of a rickshaw (L.N. 92 of 2015; L.N. 158 of 2017) | 20
 
-Duplicate trade licence or permit (L.N. 92 of 2015) | 75
+Duplicate trade licence or permit (L.N. 92 of 2015; L.N. 158 of 2017) | 86
 
-(L.N. 300 of 1990; L.N. 267 of 1994; L.N 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
+(L.N. 300 of 1990; L.N. 267 of 1994; L.N 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998) Annual Licence Fees
 
-Annual Licence Fees
-
-Fee
-
-$
+Fee $
 
 1. | (a) Goods vehicle (other than van-type light goods vehicle) and special purpose vehicle—
 
-(i) not exceeding 1.9 tonnes permitted gross vehicle weight | 1175
+(i) | not exceeding 1.9 tonnes permitted gross vehicle weight | 1,175
 
-(ii) exceeding 1.9 tonnes permitted gross vehicle weight, but not exceeding 5.5 tonnes permitted gross vehicle weight | 2290
+(ii) | exceeding 1.9 tonnes permitted gross vehicle weight, but not exceeding 5.5 tonnes permitted gross vehicle weight | 2,290
 
-(iii) exceeding 5.5 tonnes permitted gross vehicle weight | 4580
+(iii) | exceeding 5.5 tonnes permitted gross vehicle weight | 4,580
 
 (b) Van-type light goods vehicle—
 
-(i) not exceeding 1.9 tonnes permitted gross vehicle weight | 2115
+(i) | not exceeding 1.9 tonnes permitted gross vehicle weight | 2,115
 
-(ii) exceeding 1.9 tonnes permitted gross vehicle weight (40 of 1991 s. 8) | 4140
+(ii) | exceeding 1.9 tonnes permitted gross vehicle weight (40 of 1991 s. 8) | 4,140
 
 2. | Public bus—
 
-(a) for the driver; and | 25
+(a) | for the driver; and | 25
 
-(b) an additional fee for each seat for a passenger in such vehicle | 50
+(b) | an additional fee for each seat for a passenger in such vehicle | 50
 
 3. | Private bus—
 
-(a) for the driver; and | 25
+(a) | for the driver; and | 25
 
-(b) an additional fee for each seat for a passenger in such vehicle | 45
+(b) | an additional fee for each seat for a passenger in such vehicle | 45
 
-4. | Taxi | 3045
+4. | Taxi | 3,045
 
 5. | Private car of which the cylinder capacity of the engine—
 
-(a) does not exceed 1500 cubic centimetres | 3815
+(a) | does not exceed 1 500 cubic centimetres | 3,815
 
-(b) exceeds 1500 cubic centimetres but does not exceed 2500 cubic centimetres | 5680
+(b) | exceeds 1 500 cubic centimetres but does not exceed 2 500 cubic centimetres | 5,680
 
-(c) exceeds 2500 cubic centimetres but does not exceed 3500 cubic centimetres | 7550
+(c) | exceeds 2 500 cubic centimetres but does not exceed 3 500 cubic centimetres | 7,550
 
-(d) exceeds 3500 cubic centimetres but does not exceed 4500 cubic centimetres | 9420
+(d) | exceeds 3 500 cubic centimetres but does not exceed 4 500 cubic centimetres | 9,420
 
-(e) exceeds 4500 cubic centimetres | 11215
+(e) | exceeds 4 500 cubic centimetres | 11,215
 
-and in addition to the appropriate fee mentioned above, in the case of a private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109) | 1460
+and in addition to the appropriate fee mentioned above, in the case of a private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109) | 1,460
 
 6. | Electrically powered passenger vehicle—
 
-(a) not exceeding 1 tonne unladen weight; and | 440
+(a) | not exceeding 1 tonne unladen weight; and | 440
 
-(b) an additional fee for each 250 kg unladen weight or part thereof | 95
+(b) | an additional fee for each 250 kg unladen weight or part thereof | 95
 
-7. | Motor cycle | 1200
+7. | Motor cycle | 1,200
 
-8. | Trailer-for each 250 kg permitted gross vehicle weight or part thereof, excluding any gross vehicle weight of the trailer imposed on the drawing vehicle | 30
+8. | Trailer—for each 250 kg permitted gross vehicle weight or part thereof, excluding any gross vehicle weight of the trailer imposed on the drawing vehicle | 30
 
-9. | Motor tricycle | 1200
+9. | Motor tricycle | 1,200
 
 10. | Invalid carriage (L.N. 92 of 2015) | 14
 
-11. | Public light bus | 8315
+11. | Public light bus | 8,315
 
-12. | Private light bus | 2635
+12. | Private light bus | 2,635
 
-13. | Rickshaw (L.N. 92 of 2015) | 55
+13. | Rickshaw (L.N. 92 of 2015; L.N. 158 of 2017) | 61
 
-(18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8)
+(18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8) Permit and Certificate Fees
 
-Permit and Certificate Fees Fee $
+Fee $
 
-1. International fiscal permit | 145
+1. | (Repealed L.N. 160 of 2017)
 
-2. International certificate | 160
+2. | (Repealed L.N. 160 of 2017)
 
-3. Certificate of maximum load and maximum permissible weight | 145
+3. | (Repealed L.N. 160 of 2017)
 
-4. Trade licence, per annum | 500
+4. | Trade licence, per annum | 500
 
-5. Closed road permit (other than for a road in Lantau), per annum— (a) for a private car (b) for a goods vehicle (c) for a bus | 540 456 456
+5. | Closed road permit (other than for a road in Lantau), per annum—
 
-5A. Closed road permit issued under regulation 49(1A) for use in connection with a trade licence (L.N. 88 of 2012) | 540
+(a) | for a private car | 540
 
-6. Closed road permit for a road in Lantau, per annum— (a) upon first issue (b) upon renewal | 900 660
+(b) | for a goods vehicle | 456
 
-7. Goods permit | 260
+(c) | for a bus | 456
 
-8. Excess passengers permit (L.N. 92 of 2015) | 170
+5A. | Closed road permit issued under regulation 49(1A) for use in connection with a trade licence (L.N. 88 of 2012) | 540
 
-9. Movement permit (L.N. 92 of 2015) | 670
+6. | Closed road permit for a road in Lantau, per annum—
 
-10. Long load permit | 200
+(a) | upon first issue | 900
 
-11. Wide load permit | 200
+(b) | upon renewal | 660
 
-12. Advertising vehicle permit | 110
+7. | Goods permit | 260
 
-13. Expressway permit | 145
+8. | Excess passengers permit (L.N. 92 of 2015; L.N. 158 of 2017) | 185
+
+9. | Movement permit (L.N. 92 of 2015; L.N. 158 of 2017) | 820
+
+10. | Long load permit (L.N. 158 of 2017) | 240
+
+11. | Wide load permit (L.N. 158 of 2017) | 240
+
+12. | Advertising vehicle permit (L.N. 158 of 2017) | 200
+
+13. | Expressway permit (L.N. 158 of 2017) | 175
 
 (L.N. 201 of 1995; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998; L.N. 171 of 2005)
 
@@ -148,4 +156,4 @@ Notes
 
   - (c) in the case of a rotary-piston engine, the volume of the space enclosed between one working face of the motor and one lobe of the stator at its maximum, expressed in cubic centimetres, less the volume of the space enclosed between one working face of the rotor and the stator at its minimum, expressed in cubic centimetres.
 
-- 3. In measuring cylinders or stator lobes for the purpose of calculating capacity, and in calculating cylinder capacity, fractions of centimetres shall be taken into account. (Format changes—E.R. 2 of 2012)
+- 3. In measuring cylinders or stator lobes for the purpose of calculating capacity, and in calculating cylinder capacity, fractions of centimetres shall be taken into account.
