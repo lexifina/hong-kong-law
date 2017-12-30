@@ -4,8 +4,6 @@
 
 Further Provisions on Applications Relating to Specified Instruments
 
-(Not yet in operation)
-
 - 1. Applications to which Schedule 3 applies This Schedule applies to—
 
   - (a) an application for a specified instrument under section 13 of this Ordinance;

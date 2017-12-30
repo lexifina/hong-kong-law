@@ -6,8 +6,6 @@
 
 Requirements Relevant to Eligibility for Specified Instruments
 
-(Not yet in operation)
-
 - Part 1 General Provisions
 
   - 1. Compliance with land-related requirements A columbarium complies with the land-related requirements only if—
