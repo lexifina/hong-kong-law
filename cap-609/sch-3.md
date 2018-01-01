@@ -4,6 +4,8 @@
 
 Savings and Transitional Provisions
 
+(Format changes—E.R. 3 of 2015)
+
 - Part 1 Savings and Transitional Provisions Relating to Commencement of this Ordinance (Added 11 of 2015 s. 7)
 
   - 1. Conduct of arbitral and related proceedings
@@ -28,9 +30,9 @@ Savings and Transitional Provisions
 
   - 4. Appointment of members of the Appointment Advisory Board The appointment of a member of the Appointment Advisory Board established under rule 3 of the Arbitration (Appointment of Arbitrators and Umpires) Rules (Cap. 341 sub. leg. B)* made before the commencement of this Ordinance is, after the commencement of this Ordinance, to continue to have effect until the expiry of the term of that appointment as if this Ordinance had not been enacted.
 
-  - *Now Cap. 609 sub. leg. B
+  - * Now Cap. 609 sub. leg. B.
 
-- Part 2 Savings and Transitional Provisions Relating to Commencement of Arbitration (Amendment) Ordinance 2015
+- Part 2 Savings and Transitional Provisions Relating to Commencement of Arbitration (Amendment) Ordinance 2015 (Part 2 added 11 of 2015 s. 7)
 
   - 1. Conduct of arbitral and related proceedings
 
@@ -38,12 +40,30 @@ Savings and Transitional Provisions
 
     - (2) In subsection (1)—
 
-      - all related proceedings (所有相關程序) includes arbitral proceedings resumed after the setting aside of the award made in the arbitration; article 21 of the UNCITRAL Model Law (《貿法委示範法》第21條) means article 21 of the UNCITRAL Model Law as given effect to by section 49(1);
+      - all related proceedings (所有相關程序) includes arbitral proceedings resumed after the setting aside of the award made in the arbitration;
 
-      - #commencement date (生效日期) means the day on which the Arbitration (Amendment) Ordinance 2015 (11 of 2015) comes into operation;
+      - article 21 of the UNCITRAL Model Law (《貿法委示範法》第21條) means article 21 of the UNCITRAL Model Law as given effect to by section 49(1);
+
+      - *commencement date (生效日期) means the day on which the Arbitration (Amendment) Ordinance 2015 (11 of 2015) comes into operation;
 
       - pre-amended Ordinance (《原本條例》) means this Ordinance as in force immediately before the commencement date.
 
-  - # Commencement date: 17 July 2015.
+  - * Commencement date: 17 July 2015.
 
-(Part 2 added 11 of 2015 s. 7) (Format changes—E.R. 3 of 2015)
+- Part 3 Savings and Transitional Provisions Relating to Arbitration (Amendment) Ordinance 2017 (Part 3 added 5 of 2017 s. 7)
+
+  - 1. Conduct of arbitral and related proceedings
+
+    - (1) This section applies to an arbitration commenced before the commencement date* of this section, whether or not the place of the arbitration is in Hong Kong.
+
+    - (2) The pre-amended Ordinance continues to apply to the arbitration and all of its related proceedings.
+
+    - (3) However, Part 11A is to apply to the arbitration or any of its related proceedings if the parties to the arbitration or those related proceedings (as appropriate) agree.
+
+    - (4) In this section—
+
+      - pre-amended Ordinance (《原有條例》) means this Ordinance as in force immediately before the commencement date of this section;
+
+      - related proceedings (相關程序), in relation to an arbitration, includes arbitral proceedings resumed after the setting aside of the award in the arbitration.
+
+  - * Commencement date: 1 January 2018.
