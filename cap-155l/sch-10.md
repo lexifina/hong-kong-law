@@ -1,30 +1,20 @@
 # Schedule 10
 
-[ss. 229, 243 & 255]
+[s. 229 & Sch. 10A]
 
-Requirements to Be Satisfied for Using Section 229(1)(b) of these Rules
+(L.N. 175 of 2017)
 
-- 1. Requirements An originating institution in a synthetic securitization transaction shall demonstrate to the satisfaction of the Monetary Authority that—
+Requirements to be Satisfied for Synthetic Securitization Transaction to be Eligible Synthetic Securitization Transaction
 
-  - (a) significant credit risk associated with the underlying exposures in the transaction has been transferred from the institution to third parties through relevant credit protection which falls within Divisions 5 to 10 of Part 4 of these Rules;
+(L.N. 175 of 2017)
 
-  - (b) any collateral obtained by the institution from any party to the transaction for hedging the credit risk of the underlying exposures is—
+- 1. Requirements The requirements specified for the purposes of section 229(1)(b)(i) in respect of an originating institution of a synthetic securitization transaction are— (L.N. 175 of 2017)
 
-    - (i) recognized collateral within the meaning of section 51(1) of these Rules if the institution uses the STC approach to calculate its credit risk for the class of exposures into which the underlying exposures fall; (L.N. 137 of 2011)
+  - (a) subject to section 2 of this Schedule, significant credit risk associated with the underlying exposures of the transaction has been transferred from the institution to third parties through relevant credit protection that is recognized collateral, a recognized guarantee or a recognized credit derivative contract under Part 4 (regardless of whether the institution uses the STC approach to calculate the credit risk of the underlying exposures if they were not securitized); (L.N. 175 of 2017)
 
-    - (ii) recognized collateral within the meaning of section 105 of these Rules if the institution uses the BSC approach to calculate its credit risk for the class of exposures into which the underlying exposures fall; or
+  - (b)-(c) (Repealed L.N. 175 of 2017)
 
-    - (iii) recognized financial collateral within the meaning of section 139(1) of these Rules if the institution uses the IRB approach to calculate its credit risk for the class of exposures into which the underlying exposures fall,
-
-  - as if the collateral were provided by any obligor of the underlying exposures, and if the collateral is provided by the SPE in the transaction, the institution has obtained the prior consent of the Monetary Authority to use the collateral as recognized collateral or recognized financial collateral for the purposes of section 243 or 255 of these Rules, as the case requires;
-
-  - (c) subject to section 2, any guarantee or credit derivative contract provided by any credit protection provider falls within—
-
-    - (i) section 98 or 99 of these Rules if the institution uses the STC approach or the IRB approach; or
-
-    - (ii) section 132 or 133 of these Rules if the institution uses the BSC approach;
-
-  - (d) the institution has obtained an opinion in writing from qualified legal counsel confirming that, in all relevant jurisdictions, the documentation for the transaction—
+  - (d) the institution has obtained an opinion in writing from qualified legal counsel (whether in-house or external) confirming that, in all relevant jurisdictions, the documentation for the transaction— (L.N. 175 of 2017)
 
     - (i) enables the institution to have valid, legally binding and enforceable rights over any collateral taken in respect of the transaction; and
 
@@ -44,26 +34,16 @@ Requirements to Be Satisfied for Using Section 229(1)(b) of these Rules
 
     - (v) increases the return to parties other than the institution, such as investors in securitization issues and third party providers of credit enhancements to the transaction, in response to a deterioration in the credit quality of the pool of underlying exposures;
 
-  - (g) where the transaction includes a clean-up call—
+  - (g) if the transaction includes a clean-up call—all the requirements set out in section 1 of Schedule 10A are met in respect of the clean-up call; and (L.N. 175 of 2017)
 
-    - (i) the exercise of the clean-up call is entirely at the discretion of the institution except where the clean-up call is exercised under circumstances beyond the control of any party to the transaction;
+  - (h) if the transaction is subject to an early amortization provision—any one or more of the requirements set out in section 2 of Schedule 10A are met in respect of the early amortization provision. (L.N. 175 of 2017)
 
-    - (ii) the clean-up call is not structured—
+  - (i)-(j) (Repealed L.N. 175 of 2017)
 
-      - (A) to reduce potential or actual losses to investors or other parties to the transaction; or
+- 2. Provisions supplementary to section 1(a) For the purposes of section 1(a) of this Schedule—
 
-      - (B) to provide credit enhancement to those investors and parties; and
+  - (a) the SPE in the securitization transaction concerned must not be recognized as a credit protection provider; and
 
-    - (iii) the clean-up call is exercisable only when 10% or less of the principal amount of the securitization issues or underlying exposures at the commencement of the transaction remains outstanding;
+  - (b) if the underlying exposures concerned consist of securitization exposures, the reference to “a corporate that has an ECAI issuer rating” in sections 98(a)(vi) and 99(1)(b)(vi) is to be construed as a reference to a corporate specified in section 243(3).
 
-  - (h) subject to paragraph (i), the institution has not committed itself to purchasing any of the securitization issues prior to their initial issue by the SPE;
-
-  - (i) where the institution or a member of its group of companies has underwritten any securitization issues in the transaction—
-
-    - (i) this has been done at an arm’s length basis; and
-
-    - (ii) this has been done after consultation with the Monetary Authority, in accordance with a timetable for the disposal of any positions held or to be held under the underwriting commitment; and
-
-  - (j) where under the transaction there is an interest rate contract or exchange rate contract between the institution and the SPE which issued the securitization issues for the purposes of enabling the SPE to hedge interest rate risk or foreign exchange risk, the contract was entered into at market rates and, notwithstanding the contract, the transaction still satisfies the requirements set out in this Schedule.
-
-- 2. Provisions supplementary to section 1(c) For the purposes of section 1(c), the SPE in the securitization transaction concerned shall not be recognized as a credit protection provider.
+- (L.N. 175 of 2017)

@@ -26,6 +26,8 @@ Specifications for Purposes of Certain Definitions in these Rules*
 
   - 10. Ocean Park Corporation.
 
+  - 11. Hong Kong Science and Technology Parks Corporation. (L.N. 175 of 2017)
+
 - Part 2 Relevant CCF in respect of Certain Off-balance Sheet Exposures
 
 - Part 3 Restricted Collective Investment Schemes

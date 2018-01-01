@@ -12,7 +12,7 @@ Transactions and Contracts not Subject to CVA Capital Charge
 
   - (c) OTC derivative transactions, credit derivative contracts and SFTs with a CCP that fall within section 226ZB(2), (3) or (4) of these Rules where the authorized institution concerned is a client of a clearing member of the CCP;
 
-  - (d) recognized credit derivative contracts (within the meaning of section 51(1), 105, 139(1) or 232A of these Rules, as the case requires) purchased by an authorized institution to provide credit protection to the institution’s banking book exposures where—
+  - (d) recognized credit derivative contracts (within the meaning of section 51(1), 105, 139(1) or 227(1) of these Rules, as the case requires) purchased by an authorized institution to provide credit protection to the institution’s banking book exposures where— (L.N. 175 of 2017)
 
     - (i) the exposures are—
 
@@ -30,6 +30,4 @@ Transactions and Contracts not Subject to CVA Capital Charge
 
     - (iii) the exposures in respect of which have been transformed into simple claims that do not have the risk characteristics of derivative contracts or SFTs. (L.N. 51 of 2013)
 
-- 2. Meaning of CCP in section 1 of this Schedule
-
-- To avoid doubt, a CCP referred to in section 1 of this Schedule may be either a qualifying CCP or a non-qualifying CCP (within the meaning of section 226V(1) of these Rules). (L.N. 51 of 2013) (Schedule 1A added L.N. 156 of 2012)
+- 2. Meaning of CCP in section 1 of this Schedule To avoid doubt, a CCP referred to in section 1 of this Schedule may be either a qualifying CCP or a non-qualifying CCP (within the meaning of section 226V(1) of these Rules). (L.N. 51 of 2013) (Schedule 1A added L.N. 156 of 2012)

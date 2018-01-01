@@ -1,24 +1,48 @@
 # Schedule 11
 
-[ss. 227, 236, 237, 239 & 240 & Sch. 7] (L.N. 137 of 2011)
+[ss. 265 & 266]
 
-Mapping of ECAI Issue Specific Ratings into Credit Quality Grades under STC(S) Approach
+Mapping of ECAI Issue Specific Ratings into Credit Quality Grades under SEC-ERBA
 
 Table A Long-term Credit Quality Grades
 
 Long-term credit quality grade | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
 
-1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA— | AAA AA+ AA AA—
+1 | AAA | Aaa | AAA | AAA | AAA
 
-2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A— | A+ A A—
+2 | AA+ | Aa1 | AA+ | AA+ | AA+
 
-3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB— | BBB+ BBB BBB—
+3 | AA | Aa2 | AA | AA | AA
 
-4 | BB+ BB BB— | Ba1 Ba2 Ba3 | BB+ BB BB— | BB+ BB BB— | BB+ BB BB—
+4 | AA- | Aa3 | AA- | AA- | AA-
 
-5 | B+ B B— CCC+ CCC CCC— CC C D | B1 B2 B3 Caa1 Caa2 Caa3 Ca C | B+ B B— CCC CC C D | B+ B B— CCC+ CCC CCC— CC C | B+ B B— CCC CC C D
+5 | A+ | A1 | A+ | A+ | A+
 
-(L.N. 137 of 2011)
+6 | A | A2 | A | A | A
+
+7 | A- | A3 | A- | A- | A-
+
+8 | BBB+ | Baa1 | BBB+ | BBB+ | BBB+
+
+9 | BBB | Baa2 | BBB | BBB | BBB
+
+10 | BBB- | Baa3 | BBB- | BBB- | BBB-
+
+11 | BB+ | Ba1 | BB+ | BB+ | BB+
+
+12 | BB | Ba2 | BB | BB | BB
+
+13 | BB- | Ba3 | BB- | BB- | BB-
+
+14 | B+ | B1 | B+ | B+ | B+
+
+15 | B | B2 | B | B | B
+
+16 | B- | B3 | B- | B- | B-
+
+17 | CCC+ CCC CCC- | Caa1 Caa2 Caa3 | CCC CC C | CCC+ CCC CCC- | CCC CC C
+
+18 | any rating below CCC- | any rating below Caa3 | any rating below C | any rating below CCC- | any rating below C
 
 Table B Short-term Credit Quality Grades
 
@@ -30,6 +54,6 @@ Short-term credit quality grade | Standard & Poor’s Ratings Services | Moody�
 
 3 | A-3 | P-3 | F3 | a-3 | J-3
 
-4 | B B-1 B-2 B-3 C D | NP | B C D | b c | NJ D
+4 | any rating below A-3 | any rating below P-3 | any rating below F3 | any rating below a-3 | any rating below J-3
 
-(L.N. 137 of 2011)
+(Schedule 11 replaced L.N. 175 of 2017)
