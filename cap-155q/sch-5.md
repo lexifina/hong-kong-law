@@ -1,6 +1,8 @@
 # Schedule 5
 
-[rr. 48 & 49]
+[rr. 48 & 49 & Sch. 6]
+
+(L.N. 176 of 2017)
 
 Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation of LMR
 

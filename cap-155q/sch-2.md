@@ -1,6 +1,8 @@
 # Schedule 2
 
-[rr. 2, 17, 25 & 35]
+[rr. 2, 17 & 25 & Sch. 4A]
+
+(L.N. 176 of 2017)
 
 Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifying Criteria Applicable to those Classes
 
