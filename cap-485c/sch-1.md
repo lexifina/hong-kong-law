@@ -1,6 +1,6 @@
 # Schedule 1
 
-[s. 2]
+[ss. 2 & 3] (L.N. 109 of 2017)
 
 Fees Prescribed for the Purposes of the Mandatory Provident Fund Schemes Ordinance (Cap. 485)
 
@@ -26,12 +26,14 @@ Item | Relevant section of the Ordinance | Description | Amount
 
 7. | (Repealed 29 of 2002 s. 14)
 
-8. | 34T | Fee payable when an application is lodged with the Authority for registration as an intermediary for carrying on regulated activities (16 of 2012 s. 28) | Nil
+8. | 34T | Fee payable when an application is lodged with the Authority for registration as an intermediary for carrying on regulated activities (16 of 2012 s. 28; L.N. 109 of 2017) | $2,340
 
-9. | 34U | Fee payable when an application is lodged with the Authority for registration as an intermediary for carrying on regulated activities for a principal intermediary (16 of 2012 s. 28) | Nil
+9. | 34U | Fee payable when an application is lodged with the Authority for registration as an intermediary for carrying on regulated activities for a principal intermediary (16 of 2012 s. 28; L.N. 109 of 2017) | $290
 
-10. | 34V | Fee payable when an application is lodged with the Authority for approval of attachment to a principal intermediary for the purpose of carrying on regulated activities (16 of 2012 s. 28) | Nil
+10. | 34V | Fee payable when an application is lodged with the Authority for approval of attachment to a principal intermediary for the purpose of carrying on regulated activities (16 of 2012 s. 28; L.N. 109 of 2017) | $130
 
-11. | 34W | Fee payable when an application is lodged with the Authority for approval as an officer with specified responsibilities in relation to the principal applicant (16 of 2012 s. 28) | Nil
+11. | 34W | Fee payable when an application is lodged with the Authority for approval as an officer with specified responsibilities in relation to the principal applicant (16 of 2012 s. 28; L.N. 109 of 2017) | $660
 
-12. | 34ZN | Annual fee payable by a registered intermediary (16 of 2012 s. 28) | Nil
+12. | 34ZN | (a) | Annual fee payable by a registered intermediary who is a principal intermediary | $1,430
+
+(b) | Annual fee payable by a registered intermediary who is a subsidiary intermediary (L.N. 109 of 2017) | $180
