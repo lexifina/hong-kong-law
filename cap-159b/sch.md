@@ -52,7 +52,7 @@ The attached document marked “ ” is a certified copy of my passport.
 
 (2) | I was admitted as a barrister in Hong Kong on the . day of . and the attached document marked “ ” is a certified copy of my admission certificate.
 
-(3) | The attached document marked “ ” is a certificate from the Bar Council stating that it knows of no reason why I should not be admitted as a solicitor.
+(3) | The attached document marked “ ” is a certificate from the Bar Council referred to in rule 20(1)(c) of the Trainee Solicitors Rules (Cap. 159 sub. leg. J) in relation to an application for exemption from employment under a trainee solicitor contract.
 
 (4) | My name was removed from the roll of barristers in Hong Kong on the . day of . and the attached document marked “ ” is a certificate to that effect from the Registrar of the High Court.
 
@@ -78,7 +78,7 @@ Commissioner for Oaths/Solicitor.
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000)
+(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 103 of 2017)
 
 _
 
