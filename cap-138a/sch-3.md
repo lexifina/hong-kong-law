@@ -1844,6 +1844,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Rhenium
 
+- Sodium chloride 0.9%
+
 - Sodium pyrophosphate
 
 - Sodium tetradecyl sulfate
@@ -1873,6 +1875,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Tuberculin
 
 - Vitamins
+
+- Water
 
 - Xantinol nicotinate
 

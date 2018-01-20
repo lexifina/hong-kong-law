@@ -1978,6 +1978,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Rhenium
 
+- Sodium chloride 0.9%
+
 - Sodium pyrophosphate
 
 - Sodium tetradecyl sulfate
@@ -2007,6 +2009,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Tuberculin
 
 - Vitamins
+
+- Water
 
 - Xantinol nicotinate
 
