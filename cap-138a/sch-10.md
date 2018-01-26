@@ -388,6 +388,8 @@ Poisons List
 
     - Atenolol; its salts
 
+    - Atezolizumab
+
     - Atomoxetine; its salts
 
     - Atorvastatin; its salts
@@ -1026,6 +1028,8 @@ Poisons List
 
     - Elaterin
 
+    - Elbasvir; its salts
+
     - Eletriptan; its salts
 
     - Elosulfase alfa
@@ -1306,6 +1310,8 @@ Poisons List
 
     - Granisetron; its salts
 
+    - Grazoprevir; its salts
+
     - Grepafloxacin; its salts; its esters
 
     - Guanabenz; its salts
@@ -1416,6 +1422,8 @@ Poisons List
 
     - Iodine-131; its salts; when contained in pharmaceutical products
 
+    - Ioflupane Iodine-123; its salts; when contained in pharmaceutical products
+
     - Ipilimumab
 
     - Iprindole; its salts
@@ -1449,6 +1457,8 @@ Poisons List
     - Itraconazole; its salts
 
     - Ivabradine; its salts
+
+    - Ixazomib; its salts
 
     - Ixekizumab
 
@@ -2508,6 +2518,8 @@ Poisons List
 
     - Ribavirin; its salts
 
+    - Ribociclib; its salts
+
     - Rilmenidine; its salts
 
     - Rilpivirine; its salts
@@ -2574,6 +2586,8 @@ Poisons List
 
     - Secukinumab
 
+    - Selexipag; its salts
+
     - Sermorelin; its salts
 
     - Sertaconazole; its salts
@@ -2587,6 +2601,8 @@ Poisons List
     - Sibutramine; its salts; any compound containing the chemical structure of 1-[1-(4-Chlorophenyl)cyclobutyl]-3- methylbutan-1-amine substituted to any degree or without substitution; its salts
 
     - Sildenafil; its salts; any compound containing the chemical structure of 5-(2-ethoxyphenyl)-1-methyl-3-propyl-1H-pyrazolo[4,3-d]pyrimidin-7(6H)-one substituted to any degree or without substitution; its salts
+
+    - Silodosin; its salts
 
     - Siltuximab
 
@@ -2761,6 +2777,8 @@ Poisons List
     - Tioconazole; its salts
 
     - Tiotropium; its salts
+
+    - Tipiracil; its salts; when contained in pharmaceutical products
 
     - Tiratricol; its salts
 
@@ -2980,7 +2998,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018)
 
     - Division B
 
