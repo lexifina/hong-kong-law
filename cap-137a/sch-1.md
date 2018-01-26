@@ -44,7 +44,9 @@ Item | Name of Substance | Definition of Substance
 
 19. | Daunorubicin | An antibiotic agent isolated from Streptomyces caeruleorubidus.
 
-19A. | Enramycin | An antibiotic agent isolated from Streptomyces fungicidicus. (L.N. 364 of 1993)
+19A. | Enramycin | An antibiotic agent isolated from Streptomyces fungicidicus. (L.N. 364 of 1989)
+
+19B. | Eprinomectin | An antibiotic agent derived from strains of Streptomyces avermitilis. (L.N. 9 of 2018)
 
 20. | Erythromycin | An antibiotic agent isolated from strains of Streptomyces erythreus.
 
@@ -74,9 +76,9 @@ Item | Name of Substance | Definition of Substance
 
 32. | Lysostaphin | An antibiotic agent isolated from Staphylococcus staphylolyticus.
 
-33. | Midecamycin | An antibiotic agent isolated from Streptomyces mycarofaciens nov.sp.
+33. | Midecamycin | An antibiotic agent isolated from Streptomyces mycarofaciens nov. sp.
 
-33A. | Milbemycins | Milbemycins Antibiotic agents isolated from a strain of Streptomyces. (L.N. 480 of 1993)
+33A. | Milbemycins | Antibiotic agents isolated from a strain of Streptomyces. (L.N. 480 of 1993)
 
 34. | Mithramycin | An antibiotic agent isolated from Streptomyces plicatus.
 
