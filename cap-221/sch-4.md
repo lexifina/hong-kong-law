@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 76] (Amended 58 of 1994 s. 4)
 
-EFFECT OF ORDERS FOR ADMISSION TO HOSPITAL
+Effect of Orders for Admission to Hospital
 
-(Adaptation amendments retroactively made - see 39 of 1999 s. 3)
+(Format changes—E.R. 1 of 2018)
 
 - 1.
 
@@ -12,7 +12,9 @@ EFFECT OF ORDERS FOR ADMISSION TO HOSPITAL
 
     - (a) in the case of admission to the Correctional Services Department Psychiatric Centre, the Commissioner of Correctional Services; or
 
-    - (b) in the case of admission to a mental hospital, any person acting under the authority of the Chief Executive, to take the person to whom the order relates and convey him at any time within the period of 28 days (beginning with the date on which the order was made) to the Correctional Services Department Psychiatric Centre or the mental hospital specified by the Chief Executive. (Replaced 37 of 1973 s. 7)
+    - (b) in the case of admission to a mental hospital, any person acting under the authority of the Chief Executive,
+
+  - to take the person to whom the order relates and convey him at any time within the period of 28 days (beginning with the date on which the order was made) to the Correctional Services Department Psychiatric Centre or the mental hospital specified by the Chief Executive. (Replaced 37 of 1973 s. 7)
 
   - (2) The court by which any such order as aforesaid is made may give such directions as it thinks fit for the conveyance of a person to whom the order relates to a place of safety and his detention therein pending his admission to the Correctional Services Department Psychiatric Centre or the mental hospital within the said period of 28 days.
 

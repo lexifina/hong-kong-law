@@ -1,5 +1,7 @@
 Insurance (Levy) Order
 
-(Made by the Chief Executive in Council under section 134 of the Insurance Ordinance (Cap. 41))
+(Cap. 41, section 134)
+
+(Enacting provision omitted—E.R. 1 of 2018)
 
 [1 January 2018]

@@ -1,14 +1,10 @@
-# SCHEDULE
+# Schedule
 
-[regs. 4, 6 and 12]
+[regs. 4, 6 & 12]
 
-FORM 1
+Form 1
 
-REGISTRATION OF LOCAL NEWSPAPERS ORDINANCE (Chapter 268) NEWS AGENCIES REGISTRATION REGULATIONS PARTICULARS OF PROPRIETOR AND MANAGER
-
-OF NEWS AGENCY AND PRINTER, PUBLISHER
-
-AND EDITOR OF BULLETIN
+Registration of Local Newspapers Ordinance (Chapter 268) News Agencies Registration Regulations Particulars of Proprietor and Manager of News Agency and Printer, Publisher and Editor of Bulletin
 
 Name of news agency
 
@@ -70,7 +66,7 @@ I certify that the above particulars and my description are correct.
 
 Description of informant:
 
-(proprietor/manager/or otherwise)
+(proprietor/manager/ or otherwise)
 
 Date:
 
@@ -86,55 +82,63 @@ In the case of a firm or partnership the informant should be a partner of that f
 
 _
 
-FORM 2 REGISTRATION OF LOCAL NEWSPAPERS ORDINANCE (Chapter 268) NEWS AGENCIES REGISTRATION REGULATIONS CHANGE OF PARTICULARS OF NEWS
-
-AGENCY OR BULLETIN
+Form 2 Registration of Local Newspapers Ordinance (Chapter 268) News Agencies Registration Regulations Change of Particulars of News Agency or Bulletin
 
 Particulars | Existing | Substituted | ***Date of Change
 
-Name of news agency | . | . | .
+Name of news agency
 
-Address of news agency | . . . | . . . | .
+Address of news agency
 
-Full name of proprietor | . | . | .
+Full name of proprietor
 
-Business address of proprietor | ... Tel.: . | ... Tel.: . | .
+Business address of proprietor
 
-*Hong Kong identity card no. of proprietor | . | . | .
+Tel.: | Tel.:
 
-Signature or seal of new proprietor | .
+*Hong Kong identity card no. of proprietor
 
-Full name of manager | . | . | .
+Signature or seal of new proprietor
 
-Business address of manager | ... Tel.: . | ... Tel.: . | .
+Full name of manager
 
-*Hong Kong identity card no. of manager | . | . | .
+Business address of manager
 
-Signature or seal of new manager | .
+Tel.: | Tel.:
 
-Full name of printer of bulletin | . | . | .
+*Hong Kong identity card no. of manager
 
-Business address of printer | . . . Tel.: . | . . . Tel.: . | .
+Signature or seal of new manager
 
-*Hong Kong identity card no. of printer | . | . | .
+Full name of printer of bulletin
 
-Signature or seal of new printer | .
+Business address of printer
 
-Full name of publisher of bulletin | . | . | .
+Tel.: | Tel.:
 
-Business address of publisher | ... Tel.: . | ... Tel.: . | .
+*Hong Kong identity card no. of printer
 
-*Hong Kong identity card no. of publisher | . | . | .
+Signature or seal of new printer
 
-Signature or seal of new publisher | .
+Full name of publisher of bulletin
 
-Full name of editor of bulletin | . | . | .
+Business address of publisher
 
-Business address of editor | . . . Tel.: . | . . . Tel.: . | .
+Tel.: | Tel.:
 
-*Hong Kong identity card no. of editor | . | . | .
+*Hong Kong identity card no. of publisher
 
-Signature or seal of new editor | .
+Signature or seal of new publisher
+
+Full name of editor of bulletin
+
+Business address of editor
+
+Tel.: | Tel.:
+
+*Hong Kong identity card no. of editor
+
+Signature or seal of new editor
 
 I certify that the above particulars and my description are correct.
 
@@ -142,7 +146,7 @@ I certify that the above particulars and my description are correct.
 
 Description of informant:
 
-(proprietor/manager/or otherwise)
+(proprietor/manager/ or otherwise)
 
 Date:
 

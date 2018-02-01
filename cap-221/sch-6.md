@@ -1,10 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
 [s. 83F] (Amended 58 of 1994 s. 4)
 
-PROCEDURAL AND OTHER PROVISIONS APPLICABLE ON ORDER FOR RETRIAL
+Procedural and Other Provisions Applicable on Order for Retrial
 
-Depositions
+(Format changes—E.R. 1 of 2018) Depositions
 
 - 1. On a retrial, section 70 of the Evidence Ordinance (Cap. 8) (admissibility in evidence in criminal proceedings of deposition of person dead, etc.) shall not apply to the depositions of any person who gave evidence at the original trial or to any written statement by such a person tendered under section 81A of the Magistrates Ordinance (Cap. 227) in the committal proceedings before the original trial; but a transcript of the record of the evidence given by any witness at the original trial may, with the leave of the judge, be read as evidence—
 
@@ -32,7 +32,7 @@ Sentence on conviction at retrial
 
   - (5)
 
-    - In this paragraph “sentence” (刑罰) has the meaning assigned by section 80.
+    - In this paragraph sentence (刑罰) has the meaning assigned by section 80.
 
 - (Added 34 of 1972 s. 20)
 

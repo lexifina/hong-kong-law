@@ -1,10 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 83D & 83L] (Amended 58 of 1994 s. 4)
 
-CONSEQUENCES AND EFFECT OF ORDER FOR ADMISSION TO HOSPITAL UNDER SECTION 83D OR 83L
+Consequences and Effect of Order for Admission to Hospital under Section 83D or 83L
 
-(Adaptation amendments retroactively made - see 39 of 1999 s. 3)
+(Format changes—E.R. 1 of 2018)
 
 - 1.
 

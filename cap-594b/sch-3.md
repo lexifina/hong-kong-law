@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 5]
 
-ESCORT FEE
+Escort Fee
 
 Item | Particulars | Fee
 

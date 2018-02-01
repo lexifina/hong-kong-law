@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 6]
 
-ADMINISTRATION FEE FOR CHANGE
+Administration Fee for Change
 
 Item | Particulars | Administration fee
 

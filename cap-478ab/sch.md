@@ -362,7 +362,7 @@
 
 - (L.N. 142 of 2016)
 
-- 9D. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Tankers) Regulation —
+- 9D. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Tankers) Regulation (Cap. 478 sub. leg. AG)— (E.R. 1 of 2018)
 
 - (a) | For issue of a certificate of proficiency | Nil
 

@@ -1,18 +1,20 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [ss. 3, 32, 33 & 34]
 
-OCCUPATIONAL DISEASES
+Occupational Diseases
+
+(Format changes—E.R. 1 of 2018)
 
 Item | Description of occupational disease | Nature of trade, industry or process | Prescribed period for purposes of section 32
 
-A. CAUSED BY PHYSICAL AGENTS
+A. Caused by Physical Agents
 
 A1 | Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues or of the bones, or blood dyscrasia, or cataract, due to electro-magnetic radiations (other than radiant heat), or to ionising particles | Any occupation involving exposure to electro-magnetic radiations other than radiant heat, or to ionising particles. | 10 years.
 
 A2 | Heat cataract | Any occupation involving frequent or prolonged exposure to rays from molten or red-hot material. | 3 years.
 
-A3 | Dysbarism, including decompression sickness, barotrauma and osteonecrosis | Any occupation involving subjection to compressed or rarefied air or other gases or gaseous mixtures. | 1 year. In the case of arthritis—5 years.
+A3 | Dysbarism, including decompression sickness, barotrauma and osteonecrosis | Any occupation involving subjection to compressed or rarefied air or other gases or gaseous mixtures. | 1 year. In the case of arthritis —5 years.
 
 A4 | Cramp of the hand or forearm due to repetitive movements | Any occupation involving prolonged periods of handwriting, typing or other repetitive movements of the fingers, hand or arm. | 1 year.
 
@@ -28,19 +30,23 @@ A9 | Carpal tunnel syndrome | Any occupation involving repetitive use of hand-he
 
 (Added L.N. 146 of 1999)
 
-B. CAUSED BY BIOLOGICAL AGENTS
+B. Caused by Biological Agents
 
 B1 | Anthrax | Any occupation involving contact with animals infected with anthrax or the handling (including the loading and unloading or transport) of animal products or residues. | 1 month.
 
 B2 | Glanders | Any occupation involving contact with equine animals or their carcasses. | 1 month.
 
-B3 | Infection by leptospira | Any occupation involving— (a) work in places which are, or are liable to be, infested by rats, field mice or voles, or other small mammals; (b) work at dog kennels or the care or handling of dogs; (c) contact with bovine animals or their meat products or pigs or their meat products. | 3 months.
+B3 | Infection by leptospira | Any occupation involving— (a) work in places which are, or are liable to be, infested by rats, field mice or voles, or other small mammals; (b) work at dog kennels or the care or handling of dogs; | 3 months.
+
+(c) contact with bovine animals or their meat products or pigs or their meat products.
 
 B4 | Pulmonary disease due to the inhalation of the dust of mouldy hay or other mouldy vegetable produce, and characterized by symptoms and signs attributable to a reaction in the peripheral part of the bronchopulmonary system, and giving rise to a defect in gas exchange (Farmer’s lung) | Any occupation involving exposure to the dust of mouldy hay or other mouldy vegetable produce by reason of employment— (a) in agriculture, horticulture or forestry; or (b) loading or unloading or handling in storage such hay or other vegetable produce; or (c) handling bagasse. | 1 year.
 
 B5 | Infection by organisms of the genus brucella | Any occupation involving contact with— (a) animals infected by brucella, or their carcasses or parts thereof, or their untreated products; or (b) laboratory specimens or vaccines of, or containing, brucella. | 1 year.
 
-B6 | Tuberculosis | Any occupation involving close and frequent contacts with a source or sources of tuberculosis infection by reason of employment— (a) in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing; | 6 months.
+B6 | Tuberculosis | Any occupation involving close and frequent contacts with a source or sources of tuberculosis infection by reason of employment— | 6 months.
+
+(a) in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing;
 
 (b) in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity; (c) as a research worker engaged in research in connection with tuberculosis;
 
@@ -56,15 +62,25 @@ B10 | Legionnaires’ disease | Any occupation involving the repair, maintenance
 
 (Added L.N. 146 of 1999)
 
-B11 | Severe acute respiratory syndrome | Any occupation involving close and frequent contacts with a source or sources of severe acute respiratory syndrome infection by reason of employment— (a) in the medical treatment or nursing of a person suffering from severe acute respiratory syndrome, or in a service ancillary to that treatment or nursing; (b) in attending to a person suffering from severe acute respiratory syndrome, where the need for attendance arises by reason of the person’s physical or mental infirmity; (c) in identifying, detecting, tracing, isolating, detaining, supervising or surveillance of a person suffering from severe acute respiratory syndrome; (d) as a research worker engaged in research in connection with severe acute respiratory syndrome, or in a service ancillary to that research; or (e) as a laboratory worker, pathologist, post-mortem worker or funeral services worker, where the employment involves the handling of any human body or other materials that are a source of severe acute respiratory syndrome infection, or in a service ancillary to that handling. | 1 month.
+B11 | Severe acute respiratory syndrome | Any occupation involving close and frequent contacts with a source or sources of severe acute respiratory syndrome infection by reason of employment— | 1 month.
+
+(a) in the medical treatment or nursing of a person suffering from severe acute respiratory syndrome, or in a service ancillary to that treatment or nursing;
+
+(b) in attending to a person suffering from severe acute respiratory syndrome, where the need for attendance arises by reason of the person’s physical or mental infirmity; (c) in identifying, detecting, tracing, isolating, detaining, supervising or surveillance of a person suffering from severe acute respiratory syndrome;
+
+(d) as a research worker engaged in research in connection with severe acute respiratory syndrome, or in a service ancillary to that research; or
+
+(e) as a laboratory worker, pathologist, post-mortem worker or funeral services worker, where the employment involves the handling of any human body or other materials that are a source of severe acute respiratory syndrome infection, or in a service ancillary to that handling.
 
 (Added L.N. 213 of 2004)
 
-B12 | Avian influenza A | Any occupation involving close and frequent contacts with a source or sources of avian influenza A infection by reason of employment— (a) as a worker engaged in the handling of poultry or birds or their uncooked remains or residues, or their untreated products, that are a source of avian influenza A infection, or in a service ancillary to that handling; (Amended L.N. 13 of 2005) (b) as a research worker engaged in research in connection with avian influenza A, or in a service ancillary to that research; or (c) as a laboratory worker engaged in the handling of materials that are a source of avian influenza A infection, or in a service ancillary to that handling. | 14 days.
+B12 | Avian influenza A | Any occupation involving close and frequent contacts with a source or sources of avian influenza A infection by reason of employment— (a) as a worker engaged in the handling of poultry or birds or their uncooked remains or residues, or their untreated products, that are a source of avian influenza A infection, or in a service ancillary to that handling; (Amended L.N. 13 of 2005) | 14 days.
+
+(b) as a research worker engaged in research in connection with avian influenza A, or in a service ancillary to that research; or (c) as a laboratory worker engaged in the handling of materials that are a source of avian influenza A infection, or in a service ancillary to that handling.
 
 (Added L.N. 213 of 2004)
 
-C. CAUSED BY CHEMICAL AGENTS
+C. Caused by Chemical Agents
 
 C1 | Poisoning by lead or a compound of lead | Any occupation involving the use or handling of, or exposure to the fumes, dust or vapour of, lead or a compound of lead, or a substance containing lead. | 2 years. In the case of nephritis —4 years.
 
@@ -110,7 +126,7 @@ C21 | Localised new growth of the skin, papillomatous or keratotic | Any occupat
 
 C22 | Occupational vitiligo | Any occupation involving the use or handling of, or exposure to, paratertiary-butyl phenol, paratertiary-butyl catechol, para-amyl-phenol, hydroquinone or the monobenzyl or monobutyl ether of hydroquinone. | 1 year.
 
-D. CAUSED BY MISCELLANEOUS AGENTS
+D. Caused by Miscellaneous Agents
 
 D1 | Inflammation or ulceration of the skin produced by dust, liquid or vapour (including the condition known as chloracne but excluding chrome ulceration) | Any occupation involving exposure to dust, liquid or vapour, capable of irritating the skin. | 1 year.
 
@@ -120,8 +136,14 @@ D3 | Carcinoma of the nasal cavity or associated air sinuses (nasal carcinoma) |
 
 D4 | Byssinosis | Any occupation involving exposure to raw cotton dust. | 1 year.
 
-D5 | Occupational asthma | Any occupation involving the use or handling of, or exposure to, any of the following agents which may irritate or sensitise the respiratory system— (a) isocyanates; (b) platinum salts; (c) fumes or dusts arising from the manufacture, transport or use of hardening agents (including epoxy resin curing agents) based on phthalic anhydride, trimellitic anhydride or triethylenet-etramine; (d) fumes arising from the use of rosin as a soldering flux; (e) formaldehyde; (f) proteolytic enzymes; (g) animals or insects used for the purposes of research or education or in laboratories; | 1 month.
+D5 | Occupational asthma | Any occupation involving the use or handling of, or exposure to, any of the following agents which may irritate or sensitise the respiratory system— (a) isocyanates; (b) platinum salts; (c) fumes or dusts arising from the manufacture, transport or use of hardening agents (including epoxy resin curing agents) based on phthalic anhydride, trimellitic anhydride or triethylenet-etramine; | 1 month.
 
-(h) dusts arising from the sowing, cultivation, harvesting, drying, handling, milling, transport or storage of barley, oats, rye, wheat or maize, or the handling, milling, transport or storage of meal or flour made therefrom. (i) any other sensitising agent inhaled at work.
+(d) fumes arising from the use of rosin as a soldering flux;
 
-(Added L.N. 146 of 1999) (Replaced L.N. 386 of 1983. Amended L.N. 52 of 1987; L.N. 397 of 1991; L.N. 410 of 1993)
+(e) formaldehyde; (f) proteolytic enzymes; (g) animals or insects used for the purposes of research or education or in laboratories;
+
+(h) dusts arising from the sowing, cultivation, harvesting, drying, handling, milling, transport or storage of barley, oats, rye, wheat or maize, or the handling, milling, transport or storage of meal or flour made therefrom; (Amended E.R. 1 of 2018)
+
+(i) any other sensitising agent inhaled at work. (Added L.N. 146 of 1999)
+
+(Replaced L.N. 386 of 1983. Amended L.N. 52 of 1987; L.N. 397 of 1991; L.N. 410 of 1993)

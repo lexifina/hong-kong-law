@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 3] (L.N. 43 of 2017)
 
-FEES
+Fees
 
 Item | Particular | Fee $
 
@@ -36,7 +36,7 @@ Item | Particular | Fee $
 
 11. | Fee payable on a notice of change of name or address of the administrator or designated person under section 22(2) of the Ordinance given in respect of a registered scheme or 2 or more registered schemes having the same administrator or designated person (as the case may be) (L.N. 362 of 1998) | Nil
 
-12. | Fee Payable on a notice of change of domicile of a registered scheme under section 37 of the Ordinance (L.N. 362 of 1998) | Nil
+12. | Fee payable on a notice of change of domicile of a registered scheme under section 37 of the Ordinance (L.N. 362 of 1998) | Nil
 
 13. | Fee payable on a notice of change of the representative employer of a group scheme under section 67(2)(gb) of the Ordinance (L.N. 362 of 1998) | Nil
 

@@ -1,8 +1,10 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [ss. 40 & 48A]
 
-MINIMUM INSURANCE COVER FOR THE PURPOSE OF SECTION 40
+Minimum Insurance Cover for the Purpose of Section 40
+
+(Format changes—E.R. 1 of 2018)
 
 1. | For the purpose of section 40(1)
 

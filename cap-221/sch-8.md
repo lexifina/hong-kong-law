@@ -1,9 +1,21 @@
-# SCHEDULE 8
+# Schedule 8
 
 [s. 113B]
 
-LEVEL OF FINES FOR OFFENCES
+Level of Fines for Offences
 
-Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 | $2,000 $5,000 $10,000 $25,000 $50,000 $100,000
+(Format changes—E.R. 1 of 2018)
+
+Level 1 | $2,000
+
+Level 2 | $5,000
+
+Level 3 | $10,000
+
+Level 4 | $25,000
+
+Level 5 | $50,000
+
+Level 6 | $100,000
 
 (Added 58 of 1994 s. 3)

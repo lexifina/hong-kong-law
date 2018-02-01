@@ -1,8 +1,10 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [s. 38]
 
-SPECIFIED STRUCTURES AND WORKS
+Specified Structures and Works
+
+(Format changes—E.R. 1 of 2018)
 
 - 1. Any building, edifice, wall, fence, or chimney, whether constructed wholly or partly above or below ground level.
 

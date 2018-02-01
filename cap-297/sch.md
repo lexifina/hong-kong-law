@@ -32,7 +32,7 @@ Prescribed Offices
 
   - 13. Any office occupied by the executive, professional, managerial, technical, inspectorate or secretarial staff of the Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 11)
 
-  - 14. Any office of Senior Officer or Officer in the Government Flying Service mentioned in Schedule 1 to the Government Flying Service (General) Regulation (Cap. 322 sub. leg. B) (Added L.N. 140 of 1999)
+  - 14. Any office of Senior Officer or Officer in the Government Flying Service mentioned in Schedule 1 to the Government Flying Service (General) Regulation (Cap. 322 sub. leg. B) (Added L.N. 140 of 1999. Amended E.R. 1 of 2018)
 
 - Part 2 Other Offices
 

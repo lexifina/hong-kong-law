@@ -1,16 +1,16 @@
-# SCHEDULE
+# Schedule
 
 [regs. 2 & 3]
 
-FEES
+Fees
 
 Item | Description | Fee $
 
-1. | Application under section 13(1) of the Ordinance for classification by a Tribunal of an article | 2100
+1. | Application under section 13(1) of the Ordinance for classification by a Tribunal of an article | 2,100
 
-2. | Notice under section 15(1) of the Ordinance to require a Tribunal to review at a full hearing the interim classification of an article (except where such notice is given by a person referred to in section 13(2) of the Ordinance) | 1050
+2. | Notice under section 15(1) of the Ordinance to require a Tribunal to review at a full hearing the interim classification of an article (except where such notice is given by a person referred to in section 13(2) of the Ordinance) | 1,050
 
-3. | Request under section 17(1) of the Ordinance to a Tribunal to reconsider the classification of an article (except where such request is made by a person referred to in section 13(2) of the Ordinance) | 2100
+3. | Request under section 17(1) of the Ordinance to a Tribunal to reconsider the classification of an article (except where such request is made by a person referred to in section 13(2) of the Ordinance) | 2,100
 
 4. | Search of register of notices kept by Registrar under section 19(4) of the Ordinance | 33
 

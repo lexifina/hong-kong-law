@@ -1,8 +1,10 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
 [ss. 6A & 48B]
 
-APPORTIONMENT OF COMPENSATION PAYABLE TO ELIGIBLE MEMBERS OF THE FAMILY
+Apportionment of Compensation Payable to Eligible Members of the Family
+
+(Format changes—E.R. 1 of 2018)
 
 - 1. If the only eligible members of the family are spouses or cohabitees, or any combination thereof, then the compensation shall be paid to all of them in equal amounts.
 

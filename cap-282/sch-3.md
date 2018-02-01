@@ -1,8 +1,10 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [ss. 10A & 48A]
 
-MEDICAL EXPENSES PAYABLE BY AN EMPLOYER IN RESPECT OF AN INJURY DUE TO ACCIDENT ARISING OUT OF AND IN THE COURSE OF EMPLOYMENT
+Medical Expenses Payable by an Employer in Respect of an Injury Due to Accident Arising out of and in the Course of Employment
+
+(Format changes—E.R. 1 of 2018)
 
 - 1. Subject to paragraph 3, where an employee is given medical treatment as an in-patient in a hospital, the medical expenses payable by the employer are—
 

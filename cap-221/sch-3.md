@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 109A, 109G & 124] (Amended 58 of 1994 s. 4)
 
-EXCEPTED OFFENCES
+Excepted Offences
 
-The following offences are declared to be excepted offences—
+(Format changes—E.R. 1 of 2018) The following offences are declared to be excepted offences—
 
 - 1. Manslaughter.
 

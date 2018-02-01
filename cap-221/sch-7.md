@@ -1,10 +1,10 @@
-# SCHEDULE 7
+# Schedule 7
 
 [s. 83N] (Amended 58 of 1994 s. 4)
 
-APPLICATION OF PART IV OF MENTAL HEALTH ORDINANCE WHERE ORDER MADE UNDER SECTION 83N
+Application of Part IV of Mental Health Ordinance where order made under section 83N
 
-Order for custody pending trial
+(Format changes—E.R. 1 of 2018) Order for custody pending trial
 
 - 1. Where an order is made by the Court of Appeal under section 83N(3) of this Ordinance for a person to be kept in custody pending trial, sections 52A, 53, 54 and 54A of the Mental Health Ordinance (Cap. 136), shall apply to him as they apply to the persons listed in section 53(2)(a) to (d) of the Mental Health Ordinance (Cap. 136). (Amended 46 of 1988 s. 33)
 

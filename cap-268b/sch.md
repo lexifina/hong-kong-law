@@ -1,12 +1,10 @@
-# SCHEDULE
+# Schedule
 
-[regs. 3, 5, 11 and 13]
+[regs. 3, 5, 11 & 13] (Amended E.R. 1 of 2018)
 
-FORM 1
+Form 1
 
-REGISTRATION OF LOCAL NEWSPAPERS ORDINANCE (Chapter 268) NEWSPAPERS REGISTRATION AND DISTRIBUTION REGULATIONS PARTICULARS OF PROPRIETOR, PRINTER, PUBLISHER
-
-AND EDITOR OF LOCAL NEWSPAPER
+Registration of Local Newspapers Ordinance (Chapter 268) Newspapers Registration and Distribution Regulations Particulars of Proprietor, Printer, Publisher and Editor of Local Newspaper
 
 Name of local newspaper
 
@@ -76,11 +74,13 @@ In the case of a firm or partnership the informant should be a partner of that f
 
 (L.N. 470 of 1995)
 
-_ FORM 2
+_
+
+Form 2
 
 Licence No.
 
-REGISTRATION OF LOCAL NEWSPAPERS ORDINANCE (Chapter 268) NEWSPAPERS REGISTRATION AND DISTRIBUTION REGULATIONS NEWSPAPER DISTRIBUTOR’S LICENCE
+Registration of Local Newspapers Ordinance (Chapter 268) Newspapers Registration and Distribution Regulations Newspaper Distributor's Licence
 
 . (full name)
 
@@ -96,55 +96,65 @@ is licensed as a newspaper distributor at
 
 Fee: $ Payment received.
 
-(photograph of licensee) | . Registrar of Newspapers Date .
+(photograph of licensee) | . Registrar of Newspapers
+
+Date
 
 (L.N. 470 of 1995)
 
 _
 
-FORM 3 REGISTRATION OF LOCAL NEWSPAPERS ORDINANCE (Chapter 268) NEWSPAPERS REGISTRATION AND DISTRIBUTION REGULATIONS CHANGE OF PARTICULARS OF LOCAL NEWSPAPER
+Form 3 Registration of Local Newspapers Ordinance (Chapter 268) Newspapers Registration and Distribution Regulations Change of Particulars of Local Newspaper
 
 Particulars | Existing | Substituted | ***Date of Change
 
-Name of local newspaper | . | . | .
+Name of local newspaper
 
-Address of local newspaper | ... | ... | .
+Address of local newspaper
 
-Frequency of publication | . | . | .
+Frequency of publication
 
 (half-yearly/quarterly/monthly/fortnightly/weekly/daily/or otherwise)
 
-Full name of proprietor | . | . | .
+Full name of proprietor
 
-Business address of proprietor | ... Tel.: . | ... Tel.: . | .
+Business address of proprietor
 
-*Hong Kong identity card no. of proprietor | . | . | .
+Tel.: | Tel.:
 
-Signature or seal of new proprietor | .
+*Hong Kong identity card no. of proprietor
 
-Full name of printer | . | . | .
+Signature or seal of new proprietor
 
-Business address of printer | ... Tel.: . | ... Tel.: . | .
+Full name of printer
 
-*Hong Kong identity card no. of printer | . | . | .
+Business address of printer
 
-Signature or seal of new printer | .
+Tel.: | Tel.:
 
-Full name of publisher | . | . | .
+*Hong Kong identity card no. of printer
 
-Business address of publisher | ... Tel.: . | ... Tel.: . | .
+Signature or seal of new printer
 
-*Hong Kong identity card no. of publisher | . | . | .
+Full name of publisher
 
-Signature or seal of new publisher | .
+Business address of publisher
 
-Full name of editor | . | . | .
+Tel.: | Tel.:
 
-Business address of editor | ... Tel.: . | ... Tel.: . | .
+*Hong Kong identity card no. of publisher
 
-*Hong Kong identity card no. of editor | . | . | .
+Signature or seal of new publisher
 
-Signature or seal of new editor | .
+Full name of editor
+
+Business address of editor
+
+Tel.: | Tel.:
+
+*Hong Kong identity card no. of editor
+
+Signature or seal of new editor
 
 I certify that the above particulars and my description are correct.
 

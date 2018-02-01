@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 4]
 
-SURCHARGE
+Surcharge
 
 Item | Particulars | Surcharge
 

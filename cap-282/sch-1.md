@@ -1,108 +1,248 @@
-# FIRST SCHEDULE
+# First Schedule
 
-[s. 9]
+[s. 9] (Format changes—E.R. 1 of 2018)
 
 Item | Injury | Percentage of loss of earning capacity
 
-1. | Loss of 2 limbs . | ｝
+1. | Loss of 2 limbs | ｝
 
-2. | Loss of both hands or of all fingers and both thumbs .
+2. | Loss of both hands or of all fingers and both thumbs
 
-3. | Loss of both feet . | ｝
+3. | Loss of both feet
 
-4. | Total loss of sight . | 100
+4. | Total loss of sight
 
-5. | Total paralysis . | ｝
+5. | Total paralysis | 100
 
-6. | Injuries resulting in being permanently bedridden .
+6. | Injuries resulting in being permanently bedridden
 
-7. | Paraplegia . | ｝
+7. | Paraplegia
 
 8. | Any other injury causing permanent total disablement
 
-9. | Loss of arm at shoulder . | 75 | 80 (preferred hand)
+9. | Loss of arm at shoulder | 75 | 80 (preferred hand)
 
-10. | Ankylosis of shoulder joint— in optimum position . in worst position . | 35 55
+10. | Ankylosis of shoulder joint—
 
-11. | Loss of arm between elbow and shoulder . | 75 | 80 (preferred hand)
+in optimum position | 35
 
-12. | Loss of arm at elbow . | 75 | 80 (preferred hand)
+in worst position | 55
 
-13. | Ankylosis of the elbow joint— in optimum position . in worst position . | 30 50
+11. | Loss of arm between elbow and shoulder | 75 | 80 (preferred hand)
 
-14. | Loss of arm between wrist and elbow . | 70 | 75 (preferred hand)
+12. | Loss of arm at elbow | 75 | 80 (preferred hand)
 
-15. | Loss of hand at wrist . | 70 | 75 (preferred hand)
+13. | Ankylosis of the elbow joint—
 
-16. | Ankylosis of wrist joint— in optimum position . in worst position . | 30 40
+in optimum position | 30
 
-17. | Loss of 4 fingers and thumb of one hand . | 70 | 75 (preferred hand)
+in worst position | 50
 
-18. | Loss of 4 fingers of one hand . | 60 | 65 (preferred hand)
+14. | Loss of arm between wrist and elbow | 70 | 75 (preferred hand)
 
-19. | Loss of thumb— both phalanges . one phalanx . guillotine loss of tip without loss of bone . | 30 20 8 | 32 (preferred hand) 22 (preferred hand)
+15. | Loss of hand at wrist | 70 | 75 (preferred hand)
 
-20. | Ankylosis of— interphalangeal joint of the thumb . metacarpophalangeal joint of the thumb . all these 2 joints of the thumb . | 4 8 12
+16. | Ankylosis of wrist joint—
 
-21. | Loss of index finger— 3 phalanges . 2 phalanges . one phalanx . guillotine amputation of tip without loss of bone . | 14 11 9 4 | 15 (preferred hand) 12 (preferred hand) 10 (preferred hand)
+in optimum position | 30
 
-22. | Ankylosis of— distal interphalangeal joint of the index finger . proximal interphalangeal joint of the index finger . metacarpophalangeal joint of the index finger . all these 3 joints of the index finger . | 2 3 4 9
+in worst position | 40
 
-23. | Loss of middle finger— 3 phalanges . 2 phalanges . one phalanx . guillotine amputation of tip without loss of bone . | 12 9 7 2
+17. | Loss of 4 fingers and thumb of one hand | 70 | 75 (preferred hand)
 
-24. | Ankylosis of— distal interphalangeal joint of the middle finger . proximal interphalangeal joint of the middle finger metacarpophalangeal joint of the middle finger . all these 3 joints of the middle finger . | 2 2 3 7
+18. | Loss of 4 fingers of one hand | 60 | 65 (preferred hand)
 
-25. | Loss of ring finger— 3 phalanges . 2 phalanges . one phalanx . guillotine amputation of tip without loss of bone . | 8 6 5 2
+19. | Loss of thumb—
 
-26. | Ankylosis of— distal interphalangeal joint of ring finger . proximal interphalangeal joint of ring finger . metacarpophalangeal joint of ring finger . all these 3 joints of the ring finger . | 1 2 2 5
+both phalanges | 30 | 32 (preferred hand)
 
-27. | Loss of little finger— 3 phalanges . 2 phalanges . one phalanx . guillotine amputation of tip without loss of bone . | 7 6 5 2
+one phalanx | 20 | 22 (preferred hand)
 
-28. | Ankylosis of— distal interphalangeal joint of little finger . proximal interphalangeal joint of little finger . metacarpophalangeal joint of little finger . all these 3 joints of the little finger . | 1 1 2 4
+guillotine loss of tip without loss of bone | 8
+
+20. | Ankylosis of—
+
+interphalangeal joint of the thumb | 4
+
+metacarpophalangeal joint of the thumb | 8
+
+all these 2 joints of the thumb | 12
+
+21. | Loss of index finger—
+
+3 phalanges | 14 | 15 (preferred hand)
+
+2 phalanges | 11 | 12 (preferred hand)
+
+one phalanx | 9 | 10 (preferred hand)
+
+guillotine amputation of tip without loss of bone | 4
+
+22. | Ankylosis of—
+
+distal interphalangeal joint of the index finger | 2
+
+proximal interphalangeal joint of the index finger | 3
+
+metacarpophalangeal joint of the index finger | 4
+
+all these 3 joints of the index finger | 9
+
+23. | Loss of middle finger—
+
+3 phalanges | 12
+
+2 phalanges | 9
+
+one phalanx | 7
+
+guillotine amputation of tip without loss of bone | 2
+
+24. | Ankylosis of—
+
+distal interphalangeal joint of the middle finger | 2
+
+proximal interphalangeal joint of the middle finger | 2
+
+metacarpophalangeal joint of the middle finger | 3
+
+all these 3 joints of the middle finger | 7
+
+25. | Loss of ring finger—
+
+3 phalanges | 8
+
+2 phalanges | 6
+
+one phalanx | 5
+
+guillotine amputation of tip without loss of bone | 2
+
+26. | Ankylosis of—
+
+distal interphalangeal joint of ring finger | 1
+
+proximal interphalangeal joint of ring finger | 2
+
+metacarpophalangeal joint of ring finger | 2
+
+all these 3 joints of the ring finger | 5
+
+27. | Loss of little finger—
+
+3 phalanges | 7
+
+2 phalanges | 6
+
+one phalanx | 5
+
+guillotine amputation of tip without loss of bone | 2
+
+28. | Ankylosis of—
+
+distal interphalangeal joint of little finger | 1
+
+proximal interphalangeal joint of little finger | 1
+
+metacarpophalangeal joint of little finger | 2
+
+all these 3 joints of the little finger | 4
 
 28A. | In the case of a loss of a whole finger of one hand, the following percentages shall be awarded in addition to those provided for the loss of a single finger. In this item “finger” does not include “thumb”. These additional percentages shall be awarded when 2 or more fingers of the same hand are lost in the same injury; or when one or more fingers of the same hand are lost in the same injury to a hand of which one or more fingers were lost in a previous injury, whether or not the previous injury was work related or whether compensation was paid or is payable for the loss—
 
-loss of a second finger of the hand . loss of a third finger of the hand . loss of the last finger of the hand (Added 66 of 1993 s. 21) . | 6 6 7 | 7 (preferred hand) 7 (preferred hand) 9 (preferred hand)
+loss of a second finger of the hand | 6 | 7 (preferred hand)
 
-29. | Loss of metacarpals— first (additional) . second, third, fourth or fifth (additional) . | 8 3
+loss of a third finger of the hand | 6 | 7 (preferred hand)
 
-30. | Loss of leg at hip . | 80
+loss of the last finger of the hand (Added 66 of 1993 s. 21) | 7 | 9 (preferred hand)
 
-31. | Loss of leg at or above knee . | 75
+29. | Loss of metacarpals—
 
-32. | Ankylosis of hip joint— in optimum position . in worst position . | 35 50
+first (additional) | 8
 
-33. | Loss of leg below knee . | 65
+second, third, fourth or fifth (additional) | 3
 
-34. | Ankylosis of knee joint— in optimum position . in worst position . | 25 35
+30. | Loss of leg at hip | 80
 
-35. | Loss of foot . | 55
+31. | Loss of leg at or above knee | 75
 
-36. | Ankylosis of ankle joint— in optimum position . in worst position . | 15 25
+32. | Ankylosis of hip joint—
 
-37. | Loss of toes— all of one foot . great, both phalanges . great, one phalanx . other than great, for each one toe lost . | 20 14 4 3
+in optimum position | 35
 
-38. | Loss of sight of one eye . | 50
+in worst position | 50
 
-39. | Loss of hearing of one ear . | 30
+33. | Loss of leg below knee | 65
 
-40. | Total loss of hearing, both ears . | 100
+34. | Ankylosis of knee joint—
+
+in optimum position | 25
+
+in worst position | 35
+
+35. | Loss of foot | 55
+
+36. | Ankylosis of ankle joint—
+
+in optimum position | 15
+
+in worst position | 25
+
+37. | Loss of toes—
+
+all of one foot | 20
+
+great, both phalanges | 14
+
+great, one phalanx | 4
+
+other than great, for each one toe lost | 3
+
+38. | Loss of sight of one eye | 50
+
+39. | Loss of hearing of one ear | 30
+
+40. | Total loss of hearing, both ears | 100
 
 41. | Loss or deformity of outer ear (Added 66 of 1993 s. 21) | 2
 
-42. | Loss of entire nose (Added 66 of 1993 s. 21) . | 25
+42. | Loss of entire nose (Added 66 of 1993 s. 21) | 25
 
 43. | Apparent deformity of nose (Added 66 of 1993 s. 21) | 5
 
-44. | Loss of spleen (Added 66 of 1993 s. 21) . | 5
+44. | Loss of spleen (Added 66 of 1993 s. 21) | 5
 
-45. | Loss of one kidney— if the other kidney is normal . if the other kidney is abnormal (Added 66 of 1993 s. 21) . | 15 65-90
+45. | Loss of one kidney—
 
-46. | Urethral injury— if urethral stricture requires dilation less frequently than once every 2 weeks . if urethral stricture requires dilation once every 2 weeks or more frequently . if urethra is severed (Added 66 of 1993 s. 21) . | 5 10-20 20
+if the other kidney is normal | 15
 
-47. | Impairment of urinary bladder function— impairment in form of urgency or other mild urinary bladder disorder . good reflex activity without voluntary control . poor reflex activity without voluntary control . no reflex and no voluntary control (Added 66 of 1993 s. 21) . | 5-12 13-22 23-37 38-60
+if the other kidney is abnormal (Added 66 of 1993 s. 21) | 65-90
 
-48. | Impairment of anorectal function— limited voluntary control . has reflex regulation but no voluntary control . no reflex regulation and no voluntary control (Added 66 of 1993 s. 21) . | 0-7 8-17 18-25
+46. | Urethral injury—
+
+if urethral stricture requires dilation less frequently than once every 2 weeks | 5
+
+if urethral stricture requires dilation once every 2 weeks or more frequently | 10-20
+
+if urethra is severed (Added 66 of 1993 s. 21) | 20
+
+47. | Impairment of urinary bladder function—
+
+impairment in form of urgency or other mild urinary bladder disorder | 5-12
+
+good reflex activity without voluntary control | 13-22
+
+poor reflex activity without voluntary control | 23-37
+
+no reflex and no voluntary control (Added 66 of 1993 s. 21) | 38-60
+
+48. | Impairment of anorectal function—
+
+limited voluntary control | 0-7
+
+has reflex regulation but no voluntary control | 8-17
+
+no reflex regulation and no voluntary control (Added 66 of 1993 s. 21) | 18-25
 
 Note: | (1) Total permanent loss of the use of a member shall be treated as loss of such member.
 
