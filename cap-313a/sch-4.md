@@ -4,53 +4,55 @@
 
 SPEED OF VESSELS
 
+- 1A. In this Schedule, the geographical co-ordinates of a position are based on the World Geodetic System 1984 (WGS 84). (L.N. 180 of 2017)
+
 - 1. The maximum permitted speed under regulation 19(1) is 15 knots.
 
 - 2. For the purposes of regulation 19(2)—
 
   - (a) the maximum permitted speed for a vessel of an overall length of 60 metres or less is 15 knots, and for a vessel of an overall length more than 60 metres is 10 knots, within the area bounded—
 
-    - (i) on the east, by a straight line drawn from the southern extremity of Tit Cham Chau (latitude 22o15’50.4” north, longitude 114o16’27.6” east) to the Hak Kok Tau (Cape Collinson) light beacon (latitude 22o15’46.4” north, longitude 114o15’17.9” east);
+    - (i) on the east, by a straight line drawn from the southern extremity of Tit Cham Chau (latitude 22o15.748´ north, longitude 114o16.607´ east) to the Hak Kok Tau (Cape Collinson) light beacon (latitude 22o15.681´ north, longitude 114o15.446´ east); (L.N. 180 of 2017)
 
-    - (ii) on the west, by a straight line drawn from the southern extremity of the Hung Hom Finger jetty (latitude 22o17’55.6” north, longitude 114o10’47.2” east) to the Causeway Bay Typhoon Shelter eastern breakwater light beacon (latitude 22o17’22.5” north, longitude 114o11’06” east);
+    - (ii) on the west, by a straight line drawn from the southern extremity of the Hung Hom Finger jetty (latitude 22o17.835´ north, longitude 114o10.934´ east) to the Causeway Bay Typhoon Shelter eastern breakwater light beacon (latitude 22o17.283´ north, longitude 114o11.247´ east); (L.N. 180 of 2017)
 
     - (iii) on the south, by the northern coastline of Hong Kong Island joining the extremities of the eastern and western boundaries; and
 
     - (iv) on the north, by the southern coastline of the mainland joining the extremities of the eastern and western boundaries;
 
-  - (b) the maximum permitted speed for a vessel of an overall length of 60 metres or less is 10 knots, and for a vessel of an overall length more than 60 metres is 8 knots, within the area bounded—
+  - (b) the maximum permitted speed for a vessel of an overall length of 60 metres or less is 10 knots, and for a vessel of an overall length more than 60 metres is 8 knots, within the area bounded —
 
-    - (i) on the east, by a straight line drawn from the southern extremity of the Hung Hom Finger jetty (latitude 22o17’55.6” north, longitude 114o10’47.2” east) to the Causeway Bay Typhoon Shelter eastern breakwater light beacon (latitude 22o17’22.5” north, longitude 114o11’06” east);
+    - (i) on the east, by a straight line drawn from the southern extremity of the Hung Hom Finger jetty (latitude 22o17.835´ north, longitude 114o10.934´ east) to the Causeway Bay Typhoon Shelter eastern breakwater light beacon (latitude 22o17.283´ north, longitude 114o11.247´ east); (L.N. 180 of 2017)
 
     - (ii) on the west, by straight lines joining the following positions—
 
-  - (A) | latitude | 22o16’33.5” | north,
+  - (A) | latitude | 22o16.467´ | north,
 
-  - longitude | 114o06’51.4” | east;
+  - longitude | 114o07.004´ | east; (L.N. 180 of 2017)
 
-  - (B) | latitude | 22o16’28.2” | north,
+  - (B) | latitude | 22o16.375´ | north,
 
-  - longitude | 114o06’40.2” | east;
+  - longitude | 114o06.814´ | east; (L.N. 180 of 2017)
 
-  - (C) | latitude | 22o17’55” | north,
+  - (C) | latitude | 22o17.825´ | north,
 
-  - longitude | 114o05’49” | east;
+  - longitude | 114o05.964´ | east; (L.N. 180 of 2017)
 
-  - (D) | latitude | 22o18’25” | north,
+  - (D) | latitude | 22o18.325´ | north,
 
-  - longitude | 114o05’46” | east;
+  - longitude | 114o05.914´ | east; (L.N. 180 of 2017)
 
-  - (E) | latitude | 22o18’57” | north,
+  - (E) | latitude | 22o18.858´ | north,
 
-  - longitude | 114o05’49” | east;
+  - longitude | 114o06.197´ | east; (L.N. 180 of 2017)
 
-  - (F) | latitude | 22o19’09” | north,
+  - (F) | latitude | 22o19.185´ | north,
 
-  - longitude | 114o05’59” | east;
+  - longitude | 114o06.798´ | east; (L.N. 180 of 2017)
 
-  - (G) | latitude | 22o19’31.4” | north,
+  - (G) | latitude | 22o19.432´ | north,
 
-  - longitude | 114o07’12.6” | east;
+  - longitude | 114o07.357´ | east. (L.N. 180 of 2017)
 
     - (iii) on the south, by the northern coastline of Hong Kong Island joining the extremities of the eastern and western boundaries; and
 
@@ -58,85 +60,101 @@ SPEED OF VESSELS
 
   - (c) subject to subparagraph (d), the maximum permitted speed for a vessel of an overall length of 60 metres or less is 15 knots, and for a vessel of an overall length more than 60 metres is 10 knots, within the area bounded—
 
-    - (i) on the east, by straight lines joining the following positions—
+    - (i) on the east, by—
 
-  - (A) | latitude | 22o15’20.6” | north,
+      - (A) the western coastline of Hong Kong Island from the position at latitude 22°15.251´ north, longitude 114°07.921´ east to the position at latitude 22°16.467´ north, longitude 114°07.004´ east; and
 
-  - longitude | 114o07’46.4” | east,
+      - (B) straight lines joining the following positions—
 
-  - thence along the western coastline of Hong Kong Island to a position at latitude 22o16’33.5” north, longitude 114o06’51.4” east;
+      - (I) | latitude | 22o16.467´ | north,
 
-  - (B) | latitude | 22o16’28.2” | north,
+      - longitude | 114o07.004´ | east;
 
-  - longitude | 114o06’40.2” | east;
+      - (II) | latitude | 22o16.375´ | north,
 
-  - (C) | latitude | 22o17’55” | north,
+      - longitude | 114o06.814´ | east;
 
-  - longitude | 114o05’49” | east;
+      - (III) | latitude | 22o17.825´ | north,
 
-  - (D) | latitude | 22o18’25” | north,
+      - longitude | 114o05.964´ | east;
 
-  - longitude | 114o05’46” | east;
+      - (IV) | latitude | 22o18.325´ | north,
 
-  - (E) | latitude | 22o18’57” | north,
+      - longitude | 114o05.914´ | east;
 
-  - longitude | 114o05’49” | east;
+      - (V) | latitude | 22o18.858´ | north,
 
-  - (F) | latitude | 22o19’09” | north,
+      - longitude | 114o06.197´ | east;
 
-  - longitude | 114o05’59” | east;
+      - (VI) | latitude | 22o19.185´ | north,
 
-  - (G) | latitude | 22o19’31.4” | north,
+      - longitude | 114o06.798´ | east;
 
-  - longitude | 114o07’12.6” | east;
+      - (VII) | latitude | 22o19.432´ | north,
 
-    - (ii) on the south, by straight lines joining the following positions—
+      - longitude | 114o07.357´ | east; (L.N. 180 of 2017)
 
-  - (A) | latitude | 22o15’20.6” | north,
+    - (ii) on the west, by—
 
-  - longitude | 114o07’46.4” | east;
+      - (A) straight lines joining the following positions—
 
-  - (B) | latitude | 22o14’10” | north,
+      - (I) | latitude | 22o14.075´ | north,
 
-  - longitude | 114o06’14” | east;
+      - longitude | 114o04.730´ | east;
 
-  - (C) | latitude | 22o14’10” | north,
+      - (II) | latitude | 22o15.775´ | north,
 
-  - longitude | 114o04’35” | east;
+      - longitude | 114o03.385´ | east;
 
-    - (iii) on the west, by straight lines joining the following positions—
+      - (III) | latitude | 22o17.022´ | north,
 
-  - (A) | latitude | 22o14’10” | north,
+      - longitude | 114o02.939´ | east;
 
-  - longitude | 114o04’35” | east;
+      - (IV) | latitude | 22o17.457´ | north,
 
-  - (B) | latitude | 22o15’52” | north,
+      - longitude | 114o02.732´ | east;
 
-  - longitude | 114o03’14.3” | east;
+      - (V) | latitude | 22o18.354´ | north,
 
-  - (C) | latitude | 22o17’06.8” | north,
+      - longitude | 114o02.329´ | east;
 
-  - longitude | 114o02’47.5” | east;
+      - (B) the north-eastern coastline of Lantau Island from the position at latitude 22°18.354´ north, longitude 114°02.329´ east to the position at latitude 22°20.757´ north, longitude 114°03.007´ east;
 
-  - (D) | latitude | 22o17’32.9” | north,
+      - (C) a straight line joining the following positions—
 
-  - longitude | 114o02’35.1” | east;
+      - (I) | latitude | 22o20.757´ | north,
 
-  - (E) | latitude | 22o18’45” | north,
+      - longitude | 114o03.007´ | east;
 
-  - longitude | 114o02’02.9” | east,
+      - (II) | latitude | 22o20.920´ | north,
 
-  - thence along the north-eastern coastline of Lantau Island to a position at latitude 22o20’50.9” north, longitude 114o02’51.6” east;
+      - longitude | 114o03.249´ | east;
 
-  - (F) | latitude | 22o21’00.7” | north,
+      - (D) the western coastline of Ma Wan from the position at latitude 22°20.920´ north, longitude 114°03.249´ east to the position at latitude 22°21.313´ north, longitude 114°03.397´ east; and
 
-  - longitude | 114o03’06.1” | east,
+      - (E) a straight line joining the following positions—
 
-  - thence along the western coastline of Ma Wan to a position at latitude 22o21’24.3” north, longitude 114o03’15” east;
+      - (I) | latitude | 22o21.313´ | north,
 
-  - (G) | latitude | 22o22’00” | north,
+      - longitude | 114o03.397´ | east;
 
-  - longitude | 114o03’14.9” | east; and
+      - (II) | latitude | 22o21.908´ | north,
+
+      - longitude | 114o03.396´ | east; (L.N. 180 of 2017)
+
+    - (iii) on the south, by straight lines joining the following positions—
+
+    - (A) | latitude | 22o15.251´ | north,
+
+    - longitude | 114o07.921´ | east;
+
+    - (B) | latitude | 22o14.075´ | north,
+
+    - longitude | 114o06.380´ | east;
+
+    - (C) | latitude | 22o14.075´ | north,
+
+    - longitude | 114o04.730´ | east. (L.N. 180 of 2017)
 
     - (iv) on the north, by the southern coastline of the mainland joining the extremities of the eastern and western boundaries;
 
@@ -152,25 +170,25 @@ SPEED OF VESSELS
 
     - (ii) within the area bounded by straight lines joining the following positions—
 
-  - (A) | latitude | 22o15’06” | north,
+    - (A) | latitude | 22o15.008´ | north,
 
-  - longitude | 114o07’25.8” | east;
+    - longitude | 114o07.577´ | east; (L.N. 180 of 2017)
 
-  - (B) | latitude | 22o14’43.8” | north,
+    - (B) | latitude | 22o14.638´ | north,
 
-  - longitude | 114o06’58.2” | east;
+    - longitude | 114o07.117´ | east; (L.N. 180 of 2017)
 
-  - (C) | latitude | 22o16’13.8” | north,
+    - (C) | latitude | 22o16.142´ | north,
 
-  - longitude | 114o06’07.8” | east;
+    - longitude | 114o06.280´ | east; (L.N. 180 of 2017)
 
-  - (D) | latitude | 22o16’28.2” | north,
+    - (D) | latitude | 22o16.375´ | north,
 
-  - longitude | 114o06’40.2” | east;
+    - longitude | 114o06.814´ | east; (L.N. 180 of 2017)
 
-  - (E) | latitude | 22o15’06” | north,
+    - (E) | latitude | 22o15.008´ | north,
 
-  - longitude | 114o07’25.8” | east.
+    - longitude | 114o07.577´ | east. (L.N. 180 of 2017)
 
 - 3. The maximum permitted speed under regulation 19(3) is 5 knots.
 
