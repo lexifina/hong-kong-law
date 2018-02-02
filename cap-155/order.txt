@@ -84,6 +84,15 @@ s-065.md
 s-066.md
 s-067.md
 s-068.md
+s-068A.md
+s-068B.md
+s-068C.md
+s-068D.md
+s-068E.md
+s-068F.md
+s-068G.md
+s-068H.md
+s-068I.md
 s-069.md
 s-070.md
 s-070A.md
