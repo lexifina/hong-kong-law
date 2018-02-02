@@ -6,6 +6,8 @@ Hospitals the Management and Control of which may be Vested in the Authority und
 
 Castle Peak Hospital
 
+Hong Kong Children’s Hospital (Added L.N. 20 of 2018)
+
 Hong Kong Eye Hospital (Added L.N. 385 of 1993)
 
 Kowloon Hospital
