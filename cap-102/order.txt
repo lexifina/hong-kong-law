@@ -12,11 +12,16 @@ s-010.md
 s-011.md
 s-012.md
 s-013.md
+s-013A.md
+s-013B.md
 s-014.md
 s-015.md
+s-015A.md
+s-015B.md
 s-016.md
 s-017.md
 s-018.md
+s-018A.md
 s-019.md
 s-020.md
 s-021.md
@@ -35,6 +40,10 @@ s-033.md
 s-034.md
 s-035.md
 s-036.md
+s-036A.md
 s-037.md
 s-038.md
+s-038A.md
 s-039.md
+s-040.md
+sch.md
