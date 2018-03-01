@@ -8,7 +8,7 @@ CALLING-IN POINTS
 
   - (a) Tathong Channel Separation Buoy No. 1
 
-  - (b) Hak Kok Tau (Cape Collinson)
+  - (b) (Repealed L.N. 171 of 2017)
 
   - (c) Lei Yue Mun
 
@@ -16,29 +16,27 @@ CALLING-IN POINTS
 
   - (a) Waglan Lighthouse
 
-  - (b) Lamma Channel Separation Buoy No. 1
+  - (b) (Repealed L.N. 171 of 2017)
 
   - (c) Lamma Patch
 
-  - (d) Green Island
+  - (d) (Repealed L.N. 171 of 2017)
 
 - 3. South-eastern Approaches (via Sheung Sz Mun)
 
   - (a) Waglan Lighthouse
 
-  - (b) Chesterman Buoy
+  - (b) (Repealed L.N. 171 of 2017)
 
   - (c) Lamma Patch
 
-  - (d) Green Island
+  - (d) (Repealed L.N. 171 of 2017)
 
 - 4. South-western Approaches
 
   - (a) Cheung Chau Buoy
 
-  - (b) Shek Kok Tsui
-
-  - (c) Green Island
+  - (b)-(c) (Repealed L.N. 171 of 2017)
 
 - 5. Western Approaches (via Adamasta Channel)
 
@@ -46,9 +44,7 @@ CALLING-IN POINTS
 
   - (b) Adamasta Rock
 
-  - (c) Shek Kok Tsui
-
-  - (d) Green Island
+  - (c)-(d) (Repealed L.N. 171 of 2017)
 
 - 6. Western Approaches (via north of Lantau Island)
 
@@ -56,24 +52,22 @@ CALLING-IN POINTS
 
   - (b) Castle Peak No. 1 Buoy
 
-  - (c) North West Ma Wan Traffic Light (south bound only)
-
-  - (d) Ma Wan Buoy (north bound only)
+  - (c)-(d) (Repealed L.N. 171 of 2017)
 
 - 7. North-western Approaches
 
   - (a) Urmston Road Pilot Station
 
-  - (b) Castle Peak No. 8 Buoy
+  - (b) (Repealed L.N. 171 of 2017)
 
   - (c) Castle Peak No. 1 Buoy
 
-  - (d) North West Ma Wan Traffic Light (south bound only)
+  - (d)-(e) (Repealed L.N. 171 of 2017)
 
-  - (e) Ma Wan Buoy (north bound only)
+- 8. Northern Fairway and Rambler Channel
 
-- 8. Kwai Chung Container Terminals (departure only)
+  - (a) Northern 4 Buoy
 
-  - (a) Western Quarantine Buoy
+  - (b) Cheung Tsing Bridge (L.N. 171 of 2017)
 
-- (L.N. 81 of 1997)
+- (L.N. 408 of 1994; L.N. 81 of 1997)

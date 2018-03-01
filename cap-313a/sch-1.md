@@ -14,6 +14,10 @@ VHF sector
 
 14 | Harbour
 
+02 | Harbour East
+
+63 | Lantau South
+
 Other
 
 06 | Disaster
@@ -24,12 +28,12 @@ Other
 
 Notes:
 
-(1) | Where the master of a vessel in the waters of Hong Kong is to report to the vessel traffic centre he should use the VHF channel appropriate to the VHF sector in which the vessel is presently located in those waters.
+(1) | Where the master of a vessel in the waters of Hong Kong is to report to the vessel traffic centre he should use the VHF channel appropriate to the VHF sector in which the vessel is located.
 
-(2) | Where the master of an inbound vessel outside the waters of Hong Kong is to report to the vessel traffic centre he should use the VHF channel appropriate to the VHF sector into which the vessel is to enter those waters.
+(2) | Where the master of an inbound vessel outside the waters of Hong Kong is to report to the vessel traffic centre he should use the VHF channel appropriate to the VHF sector which the vessel is to enter.
 
-(3) | Where the master of an outbound vessel outside the waters of Hong Kong is to report to the vessel traffic centre he should use the VHF channel appropriate to the VHF sector from which the vessel left those waters.
+(3) | Where the master of an outbound vessel outside the waters of Hong Kong is to report to the vessel traffic centre he should use the VHF channel appropriate to the VHF sector which the vessel left.
 
 (4) | The boundaries of the VHF sectors are delineated in the Second Schedule.
 
-(L.N. 408 of 1994)
+(L.N. 408 of 1994; L.N. 171 of 2017)
