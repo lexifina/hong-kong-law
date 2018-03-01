@@ -1,8 +1,12 @@
 # Schedule 4
 
-[ss. 55, 56, 58, 61 & 64]
+[ss. 55, 56, 58,
 
-Provisions Relating to Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Review Tribunal
+61 & 64]
+
+Provisions Relating to Anti-Money Laundering and Counter-Terrorist Financing Review Tribunal
+
+(Amended 4 of 2018 s. 28)
 
 - 1. Interpretation
 
@@ -120,9 +124,11 @@ Provisions Relating to Anti-Money Laundering and Counter-Terrorist Financing (Fi
 
       - (b) in relation to the Securities and Futures Commission, means an employee of the Commission;
 
-      - (c) in relation to the Insurance Authority, means an employee of the Authority; and (Replaced 12 of 2015 s. 164)
+      - (c) in relation to the Insurance Authority, means an employee of the Authority; (Replaced 12 of 2015 s. 164. Amended 4 of 2018 s. 28)
 
-      - (d) in relation to the Commissioner, means a public officer employed in the Customs and Excise Department.
+      - (d) in relation to the Commissioner, means a public officer employed in the Customs and Excise Department; and (Amended 4 of 2018 s. 28)
+
+      - (e) in relation to the Registrar, means a public officer employed in the Companies Registry. (Added 4 of 2018 s. 28)
 
 - 7. Preliminary conferences
 

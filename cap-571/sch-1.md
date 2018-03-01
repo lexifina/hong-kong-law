@@ -726,7 +726,7 @@ Interpretation and General Provisions
 
       - (c) Parts II and XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), for the purposes only of section 213 of this Ordinance, and so far as those Parts relate, directly or indirectly, to an advertisement mentioned in section 38B(1) of that Ordinance; (Added 30 of 2004 s. 3. Amended 28 of 2012 ss. 912 & 920)
 
-      - (d) Part 2 (except section 6) of the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance (Cap. 615); (Added 15 of 2011 s. 91)
+      - (d) Part 2 (except section 6) of the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615); (Added 15 of 2011 s. 91. Amended 4 of 2018 s. 47)
 
     - relevant share capital (有關股本) means the issued share capital of a corporation which is of a class carrying rights to vote in all circumstances at general meetings of the corporation;
 

@@ -1,6 +1,6 @@
 # Schedule 1
 
-[s. 2]
+[ss. 2 & 5A] (Replaced 4 of 2018 s. 25)
 
 Interpretation
 
@@ -70,7 +70,29 @@ Interpretation
 
       - (b) the making available of any property or financial (or related) services, by any means, directly or indirectly, to or for the benefit of a person knowing that, or being reckless as to whether, the person is a terrorist or terrorist associate; or (Amended 20 of 2012 s. 12)
 
-      - (c) the collection of property or solicitation of financial (or related) services, by any means, directly or indirectly, for the benefit of a person knowing that, or being reckless as to whether, the person is a terrorist or terrorist associate. (Added 20 of 2012 s. 12)
+      - (c) the collection of property or solicitation of financial (or related) services, by any means, directly or indirectly, for the benefit of a person knowing that, or being reckless as to whether, the person is a terrorist or terrorist associate; (Added 20 of 2012 s. 12. Amended 4 of 2018 s. 25)
+
+    - trust or company service (信託或公司服務) means the provision, in Hong Kong, by a person, by way of business, of one or more of the following services to other persons—
+
+      - (a) forming corporations or other legal persons;
+
+      - (b) acting, or arranging for another person to act—
+
+        - (i) as a director or a secretary of a corporation;
+
+        - (ii) as a partner of a partnership; or
+
+        - (iii) in a similar position in relation to other legal persons;
+
+      - (c) providing a registered office, business address, correspondence or administrative address for a corporation, a partnership or any other legal person or legal arrangement;
+
+      - (d) acting, or arranging for another person to act—
+
+        - (i) as a trustee of an express trust or a similar legal arrangement; or
+
+        - (ii) as a nominee shareholder for a person other than a corporation whose securities are listed on a recognized stock market; (Added 4 of 2018 s. 25)
+
+    - trust or company service business (信託或公司服務業務) means the business of providing a trust or company service. (Added 4 of 2018 s. 25)
 
   - 2.
 
@@ -84,6 +106,14 @@ Interpretation
 
   - 1. In this Ordinance—
 
+    - accounting professional (會計專業人士) means—
+
+      - (a) a certified public accountant or a certified public accountant (practising), as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50);
+
+      - (b) a corporate practice as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50); or
+
+      - (c) a firm of certified public accountants (practising) registered under Part IV of the Professional Accountants Ordinance (Cap. 50); (Added 4 of 2018 s. 25)
+
     - appointed insurance agent (獲委任保險代理人) has the meaning given by section 2(1) of the Insurance Companies Ordinance (Cap. 41);
 
     - authorized institution (認可機構) has the meaning given by section 2(1) of the Banking Ordinance (Cap. 155);
@@ -93,6 +123,34 @@ Interpretation
     - authorized insurer (獲授權保險人) means an insurer authorized under the Insurance Ordinance (Cap. 41); (Amended 12 of 2015 s. 162)
 
     - Commissioner (關長) means the Commissioner of Customs and Excise, any Deputy Commissioner of Customs and Excise, any Assistant Commissioner of Customs and Excise or a person to whom the Commissioner of Customs and Excise has delegated any of his or her functions under section 26;
+
+    - director (董事), in relation to—
+
+      - (a) a corporation that is a company as defined by section 2(1) of the Companies Ordinance (Cap. 622)—means a director as defined by that section; and
+
+      - (b) any other corporation—means a person (by whatever name called) who occupies in the corporation a position similar to that of a director referred to in paragraph (a); (Added 4 of 2018 s. 25)
+
+    - DNFBP (指定非金融業人士) means—
+
+      - (a) an accounting professional;
+
+      - (b) an estate agent;
+
+      - (c) a legal professional; or
+
+      - (d) a TCSP licensee;
+
+    - Note—
+
+    - DNFBP is an acronym for persons in the category described as designated non-financial businesses and professions in the Financial Action Task Force’s Recommendations. (Added 4 of 2018 s. 25)
+
+    - estate agent (地產代理) means—
+
+      - (a) a licensed estate agent as defined by section 2(1) of the Estate Agents Ordinance (Cap. 511); or
+
+      - (b) a licensed salesperson as defined by section 2(1) of the Estate Agents Ordinance (Cap. 511); (Added 4 of 2018 s. 25)
+
+    - Estate Agents Authority (地產代理監管局) means the body established by section 4 of the Estate Agents Ordinance (Cap. 511); (Added 4 of 2018 s. 25)
 
     - financial institution (金融機構) means—
 
@@ -112,7 +170,17 @@ Interpretation
 
       - (h) an SVF licensee; (Added 18 of 2015 s. 71)
 
+    - HKICPA (香港會計師公會) means the body known as the Hong Kong Institute of Certified Public Accountants incorporated by section 3 of the Professional Accountants Ordinance (Cap. 50); (Added 4 of 2018 s. 25)
+
     - Insurance Authority (保監局) means the Insurance Authority established under section 4AAA of the Insurance Ordinance (Cap. 41); (Replaced 12 of 2015 s. 162)
+
+    - Law Society (律師會) means The Law Society of Hong Kong; (Added 4 of 2018 s. 25)
+
+    - legal professional (法律專業人士) means—
+
+      - (a) a solicitor as defined by section 2(1) of the Legal Practitioners Ordinance (Cap. 159); or
+
+      - (b) a foreign lawyer as defined by section 2(1) of the Legal Practitioners Ordinance (Cap. 159); (Added 4 of 2018 s. 25)
 
     - licensed corporation (持牌法團) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571);
 
@@ -122,15 +190,41 @@ Interpretation
 
     - Postmaster General (郵政署署長) means the Postmaster General of Hong Kong, and includes the deputy postmaster general and every assistant postmaster general;
 
+    - recognized stock market (認可證券市場) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added 4 of 2018 s. 25)
+
+    - Registrar (處長) means—
+
+      - (a) the Registrar of Companies; or
+
+      - (b) a person to whom the Registrar of Companies has, under section 53C(1), delegated his or her functions; (Added 4 of 2018 s. 25)
+
+    - Registrar of Companies (公司註冊處處長) means the person appointed as the Registrar of Companies under section 21(1) of the Companies Ordinance (Cap. 622); (Added 4 of 2018 s. 25)
+
+    - regulatory body (監管機構), in relation to—
+
+      - (a) an accounting professional—means the HKICPA;
+
+      - (b) an estate agent—means the Estate Agents Authority; and
+
+      - (c) a legal professional—means the Law Society; (Added 4 of 2018 s. 25)
+
     - relevant authority (有關當局)—
 
       - (a) in relation to an authorized institution or SVF licensee, means the Monetary Authority; (Amended 18 of 2015 s. 71)
 
       - (b) in relation to a licensed corporation, means the Securities and Futures Commission;
 
-      - (c) in relation to an authorized insurer, appointed insurance agent or authorized insurance broker, means the Insurance Authority; and
+      - (c) in relation to an authorized insurer, appointed insurance agent or authorized insurance broker, means the Insurance Authority; (Amended 4 of 2018 s. 25)
 
-      - (d) in relation to a licensed money service operator or to the Postmaster General, means the Commissioner;
+      - (d) in relation to a licensed money service operator or to the Postmaster General, means the Commissioner; and (Amended 4 of 2018 s. 25)
+
+      - (e) in relation to a TCSP licensee, means the Registrar; (Added 4 of 2018 s. 25)
+
+    - secretary (秘書), in relation to—
+
+      - (a) a corporation that is a company as defined by section 2(1) of the Companies Ordinance (Cap. 622)—means a company secretary as defined by that section; and
+
+      - (b) any other corporation—means a person (by whatever name called) who occupies in the corporation a position similar to that of a company secretary referred to in paragraph (a); (Added 4 of 2018 s. 25)
 
     - Securities and Futures Commission (證監會) means the Securities and Futures Commission referred to in section 3(1) of the Securities and Futures Ordinance (Cap. 571); (Amended 18 of 2015 s. 71)
 
@@ -138,4 +232,10 @@ Interpretation
 
     - SVF licensee (工具持牌人) means a person who is granted a licence under section 8F of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
 
-    - system operator (系統營運者) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584). (Added 18 of 2015 s. 71)
+    - system operator (系統營運者) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71. Amended 4 of 2018 s. 25)
+
+    - TCSP licensee (信託或公司服務持牌人) means—
+
+      - (a) a person who holds a licence granted under section 53G or renewed under section 53K; or
+
+      - (b) a deemed licensee as defined by section 53ZQ(5). (Added 4 of 2018 s. 25)

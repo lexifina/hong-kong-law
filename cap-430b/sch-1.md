@@ -1,10 +1,12 @@
 # SCHEDULE 1
 
-[paragraph (b)]
+[para. (b)]
 
 SERVICES TO BE PROVIDED BY THE TRADING FUND
 
 - 1. Administering and enforcing the provisions of the Companies Ordinance (Cap. 622) and the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), including facilitating the incorporation of new companies and maintaining registers of companies and charges. (28 of 2012 ss. 912 & 920)
+
+- 1A. Administering and enforcing the provisions of the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615) applicable to a trust or company service business as defined by section 1 of Part 1 of Schedule 1 to that Ordinance. (4 of 2018 s. 39)
 
 - 2. Administering and enforcing the provisions of the Limited Partnerships Ordinance (Cap. 37), including maintaining the register of limited partnerships.
 

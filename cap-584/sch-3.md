@@ -124,7 +124,7 @@ Minimum Criteria
 
     - (2) The applicable company must have in place adequate and appropriate systems of control to ensure that it complies with—
 
-      - (a) the provisions of the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance (Cap. 615) that are applicable to the applicable company; and
+      - (a) the provisions of the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615) that are applicable to the applicable company; and (Amended 4 of 2018 s. 49)
 
       - (b) the measures (if any) promulgated by the Monetary Authority, whether in the form of rules, regulations, guidelines or otherwise, to prevent, combat or detect money laundering or terrorist financing.
 

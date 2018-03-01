@@ -1,6 +1,6 @@
 # Schedule 2
 
-[ss. 3, 5, 6 & 7]
+[ss. 5, 5A, 6, 7 & 53Z] (Replaced 4 of 2018 s. 26)
 
 Requirements Relating to Customer Due Diligence and Record-keeping
 
@@ -16,9 +16,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (i) means an individual who—
 
-            - (A) owns or controls, directly or indirectly, including through a trust or bearer share holding, not less than 10% of the issued share capital of the corporation;
+            - (A) owns or controls, directly or indirectly, including through a trust or bearer share holding, more than 25% of the issued share capital of the corporation;
 
-            - (B) is, directly or indirectly, entitled to exercise or control the exercise of not less than 10% of the voting rights at general meetings of the corporation; or
+            - (B) is, directly or indirectly, entitled to exercise or control the exercise of more than 25% of the voting rights at general meetings of the corporation; or
 
             - (C) exercises ultimate control over the management of the corporation; or
 
@@ -28,9 +28,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (i) means an individual who—
 
-            - (A) is entitled to or controls, directly or indirectly, not less than a 10% share of the capital or profits of the partnership;
+            - (A) is entitled to or controls, directly or indirectly, more than a 25% share of the capital or profits of the partnership;
 
-            - (B) is, directly or indirectly, entitled to exercise or control the exercise of not less than 10% of the voting rights in the partnership; or
+            - (B) is, directly or indirectly, entitled to exercise or control the exercise of more than 25% of the voting rights in the partnership; or
 
             - (C) exercises ultimate control over the management of the partnership; or
 
@@ -38,7 +38,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (c) in relation to a trust, means—
 
-          - (i) an individual who is entitled to a vested interest in not less than 10% of the capital of the trust property, whether the interest is in possession or in remainder or reversion and whether it is defeasible or not;
+          - (i) an individual who is entitled to a vested interest in more than 25% of the capital of the trust property, whether the interest is in possession or in remainder or reversion and whether it is defeasible or not;
 
           - (ii) the settlor of the trust;
 
@@ -50,15 +50,17 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (i) means an individual who ultimately owns or controls the person; or
 
-          - (ii) if the person is acting on behalf of another person, means the other person;
+          - (ii) if the person is acting on behalf of another person, means the other person; (Amended 4 of 2018 s. 26)
 
-      - business relationship (業務關係), as between a person and a financial institution, means a business, professional or commercial relationship—
+      - business relationship (業務關係), as between a person and a financial institution or a DNFBP, means a business, professional or commercial relationship— (Amended 4 of 2018 s. 26)
 
         - (a) that has an element of duration; or
 
-        - (b) that the financial institution, at the time the person first contacts the financial institution in the person’s capacity as a potential customer of the financial institution, expects to have an element of duration;
+        - (b) that the financial institution or the DNFBP, at the time the person first contacts the financial institution or the DNFBP in the person’s capacity as a potential customer of the financial institution or the DNFBP, expects to have an element of duration; (Amended 4 of 2018 s. 26)
 
       - correspondent banking (代理銀行服務) means the provision of banking services by an authorized institution to another institution to enable the latter to provide services and products to its own customers;
+
+      - customer (客户) includes a client; (Added 4 of 2018 s. 26)
 
       - customer due diligence measures (客戶盡職審查措施) means the measures set out in section 2(1) of this Schedule;
 
@@ -68,7 +70,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (b) a jurisdiction that imposes requirements similar to those imposed under this Schedule;
 
-      - Financial Action Task Force (財務特別行動組織) means the Financial Action Task Force on Money Laundering established by the G-7 Summit held in Paris in 1989;
+      - Financial Action Task Force (財務行動特別組織) means the Financial Action Task Force on Money Laundering established by the G-7 Summit held in Paris in 1989; (Replaced 4 of 2018 s. 26)
 
       - identification document (識別文件)—
 
@@ -86,7 +88,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - legal person (法人) includes any public body and any body of persons, corporate or unincorporate;
 
-      - occasional transaction (非經常交易) means a transaction between a financial institution and a customer who does not have a business relationship with the financial institution;
+      - occasional transaction (非經常交易) means a transaction between a financial institution or a DNFBP and a customer who does not have a business relationship with the financial institution or the DNFBP; (Amended 4 of 2018 s. 26)
 
       - politically exposed person (政治人物) means—
 
@@ -100,7 +102,11 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (c) a close associate of an individual falling within paragraph (a);
 
-      - pre-existing customer (先前客戶), in relation to a financial institution, means a customer with whom the financial institution has established a business relationship before the date of commencement of this Ordinance;
+      - pre-existing customer (先前客户), in relation to—
+
+        - (a) a financial institution—means a customer with whom the financial institution has established a business relationship before the date of commencement of this Ordinance; and
+
+        - (b) a DNFBP—means a customer with whom the DNFBP has established a business relationship before the date of commencement* of section 26 of the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) (Amendment) Ordinance 2018 (4 of 2018); (Replaced 4 of 2018 s. 26)
 
       - public body (公共機構) includes—
 
@@ -128,15 +134,19 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - (4) For the purposes of this Schedule, a wire transfer is a transaction carried out by an institution (referred to in this Schedule as ordering institution) on behalf of a person by electronic means with a view to making an amount of money available to that person or another person (referred to in this Schedule as recipient) at an institution (referred to in this Schedule as beneficiary institution), which may be the ordering institution or another institution, whether or not one or more other institutions (referred to in this Schedule as intermediary institutions) participate in completion of the transfer of the money.
 
+- Editorial Note:
+
+- * Commencement date: 1 March 2018.
+
 - Part 2 Customer Due Diligence Requirements
 
   - Division 1 General
 
     - 2. What are customer due diligence measures
 
-      - (1) The following measures are customer due diligence measures applicable to a financial institution—
+      - (1) The following measures are customer due diligence measures applicable to a financial institution or a DNFBP— (Amended 4 of 2018 s. 26)
 
-        - (a) identifying the customer and verifying the customer’s identity on the basis of documents, data or information provided by—
+        - (a) for a financial institution or a DNFBP who is a TCSP licensee, identifying the customer and verifying the customer’s identity on the basis of documents, data or information provided by— (Amended 4 of 2018 s. 26)
 
           - (i) a governmental body;
 
@@ -146,13 +156,23 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (iv) any other reliable and independent source that is recognized by the relevant authority;
 
-        - (b) if there is a beneficial owner in relation to the customer, identifying the beneficial owner and, subject to subsection (2), taking reasonable measures to verify the beneficial owner’s identity so that the financial institution is satisfied that it knows who the beneficial owner is, including, where the customer is a legal person or trust, measures to enable the financial institution to understand the ownership and control structure of the legal person or trust;
+        - (ab) for a DNFBP who is an accounting professional, an estate agent or a legal professional, identifying the customer and verifying the customer’s identity on the basis of documents, data or information provided by—
 
-        - (c) if a business relationship is to be established, obtaining information on the purpose and intended nature of the business relationship with the financial institution, unless the purpose and intended nature are obvious; and
+          - (i) a governmental body;
+
+          - (ii) the relevant regulatory body;
+
+          - (iii) an authority in a place outside Hong Kong that performs functions similar to those of the relevant regulatory body; or
+
+          - (iv) any other reliable and independent source that is recognized by the relevant regulatory body; (Added 4 of 2018 s. 26)
+
+        - (b) if there is a beneficial owner in relation to the customer, identifying the beneficial owner and taking reasonable measures to verify the beneficial owner’s identity so that the financial institution or the DNFBP is satisfied that the financial institution or the DNFBP knows who the beneficial owner is, including, where the customer is a legal person or trust, measures to enable the financial institution or the DNFBP to understand the ownership and control structure of the legal person or trust;
+
+        - (c) if a business relationship is to be established, obtaining information on the purpose and intended nature of the business relationship with the financial institution or the DNFBP, unless the purpose and intended nature are obvious; and
 
         - (d) if a person purports to act on behalf of the customer—
 
-          - (i) identifying the person and taking reasonable measures to verify the person’s identity on the basis of documents, data or information provided by—
+          - (i) for a financial institution or a DNFBP who is a TCSP licensee, identifying the person and taking reasonable measures to verify the person’s identity on the basis of documents, data or information provided by— (Amended 4 of 2018 s. 26)
 
             - (A) a governmental body;
 
@@ -160,57 +180,57 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
             - (C) an authority in a place outside Hong Kong that performs functions similar to those of the relevant authority or any other relevant authority; or
 
-            - (D) any other reliable and independent source that is recognized by the relevant authority; and
+            - (D) any other reliable and independent source that is recognized by the relevant authority;
 
-          - (ii) verifying the person’s authority to act on behalf of the customer.
+          - (ia) for a DNFBP who is an accounting professional, an estate agent or a legal professional, identifying the person and taking reasonable measures to verify the person’s identity on the basis of documents, data or information provided by—
 
-      - (2)
+            - (A) a governmental body;
 
-        - Except where a situation referred to in section 15 of this Schedule exists, if an individual is a beneficial owner of a customer by virtue of paragraph (a)(i)(A) or (B), (b)(i)(A) or (B) or (c)(i) of the definition of beneficial owner in section 1(1) of this Schedule, the financial institution is not required to verify the identity of the individual unless—
+            - (B) the relevant regulatory body;
 
-          - (a) for an individual falling within paragraph (a)(i)(A) of that definition, the individual owns or controls, directly or indirectly, including through a trust or bearer share holding, not less than 25% of the issued share capital of the relevant corporation;
+            - (C) an authority in a place outside Hong Kong that performs functions similar to those of the relevant regulatory body; or
 
-          - (b) for an individual falling within paragraph (a)(i)(B) of that definition, the individual is, directly or indirectly, entitled to exercise or control the exercise of not less than 25% of the voting rights at general meetings of the relevant corporation;
+            - (D) any other reliable and independent source that is recognized by the relevant regulatory body; and (Added 4 of 2018 s. 26)
 
-          - (c) for an individual falling within paragraph (b)(i)(A) of that definition, the individual is entitled to or controls, directly or indirectly, not less than a 25% share of the capital or profits of the relevant partnership;
+          - (ii) verifying the person’s authority to act on behalf of the customer. (Amended 4 of 2018 s. 26)
 
-          - (d) for an individual falling within paragraph (b)(i)(B) of that definition, the individual is, directly or indirectly, entitled to exercise or control the exercise of not less than 25% of the voting rights in the relevant partnership; or
-
-          - (e) for an individual falling within paragraph (c)(i) of that definition, the individual is entitled to a vested interest in not less than 25% of the capital of the relevant trust property, whether the interest is in possession or in remainder or reversion and whether it is defeasible or not.
+      - (2) (Repealed 4 of 2018 s. 26)
 
     - 3. When customer due diligence measures must be carried out
 
-      - (1) Subject to section 4 of this Schedule, a financial institution must carry out customer due diligence measures in relation to a customer in the following circumstances—
+      - (1) Subject to section 4 of this Schedule, a financial institution or a DNFBP must carry out customer due diligence measures in relation to a customer in the following circumstances— (Amended 4 of 2018 s. 26)
 
         - (a) subject to subsection (2), before establishing a business relationship with the customer;
 
-        - (b) before carrying out for the customer an occasional transaction involving an amount equal to or above $120,000 or an equivalent amount in any other currency, whether the transaction is carried out in a single operation or in several operations that appear to the financial institution to be linked;
+        - (b) before carrying out for the customer an occasional transaction involving an amount equal to or above $120,000 or an equivalent amount in any other currency, whether the transaction is carried out in a single operation or in several operations that appear to the financial institution or the DNFBP to be linked;
 
         - (c) despite paragraph (b), before carrying out for the customer an occasional transaction that is a wire transfer involving an amount equal to or above $8,000 or an equivalent amount in any other currency, whether the transaction is carried out in a single operation or in several operations that appear to the financial institution to be linked;
 
-        - (d) when the financial institution suspects that the customer or the customer’s account is involved in money laundering or terrorist financing;
+        - (d) when the financial institution or the DNFBP suspects that the customer or the customer’s account is involved in money laundering or terrorist financing;
 
-        - (e) when the financial institution doubts the veracity or adequacy of any information previously obtained for the purpose of identifying the customer or for the purpose of verifying the customer’s identity.
+        - (e) when the financial institution or the DNFBP doubts the veracity or adequacy of any information previously obtained for the purpose of identifying the customer or for the purpose of verifying the customer’s identity.
 
-      - (2) Despite subsection (1)(a), a financial institution may verify the identity of a customer and any beneficial owner of the customer after establishing a business relationship with the customer if—
+      - (2) Despite subsection (1)(a), a financial institution or a DNFBP may verify the identity of a customer and any beneficial owner of the customer after establishing a business relationship with the customer if— (Amended 4 of 2018 s. 26)
 
         - (a) this is necessary not to interrupt the normal conduct of business with regard to the customer; and
 
         - (b) any risk of money laundering or terrorist financing that may be caused by carrying out the verification after establishing the business relationship is effectively managed.
 
-      - (3) A financial institution that carries out verification after establishing a business relationship with a customer under subsection (2) must complete the verification as soon as reasonably practicable after establishing the business relationship.
+      - (3) A financial institution or a DNFBP that carries out verification after establishing a business relationship with a customer under subsection (2) must complete the verification as soon as reasonably practicable after establishing the business relationship.
 
-      - (4) If a financial institution is unable to comply with subsection (1) or (3), it—
+      - (4) If a financial institution or a DNFBP is unable to comply with subsection (1) or (3), the financial institution or the DNFBP— (Amended 4 of 2018 s. 26)
 
         - (a) must not establish a business relationship or carry out any occasional transaction with that customer; or
 
-        - (b) if it has already established a business relationship with that customer, must terminate the business relationship as soon as reasonably practicable.
+        - (b) if the financial institution or the DNFBP has already established a business relationship with that customer, must terminate the business relationship as soon as reasonably practicable.
+
+    - (Amended 4 of 2018 s. 26)
 
     - 4. Simplified customer due diligence
 
-      - (1) In any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, a financial institution may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (c) and (d) of this Schedule in relation to a customer if it has reasonable grounds to believe that the customer falls within subsection (3).
+      - (1) In any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, a financial institution or a DNFBP may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (ab), (c) and (d) of this Schedule in relation to a customer if the financial institution or the DNFBP has reasonable grounds to believe that the customer falls within subsection (3). (Amended 4 of 2018 s. 26)
 
-      - (2) If a customer of a financial institution not falling within subsection (3) has in its beneficial ownership chain an entity that falls within that subsection, the financial institution is not required, when carrying out the measure set out in section 2(1)(b) of this Schedule in respect of the beneficial owners in that chain in any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, to identify, or verify the identities of, the beneficial owners of that entity or of any person in that chain beyond that entity.
+      - (2) If a customer of a financial institution or a DNFBP not falling within subsection (3) has in the customer’s beneficial ownership chain an entity that falls within that subsection, the financial institution or the DNFBP is not required, when carrying out the measure set out in section 2(1)(b) of this Schedule in respect of the beneficial owners in that chain in any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, to identify, or verify the identities of, the beneficial owners of that entity or of any person in that chain beyond that entity. (Amended 4 of 2018 s. 26)
 
       - (3) The customer is—
 
@@ -252,7 +272,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (f) the government of an equivalent jurisdiction or a body in an equivalent jurisdiction that performs functions similar to those of a public body.
 
-      - (4) In any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, a financial institution may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (c) and (d) of this Schedule in relation to a customer if it has reasonable grounds to believe that the product related to the transaction falls within subsection (5).
+      - (4) In any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, a financial institution or a DNFBP may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (ab), (c) and (d) of this Schedule in relation to a customer if the financial institution or the DNFBP has reasonable grounds to believe that the product related to the transaction falls within subsection (5). (Amended 4 of 2018 s. 26)
 
       - (5) The product is—
 
@@ -280,11 +300,11 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - 5. Duty to continuously monitor business relationships
 
-      - (1) A financial institution must continuously monitor its business relationship with a customer by—
+      - (1) A financial institution or a DNFBP must continuously monitor the business relationship with a customer by— (Amended 4 of 2018 s. 26)
 
-        - (a) reviewing from time to time documents, data and information relating to the customer that have been obtained by the financial institution for the purpose of complying with the requirements imposed under this Part to ensure that they are up-to-date and relevant;
+        - (a) reviewing from time to time documents, data and information relating to the customer that have been obtained by the financial institution or the DNFBP for the purpose of complying with the requirements imposed under this Part to ensure that they are up-to-date and relevant;
 
-        - (b) conducting appropriate scrutiny of transactions carried out for the customer to ensure that they are consistent with the financial institution’s knowledge of the customer and the customer’s business and risk profile, and with its knowledge of the source of the customer’s funds; and
+        - (b) conducting appropriate scrutiny of transactions carried out for the customer to ensure that they are consistent with the financial institution’s or the DNFBP’s knowledge of the customer and the customer’s business and risk profile, and with the financial institution’s or the DNFBP’s knowledge of the source of the customer’s funds; and
 
         - (c) identifying transactions that—
 
@@ -292,33 +312,37 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) have no apparent economic or lawful purpose,
 
-        - and examining the background and purposes of those transactions and setting out its findings in writing.
+        - and examining the background and purposes of those transactions and setting out the findings in writing.
 
-      - (2) When a financial institution carries out its duty under subsection (1)(a) in relation to a pre-existing customer before it first carries out the customer due diligence measures in relation to the customer in accordance with the requirements under this Part, the financial institution is only required to review the documents, data and information relating to the customer that are held by it at the time it conducts the review.
+      - (2) When a financial institution or a DNFBP carries out the duty under subsection (1)(a) in relation to a pre-existing customer before the financial institution or the DNFBP first carries out the customer due diligence measures in relation to the customer in accordance with the requirements under this Part, the financial institution or the DNFBP is only required to review the documents, data and information relating to the customer that are held by the financial institution or the DNFBP at the time the financial institution or the DNFBP conducts the review.
 
       - (3) If—
 
-        - (a) a customer of a financial institution has not been physically present for identification purposes;
+        - (a) a customer of a financial institution or a DNFBP has not been physically present for identification purposes;
 
-        - (b) a customer, or a beneficial owner of a customer, of a financial institution is known to the financial institution, from publicly known information or information in its possession, to be a politically exposed person; or
+        - (b) a customer, or a beneficial owner of a customer, of a financial institution or a DNFBP is known to the financial institution or the DNFBP, from publicly known information or information in the financial institution’s or the DNFBP’s possession, to be a politically exposed person; or
 
-        - (c) a customer, or a beneficial owner of a customer, of a financial institution is involved in a situation referred to in section 15 of this Schedule,
+        - (c) a customer, or a beneficial owner of a customer, of a financial institution or a DNFBP is involved in a situation referred to in section 15 of this Schedule,
 
-      - the financial institution must, in monitoring its business relationship with the customer under this section, take additional measures to compensate for any risk of money laundering or terrorist financing that may be caused by the fact that the customer or beneficial owner is a customer or beneficial owner falling within paragraph (a), (b) or (c).
+      - the financial institution or the DNFBP must, in monitoring the business relationship with the customer under this section, take additional measures to compensate for any risk of money laundering or terrorist financing that may be caused by the fact that the customer or beneficial owner is a customer or beneficial owner falling within paragraph (a), (b) or (c).
+
+    - (Amended 4 of 2018 s. 26)
 
     - 6. Provisions relating to pre-existing customers
 
-      - (1) In relation to a pre-existing customer who is not a customer to whom section 7 of this Schedule applies, a financial institution must, in addition to the situations specified in section 3(1)(d) and (e) of this Schedule, carry out the customer due diligence measures when—
+      - (1) In relation to a pre-existing customer who is not a customer to whom section 7 of this Schedule applies, a financial institution or a DNFBP must, in addition to the situations specified in section 3(1)(d) and (e) of this Schedule, carry out the customer due diligence measures when— (Amended 4 of 2018 s. 26)
 
         - (a) a transaction takes place with regard to the customer that—
 
           - (i) is, by virtue of the amount or nature of the transaction, unusual or suspicious; or
 
-          - (ii) is not consistent with the financial institution’s knowledge of the customer or the customer’s business or risk profile, or with its knowledge of the source of the customer’s funds; or
+          - (ii) is not consistent with the financial institution’s or the DNFBP’s knowledge of the customer or the customer’s business or risk profile, or with the financial institution’s or the DNFBP’s knowledge of the source of the customer’s funds; or
 
         - (b) a material change occurs in the way in which the customer’s account is operated.
 
-      - (2) If a financial institution is unable to comply with subsection (1), it must terminate its business relationship with the customer as soon as reasonably practicable.
+      - (2) If a financial institution or a DNFBP is unable to comply with subsection (1), the financial institution or the DNFBP must terminate the business relationship with the customer as soon as reasonably practicable.
+
+    - (Amended 4 of 2018 s. 26)
 
     - 7. Provisions relating to pre-existing respondent banks
 
@@ -342,13 +366,13 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
   - Division 2 Special Requirements
 
-    - 8. Requirements in this Division are additional to those in sections 3 and 5 of this Schedule In addition to complying with the requirements under sections 3 and 5 of this Schedule, a financial institution must also comply with the requirements under this Division.
+    - 8. Requirements in this Division are additional to those in sections 3 and 5 of this Schedule In addition to complying with the requirements under sections 3 and 5 of this Schedule, a financial institution or a DNFBP must also comply with the requirements under this Division. (Amended 4 of 2018 s. 26)
 
-    - 9. Special requirements when customer is not physically present for identification purposes If a customer has not been physically present for identification purposes, a financial institution must carry out at least one of the following measures—
+    - 9. Special requirements when customer is not physically present for identification purposes If a customer has not been physically present for identification purposes, a financial institution or a DNFBP must carry out at least one of the following measures— (Amended 4 of 2018 s. 26)
 
-      - (a) further verifying the customer’s identity on the basis of documents, data or information referred to in section 2(1)(a) of this Schedule but not previously used for the purposes of verification of the customer’s identity under that section;
+      - (a) further verifying the customer’s identity on the basis of documents, data or information referred to in section 2(1)(a) or (ab) of this Schedule but not previously used for the purposes of verification of the customer’s identity under that section;
 
-      - (b) taking supplementary measures to verify all the information provided by the customer;
+      - (b) taking supplementary measures to verify information relating to the customer that has been obtained by the financial institution or the DNFBP;
 
       - (c) ensuring that the payment or, if there is more than one payment, the first payment made in relation to the customer’s account is carried out through an account opened in the customer’s name with—
 
@@ -364,19 +388,23 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (D) is supervised for compliance with those requirements by authorities in that jurisdiction that perform functions similar to those of the Monetary Authority.
 
+    - (Amended 4 of 2018 s. 26)
+
     - 10. Special requirements when customer is politically exposed person
 
-      - (1) If a financial institution knows, from publicly known information or information in its possession, that a customer or a beneficial owner of a customer is a politically exposed person, it must, before establishing a business relationship with the customer—
+      - (1) If a financial institution or a DNFBP knows, from publicly known information or information in the financial institution’s or the DNFBP’s possession, that a customer or a beneficial owner of a customer is a politically exposed person, the financial institution or the DNFBP must, before establishing a business relationship with the customer— (Amended 4 of 2018 s. 26)
 
-        - (a) obtain approval from its senior management; and
+        - (a) obtain approval from the senior management; and
 
         - (b) take reasonable measures to establish the customer’s or beneficial owner’s source of wealth and the source of the funds that will be involved in the proposed business relationship.
 
-      - (2) If a financial institution comes to know, from publicly known information or information in its possession, that an existing customer or a beneficial owner of an existing customer is a politically exposed person or has become a politically exposed person, it must not continue its business relationship with the customer unless it—
+      - (2) If a financial institution or a DNFBP comes to know, from publicly known information or information in the financial institution’s or the DNFBP’s possession, that an existing customer or a beneficial owner of an existing customer is a politically exposed person or has become a politically exposed person, the financial institution or the DNFBP must not continue its business relationship with the customer unless the financial institution or the DNFBP— (Amended 4 of 2018 s. 26)
 
-        - (a) has obtained approval from its senior management; and
+        - (a) has obtained approval from the senior management; and
 
         - (b) has taken reasonable measures to establish the customer’s or beneficial owner’s source of wealth and the source of the funds that are involved in the business relationship.
+
+    - (Amended 4 of 2018 s. 26)
 
     - 11. Special requirements for insurance policies
 
@@ -420,7 +448,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - 12. Special requirements for wire transfers
 
-      - (1) Subject to subsection (2), this section applies to a wire transfer involving an amount equal to or above $8,000 or an equivalent amount in any other currency, that is carried out by a financial institution.
+      - (1) (Repealed 4 of 2018 s. 26)
 
       - (2) This section does not apply to the following wire transfers—
 
@@ -434,25 +462,27 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) the credit card or debit card number is included in the message or payment form accompanying the transfer.
 
-      - (3) Before carrying out a wire transfer, a financial institution that is an ordering institution must record—
+      - (3) Subject to subsection (3A), before carrying out a wire transfer, a financial institution that is an ordering institution must record— (Amended 4 of 2018 s. 26)
 
         - (a) the originator’s name;
 
-        - (b) the number of the originator’s account maintained with the financial institution and from which the money for the wire transfer is paid or, in the absence of such an account, a unique reference number assigned to the wire transfer by the financial institution; and
+        - (b) the number of the originator’s account maintained with the financial institution and from which the money for the wire transfer is paid or, in the absence of such an account, a unique reference number assigned to the wire transfer by the financial institution; (Amended 4 of 2018 s. 26)
 
-        - (c) the originator’s address or, in the absence of an address, the originator’s customer identification number or identification document number or, if the originator is an individual, the originator’s date and place of birth.
+        - (c) the originator’s address, the originator’s customer identification number or identification document number or, if the originator is an individual, the originator’s date and place of birth; (Amended 4 of 2018 s. 26)
 
-      - (4) The information mentioned in subsection (3)(a) and (c) must, before it is recorded, be verified by the financial institution on the basis of documents, data or information provided by—
+        - (d) the recipient’s name; and (Added 4 of 2018 s. 26)
 
-        - (a) a governmental body;
+        - (e) the number of the recipient’s account maintained with the beneficiary institution and to which the money for the wire transfer is paid or, in the absence of such an account, a unique reference number assigned to the wire transfer by the beneficiary institution. (Added 4 of 2018 s. 26)
 
-        - (b) the relevant authority or any other relevant authority;
+      - (3A) Subsection (3)(c) does not apply to a wire transfer involving an amount below $8,000 or an equivalent amount in another currency. (Added 4 of 2018 s. 26)
 
-        - (c) an authority in a place outside Hong Kong that performs functions similar to those of the relevant authority or any other relevant authority; or
+      - (4) (Repealed 4 of 2018 s. 26)
 
-        - (d) any other reliable and independent source that is recognized by the relevant authority.
+      - (5) Subject to subsections (6) and (7), a financial institution that is an ordering institution must include in the message or payment form accompanying the wire transfer— (Amended 4 of 2018 s. 26)
 
-      - (5) Subject to subsections (6) and (7), a financial institution that is an ordering institution must include in the message or payment form accompanying the wire transfer the information recorded under subsection (3) in relation to the transfer.
+        - (a) for a wire transfer involving an amount equal to or above $8,000 or an equivalent amount in another currency—the information recorded under subsection (3)(a), (b), (c), (d) and (e) in relation to the transfer; and (Added 4 of 2018 s. 26)
+
+        - (b) for a wire transfer involving an amount below $8,000 or an equivalent amount in another currency—the information recorded under subsection (3)(a), (b), (d) and (e) in relation to the transfer. (Added 4 of 2018 s. 26)
 
       - (6) A financial institution may, in relation to a domestic wire transfer, include in the message or payment form accompanying the transfer only the information recorded under subsection (3)(b) in relation to the transfer but if it does so, it must, on the request of the financial institution to which it passes on the transfer instruction or the relevant authority, provide to that financial institution or the relevant authority the information recorded under subsection (3)(a) and (c) in relation to the transfer within 3 business days after it receives the request.
 
@@ -478,7 +508,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (b) if the financial institution is aware that the accompanying information that purports to be the information required under subsection (3)(b) is incomplete or meaningless, it must as soon as reasonably practicable take reasonable measures to mitigate the risk of money laundering or terrorist financing involved.
 
-      - (10) Where a financial institution is a beneficiary institution in a wire transfer that is not a domestic wire transfer—
+      - (10) Where a financial institution is a beneficiary institution or an intermediary institution in a wire transfer that is not a domestic wire transfer— (Amended 4 of 2018 s. 26)
 
         - (a) if the wire transfer is not accompanied by all of the information required under subsection (3), it must as soon as reasonably practicable—
 
@@ -570,11 +600,11 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) will be able to provide to it, on request, the documents, data or information obtained by the proposed respondent bank in relation to those customers in accordance with requirements similar to those imposed under this Schedule.
 
-    - 15. Special requirements in other high risk situations A financial institution must, in a situation specified by the relevant authority in a notice in writing given to the financial institution and in any other situation that by its nature may present a high risk of money laundering or terrorist financing—
+    - 15. Special requirements in other high risk situations A financial institution or a DNFBP must, in a situation specified by the relevant authority or, in the case of a DNFBP who is an accounting professional, an estate agent or a legal professional, by the relevant regulatory body, in a notice in writing given to the financial institution or the DNFBP and in any other situation that by its nature may present a high risk of money laundering or terrorist financing— (Amended 4 of 2018 s. 26)
 
       - (a) where a business relationship is to be established—
 
-        - (i) obtain approval from its senior management to establish the business relationship; and
+        - (i) obtain approval from the senior management to establish the business relationship; and
 
         - (ii) either—
 
@@ -584,9 +614,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (b) where a business relationship has been established—
 
-        - (i) obtain approval from its senior management to continue the business relationship;
+        - (i) obtain approval from the senior management to continue the business relationship;
 
-        - (ii) if there is a beneficial owner in relation to the relevant customer, take reasonable measures to verify the beneficial owner’s identity so that the financial institution is satisfied that it knows who the beneficial owner is; and
+        - (ii) if there is a beneficial owner in relation to the relevant customer, take reasonable measures to verify the beneficial owner’s identity so that the financial institution or the DNFBP is satisfied that the financial institution or the DNFBP knows who the beneficial owner is; and
 
         - (iii) either—
 
@@ -596,9 +626,11 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (c) where an occasional transaction is to be carried out, take additional measures to mitigate the risk of money laundering or terrorist financing involved.
 
+    - (Amended 4 of 2018 s. 26)
+
   - Division 3 Prohibitions
 
-    - 16. Anonymous accounts etc. A financial institution must not open, or maintain, any anonymous account or account in a fictitious name for any customer.
+    - 16. Anonymous accounts etc. A financial institution or a DNFBP must not open, or maintain, any anonymous account or account in a fictitious name for any customer. (Amended 4 of 2018 s. 26)
 
     - 17. Correspondent banking relationships with shell banks
 
@@ -646,85 +678,137 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - 18. Carrying out customer due diligence measures by means of intermediaries
 
-      - (1) Subject to subsection (2), a financial institution may carry out any customer due diligence measure by means of an intermediary specified in subsection (3) if—
+      - (1) Subject to subsection (2), a financial institution or a DNFBP may carry out any customer due diligence measure by means of an intermediary specified in subsection (3) if— (Amended 4 of 2018 s. 26)
 
-        - (a) the intermediary consents in writing to be the financial institution’s intermediary; and
+        - (a) the intermediary consents in writing to be the financial institution’s or the DNFBP’s intermediary; and
 
-        - (b) the financial institution is satisfied that the intermediary will on request provide a copy of any document, or a record of any data or information, obtained by the intermediary in the course of carrying out the customer due diligence measure without delay.
+        - (b) the financial institution or the DNFBP is satisfied that the intermediary will on request provide a copy of any document, or a record of any data or information, obtained by the intermediary in the course of carrying out the customer due diligence measure without delay.
 
-      - (2) A financial institution that carries out a customer due diligence measure by means of an intermediary remains liable under this Ordinance for a failure to carry out that customer due diligence measure.
+      - (2) A financial institution or a DNFBP that carries out a customer due diligence measure by means of an intermediary remains liable under this Ordinance for a failure to carry out that customer due diligence measure.
 
       - (3) The specified intermediary is—
 
-        - (a) any of the following persons who is able to satisfy the financial institution that they have adequate procedures in place to prevent money laundering and terrorist financing—
+        - (a) any of the following persons who is able to satisfy the financial institution or the DNFBP that they have adequate procedures in place to prevent money laundering and terrorist financing— (Amended 4 of 2018 s. 26)
 
-          - (i) a solicitor practising in Hong Kong;
+          - (i) an accounting professional; (Replaced 4 of 2018 s. 26)
 
-          - (ii) a certified public accountant practising in Hong Kong;
+          - (ii) an estate agent; (Replaced 4 of 2018 s. 26)
 
-          - (iii) a current member of The Hong Kong Institute of Chartered Secretaries practising in Hong Kong;
+          - (iii) a legal professional; (Replaced 4 of 2018 s. 26)
 
-          - (iv) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) carrying on trust business in Hong Kong;
+          - (iv) a TCSP licensee; (Replaced 4 of 2018 s. 26)
 
-        - (b) a financial institution that is an authorized institution, a licensed corporation, an authorized insurer, an appointed insurance agent or an authorized insurance broker; or
+        - (b) a financial institution that is an authorized institution, a licensed corporation, an authorized insurer, an appointed insurance agent or an authorized insurance broker;
 
-        - (c) a lawyer, a notary public, an auditor, a professional accountant, a trust or company service provider or a tax advisor practising in an equivalent jurisdiction, or a trust company carrying on trust business in an equivalent jurisdiction, or an institution that carries on in an equivalent jurisdiction a business similar to that carried on by a financial institution mentioned in paragraph (b), that—
+        - (c) a lawyer, a notary public, an auditor, a professional accountant, a trust or company service provider or a tax advisor practising in an equivalent jurisdiction, or a trust company carrying on trust business in an equivalent jurisdiction, or a person who carries on in an equivalent jurisdiction a business similar to that carried on by an estate agent, or an institution that carries on in an equivalent jurisdiction a business similar to that carried on by an intermediary financial institution, that— (Amended 4 of 2018 s. 26)
 
           - (i) is required under the law of that jurisdiction to be registered or licensed or is regulated under the law of that jurisdiction;
 
           - (ii) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
 
-          - (iii) is supervised for compliance with those requirements by an authority in that jurisdiction that performs functions similar to those of any of the relevant authorities.
+          - (iii) is supervised for compliance with those requirements by an authority in that jurisdiction that performs functions similar to those of any of the relevant authorities or the regulatory bodies (as may be applicable); or
 
-      - (4) A financial institution that carries out a customer due diligence measure by means of an intermediary must—
+        - (d) in the case of a financial institution, an institution that—
 
-        - (a) immediately after the intermediary has carried out that measure, obtain from the intermediary the data or information that the intermediary has obtained in the course of carrying out that measure, but nothing in this paragraph requires the financial institution to obtain at the same time from the intermediary a copy of any document, or a record of any data or information, that is obtained by the intermediary in the course of carrying out that measure; and
+          - (i) is a related foreign financial institution in relation to the financial institution; and
 
-        - (b) ensure that the intermediary will, if requested by the financial institution within the period referred to in section 20(2) or (3) of this Schedule, as the case requires, provide to the financial institution a copy of any document, or a record of any data or information, obtained by the intermediary in the course of carrying out that measure as soon as reasonably practicable after receiving the request.
+          - (ii) satisfies the conditions in subsection (3A). (Added 4 of 2018 s. 26)
 
-      - (5) Subsection (3)(a) expires at midnight on 31 March 2018. (Amended L.N. 16 of 2015)
+      - (3A) The conditions are that—
 
-      - (6) Nothing in this section prevents a financial institution from carrying out a customer due diligence measure by its agent but such a financial institution remains liable under this Ordinance for a failure to carry out that customer due diligence measure.
+        - (a) the related foreign financial institution is required under group policy—
+
+          - (i) to have measures in place to ensure compliance with requirements similar to the requirements imposed under this Schedule; and
+
+          - (ii) to implement programmes against money laundering and terrorist financing; and
+
+        - (b) the related foreign financial institution is supervised for compliance with the requirements mentioned in paragraph (a) at a group level—
+
+          - (i) by a relevant authority; or
+
+          - (ii) by an authority in an equivalent jurisdiction that performs, in relation to the holding company or the head office of the financial institution, functions similar to those of a relevant authority under this Ordinance. (Added 4 of 2018 s. 26)
+
+      - (4) A financial institution or a DNFBP that carries out a customer due diligence measure by means of an intermediary must— (Amended 4 of 2018 s. 26)
+
+        - (a) immediately after the intermediary has carried out that measure, obtain from the intermediary the data or information that the intermediary has obtained in the course of carrying out that measure, but nothing in this paragraph requires the financial institution or the DNFBP to obtain at the same time from the intermediary a copy of any document, or a record of any data or information, that is obtained by the intermediary in the course of carrying out that measure;
+
+        - (b) ensure that the intermediary will, if requested by the financial institution or the DNFBP within the period referred to in section 20(2) or (3) of this Schedule, as the case requires, provide to the financial institution or the DNFBP a copy of any document, or a record of any data or information, obtained by the intermediary in the course of carrying out that measure as soon as reasonably practicable after receiving the request; and
+
+        - (c) in the case of a financial institution, if the intermediary is a specified intermediary under subsection (3)(d), take reasonable measures to mitigate the risk of money laundering or terrorist financing involved. (Added 4 of 2018 s. 26)
+
+      - (5) (Repealed 4 of 2018 s. 26)
+
+      - (6) Nothing in this section prevents a financial institution or a DNFBP from carrying out a customer due diligence measure by an agent but such a financial institution or a DNFBP remains liable under this Ordinance for a failure to carry out that customer due diligence measure.
 
       - (7) In this section—
 
-        - certified public accountant (會計師) has the meaning given by section 2(1) of the Professional Accountants Ordinance (Cap. 50).
+        - group of companies (公司集團) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622);
 
-    - (Amended E.R. 2 of 2014)
+        - group policy (集團政策) means a policy of the group of companies to which the financial institution belongs that applies to—
 
-    - 19. Financial institutions to establish procedures
+          - (a) the financial institution; and
 
-      - (1) A financial institution must establish and maintain effective procedures for determining whether a customer or a beneficial owner of a customer is a politically exposed person.
+          - (b) the relevant related foreign financial institution;
+
+        - holding company (控權公司), in relation to a financial institution, means a holding company within the meaning of section 13 of the Companies Ordinance (Cap. 622);
+
+        - intermediary financial institution (中介人金融機構) means a financial institution mentioned in subsection (3)(b);
+
+        - related foreign financial institution (相關外地金融機構), in relation to a financial institution, means another institution that—
+
+          - (a) carries on, in a place outside Hong Kong, a business similar to that carried on by an intermediary financial institution; and
+
+          - (b) falls within any of the following descriptions—
+
+            - (i) it is within the same group of companies as the financial institution;
+
+            - (ii) if the financial institution is incorporated in Hong Kong, it is a branch of the financial institution;
+
+            - (iii) if the financial institution is incorporated outside Hong Kong—
+
+              - (A) it is the head office of the financial institution; or
+
+              - (B) it is a branch of the head office of the financial institution. (Replaced 4 of 2018 s. 26)
+
+    - (Amended E.R. 2 of 2014; 4 of 2018 s. 26)
+
+    - 19. Financial institutions and DNFBPs to establish procedures (Amended 4 of 2018 s. 26)
+
+      - (1) A financial institution or a DNFBP must establish and maintain effective procedures for determining whether a customer or a beneficial owner of a customer is a politically exposed person.
 
       - (2) A financial institution that carries out wire transfers must establish and maintain effective procedures for identifying and handling wire transfers in relation to which section 12(5) of this Schedule has not been complied with.
 
-      - (3) A financial institution must, in respect of each kind of customer, business relationship, product and transaction, establish and maintain effective procedures not inconsistent with this Ordinance for the purpose of carrying out its duties under sections 3, 4, 5, 9, 10 and 15 of this Schedule.
+      - (3) A financial institution or a DNFBP must, in respect of each kind of customer, business relationship, product and transaction, establish and maintain effective procedures not inconsistent with this Ordinance for the purpose of carrying out the duties under sections 3, 4, 5, 9, 10 and 15 of this Schedule.
+
+    - (Amended 4 of 2018 s. 26)
 
 - Part 3 Record-keeping Requirements
 
   - 20. Duty to keep records
 
-    - (1) A financial institution must—
+    - (1) A financial institution or a DNFBP must— (Amended 4 of 2018 s. 26)
 
-      - (a) in relation to each transaction it carries out, keep the original or a copy of the documents, and a record of the data and information, obtained in connection with the transaction in accordance with Part 2 of this Schedule; and
+      - (a) in relation to each transaction the financial institution or the DNFBP carries out, keep the original or a copy of the documents, and a record of the data and information, obtained in connection with the transaction in accordance with Part 2 of this Schedule; and
 
-      - (b) in relation to each of its customers, keep—
+      - (b) in relation to each customer, keep— (Amended 4 of 2018 s. 26)
 
         - (i) the original or a copy of the documents, and a record of the data and information, obtained in the course of identifying and verifying the identity of the customer or any beneficial owner of the customer in accordance with Part 2 of this Schedule; and
 
         - (ii) the original or a copy of the files relating to the customer’s account and business correspondence with the customer and any beneficial owner of the customer.
 
-    - (2) Records required to be kept under subsection (1)(a) must be kept for a period of 6 years beginning on the date on which the transaction is completed, regardless of whether the business relationship ends during that period.
+    - (2) Records required to be kept under subsection (1)(a) must be kept for a period of at least 5 years beginning on the date on which the transaction is completed, regardless of whether the business relationship ends during that period.
 
-    - (3) Records required to be kept under subsection (1)(b) must be kept throughout the continuance of the business relationship with the customer and for a period of 6 years beginning on the date on which the business relationship ends.
+    - (3) Records required to be kept under subsection (1)(b) must be kept throughout the continuance of the business relationship with the customer and for a period of at least 5 years beginning on the date on which the business relationship ends.
 
-    - (4) A relevant authority may, by notice in writing to a financial institution, require the financial institution to keep the records relating to a specified transaction or customer for a period specified by the relevant authority that is longer than that referred to in subsection (2) or (3), as the case requires, if—
+    - (4) A relevant authority or a regulatory body may, by notice in writing to a financial institution or a DNFBP, require the financial institution or the DNFBP to keep the records relating to a specified transaction or customer for a period specified by the relevant authority or the regulatory body that is longer than that referred to in subsection (2) or (3), as the case requires, if— (Amended 4 of 2018 s. 26)
 
-      - (a) the relevant authority is satisfied that the records are relevant to an ongoing criminal or other investigation carried out by it; or
+      - (a) the relevant authority or the regulatory body is satisfied that the records are relevant to an ongoing criminal or other investigation carried out by it; or
 
-      - (b) the records are relevant to any other purposes as specified by the relevant authority in the notice.
+      - (b) the records are relevant to any other purposes as specified by the relevant authority or the regulatory body in the notice.
 
-    - (5) A financial institution to whom a notice is given under subsection (4) must keep the relevant records for the period specified in the notice.
+    - (5) A financial institution or a DNFBP to whom a notice is given under subsection (4) must keep the relevant records for the period specified in the notice.
+
+  - (Amended 4 of 2018 s. 26)
 
   - 21. Manner in which records are to be kept Records required to be kept under section 20 of this Schedule must be kept in the following manner—
 
@@ -754,13 +838,27 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (b) take additional measures to effectively mitigate the risk of money laundering and terrorist financing faced by the branch or subsidiary undertaking as a result of its inability to comply with the requirement.
 
+    - (2A) A DNFBP incorporated in Hong Kong must ensure that—
+
+      - (a) its branches; and
+
+      - (b) its subsidiary undertakings that carry on the same business as a DNFBP in a place outside Hong Kong,
+
+    - have procedures in place to ensure compliance with, to the extent permitted by the law of that place, requirements similar to those imposed under Parts 2 and 3 of this Schedule that are applicable to the DNFBP. (Added 4 of 2018 s. 26)
+
+    - (2B) If the law of the place at which a branch or a subsidiary undertaking of a DNFBP carries on business does not permit the application of any procedures relating to any of the requirements referred to in subsection (2A), the DNFBP must—
+
+      - (a) inform the relevant authority, or if applicable, the relevant regulatory body, accordingly; and
+
+      - (b) take additional measures to effectively mitigate the risk of money laundering and terrorist financing faced by the branch or subsidiary undertaking as a result of its inability to comply with the requirement. (Added 4 of 2018 s. 26)
+
     - (3) In this section—
 
-      - branch (分行), in relation to a financial institution, means a branch of the financial institution outside Hong Kong at which it carries on a business similar to that carried on by the financial institution, whether or not the business of the branch is limited by the laws or regulations of the place in which the branch is situated and whether or not the branch is referred to as an agency in that place;
+      - branch (分行), in relation to a financial institution or a DNFBP, means a branch of the financial institution or the DNFBP outside Hong Kong at which it carries on a business similar to that carried on by the financial institution or the DNFBP, whether or not the business of the branch is limited by the laws or regulations of the place in which the branch is situated and whether or not the branch is referred to as an agency in that place; (Amended 4 of 2018 s. 26)
 
       - subsidiary undertaking (附屬企業) is to be construed in accordance with Schedule 1 to the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920)
 
-  - 23. Financial institutions to prevent contravention of Part 2 or 3 of this Schedule A financial institution must take all reasonable measures—
+  - 23. Financial institutions and DNFBPs to prevent contravention of Part 2 or 3 of this Schedule (Amended 4 of 2018 s. 26) A financial institution or a DNFBP must take all reasonable measures— (Amended 4 of 2018 s. 26)
 
     - (a) to ensure that proper safeguards exist to prevent a contravention of any requirement under Part 2 or 3 of this Schedule; and
 
