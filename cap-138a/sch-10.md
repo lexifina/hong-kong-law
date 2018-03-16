@@ -424,6 +424,8 @@ Poisons List
 
     - Barbituric acid; its salts; its derivatives; their salts; any compound with any substance falling within this item
 
+    - Baricitinib; its salts
+
     - Basiliximab; its salts
 
     - Becaplermin; its salts
@@ -561,6 +563,8 @@ Poisons List
     - Cabazitaxel; its salts; its esters; their salts
 
     - Cabergoline; its salts
+
+    - Cabozantinib; its salts
 
     - Calcipotriol; its salts
 
@@ -1094,6 +1098,8 @@ Poisons List
 
     - Etanercept
 
+    - Etelcalcetide; its salts
+
     - Ethacrynic acid; its salts
 
     - Ethambutol; its salts
@@ -1279,6 +1285,8 @@ Poisons List
     - Gemfibrozil
 
     - Gimeracil; its salts
+
+    - Glecaprevir; its salts
 
     - Glibenclamide
 
@@ -2116,6 +2124,8 @@ Poisons List
 
     - Cimetidine
 
+    - Deoxycholic acid
+
     - Dextromethorphan
 
     - Dicycloverine
@@ -2303,6 +2313,8 @@ Poisons List
     - 4-Phenylpiperidine-4-carboxylic acid ethyl ester; its salts
 
     - Pholcodine; its salts; its esters and ethers; their salts
+
+    - Pibrentasvir; its salts
 
     - Picric acid
 
@@ -2998,7 +3010,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018)
 
     - Division B
 
