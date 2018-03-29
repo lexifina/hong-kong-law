@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 2(1), 14A(1) & 19CA(4) & (5)] (Amended 4 of 2011 s. 6)
+[ss. 2(1), 14A(1) & 19CA(4)] (Amended 4 of 2011 s. 6; 13 of 2018 s. 9)
 
 Standard Rate
 

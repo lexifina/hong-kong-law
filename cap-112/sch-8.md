@@ -1,6 +1,6 @@
 # Schedule 8
 
-[ss. 14(2), 14A(1), 14B(1), 14D(1), 14H(1), 14J(1), 16(2I), 19CA(4) & (5) & 63H(1A)] (Amended 4 of 2011 s. 8; 12 of 2016 s. 5; 12 of 2016 s. 9; 9 of 2017 s. 15)
+[ss. 14, 14AAC, 14A, 14B, 14D, 14H, 14J, 16, 19CA, 63H & 63HA] (Replaced 13 of 2018 s. 10)
 
 Rate of Profits Tax in respect of a Corporation
 
