@@ -64,7 +64,7 @@ Restricted Zones
 
 - (iii) | the northern kerbside lane of Chek Lap Kok South Road from a point about 400 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 404 m east of the same junction. (L.N. 40 of 2013)
 
-- (r) | Cheong Lin Path. (L.N. 202 of 2006)
+- (r) | (Repealed L.N. 22 of 2018)
 
 - (s) | The section of Chun Wan Road North, being the area shown in red on a plan numbered TS/000/C/1447/A and deposited in the head office of the Authority. (L.N. 230 of 2008; L.N. 40 of 2013)
 
@@ -110,9 +110,11 @@ Restricted Zones
 
 - (zn) | Cheong Wui Road. (L.N. 230 of 2008)
 
-- (zo) | The access road linking Sky Plaza Road Central to Coach Station at Terminal 2, adjacent to Sky Plaza Drive, being the area shown in red on a plan numbered TS/000/C/1334/A and deposited in the head office of the Authority. (L.N. 40 of 2013)
+- (zo) | (Repealed L.N. 22 of 2018)
 
 - (zp) | The segregated left turning lane near Airport South Interchange linking the eastbound carriageway of Cheong Lin Road to the northbound carriageway of Airport Road. (L.N. 40 of 2013)
+
+- (zq) | The access road to and from the Northern (Landside) Petrol Filling Station, being the areas shown in red on a plan numbered TSD/000/C/1758A and deposited in the head office of the Authority. (L.N. 22 of 2018)
 
 - 2. | (a) | The section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction. | All motor vehicles except franchised buses and taxis.
 
@@ -130,7 +132,7 @@ Restricted Zones
 
 - (d) | Light Goods Vehicles Access Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. (L.N. 88 of 2007)
 
-- (e) | The access road from egress of AA Staff Car Park to Sky Plaza Road Central, being the area shown in red on a plan numbered TS/000/C/1353A and deposited in the head office of the Authority. (L.N. 40 of 2013)
+- (e) | (Repealed L.N. 22 of 2018)
 
 - 5. | (a) | The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its southern junction with Airport Road to a point about 1 050 m north from the same junction. (L.N. 202 of 2006; L.N. 40 of 2013) | All goods vehicles.
 
@@ -155,6 +157,8 @@ Restricted Zones
 - 2. | Light Goods Vehicles Loading Area to the east of Cheong Shun Road, being the area shown in green on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) | Light goods vehicles. | Unloading goods.
 
 - (b) | Other motor vehicles. | Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+- Column 1 | Column 2 | Column 3
 
 - 3. | The section of the eastbound carriageway of Chun Wan Road from a point about 192 m east of its junction with Chun Ping Road to a point about 202 m east of that junction. (L.N. 230 of 2008) | (a) | Taxi. | Picking up passengers, loading goods and unloading goods.
 

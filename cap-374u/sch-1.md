@@ -34,7 +34,7 @@ Column 1 | Column 2
 
 (g) | The road between Catering Road East and Airport Road adjacent to the Landside Fire Station, being the area delineated by hatching on a plan numbered AMD/LOD/GZ/007A and deposited in the head office of the Authority.
 
-(h) | The access road on eastern side of the multi-storey car park linking northern and southern parts of Cheong Tat Road.
+(h) | (Repealed L.N. 22 of 2018)
 
 (i) | The access road linking Cheong Lin Road to CLP Power Hong Kong Ltd. Airport ‘A’ Substation near Sky City Interchange. (L.N. 202 of 2006)
 
@@ -48,7 +48,7 @@ Column 1 | Column 2
 
 (n) | The Coach Station at Terminal 2, being the area shown in red on a plan numbered PSU/P350/C/1002/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
-(o) | The Coach and Limousine Staging Area, being the area shown in red on a plan numbered TS/000/C/1333A and deposited in the head office of the Authority. (L.N. 230 of 2008; L.N. 40 of 2013)
+(o) | The access road to and from the Coach and Limousine Staging Area, being the area shown in red on a plan numbered TS/000/C/1333B and deposited in the head office of the Authority. (L.N. 230 of 2008; L.N. 40 of 2013; L.N. 22 of 2018)
 
 (p) | The access road linking Sky City Road to CLP Power Hong Kong Ltd. Sky City Road Substation near Airport North Interchange. (L.N. 40 of 2013)
 
@@ -56,14 +56,14 @@ Column 1 | Column 2
 
 4. | The taxi pick-up and staging area which is about 240 m east of the junction of Sky City Road and Airport Expo Boulevard, being the area delineated by hatching on a plan numbered PSU/P330/C/0020/A and deposited in the head office of the Authority. (L.N. 233 of 2005) | All motor vehicles except taxis.
 
-5. | Light Goods Vehicles Access Area, Light Goods Vehicles Loading Area and Light Goods Vehicles Unloading Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. (L.N. 88 of 2007) | All motor vehicles except light goods vehicles.
+5. | Light Goods Vehicles Access Area, Light Goods Vehicles Loading Area and Light Goods Vehicles Unloading Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1151D and deposited in the head office of the Authority. (L.N. 88 of 2007; L.N. 22 of 2018) | All motor vehicles except light goods vehicles.
 
 6. | The access road linking Cheong Shun Road and Light Goods Vehicles Access Area to the east of Cheong Shun Road, being the area shown in red on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. (L.N. 88 of 2007) | All motor vehicles exceeding 7 m in overall length.
 
-7. | (a) | Car Park No. 1 and Government Car Park to the east of Cheong Shun Road, being the area shown in blue on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. | All goods vehicles and taxis.
+7. | (a) | Car Park No. 1 and Government Car Park to the east of Cheong Shun Road, being the area shown in blue on a plan numbered TSP/000/C/1151D and deposited in the head office of the Authority. (L.N. 22 of 2018) | All goods vehicles and taxis.
 
-(b) | Car Park No. 2 to the north-west of Airport South Interchange, being the area shown in green on a plan numbered TSP/000/C/1151C and deposited in the head office of the Authority. (L.N. 40 of 2013)
+(b) | (Repealed L.N. 22 of 2018)
 
 (c) | Car Park No. 4 (multi-storey car park) to the west of the access road linking northern and southern parts of Cheong Tat Road, being the area shown in pink on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. (L.N. 88 of 2007)
 
-(d) | The section of the access road to the east of Sky Plaza Road Central linking Sky Plaza Road Central and Car Park No. 2, being the area shown in red on a plan numbered PSU/P350/C/1007/A and deposited in the head office of the Authority. (L.N. 230 of 2008)
+(d) | (Repealed L.N. 22 of 2018)
