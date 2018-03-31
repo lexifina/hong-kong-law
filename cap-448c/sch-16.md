@@ -36,7 +36,7 @@ The Air Navigation (Dangerous Goods) Regulations
 
       - States concerned has the same meaning as it has in Chapter 1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011; L.N. 182 of 2013)
 
-      - Technical Instructions* means the 2015–2016 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016)
+      - Technical Instructions* means the 2017–2018 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016; L.N. 13 of 2018)
 
       - unit load device means any type of freight container including any container designed for loading on an aircraft.
 
@@ -100,15 +100,21 @@ The Air Navigation (Dangerous Goods) Regulations
 
     - (5) If any dangerous goods are not accepted by the operator of an aircraft under Regulation 6(1A), the operator is required to preserve for not less than six months a copy of—
 
-      - (a) the document which would have been the dangerous goods transport document in respect of the dangerous goods if those goods were accepted under Regulation 6(1A) and any other document referred to in Regulation 4(4), in respect of those goods; and
+      - (a) the document which would have been the dangerous goods transport document in respect of the dangerous goods if those goods were accepted under Regulation 6(1A) and any other document referred to in Regulation 4(4), in respect of those goods; (L.N. 13 of 2018)
 
-      - (b) any acceptance check list completed under Regulation 6(1A), for any package or unit load device containing the dangerous goods. (L.N. 182 of 2013)
+      - (b) any acceptance checklist completed under Regulation 6(1A)(a), for any package or unit load device containing the dangerous goods; and (L.N. 182 of 2013; L.N. 13 of 2018)
+
+      - (c) a record of the identification of the person referred to in Regulation 6(1A)(b), for any package or unit load device containing the dangerous goods. (L.N. 13 of 2018)
 
   - 5. (Repealed L.N. 234 of 2001)
 
   - 6. Operator’s responsibilities
 
-    - (1A) The operator of an aircraft must not accept for carriage by the aircraft any package or unit load device containing dangerous goods unless the operator has verified the matters set out in Chapter 1.3.1 of Part 7 of the Technical Instructions by an acceptance check list. (L.N. 193 of 2009; L.N. 92 of 2016)
+    - (1A) The operator of an aircraft must not accept for carriage by the aircraft any package or unit load device containing dangerous goods unless—
+
+      - (a) the matters set out in Chapter 1.3.1 of Part 7 of the Technical Instructions are verified by use of an acceptance checklist; and
+
+      - (b) the operator is able to identify the person who verified the matters. (L.N. 13 of 2018)
 
     - (1B) However, paragraph (1A) does not apply in relation to a package or unit load device that was carried by air to Hong Kong for further carriage by air to a place outside Hong Kong. (L.N. 92 of 2016)
 
@@ -126,11 +132,7 @@ The Air Navigation (Dangerous Goods) Regulations
 
       - (c) that the unit load device is free from any evidence of leakage from or damage to any dangerous goods contained therein before loading or causing the unit load device to be loaded on board the aircraft or before suspending or causing the unit load device to be suspended beneath the aircraft, as the case may be.
 
-    - (2)
-
-      - (a)-(b) (Repealed L.N. 193 of 2009)
-
-      - (c) The operator of an aircraft shall preserve for not less than six months a record of any acceptance check list completed under paragraph (1A). The record shall be in a legible or a non-legible form so long as the recording is capable of being reproduced in legible form. (L.N. 193 of 2009)
+    - (2) The operator of an aircraft must keep for not less than 6 months a record of any acceptance checklist completed under paragraph (1A)(a) and a record of the identification of the person referred to in paragraph (1A)(b). The record must be in a legible form or, if it is in a non-legible form, be capable of being reproduced in a legible form. (L.N. 13 of 2018)
 
     - (3) The operator shall not load or cause to be loaded on an aircraft or suspend or cause to be suspended beneath an aircraft any package or unit load device containing dangerous goods which on inspection is found to be leaking or damaged so that the contents or the dangerous goods therein may escape or be damaged.
 
@@ -174,25 +176,17 @@ The Air Navigation (Dangerous Goods) Regulations
 
       - (b) the copy referred to in subparagraph (a), or the information contained in it, is readily accessible to the ground personnel for flight operations until after the aircraft has landed at the aerodrome of intended destination. (L.N. 214 of 2003; L.N. 182 of 2013)
 
-    - (2) The operator of an aerodrome and the operator of an aircraft in which passengers are to be carried or his handling agent shall ensure that passengers of the aircraft are provided with information, in accordance with paragraph (2A), as to which categories of dangerous goods may not be taken on board the aircraft (whether as checked baggage or baggage accompanying passengers). (L.N. 74 of 2006; L.N. 195 of 2007)
+    - (2) The operator of an aerodrome, and the operator of an aircraft in which passengers are to be carried or the operator’s handling agent, must ensure that the passengers of the aircraft are notified as to which categories of dangerous goods may not be taken on board the aircraft (whether as checked baggage or baggage accompanying passengers), in accordance with the provisions in Chapter 5.1 of Part 7 of the Technical Instructions. (L.N. 13 of 2018)
 
-    - (2A) The information shall be provided in notices that—
+    - (2A) (Repealed L.N. 13 of 2018)
 
-      - (a) include visual examples of the dangerous goods; and
+    - (2B) The operator of an aircraft shall also ensure that information required to be provided under paragraph (2) and information as to which categories of dangerous goods may be carried by passengers of the aircraft is provided or made available to them in accordance with the provisions in Chapter 5.1 of Part 7 of the Technical Instructions. (L.N. 195 of 2007; L.N. 140 of 2011)
 
-      - (b) are prominently displayed, in sufficient number, at—
+    - (2BA) The operator of an aircraft must also describe, in one or both of the following manuals of the operator, the system of providing the information required under paragraph (2) to the passengers of the aircraft—
 
-        - (i) each of the places at the airport where—
+      - (a) operations manual;
 
-          - (A) tickets are issued;
-
-          - (B) passengers are checked in; or
-
-          - (C) passengers assemble to board the aircraft; and
-
-        - (ii) any other location where passengers are checked in. (L.N. 193 of 2009)
-
-    - (2B) The operator of an aircraft shall also ensure that information required to be provided under paragraph (2) and information as to which categories of dangerous goods may be carried by passengers of the aircraft is provided or made available to them in accordance with the provisions in Chapter 5.1 of Part 7 of the Technical Instructions. (L.N. 140 of 2011)
+      - (b) another manual the operator considers appropriate. (L.N. 13 of 2018)
 
     - (2C) The operator of an aircraft and his handling agent shall, during the check-in process—
 
@@ -240,12 +234,14 @@ The Air Navigation (Dangerous Goods) Regulations
 
     - (b) the dangerous goods transport document or other document in respect of any dangerous goods referred to in Regulation 4 of these Regulations;
 
-    - (c) the completed acceptance check list in a legible form in respect of any dangerous goods, referred to in Regulation 6(1A) of these Regulations; (L.N. 193 of 2009)
+    - (c) the completed acceptance checklist in a legible form in respect of any dangerous goods, referred to in Regulation 6(1A)(a) of these Regulations; (L.N. 193 of 2009; L.N. 13 of 2018)
 
-    - (d) a copy of the written or printed information provided to the commander of the aircraft and the ground personnel for flight operations in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations. (L.N. 214 of 2003; L.N. 182 of 2013)
+    - (d) a copy of the written or printed information provided to the commander of the aircraft and the ground personnel for flight operations in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations; (L.N. 214 of 2003; L.N. 182 of 2013; L.N. 13 of 2018)
+
+    - (e) the record of the identification of the person referred to in Regulation 6(1A)(b) in a legible form in respect of any dangerous goods, referred to in Regulation 6(2). (L.N. 13 of 2018)
 
   - 10. (Repealed L.N. 195 of 2007) TABLE OF COMPARISON (Repealed L.N. 77 of 2008)
 
 Editorial Note:
 
-* The English and Chinese texts of the 2015–2016 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
+* | The English and Chinese texts of the 2017–2018 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
