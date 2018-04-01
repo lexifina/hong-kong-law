@@ -174,6 +174,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Bachelor of Finance
 
+      - Bachelor of Finance in Asset Management and Private Banking
+
       - Bachelor of Housing Management
 
       - Bachelor of Journalism
@@ -193,6 +195,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
       - Bachelor of Science
 
       - Bachelor of Science in Actuarial Science
+
+      - Bachelor of Science in Applied Child Development
 
       - Bachelor of Science in Applied Medical Sciences
 
@@ -234,7 +238,11 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
     - (b) Masters degrees
 
+      - Executive Master of Business Administration
+
       - Juris Doctor
+
+      - Master of Accounting
 
       - Master of Architecture
 
@@ -262,6 +270,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Common Law
 
+      - Master of Data Science
+
       - Master of Dental Surgery, in dental disciplines as determined by the Senate from time to time
 
       - Master of Economics
@@ -277,6 +287,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
       - Master of Fine Arts
 
       - Master of Geographic Information Systems
+
+      - Master of Global Public Policy
 
       - Master of Housing Management
 
@@ -314,6 +326,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Science in Audiology
 
+      - Master of Science in Business Analytics
+
       - Master of Science in Chinese Medicines
 
       - Master of Science in Community Dentistry
@@ -342,9 +356,13 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Science in Information Technology in Education
 
+      - Master of Science in Integrated Project Delivery
+
       - Master of Science in Interdisciplinary Design and Management
 
       - Master of Science in Library and Information Management
+
+      - Master of Science in Marketing
 
       - Master of Science in Real Estate
 
@@ -367,6 +385,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
       - Master of Urban Design
 
     - (c) Doctors degrees
+
+      - Doctor of Business Administration
 
       - Doctor of Education
 
@@ -404,7 +424,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Doctor of Social Sciences honoris causa
 
-    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015)
+    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -486,6 +506,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Postgraduate Diploma in Journalism
 
+      - Postgraduate Diploma in Landscape Architecture
+
       - Postgraduate Diploma in Laws
 
       - Postgraduate Diploma in the Law of the People’s Republic of China
@@ -548,7 +570,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Postgraduate Certificate in Public Health
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 11 of 2018)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
@@ -1448,8 +1470,10 @@ STATUTE XXVIIA-XXVIIB (Repealed L.N. 83 of 1992) STATUTE XXVIII CONVOCATION
 
     - (2) For the purpose of this paragraph “findings” shall include the name of the student against whom the complaint was made, the nature of the offence complained of, the provision of the statute under which the complaint was brought, the decision of the Committee on the complaint, and the penalty, if any, imposed by the Committee.
 
-  - 12. The Committee may exercise all or any of the powers conferred under this Statute notwithstanding that the person against whom a complaint has been made had ceased to be a student at the time of the complaint or at the time of the hearing by the Committee of the charge or at the time when the Committee makes its findings on the charge. (L.N. 123 of 1994) (L.N. 19 of 1971)
+  - 12. The Committee may exercise all or any of the powers conferred under this Statute notwithstanding that the person against whom a complaint has been made had ceased to be a student at the time of the complaint or at the time of the hearing by the Committee of the charge or at the time when the Committee makes its findings on the charge. (L.N. 123 of 1994)
+
+- (L.N. 19 of 1971)
 
 Editorial Note:
 
-* For the transitional provision relating to the amendments made by the Statutes of the University of Hong Kong (Amendment) (No. 2) Statutes 2003 (L.N. 186 of 2003) , see section 14 of the Statutes.
+* For the transitional provision relating to the amendments made by the Statutes of the University of Hong Kong (Amendment) (No. 2) Statutes 2003 (L.N. 186 of 2003), see section 14 of the Statutes.
