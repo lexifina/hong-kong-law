@@ -1,6 +1,8 @@
 # SCHEDULE 2
 
-[ss. 2 & 22 & Sch. 3]
+[ss. 2 & 22]
+
+(Amended L.N. 3 of 2018)
 
 SELF-ACCREDITING OPERATORS
 
@@ -10,7 +12,7 @@ SELF-ACCREDITING OPERATORS
 
 - 3. Hong Kong Baptist University
 
-- 4. The Education University of Hong Kong (excluding learning programmes which are not learning programmes in teacher education) (Amended 6 of 2016 s. 2)
+- 4. The Education University of Hong Kong (Amended 6 of 2016 s. 2; L.N. 3 of 2018)
 
 - 5. The Hong Kong Polytechnic University
 
