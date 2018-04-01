@@ -24,6 +24,10 @@ Standards
 
   - “Safety of toys—Part 5: Determination of total concentration of certain elements in toys” (Added L.N. 7 of 2016)
 
+  - (cc) ISO 8124-7:2015
+
+  - “Safety of toys—Part 7: Requirements and test methods for finger paints” (Added L.N. 102 of 2017)
+
   - (d) IEC 62115 Edition 1.2
 
   - (2011-02) [IEC 62115 Edition 1:2003 consolidated with amendment 1:2004 and amendment 2:2010] “Electric Toys—Safety” (Replaced 26 of 2012 s. 15)
@@ -42,7 +46,7 @@ Standards
 
   - (d) BS EN 71-4:2013 “Safety of toys—Part 4: Experimental sets for chemistry and related activities”
 
-  - (e) BS EN 71-5:2013 “Safety of toys—Part 5: Chemical toys (sets) other than experimental sets”
+  - (e) BS EN 71-5:2015 “Safety of toys—Part 5: Chemical toys (sets) other than experimental sets”
 
   - (f) (Repealed L.N. 184 of 2011)
 
@@ -54,14 +58,18 @@ Standards
 
   - “Safety of toys—Part 12: N-Nitrosamines and N-nitrosatable substances” (Added L.N. 17 of 2015)
 
+  - (hab) BS EN 71-13:2014
+
+  - “Safety of toys—Part 13: Olfactory board games, cosmetic kits and gustative games” (Added L.N. 102 of 2017)
+
   - (hb) BS EN 71-14:2014
 
   - “Safety of toys—Part 14: Trampolines for domestic use” (Added L.N. 7 of 2016)
 
-  - (i) BS EN 62115:2005 + A11:2012 “Electric toys—Safety”
+  - (i) BS EN 62115:2005 + A12:2015 “Electric toys—Safety”
 
 - 3. ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in—
 
 - ASTM F963-11 “Standard consumer safety specification for toy safety”
 
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016) (Format changes—E.R. 2 of 2012)
+(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017) (Format changes—E.R. 2 of 2012)
