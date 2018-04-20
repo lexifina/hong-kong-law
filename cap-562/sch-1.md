@@ -4,11 +4,11 @@ Editorial Note:
 
 # Schedule 1
 
-[ss. 2, 8, 42 & 43 & Schs. 4 & 8]
+[ss. 2, 8, 42 & 43
+
+& Schs. 4 & 8]
 
 Disqualification for Holding Domestic Free or Pay Television Programme Service Licences and Restriction on Voting Control of Voting Controllers
-
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
 
 - Part 1 Interpretation and Application
 
@@ -82,7 +82,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
         - (a) a corporation over which the voting controller has influence;
 
-        - (b) a corporation which has influence over the voting controller being itself a corporation (“the second corporation”);
+        - (b) a corporation which has influence over the voting controller being itself a corporation (the second corporation);
 
         - (c) a corporation which is under the influence of the second corporation;
 
@@ -112,7 +112,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
         - (a) a voting controller who—
 
-          - (i) in the case of an individual, is ordinarily resident in Hong Kong in accordance with paragraph (a) of the definition of “ordinarily resident in Hong Kong” in section 2(1) of this Ordinance and has been so resident for at least one continuous period of not less than 7 years;
+          - (i) in the case of an individual, is ordinarily resident in Hong Kong and has been so resident for at least one continuous period of not less than 7 years; (Amended 17 of 2018 s. 136)
 
           - (ii) in the case of a corporation, is ordinarily resident in Hong Kong; or
 
@@ -364,7 +364,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
       - (b) the following shall apply—
 
-        - (i) the licensee shall, not later than 15 days after the investigation is concluded, give in writing to the Authority any information and particulars received by the licensee as a result of the investigation; (Amended 17 of 2011 s. 28)
+        - (i) the licensee shall, not later than 15 days after the investigation is concluded, give in writing to the Authority any information and particulars received by the licensee as a result of the investigation;
 
         - (ii) without prejudice to subparagraph (i), where the investigation is not concluded within 3 months beginning on the date the relevant notice under this subsection was served on the licensee, the licensee shall, not later than 15 days beginning on—
 
@@ -372,9 +372,9 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
           - (B) the expiry of every successive period of 3 months before the conclusion of the investigation,
 
-        - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be; (Amended 17 of 2011 s. 28)
+        - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be;
 
-        - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by it for a response has expired.
+        - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by it for a response has expired. (Amended 17 of 2011 s. 28)
 
     - (6)
 
@@ -512,13 +512,15 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
     - (1) Subject to subsection (2), notwithstanding anything contained in the articles of association of a licensee or any provision of any law apart from this section, where any question or matter is to be determined by a poll at any general meeting of the licensee, the following shall apply— (Amended 28 of 2012 ss. 912 & 920)
 
-      - (a) no vote shall be cast on the poll, whether in person or by proxy, other than by or by proxy on behalf of any person who, at the time of the general meeting, is a registered shareholder of voting shares of the licensee in respect of which a document mentioned in section 22(1)(b) has, in accordance with any direction in that behalf issued by the Authority under section 30, been completed and returned to the licensee; (Amended 17 of 2011 s. 28)
+      - (a) no vote shall be cast on the poll, whether in person or by proxy, other than by or by proxy on behalf of any person who, at the time of the general meeting, is a registered shareholder of voting shares of the licensee in respect of which a document mentioned in section 22(1)(b) has, in accordance with any direction in that behalf issued by the Authority under section 30, been completed and returned to the licensee;
 
       - (b) where the total voting control exercised by unqualified voting controllers would otherwise exceed, in the aggregate, 49% of the total voting control exercised on the poll by both qualified and unqualified voting controllers, the votes cast on the poll by unqualified voting controllers shall, for the purpose of determining the question or matter, be reduced by multiplying those votes by the percentage determined by the formula specified in paragraph (c);
 
       - (c) the formula for the purposes of paragraph (b) is—
 
-      - 1 B x (49×A) 51 x 100
+      - 1 | × | (49×A) | × | 100
+
+      - B | 51
 
       - where | A = | the percentage of the total votes cast on the poll, the voting controllers of which are qualified voting controllers;
 
@@ -530,7 +532,9 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
       - (b) where the share capital of the licensee is for the time being divided into different classes of shares, to the variation, including abrogation, of any special rights attaching to any such classes of shares.
 
-    - (3) The Authority may at any time before, at or during a general meeting of a licensee, direct the licensee orally or by notice in writing to conduct a poll upon any resolution and, where such a direction is given, the licensee shall comply with it. (Amended 17 of 2011 s. 28)
+    - (3) The Authority may at any time before, at or during a general meeting of a licensee, direct the licensee orally or by notice in writing to conduct a poll upon any resolution and, where such a direction is given, the licensee shall comply with it.
+
+  - (Amended 17 of 2011 s. 28)
 
   - 20. 2% to 10% control limits by unqualified voting controller subject to approval of Authority (Amended 17 of 2011 s. 28)
 
@@ -696,7 +700,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
       - (c) the particulars received by the licensee in response to the notice.
 
-    - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Authority under section 30.
+    - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Authority under section 30. (Amended 17 of 2011 s. 28)
 
   - 26. Power of Authority to impose restrictions (Amended 17 of 2011 s. 28)
 

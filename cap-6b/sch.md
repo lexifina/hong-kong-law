@@ -1,6 +1,6 @@
-# *SCHEDULE FORMS
+# *Schedule Forms
 
-INDEX
+Index
 
 Form
 
@@ -12,9 +12,7 @@ Affidavit verifying trustee’s trading account | 149
 
 Affidavit verifying special manager’s account | 151
 
-Certificate by creditors’ committee as to audit of trustee’s
-
-account | 145
+Certificate by Creditors’ committee as to audit of trustee’s account | 145
 
 Profit and loss account | 148
 
@@ -62,17 +60,13 @@ Register of assignment of | 117
 
 Committal:
 
-Affidavit in support of application for committal of bankrupt
-
-under section 26 or 55 | 96
+Affidavit in support of application for committal of bankrupt under section 26 or 55 | 96
 
 Affidavit of non-compliance with order of court | 104
 
 Affidavit of trustee under section 53(5) | 97
 
-Application by trustee for committal of bankrupt or other
-
-person | 94
+Application by trustee for committal of bankrupt or other person | 94
 
 Notice of application for committal under section 110 | 98
 
@@ -88,9 +82,7 @@ Order of committal under section 53(5) | 103
 
 Order for discharge from custody on contempt | 106
 
-Order for production of person in prison for examination
-
-before the court | 107
+Order for production of person in prison for examination before the court | 107
 
 Warrant of committal for contempt | 105
 
@@ -116,29 +108,19 @@ Order on application by trustee | 132
 
 Discharge:
 
-Application by bankrupt under section 30A(7) of the
+Application by bankrupt under section 30A(7) of the Bankruptcy Ordinance for lifting a suspension of the running of the relevant period for discharge | 85
 
-Bankruptcy Ordinance for lifting a suspension of the running of the relevant period for discharge | 85
-
-Application for early discharge under section 30B(1) of the
-
-Bankruptcy Ordinance | 84
+Application for early discharge under section 30B(1) of the Bankruptcy Ordinance | 84
 
 Certificate of discharge | 88
 
 Certificate that order suspending discharge has been lifted | 87
 
-Notice of intention to object to bankrupt’s discharge under
+Notice of intention to object to bankrupt’s discharge under section 30A(4) of the Bankruptcy Ordinance | 82
 
-section 30A(4) of the Bankruptcy Ordinance | 82
+Notice to creditors by trustee under section 30A(5) of the Bankruptcy Ordinance | 83
 
-Notice to creditors by trustee under section 30A(5) of the
-
-Bankruptcy Ordinance | 83
-
-Order of suspension of discharge under section 30A(3) of the
-
-Bankruptcy Ordinance | 81
+Order of suspension of discharge under section 30A(3) of the Bankruptcy Ordinance | 81
 
 Order of court lifting suspension of discharge | 86
 
@@ -148,15 +130,11 @@ Notice of disclaimer without leave of court | 128
 
 Notice of disclaimer with leave of court | 129
 
-Notice to landlord of intention to disclaim lease not sublet or
-
-mortgaged | 123
+Notice to landlord of intention to disclaim lease not sublet or mortgaged | 123
 
 Notice of intention to disclaim lease sublet or mortgaged | 124
 
-Notice by landlord or other person requiring trustee to bring
-
-disclaimer before court | 130
+Notice by landlord or other person requiring trustee to bring disclaimer before court | 130
 
 Of lease after notice | 126
 
@@ -166,15 +144,11 @@ Without notice | 125
 
 Dividend:
 
-Application by creditor for order for trustee to pay and order
-
-thereon | 142
+Application by creditor for order for trustee to pay and order thereon | 142
 
 Notice to creditors of intention to declare | 138
 
-Notice to persons claiming to be creditors of intention to
-
-declare final dividend | 139
+Notice to persons claiming to be creditors of intention to declare final dividend | 139
 
 Notice of dividend | 141
 
@@ -212,9 +186,7 @@ List of creditors assembled at | 45
 
 Memorandum of adjournment | 37
 
-Memorandum of proceedings at adjourned general meeting: no
-
-quorum | 38
+Memorandum of proceedings at adjourned general meeting: no quorum | 38
 
 Notice to creditors of general meeting of creditors | 29
 
@@ -240,13 +212,9 @@ Order of court for general meeting of creditors | 39
 
 Non-commencement Order:
 
-Notice of commencement of relevant period for bankrupt
+Notice of commencement of relevant period for bankrupt under section 30AC(3)(a) of Bankruptcy Ordinance | 82B
 
-under section 30AC(3)(a) of Bankruptcy Ordinance | 82B
-
-Order for non-commencement of relevant period for bankrupt
-
-under section 30AC(1) of Bankruptcy Ordinance | 82A
+Order for non-commencement of relevant period for bankrupt under section 30AC(1) of Bankruptcy Ordinance | 82A
 
 Petition:
 
@@ -264,21 +232,13 @@ Allocatur for costs of debtor’s petition | 144
 
 Bond on stay of proceedings, security, etc. | 19
 
-Creditor’s bankruptcy petition on failure to comply with a
+Creditor’s bankruptcy petition on failure to comply with a statutory demand for a liquidated sum payable immediately | 10
 
-statutory demand for a liquidated sum payable immediately | 10
+Creditor’s bankruptcy petition on failure to comply with a statutory demand for a liquidated sum payable at a future date | 10A
 
-Creditor’s bankruptcy petition on failure to comply with a
+Creditor’s bankruptcy petition where execution or other process on a judgment has been returned in whole or part | 10B
 
-statutory demand for a liquidated sum payable at a future date | 10A
-
-Creditor’s bankruptcy petition where execution or other
-
-process on a judgment has been returned in whole or part | 10B
-
-Bankruptcy petition for default in connection with voluntary
-
-arrangement | 10C
+Bankruptcy petition for default in connection with voluntary arrangement | 10C
 
 Creditor’s petition (section 112) | 134
 
@@ -312,13 +272,9 @@ Order under section 30D(1) of the Bankruptcy Ordinance | 157
 
 Order under section 30D(3) of the Bankruptcy Ordinance | 158
 
-Application for order under section 30D(3) of the Bankruptcy
+Application for order under section 30D(3) of the Bankruptcy Ordinance | 159
 
-Ordinance | 159
-
-Application for order under section 30D(1) of the Bankruptcy
-
-Ordinance | 160
+Application for order under section 30D(1) of the Bankruptcy Ordinance | 160
 
 Proof:
 
@@ -380,13 +336,9 @@ Salary or income:
 
 Notice of application for income payment order (section 43E) | 118
 
-Order for income claimed under section 43E(3)(a) of the
+Order for income claimed under section 43E(3)(a) of the Bankruptcy Ordinance | 120
 
-Bankruptcy Ordinance | 120
-
-Order for income claimed under section 43E(3)(b) of the
-
-Bankruptcy Ordinance | 121
+Order for income claimed under section 43E(3)(b) of the Bankruptcy Ordinance | 121
 
 Shorthand writer:
 
@@ -416,17 +368,11 @@ Application to set aside a statutory demand | 155
 
 Order setting aside a statutory demand | 156
 
-Affidavit in support of application to set aside statutory
+Affidavit in support of application to set aside statutory demand | 161
 
-demand | 161
+Statutory Demand—Debt for liquidated sum payable immediately following a judgment or order of the court | 162
 
-Statutory Demand—Debt for liquidated sum payable
-
-immediately following a judgment or order of the court | 162
-
-Statutory Demand—Debt for liquidated sum payable
-
-immediately | 163
+Statutory Demand—Debt for liquidated sum payable immediately | 163
 
 Statutory Demand—Debt payable at future date | 164
 
@@ -450,23 +396,15 @@ Affidavit in support of application for interim order | 166
 
 Application for interim order | 165
 
-Alternative orders to be made at hearing to consider
+Alternative orders to be made at hearing to consider chairman’s report | 67
 
-chairman’s report | 67
+Interim order of court under section 20 of the Bankruptcy Ordinance | 65
 
-Interim order of court under section 20 of the Bankruptcy
-
-Ordinance | 65
-
-Interim order of court under section 20 of the Bankruptcy
-
-Ordinance—One-stage procedure | 168
+Interim order of court under section 20 of the Bankruptcy Ordinance—One-stage procedure | 168
 
 Notice to intended nominee | 167
 
-Order granting stay pending hearing of application for interim
-
-order | 64
+Order granting stay pending hearing of application for interim order | 64
 
 Order extending effect of interim order | 66
 
@@ -480,9 +418,7 @@ Of committal for contempt | 105
 
 Of seizure | 109
 
-Order for production for examination of person apprehended
-
-under warrant under section 29 | 116
+Order for production for examination of person apprehended under warrant under section 29 | 116
 
 Search warrant | 108
 
@@ -494,11 +430,7 @@ FORMS
 
 Form 1 | [rule 7]
 
-General Title In the Court of First Instance of Hong Kong.
-
-In Bankruptcy.
-
-No. of .
+General Title In the Court of First Instance of Hong Kong. In Bankruptcy. No. of .
 
 Re [James Brown]. Ex parte [here insert the Debtor, or J.S., a Creditor, or the Official Receiver, or the Trustee]
 
@@ -512,13 +444,13 @@ _
 
 Form 3 | [rule 50]
 
-Debtor's Bankruptcy Petition (Title.)
+Debtor’s Bankruptcy Petition (Title.)
 
-(a) Insert full name(s), address(es), occupation, trade or profession and Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor. | I, (a)
+(a) Insert full name(s), address(es), occupation, trade or profession and Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor. (b) Insert in full any other name(s) by which the debtor is or has been known. | I, (a)
 
 ,
 
-(b) Insert in full any other name(s) by which the debtor is or has been known. | [also known as (b)
+[also known as (b)
 
 ]
 
@@ -540,15 +472,15 @@ request the court that a bankruptcy order be made against me and say as follows�
 
 within Hong Kong. 2. I am unable to pay my debts. 3. A statement of my affairs is filed with this petition. Dated this day of .
 
-Signature of witness._
+Signature of witness.________________
 
 ENDORSEMENT
 
-Complete only if petition not heard immediately. | This petition having been presented to the court on _ , it is ordered that the petition shall be heard as follows—
+Complete only if petition not heard immediately. | This petition having been presented to the court on ________________ , it is ordered that the petition shall be heard as follows—
 
 Date
 
-Time _ hours
+Time _______________________ hours
 
 Place
 
@@ -558,31 +490,25 @@ Registrar.
 
 _
 
-Form 4  9 (Repealed L.N. 81 of 1998)
+Forms 4 — 9 (Repealed L.N. 81 of 1998)
 
 _
 
 Form 10 | [rule 50]
 
-Creditor's Bankruptcy Petition on Failure to
-
-Comply with a Statutory Demand for a
-
-Liquidated Sum Payable Immediately (Title.)
+Creditor’s Bankruptcy Petition on Failure to Comply with a Statutory Demand for a Liquidated Sum Payable Immediately (Title.)
 
 (a) Insert full name(s) and address(es) of petitioner(s). | I/We, (a)
 
 ,
 
-(b) Insert full name, place of residence, occupation (if any), Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor. (If known). (c) Insert in full any other name(s) by which the debtor is or has been known. (d) Insert trading name (adding “with another or others”, if this is so), business address and nature of business. | petition the court that a bankruptcy order may be made against (b)
-
-]
+(b) Insert full name, place of residence, occupation (if any), Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor. (If known). | petition the court that a bankruptcy order may be made against (b)
 
 [also known as (c)
 
 ]
 
-[and carrying on business as (d)
+(c) Insert in full any other name(s) by which the debtor is or has been known. (d) Insert trading name (adding “with another or others”, if this is so), business address and nature of business. | [and carrying on business as (d)
 
 ]
 
@@ -604,23 +530,21 @@ and say as follows—
 
 within Hong Kong.
 
-(h) Please give the amount of debt(s), what they relate to and when they were incurred. Please show separately the amount or rate of any interest or other charge not previously notified to the debtor and the reasons why you are claiming it. | 2. The debtor is justly and truly indebted to me[us] in the aggregate sum of $(h) _. 3. The above-mentioned debt is for a liquidated sum payable immediately and the debtor appears to be unable to pay it. 4. On (i) _ a statutory demand was served upon the debtor by (j) _ in respect of the above-mentioned debt. To the best of my/our knowledge and belief the demand has neither been complied with nor set aside in accordance with the Rules and no application to set it aside is outstanding.
+(h) Please give the amount of debt(s), what they relate to and when they were incurred. Please show separately the amount or rate of any interest or other charge not previously notified to the debtor and the reasons why you are claiming it. | 2. The debtor is justly and truly indebted to me[us] in the aggregate sum of $(h) _____________. 3. The above-mentioned debt is for a liquidated sum payable immediately and the debtor appears to be unable to pay it. 4. On (i) ________________ a statutory demand was served upon the debtor by (j) __________________ in respect of the above-mentioned debt. To the best of my/our knowledge and belief the demand has neither been complied with nor set aside in accordance with the Rules and no application to set it aside is outstanding.
 
-(i) Insert date of service of a statutory demand. | (k)
-
-(j) State manner of service of the demand. (k) If 3 weeks have not elapsed since service of statutory demand give reasons for earlier presentation of petition. (l) Delete as applicable. | 5. I/We do not, nor does any person on my/our behalf, hold any security on the debtor’s estate, or any part thereof, for the payment of the above-mentioned sum. or, I/We hold security for the payment of (l) [part of] the above-mentioned sum. I/We will give up such security for the benefit of all the creditors in the event of a bankruptcy order being made. or, I/We hold security for the payment of part of the above-mentioned sum and I/we estimate the value of such security to be $ . This petition is not made in respect of the secured part of my/our debt.
+(i) Insert date of service of a statutory demand. (j) State manner of service of the demand. (k) If 3 weeks have not elapsed since service of statutory demand give reasons for earlier presentation of petition. (l) Delete as applicable. | (k) 5. I/We do not, nor does any person on my/our behalf, hold any security on the debtor’s estate, or any part thereof, for the payment of the above-mentioned sum. or, I/We hold security for the payment of (l) [part of] the above-mentioned sum. I/We will give up such security for the benefit of all the creditors in the event of a bankruptcy order being made. or, I/We hold security for the payment of part of the above-mentioned sum and I/we estimate the value of such security to be $ . This petition is not made in respect of the secured part of my/our debt.
 
 ENDORSEMENT
 
-This petition having been presented to the court on _, it is ordered that the petition shall be heard as follows—
+This petition having been presented to the court on ________________, it is ordered that the petition shall be heard as follows—
 
 Date
 
-Time _ hours
+Time _____________________ hours
 
 Place
 
-(m) Insert name of debtor. | and you, the above-named (m) _ are to take notice that if you intend to show cause against the petition you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
+(m) Insert name of debtor. | and you, the above-named (m) ___________________ are to take notice that if you intend to show cause against the petition you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
 
 Registrar.
 
@@ -630,19 +554,13 @@ _
 
 Form 10A | [rule 50]
 
-Creditor's Bankruptcy Petition on Failure to
-
-Comply with a Statutory Demand for a
-
-Liquidated Sum Payable at a Future Date (Title.)
+Creditor’s Bankruptcy Petition on Failure to Comply with a Statutory Demand for a Liquidated Sum Payable at a Future Date (Title.)
 
 (a) Insert full name(s) and address(es) of petitioner(s). | I/We, (a)
 
 ,
 
 (b) Insert full name, place of residence, occupation (if any), Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor. (If known). (c) Insert in full any other name(s) by which the debtor is or has been known. (d) Insert trading name (adding “with another or others”, if this is so), business address and nature of business. | petition the court that a bankruptcy order may be made against (b)
-
-]
 
 [also known as (c)
 
@@ -670,21 +588,19 @@ and say as follows—
 
 within Hong Kong.
 
-(h) Please give the amount of debt(s), what they relate to and when they were incurred. Please show separately the amount or rate of any interest or other charge not previously notified to the debtor and the reasons why you are claiming it. | 2. The debtor is justly and truly indebted to me[us] in the aggregate sum of $(h) _. 3. The above-mentioned debt is for a liquidated sum payable on (i) _ and the debtor appears to have no reasonable prospect of being able to pay it. 4. On (j) _ a statutory demand was served upon the debtor by (k) _ in respect of the above-mentioned debt. To the best of my/our knowledge and belief the demand has neither been complied with nor set aside in accordance with the Rules and no application to set it aside is outstanding.
-
-(i) Insert date or dates when the debt becomes payable. (j) Insert date of service of statutory demand. (k) State manner of service of the demand. (l) If 3 weeks have not elapsed since service of statutory demand give reasons for earlier presentation of petition. (m) Delete as applicable. | (l) 5. I/We do not, nor does any person on my/our behalf, hold any security on the debtor’s estate, or any part thereof, for the payment of the above-mentioned sum. or, I/We hold security for the payment of (m) [part of] the above-mentioned sum. I/We will give up such security for the benefit of all the creditors in the event of a bankruptcy order being made. or, I/We hold security for the payment of part of the above-mentioned sum and I/We estimate the value of such security to be $ . This petition is not made in respect of the secured part of my/our debt.
+(h) Please give the amount of debt(s), what they relate to and when they were incurred. Please show separately the amount or rate of any interest or other charge not previously notified to the debtor and the reasons why you are claiming it. (i) Insert date or dates when the debt becomes payable. (j) Insert date of service of statutory demand. (k) State manner of service of the demand. (l) If 3 weeks have not elapsed since service of statutory demand give reasons for earlier presentation of petition. (m) Delete as applicable. | 2. The debtor is justly and truly indebted to me[us] in the aggregate sum of $(h) __________. 3. The above-mentioned debt is for a liquidated sum payable on (i) ________________ and the debtor appears to have no reasonable prospect of being able to pay it. 4. On (j) ________________ a statutory demand was served upon the debtor by (k) _________________ in respect of the above-mentioned debt. To the best of my/our knowledge and belief the demand has neither been complied with nor set aside in accordance with the Rules and no application to set it aside is outstanding. (l) 5. I/We do not, nor does any person on my/our behalf, hold any security on the debtor’s estate, or any part thereof, for the payment of the above-mentioned sum. or, I/We hold security for the payment of (m) [part of] the above-mentioned sum. I/We will give up such security for the benefit of all the creditors in the event of a bankruptcy order being made. or, I/We hold security for the payment of part of the above-mentioned sum and I/we estimate the value of such security to be $ . This petition is not made in respect of the secured part of my/our debt.
 
 ENDORSEMENT
 
-This petition having been presented to the court on _, it is ordered that the petition shall be heard as follows—
+This petition having been presented to the court on ________________, it is ordered that the petition shall be heard as follows—
 
 Date
 
-Time _ hours
+Time ______________________ hours
 
 Place
 
-(n) Insert name of debtor. | and you, the above-named (n) _ are to take notice that if you intend to show cause against the petition you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
+(n) Insert name of debtor. | and you, the above-named (n) ________________ are to take notice that if you intend to show cause against the petition you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
 
 Registrar.
 
@@ -694,19 +610,13 @@ _
 
 Form 10B | [rule 50]
 
-Creditor's Bankruptcy Petition Where Execution
-
-or Other Process on a Judgment has been
-
-Return in whole or Part (Title.)
+Creditor’s Bankruptcy Petition Where Execution or Other Process on a Judgment has been Return in whole or Part (Title.)
 
 (a) Insert full name(s) and address(es) of petitioner(s). (b) Insert full name, place of residence, occupation (if any), Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor. (If known). (c) Insert in full any other name(s) by which the debtor is or has been known. (d) Insert trading name (adding “with another or others”, if this is so), business address and nature of business. | I/We, (a)
 
 ,
 
 petition the court that a bankruptcy order may be made against (b)
-
-]
 
 [also known as (c)
 
@@ -718,7 +628,7 @@ petition the court that a bankruptcy order may be made against (b)
 
 [and lately residing at (e)
 
-(e) Insert any other address or addresses at which the debtor has resided at or after the time the petition debt was incurred. (f) Give the same details as specified in note (d) above for any other businesses which have been carried on at or after the time the petition debt was incurred.
+(e) Insert any other address or addresses at which the debtor has resided at or after the time the petition debt was incurred. (f) Give the same details as specified in note (d) above for any other businesses which have been carried on at or after the time the petition debt was incurred. (g) Delete as applicable.
 
 ]
 
@@ -728,29 +638,29 @@ petition the court that a bankruptcy order may be made against (b)
 
 and say as follows—
 
-(g) Delete as applicable. | 1. The debtor is domiciled in Hong Kong/personally present in Hong Kong on the date of presentation of this petition/has within 3 years immediately preceding the presentation of this petition (g) [resided at] [carried on business at]
+1. The debtor is domiciled in Hong Kong/personally present in Hong Kong on the date of presentation of this petition/has within 3 years immediately preceding the presentation of this petition (g) [resided at] [carried on business at]
 
 within Hong Kong.
 
-(h) Please give the amount of debt(s), what they relate to and when they were incurred. Please show separately the amount or rate of any interest or other charge not previously notified to the debtor and the reasons why you are claiming it. | 2. The debtor is justly and truly indebted to me [us] in the aggregate sum of $(h) _. 3. The above mentioned debt is for a liquidated sum payable immediately and the debtor appears to be unable to pay it.
+(h) Please give the amount of debt(s), what they relate to and when they were incurred. Please show separately the amount or rate of any interest or other charge not previously notified to the debtor and the reasons why you are claiming it. | 2. The debtor is justly and truly indebted to me [us] in the aggregate sum of $(h) ____________. 3. The above mentioned debt is for a liquidated sum payable immediately and the debtor appears to be unable to pay it.
 
-(i) Insert date on which judgment was obtained. (j) Insert date of execution. | 4. On (i) _ judgment was obtained in _ Court on an action the short title and reference to the record whereof is Number _ in the sum of $ _ following which execution was issued in the _ court in respect of the debt and on (j) _ the bailiff [made a return] [endorsed upon the writ a statement] to the effect that the execution was unsatisfied (g) [as to the whole] [as to part] and the above-mentioned debt represents the amount by which the execution was returned unsatisfied.
+(i) Insert date on which judgment was obtained. (j) Insert date of execution. | 4. On (i) ____________ judgment was obtained in ____________ Court on an action the short title and reference to the record whereof is Number __________ in the sum of $ __________ following which execution was issued in the ________________ court in respect of the debt and on (j) ____________________ the bailiff [made a return] [endorsed upon the writ a statement] to the effect that the execution was unsatisfied (g) [as to the whole] [as to part] and the above-mentioned debt represents the amount by which the execution was returned unsatisfied.
 
 5. I/We do not, nor does any person on my/our behalf, hold any security on the debtor’s estate, or any part thereof, for the payment of the above-mentioned sum. or, I/We hold security for the payment of (g) [part of] the above-mentioned sum. I/We will give up such security for the benefit of all the creditors in the event of a bankruptcy order being made.
 
-or, I/We hold security for the payment of part of the above-mentioned sum and I/We estimate the value of such security to be $ . This petition is not made in respect of the secured part of my/our debt.
+or, I/We hold security for the payment of part of the above-mentioned sum and I/we estimate the value of such security to be $ . This petition is not made in respect of the secured part of my/our debt.
 
 ENDORSEMENT
 
-This petition having been presented to the court on _, it is ordered that the petition shall be heard as follows—
+This petition having been presented to the court on ____________ , it is ordered that the petition shall be heard as follows—
 
 Date
 
-Time _ hours
+Time ______________________ hours
 
 Place
 
-(k) Insert name of debtor. | and you, the above-named (k) _ are to take notice that if you intend to show cause against the petition you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
+(k) Insert name of debtor. | and you, the above-named (k) __________________ are to take notice that if you intend to show cause against the petition you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
 
 Registrar.
 
@@ -760,17 +670,15 @@ _
 
 Form 10C | [rule 50]
 
-Bankruptcy Petition for Defaut in Connection
+Bankruptcy Petition for Defaut in Connection with Voluntary Arrangement
 
-with Voluntary Arrangement (Title.)
+(Title.)
 
-(a) Insert full name(s) and address(es) of petitioner(s). | I/We, (a)
+(a) Insert full name(s) and address(es) of petitioner(s). (b) Insert full name, place of residence, occupation (if any), Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor (If known). (c) Insert in full any other name(s) by which the debtor is or has been known. (d) Insert trading name (adding “with another or others”, if this is so), business address and nature of business. (e) Insert any other address or addresses at which the debtor has resided at or after the time the petition debt was incurred. | I/We, (a)
 
 ,
 
-(b) Insert full name, place of residence, occupation (if any), Hong Kong Identity Card No. (if any) or number and issuing country of any passport of debtor (If known). (c) Insert in full any other name(s) by which the debtor is or has been known. (d) Insert trading name (adding “with another or others”, if this is so), business address and nature of business. | petition the court that a bankruptcy order may be made against (b)
-
-]
+petition the court that a bankruptcy order may be made against (b)
 
 [also known as (c)
 
@@ -782,31 +690,29 @@ with Voluntary Arrangement (Title.)
 
 [and lately residing at (e)
 
-(e) Insert any other address or addresses at which the debtor has resided at or after the time the petition debt was incurred. (f) Give the same details as specified in note (d) above for any other businesses which have been carried on at or after the time the petition debt was incurred.
-
 ]
 
-[and lately carrying on business as (f)
+(f) Give the same details as specified in note (d) above for any other businesses which have been carried on at or after the time the petition debt was incurred. (g) Delete as applicable. | [and lately carrying on business as (f)
 
 ]
 
 and say—
 
-1. That the debtor has within 3 years immediately preceding the presentation of this petition (g) [resided at]
-
-(g) Delete as applicable. | [carried on business at]
+1. That the debtor has within 3 years immediately preceding the presentation of this petition (g) [resided at] [carried on business at]
 
 within Hong Kong.
 
-(h) Insert date the debtor entered into voluntary arrangement. (i) Insert name of nominee. (j) Give details of the default in connection with the voluntary arrangement, being the grounds under section 20L of the Bankruptcy Ordinance (Chapter 6) upon which the bankruptcy order is sought. | 2. On (h) _ a voluntary arrangement proposed by the debtor was approved by his creditors and I am (g) [a person who is for the time being bound by the said voluntary arrangement and (i) _ is the nominee] [(i) _ the nominee of the said voluntary arrangement]. 3. (j) Dated this day of . Signature of witness. _
+(h) Insert date the debtor entered into voluntary arrangement. (i) Insert name of nominee. | 2. On (h) __________ a voluntary arrangement proposed by the debtor was approved by his creditors and I am (g) [a person who is for the time being bound by the said voluntary arrangement and (i) ______________ is the nominee] [(i) ______________ the nominee of the said voluntary arrangement].
+
+(j) Give details of the default in connection with the voluntary arrangement, being the grounds under section 20L of the Bankruptcy Ordinance (Chapter 6) upon which the bankruptcy order is sought. | 3. (j) Dated this day of . Signature of witness. ____________________
 
 ENDORSEMENT
 
-This petition having been presented to the court on _, it is ordered that the petition shall be heard as follows—
+This petition having been presented to the court on ______________, it is ordered that the petition shall be heard as follows—
 
 Date
 
-Time _ hours
+Time ____________________ hours
 
 Place
 
@@ -838,9 +744,7 @@ Dated this day of .
 
 (Signed) Official Petitioner
 
-C.D. E.F.
-
-(as the case may be).
+C.D. E.F. (as the case may be).
 
 *Where it is the Official Petitioner who is the petitioner, this attestation is not required. | [Signed by the petitioner*
 
@@ -880,7 +784,9 @@ Affidavit of truth of statements in joint petition (Title.)
 
 We, C.D., E.F., G.H., etc., the petitioners named in the petition hereunto annexed, severally make oath and say— And first I the said C.D. for myself say—
 
-1. That A.B. is justly and truly indebted to me in the sum of $ as stated in the said before-mentioned petition. 2. That A.B. has within 3 years before the date of the presentation of the petition ordinarily resided [or carried on business] at . And I the said E.F. for myself say— 3. That A.B. is justly and truly indebted to me in the sum of $ as stated in the said before-mentioned petition.
+1. That A.B. is justly and truly indebted to me in the sum of $ as stated in the said before-mentioned petition. 2. That A.B. has within 3 years before the date of the presentation of the petition ordinarily resided [or carried on business] at .
+
+And I the said E.F. for myself say— 3. That A.B. is justly and truly indebted to me in the sum of $ as stated in the said before-mentioned petition.
 
 And I the said G.H. for myself say—
 
@@ -936,13 +842,13 @@ _
 
 Form 15 | [rule 48]
 
-Substituted service of petition
-
-Notice in newspaper (Title.)
+Substituted service of petition Notice in newspaper (Title.)
 
 In the matter of a bankruptcy petition filed the day of .
 
-(a) Add this in case of petition. | Take notice that a bankruptcy petition has been presented against you by of and the court has ordered that the sending of a sealed copy of the petition together with a sealed copy of the order for substituted service by registered post addressed to and/or the publication of this notice in the newspapers [following the terms of the order for substituted service] shall be deemed to be service of the petition upon you; (a) and further take notice that the said petition will be heard at the court on the day of at o’clock in the noon, on which day you are required to appear, and if you do not appear the court may make a bankruptcy order against you in your absence.
+(a) Add this in case of petition. | Take notice that a bankruptcy petition has been presented against you by of and the court has ordered that the sending of a sealed copy of the petition together with a sealed copy of the order for substituted service by registered post addressed to and/or the publication of this notice in the newspapers [following the terms of the order for substituted service] shall be deemed to be service of the petition upon you; (a) and further take notice that the said petition will be heard at the court on the day of at o’clock in the
+
+noon, on which day you are required to appear, and if you do not appear the court may make a bankruptcy order against you in your absence.
 
 The petition may be inspected by you on application at the court. Dated this day of .
 
@@ -960,7 +866,7 @@ Order for substituted service of a petition (Title.)
 
 In the matter of a bankruptcy petition filed the day of .
 
-Upon the application of and upon reading the affidavit of of in the of .
+Upon the application of an upon reading the affidavit of of in the of .
 
 It is ordered that the sending of a sealed copy of the above-mentioned petition together with a sealed copy of this order by registered post addressed to at and/or by publication in the newspapers of the presentation of such petition and the time and place fixed for hearing the petition shall be deemed to be good and sufficient service of the said petition on the said on the day of completing such posting or publication as aforesaid.
 
@@ -1002,13 +908,13 @@ Registrar.
 
 _
 
-Form 19 | [rule 13, 80]
+Form 19 | [rules 13, 80]
 
 Bond on stay of proceedings, security, etc. (Title.)
 
-Know all men by these presents, that we, A.B. of etc. and C.D. of etc. and E.F. of etc. are jointly and severally held and firmly bound to L.M. of etc. in dollars to be paid to the said L.M., or his certain attorney, executors, administrators or assigns, for which payment to be made we bind ourselves and each and every of us, our and each of our heirs, executors and administrators, jointly and severally, firmly by these presents. Sealed with our seals, and dated this day of and .
+Know all men by these presents, that we, A.B. of etc. and C.D. of etc. and E.F. of etc. are jointly and severally held and firmly bound to L.M. of etc. in dollars to be paid to the said L.M., or his certain attorney, executors, administrators or assigns, for which payment to be made we bind ourselves and each and every of us, our and each of our heirs, executors and administrators, jointly and severally, firmly by these presents.
 
-Whereas a bankruptcy petition against the said A.B. having been presented to the court he did appear at the hearing of the said petition and deny that he was indebted to the petitioner [or to one or more of the petitioners], [or allege that he was indebted to the petitioner in the sum of dollars only or as the case may be].
+Sealed with our seals, and dated this day of . Whereas a bankruptcy petition against the said A.B. having been presented to the court he did appear at the hearing of the said petition and deny that he was indebted to the petitioner [or to one or more of the petitioners], [or allege that he was indebted to the petitioner in the sum of dollars only or as the case may be].
 
 Now, therefore, the condition of this obligation is such that if the above-bounden A.B., or the said C.D. or E.F., shall on demand well and truly pay or cause to be paid to L.M., his attorney or agent, such sum or sums as shall be recovered against the said A.B. by any proceedings taken or continued within 21 days from the date hereof in any competent court by the said L.M. for the payment of the debt claimed by him in the said petition, together with such costs as shall be given to the said L.M. by such court [or whatever the condition of the bond is] this obligation shall be void, otherwise it shall remain in full force.
 
@@ -1022,7 +928,7 @@ Signed, sealed and delivered by the above-bounden in the presence of
 
 NOTE. — If a deposit of money be made the memorandum should follow the terms of the conditions of the bond. This form may be adapted to other cases.
 
-(L.N. 125 of 2007)
+(L.N. 125 of 2007; 17 of 2018 s. 36)
 
 _
 
@@ -1064,9 +970,7 @@ E.F.
 
 _
 
-Form 22
-
-Adjournment of petition (Title.)
+Form 22 Adjournment of petition (Title.)
 
 Upon the hearing of the petition this day, and hearing for the petitioner and for the debtor and the Official Receiver, and reading it is ordered that the further hearing of this petition be adjourned until the day of , at o’clock in the noon.
 
@@ -1076,9 +980,7 @@ Registrar.
 
 _
 
-Form 23
-
-Dismissal of petition (Title.)
+Form 23 Dismissal of petition (Title.)
 
 In the matter of a bankruptcy petition filed the [date]. Upon the hearing of this petition this day, and upon reading and hearing and the Official Receiver it is ordered that this petition be dismissed [and that the petitioner do pay to the said A.B. the taxed costs thereof].
 
@@ -1088,9 +990,7 @@ Registrar.
 
 _
 
-Form 24
-
-Order restraining action, etc. before bankruptcy order (Title.)
+Form 24 Order restraining action, etc. before bankruptcy order (Title.)
 
 Upon the application of and upon reading it is ordered that L.M. of shall be restrained from taking any further proceedings in the action brought by him [or upon the judgment recovered or obtained by him] against the said A.B. in [here state the number of the action] [or it is ordered that the proceedings in the action (or suit) brought by him against the said A.B. in (here state the number of the action) may be proceeded with on (here insert the terms fixed by the court)].
 
@@ -1104,7 +1004,7 @@ _
 
 Form 25 | [s. 12; rule 72A(3)]
 
-Bankruptcy order on debtor's petition (Title.)
+Bankruptcy order on debtor’s petition (Title.)
 
 On the petition of the debtor himself, filed the day of , , a bankruptcy order is hereby made against A.B. [insert name, addresses and descriptions of debtor as set out in petition], and the Official Receiver hereby becomes the provisional trustee of the estate of the said debtor.
 
@@ -1124,7 +1024,7 @@ _
 
 Form 26 | [ss. 12, 72A(3); rules 69, 75]
 
-Bankruptcy order on creditor's petition (Title.)
+Bankruptcy order on creditor’s petition (Title.)
 
 On the petition dated the day of of J.S., of a creditor, filed the [insert date], and on reading and hearing It is ordered that A.B. [insert name, addresses and descriptions of debtor as set out in petition] be adjudged bankrupt and the Official Receiver hereby becomes the provisional trustee of the estate of the said debtor.
 
@@ -1160,9 +1060,7 @@ Dated this day of .
 
 _
 
-Form 28
-
-(Repealed L.N. 22 of 1995)
+Form 28 (Repealed L.N. 22 of 1995)
 
 _
 
@@ -1172,21 +1070,21 @@ Form 28A
 
 IN THE COURT OF FIRST INSTANCE OF HONG KONG IN BANKRUPTCY NO. OF .
 
-Name: _
+Name: ______________________________
 
 STATEMENT OF AFFAIRS (Individual, i.e. non-trading) Please show your financial position as at the date of the Bankruptcy Order by completing all the pages of this form and the attached lists, A, B and C as are applicable, which will then be your Statement of Affairs. You are also required to specify in the relevant list whether or not there is a dispute about any amount due to or by you and, if so, to supply details in a separate sheet which should be signed and attached as part of your Statement of Affairs.
 
 AFFIDAVIT OR AFFIRMATION (you need to complete either the affidavit at (i) below or the affirmation at (ii) overleaf, but not both.) (i) Affidavit This Affidavit must be sworn before a Solicitor or Commissioner of Oaths or an officer of the court duly authorised to administer oaths when you have completed the rest of this form
 
-(a) (b) | Insert full name, Hong Kong Identity Card No. and Occupation Insert full address. | I (a)
+(a) (b) | Insert full name, Hong Kong Identity Card No. and Occupation Insert full address | I (a)
 
 of (b)
 
-Make oath and say that the attached lists exhibited hereto and marked _ are to the best of my knowledge and belief a full, true and complete statement of my affairs as at _ the date of the Bankruptcy Order made against me.
+Make oath and say that the attached lists exhibited hereto and marked ______ are to the best of my knowledge and belief a full, true and complete statement of my affairs as at __________ the date of the Bankruptcy Order made against me.
 
 Sworn at
 
-Date | Signature _
+Date | Signature ____________
 
 Before me
 
@@ -1196,15 +1094,15 @@ Before swearing the affidavit the Solicitor or Commissioner is particularly requ
 
 Page 2 (ii) Affirmation This Affirmation must be made before a Solicitor or Commissioner of Oaths or an officer of the court duly authorised to administer oaths when you have completed the rest of this form
 
-(a) (b) | Insert full name, Hong Kong Identity Card No. and Occupation Insert full address. | I (a)
+(a) (b) | Insert full name, Hong Kong Identity Card No. and Occupation Insert full address | I (a)
 
 of (b)
 
-Solemnly and sincerely affirm that the attached lists exhibited hereto and marked _ are to the best of my knowledge and belief a full, true and complete statement of my affairs as at _ the date of the Bankruptcy Order made against me.
+Solemnly and sincerely affirm that the attached lists exhibited hereto and marked ______________ are to the best of my knowledge and belief a full, true and complete statement of my affairs as at ______________ the date of the Bankruptcy Order made against me.
 
 Affirmed at
 
-Date | Signature _
+Date | Signature ____________
 
 Before me
 
@@ -1372,7 +1270,7 @@ Signature | Date
 
 _
 
-Form 28B
+FORM 28B
 
 IN THE COURT OF FIRST INSTANCE OF HONG KONG IN BANKRUPTCY NO. of .
 
@@ -1422,11 +1320,11 @@ Page 2 AFFIDAVIT OR AFFIRMATION—(The format is set out below and you need to c
 
 of (b)
 
-Make oath and say that the foregoing Statement and attached lists exhibited hereto and marked _ are to the best of my knowledge and belief a full, true and complete statement of my affairs as at_the date of the Bankruptcy Order made against me.
+Make oath and say that the foregoing Statement and attached lists exhibited hereto and marked ____________ are to the best of my knowledge and belief a full, true and complete statement of my affairs as at____________the date of the Bankruptcy Order made against me.
 
 Sworn at
 
-Date | Signature _
+Date | Signature __________
 
 Before me
 
@@ -1436,11 +1334,11 @@ Before me
 
 of (b)
 
-Solemnly and sincerely affirm that the foregoing Statement and attached lists exhibited hereto and marked _are to the best of my knowledge and belief a full, true and complete statement of my affairs as at_the date of the Bankruptcy Order made against me.
+Solemnly and sincerely affirm that the foregoing Statement and attached lists exhibited hereto and marked ________are to the best of my knowledge and belief a full, true and complete statement of my affairs as at________the date of the Bankruptcy Order made against me.
 
 Affirmed at
 
-Date | Signature _
+Date | Signature __________
 
 Before me
 
@@ -1480,7 +1378,7 @@ Particulars | Estimated to produce $
 
 (j) | Any other assets
 
-(k) | Total (show the total under “Assets” on page 1 of the Statement of Affairs) $
+(k) | Total (show the total under “Assets” on page 1 of the Statement of Affairs) | $
 
 (l) | * | additional schedule(s) are attached/No additional
 
@@ -1526,7 +1424,7 @@ LIST B DEBTS RECEIVABLE
 
 15.
 
-Total (show the total of column (vi) under “Assets” on page 1 of the Statement of Affairs)
+Totals (show the total of column (vi) under “Assets” on page 1 of the Statement of Affairs)
 
 Dated this day of . | (Signature)
 
@@ -1664,9 +1562,9 @@ _
 
 Form 28C | [s. 10(2)]
 
-Statement of Affairs (Debtor's Petition) Bankruptcy Ordinance (Chapter 6)
+Statement of Affairs (Debtor’s Petition) Bankruptcy Ordinance (Chapter 6)
 
-Note.—These details will be the same as those shown at the top of your petition. | In the _In Bankruptcy No._of_ .
+Note.—These details will be the same as those shown at the top of your petition. | In the ____________In Bankruptcy No.______of______ .
 
 Re
 
@@ -1680,11 +1578,11 @@ AFFIDAVIT This Affidavit must be sworn before a Solicitor or Commissioner of Oat
 
 of (b)
 
-Make oath and say that several pages exhibited hereto and marked _ are to the best of my knowledge and belief a full, true and complete statement of my affairs at today’s date.
+Make oath and say that several pages exhibited hereto and marked ________ are to the best of my knowledge and belief a full, true and complete statement of my affairs at today’s date.
 
 Sworn at
 
-Date | Signature(s) _
+Date | Signature(s) __________
 
 Before me
 
@@ -1870,7 +1768,7 @@ Form 29 | [rules 99A & 99D]
 
 Notice to Creditors of General Meeting of Creditors (Title.)
 
-(a) Delete as applicable. | A meeting of creditors has been summoned by the (a) [provisional trustee] [trustee]
+(a) Delete as applicable. | A meeting of creditors has been summoned by the (a) [provisional trustee][trustee]
 
 (b) Insert relevant section. | (a) | [at the request of a creditor under section (b)
 
@@ -1882,7 +1780,7 @@ Time | hours
 
 Place
 
-(c) Insert date and time by which proxy is to be lodged, which should not be more than 24 hours before the date fixed for the meeting. | The forms of general and special proxy are enclosed, one of which must be lodged with me not later than (c) _ to entitle you to vote by proxy at the meeting (together with a completed proof of debt form if you have not already lodged one).
+(c) Insert date and time by which proxy is to be lodged, which should not be more than 24 hours before the date fixed for the meeting. | The forms of general and special proxy are enclosed, one of which must be lodged with me not later than (c) ________________ to entitle you to vote by proxy at the meeting (together with a completed proof of debt form if you have not already lodged one).
 
 Dated this day of . Provisional trustee/Trustee [address]
 
@@ -1892,7 +1790,7 @@ Note.—Insert any further details which by the nature of the meeting need to be
 
 _
 
-Forms 30  31 (Repealed L.N. 81 of 1998)
+Forms 30 — 31 (Repealed L.N. 81 of 1998)
 
 _
 
@@ -1900,7 +1798,9 @@ Form 32 | [s. 17]
 
 Notice to creditors of adjourned meeting (Title.)
 
-Take notice that the meeting of creditors in the above matter held on the day of at was adjourned to the day of and will accordingly be held at on the said day at o’clock in the noon. Agenda [Insert here nature of business to be transacted] Dated this day of .
+Take notice that the meeting of creditors in the above matter held on the day of at was adjourned to the day of and will accordingly be held at on the said day at o’clock in the noon. Agenda [Insert here nature of business to be transacted.]
+
+Dated this day of .
 
 Trustee.
 
@@ -1930,9 +1830,9 @@ Certificate of postage of notices. general meeting (Title.)
 
 I, , [insert description], hereby certify—
 
-(a) Insert here if necessary “adjourned”. | 1. That I did, on the day of , send to each creditor mentioned in the bankrupt’s statement of affairs, a notice of the time and place of the (a) general meeting of creditors. 2. That such notices were addressed to the said creditors respectively according to their respective names and addresses appearing in the statement of affairs of the said bankrupt. 3. That the post office acknowledgment for the same is hereunto annexed and marked “A”. 4. That I did on the said day of , send by registered post notice of the time and place of the said meeting to the said bankrupt, and that such notice was sent to the following address—
+(a) Insert here if necessary “adjourned”. | 1. That I did, on the day of , send to each creditor mentioned in the bankrupt’s statement of affairs, a notice of the time and place of the (a) general meeting of creditors. 2. That such notices were addressed to the said creditors respectively according to their respective names and addresses appearing in the statement of affairs of the said bankrupt. 3. That the post office acknowledgment for the same is hereunto annexed and marked “A”.
 
-Dated this day of .
+4. That I did on the said day of , send by registered post notice of the time and place of the said meeting to the said bankrupt, and that such notice was sent to the following address— Dated this day of .
 
 (Signature)
 
@@ -1962,7 +1862,9 @@ Form 37 | [rule 107]
 
 Memorandum of adjournment of meeting (Title.)
 
-(a) Here state reason for adjournment. | Meeting held at on the day of , at o’clock. Memorandum.—A meeting of creditors in the above matter was held at the time and place above-mentioned, and the several proofs of debt lodged were produced; but it appearing that (a) the meeting was adjourned until the day of , at o’clock in the noon, then to be held at the same place.
+Meeting held at on the day of , at o’clock.
+
+(a) Here state reason for adjournment. | Memorandum.—A meeting of creditors in the above matter was held at the time and place above-mentioned, and the several proofs of debt lodged were produced; but it appearing that (a) the meeting was adjourned until the day of , at o’clock in the noon, then to be held at the same place.
 
 Chairman.
 
@@ -2004,7 +1906,7 @@ Notice of meeting (general form) (Title.)
 
 Take notice that a meeting of creditors in the above matter will be held at on the day of , at o’clock in the noon. (Forms of general and special proxy are enclosed herewith.)
 
-[Here insert purpose for which meeting called] | Agenda Dated this day of .
+[Here insert purpose for which meeting called.] | Agenda. Dated this day of .
 
 Trustee.
 
@@ -2012,21 +1914,19 @@ Trustee.
 
 _
 
-Forms 41  42 (Repealed L.N. 81 of 1998)
+Forms 41 — 42 (Repealed L.N. 81 of 1998)
 
 _
 
 Form 43 | [rule 99E]
 
-Notice of creditors of meeting to remove trustee and
-
-to appoint a person to fill the vacancy (Title.)
+Notice to creditors of meeting to remove trustee and to appoint a person to fill the vacancy (Title.)
 
 At the request of one-fourth in value of the creditors of the bankrupt a general meeting of the creditors is hereby summoned to be held at on the day of , at o’clock in the noon for the purpose of considering the propriety of removing G.H., the trustee of the property of the bankrupt, from his office as such trustee, and in the event of his removal to appoint a person to fill the vacancy. Dated this day of .
 
 L.M.,
 
-A member of the Creditors’ Committee [or Official Receiver]
+A member of the Creditors’ Committee [or Official Receiver].
 
 (L.N. 81 of 1998; L.N. 125 of 2007)
 
@@ -2064,9 +1964,7 @@ Form 46A | [rule 109]
 
 PROOF OF DEBT—GENERAL FORM
 
-IN THE COURT OF FIRST INSTANCE OF HONG KONG
-
-IN BANKRUPTCY No. of
+IN THE COURT OF FIRST INSTANCE OF HONG KONG IN BANKRUPTCY No. of
 
 Except in the case of claims for wages or salary, where the debt proved for exceeds $250 a fee of $15 must be paid hereon otherwise the proof cannot be admitted. | Re:
 
@@ -2104,7 +2002,7 @@ Admitted non-preferentially for $ Date Trustee
 
 To be returned to the trustee.
 
-Note: | The proof cannot be admitted for voting at the general meeting of creditors unless it is properly completed and lodged with the trustee not later than 24 hours before the time specified in the notice convening the meeting.
+Note: The proof cannot be admitted for voting at the general meeting of creditors unless it is properly completed and lodged with the trustee not later than 24 hours before the time specified in the notice convening the meeting.
 
 (L.N. 223 of 1992; L.N. 81 of 1998; 25 of 1998 s. 2; L.N. 125 of 2007)
 
@@ -2118,7 +2016,7 @@ Re: (a) I, (b) , of make oath and say— | (a) Here insert the number of matter,
 
 (1)(c) That I am (d) of the under-mentioned creditor, and that I am duly authorized by (e) to make this affidavit, and that it is within my own knowledge that the debt hereinafter deposed to was incurred and that such debt, to the best of my knowledge and belief, still remains unpaid and unsatisfied. (2) That the said was/were, at the date of the bankruptcy order, viz., the day of , and still is/are justly and truly indebted to (f) in the sum of dollars as shown in the proof of debt exhibited hereto marked “A”. | (c) If proof made by creditor personally strike out clause (1). (d) State capacity, e.g. director, secretary, solicitor etc. (e) State full name and address of creditor. (f) Insert “me” or in case of a firm “me and C.D. and E.F., my co-partners trading as”, or if by clerk or agent etc. insert name, address and description of principal.
 
-Debt . $ :
+Debt . $ : _
 
 Sworn at this day of | ｝ | [Deponent’s Signature.]
 
@@ -2140,7 +2038,9 @@ Form 47 | [rule 109]
 
 Proof by trustee in prior bankruptcy (Title.)
 
-I, , of , make oath and say— 1. The said was adjudicated a bankrupt on , and I am the trustee under such bankruptcy. 2. There was at the date of the bankruptcy [or administration] order herein, namely, the day of , and still is an unsatisfied balance of the debts provable in the foresaid bankruptcy, of which I am trustee, amounting to $ as shown in the statement endorsed hereon [or annexed hereto and marked “A”].
+I, , of , make oath and say— 1. The said was adjudicated a bankrupt on , and I am the trustee under such bankruptcy.
+
+2. There was at the date of the bankruptcy [or administration] order herein, namely, the day of , and still is an unsatisfied balance of the debts provable in the foresaid bankruptcy, of which I am trustee, amounting to $ as shown in the statement endorsed hereon [or annexed hereto and marked “A”].
 
 3. I claim to prove in the present bankruptcy for the said amount. Sworn, etc. Before me, Admitted to vote for $ the day of .
 
@@ -2190,7 +2090,9 @@ Dated this day of .
 
 (Signed) (e) (Signature of witness) (Address)
 
-(c) “my” or “our”. (d) See footnote 1. (e) If a firm, sign the firm’s trading title, and add “by A.B., a partner in the said firm”. As to signature by agent, see footnotes 2 and 3. | NOTES 1. When the creditor desires that his general proxy should receive dividends he should strike out the words, “excepting as to the receipt of dividend”, putting his initials thereto (f). 2. The authorized agent of a corporation may fill up blanks, and sign for the corporation thus— For the Company, Limited. J.S. (duly authorized under the seal of the company). 3. A proxy given by a creditor may be filled up and signed by any person in the employ of the creditor having a general authority in writing to sign for such creditor. Such person shall sign— J.S. (duly authorized by a general authority in writing to sign on behalf [name of creditor]) (g).
+(c) “my” or “our”. (d) See footnote 1. (e) If a firm, sign the firm’s trading title, and add “by A.B., a partner in the said firm”. As to signature by agent, see footnotes 2 and 3. | NOTES 1. When the creditor desires that his general proxy should receive dividends he should strike out the words, “excepting as to the receipt of dividend”, putting his initials thereto (f). 2. The authorized agent of a corporation may fill up blanks, and sign for the corporation thus— For the Company, Limited. J.S. (duly authorized under the seal of the company). 3. A proxy given by a creditor may be filled up and signed by any person in the employ of the creditor having a general authority in writing to sign for such creditor. Such person shall sign—
+
+J.S. (duly authorized by a general authority in writing to sign on behalf [name of creditor]) (g).
 
 (f) It is not intended that the trustee shall in any case receive dividends on behalf of a creditor. (g) The trustee may require the authority to sign to be produced for his inspection. | Certificate to be signed by person other than creditor filling up the above proxy I, , of , being a [here state whether clerk or manager in the regular employment of the creditor or a commissioner to administer oaths in the Court of First Instance], hereby certify that all insertions in the above proxy are in my own handwriting, and have been made by me at the request of the above-named and in his presence, before he attached his signature [or mark] hereto. Dated this day of . (Signature)
 
@@ -2204,13 +2106,13 @@ Form 51 | [s. 86B(1)(c)]
 
 Special proxy (Title.)
 
-(a) If a firm, write “we” instead of “I” and set out the full name of the firm. | I, (a) of , a creditor, hereby appoint (b) as (c) proxy at the meeting of creditors to be held on the day of , or at any adjournment thereof, to vote (d) .
+(a) If a firm, write “we” instead of “I” and set out the full name of the firm. (b) Here insert either “Mr. of ,” or “the trustee”. | I, (a) of , a creditor, hereby appoint (b) as (c) proxy at the meeting of creditors to be held on the day of , or at any adjournment thereof, to vote (d) .
 
-(b) Here insert either “Mr. of ,” or “the trustee”. | Dated this day of .
+Dated this day of .
 
 (Signed) (e) (Signature of witness) (Address)
 
-(c) “my” or “our”. (d) Here insert the word “for” or the word “against” as the case may require, and specify the particular resolution or name of proposed trustee, remuneration, or other matter. (e) If a firm, sign the firm’s trading title, and add “by A.B., partner in the said firm.” As to signature by agent see footnotes 2 and 3. (f) The trustee may require the authority to sign to be produced for his inspection. | NOTES 1. A creditor may give a special proxy to any person to vote at any specified meeting or adjournment thereof on all or any of the following matters— (a) for or against any specific proposal for a voluntary arrangement; (b) for or against the appointment of any specified person as trustee or as member of the creditors’ committee, or for or against the continuance in office of any specified person, as trustee or member of a creditors’ committee; (c) on all questions relating to any matter, other than those above referred to, arising from any specified meeting or adjournment thereof. 2. The authorized agent of a corporation may fill up blanks, and sign for the corporation thus— For the Company, Limited. J.S.(duly authorized under the seal of the company). 3. A proxy given by a creditor may be filled up and signed by any person in the employ of creditor having a general authority in writing to sign for such creditor. Such person shall sign— J.S. (duly authorized by a general authority in writing to sign on behalf [name of creditor]) (f).
+(c) “my” or “our”. (d) Here insert the word “for” or the word “against” as the case may require, and specify the particular resolution or name of proposed trustee, remuneration, or other matter. (e) If a firm, sign the firm’s trading title, and add “by A.B., partner in the said firm.” As to signature by agent see footnotes 2 and 3. (f) The trustee may require the authority to sign to be produced for his inspection. | NOTES 1. A creditor may give a special proxy to any person to vote at any specified meeting or adjournment thereof on all or any of the following matters— (a) for or against any specific proposal for a voluntary arrangement; (b) for or against the appointment of any specified person as trustee or as member of the Creditors’ committee, or for or against the continuance in office of any specified person, as trustee or member of a Creditors’ committee; (c) on all questions relating to any matter, other than those above referred to, arising from any specified meeting or adjournment thereof. 2. The authorized agent of a corporation may fill up blanks, and sign for the corporation thus— For the Company, Limited. J.S.(duly authorized under the seal of the company). 3. A proxy given by a creditor may be filled up and signed by any person in the employ of creditor having a general authority in writing to sign for such creditor. Such person shall sign— J.S. (duly authorized by a general authority in writing to sign on behalf [name of creditor]) (f).
 
 Certificate to be signed by person other than creditor filling up the above proxy I, , of , being a [here state whether clerk or manager in the regular employment of the creditor or a commissioner to administer oaths in the Court of First Instance], hereby certify that all insertions in the above proxy are in my own handwriting, and have been made by me at the request of the above-named and in his presence before he attached his signature [or mark] thereto. Dated this day of . (Signature)
 
@@ -2222,11 +2124,7 @@ _
 
 Form 52 | [s. 19]
 
-Application by the Official Receiver or Trustee for an
-
-Order Appointing a Sitting for the Public
-
-Examination of the Bankrupt
+Application by the Official Receiver or Trustee for an Order Appointing a Sitting for the Public Examination of the Bankrupt
 
 (a) Insert the name and address of the bankrupt. | Let (a)
 
@@ -2248,9 +2146,7 @@ _
 
 Form 53 | [s. 19]
 
-Order Appointing a time for the Public
-
-Examination of the Bankrupt
+Order Appointing a time for the Public Examination of the Bankrupt
 
 Upon the application of the Official Receiver or Trustee And upon hearing And upon reading the evidence It is ordered that the bankrupt be publicly examined pursuant to section 19 of the Bankruptcy Ordinance (Chapter 6) as follows—
 
@@ -2270,9 +2166,7 @@ _
 
 Form 54 | [s. 19; rule 86]
 
-Notice of day for proceeding with public examination
-
-(for local newspaper or Gazette) (Title.)
+Notice of day for proceeding with public examination (for local newspaper or Gazette) (Title.)
 
 Notice is hereby given that the court has appointed day, the day of , at o’clock in the noon, for Proceeding with the public examination of the above-named bankrupt, which, on the day of , was adjourned sine die. Dated this day of .
 
@@ -2306,11 +2200,11 @@ _
 
 Form 57 | [s. 19; rule 23]
 
-Notes of public examination of bankrupt where a
+Notes of public examination of bankrupt where a shorthand writer is appointed (Title.)
 
-shorthand writer is appointed (Title.)
+Public examination of the bankrupt held this day of , before .
 
-Public examination of the bankrupt held this day of , before . The above-named bankrupt, being sworn and examined at the time and place above-mentioned, upon the several questions following being put to him, gave the several answers thereto respectively following each question, that is to say— A This is a transcript of the notes of the public examination of , held this day of . Shorthand writer duly appointed under rule 23, or Shorthand writer attached to the Official Receiver’s Office.
+The above-named bankrupt, being sworn and examined at the time and place above-mentioned, upon the several questions following being put to him, gave the several answers thereto respectively following each question, that is to say— A This is a transcript of the notes of the public examination of , held this day of . Shorthand writer duly appointed under rule 23, or Shorthand writer attached to the Official Receiver’s Office.
 
 (G.N.A. 124 of 1955; L.N. 81 of 1998)
 
@@ -2318,11 +2212,11 @@ _
 
 Form 58 | [s. 19; rule 23]
 
-Notes of public examination of bankrupt where
+Notes of public examination of bankrupt where shorthand writer is not appointed
 
-shorthand writer is not appointed
+Public examination of the bankrupt held this day of , before .
 
-Public examination of the bankrupt held this day of , before . The above-named bankrupt being sworn and examined at the time and place above-mentioned, upon his oath saith as follows— A These are the notes of the examination of , held this day of . Signature of person taking the notes.
+The above-named bankrupt, being sworn and examined at the time and place above-mentioned, upon his oath saith as follows— A These are the notes of the examination of , held this day of . Signature of person taking the notes.
 
 (G.N.A. 124 of 1955; L.N. 81 of 1998)
 
@@ -2342,7 +2236,7 @@ Date this day of . Registrar.
 
 _
 
-Forms 60  61 (Repealed L.N. 81 of 1998)
+Forms 60 — 61 (Repealed L.N. 81 of 1998)
 
 _
 
@@ -2350,7 +2244,7 @@ Form 62 | [s. 19]
 
 Memorandum of public examination of bankruptcy (Title.)
 
-Memorandum. —That I, the above-named bankrupt, being sworn and examined upon my oath say that the notes of my public examination marked “A”, and appended hereto, were read over by or to me and are correct. And I further say that, at the time of this my examination, I have delivered up to the trustee of my estate, all property, estate and effects, and all books, papers and writings relating thereto.
+Memorandum. — That I, the above-named bankrupt, being sworn and examined upon my oath say that the notes of my public examination marked “A”, and appended hereto, were read over by or to me and are correct. And I further say that, at the time of this my examination, I have delivered up to the trustee of my estate, all property, estate and effects, and all books, papers and writings relating thereto.
 
 And I further say that I have made a full disclosure of all my assets and of all my debts and liabilities of whatever kind, and that I have not removed, concealed, embezzled or destroyed any part of my estate, real or personal, nor any books of account, papers or writings relating thereto, with an intent to defraud my creditors or to conceal the state of my affairs.
 
@@ -2370,9 +2264,7 @@ _
 
 Form 64 | [s. 20B]
 
-Order Granting Stay Pending Hearing of
-
-Application for Interim Order (Title.)
+Order Granting Stay Pending Hearing of Application for Interim Order (Title.)
 
 (a) Insert full name and address of applicant. | Upon the application of (a) And upon hearing And upon reading the evidence
 
@@ -2386,9 +2278,7 @@ _
 
 Form 65 | [rule 122F]
 
-Interim Order of Court under Section 20 of the
-
-Bankruptcy Ordinance (Chapter 6) (Title.)
+Interim Order of Court under Section 20 of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Insert full name and address of applicant. | Upon the application of (a) And upon hearing And upon reading the evidence
 
@@ -2446,7 +2336,7 @@ Time | hours
 
 Place
 
-for consideration of the report of the chairman of the creditors’ meeting.
+for consideration of the report of the chairman of the Creditors’ meeting.
 
 Dated this day of .
 
@@ -2458,15 +2348,13 @@ _
 
 Form 67 | [ss. 20G, 20H & 20I]
 
-Alternative Orders to be Made at Hearing to
-
-Consider Chairman's Report (Title.)
+Alternative Orders to be Made at Hearing to Consider Chairman’s Report (Title.)
 
 (a) Insert full name and address of applicant. | Upon the application of (a) And upon hearing
 
-(b) Delete as applicable. | (b) [And upon reading the report of the chairman of the creditors’ meeting that the said meeting had [approved the proposed voluntary arrangement with or without modifications] [declined to approve the debtor’s proposal with or without modifications.]]
+(b) Delete as applicable. | (b) [And upon reading the report of the chairman of the Creditors’ meeting that the said meeting had [approved the proposed voluntary arrangement with or without modifications] [declined to approve the debtor’s proposal with or without modifications.]]
 
-[It is ordered that this application be [adjourned generally with liberty to restore] [adjourned to the day of to enable an application to be made to extend the time for filing the report of the chairman of the creditors’ meeting.]] [And it is ordered that the time for filing the said report be extended to this day.] And whereas—
+[It is ordered that this application be [adjourned generally with liberty to restore] [adjourned to the day of to enable an application to be made to extend the time for filing the report of the chairman of the Creditors’ meeting.]] [And it is ordered that the time for filing the said report be extended to this day.] And whereas—
 
 (i) | on the day of a bankruptcy petition No. of was filed by against the above-named (the debtor); and
 
@@ -2484,7 +2372,7 @@ Dated this day of . NOTICE TO DEBTOR—(Where voluntary arrangement approved and
 
 _
 
-Forms 68-78 (Repealed L.N. 81 of 1998)
+Forms 68 — 78 (Repealed L.N. 81 of 1998)
 
 _
 
@@ -2514,15 +2402,15 @@ _
 
 Form 81 | [rule 88]
 
-Order of Suspension of Discharge under Section 30A(3)
-
-of the Bankruptcy Ordinance (Chapter 6) (Title.)
+Order of Suspension of Discharge under Section 30A(3) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Insert date. | in chambers Upon the application of the Official Receiver or trustee and after taking into consideration his report filed on (a) as to the above-named bankrupt’s conduct during the proceedings under the bankruptcy.
 
 And upon hearing And upon reading the evidence And a bankruptcy order having been made against the above-named bankrupt on (a)
 
-(b) Delete as applicable. (c) State briefly in what respect the bankrupt has failed to comply with his obligations. (d) Insert period for which discharge is to be suspended. | And it appearing to the court that the bankrupt (b) [has failed] [is failing] to comply with his[her] obligations under the Bankruptcy Ordinance (Chapter 6) namely (c) It is ordered that the relevant period for the purposes of section 30A of the Bankruptcy Ordinance (Chapter 6) shall cease to run (b) [for a period of (d)]. Dated this day of . Registrar.
+(b) Delete as applicable. (c) State briefly in what respect the bankrupt has failed to comply with his obligations. | And it appearing to the court that the bankrupt (b) [has failed] [is failing] to comply with his[her] obligations under the Bankruptcy Ordinance (Chapter 6) namely (c)
+
+(d) Insert period for which discharge is to be suspended. | It is ordered that the relevant period for the purposes of section 30A of the Bankruptcy Ordinance (Chapter 6) shall cease to run (b) [for a period of (d)]. Dated this day of . Registrar.
 
 (L.N. 81 of 1998)
 
@@ -2530,13 +2418,9 @@ _
 
 Form 82 | [s. 30A(4)]
 
-Notice of Intention to Object to Bankrupt's
+Notice of Intention to Object to Bankrupt’s Discharge under Section 30A(4) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
-Discharge under Section 30A(4) of the
-
-Bankruptcy Ordinance (Chapter 6) (Title.)
-
-(a) Insert name of creditor or trustee. (b) Delete any paragraph which is not applicable. | TAKE notice that I, (a) ____________, intend to object to the bankrupt’s discharge on one or more of the following grounds—
+(a) Insert name of creditor or trustee. (b) Delete any paragraph which is not applicable. | TAKE notice that I, (a) ____________________, intend to object to the bankrupt’s discharge on one or more of the following grounds—
 
 (i) | in the case of a discharge to which section 30A(2)(a) of the Bankruptcy Ordinance (Chapter 6) applies, that the bankrupt is likely within 5 years of the commencement of the bankruptcy to be able to make a significant contribution to his[her] estate;
 
@@ -2554,7 +2438,11 @@ Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (viii) | that the bankrupt has failed to prepare an annual report of his/her earnings and acquisitions for the trustee.
 
-AND THAT I propose to apply for an order under section 30A(3) of the Bankruptcy Ordinance (Chapter 6) suspending the running of the relevant period for the bankrupt’s discharge. Dated this day of . Creditor/Official Receiver. [or Trustee.]
+AND THAT I propose to apply for an order under section 30A(3) of the Bankruptcy Ordinance (Chapter 6) suspending the running of the relevant period for the bankrupt’s discharge.
+
+Dated this day of .
+
+Creditor/Official Receiver. [or Trustee.]
 
 (L.N. 81 of 1998)
 
@@ -2562,11 +2450,7 @@ _
 
 Form 82A | [s. 30AC]
 
-Order for Non-Commencement of Relevant
-
-Period for Bankrupt under Section 30AC(1)
-
-of Bankruptcy Ordinance (Chapter 6) (Title.)
+Order for Non-Commencement of Relevant Period for Bankrupt under Section 30AC(1) of Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Insert full name of bankrupt. (b) Delete as appropriate. (c) Insert filing date. | On the application of the trustee for a non-commencement order against the above-named (a) _(bankrupt), and after taking into consideration the trustee’s (b) [report][affidavit] filed on (c) _. And on hearing And on reading the evidence
 
@@ -2588,7 +2472,7 @@ It is ordered that—
 
 (3) | (g)
 
-Dated this day of Registrar.
+Dated this day of . Registrar.
 
 (1 of 2016 s. 13)
 
@@ -2596,19 +2480,15 @@ _
 
 Form 82B | [s. 30AC; rule 89B]
 
-Notice of Commencement of Relevant Period
-
-for Bankrupt under Section 30AC(3)(a) of
-
-Bankruptcy Ordinance (Chapter 6) (Title.)
+Notice of Commencement of Relevant Period for Bankrupt under Section 30AC(3)(a) of Bankruptcy Ordinance (Chapter 6) (Title.)
 
 Take notice that—
 
-(a) Insert full name of bankrupt. (b) Insert date of bankruptcy order. (c) Insert date of non-commencement order. | (1) | a bankruptcy order was made against the above-named (a) _______________ (bankrupt) on (b) _______________, and an order that the relevant period for the bankrupt is treated as not commencing to run on the date of the bankruptcy order (non-commencement order) was made on (c) _______________; and
+(a) Insert full name of bankrupt. (b) Insert date of bankruptcy order. (c) Insert date of non-commencement order. | (1) | a bankruptcy order was made against the above-named (a) _________________ (bankrupt) on (b) _________________, and an order that the relevant period for the bankrupt is treated as not commencing to run on the date of the bankruptcy order (non-commencement order) was made on (c) _______________; and
 
 (d) Insert date on which all terms were complied with. | (2) | pursuant to section 30AC(3)(a) of the Bankruptcy Ordinance (Chapter 6), I confirm that all the term(s) imposed by the court for the commencement of the running of the relevant period for the bankrupt as specified in the non-commencement order was (were) complied with on (d) _______________ such that the relevant period is treated as commencing to run on that date.
 
-Dated this day of
+Dated this day of .
 
 (e) Insert name of trustee. | Signed__________________ (e)
 
@@ -2618,9 +2498,7 @@ _
 
 Form 83 | [s. 30A(5)]
 
-Notice to Creditors by Trustee under Section 30A(5)
-
-of the Bankruptcy Ordinance (Chapter 6) (Title.)
+Notice to Creditors by Trustee under Section 30A(5) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Insert date. (b) Insert bankrupt’s name. | TAKE notice that under the provisions of section 30A of the Bankruptcy Ordinance (Chapter 6) on (a) ____________ (b) ________________ will be discharged from his [her] bankruptcy in the absence of any objections from his [her] trustee in bankruptcy or creditors.
 
@@ -2642,7 +2520,7 @@ of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (viii) | that the bankrupt has failed to prepare an annual report of his/her earnings and acquisitions for the trustee.
 
-AND THAT if any of the bankrupt’s creditors wish to object to the bankrupt’s discharge he [she] or they must do so on Form 82 notifying the court and me not less than 14 days before (a) ____________. Dated this day of . Trustee.
+AND THAT if any of the bankrupt’s creditors wish to object to the bankrupt’s discharge he [she] or they must do so on Form 82 notifying the court and me not less than 14 days before (a) _____________________________. Dated this day of . Trustee.
 
 (L.N. 81 of 1998)
 
@@ -2650,11 +2528,7 @@ _
 
 Form 84 | [rule 90]
 
-Application for Early Discharge of Bankrupt
-
-under Section 30B(1) of the Bankruptcy
-
-Ordinance (Chapter 6) (Title.)
+Application for Early Discharge of Bankrupt under Section 30B(1) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Insert full name and address of bankrupt. | I, (a)
 
@@ -2678,7 +2552,7 @@ Dated this day of . Signed _____________________________
 
 ENDORSEMENT
 
-This application having been filed in court on ___________ , it is ordered that the application shall be heard as follows—
+This application having been filed in court on __________________ , it is ordered that the application shall be heard as follows—
 
 Date
 
@@ -2694,17 +2568,7 @@ _
 
 Form 85 | [rule 89]
 
-Application by Bankrupt under Section 30A(7) of
-
-the Bankruptcy Ordinance (Chapter 6) for
-
-Lifting a Suspension of the Running of
-
-the Relevant Period for Discharge
-
-Imposed by the Court under
-
-Section 30A(3) of the Ordinance (Title.)
+Application by Bankrupt under Section 30A(7) of the Bankruptcy Ordinance (Chapter 6) for Lifting a Suspension of the Running of the Relevant Period for Discharge Imposed by the Court under Section 30A(3) of the Ordinance (Title.)
 
 (a) Insert name and address of person(s) to attend hearing. | Let (a)
 
@@ -2738,13 +2602,15 @@ in chambers
 
 (a) Insert full name and address of bankrupt. | Upon the application of (a)
 
-(b) Delete as applicable. (c) Insert name of Official Receiver’s representative or trustee. | the above-named bankrupt, (b) [and after taking into consideration the report of (c) in this matter]. And upon hearing And upon reading the evidence
+(b) Delete as applicable. (c) Insert name of Official Receiver’s representative or trustee. | the above-named bankrupt, (b) [and after taking into consideration the report of (c) in this matter]. And upon hearing
+
+And upon reading the evidence
 
 (d) Insert date. | It is ordered that the order made on (d)
 
 (e) Insert terms of previous order. | whereby it was ordered that (e) be discharged.
 
-Dated this day of.
+Dated this day of .
 
 Registrar.
 
@@ -2754,15 +2620,13 @@ _
 
 Form 87 | [rule 89]
 
-Certificate that Order Suspending
-
-Discharge has been Lifted (Title.)
+Certificate that Order Suspending Discharge has been Lifted (Title.)
 
 (a) Insert full name and address of bankrupt. | A bankruptcy order having been made by this court against (a)
 
 (b) Insert date. | on (b) and an order suspending the above-named bankrupt’s discharge having been made on (b) It is certified that the said order of suspension of discharge was lifted on (b)
 
-Dated this day of.
+Dated this day of .
 
 Registrar.
 
@@ -2782,7 +2646,7 @@ Certificate of Discharge (Title.)
 
 (d) Insert effective date of discharge. | was discharged from his bankruptcy on (d)
 
-Dated this day of . NOTICE TO BANKRUPT OR PERSONAL REPRESENTATIVE OF BANKRUPT (IF BANKRUPT IS DECEASED)— Should you require advertisement of this order in a local newspaper and/or the Gazette, you should, within _ days, notify the trustee, enclosing the prescribed fee, details of which can be obtained by contacting the trustee.
+Dated this day of . NOTICE TO BANKRUPT OR PERSONAL REPRESENTATIVE OF BANKRUPT (IF BANKRUPT IS DECEASED)— Should you require advertisement of this order in a local newspaper and/or the Gazette, you should, within ___________ days, notify the trustee, enclosing the prescribed fee, details of which can be obtained by contacting the trustee.
 
 Registrar.
 
@@ -2790,7 +2654,7 @@ Registrar.
 
 _
 
-Forms 89-93 (Repealed L.N. 81 of 1998)
+Forms 89 — 93 (Repealed L.N. 81 of 1998)
 
 _
 
@@ -2816,7 +2680,7 @@ Affidavit in support of application for committal of bankrupt for contempt under
 
 (a) Delete as appropriate. | I, , the Official Receiver of the estate of the said bankrupt/the trustee of the property of the said bankrupt (a) make oath, and say—
 
-Where bankrupt does not submit to examination | [1. That the said bankrupt did attend at a general meeting of his creditors for the purpose of appointing a trustee held on the day of , at , and wilfully refused to submit to be examined at such meeting in respect of his property [or his creditors], the submitting to examination being a duty imposed upon him by the Bankruptcy Ordinance (Chapter 6).]
+Where bankrupt does not submit to examination. | [1. That the said bankrupt did attend at a general meeting of his creditors for the purpose of appointing a trustee held on the day of , at , and wilfully refused to submit to be examined at such meeting in respect of his property [or his creditors], the submitting to examination being a duty imposed upon him by the Bankruptcy Ordinance (Chapter 6).]
 
 or
 
@@ -2844,7 +2708,9 @@ Form 97 | [rule 29]
 
 Affidavit of trustee under section 53(5) (Title.)
 
-I, G.H., the trustee of the property of the said A.B., a bankrupt, make oath and say— 1. That I believe that L.M., of , hath in his possession or power as [here set out the capacity in which the person stands to the bankrupt] certain moneys [and securities] belonging to the bankrupt, that is to say [here set out and describe the particular moneys and securities].
+I, G.H., the trustee of the property of the said A.B., a bankrupt, make oath and say—
+
+1. That I believe that L.M., of , hath in his possession or power as [here set out the capacity in which the person stands to the bankrupt] certain moneys [and securities] belonging to the bankrupt, that is to say [here set out and describe the particular moneys and securities].
 
 2. That on the day of , I did apply personally to the said L.M. to pay and deliver to me the said moneys and securities, and that he did not then pay or deliver, nor has he since paid or delivered, to me the same [or That I, on the day of , posted a letter to the said L.M., addressed to him at , calling upon him to, etc., and that on the day of , I posted another letter, by which I again called upon him to, etc., and that he has failed to pay and deliver the same].
 
@@ -2862,7 +2728,7 @@ To Take notice that C.D., of , will on the day of , at o’clock in the noon, ap
 
 Dated this day of .
 
-Registrar
+Registrar.
 
 (L.N. 81 of 1998)
 
@@ -2932,7 +2798,7 @@ Registrar.
 
 _
 
-Form 104 | [s. 26(4);rule 30]
+Form 104 | [s. 26(4); rule 30]
 
 Affidavit of non-compliance with order of court (Title.)
 
@@ -2948,7 +2814,11 @@ Form 105 | [rule 26]
 
 Warrant of committal for contempt (Title.)
 
-To the Bailiff of the High Court of Hong Kong and his assistants and to all police officers of Hong Kong and to the Commissioner of Correctional Services. Whereas by an order of this court bearing date the day of , it was ordered that the said debtor or bankrupt [or L.M. of ] should stand committed for contempt of this court. These are therefore to require you the said bailiff, and others, to take the said debtor or bankrupt [or L.M.] and to deliver him to the Commissioner of Correctional Services, and you the said Commissioner to receive the said debtor or bankrupt [or L.M.], and him safely to keep in prison in your custody until such time as this court shall order; and you the said Commissioner shall, while the said debtor or bankrupt [or L.M.] is in your custody, at all times when the court shall so direct produce the said debtor or bankrupt [or L.M.] before the court.
+To the Bailiff of the High Court of Hong Kong and his assistants and to all police officers of Hong Kong and to the Commissioner of Correctional Services.
+
+Whereas by an order of this court bearing date the day of , it was ordered that the said debtor or bankrupt [or L.M. of ] should stand committed for contempt of this court.
+
+These are therefore to require you the said bailiff, and others, to take the said debtor or bankrupt [or L.M.] and to deliver him to the Commissioner of Correctional Services, and you the said Commissioner to receive the said debtor or bankrupt [or L.M.], and him safely to keep in prison in your custody until such time as this court shall order; and you the said Commissioner shall, while the said debtor or bankrupt [or L.M.] is in your custody, at all times when the court shall so direct produce the said debtor or bankrupt [or L.M.] before the court.
 
 Dated this day of .
 
@@ -2986,7 +2856,7 @@ Registrar.
 
 _
 
-Form 108 | [s. 54;rule 26]
+Form 108 | [s. 54; rule 26]
 
 Search warrant (Title.)
 
@@ -3002,7 +2872,7 @@ To the Bailiff of the High Court and his assistants.
 
 _
 
-Form 109 | [s. 27;rule 26]
+Form 109 | [s. 27; rule 26]
 
 Warrant of seizure (Title.)
 
@@ -3046,9 +2916,9 @@ Form 111 | [s. 28]
 
 Order to Postmaster General under section 28 (Title.)
 
-(a) Here insert the full address or addresses. (b) “the said Official Receiver [or trustee] at “ or otherwise as the court may direct. | Upon the application of the Official Receiver [or the trustee] of the property of the above bankrupt, it is ordered that for a period of 3 months from the day of , all post letters, telegrams and postal packets directed or addressed to the said bankrupt, at (a) shall be re-directed, sent or delivered by the Postmaster General, or officers acting under him, to (b) except any letter on which there is a specific direction signed by the Official Receiver [or trustee] that it is to be delivered as addressed, if possible, and that a sealed duplicate of this order be forthwith transmitted by the Official Receiver [or trustee] to the Postmaster General, or officers acting under him.
+(a) Here insert the full address or addresses. (b) “the said Official Receiver [or trustee] at ” or otherwise as the court may direct. | Upon the application of the Official Receiver [or the trustee] of the property of the above bankrupt, it is ordered that for a period of 3 months from the day of , all post letters, telegrams and postal packets directed or addressed to the said bankrupt, at (a) shall be re-directed, sent or delivered by the Postmaster General, or officers acting under him, to (b) except any letter on which there is a specific direction signed by the Official Receiver [or trustee] that it is to be delivered as addressed, if possible, and that a sealed duplicate of this order be forthwith transmitted by the Official Receiver [or trustee] to the Postmaster General, or officers acting under him.
 
-Dated this day of.
+Dated this day of .
 
 Registrar.
 
@@ -3060,7 +2930,7 @@ Form 112 | [s. 29; rule 25]
 
 Summons under Section 29 (Title.)
 
-(a) Insert the name and address of the person to attend court. (b) Insert the name of the person to attend court. (c) State any particular documents required, e.g., all ledgers and books of account, invoices, statements of account, letters, books, papers and documents of every kind, in any manner relating to your dealings and transactions with A.B. a bankrupt, touching a debt alleged to be due by you to the said bankrupt’s estate amounting to the sum of $ . | Let (a)
+(a) Insert the name and address of the person to attend court. (b) Insert the name of the person to attend court. | Let (a)
 
 attend before | as follows—
 
@@ -3070,11 +2940,13 @@ Time | hours
 
 Place
 
-on the hearing of an application by the Official Receiver or trustee for an order that (b) _ shall attend the court at such time and place as the court shall direct for the purpose of giving evidence in the above matter, and then and there to have and produce (c) _. Dated this day of .
+(c) State any particular documents required, e.g., all ledgers and books of account, invoices, statements of account, letters, books, papers and documents of every kind, in any manner relating to your dealings and transactions with A.B. a bankrupt, touching a debt alleged to be due by you to the said bankrupt’s estate amounting to the sum of $ . | on the hearing of an application by the Official Receiver or trustee for an order that (b) _ shall attend the court at such time and place as the court shall direct for the purpose of giving evidence in the above matter, and then and there to have and produce (c) _. Dated this day of .
 
 Registrar.
 
-Note: This summons is issued on the application of the Official Receiver or trustee, and take notice, that if the sum of $ , stated to be due by you to this estate, be paid to , Official Receiver or trustee, at , on or before the day of , this summons will be discharged. If you fail without lawful impediment to attend the court at such time and place as the court shall direct, the court may by warrant cause you to be apprehended and brought up for examination. If you commit perjury while giving evidence in connection with this matter, you will be liable on conviction to imprisonment for 7 years and a fine.
+Note: This summons is issued on the application of the Official Receiver or trustee, and take notice, that if the sum of $ , stated to be due by you to this estate, be paid to , Official Receiver or trustee, at , on or before the day of , this summons will be discharged. If you fail without lawful impediment to attend the court at such time and place as the court shall direct, the court may by warrant cause you to be apprehended and brought up for examination.
+
+If you commit perjury while giving evidence in connection with this matter, you will be liable on conviction to imprisonment for 7 years and a fine.
 
 (L.N. 81 of 1998; L.N. 125 of 2007)
 
@@ -3114,9 +2986,9 @@ Warrant to apprehend a person summoned under section 29 (Title.)
 
 To the Bailiff of the High Court of Hong Kong and his assistants and to all police officers of Hong Kong and to the Commissioner of Correctional Services.
 
-Whereas by summons dated the day of , and directed to A.B., of [or F.M., of ], the said A.B. [or F.M.] was required personally to be and appear on the day of at o’clock in the noon at the court to be examined [and produce such document as hereinafter mentioned] which said summons was afterwards on the day of as hath been proved upon oath duly served upon the said and a reasonable sum was tendered him for his expenses, and whereas the said having no lawful impediment made known to and allowed by the court at the time of its sitting hath refused to appear before the court at the time appointed [and/or hath refused to produce a document in his custody or power relating to the bankrupt, his dealings, or property which the court has required him to produce]. These are, therefore, to require
+Whereas by summons dated the day of , and directed to A.B., of [or F.M., of ], the said A.B. [or F.M.] was required personally to be and appear on the day of at o’clock in the noon at the court to be examined [and produce such document as hereinafter mentioned] which said summons was afterwards on the day of as hath been proved upon oath duly served upon the said and a reasonable sum was tendered him for his expenses, and whereas the said having no lawful impediment made known to and allowed by the court at the time of its sitting hath refused to appear before the court at the time appointed [and/or hath refused to produce a document in his custody or power relating to the bankrupt, his dealings, or property which the court has required him to produce]. These are, therefore, to require and authorize you and every of you, the said bailiff and your assistants and police officers and constables immediately upon receipt hereof to take the said A.B. [or
 
-and authorize you and every of you, the said bailiff and your assistants and police officers and constables immediately upon receipt hereof to take the said A.B. [or F.M.], and bring him before this court at such time and place as this court shall direct, in order to his being examined as aforesaid, and in the meantime him safely to keep or deliver to the Commissioner of Correctional Services and forthwith, after such taking and delivery, to report the same to the court, and obtain its direction or order fixing a day, time and place for the examination of the said A.B. [or F.M.], and you the said Commissioner of Correctional Services to receive the said A.B. [or F.M.], and him safely keep in prison and in your custody to await the direction or order of the court, and to produce him before the court at such time and place as shall be specified in such direction or order, and for so doing this shall be a sufficient warrant to you and every of you.
+F.M.], and bring him before this court at such time and place as this court shall direct, in order to his being examined as aforesaid, and in the meantime him safely to keep or deliver to the Commissioner of Correctional Services and forthwith, after such taking and delivery, to report the same to the court, and obtain its direction or order fixing a day, time and place for the examination of the said A.B. [or F.M.], and you the said Commissioner of Correctional Services to receive the said A.B. [or F.M.], and him safely keep in prison and in your custody to await the direction or order of the court, and to produce him before the court at such time and place as shall be specified in such direction or order, and for so doing this shall be a sufficient warrant to you and every of you.
 
 Dated this day of .
 
@@ -3128,9 +3000,7 @@ _
 
 Form 116 | [s. 29; rule 28]
 
-Order for production of person apprehended under warrant
-
-under section 29 for examination before the court (Title.)
+Order for production of person apprehended under warrant under section 29 for examination before the court (Title.)
 
 Upon report made to the court the day of , that A.B. has been apprehended under a warrant issued by the court on the day of , it is ordered that the Commissioner of Correctional Services do cause the said A.B. to be brought in custody before the court sitting on the day of at o’clock in the noon for examination before the court, and in the meantime to be safely kept, and afterwards if the court shall so direct to be taken back to prison and there safely kept pursuant to the said warrant.
 
@@ -3176,15 +3046,15 @@ _
 
 Form 120 | [rule 128A(1)]
 
-Order for Income Claimed under Section 43E(3)(a)
-
-of the Bankruptcy Ordinance (Chapter 6) (Title.)
+Order for Income Claimed under Section 43E(3)(a) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 in chambers
 
 (a) Insert full name and address of applicant. | Upon the application of (a) And upon hearing
 
-(b) Delete as applicable. (c) Insert total amount to be paid. (d) Insert intervals at which instalments are to be paid e.g. weekly/monthly and amount to be paid in each instalment. (e) Insert date to which order is to remain in force. (f) Insert date of first payment. (g) Insert name and address of trustee to whom payments are to be sent. | (b) [And upon the consent of the above-named bankrupt] it appears to the court that the sum of $(c) should be paid by the above-named bankrupt by (d) to the trustee until (e) It is ordered that the above-named bankrupt to pay (d) out of his income, the first of such instalments to be made on or before (f) And it is ordered that the above-named bankrupt do send the payments to (g)
+(b) Delete as applicable. (c) Insert total amount to be paid. (d) Insert intervals at which instalments are to be paid e.g. weekly/monthly and amount to be paid in each instalment. | (b) [And upon the consent of the above-named bankrupt] it appears to the court that the sum of $(c) should be paid by the above-named bankrupt by (d) to the trustee until (e) It is ordered that the above-named bankrupt to pay (d) out of his income, the first of such instalments to be made on or before (f)
+
+(e) Insert date to which order is to remain in force. (f) Insert date of first payment. (g) Insert name and address of trustee to whom payments are to be sent. | And it is ordered that the above-named bankrupt do send the payments to (g)
 
 Dated this day of .
 
@@ -3196,15 +3066,15 @@ _
 
 Form 121 | [rule 128A(2)]
 
-Order for Income Claimed under Section 43E(3)(b)
-
-of the Bankruptcy Ordinance (Chapter 6) (Title.)
+Order for Income Claimed under Section 43E(3)(b) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 in chambers
 
 (a) Insert full name and address of applicant. | Upon the application of (a) And upon hearing
 
-(b) Delete as applicable. (c) Insert total amount to be paid. (d) Insert intervals at which instalments are to be paid e.g. weekly/monthly and amount to be paid in each instalment. (e) Insert date to which order is to remain in force. (f) Insert full name and address of payer. (g) Insert date of first payment. (h) Insert name and address of trustee to whom payments are to be sent. | (b) [And upon the consent of the above-named bankrupt] it appears to the court that the sum of $(c) should be paid by the above-named bankrupt by (d) to the trustee until (e) It is ordered that (f) do take (d) out of the above-named bankrupt’s income, the first of such instalments to be paid on or before (g) And it is ordered that (f) do send the sums deducted to (h)
+(b) Delete as applicable. (c) Insert total amount to be paid. (d) Insert intervals at which instalments are to be paid e.g. weekly/monthly and amount to be paid in each instalment. (e) Insert date to which order is to remain in force. | (b) [And upon the consent of the above-named bankrupt] it appears to the court that the sum of $(c) should be paid by the above-named bankrupt by (d) to the trustee until (e) It is ordered that (f) do take (d) out of the above-named bankrupt’s income, the first of such instalments to be paid on or before (g) And it is ordered that (f)
+
+(f) Insert full name and address of payer. (g) Insert date of first payment. (h) Insert name and address of trustee to whom payments are to be sent. | do send the sums deducted to (h)
 
 Dated this day of .
 
@@ -3220,11 +3090,9 @@ _
 
 Form 123 | [s. 59; rule 130]
 
-Notice to landlord of intention to disclaim leasehold
+Notice to landlord of intention to disclaim leasehold property not sublet or mortgaged (Title.)
 
-property not sublet or mortgaged (Title.)
-
-(a) lease or tenancy as the case may be. (b) Here specify property let. | Take notice that I intend to disclaim the (a) dated whereby (b) was let to the above-named bankrupt as a rent of $ If you require the matter to be brought before the court you must give notice thereof to me in writing within 7 days of the receipt by you of this notice.
+(a) lease or tenancy as the case may be. (b) Here specify property let. | Take notice that I intend to disclaim the (a) dated whereby (b) was let to the above-named bankrupt as a rent of $ If you require the matter to be brought before the court, you must give notice thereof to me in writing within 7 days of the receipt by you of this notice.
 
 Dated this day of .
 
@@ -3236,9 +3104,7 @@ _
 
 Form 124 | [s. 59; rule 130]
 
-Notice to intention to disclaim leasehold property
-
-sublet or mortgaged (Title.)
+Notice of intention to disclaim leasehold property sublet or mortgaged (Title.)
 
 (a) Here insert particulars of demised property. (b) the above-named bankrupt or as the case may be. | Take notice that I intend to disclaim the lease dated whereby (a) was let to (b) at a rent of $ If you require the matter to be brought before the court, you must give notice thereof to me in writing within 14 days of the receipt by you of this notice.
 
@@ -3266,21 +3132,21 @@ _
 
 Form 126 | [s. 59; rule 130]
 
-Disclaimer of leasehold property after notice
-
-to landlord, mortgagees, etc. (Title.)
+Disclaimer of leasehold property after notice to landlord, mortgagees, etc. (Title.)
 
 (a) Here insert names and addresses of persons to whom notice of intention to disclaim has been given. (b) Here insert particulars of demised property. (c) the above-named bankrupt or as the case may be. (d) Insert names and addresses of persons to whom notice of disclaimer has been given. | Pursuant to notice dated the day of , addressed to (a) I, , the trustee of the property of the above-named bankrupt, hereby disclaim the lease dated the day of , whereby (b) were let to (c) at a rent of $ for a term of Notice of this disclaimer has been given to (d)
 
 Dated this day of .
 
-Trustee. (Address)
+Trustee.
+
+(Address)
 
 _
 
 Form 127 | [s. 59; rule 130]
 
-Disclaimer of lease with leave or court (Title.)
+Disclaimer of lease with leave of court (Title.)
 
 (a) Insert description of the property disclaimed. | Pursuant to an order of court dated the day of , I, , the trustee of the property of the above-named bankrupt, hereby disclaim all interest in the lease dated the day of , whereby the premises (a) were demised to at a rent of $ per annum, for a term of Notice of this disclaimer has been given to
 
@@ -3322,13 +3188,7 @@ _
 
 Form 130 | [s. 59; rule 130]
 
-Form of notice by landlord or other person
-
-requiring trustee to bring matter of intended
-
-disclaimer of property burdened with
-
-onerous covenants before the court (Title.)
+Form of notice by landlord or other person requiring trustee to bring matter of intended disclaimer of property burdened with onerous covenants before the court (Title.)
 
 To Trustee of the property of the above-named bankrupt. Sir, I hereby give you notice that the bankrupt was, at the date of the bankruptcy order, interested as lessee [or as the case may be] in the property described in the schedule to this notice, and that as such lessee [or as the case may be] the bankrupt was liable in respect of [set out nature of the bankrupt’s liability] which liability has devolved on you as trustee in bankruptcy of his property, and I hereby require you to bring the matter of your intended disclaimer of the bankrupt’s interest in the said property before the court.
 
@@ -3372,23 +3232,25 @@ _
 
 Form 134 | [rule 144]
 
-Creditor's petition for administration of estate
-
-of deceased debtor under section 112 (Title.)
+Creditor’s petition for administration of estate of deceased debtor under section 112 (Title.)
 
 I, C.D., of [or We, C.D., of , and E.F. of ], hereby petition the court that an order be made for the administration in bankruptcy of the estate of the late [here insert name and description of deceased debtor] who died on the day of , and say— 1. That the said A.B. at some time within 3 years immediately preceding his death was ordinarily resident or had a place of residence or carried on business in Hong Kong.
 
 2. That the estate of the said A.B. is justly and truly indebted to me [or us in the aggregate] in the sum of $ [set out amount of debt or debts and the consideration]. 3. That [I] do not nor does any person on [my] behalf hold any security on the said deceased debtor’s estate, or on any part thereof, etc. [or as in Form No. 10, Creditor’s petition].
 
-4. That the estate of the said A.B. is according to my information and belief insufficient to pay his debts. 5. That the will of the said A.B. was on the day of , proved by J.S., of , and G.H., of or
+4. That the estate of the said A.B. is according to my information and belief insufficient to pay his debts. 5. That the will of the said A.B. was on the day of , proved by J.S., of , and G.H., of or That letters of administration were on the day of , granted to J.S., of , and G.H., of
 
-That letters of administration were on the day of , granted to J.S., of , and G.H., of or That no probate or administration in respect of the said estate has been applied for. Dated this day of .
+or That no probate or administration in respect of the said estate has been applied for. Dated this day of .
 
 C.D. E.F. Signed by the petitioner in my presence. Signature of witness. Address. Description.
 
-ENDORSEMENT
+Endorsement
 
-This petition having been presented to the court on the day of , it is ordered that this petition shall be heard at on the day of , at o’clock in the noon. If you, the said J.S. or G.H., intend to show cause against the petition, you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to the petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard. Registrar.
+This petition having been presented to the court on the day of , it is ordered that this petition shall be heard at on the day of , at o’clock in the noon.
+
+If you, the said J.S. or G.H., intend to show cause against the petition, you must file with the Official Receiver a notice showing the grounds upon which you intend to show cause, and post a copy of the notice to petitioner or his solicitor, in each case 3 days before the day on which the petition is to be heard.
+
+Registrar.
 
 (L.N. 81 of 1998)
 
@@ -3396,15 +3258,13 @@ _
 
 Form 135 | [s. 112(9); rule 144]
 
-Petition by legal personal representative or Official
-
-Administrator for order of administration
-
-under section 112 (Title.)
+Petition by legal personal representative or Official Administrator for order of administration under section 112 (Title.)
 
 I, C.D. of [or We, C.D., of , and E.F., of ], hereby petition the court that an order be made for the administration in bankruptcy of the estate of the late [here insert name and description of deceased debtor], who died on the day of , and say—
 
-1. That I am the Official Administrator of the estate [or I am/we are] the legal personal representative [or representatives] of the said [debtor] and that his will was on the day of , proved by [or that letters of administration of his estate were on the day of , granted to ]. 2. That the said A.B. at some time within 3 years immediately preceding his death was ordinarily resident or had a place of residence or carried on business in Hong Kong.
+1. That I am the Official Administrator of the estate [or I am/we are] the legal personal representative [or representatives] of the said [debtor] and that his will was on the day of , proved by [or that letters of administration of his estate were on the day of , granted to ].
+
+2. That the said A.B. at some time within 3 years immediately preceding his death was ordinarily resident or had a place of residence or carried on business in Hong Kong.
 
 3. That the estate of [debtor] is according to my [or our] information and belief insufficient to pay his debts. (Signed)
 
@@ -3416,9 +3276,7 @@ _
 
 Form 136 | [s. 112(4); rule 146]
 
-Order for administration in bankruptcy of estate of
-
-deceased debtor upon petition (Title.)
+Order for administration in bankruptcy of estate of deceased debtor upon petition (Title.)
 
 Upon the petition of C.D., dated , and numbered of , and upon reading and hearing , it is ordered that the estate of A.B., of , who died insolvent, be administered in bankruptcy, and that the Official Receiver be the trustee, and the costs of this application be
 
@@ -3428,9 +3286,7 @@ _
 
 Form 137 | [s. 94; rule 169]
 
-Statement to Accompany Application for Release (Title.) Statement showing the position of estate at the date
-
-of application for release
+Statement to Accompany Application for Release (Title.) Statement showing the position of estate at the date of application for release
 
 $ | $
 
@@ -3528,9 +3384,7 @@ _
 
 Form 139 | [s. 67; rule 123]
 
-Notice to persons claiming to be creditors of
-
-intention to declare final dividend (Title.)
+Notice to persons claiming to be creditors of intention to declare final dividend (Title.)
 
 Take notice that a final dividend is intended to be declared in the above matter, and that if you do not establish your claim to the satisfaction of the court on or before the day of , or such later day as the court may fix, your claim will be expunged, and I shall proceed to make a final dividend without regard to such claim.
 
@@ -3574,9 +3428,7 @@ _
 
 Form 142 | [s. 73]
 
-Application by creditor for order for trustee to pay
-
-dividend withheld and order thereon (Title.)
+Application by creditor for order for trustee to pay dividend withheld and order thereon (Title.)
 
 I, F.K., of , make application to this court for an order to be made upon the trustee to pay the dividend in this bankruptcy due to me, with interest thereon for the time it has been withheld from me, that is to say, from the day of , on which day I applied to the trustee for its payment to me, and also to pay to me the costs of this application. Dated this day of . F.K.
 
@@ -3584,7 +3436,9 @@ Order
 
 Upon the reading of this application, and upon hearing , it is ordered that the trustee do forthwith pay to the said F.K. the sum of $ , the amount of such dividend.
 
-And it is further ordered that the trustee do pay to the said creditor at the same time the sum of , for interest on such dividend, being at the rate specified under section 49 of the High Court Ordinance (Cap. 4) for the time that its payment has been withheld, together with a further sum of for the costs of this application. Dated this day of . Registrar. [If the court does not order payment, then after the words it is ordered insert the order made.]
+And it is further ordered that the trustee do pay to the said creditor at the same time the sum of , for interest on such dividend, being at the rate specified under section 49 of the High Court Ordinance (Cap. 4) for the time that its payment has been withheld, together with a further sum of for the costs of this application.
+
+Dated this day of . Registrar. [If the court does not order payment, then after the words it is ordered insert the order made.]
 
 (L.N. 81 of 1998; L.N. 125 of 2007)
 
@@ -3594,17 +3448,21 @@ Form 143
 
 Request to deliver bill for taxation (Title.)
 
-(a) Here state capacity in which person employed or engaged. | I hereby request that you will, within 7 days of this date or such further time as the court may grant, deliver to me for taxation by the Registrar your bill of costs [or charges] as (a) failing which I shall, in pursuance of the Ordinance, proceed to declare and distribute a dividend without regard to any claim you may have against me or against the estate of the debtor. Dated this day of . G.H., Trustee.
+(a) Here state capacity in which person employed or engaged. | I hereby request that you will, within 7 days of this date or such further time as the court may grant, deliver to me for taxation by the Registrar your bill of costs [or charges] as (a) failing which I shall, in pursuance of the Ordinance, proceed to declare and distribute a dividend without regard to any claim you may have against me or against the estate of the debtor.
+
+Dated this day of . G.H., Trustee.
 
 _
 
 Form 144
 
-Allocatur for costs of debtor's petition (Title.)
+Allocatur for costs of debtor’s petition (Title.)
 
 I hereby certify— 1. That I have taxed the bill of costs of , the debtor’s solicitor, for filing the petition herein, and have allowed the same at the sum of $ .
 
-(a) is or is not. | 2. That the deposit of paid to the Official Receiver on the filing of the petition (a) included in the above-mentioned sum. 3. That credit has been given in the said bill for the sum of received on account of such costs.
+(a) is or is not. | 2. That the deposit of paid to the Official Receiver on the filing of the petition (a) included in the above-mentioned sum.
+
+3. That credit has been given in the said bill for the sum of received on account of such costs.
 
 Dated this day of .
 
@@ -3616,11 +3474,9 @@ _
 
 Form 145 | [rule 190]
 
-Certificate by creditors' committee as to audit of
+Certificate by Creditors’ committee as to audit of trustee’s account
 
-trustee's account
-
-We, the undersigned, members of the creditors’ committee in the matter of , a bankrupt, hereby certify that we have examined the foregoing account with the vouchers, and that to the best of our knowledge and belief the said account contains a full, true and complete account of the trustee’s receipts and payments on account of the estate. Dated this day of .
+We, the undersigned, members of the Creditors’ committee in the matter of , a bankrupt, hereby certify that we have examined the foregoing account with the vouchers, and that to the best of our knowledge and belief the said account contains a full, true and complete account of the trustee’s receipts and payments on account of the estate. Dated this day of .
 
 A.B. | ｝
 
@@ -3634,7 +3490,7 @@ _
 
 Form 146 | [s. 93; rule 191(3)]
 
-Affidavit verifying trustee's account (Title.)
+Affidavit verifying trustee’s account (Title.)
 
 I, G.H., of , the trustee of the property of the above-named bankrupt, make oath and say—
 
@@ -3644,7 +3500,7 @@ _
 
 Form 147 | [rule 168]
 
-Trustee's trading account (Title.)
+Trustee’s trading account (Title.)
 
 G.H., the trustee of the property of the bankrupt in account with the estate.
 
@@ -3692,7 +3548,7 @@ G.H., Trustee.
 
 (Date)
 
-NOTE.—This account to be submitted when the creditors’ committee require, and in any case at the end of the trading business carried on by the trustee.
+NOTE.—This account to be submitted when the Creditors’ committee require, and in any case at the end of the trading business carried on by the trustee.
 
 (L.N. 81 of 1998)
 
@@ -3700,7 +3556,7 @@ _
 
 Form 149 | [rule 168]
 
-Affidavit verifying trustee's trading account (Title.)
+Affidavit verifying trustee’s trading account (Title.)
 
 I, G.H., of the trustee of the property of the above-named bankrupt, make oath and say that the account hereto annexed is a full, true and complete account of all money received and paid by me or by any person on my behalf in respect of the carrying on of the trade or business of the bankrupt, and that the sums paid by me as set out in such account have, as I believe, been necessarily expended in carrying on such trade or business. Sworn at, etc. G.H.,Trustee.
 
@@ -3756,7 +3612,7 @@ Application by trustee to court for release (Title.)
 
 I, G.H., the trustee of the property of the bankrupt, do hereby report to the court as follows— 1. That the whole of the property of the bankrupt has been realized for the benefit of his creditors [and a dividend to the amount of per cent has been paid as shown by the statement hereunto annexed];
 
-[or That so much of the property of the bankrupt as can, according to the joint opinion of myself and the creditors’ committee, hereunto annexed in writing under our hands, be realized without needlessly protracting the bankruptcy, has been realized as shown by the statement hereunto annexed, and a dividend to the amount of per cent has been paid];
+[or That so much of the property of the bankrupt as can, according to the joint opinion of myself and the Creditors’ committee, hereunto annexed in writing under our hands, be realized without needlessly protracting the bankruptcy, has been realized as shown by the statement hereunto annexed, and a dividend to the amount of per cent has been paid];
 
 [or That a voluntary arrangement has been approved by a meeting of creditors summoned under section 20E of the Bankruptcy Ordinance.] 2. I therefore hereby apply to the court for my release.
 
@@ -3828,13 +3684,13 @@ _
 
 Form 157 | [s. 30D(1)]
 
-Order under Section 30D(1) of the Bankruptcy
-
-Ordinance (Chapter 6) (Title.)
+Order under Section 30D(1) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 in chambers
 
-(a) Insert name, address and description of applicant. | Upon the application of (a) And upon hearing And upon reading the evidence filed It is ordered that—
+(a) Insert name, address and description of applicant. | Upon the application of (a) And upon hearing
+
+And upon reading the evidence filed It is ordered that—
 
 (b) Insert name and address of Inland Revenue Official who is to produce the documents. (c) Delete as applicable. (d) Insert description of documents to be produced. | (b) do produce to the court (c) [the following documents (d)—] [the documents set out in the schedule to this order] (c) [by (e)]
 
@@ -3850,9 +3706,7 @@ _
 
 Form 158 | [s. 30D(3)]
 
-Order under Section 30D(3) of the Bankruptcy
-
-Ordinance (Chapter 6) (Title.)
+Order under Section 30D(3) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 in chambers
 
@@ -3870,9 +3724,7 @@ _
 
 Form 159 | [s. 30D(3)]
 
-Application for Order under Section 30D(3) of
-
-the Bankruptcy Ordinance (Chapter 6) (Title.)
+Application for Order under Section 30D(3) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Delete as applicable. (b) Insert details of documents to be disclosed. (c) Insert date of order under section 30D(1) of the Bankruptcy Ordinance (Chapter 6). | I, , the [Official Receiver and] (a) trustee of the property of hereby apply for an order that (b) which were produced to this court in compliance with an order dated (c) under section 30D(1) of the Bankruptcy Ordinance (Chapter 6) be disclosed to—(d)
 
@@ -3888,9 +3740,7 @@ _
 
 Form 160 | [s. 30D(1)]
 
-Application for Order under Section 30D(1) of
-
-the Bankruptcy Ordinance (Chapter 6) (Title.)
+Application for Order under Section 30D(1) of the Bankruptcy Ordinance (Chapter 6) (Title.)
 
 (a) Delete as applicable. (b) Insert description of documents to be produced. | I, , the [Official Receiver and] (a) trustee of the property of hereby apply for an order that the Commissioner of Inland Revenue shall produce to the Court (a) [the following documents] (b) [the documents set out in the schedule to this order]
 
@@ -3906,9 +3756,7 @@ _
 
 Form 161 | [rule 47]
 
-Affidavit in Support of Application to set Aside
-
-Statutory Demand (Title.)
+Affidavit in Support of Application to set Aside Statutory Demand (Title.)
 
 (a) Insert name, address and description of person making the oath. | I, (a)
 
@@ -3918,7 +3766,7 @@ make oath and say as follows—
 
 (c) Insert one of the 8 following possibilities or if none of them is applicable state grounds on which you consider the statutory demand should be set aside. (1) “Do not admit the debt because ...” [here state grounds], or | 2. That I (c)
 
-(2) “Admit the debt but not that it is payable immediately” [state reason], or (3) “Admit the debt as to $ , and that this is payable but that the remainder is not immediately payable. I am prepared to pay the amount of $ , immediately”[state reason], or
+(2) “Admit the debt but not that it is payable immediately” [state reason], or (3) “Admit the debt as to $ , and that this is payable but that the remainder is not immediately payable. I am prepared to pay the amount of $ , immediately” [state reason], or
 
 (4) “Admit the debt and am prepared to secure or compound for it to the creditor’s satisfaction by ... ” [state nature of satisfaction], or (5) “Say that the debt is a secured debt” [give full details of security and its value], or
 
@@ -3928,7 +3776,7 @@ make oath and say as follows—
 
 (8) “Say that the demand does not comply with the Bankruptcy Rules (Cap. 6 sub. leg. A) in that ...” [state reason]. | Sworn at
 
-Date | Signature _
+Date | Signature __________
 
 Before me
 
@@ -3964,7 +3812,7 @@ When incurred | Description of debt | Amount due as at the date of this demand
 
 Amount of Debt | $
 
-By a Judgment/order of the _ court in proceedings entitled Number _ between Plaintiff and _ Defendant it was adjudged/ordered that you pay to the Plaintiff creditor the sum of $ _ and $ _ for costs.
+By a Judgment/order of the _____________ court in proceedings entitled Number _______________ between Plaintiff and ________________ Defendant it was adjudged/ordered that you pay to the Plaintiff creditor the sum of $ __________ and $ __________ for costs.
 
 The creditor demands that you pay the above debt or compound for it to the creditor’s satisfaction. | ‧ If the creditor holds any security the amount of debt should be the sum the creditor is prepared to regard as unsecured for the purposes of this demand. Brief details of the total debt should be included in column (2), and the nature of the security and the value put upon it by the creditor, as at the date of the demand, must be specified. ‧ If signatory is a solicitor or other agent of the creditor the name of his/her firm should be given.
 
@@ -4018,7 +3866,7 @@ _
 
 Form 163 | [rule 44]
 
-Statutory Demand under Section 6A(1)(a) of the Bankruptcy Ordinance (Chapter 6) Debt for Liquidated Sum Payable Immediately (Title.)
+Statutory Demand Under Section 6A(1)(a) of the Bankruptcy Ordinance (Chapter 6) Debt for Liquidated Sum Payable Immediately (Title.)
 
 Warning
 
@@ -4082,7 +3930,9 @@ Original creditor
 
 Assignees
 
-How to comply with a statutory demand or have it set aside If you wish to avoid a bankruptcy petition being presented against you, you must pay the debt set out on page 1 of this notice within the period of 21 days of service upon you. Alternatively, you can attempt to come to a settlement with the creditor. To do this you should— ‧inform the person or persons (or one of the persons) named in Part B above immediately that you are willing and able to offer security for the debt to the creditor’s satisfaction; or
+How to comply with a statutory demand or have it set aside If you wish to avoid a bankruptcy petition being presented against you, you must pay the debt set out on page 1 of this notice within the period of 21 days of service upon you. Alternatively, you can attempt to come to a settlement with the creditor. To do this you should—
+
+‧inform the person or persons (or one of the persons) named in Part B above immediately that you are willing and able to offer security for the debt to the creditor’s satisfaction; or
 
 ‧inform the person or persons (or one of the persons) named in Part B immediately that you are willing and able to compound for the debt to the creditor’s satisfaction.
 
@@ -4098,7 +3948,7 @@ _
 
 Form 164 | [rule 44]
 
-Statutory Demand under Section 6A(2) of the Bankruptcy Ordinance (Chapter 6) Debt Payable at Future Date (Title.)
+Statutory Demand under section 6A(2) of the Bankruptcy Ordinance (Chapter 6) Debt Payable at Future Date (Title.)
 
 Warning
 
@@ -4264,9 +4114,7 @@ _
 
 Form 168 | [rule 122F]
 
-Interim Order under Section 20 of the Bankruptcy
-
-Ordinance (Chapter 6)—One-Stage Procedure (Title.) ORDER
+Interim Order under Section 20 of the Bankruptcy Ordinance (Chapter 6)—One-Stage Procedure (Title.) ORDER
 
 (a) Insert full name and address of applicant. | Upon the application of (a) And upon hearing of And upon reading the evidence and the court having this day considered the report of the nominee submitted pursuant to section 20D of the Bankruptcy Ordinance (Chapter 6) and filed on
 

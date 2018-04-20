@@ -10,11 +10,15 @@ _
 
 FORM 1B | [rule 3(2)(a)]
 
-ADMISSION AND REGISTRATION RULES
+ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
 
-APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR ON THE BASIS OF COMPLIANCE WITH SECTION 4(1)(a)—BARRISTERS
+ADMISSION AS A SOLICITOR ON THE BASIS OF
 
-To: | The Law Society of Hong Kong,
+COMPLIANCE WITH SECTION 4(1)(a)—
+
+BARRISTERS
+
+To: The Law Society of Hong Kong,
 
 I,
 
@@ -26,11 +30,11 @@ of
 
 apply for the issue to me of a certificate of eligibility in accordance with rule 3(4) of the Admission and Registration Rules (Cap. 159 sub. leg. B).
 
-Telephone contact number
+Telephone contact number .
 
 I do solemnly and sincerely declare as follows—
 
-(1) | I have resided in Hong Kong for at least 3 months immediately before my admission.
+(1) | I have resided in Hong Kong for at least 3 months immediately before the date of this application.
 
 OR*
 
@@ -78,17 +82,17 @@ Commissioner for Oaths/Solicitor.
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 103 of 2017)
+(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 103 of 2017; 17 of 2018 s. 14)
 
 _
 
 FORM 1C | [rule 3(2)(c)]
 
-ADMISSION AND REGISTRATION RULES
+ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
 
-APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR UNDER SECTION 4(1)(b)
+ADMISSION AS A SOLICITOR UNDER SECTION 4(1)(b)
 
-To: | The Law Society of Hong Kong,
+To: The Law Society of Hong Kong,
 
 I,
 
@@ -100,11 +104,11 @@ of
 
 apply for the issue to me of a certificate of eligibility in accordance with rule 3(5) of the Admission and Registration Rules (Cap. 159 sub. leg. B).
 
-Telephone contact number
+Telephone contact number .
 
 I do solemnly and sincerely declare as follows—
 
-(1) | I have resided in Hong Kong for at least 3 months immediately before my admission.
+(1) | I have resided in Hong Kong for at least 3 months immediately before the date of this application.
 
 OR*
 
@@ -144,15 +148,15 @@ Commissioner for Oaths/Solicitor.
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 114 of 2000)
+(L.N. 466 of 1994; L.N. 114 of 2000; 17 of 2018 s. 14)
 
 _
 
 FORM 2 | [rule 3(4)]
 
-ADMISSION AND REGISTRATION RULES
+ADMISSION AND REGISTRATION RULES CERTIFICATE OF ELIGIBILITY FOR ADMISSION
 
-CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR
+AS A SOLICITOR
 
 THIS IS TO CERTIFY THAT
 
@@ -178,7 +182,7 @@ OR*
 
 is exempted from employment as a trainee solicitor in accordance with the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
-(d) | has resided in Hong Kong for at least 3 months immediately before his/her admission;
+(d) | has resided in Hong Kong for at least 3 months immediately before the date on which he/she applied for a certificate as stated in paragraph (1) of this Form;
 
 OR*
 
@@ -196,7 +200,7 @@ and
 
 (e) | is in other respects fit to be a solicitor.
 
-Dated this . day of
+Dated this . day of .
 
 (Sgd.)
 
@@ -204,15 +208,13 @@ for The Law Society of Hong Kong.
 
 * Delete whichever inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002; L.N. 277 of 2008;L.N. 69 of 2010)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002; L.N. 277 of 2008;L.N. 69 of 2010; 17 of 2018 s. 14)
 
 _
 
 FORM 3 | [rule 3(5)]
 
-ADMISSION AND REGISTRATION RULES
-
-CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR
+ADMISSION AND REGISTRATION RULES CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR
 
 THIS IS TO CERTIFY THAT
 
@@ -230,7 +232,7 @@ in | #;
 
 (c) | he/she—
 
-has resided in Hong Kong for at least 3 months immediately before his/her admission;
+has resided in Hong Kong for at least 3 months immediately before the date on which he/she applied for a certificate as stated in paragraph (1) of this Form;
 
 OR*
 
@@ -248,7 +250,7 @@ and
 
 (d) | is in other respects fit to be a solicitor.
 
-Dated this . day of
+Dated this . day of .
 
 (Sgd.)
 
@@ -258,17 +260,19 @@ for The Law Society of Hong Kong.
 
 * | Delete whichever inapplicable.
 
-(L.N. 466 of 1994; L.N. 114 of 2000; L.N. 69 of 2010)
+(L.N. 466 of 1994; L.N. 114 of 2000; L.N. 69 of 2010; 17 of 2018 s. 14)
 
 _
 
 FORM 4 | [rule 3(2)(b)]
 
-ADMISSION AND REGISTRATION RULES
+ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
 
-APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR ON THE BASIS OF COMPLIANCE WITH SECTION 4(1)(a)—TRAINEE SOLICITORS
+ADMISSION AS A SOLICITOR ON THE BASIS OF COMPLIANCE
 
-To: | The Law Society of Hong Kong,
+WITH SECTION 4(1)(a)—TRAINEE SOLICITORS
+
+To: The Law Society of Hong Kong,
 
 I,
 
@@ -296,7 +300,7 @@ do solemnly and sincerely declare as follows—
 
 (a) | I, the Trainee Solicitor for myself say as follows—
 
-1. | I have resided in Hong Kong for at least 3 months immediately before my admission.
+1. | I have resided in Hong Kong for at least 3 months immediately before the date of this application.
 
 OR*
 
@@ -440,15 +444,13 @@ Note: | Where the Trainee Solicitor has been employed under two or more trainee 
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002; L.N. 277 of 2008; L.N. 69 of 2010)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002; L.N. 277 of 2008; L.N. 69 of 2010 ; 17 of 2018 s. 14)
 
 _
 
 FORM 5 | [rules 4 & 11]
 
-ADMISSION AND REGISTRATION RULES
-
-AFFIDAVIT OF IDENTITY
+ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
 
 I, | of
 
@@ -460,9 +462,9 @@ is a true likeness of . of . Hong Kong, a .*, the applicant herein.
 
 2. | I have examined [Hong Kong Identity Card No.
 
-] [passport No. .] # of the said . and I am satisfied that from such examination that he/she is the person shown in the photograph attached hereto and that he/she is the applicant in these proceedings.
+] [passport No. .]# of the said . and I am satisfied that from such examination that he/she is the person shown in the photograph attached hereto and that he/she is the applicant in these proceedings.
 
-SWORN/DECLARED at .HONG KONG | }
+SWORN/DECLARED at . HONG KONG | }
 
 this . day of
 
@@ -484,19 +486,13 @@ _
 
 FORM 7 | [rule 7]
 
-ADMISSION AND REGISTRATION RULES
-
-ROLL OF SOLICITORS
+ADMISSION AND REGISTRATION RULES ROLL OF SOLICITORS
 
 was duly
 
 admitted to practise as a Solicitor of the High Court of Hong Kong on the . day of .
 
-Registrar,
-
-High Court,
-
-Hong Kong.
+Registrar, High Court, Hong Kong.
 
 (L.N. 212 of 1976; L.N. 41 of 1981; 25 of 1998 s. 2; L.N. 114 of 2000)
 
@@ -522,10 +518,8 @@ I HEREBY CERTIFY THAT
 
 was appointed as a notary public of Hong Kong on the .day of .
 
-Dated this . day of
+Dated this . day of .
 
-Chief Judge,
-
-Hong Kong.
+Chief Judge, Hong Kong.
 
 (L.N. 28 of 2005)

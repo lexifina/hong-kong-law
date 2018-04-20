@@ -1040,7 +1040,7 @@ PERSONS WITH A DISABILITY
 
     - 85. Tactile warning strips
 
-      - (1) Tactile warning strips arranged in conformity with Figure No. 8 in Part 3 of this Schedule shall be provided at the top and bottom ends of an escalator.
+      - (1) Tactile warning strips arranged in conformity to Figure No. 8 in Part 3 of this Schedule shall be provided at the top and bottom ends of an escalator. (17 of 2018 s. 54)
 
       - (2) Tactile warning strips arranged in conformity to Figure No. 8 in Part 3 of this Schedule shall be provided at both ends of a passenger conveyor.
 

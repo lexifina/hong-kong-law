@@ -112,7 +112,7 @@ Data Protection Principles
 
 - 4. Principle 4—security of personal data
 
-  - (1) All practicable steps shall be taken to ensure that personal data (including data in a form in which access to or processing of the data is not practicable) held by a data user are protected against unauthorized or accidental access, processing, erasure, loss or use having particular regard to— (Amended 18 of 2012 s. 40)
+  - (1) All practicable steps shall be taken to ensure that any personal data (including data in a form in which access to or processing of the data is not practicable) held by a data user is protected against unauthorized or accidental access, processing, erasure, loss or use having particular regard to— (Amended 18 of 2012 s. 40; 17 of 2018 s. 129)
 
     - (a) the kind of data and the harm that could result if any of those things should occur;
 

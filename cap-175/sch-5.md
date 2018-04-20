@@ -6,7 +6,7 @@
 
 - FEES
 
-- The following fees shall be paid in connection with searches, corrections of errors and certified copies of entries in the registers— (Amended 8 of 2006 s. 30)
+- The following fees shall be paid in connection with searches, corrections of errors and certified copies of entries in the registers—
 
 - Item | Particular | Fee $
 
@@ -20,21 +20,19 @@
 
 - but
 
-- if posted to an addressee outside Hong Kong | 275
+- if required to be posted (other than by airmail) to an addressee outside Hong Kong | 275
 
-- and
+- if required to be sent by airmail to an addressee outside Hong Kong | 275 plus an additional fee equal to the airmail postage at the normal rate
 
-- if required to be sent by airmail | an additional amount equal to the airmail postage at the normal rate.
-
-- (Replaced L.N. 77 of 1991. Amended L.N. 207 of 1993; L.N. 340 of 1994; L.N. 205 of 1995; L.N. 231 of 1996; L.N. 435 of 1997; 8 of 2006 s. 30)
+- (Replaced L.N. 77 of 1991. Amended L.N. 207 of 1993; L.N. 340 of 1994; L.N. 205 of 1995; L.N. 231 of 1996; L.N. 435 of 1997; 8 of 2006 s. 30; 17 of 2018 s. 63)
 
 - PART II
 
 - [s. 12]
 
-- FORM 1 DECLARATION FOR CORRECTION OF ERROR IN
+- Form 1 Declaration for Correction of Error in
 
-- SPECIAL REGISTER OF BIRTHS
+- Special Register of Births
 
 - We, A.B. of
 

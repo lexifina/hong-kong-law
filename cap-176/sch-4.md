@@ -18,23 +18,21 @@
 
 - but
 
-- if posted to an addressee outside Hong Kong | 275
+- if required to be posted (other than by airmail) to an addressee outside Hong Kong | 275
 
-- and
+- if required to be sent by airmail to an addressee outside Hong Kong | 275 plus an additional fee equal to the airmail postage at the normal rate
 
-- if required to be sent by airmail | an additional amount equal to the airmail postage at the normal rate.
-
-- (Replaced L.N. 79 of 1991. Amended L.N. 208 of 1993; L.N. 342 of 1994; L.N. 206 of 1995; L.N. 232 of 1996; L.N. 436 of 1997; 8 of 2006 s. 40)
+- (Replaced L.N. 79 of 1991. Amended L.N. 208 of 1993; L.N. 342 of 1994; L.N. 206 of 1995; L.N. 232 of 1996; L.N. 436 of 1997; 8 of 2006 s. 40; 17 of 2018 s. 64)
 
 - PART II
 
 - [s. 12]
 
-- FORM 1
+- Form 1 Declaration for Correction of Error in
 
-- DECLARATION FOR CORRECTION OF ERROR IN SPECIAL REGISTER OF DEATHS
+- Special Register of Deaths
 
-- We, A.B. of. and C.D. of . solemnly and sincerely declare that when the death of E. F. was registered on the . day of ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
+- We, A.B. of . and C.D. of . solemnly and sincerely declare that when the death of E.F. was registered on the . day of ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
 
 - And we further solemnly and sincerely declare that the true facts of the case are as follows—(here set forth the true facts).
 
