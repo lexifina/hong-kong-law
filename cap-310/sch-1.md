@@ -42,38 +42,44 @@ Item | Sum
 
 1. | Prescribed business registration fee— (Amended 3 of 1999 s. 16; 13 of 2010 s. 17)
 
-(a) before 1 April 1974 (b) on or after 1 April 1974 and before 1 April 1975 | $25 $50
+(a) before 1 April 1974 | $ | 25
 
-(c) on or after 1 April 1975 and before 1 April 1979 | $150
+(b) on or after 1 April 1974 and before 1 April 1975 | $ | 50
 
-(d) on or after 1 April 1979 and before 1 April 1983 | $175
+(c) on or after 1 April 1975 and before 1 April 1979 | $ | 150
 
-(e) on or after 1 April 1983 and before 1 April 1985 | $350
+(d) on or after 1 April 1979 and before 1 April 1983 | $ | 175
 
-(f) on or after 1 April 1985 and before 1 April 1987 | $500
+(e) on or after 1 April 1983 and before 1 April 1985 | $ | 350
 
-(g) on or after 1 April 1987 and before 1 April 1989 | $550
+(f) on or after 1 April 1985 and before 1 April 1987 | $ | 500
 
-(h) on or after 1 April 1989 and before 1 April 1990 | $630
+(g) on or after 1 April 1987 and before 1 April 1989 | $ | 550
 
-(i) on or after 1 April 1990 and before 1 March 1993 | $900
+(h) on or after 1 April 1989 and before 1 April 1990 | $ | 630
 
-(j) on or after 1 March 1993 and before 1 April 1994 | $1,000
+(i) on or after 1 April 1990 and before 1 March 1993 | $ | 900
 
-(k) on or after 1 April 1994 and before 1 April 1999 (Amended L.N. 90 of 1999 and 44 of 1999 s. 28) | $2,000
+(j) on or after 1 March 1993 and before 1 April 1994 | $ | 1,000
 
-\#(l) on or after 1 April 1999—
+(k) on or after 1 April 1994 and before 1 April 1999 (Amended L.N. 90 of 1999 and 44 of 1999 s. 28) | $ | 2,000
 
-(i) where no election is made under section 6(5C) | $2,000
+*(l) on or after 1 April 1999—
 
-(ii) where an election is made under section 6(5C) (Added L.N. 90 of 1999 and 44 of 1999 s. 28) | $5,200
+(i) where no election is made under section 6(5C) | $ | 2,000
 
-2. | Average of total sales to exempt a business other than a new business, or a business whose profits derive primarily from the sale of services | $30,000 per month
+(ii) where an election is made under section 6(5C) (Added L.N. 90 of 1999 and 44 of 1999 s. 28) | $ | 5,200
 
-3. | Average of total sales or receipts to exempt a business whose profits derive primarily from the sale of services | $10,000 per month
+2. | Average of total sales to exempt a business other than a new business, or a business whose profits derive primarily from the sale of services | $ | 30,000
+
+per month
+
+3. | Average of total sales or receipts to exempt a business whose profits derive primarily from the sale of services | $ | 10,000
+
+per month
 
 (Amended 26 of 1996 s. 3; 13 of 2010 s. 17) (Schedule 1 replaced 33 of 1994 s. 8)
 
 Editorial Note:
 
-\#Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed business registration fee in respect of business registration certificates).
+* Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed business registration fee in respect of business registration certificates).

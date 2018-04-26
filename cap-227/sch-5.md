@@ -1,22 +1,22 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [s. 113A(2)]
 
-REFERENCES TO A JUDGE
+References to a Judge
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+(Format changes—E.R. 2 of 2018)
 
-- PART I PRACTICE AND PROCEDURE
+- Part I Practice and Procedure
 
   - 1. Subject to paragraph 2, where the Chief Executive has referred a whole case to a judge under section 113A(1)(a) the case shall be treated for all purposes as an appeal to the judge under section 113(1) or (2), as the case may be, by the person in respect of whom the case is referred. (Amended 25 of 1998 s. 2)
 
-  - 2. The provisions of Part VII of the Ordinance shall, subject to the modifications set out in Part II of this Schedule, apply to any reference of a case (“the reference”) by the Chief Executive treated as an appeal under paragraph 1. (Amended 25 of 1998 s. 2)
+  - 2. The provisions of Part VII of the Ordinance shall, subject to the modifications set out in Part II of this Schedule, apply to any reference of a case (the reference) by the Chief Executive treated as an appeal under paragraph 1. (Amended 25 of 1998 s. 2)
 
   - 3. The Registrar, on receipt of the reference, shall—
 
-    - (a) enter the reference as an appeal (“the appeal”) under section 113(1) or (2), as the case may be;
+    - (a) enter the reference as an appeal (the appeal) under section 113(1) or (2), as the case may be;
 
-    - (b) subject to paragraph 4, require the magistrate (“original magistrate”) before whom the person referred to in section 113A(1) appeared or, if the original magistrate is dead or is no longer present in Hong Kong, some other magistrate, so far as may be practicable to prepare and transmit to him within 15 days of his request a signed statement of the findings (“statement of findings”) of the original magistrate on the facts and other grounds of the original magistrate’s decision;
+    - (b) subject to paragraph 4, require the magistrate (original magistrate) before whom the person referred to in section 113A(1) appeared or, if the original magistrate is dead or is no longer present in Hong Kong, some other magistrate, so far as may be practicable to prepare and transmit to him within 15 days of his request a signed statement of the findings (statement of findings) of the original magistrate on the facts and other grounds of the original magistrate’s decision;
 
     - (c) give notice to the parties to the appeal and, if he is not a party, to the Secretary for Justice as to the date, time and place fixed for the hearing of the appeal; and (Amended L.N. 362 of 1997)
 
@@ -24,7 +24,7 @@ REFERENCES TO A JUDGE
 
   - 4. Any signed statement of a magistrate prepared under section 114(b) at any time before the date of receipt of the reference by the Registrar comprising the subject of the appeal shall be treated as a statement of findings for the purposes of paragraph 3(b).
 
-- PART II MODIFICATIONS TO PART VII OF THE ORDINANCE
+- Part II Modifications to Part VII of the Ordinance
 
 Section | Modification
 

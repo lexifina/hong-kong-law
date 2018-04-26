@@ -1,14 +1,16 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 66]
 
-TRANSITIONAL PROVISIONS
+Transitional Provisions
+
+(Format changes—E.R. 2 of 2018)
 
 - 1. In this Schedule—
 
-  - “commencement date” (生效日期) means 1 April 1972;
+  - commencement date (生效日期) means 1 April 1972;
 
-  - “Deportation (British Subjects) Ordinance” (《遞解(英籍人士)條例》), “Deportation of Aliens Ordinance” (《遞解外國人條例》), and “Immigration (Control and Offences) Ordinance” (《入境(管制及罪行)條例》) mean respectively—
+  - Deportation (British Subjects) Ordinance (《遞解(英籍人士)條例》), Deportation of Aliens Ordinance (《遞解外國人條例》), and Immigration (Control and Offences) Ordinance (《入境(管制及罪行)條例》) mean respectively—
 
     - (a) the repealed Deportation (British Subjects) Ordinance;
 
@@ -16,11 +18,11 @@ TRANSITIONAL PROVISIONS
 
     - (c) the repealed Immigration (Control and Offences) Ordinance;
 
-  - “Immigrants Control Ordinance” (《入境者管制條例》) means the Immigrants Control Ordinance (Cap. 243 Revised Edition 1950) repealed by the repealed Immigration (Control and Offences) Ordinance;
+  - Immigrants Control Ordinance (《入境者管制條例》) means the Immigrants Control Ordinance (Cap. 243 Revised Edition 1950) repealed by the repealed Immigration (Control and Offences) Ordinance;
 
-  - “Police Supervision Ordinance” (《警方監管條例》) means the Police Supervision Ordinance (Cap. 224, Revised Edition 1972) repealed by the Police Supervision (Repeal) Ordinance 1983 (55 of 1983); (Added 55 of 1983 s. 3)
+  - Police Supervision Ordinance (《警方監管條例》) means the Police Supervision Ordinance (Cap. 224, Revised Edition 1972) repealed by the Police Supervision (Repeal) Ordinance 1983 (55 of 1983); (Added 55 of 1983 s. 3)
 
-  - “repealed” (廢除), except in relation to the Immigrants Control Ordinance and the Police Supervision Ordinance, means repealed by this Ordinance. (Replaced 55 of 1983 s. 3)
+  - repealed (廢除), except in relation to the Immigrants Control Ordinance and the Police Supervision Ordinance, means repealed by this Ordinance. (Replaced 55 of 1983 s. 3)
 
 - 2. Section 4(1)(a) Section 4(1)(a) shall have effect as if it included a reference to a person who arrived in Hong Kong before the commencement date, being a person who immediately before the commencement date was being examined or further examined under section 11 of the Immigration (Control and Offences) Ordinance or was about to be so examined or further examined; and the provisions of this Ordinance shall apply to any such person accordingly.
 
@@ -84,4 +86,4 @@ TRANSITIONAL PROVISIONS
 
 - 27. Section 56(1)(e) & (1A)(b) References in section 56(1)(e) and (1A)(b) to an offence under this Ordinance include references to an offence under the Immigration (Control and Offences) Ordinance.
 
-- 28. Police Supervision Ordinance-s. 3(1) & (2) Any police supervision order made under section 3(1) or (2) of the repealed Police Supervision Ordinance (Cap. 224 Revised Edition 1972) and in force immediately before the commencement of this Ordinance shall continue in force and have effect for all purposes of the Police Supervision Ordinance as if it were made under section 3(1) or (2) of that Ordinance as amended. (Schedule 2 added 64 of 1981 s. 2. Amended 78 of 1982 s. 13; 55 of 1983 s. 3)
+- 28. Police Supervision Ordinance—s. 3(1) & (2) Any police supervision order made under section 3(1) or (2) of the repealed Police Supervision Ordinance (Cap. 224, Revised Edition 1972) and in force immediately before the commencement of this Ordinance shall continue in force and have effect for all purposes of the Police Supervision Ordinance as if it were made under section 3(1) or (2) of that Ordinance as amended. (Schedule 2 added 64 of 1981 s. 2. Amended 78 of 1982 s. 13; 55 of 1983 s. 3)

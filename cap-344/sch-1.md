@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 42] (Amended 5 of 2007 s. 25)
 
-COMMON PARTS
+Common Parts
 
 - 1. External walls and load bearing walls, foundations, columns, beams and other structural supports.
 
@@ -28,7 +28,7 @@ COMMON PARTS
 
 - 12. Lawns, gardens and playgrounds and any other recreational areas. (Added 27 of 1993 s. 38)
 
-- 13. Swimming pools, tennis courts, basket-ball courts, squash courts and premises containing or housing any other sporting or recreational facilities. (Added 27 of 1993 s. 38)
+- 13. Swimming pools, tennis courts, basketball courts, squash courts and premises containing or housing any other sporting or recreational facilities. (Added 27 of 1993 s. 38. Amended E.R. 2 of 2018)
 
 - 14. Clubhouses, gymnasiums, sauna rooms and premises containing health or leisure facilities. (Added 27 of 1993 s. 38)
 

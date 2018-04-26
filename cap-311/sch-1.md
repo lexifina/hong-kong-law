@@ -1,14 +1,18 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 11]
 
-SPECIFIED PROCESSES
+Specified Processes
+
+(Format changes—E.R. 2 of 2018)
 
 Process | Description
 
 1. Acrylates Works | Works in which acrylates are— (a) made or purified; (b) made and polymerised; or (c) purified and polymerised.
 
-2. Aluminium Works | Works of the following kinds in which the processing capacity exceeds 1 tonne (expressed as aluminium) or, if the mode of operation is continuous, 0.67 tonne (expressed as aluminium) per hour, and in which— (a) aluminium swarf is degreased by the application of heat; or (b) aluminium or aluminium alloys are recovered from aluminium or aluminium alloy scrap fabricated metal, swarf, skimmings, or other residues by melting under flux cover; or (c) molten aluminium or aluminium alloys are treated by chlorine or its compounds; or (d) aluminium is extracted from any compound containing aluminium by a process evolving any noxious or offensive gases; or (e) oxide of aluminium is extracted from any ore; or (f) aluminium is recovered from slag or drosses; or (g) materials used in the above processes or the products thereof are treated or handled by methods which cause noxious or offensive gases to be evolved.
+2. Aluminium Works | Works of the following kinds in which the processing capacity exceeds 1 tonne (expressed as aluminium) or, if the mode of operation is continuous, 0.67 tonne (expressed as aluminium) per hour, and in which— (a) aluminium swarf is degreased by the application of heat; or (b) aluminium or aluminium alloys are recovered from aluminium or aluminium alloy scrap fabricated metal, swarf, skimmings, or other residues by melting under flux cover; or
+
+(c) molten aluminium or aluminium alloys are treated by chlorine or its compounds; or (d) aluminium is extracted from any compound containing aluminium by a process evolving any noxious or offensive gases; or (e) oxide of aluminium is extracted from any ore; or (f) aluminium is recovered from slag or drosses; or (g) materials used in the above processes or the products thereof are treated or handled by methods which cause noxious or offensive gases to be evolved.
 
 3. Cement Works | Works in which the total silo capacity exceeds 50 tonnes and in which cement is handled or in which argillaceous and calcareous materials are used in the production of cement clinker, and works in which cement clinker is ground.
 
@@ -16,7 +20,9 @@ Process | Description
 
 5. Chlorine Works | Works in which chlorine is made or used in any manufacturing process.
 
-6. Copper Works | Works in which the processing capacity exceeds 0.5 tonne (expressed as copper) or, if the mode of operation is continuous, 0.45 tonne (expressed as copper) per hour and in which— (a) by the application of heat— (i) copper is extracted from any ore or concentrate or from any material containing copper or its compounds; or (ii) molten copper is refined; or (iii) copper or copper alloy swarf is degreased; or (iv) copper alloys are recovered from scrap fabricated metal, swarf or residues; or (b) copper or copper alloy is melted and cast.
+6. Copper Works | Works in which the processing capacity exceeds 0.5 tonne (expressed as copper) or, if the mode of operation is continuous, 0.45 tonne (expressed as copper) per hour and in which— (a) by the application of heat— (i) copper is extracted from any ore or concentrate or from any material containing copper or its compounds; or (ii) molten copper is refined; or (iii) copper or copper alloy swarf is degreased; or (iv) copper alloys are recovered from scrap fabricated metal, swarf or residues; or
+
+(b) copper or copper alloy is melted and cast.
 
 7. Electricity Works | Works in which fossil fuel is burnt either wholly or as part of the process of electricity generation where the installed generation capacity of such works exceeds 5 MW.
 

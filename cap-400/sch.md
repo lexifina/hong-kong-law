@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 28B]
 
-NOTICE UNDER SECTION 28B(1)(b) OF THE NOISE CONTROL ORDINANCE (CHAPTER 400) TO DIRECTOR OR OFFICER OF BODY CORPORATE
+Notice under Section 28B(1)(b) of the Noise Control Ordinance (Chapter 400) to Director or Officer of Body Corporate
 
 FROM : The NOISE CONTROL AUTHORITY appointed under section 3(1) of the Noise Control Ordinance (Cap. 400)
 

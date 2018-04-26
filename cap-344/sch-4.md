@@ -1,14 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 18 & 42]
 
-MAXIMUM ALLOWANCES PAYABLE TO CHAIRMAN, VICE-CHAIRMAN, SECRETARY AND TREASURER OF MANAGEMENT COMMITTEE
+(Amended 5 of 2007 s. 29)
 
-MAXIMUM ALLOWANCES PAYABLE TO CHAIRMAN,
-
-VICE-CHAIRMAN, SECRETARY AND TREASURER
-
-OF MANAGEMENT COMMITTEE
+Maximum Allowances Payable to Chairman, Vice-chairman, Secretary and Treasurer of Management Committee
 
 (Amended 5 of 2007 s. 29)
 
@@ -18,6 +14,6 @@ Item | Number of flats | Maximum per month for each person $
 
 2. | More than 50 but not more than 100 | 900
 
-3. | More than 100 | 1200
+3. | More than 100 | 1,200
 
 (Added 27 of 1993 s. 41. Amended 5 of 2007 s. 29)

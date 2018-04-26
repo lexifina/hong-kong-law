@@ -1,16 +1,18 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 59A]
 
-PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
+Permanent Residents of the Hong Kong Special Administrative Region
+
+(Format changes—E.R. 2 of 2018)
 
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “Chinese citizen” (中國公民) means a person of Chinese nationality under the Nationality Law of the People’s Republic of China, as implemented in the Hong Kong Special Administrative Region pursuant to Article 18 of and Annex III to the Basic Law and interpreted in accordance with the Explanations of Some Questions by the Standing Committee of the National People’s Congress Concerning the Implementation of the Nationality Law of the People’s Republic of China in the Hong Kong Special Administrative Region adopted at the 19th meeting of the Standing Committee of the National People’s Congress at the 8th National People’s Congress on 15 May 1996; (Replaced 28 of 1998 s. 2(2))
+    - Chinese citizen (中國公民) means a person of Chinese nationality under the Nationality Law of the People’s Republic of China, as implemented in the Hong Kong Special Administrative Region pursuant to Article 18 of and Annex III to the Basic Law and interpreted in accordance with the Explanations of Some Questions by the Standing Committee of the National People’s Congress Concerning the Implementation of the Nationality Law of the People’s Republic of China in the Hong Kong Special Administrative Region adopted at the 19th meeting of the Standing Committee of the National People’s Congress at the 8th National People’s Congress on 15 May 1996; (Replaced 28 of 1998 s. 2(2))
 
-    - “new born infant” (初生嬰兒) means a child under the age of 12 months or a child who appears to the Director to be under the age of 12 months.
+    - new born infant (初生嬰兒) means a child under the age of 12 months or a child who appears to the Director to be under the age of 12 months.
 
   - (2) The relationship of parent and child is taken to exist as follows—
 
@@ -38,9 +40,7 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
     - (b) he is not subject to any limit of stay in Hong Kong.
 
-- 2. Permanent resident of the Hong Kong
-
-- Special Administrative Region A person who is within one of the following categories is a permanent resident of the Hong Kong Special Administrative Region—
+- 2. Permanent resident of the Hong Kong Special Administrative Region A person who is within one of the following categories is a permanent resident of the Hong Kong Special Administrative Region—
 
   - (a) A Chinese citizen born in Hong Kong before or after the establishment of the Hong Kong Special Administrative Region. (Replaced L.N. 192 of 1999. Amended L.N. 84 of 2002)
 
@@ -54,9 +54,7 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
   - (f) A person other than those residents in categories (a) to (e), who, before the establishment of the Hong Kong Special Administrative Region, had the right of abode in Hong Kong only.
 
-- 3. Establishing permanent residence
-
-- under paragraph 2(d)
+- 3. Establishing permanent residence under paragraph 2(d)
 
   - (1) For the purposes of paragraph 2(d), the person is required—
 

@@ -1,8 +1,10 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [ss. 2, 15AA & 37]
 
 Livestock Waste Restriction Areas
+
+(Format changes—E.R. 2 of 2018)
 
 Item | Description | Relevant Date
 

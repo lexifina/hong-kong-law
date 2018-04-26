@@ -68,40 +68,40 @@ Item | Sum
 
 (a) a prescribed branch registration fee and levy—
 
-(i) where no election is made under section 6(5C) | $71
+(i) where no election is made under section 6(5C) | $ | 71
 
-(ii) where an election is made under section 6(5C) (Amended L.N. 90 of 1999 and 44 of 1999 s. 29) | $213
+(ii) where an election is made under section 6(5C) (Amended L.N. 90 of 1999 and 44 of 1999 s. 29) | $ | 213
 
 (b) a prescribed business registration fee and levy—
 
-(i) where no election is made under section 6(5C) | $300
+(i) where no election is made under section 6(5C) | $ | 300
 
-(ii) where an election is made under section 6(5C) (Amended L.N. 90 of 1999 and 44 of 1999 s. 29) | $900
+(ii) where an election is made under section 6(5C) (Amended L.N. 90 of 1999 and 44 of 1999 s. 29) | $ | 900
 
-\#2. | Prescribed branch registration fee—
+*2. | Prescribed branch registration fee—
 
 (a) on or after 21 February 2011— (Amended L.N. 150 of 2014)
 
-(i) where no election is made under section 6(5C) | $73
+(i) where no election is made under section 6(5C) | $ | 73
 
-(ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $189
+(ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $ | 189
 
 3. | Levy—
 
 (a) on or after 21 February 2011 and before 19 July 2013— (Amended L.N. 91 of 2013)
 
-(i) where no election is made under section 6(5C) | $450
+(i) where no election is made under section 6(5C) | $ | 450
 
-(ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $1,350
+(ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $ | 1,350
 
 (b) on or after 19 July 2013—
 
-(i) where no election is made under section 6(5C) | $250
+(i) where no election is made under section 6(5C) | $ | 250
 
-(ii) where an election is made under section 6(5C) (Added L.N. 91 of 2013) | $750
+(ii) where an election is made under section 6(5C) (Added L.N. 91 of 2013) | $ | 750
 
 (Amended L.N. 57 of 1995; 3 of 1999 s. 17; L.N. 90 of 1999 and 44 of 1999 s. 29; 13 of 2010 s. 18) (Schedule 2 added 33 of 1994 s. 8)
 
 Editorial Note:
 
-\#Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed branch registration fee in respect of branch registration certificates).
+* Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed branch registration fee in respect of branch registration certificates).

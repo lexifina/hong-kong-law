@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 59B & 59I]
 
-APPLICATION FOR AND GIVING OF A MAGISTRATE’S APPROVAL FOR THE TAKING OF INTIMATE SAMPLES
+Application for and Giving of a Magistrate's Approval for the Taking of Intimate Samples
 
 - 1. An application under section 59B of this Ordinance must be made in Form 1. A copy of the authorization duly given pursuant to section 59A(2) of this Ordinance and of appropriate consent duly given and signed under section 59A(6) of this Ordinance must be exhibited to Form 1.
 
@@ -46,68 +46,72 @@ APPLICATION FOR AND GIVING OF A MAGISTRATE’S APPROVAL FOR THE TAKING OF INTIMA
 
   - (b) reject the application if he thinks fit to do so.
 
-- 7.
+- 7. The approval under sections 3(a) and 6(a) must be given in Form 2.
 
-- The approval under sections 3(a) and 6(a) must be given in Form 2.
+Form 1
 
-- FORM 1 APPLICATION FOR AN APPROVAL FOR THE TAKING
+APPLICATION FOR AN APPROVAL FOR THE TAKING OF AN INTIMATE SAMPLE
 
-- OF AN INTIMATE SAMPLE Section 59B of the Police Force
+Section 59B of the Police Force Ordinance (Cap. 232)
 
-- Ordinance (Cap. 232)
+Application No.
 
-- Application No.
+Writ No.
 
-- Writ No.
+TO A MAGISTRATE OF HONG KONG IN THE MAGISTRATES COURT AT .
 
-- TO A MAGISTRATE OF HONG KONG
+I, . (name of the applicant), apply for an approval to the taking of an intimate sample, namely . , from . (name of the suspect) on the following grounds—
 
-- IN THE MAGISTRATES COURT AT .
+(a) | . , a police officer of the rank of superintendent or above on . (date) has given an authorization (which is exhibited to this form) to the taking of the sample from the said person as he has reasonable grounds—
 
-- I, . (name of the applicant), apply for an approval to the taking of an intimate sample, namely . , from . (name of the suspect) on the following grounds—
+(i) | for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap. .); and
 
-  - (a) . , a police officer of the rank of superintendent or above on . (date) has given an authorization (which is exhibited to this form) to the taking of the sample from the said person as he has reasonable grounds—
+(ii) | for believing that the sample will tend to confirm or disprove the commission of the offence by the said person,
 
-    - (i) for suspecting that the said person has committed a serious arrestable
+relying on the following facts—
 
-  - offence, namely an offence contrary to section . of the . Ordinance (Cap .); and
+(b) | the appropriate consent has been given (which is exhibited to this form).
 
-    - (ii) for believing that the sample will tend to confirm or disprove the commission of the offence by the said person,
+Dated this day of (year).
 
-    - relying on the following facts—
+Applicant. (signature)
 
-  - (b) the appropriate consent has been given (which is exhibited to this form).
+_
 
-- Dated this day of (year).
+Form 2
 
-- .
+APPROVAL FOR THE TAKING OF AN INTIMATE SAMPLE
 
-- Applicant.
+Section 59B of the Police Force Ordinance (Cap. 232)
 
-- (signature)
+Application No.
 
-- _ FORM 2 APPROVAL FOR THE TAKING OF AN INTIMATE SAMPLE Section 59B of the Police Force
+Writ No.
 
-- Ordinance (Cap. 232)
+HONG KONG. IN THE MAGISTRATES COURT AT
 
-- Application No.
+To each and all of the police officers of Hong Kong.
 
-- Writ No.
+APPLICATION has been made to the undersigned, a magistrate of Hong Kong, by . (name of the applicant) on . (date) and the undersigned magistrate, relying on the facts specified in the said application upon hearing the parties on . (date)* has satisfied that—
 
-- HONG KONG. IN THE MAGISTRATES COURT AT .
+(a) | . , a police officer of the rank of superintendent or above on . (date) has duly given an authorization to the taking of an intimate sample, namely . from . (name of the suspect);
 
-- To each and all of the police officers of Hong Kong.
+(b) | there are reasonable grounds—
 
-  - APPLICATION has been made to the undersigned, a magistrate of Hong Kong, by . (name of the applicant) on . (date) and the undersigned magistrate, relying on the facts specified in the said application upon hearing the parties on . (date)* has satisfied that—
+(i) | for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap. .); and
 
-  - (a) . , a police officer of the rank of superintendent or above on . (date) has duly given an authorization to the taking of an intimate sample, namely . from . (name of the suspect);
+(ii) | for believing that the sample will tend to confirm or disprove the commission of the offence by the said person; and
 
-  - (b) there are reasonable grounds—
+(c) | the appropriate consent has been duly given.
 
-    - (i) for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap .); and
+You are herewith approved to bring the said person to a registered medical practitioner/registered dentist* for the intimate sample, namely . , to be taken from him/take the intimate sample namely . from the said person*.
 
-    - (ii) for believing that the sample will tend to confirm or disprove the commission of the offence by the said person; and
+Dated this day of (year).
 
-  - (c) the appropriate consent has been duly given. You are herewith approved to bring the said person to a registered medical practitioner/registered dentist* for the intimate sample, namely . , to be taken from him/take the intimate sample namely . from the said person*. Dated this day of (year). . Magistrate [L. S.] * Delete whichever is inapplicable.
+Magistrate
 
-- (Schedule 3 added 68 of 2000 s. 10)
+[L. S.]
+
+* Delete whichever is inapplicable.
+
+(Schedule 3 added 68 of 2000 s. 10)

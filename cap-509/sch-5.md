@@ -1,10 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 51]
 
-SAVINGS AND TRANSITIONAL PROVISIONS
-
-(Adaptation amendments retroactively made - see 54 of 2000 s. 3)
+Savings and Transitional Provisions
 
 - 1. Chief Executive may make savings and transitional regulation
 

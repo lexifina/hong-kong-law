@@ -1,8 +1,12 @@
-# SECOND SCHEDULE
+# Second Schedule
 
-[ss. 2, 15A(1), 37 & Third Schedule]
+[ss. 2, 15A(1), 37 &
 
-LIVESTOCK WASTE CONTROL AREA
+Third Schedule]
+
+Livestock Waste Control Area
+
+(Format changes—E.R. 2 of 2018)
 
 Item | Description | Relevant Date
 
@@ -44,11 +48,11 @@ Item | Description | Relevant Date
 
 The precise location of livestock premises situated in the vicinity of a common boundary between—
 
-- (a) a livestock waste prohibition area and one or more livestock waste control areas; (Amended 28 of 1994 s. 25)
+  - (a) a livestock waste prohibition area and one or more livestock waste control areas; (Amended 28 of 1994 s. 25)
 
-- (b) a livestock waste control area and one or more other livestock waste control areas; or (Amended 28 of 1994 s. 25)
+  - (b) a livestock waste control area and one or more other livestock waste control areas; or (Amended 28 of 1994 s. 25)
 
-- (c) a livestock waste control area and one or more livestock waste restriction areas, (Added 28 of 1994 s. 25)
+  - (c) a livestock waste control area and one or more livestock waste restriction areas, (Added 28 of 1994 s. 25)
 
 may be determined by reference to a map or maps comprising the relevant enlarged area specified in the Third Schedule and identified in that Schedule.
 

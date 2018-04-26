@@ -1,10 +1,10 @@
-# SCHEDULE 8
+# Schedule 8
 
 [ss. 2 & 37]
 
-GROUPS OF CLINICAL WASTE
+Groups of Clinical Waste
 
-Group 1—Used or contaminated sharps
+(Format changes—E.R. 2 of 2018) Group 1—Used or contaminated sharps
 
 Syringes, needles, cartridges, ampoules and other sharp instruments which have been used or which have become contaminated with any other group of clinical waste.
 
@@ -14,13 +14,13 @@ Unsterilized laboratory stock cultures, or cultures, of infectious agents and po
 
 Group 3—Human and animal tissues All human and animal tissues, organs and body parts as well as dead animals, but excluding—
 
-- (a) dead animals and animal tissues, organs and body parts arising from a veterinary practice or a Chinese medicine practice; and
+  - (a) dead animals and animal tissues, organs and body parts arising from a veterinary practice or a Chinese medicine practice; and
 
-- (b) teeth arising from a dental practice.
+  - (b) teeth arising from a dental practice.
 
 Group 4—Infectious materials
 
-Infectious materials from patients with the following pathogens-
+Infectious materials from patients with the following pathogens—
 
 Crimean/Congo haemorrhagic fever virus (克里米亞／剛果出血熱病毒);
 

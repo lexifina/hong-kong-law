@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 8, 10, 27, 30, 34D & 42 & Schs. 2 & 11] (Amended 5 of 2007 s. 28)
 
-MEETINGS AND PROCEDURE OF CORPORATION
+Meetings and Procedure of Corporation
 
 - 1.
 
@@ -124,9 +124,9 @@ MEETINGS AND PROCEDURE OF CORPORATION
 
 - (Added 5 of 2007 s. 28)
 
-  - 6.
+- 6.
 
-    - (1) The secretary of the management committee shall keep minutes of the proceedings at every general meeting of the corporation.
+  - (1) The secretary of the management committee shall keep minutes of the proceedings at every general meeting of the corporation.
 
   - (2) The minutes referred to in subparagraph (1) shall be certified by the person presiding over the meeting as containing a true record of the proceedings of the general meeting to which they relate.
 

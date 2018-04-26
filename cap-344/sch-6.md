@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 27 & 42 & Sch. 11] (Amended 5 of 2007 s. 31)
 
-ACCOUNTS
+Accounts
 
 - 1. All bills, invoices, vouchers, receipts and other documents referred to in the books or records of account and other records maintained under section 27(1) shall be kept by the management committee for such period, being not less than 6 years, as the corporation may determine.
 

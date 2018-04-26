@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [ss. 34D, 34E, 34J, 40D & 42] (Amended 69 of 2000 s. 25; 5 of 2007 s. 32)
 
-MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
+Mandatory Terms in Deeds of Mutual Covenant
 
 - 1. Determination of total amount of management expenses
 
@@ -36,7 +36,7 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
   - (8)
 
-    - For the purposes of this paragraph, “expenditure” (開支) includes all costs, charges and expenses to be borne by the owners, including the remuneration of the manager.
+    - For the purposes of this paragraph, expenditure (開支) includes all costs, charges and expenses to be borne by the owners, including the remuneration of the manager.
 
 - 2. Keeping of accounts
 
@@ -120,7 +120,7 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
       - (iii) whether a tender submitted for the purpose is accepted or not is decided by a resolution of the owners passed at a meeting of owners convened and conducted in accordance with the deed of mutual covenant, and the contract is entered into with the successful tenderer.
 
-  - (3) Subparagraphs (1) and (2) do not apply to any supplies, goods or services which but for this subparagraph would be required to be procured by invitation to tender (referred to in this subparagraph as “relevant supplies, goods or services”)—
+  - (3) Subparagraphs (1) and (2) do not apply to any supplies, goods or services which but for this subparagraph would be required to be procured by invitation to tender (referred to in this subparagraph as relevant supplies, goods or services)—
 
     - (a) where there is a corporation, if—
 
@@ -168,7 +168,7 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
     - (a) the notice of termination of appointment is in writing;
 
-    - (b) provision is made in the resolution for a period of not less than 3 months notice or, in lieu of notice, provision is made for an agreement to be made with the DMC manager for the payment to him of a sum equal to the amount of remuneration which would have accrued to him during that period; (Replaced 69 of 2000 s. 25)
+    - (b) provision is made in the resolution for a period of not less than 3 months’ notice or, in lieu of notice, provision is made for an agreement to be made with the DMC manager for the payment to him of a sum equal to the amount of remuneration which would have accrued to him during that period; (Replaced 69 of 2000 s. 25. Amended E.R. 2 of 2018)
 
     - (c) the notice is accompanied by a copy of the resolution terminating the DMC manager’s appointment; and
 
@@ -188,7 +188,7 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
     - (a) only the owners of shares who pay or who are liable to pay the management expenses relating to those shares shall be entitled to vote;
 
-    - (b) the reference in subparagraph (1)(b) to “the owners of not less than 50% of the shares in aggregate” shall be construed as a reference to the owners of not less than 50% of the shares in aggregate who are entitled to vote. (Added 69 of 2000 s. 25. Amended 5 of 2007 s. 69)
+    - (b) the reference in subparagraph (1)(b) to the owners of not less than 50% of the shares in aggregate shall be construed as a reference to the owners of not less than 50% of the shares in aggregate who are entitled to vote. (Added 69 of 2000 s. 25. Amended 5 of 2007 s. 69)
 
   - (5B) If a contract for the appointment of a manager other than a DMC manager contains no provision for the termination of the manager’s appointment, subparagraphs (1), (2), (3) and (5A) apply to the termination of the manager’s appointment as they apply to the termination of a DMC manager’s appointment. (Added 5 of 2007 s. 32)
 

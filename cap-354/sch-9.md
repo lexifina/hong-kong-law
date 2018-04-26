@@ -1,8 +1,10 @@
-# SCHEDULE 9
+# Schedule 9
 
 [ss. 20A & 37]
 
-STATES OR PARTIES INCLUDED IN ANNEX VII OF THE BASEL CONVENTION* ON THE CONTROL OF TRANSBOUNDARY MOVEMENTS OF HAZARDOUS WASTES AND THEIR DISPOSAL CONCLUDED AT BASEL IN SWITZERLAND ON 22 MARCH 1989 AS AMENDED FROM TIME TO TIME AND AS APPLIED TO HONG KONG (“Basel Convention”)
+States or Parties Included in Annex VII of the Basel Convention* on the Control of Transboundary Movements of Hazardous Wastes and their Disposal Concluded at Basel in Switzerland on 22 March 1989 as Amended from Time to Time and as Applied to Hong Kong (Basel Convention)
+
+(Format changes—E.R. 2 of 2018)
 
 Australia
 
@@ -80,9 +82,9 @@ United States of America
 
 and any other state, or party to the Basel Convention, that is a member of—
 
-- (a) the Organization for Economic Co-operation and Development; or
+  - (a) the Organization for Economic Co-operation and Development; or
 
-- (b) the European Union
+  - (b) the European Union
 
 (Schedule 9 added 6 of 2006 s. 24)
 

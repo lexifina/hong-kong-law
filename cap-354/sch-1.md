@@ -1,8 +1,12 @@
-# FIRST SCHEDULE
+# First Schedule
 
-[ss. 2, 15(1), 37 & Third Schedule]
+[ss. 2, 15(1), 37 &
 
-LIVESTOCK WASTE PROHIBITION AREAS
+Third Schedule]
+
+Livestock Waste Prohibition Areas
+
+(Format changes—E.R. 2 of 2018)
 
 Item | Description | Relevant Date
 
@@ -28,11 +32,11 @@ Note:
 
 The precise location of livestock premises situated in the vicinity of a common boundary between—
 
-- (a) a livestock waste prohibition area and one or more livestock waste control areas and one or more livestock waste restriction areas; or
+  - (a) a livestock waste prohibition area and one or more livestock waste control areas and one or more livestock waste restriction areas; or
 
-- (b) a livestock waste control area and one or more other livestock waste control areas and one or more livestock waste restriction areas; or
+  - (b) a livestock waste control area and one or more other livestock waste control areas and one or more livestock waste restriction areas; or
 
-- (c) a livestock waste restriction area and one or more other livestock waste restriction areas and one or more livestock waste control areas,
+  - (c) a livestock waste restriction area and one or more other livestock waste restriction areas and one or more livestock waste control areas,
 
 may be determined by reference to a map or maps comprising the relevant enlarged area specified in the Third Schedule and identified in that Schedule.
 

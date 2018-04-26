@@ -1,8 +1,8 @@
-# SCHEDULE 10
+# Schedule 10
 
 [ss. 42 & 45] (Amended 5 of 2007 s. 35)
 
-HEARING AND DETERMINATION OF SPECIFIED PROCEEDINGS BY TRIBUNAL
+Hearing and Determination of Specified Proceedings by Tribunal
 
 - 1. Proceedings relating to the interpretation and enforcement of the provisions of this Ordinance.
 

@@ -1,8 +1,10 @@
-# SCHEDULE 2B
+# Schedule 2B
 
 [ss. 26K & 37D]
 
-FEE PRESCRIBED FOR PURPOSES OF SECTION 26K(1) OF THIS ORDINANCE
+Fee Prescribed for Purposes of Section 26K(1) of this Ordinance
+
+(Format changes—E.R. 2 of 2018)
 
 Item | Description | Amount
 

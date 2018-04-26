@@ -1,8 +1,10 @@
-# SCHEDULE 11
+# Schedule 11
 
 [ss. 23(1B) & 37]
 
-MATTERS TO WHICH TERMS AND CONDITIONS OF WASTE DISPOSAL LICENCE MAY RELATE
+Matters to which Terms and Conditions of Waste Disposal Licence may Relate
+
+(Format changes—E.R. 2 of 2018)
 
 - 1. General
 

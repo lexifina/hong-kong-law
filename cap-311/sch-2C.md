@@ -1,8 +1,10 @@
-# SCHEDULE 2C
+# Schedule 2C
 
 [ss. 26M & 37D]
 
-PERCENTAGE SPECIFIED FOR PURPOSES OF SECTION 26M(5) OF THIS ORDINANCE
+Percentage Specified for Purposes of Section 26M(5) of this Ordinance
+
+(Format changes—E.R. 2 of 2018)
 
 15%.
 

@@ -1,10 +1,14 @@
-# SCHEDULE 2
+# Schedule 2
 
-[ss. 15(4), 18(7), 18A(8), 22(6) & 23(7)] (Amended 13 of 1993 s. 34)
+[ss. 15(4), 18(7), 18A(8), 22(6) & 23(7)]
 
-MATTERS TO WHICH TERMS AND CONDITIONS OF LICENCE OR EXEMPTION MAY RELATE*
+(Amended 13 of 1993 s. 34)
 
-- PART 1 (Added 31 of 2008 s. 15)
+Matters to which Terms and Conditions of Licence or Exemption may Relate
+
+(Replaced 31 of 2008 s. 15) (Format changes—E.R. 2 of 2018)
+
+- Part 1 (Added 31 of 2008 s. 15)
 
   - 1. The place and times or periods at or during which the emission of air pollutants may take place.
 
@@ -28,16 +32,8 @@ MATTERS TO WHICH TERMS AND CONDITIONS OF LICENCE OR EXEMPTION MAY RELATE*
 
   - 11. Any matters relating to care and maintenance in relation to the provisions of paragraphs 3 and 4.
 
-- PART 2 SPECIFIED LICENCES—ADDITIONAL MATTERS
-
-- TO WHICH TERMS AND CONDITIONS
-
-- MAY RELATE
+- Part 2 Specified Licences—Additional Matters to which Terms and Conditions may Relate
 
   - 1. Any matters to which any of the terms and conditions set out in Schedule 2A relates.
 
-  - 2. Any matters relating to the operation of Part IVB of this Ordinance. (Added 31 of 2008 s. 15)
-
-Editorial Note:
-
-* (Replaced 31 of 2008 s. 15)
+  - 2. Any matters relating to the operation of Part IVB of this Ordinance. (Part 2 added 31 of 2008 s. 15)

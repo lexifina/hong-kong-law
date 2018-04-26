@@ -1,20 +1,20 @@
-# SIXTH SCHEDULE
+# Sixth Schedule
 
-[ss. 20A, 20B & 20H & Seventh Schedule]
+[ss. 20A, 20B & 20H
 
-WASTE TO WHICH SECTIONS 20A(1)(a) AND 20B(1)(a) APPLY
+& Seventh Schedule]
 
-In this Schedule—
+Waste to which Sections 20A(1)(a) and 20B(1)(a) Apply
 
-- (a) the first digits of the code number of the Harmonised Commodity Description and Coding System (or Harmonised System) are, wherever possible, listed in column 2 opposite an entry as a possible cross reference to the Harmonised System;
+(Format changes—E.R. 2 of 2018) In this Schedule—
 
-- (b) the indicative “ex” against a number in column 2 identifies a specific item contained within the Harmonised System code heading;
+  - (a) the first digits of the code number of the Harmonised Commodity Description and Coding System (or Harmonised System) are, wherever possible, listed in column 2 opposite an entry as a possible cross reference to the Harmonised System;
 
-- (c)
+  - (b) the indicative “ex” against a number in column 2 identifies a specific item contained within the Harmonised System code heading;
 
-  - “non-dispersible” (非擴散性) in relation to waste does not include any waste in the form of powder, sludge, dust or solid items containing encased hazardous liquids.
+  - (c) non-dispersible (非擴散性) in relation to waste does not include any waste in the form of powder, sludge, dust or solid items containing encased hazardous liquids.
 
-GA-Metal and metal-alloy waste in metallic, non-dispersible form
+GA—Metal and metal-alloy waste in metallic, non-dispersible form
 
 The following waste and scrap of precious metals and their alloys:
 
@@ -104,7 +104,7 @@ GA410 | ex280450 | — | Tellurium waste and scrap
 
 GA420 | ex280530 | — | Rare earth waste and scrap
 
-(Amended 6 of 2006 s. 22) GB-Metal bearing waste arising from melting, smelting and refining of metals
+(Amended 6 of 2006 s. 22) GB—Metal bearing waste arising from melting, smelting and refining of metals
 
 GB010 | 262011 | — | Hard zinc spelter
 
@@ -126,7 +126,7 @@ GB040 | Slags from precious metals and copper processing for further refining
 
 GB050 | Tantalum bearing tin slags with less than 0.5% tin
 
-GC-Other waste containing metals
+GC—Other waste containing metals
 
 GC010 | Electrical assemblies consisting only of metals or alloys
 
@@ -144,9 +144,9 @@ GC052 | — | precious metal bearing catalysts
 
 GC053 | — | transition metal catalysts (e.g. chromium, cobalt, copper, iron, nickel, manganese, molybdenum, tungsten, vanadium, zinc)
 
-GC070 | ex261900 | Slag arising from the manufacture of iron or steel(2) excluding those slags which have been specifically produced to meet both national and relevant international requirements and standards, including environmental protection specifications
+GC070 | ex261900 | Slag arising from the manufacture of iron or steel2 excluding those slags which have been specifically produced to meet both national and relevant international requirements and standards, including environmental protection specifications
 
-GD-Waste from mining operations: this waste to be in non-dispersible form
+GD—Waste from mining operations: this waste to be in non-dispersible form
 
 GD010 | ex250490 | Natural graphite waste
 
@@ -164,13 +164,13 @@ ex252922
 
 GD070 | ex281122 | Silica waste in solid form excluding those used in foundry operations
 
-GE-Glass waste in non-dispersible form
+GE—Glass waste in non-dispersible form
 
 GE010 | ex700100 | Cullet and other waste and scrap of glass except for glass from cathode-ray tubes and other activated glasses
 
 GE020 | Fibre glass waste
 
-GF-Ceramic waste in non-dispersible form
+GF—Ceramic waste in non-dispersible form
 
 GF010 | Ceramic waste which has been fired after shaping, including ceramic vessels (before and/or after use)
 
@@ -178,7 +178,7 @@ GF020 | ex811300 | Cermet waste and scrap (metal ceramic composites)
 
 GF030 | Ceramic based fibres not specified or included in the Seventh Schedule
 
-GG-Other waste containing principally inorganic constituents,
+GG—Other waste containing principally inorganic constituents,
 
 which may contain metals and organic material
 
@@ -210,7 +210,7 @@ GG140 | Broken concrete
 
 GG150 | ex262090 | Lithium-Tantalum and Lithium-Niobium containing glass scraps
 
-GH-Solid plastic waste
+GH—Solid plastic waste
 
 All solid plastic waste including but not limited to:
 
@@ -274,7 +274,7 @@ GH015 | ex391590 | — | Resins or condensation products e.g.:
 
 ． | polyamides
 
-GI-Paper, paperboard and paper product waste
+GI—Paper, paperboard and paper product waste
 
 GI010 | 4707 | Waste and scrap of paper or paperboard:
 
@@ -290,7 +290,7 @@ GI014 | 470790 | — | other, including but not limited to:
 
 2) unsorted waste and scrap
 
-GJ-Textile waste
+GJ—Textile waste
 
 GJ010 | 5003 | Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)
 
@@ -342,21 +342,21 @@ GJ131 | ex631010 | — | sorted
 
 GJ132 | ex631090 | — | other
 
-GK-Rubber waste
+GK—Rubber waste
 
 GK010 | 400400 | Waste, parings and scrap of rubber (other than hard rubber) and granules obtained therefrom
 
 GK020 | 401220 | Used pneumatic tyres
 
-GK030 | ex401700 | Waste and scrap of hard rubber(e.g. ebonite)
+GK030 | ex401700 | Waste and scrap of hard rubber (e.g. ebonite)
 
-GL-Untreated cork and wood waste
+GL—Untreated cork and wood waste
 
 GL010 | ex440130 | Wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms
 
 GL020 | 450190 | Cork waste, crushed, granulated or ground cork
 
-GM-Waste arising from agro-food industries
+GM—Waste arising from agro-food industries
 
 GM070 | ex2307 | Wine lees
 
@@ -372,7 +372,7 @@ GM120 | 180200 | Cocoa shells, husks, skins and other cocoa waste
 
 GM130 | Waste from the agro-food industry excluding by-products which meet national and international requirements and standards for human or animal consumption
 
-GN-Waste arising from tanning and fellmongery operations and leather use
+GN—Waste arising from tanning and fellmongery operations and leather use
 
 GN010 | ex0502 | Waste of pigs’, hogs’ or boars’ bristles and hair or of badger hair and other brush making hair
 
@@ -382,7 +382,7 @@ GN030 | ex050590 | Waste of skins and other parts of birds, with their feathers 
 
 GN040 | ex411000 | Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles and not containing hexavalent chromium compounds or biocides, excluding leather sludges (Amended 6 of 2006 s. 22)
 
-GO-Other waste containing principally organic constituents,
+GO—Other waste containing principally organic constituents,
 
 which may contain metals and inorganic materials
 
@@ -397,8 +397,6 @@ GO040 | Waste photographic film base and waste photographic film not containing 
 GO050 | Single use cameras without batteries
 
 (Added 14 of 1995 s. 10)
-
-Editorial Note:
 
 1 Mercury is specifically excluded as a component of these metals or their alloys or amalgams.
 

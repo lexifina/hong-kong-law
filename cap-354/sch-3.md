@@ -1,10 +1,12 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [ss. 2, 37 & First &
 
 Second Schedules]
 
 Enlarged Areas
+
+(Format changes—E.R. 2 of 2018)
 
 Area No. | Livestock Waste Prohibition Area | Description of Enlarged Area
 

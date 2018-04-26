@@ -1,8 +1,8 @@
-# SCHEDULE 8
+# Schedule 8
 
 [ss. 34D, 34F & 42 & Sch. 11] (Amended 5 of 2007 s. 33)
 
-TERMS ADDED IF CONSISTENT WITH DEED OF MUTUAL COVENANT
+Terms Added if Consistent with Deed of Mutual Covenant
 
 Meetings of owners’ committee
 
@@ -38,7 +38,9 @@ Meetings of owners’ committee
 
 - 6. At a meeting of the owners’ committee, each member present shall have 1 vote on a question before the committee and if there is an equality of votes the chairman shall have, in addition to a deliberative vote, a casting vote.
 
-- 7. The procedure at meetings of the owners’ committee shall be as is determined by the owners’ committee. Meetings of owners
+- 7. The procedure at meetings of the owners’ committee shall be as is determined by the owners’ committee.
+
+Meetings of owners
 
 - 8. A meeting of owners may be convened by—
 

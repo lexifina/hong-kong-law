@@ -1,8 +1,10 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [ss. 2 & 37]
 
 Exempt Persons
+
+(Format changes—E.R. 2 of 2018)
 
 Item | Description
 
@@ -40,6 +42,6 @@ Item | Description
 
 Note:
 
-For the purposes of calculating the permitted number of livestock in item 8, any livestock owned or kept in or on those premises by any person’s spouse, father, mother, sister, brother, son, daughter or other remoter relative or ancestor or nominee residing with that person shall be deemed to be owned or kept by that person. ( Amended L.N. 19 of 2006)
+For the purposes of calculating the permitted number of livestock in item 8, any livestock owned or kept in or on those premises by any person’s spouse, father, mother, sister, brother, son, daughter or other remoter relative or ancestor or nominee residing with that person shall be deemed to be owned or kept by that person. (Amended L.N. 19 of 2006)
 
-(Added 58 of 1987 s. 14.)
+(Added 58 of 1987 s. 14)

@@ -1,18 +1,20 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 67]
 
-TRANSITIONAL PROVISIONS IN RESPECT OF IMMIGRATION (AMENDMENT) ORDINANCE 1997
+Transitional Provisions in Respect of Immigration (Amendment) Ordinance 1997
+
+(Format changes—E.R. 2 of 2018)
 
 - 1.
 
   - (1) In this Schedule—
 
-    - “resident British citizen” (居港英國公民) means a British citizen who has at any time been ordinarily resident in Hong Kong for a continuous period of not less than 7 years either as a British citizen or partly as a United Kingdom belonger and partly as a British citizen;
+    - resident British citizen (居港英國公民) means a British citizen who has at any time been ordinarily resident in Hong Kong for a continuous period of not less than 7 years either as a British citizen or partly as a United Kingdom belonger and partly as a British citizen;
 
-    - “resident United Kingdom belonger” (居港聯合王國本土人) means a United Kingdom belonger who was at any time before 1 January 1983 ordinarily resident in Hong Kong for a continuous period of not less than 7 years;
+    - resident United Kingdom belonger (居港聯合王國本土人) means a United Kingdom belonger who was at any time before 1 January 1983 ordinarily resident in Hong Kong for a continuous period of not less than 7 years;
 
-    - “United Kingdom belonger” (聯合王國本土人) means a person who, immediately before 1 January 1983, was a citizen of the United Kingdom and Colonies by reason of his birth, adoption, naturalization or registration in the United Kingdom or was the wife or child of any such person.
+    - United Kingdom belonger (聯合王國本土人) means a person who, immediately before 1 January 1983, was a citizen of the United Kingdom and Colonies by reason of his birth, adoption, naturalization or registration in the United Kingdom or was the wife or child of any such person.
 
   - (2) If in—
 

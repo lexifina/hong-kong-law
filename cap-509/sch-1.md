@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3 & 43]
 
-DANGEROUS OCCURRENCES
+Dangerous Occurrences
 
 - 1. The disintegration of a revolving vessel, wheel, grindstone or grinding wheel that is operated by mechanical power.
 
@@ -32,6 +32,8 @@ DANGEROUS OCCURRENCES
 
   - (a) a bulldozer, dumper, excavator, grader, lorry or shovel loader; or
 
-  - (b) a mobile machine used for the handling of any substance in a quarry. In this Schedule—
+  - (b) a mobile machine used for the handling of any substance in a quarry.
 
-    - “lifting appliance” (起重機械) includes crane, derrick, winch and hoist.
+In this Schedule—
+
+- lifting appliance (起重機械) includes crane, derrick, winch and hoist.

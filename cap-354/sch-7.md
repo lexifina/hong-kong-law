@@ -1,32 +1,28 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
-[ss. 20A, 20B & 20H & Sixth Schedule]
+[ss. 20A, 20B & 20H &
 
-WASTE TO WHICH SECTIONS 20A(1)(b) AND 20B(1)(b) APPLY
+Sixth Schedule]
 
-In this Schedule—
+Waste to which Sections 20A(1)(b) and 20B(1)(b) Apply
 
-- (a) the first digits of the code number of the Harmonised Commodity Description and Coding System (or Harmonised System) are, wherever possible, listed in column 2 opposite an entry as a possible cross reference to the Harmonised System;
+(Format changes—E.R. 2 of 2018) In this Schedule—
 
-- (b) the indicative “ex” against a number in column 2 identifies a specific item contained within the Harmonised System code heading;
+  - (a) the first digits of the code number of the Harmonised Commodity Description and Coding System (or Harmonised System) are, wherever possible, listed in column 2 opposite an entry as a possible cross reference to the Harmonised System;
 
-- (c)
+  - (b) the indicative “ex” against a number in column 2 identifies a specific item contained within the Harmonised System code heading;
 
-  - “containing” (含有) or “contaminated with” (受污), in relation to any waste, means that the substance referred to is present to an extent which—
+  - (c) containing (含有) or contaminated with (受污), in relation to any waste, means that the substance referred to is present to an extent which—
 
     - (i) renders the waste hazardous; or
 
     - (ii) renders the waste not suitable for submission to a reprocessing, recycling or recovery operation or for reuse;
 
-- (d)
+  - (d) elsewhere specified or included (在他處載列或包括) means elsewhere specified or included in this Schedule or in the Sixth Schedule; and
 
-  - “elsewhere specified or included” (在他處載列或包括) means elsewhere specified or included in this Schedule or in the Sixth Schedule; and
+  - (e) expressly listed elsewhere (在他處清楚列明) means expressly listed elsewhere in this Schedule or in the Sixth Schedule.
 
-- (e)
-
-  - “expressly listed elsewhere” (在他處清楚列明) means expressly listed elsewhere in this Schedule or in the Sixth Schedule.
-
-RA-Waste containing principally organic constituents,
+RA—Waste containing principally organic constituents,
 
 which may contain metals and inorganic materials
 
@@ -34,7 +30,7 @@ RA010 | Waste, substances and articles containing, consisting of or contaminated
 
 RA020 | Waste tarry residues (excluding asphalt cements) arising from refining, distillation and any pyrolitic treatment of organic materials.
 
-RB-Waste containing principally inorganic constituents,
+RB—Waste containing principally inorganic constituents,
 
 which may contain metals and organic materials
 
@@ -42,7 +38,7 @@ RB010 | Asbestos (dusts and fibres).
 
 RB020 | Ceramic based fibres of physico-chemical characteristics similar to those of asbestos.
 
-RC-Waste which may contain either inorganic or organic constituents
+RC—Waste which may contain either inorganic or organic constituents
 
 Waste that contains, consists of or is contaminated with any of the following.
 
@@ -54,7 +50,7 @@ RC030 | Leaded anti-knock compound sludges.
 
 RC040 | Peroxides other than hydrogen peroxide.
 
-AA-Metal bearing waste
+AA—Metal bearing waste
 
 AA0101 | ex261900 | Dross, scalings and other waste from the manufacture of iron and steel
 
@@ -106,7 +102,7 @@ AA220 | Spent etching solutions containing dissolved copper (Added 6 of 2006 s. 
 
 AA1180 | Waste electronic and electrical assemblies or scrap contaminated with any substance to an extent which renders the waste as chemical waste (Added 6 of 2006 s. 23)
 
-AB-Waste containing principally inorganic constituents,
+AB—Waste containing principally inorganic constituents,
 
 which may contain metals and organic materials
 
@@ -142,7 +138,7 @@ AB150 | Unrefined calcium sulphite and calcium sulphate from flue gas desulphuri
 
 AB160 | Coal fired power-plant fly ash containing any substance, matter or thing that renders the fly ash as chemical waste (Added 6 of 2006 s. 23)
 
-AC-Waste containing principally organic constituents,
+AC—Waste containing principally organic constituents,
 
 which may contain metals and inorganic materials
 
@@ -182,7 +178,7 @@ AC170 | Treated cork and wood waste
 
 AC180 | ex411000 | Leather dust, ash, sludges and flours
 
-AC190 | Fluff-light fraction from automobile shredding
+AC190 | Fluff—light fraction from automobile shredding
 
 AC200 | Organic phosphorous compounds
 
@@ -204,7 +200,7 @@ AC280 | Parings and other waste of leather or of composition leather, not suitab
 
 AC290 | Fellmongery wastes containing hexavalent chromium compounds or biocides or infectious substances (Added 6 of 2006 s. 23)
 
-AD-Waste which may contain either inorganic or organic constituents
+AD—Waste which may contain either inorganic or organic constituents
 
 AD010 | Waste from the production and preparation of pharmaceutical products
 
@@ -253,8 +249,6 @@ AD210 | Waste chemical substances arising from research and development or teach
 AD220 | Chemical waste, not elsewhere specified or included (Added 6 of 2006 s. 23)
 
 (Added 14 of 1995 s. 10)
-
-Editorial Note:
 
 1 These entries include waste in the form of ash, residue, slag, dross, skimming, scaling, dust, powder, sludge and cake, unless a material is expressly listed elsewhere.
 

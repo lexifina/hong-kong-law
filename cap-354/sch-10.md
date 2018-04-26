@@ -1,8 +1,10 @@
-# SCHEDULE 10
+# Schedule 10
 
 [ss. 23(1A) & 37]
 
-MATTERS TO WHICH TERMS AND CONDITIONS OF WASTE COLLECTION LICENCE MAY RELATE
+Matters to which Terms and Conditions of Waste Collection Licence may Relate
+
+(Format changes—E.R. 2 of 2018)
 
 - 1. General
 
@@ -62,4 +64,4 @@ MATTERS TO WHICH TERMS AND CONDITIONS OF WASTE COLLECTION LICENCE MAY RELATE
 
   - (1) Other conditions that the collection authority thinks necessary to protect the environment and public health.
 
-- (Schedule10 added 6 of 2006 s. 24)
+- (Schedule 10 added 6 of 2006 s. 24)

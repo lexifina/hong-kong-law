@@ -1,6 +1,12 @@
-# Schedule 2 Composition And Procedure of Management Committee
+# Schedule 2
 
-[ss. 2, 6, 7, 14, 18, 34K & 42 & Schedule 3] (Amended 5 of 2007 s. 27)
+[ss. 2, 6, 7, 14, 18, 34K & 42 & Sch. 3]
+
+(Amended 5 of 2007 s. 27)
+
+Composition and Procedure of Management Committee
+
+(Format changes—E.R. 1 of 2015)
 
 - 1.
 
@@ -125,6 +131,10 @@
   - (7) Where the person referred to in subparagraph (5) is the secretary of the management committee, that person shall, within 28 days after the relevant change occurs, lodge with the Land Registrar a statement, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
 
   - (8) Where, after the commencement* of Part 9 of the Statute Law (Miscellaneous Provisions) Ordinance 2014 (18 of 2014), a change occurs in any matter stated in a declaration lodged before the commencement* under subparagraph (3) that was in force immediately before the commencement*, the person who made the declaration must lodge a statement in accordance with subparagraph (5) or (7) as if that declaration were a statement lodged under subparagraph (3) on or after the commencement*. (Added 18 of 2014 s. 56)
+
+- Editorial Note:
+
+- * Commencement date: 5 January 2015.
 
 - 5.
 
@@ -316,7 +326,7 @@
 
   - (1) The minutes certified in accordance with paragraph 10(4A) shall be kept by the management committee for such period, being not less than 6 years, as the corporation may determine.
 
-    - (2) If the tenants’ representative, an owner, a registered mortgagee or any person duly authorized in writing in that behalf by an owner or registered mortgagee requests in writing the corporation to supply him with copies of any minutes certified in accordance with paragraph 10(4A), the secretary shall, on the payment of such reasonable copying charge as the management committee may determine, supply such copies to that person.
+  - (2) If the tenants’ representative, an owner, a registered mortgagee or any person duly authorized in writing in that behalf by an owner or registered mortgagee requests in writing the corporation to supply him with copies of any minutes certified in accordance with paragraph 10(4A), the secretary shall, on the payment of such reasonable copying charge as the management committee may determine, supply such copies to that person.
 
 - (Added 5 of 2007 s. 27)
 
@@ -330,8 +340,4 @@
 
 - (Added 27 of 1993 s. 39)
 
-- 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail. (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42) (Format changes—E.R. 1 of 2015)
-
-Editorial Note:
-
-* Commencement date: 5 January 2015.
+- 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail. (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42)

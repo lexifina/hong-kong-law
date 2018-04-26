@@ -1,10 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+[ss. 88, 91 & 92] (Amended 30 of 1958 s. 12; E.R. 2 of 2018) (Format changes—E.R. 2 of 2018)
 
-[ss. 91 & 92] (Amended 30 of 1958 s. 12)
-
-- PART I
+- Part I
 
   - 1. Any offence which is punishable with death.
 
@@ -24,7 +22,7 @@
 
   - 9. Torture. (Added 11 of 1993 s. 9)
 
-- PART II
+- Part II
 
   - 1. Perjury and subornation of perjury.
 
@@ -40,9 +38,9 @@
 
   - 7. An offence against section 22(1) of the Theft Ordinance (Cap. 210). (Replaced 21 of 1970 s. 35)
 
-- PART III
+- Part III
 
-- [section 88]
+- (Amended E.R. 2 of 2018)
 
   - 1. Any offence which is punishable with death.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 21 & 42] (Amended 5 of 2007 s. 30)
 
-ANNUAL BUDGET
+Annual Budget
 
 - 1. The amount to be determined by the management committee under section 21(1) shall be based upon a budget prepared by the management committee for the period specified by the management committee under that subsection.
 
