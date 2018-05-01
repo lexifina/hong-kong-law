@@ -1,6 +1,6 @@
 # SCHEDULE 3
 
-[ss. 2, 4, 19 & 48(1)]
+[ss. 2, 4, 19 & 48(1) & Sch. 4] (Amended 7 of 2018 s. 25)
 
 CONVENTION INSTRUMENTS
 
