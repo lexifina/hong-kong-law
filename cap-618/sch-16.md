@@ -4,8 +4,6 @@
 
 Consequential and Related Amendments
 
-(Sections 14, 15, 19, 20, 21, 23, 24, 25 and 26 of Schedule 16 not yet in operation.)
-
 - Part 1 (Omitted as spent—E.R. 1 of 2013)
 
   - 1-2. (Omitted as spent—E.R. 1 of 2013)
@@ -143,3 +141,7 @@ Consequential and Related Amendments
     - (4) Schedule 10, Part 3, section 1— Repeal paragraph (e).
 
   - 26. Schedule 16 amended (Consequential and Related Amendments) Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012; E.R. 1 of 2013)
+
+Editorial Note:
+
+Sections 19, 20, 21, 24 and 26 of Schedule 16 not yet in operation.

@@ -30,13 +30,9 @@ Registration of Lift Workers and Escalator Workers
 
       - (i) has at least 4 years’ relevant working experience, of which at least one year was obtained within the 5-year period immediately before the date of submission of the application; and
 
-      - (ii) has the necessary practical experience and relevant training;
+      - (ii) has the necessary practical experience and relevant training; or (Amended 8 of 2012 ss. 156 & 160)
 
-    - (e) the applicant is considered by a registered lift contractor to have obtained sufficient experience and training in lift works, and the applicant satisfies the Registrar that the applicant—
-
-      - (i) has at least 4 years’ relevant working experience, of which at least one year was obtained within the 5-year period immediately before the date of submission of the application; and
-
-      - (ii) has the necessary practical experience and relevant training; or
+    - (e) (Repealed 8 of 2012 ss. 156 & 160)
 
     - (f) the applicant has passed a trade test for lift works recognized by the Registrar, and the applicant satisfies the Registrar that the applicant—
 
@@ -80,13 +76,9 @@ Registration of Lift Workers and Escalator Workers
 
       - (i) has at least 4 years’ relevant working experience, of which at least one year was obtained within the 5-year period immediately before the date of submission of the application; and
 
-      - (ii) has the necessary practical experience and relevant training;
+      - (ii) has the necessary practical experience and relevant training; or (Amended 8 of 2012 ss. 156 & 160)
 
-    - (e) the applicant is considered by a registered escalator contractor to have obtained sufficient experience and training in escalator works, and the applicant satisfies the Registrar that the applicant—
-
-      - (i) has at least 4 years’ relevant working experience, of which at least one year was obtained within the 5-year period immediately before the date of submission of the application; and
-
-      - (ii) has the necessary practical experience and relevant training; or
+    - (e) (Repealed 8 of 2012 ss. 156 & 160)
 
     - (f) the applicant has passed a trade test for escalator works recognized by the Registrar, and the applicant satisfies the Registrar that the applicant—
 

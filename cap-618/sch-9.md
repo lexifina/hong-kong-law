@@ -42,33 +42,11 @@ Registration of Lift Engineers and Escalator Engineers
 
       - (v) mechanical engineering,
 
-    - and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience;
+    - and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience; or (Amended 8 of 2012 ss. 156 & 160)
 
-    - (c) the applicant holds any qualifications recognized by the Registrar to be equivalent to or higher than any of the qualifications mentioned in paragraph (b), and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience;
+    - (c) the applicant holds any qualifications recognized by the Registrar to be equivalent to or higher than any of the qualifications mentioned in paragraph (b), and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience. (Amended 8 of 2012 ss. 156 & 160)
 
-    - (d) the applicant holds a higher diploma or higher certificate in building services engineering, electrical engineering, electronic engineering or mechanical engineering from the Vocational Training Council or any technical institution, and the applicant satisfies the Registrar that—
-
-      - (i) the applicant has at least 5 years’ relevant working experience and has the necessary practical experience; or
-
-      - (ii) the applicant—
-
-        - (A) has completed an apprenticeship of at least 2 years in building services engineering, electrical engineering, electronic engineering, marine engineering or mechanical engineering;
-
-        - (B) has obtained, after the completion of the apprenticeship, at least 3 years’ relevant working experience; and
-
-        - (C) has the necessary practical experience; or
-
-    - (e) the applicant holds any qualifications recognized by the Registrar to be equivalent to or higher than any of the qualifications mentioned in paragraph (d), and the applicant satisfies the Registrar that—
-
-      - (i) the applicant has at least 5 years’ relevant working experience and has the necessary practical experience; or
-
-      - (ii) the applicant—
-
-        - (A) has completed an apprenticeship of at least 2 years in building services engineering, electrical engineering, electronic engineering, marine engineering or mechanical engineering;
-
-        - (B) has obtained, after the completion of the apprenticeship, at least 3 years’ relevant working experience; and
-
-        - (C) has the necessary practical experience.
+    - (d)-(e) (Repealed 8 of 2012 ss. 156 & 160)
 
 - Part 3 Requirement for Renewal under Section 79(3)(a)
 
@@ -112,33 +90,11 @@ Registration of Lift Engineers and Escalator Engineers
 
       - (v) mechanical engineering,
 
-    - and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience;
+    - and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience; or (Amended 8 of 2012 ss. 156 & 160)
 
-    - (c) the applicant holds any qualifications recognized by the Registrar to be equivalent to or higher than any of the qualifications mentioned in paragraph (b), and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience;
+    - (c) the applicant holds any qualifications recognized by the Registrar to be equivalent to or higher than any of the qualifications mentioned in paragraph (b), and the applicant satisfies the Registrar that the applicant has at least 4 years’ relevant working experience and has the necessary practical experience. (Amended 8 of 2012 ss. 156 & 160)
 
-    - (d) the applicant holds a higher diploma or higher certificate in building services engineering, electrical engineering, electronic engineering or mechanical engineering from the Vocational Training Council or any technical institution, and the applicant satisfies the Registrar that—
-
-      - (i) the applicant has at least 5 years’ relevant working experience and has the necessary practical experience; or
-
-      - (ii) the applicant—
-
-        - (A) has completed an apprenticeship of at least 2 years in building services engineering, electrical engineering, electronic engineering, marine engineering or mechanical engineering;
-
-        - (B) has obtained, after the completion of the apprenticeship, at least 3 years’ relevant working experience; and
-
-        - (C) has the necessary practical experience; or
-
-    - (e) the applicant holds any qualifications recognized by the Registrar to be equivalent to or higher than any of the qualifications mentioned in paragraph (d), and the applicant satisfies the Registrar that—
-
-      - (i) the applicant has at least 5 years’ relevant working experience and has the necessary practical experience; or
-
-      - (ii) the applicant—
-
-        - (A) has completed an apprenticeship of at least 2 years in building services engineering, electrical engineering, electronic engineering, marine engineering or mechanical engineering;
-
-        - (B) has obtained, after the completion of the apprenticeship, at least 3 years’ relevant working experience; and
-
-        - (C) has the necessary practical experience.
+    - (d)-(e) (Repealed 8 of 2012 ss. 156 & 160)
 
 - Part 5 Requirement for Renewal under Section 91(3)(a)
 
