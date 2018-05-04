@@ -4,8 +4,6 @@
 
 Amount of Recycling Levy
 
-(Not yet in operation)
-
 Column 1 | Column 2 | Column 3
 
 Item | Class of regulated electrical equipment | Amount of recycling levy per item of equipment
