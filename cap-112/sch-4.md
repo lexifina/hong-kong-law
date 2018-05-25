@@ -534,7 +534,9 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $104,000
 
-(Added 24 of 2003 s. 11) For the year of assessment 2004/05
+(Added 24 of 2003 s. 11)
+
+For the year of assessment 2004/05
 
 First Column (section) | Second Column (the prescribed amount)
 
@@ -614,7 +616,9 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $100,000
 
-(Added 8 of 2005 s. 5. Amended 10 of 2007 s. 8) For the year of assessment 2007/08
+(Added 8 of 2005 s. 5. Amended 10 of 2007 s. 8)
+
+For the year of assessment 2007/08
 
 First Column (section) | Second Column (the prescribed amount)
 
@@ -758,7 +762,9 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $108,000
 
-(Added 9 of 2011 s. 6. Amended 21 of 2012 s. 9) For the year of assessment 2012/13
+(Added 9 of 2011 s. 6. Amended 21 of 2012 s. 9)
+
+For the year of assessment 2012/13
 
 First Column (section) | Second Column (the prescribed amount)
 
@@ -902,7 +908,9 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $120,000
 
-(Added 10 of 2014 s. 6. Amended 10 of 2015 s. 5) For the year of assessment 2015/16
+(Added 10 of 2014 s. 6. Amended 10 of 2015 s. 5)
+
+For the year of assessment 2015/16
 
 First Column (section) | Second Column (the prescribed amount)
 
@@ -998,9 +1006,7 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $132,000
 
-(Added 8 of 2016 s. 6. Amended 3 of 2017 s. 8) For the year of assessment 2017/18 and
-
-for each year after that year
+(Added 8 of 2016 s. 6. Amended 3 of 2017 s. 8) For the year of assessment 2017/18
 
 First Column (section) | Second Column (the prescribed amount)
 
@@ -1048,4 +1054,56 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $132,000
 
-(Added 3 of 2017 s. 8)
+(Added 3 of 2017 s. 8. Amended 20 of 2018 s. 15) For the year of assessment 2018/19 and
+
+for each year after that year
+
+First Column (section) | Second Column (the prescribed amount)
+
+1. | Section 28 (basic allowance) | $ 132,000
+
+2. | Section 28A (personal disability allowance) | $ 75,000
+
+3. | Section 29 (married person’s allowance) | $ 264,000
+
+4. | Section 30 (dependent parent allowance)—
+
+(a) | subsection (3)(a) | $ 50,000
+
+(b) | subsection (3)(b) | $ 50,000
+
+(c) | subsection (3A)(a) | $ 25,000
+
+(d) | subsection (3A)(b) | $ 25,000
+
+(e) | subsection (4)(a) | $ 12,000
+
+5. | Section 30A (dependent grandparent allowance)—
+
+(a) | subsection (3)(a) | $ 50,000
+
+(b) | subsection (3)(b) | $ 50,000
+
+(c) | subsection (3A)(a) | $ 25,000
+
+(d) | subsection (3A)(b) | $ 25,000
+
+(e) | subsection (4)(a) | $ 12,000
+
+6. | Section 30B(1) (dependent brother or dependent sister allowance) | $ 37,500
+
+7. | Section 31 (child allowance)—
+
+(a) | subsection (1) | $120,000 for each child
+
+(b) | subsection (1A) | $120,000 for each child
+
+(c) | subsection (5) (in relation to subsection (1)) | $1,080,000
+
+(d) | subsection (5) (in relation to subsection (1A)) | $1,080,000
+
+8. | Section 31A(1) (disabled dependant allowance) | $ 75,000
+
+9. | Section 32(1) (single parent allowance) | $ 132,000
+
+(Added 20 of 2018 s. 15)

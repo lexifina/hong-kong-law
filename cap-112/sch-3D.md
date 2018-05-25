@@ -1,6 +1,8 @@
 # Schedule 3D
 
-[s. 26E]
+[ss. 26E, 63CA & 63E]
+
+(Replaced 20 of 2018 s. 14)
 
 Home Loan Interest Deduction
 

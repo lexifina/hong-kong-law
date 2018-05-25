@@ -1,6 +1,8 @@
 # Schedule 3B
 
-[ss. 16AA & 26G]
+[ss. 16AA, 26G, 63CA, 63E & 63J]
+
+(Replaced 20 of 2018 s. 12)
 
 Deduction for the Purposes of Section 16AA or 26G
 

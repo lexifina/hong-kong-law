@@ -226,7 +226,9 @@ Second Column | Third Column
 
 (d) | Upon the remainder | 25%
 
-(Added 28 of 1993 s. 2. Amended 37 of 1994 s. 6) For the years of assessment 1994/95 to 1996/97 inclusive
+(Added 28 of 1993 s. 2. Amended 37 of 1994 s. 6)
+
+For the years of assessment 1994/95 to 1996/97 inclusive
 
 Second Column | Third Column
 
@@ -262,9 +264,7 @@ Second Column | Third Column
 
 (d) | Upon the remainder | 17%
 
-(Added 31 of 1998 s. 20. Amended 24 of 2003 s. 10)
-
-For the year of assessment 2003/04
+(Added 31 of 1998 s. 20. Amended 24 of 2003 s. 10) For the year of assessment 2003/04
 
 Second Column | Third Column
 
@@ -312,7 +312,9 @@ Second Column | Third Column
 
 (d) | Upon the remainder | 17%
 
-(Added 10 of 2007 s. 6. Amended 21 of 2008 s. 8) For the years of assessment 2008/09 to 2016/17 inclusive
+(Added 10 of 2007 s. 6. Amended 21 of 2008 s. 8)
+
+For the years of assessment 2008/09 to 2016/17 inclusive
 
 Second Column | Third Column
 
@@ -324,11 +326,7 @@ Second Column | Third Column
 
 (d) | Upon the remainder | 17%
 
-(Added 21 of 2008 s. 8. Amended 3 of 2017 s. 6)
-
-For the year of assessment 2017/18 and
-
-for each year after that year
+(Added 21 of 2008 s. 8. Amended 3 of 2017 s. 6) For the year of assessment 2017/18
 
 Second Column | Third Column
 
@@ -340,4 +338,22 @@ Second Column | Third Column
 
 (d) | On the remainder | 17%
 
-(Added 3 of 2017 s. 6)
+(Added 3 of 2017 s. 6. Amended 20 of 2018 s. 10)
+
+For the year of assessment 2018/19 and
+
+for each year after that year
+
+Second Column | Third Column
+
+(a) | On the first $50,000 | 2%
+
+(b) | On the next $50,000 | 6%
+
+(c) | On the next $50,000 | 10%
+
+(d) | On the next $50,000 | 14%
+
+(e) | On the remainder | 17%
+
+(Added 20 of 2018 s. 10)

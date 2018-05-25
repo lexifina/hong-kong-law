@@ -1,6 +1,8 @@
 # Schedule 3A
 
-[s. 12(6)(a)]
+[ss. 12(6)(a), 63CA & 63E]
+
+(Replaced 20 of 2018 s. 11)
 
 Deduction for Expenses of Self-Education
 
