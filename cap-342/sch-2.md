@@ -56,6 +56,8 @@ ORDINANCES REFERRED TO IN SECTIONS 17 AND 17A
 
 - Chinese Medicine Ordinance (Cap. 549) (Added 47 of 1999 s. 169)
 
+- United Nations (Anti-Terrorism Measures) Ordinance (Cap. 575) (Added 14 of 2018 s. 14)
+
 - Chemical Weapons (Convention) Ordinance (Cap. 578) (Added 26 of 2003 s. 44)
 
 - Prevention of Child Pornography Ordinance (Cap. 579) (Added 31 of 2003 s. 21)

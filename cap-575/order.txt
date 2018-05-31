@@ -7,6 +7,7 @@ s-005.md
 s-006.md
 s-007.md
 s-008.md
+s-008A.md
 s-009.md
 s-010.md
 s-011.md
@@ -19,6 +20,10 @@ s-011F.md
 s-011G.md
 s-011H.md
 s-011I.md
+s-011J.md
+s-011K.md
+s-011L.md
+s-011M.md
 s-012.md
 s-012A.md
 s-012B.md
