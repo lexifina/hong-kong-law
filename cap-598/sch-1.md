@@ -1,10 +1,10 @@
 # SCHEDULE 1
 
-[ss. 2, 54 & 56 & Sch. 3]
+[ss. 2, 54 & 56 & Schs. 2 & 3] (Replaced L.N. 4 of 2018)
 
 PRESCRIBED PRODUCTS
 
-- PART 1# PRODUCTS THAT ARE PRESCRIBED PRODUCTS
+- PART 1#* PRODUCTS THAT ARE PRESCRIBED PRODUCTS
 
   - 1. Room air conditioners within the description in Division 1 of Part 2.
 
@@ -16,33 +16,39 @@ PRESCRIBED PRODUCTS
 
   - 5. Dehumidifiers within the description in Division 5 of Part 2. (Added L.N. 202 of 2009)
 
-- PART 2 DEFINITION OF PRESCRIBED PRODUCTS
+  - 6. Televisions within the description in Division 6 of Part 2. (Added L.N. 183 of 2017)
+
+  - 7. Storage type electric water heaters within the description in Division 7 of Part 2. (Added L.N. 183 of 2017)
+
+  - 8. Induction cookers within the description in Division 8 of Part 2. (Added L.N. 183 of 2017)
+
+- PART 2## DEFINITION OF PRESCRIBED PRODUCTS
 
   - Division 1 Room air conditioners
 
     - 1.
 
-      - In this Schedule, “room air conditioner” (空調機), subject to section 2—
+      - In this Schedule, “room air conditioner” (空調機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
-        - (a) means an encased assembly or encased assemblies that are designed to be used together where—
+        - (a) that is an encased assembly or encased assemblies that are designed to be used together where— (Amended L.N. 4 of 2018)
 
           - (i) the assembly or assemblies is or are designed primarily to provide free delivery of conditioned air to an enclosed space, room or zone (“conditioned space”); and
 
           - (ii) the assembly or assemblies has or have a prime source of refrigeration for cooling or heating; and
 
-        - (b) includes single package type and split type room air conditioners that—
+        - (b) that is of single package type or split type, and—
 
-          - (i) use mains electricity as the primary power source;
+          - (i) uses mains electricity as the only power source;
 
-          - (ii) operate by using the vapour compression cycle;
+          - (ii) operates by using the vapour compression cycle;
 
-          - (iii) are non-ducted;
+          - (iii) is non-ducted;
 
-          - (iv) are air-cooled;
+          - (iv) is air-cooled or air-heated (or both);
 
-          - (v) are of either cooling only type or reverse cycle type; and
+          - (v) is of either cooling only type or reverse cycle type; and
 
-          - (vi) have a rated cooling capacity not exceeding 7.5 kilowatts.
+          - (vi) has a rated cooling capacity not exceeding 7.5 kilowatts. (Replaced L.N. 4 of 2018)
 
     - 2.
 
@@ -51,6 +57,8 @@ PRESCRIBED PRODUCTS
         - (a) fan-coil air-conditioning units;
 
         - (b) water-cooled units;
+
+        - (ba) water-heated units; (Added L.N. 4 of 2018)
 
         - (c) multiple split-system air conditioners;
 
@@ -63,6 +71,8 @@ PRESCRIBED PRODUCTS
     - 3. In sections 1 and 2—
 
       - “air-cooled” (氣冷式), in relation to a room air conditioner, means the employment of air-cooled condensers in the room air conditioner;
+
+      - air-heated (氣暖式), in relation to a room air conditioner, means the employment of air-heated evaporators in the room air conditioner; (Added L.N. 4 of 2018)
 
       - “cooling capacity” (製冷量) means the amount of sensible and latent heat that a room air conditioner can remove from the conditioned space in a defined interval of time;
 
@@ -90,7 +100,9 @@ PRESCRIBED PRODUCTS
 
       - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a room air conditioner throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function;
 
-      - “water-cooled” (水冷式), in relation to a room air conditioner, means the employment of water-cooled condensers in the room air conditioner.
+      - “water-cooled” (水冷式), in relation to a room air conditioner, means the employment of water-cooled condensers in the room air conditioner; (Amended L.N. 4 of 2018)
+
+      - water-heated (水暖式), in relation to a room air conditioner, means the employment of water-heated evaporators in the room air conditioner. (Added L.N. 4 of 2018)
 
     - 4. In section 1(b), a room air conditioner is of single package type if it is a room air conditioner which consists of components of a refrigeration system fixed on a common mounting to form a discrete unit.
 
@@ -116,27 +128,23 @@ PRESCRIBED PRODUCTS
 
     - 1.
 
-      - In this Schedule, “refrigerating appliance” (冷凍器具), subject to section 2—
+      - In this Schedule, “refrigerating appliance” (冷凍器具), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
-        - (a) means a factory-assembled insulated cabinet with one or more compartments and of suitable volume and equipment for household use, cooled by internal natural convection or a frost-free system where the cooling is obtained by one or more energy-consuming means;
+        - (a) that is a factory-assembled insulated cabinet with one or more compartments and of suitable volume and equipment for household use, cooled by internal natural convection or a frost-free system where the cooling is obtained by one or more energy-consuming means; (Amended L.N. 4 of 2018)
 
-        - (b) includes a refrigerator, frozen food storage cabinet, food freezer, and their combinations; and
+        - (b) that is a refrigerator, frozen food storage cabinet or food freezer (or a combination of any of them); and (Replaced L.N. 4 of 2018)
 
-        - (c) includes refrigerating appliances that—
+        - (c) that—
 
-          - (i) use mains electricity as the primary power source;
+          - (i) uses mains electricity as the only power source;
 
-          - (ii) operate by using the vapour compression cycle; and
+          - (ii) operates by using the vapour compression cycle; and
 
-          - (iii) have a rated total storage volume not exceeding 500 litres.
+          - (iii) has a rated total storage volume not exceeding 500 litres. (Replaced L.N. 4 of 2018)
 
     - 2.
 
-      - In this Schedule, “refrigerating appliance” (冷凍器具) does not include appliances which—
-
-        - (a) may also use other energy sources; or
-
-        - (b) operate by using absorption refrigerating system.
+      - In this Schedule, “refrigerating appliance” (冷凍器具) does not include appliances that operate by using absorption refrigerating system. (Amended L.N. 4 of 2018)
 
     - 3. In sections 1 and 2—
 
@@ -156,17 +164,17 @@ PRESCRIBED PRODUCTS
 
     - 1.
 
-      - In this Schedule, “compact fluorescent lamp” (緊湊型熒光燈), subject to section 2—
+      - In this Schedule, “compact fluorescent lamp” (緊湊型熒光燈), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
-        - (a) means a type of fluorescent lamp which has a single lamp cap; and
+        - (a) that is a type of fluorescent lamp which has a single lamp cap; and (Amended L.N. 4 of 2018)
 
-        - (b) includes integrated type compact fluorescent lamps that—
+        - (b) that is of integrated type, and—
 
-          - (i) use mains electricity as the primary power source;
+          - (i) uses mains electricity as the only power source;
 
-          - (ii) have a rated lamp wattage up to 60 watts; and
+          - (ii) has a rated lamp wattage up to 60 watts; and
 
-          - (iii) have a screw or bayonet cap.
+          - (iii) has a screw or bayonet cap. (Replaced L.N. 4 of 2018)
 
     - 2.
 
@@ -186,12 +194,6 @@ PRESCRIBED PRODUCTS
 
         - (b) operates at a much higher voltage and lower current to start and maintain the discharge;
 
-      - “integrated type compact fluorescent lamp” (整合式熒光燈) means a compact fluorescent lamp of a type that—
-
-        - (a) is a single integrated assembly comprising a lamp cap, a light source and additional elements necessary for starting and for stable operation of the light source; and
-
-        - (b) cannot be dismantled without being permanently damaged;
-
       - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
 
       - “non-integrated type compact fluorescent lamp” (非整合式熒光燈) means a compact fluorescent lamp of a type that is electrically connected to an external ballast for operation;
@@ -200,29 +202,35 @@ PRESCRIBED PRODUCTS
 
       - “reflector compact fluorescent lamp” (反射式熒光燈) means a compact fluorescent lamp of a type that comprises one or more compact fluorescent arc tubes mounted into a reflector housing for directing light from light source, both of which cannot be dismantled without being permanently damaged.
 
+    - (Amended L.N. 4 of 2018)
+
+    - 4. In section 1(b), a product is of integrated type if—
+
+      - (a) it is a single integrated assembly comprising a lamp cap, a light source and additional elements necessary for starting and for stable operation of the light source; and
+
+      - (b) it cannot be dismantled without being permanently damaged.
+
+    - (Added L.N. 4 of 2018)
+
   - Division 4 Washing machines
 
     - 1.
 
-      - In this Schedule, “washing machine” (洗衣機), subject to section 2—
+      - In this Schedule, “washing machine” (洗衣機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
-        - (a) means a household appliance for cleaning and rinsing of textiles using water with or without a means of extracting excess water from the textiles; and
+        - (a) that is a household appliance for cleaning and rinsing of textiles using water with or without a means of extracting excess water from the textiles; and (Amended L.N. 4 of 2018)
 
-        - (b) includes washing machines that—
+        - (b) that—
 
-          - (i) use mains electricity as the primary power source; and
+          - (i) uses mains electricity as the only power source; and
 
-          - (ii) have a rated washing capacity not exceeding 7 kilograms,
+          - (ii) has a rated washing capacity not exceeding 10 kilograms,
 
-        - whether or not they have built-in dryers for drying textiles by means of heating.
+        - whether or not having a built-in dryer for drying textiles by means of heating. (Replaced L.N. 4 of 2018)
 
     - 2.
 
-      - In this Schedule, “washing machine” (洗衣機) does not include washing machines that—
-
-        - (a) may also use other energy sources; or
-
-        - (b) have no spin extraction capability.
+      - In this Schedule, “washing machine” (洗衣機) does not include washing machines that have no spin extraction capability. (Amended L.N. 4 of 2018)
 
     - 3. In section 1—
 
@@ -230,25 +238,25 @@ PRESCRIBED PRODUCTS
 
       - “rated washing capacity” (額定洗衣量) means the washing capacity of a washing machine as determined and declared by the manufacturer or importer of the washing machine in accordance with the standard and requirements specified in the approved code of practice.
 
-    - (Division 4 added L.N. 204 of 2009)
+  - (Division 4 added L.N. 204 of 2009)
 
   - Division 5 Dehumidifiers
 
     - 1.
 
-      - In this Schedule, “dehumidifier” (抽濕機), subject to section 2—
+      - In this Schedule, “dehumidifier” (抽濕機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
-        - (a) means an encased assembly for removing moisture from its surrounding atmosphere; and
+        - (a) that is an encased assembly for removing moisture from its surrounding atmosphere; and (Amended L.N. 4 of 2018)
 
-        - (b) includes self-contained, electrically operated and mechanically-refrigerated dehumidifiers that—
+        - (b) that is self-contained, electrically operated and mechanically-refrigerated, and—
 
-          - (i) use mains electricity as the primary power source;
+          - (i) uses mains electricity as the only power source;
 
-          - (ii) operate by using the vapour compression cycle;
+          - (ii) operates by using the vapour compression cycle;
 
-          - (iii) consist of—
+          - (iii) consists of—
 
-            - (A) a refrigerated surface (“evaporator”) that condenses moisture from the atmosphere;
+            - (A) a refrigerated surface (commonly known as an evaporator) that condenses moisture from the atmosphere;
 
             - (B) a refrigerating system, including an electric motor;
 
@@ -256,7 +264,7 @@ PRESCRIBED PRODUCTS
 
             - (D) a drain system for collecting or disposing of the condensate; and
 
-          - (iv) have a rated dehumidifying capacity not exceeding 35 litres per day. (Amended L.N. 1 of 2010)
+          - (iv) has a rated dehumidifying capacity not exceeding 35 litres per day. (Replaced L.N. 4 of 2018)
 
     - 2.
 
@@ -274,8 +282,110 @@ PRESCRIBED PRODUCTS
 
       - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a dehumidifier throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
 
-    - (Division 5 added L.N. 204 of 2009)
+  - (Division 5 added L.N. 204 of 2009)
+
+  - Division 6 Televisions
+
+    - 1. In this Schedule—
+
+      - television (電視機), subject to section 2, means a product—
+
+        - (a) that is an appliance for the reception and display of television broadcasts; and
+
+        - (b) that—
+
+          - (i) uses mains electricity as the only power source;
+
+          - (ii) has a rated visible diagonal screen size exceeding 50 centimeters but not exceeding 250 centimeters; and
+
+          - (iii) has a built-in television tuner.
+
+    - 2. In this Schedule—
+
+      - television (電視機) does not include a product that displays broadcasts by means of front or rear projection.
+
+    - 3. In section 1—
+
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+
+      - rated visible diagonal screen size (額定可視屏幕對角尺寸) means the visible diagonal screen size as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice.
+
+  - (Division 6 added L.N. 4 of 2018)
+
+  - Division 7 Storage Type Electric Water Heaters
+
+    - 1. In this Schedule—
+
+      - storage type electric water heater (儲水式電熱水器), subject to section 2, means a product—
+
+        - (a) that is a household appliance—
+
+          - (i) designed for heating water in a thermally well-insulated container and for the storage of heated water; and
+
+          - (ii) having a device to control the water temperature; and
+
+        - (b) that—
+
+          - (i) uses mains electricity as the only power source; and
+
+          - (ii) has a rated water storage capacity not exceeding 50 litres.
+
+    - 2. In this Schedule—
+
+      - storage type electric water heater (儲水式電熱水器) does not include a product that—
+
+        - (a) is designed for making hot drinks or food only; or
+
+        - (b) has more than one heated volume.
+
+    - 3. In section 1—
+
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+
+      - rated water storage capacity (額定儲水容量) means the water storage capacity as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice.
+
+  - (Division 7 added L.N. 4 of 2018)
+
+  - Division 8 Induction Cookers
+
+    - 1. In this Schedule—
+
+      - induction cooker (電磁爐), subject to section 2, means a product—
+
+        - (a) that is an encased assembly using electromagnetic induction heating as the heat source for household cooking; and
+
+        - (b) that—
+
+          - (i) uses mains electricity as the only power source;
+
+          - (ii) has a rated power not less than 700 watts but not exceeding 3 500 watts for each heating unit; and
+
+          - (iii) has a total rated power not exceeding 7 000 watts.
+
+    - 2. In this Schedule—
+
+      - induction cooker (電磁爐) does not include a product that—
+
+        - (a) contains an electric heating unit not using electromagnetic induction heating as the heat source; or
+
+        - (b) is a concave stove.
+
+    - 3. In this Division—
+
+      - heating unit (加熱單元), in relation to a product, means a part of the product with independent heating function on which a countertop container can be placed;
+
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+
+      - rated power (額定功率) means the power of a heating unit when operating independently, as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice;
+
+      - total rated power (總額定功率), in relation to a product, means the power of the product as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice.
+
+  - (Division 8 added L.N. 4 of 2018)
 
 Editorial Note:
 
-\#For the transitional arrangements relating to washing machines and dehumidifiers, please see sections 4 and 5 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2009 (L.N. 202 of 2009).
+\# | For the transitional arrangements relating to washing machines and dehumidifiers, please see sections 4 and 5 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2009 (L.N. 202 of 2009).
+
+* | For the transitional arrangements relating to televisions, storage type electric water heaters and induction cookers, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2017 (L.N. 183 of 2017).
+
+\## | For the transitional arrangements relating to specified washing machines and reverse cycle air conditioners, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedules) Order 2018 (L.N. 4 of 2018).
