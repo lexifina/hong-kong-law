@@ -16,21 +16,27 @@ SPECIFICATION OF ENERGY LABELS
 
   - 5. The requirements to be complied with by energy label for dehumidifiers are specified in Part 6. (Added L.N. 204 of 2009)
 
-- PART 2 REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
+  - 6. The requirements to be complied with by energy label for televisions are specified in Part 7. (Added L.N. 4 of 2018)
+
+  - 7. The requirements to be complied with by energy label for storage type electric water heaters are specified in Part 8. (Added L.N. 4 of 2018)
+
+  - 8. The requirements to be complied with by energy label for induction cookers are specified in Part 9. (Added L.N. 4 of 2018)
+
+- PART 2## REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
 
 - FOR ROOM AIR CONDITIONERS
 
-  - 1. The colour and design of the energy label must be as specified in the diagram below—
+  - 1. The colour and design of the energy label for a room air conditioner of cooling only type within the meaning of Division 1 of Part 2 of Schedule 1 must be as specified in the diagram below— (Amended L.N. 4 of 2018)
 
-  - 2. The dimensions of the energy label must be as specified in the diagram below—
+  - 2. The dimensions of the energy label for a room air conditioner of cooling only type within the meaning of Division 1 of Part 2 of Schedule 1 must be as specified in the diagram below— (Amended L.N. 4 of 2018)
 
-  - 3. The energy label under section 1 of Part 2 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table A in relation to the area specified opposite to that information in column 1 of the Table. TABLE A
+  - 3. The energy label under section 1 of this Part is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table A in relation to the area specified opposite to that information in column 1 of the Table. (Amended L.N. 4 of 2018) TABLE A
 
 - Area | Information to be contained
 
-- I | The energy efficiency grading of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left.
+- I | The energy efficiency grading for cooling of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left. (Amended L.N. 4 of 2018)
 
-- II | The annual energy consumption calculated by multiplying the measured power consumption in cooling mode at full load by an average of 1200 hours per year, determined in accordance with the approved code of practice.
+- II | The annual energy consumption for cooling based on operation for an average of 1 200 hours per year, calculated in accordance with the approved code of practice. (Replaced L.N. 4 of 2018)
 
 - III | The cooling capacity, which is the measured cooling capacity in kW of the model in cooling mode at full load, determined in accordance with the approved code of practice.
 
@@ -38,7 +44,37 @@ SPECIFICATION OF ENERGY LABELS
 
 - V | The brand name, the product model, the reference number assigned by the Director, the year in which the reference number is assigned or, where the energy efficiency grading is calculated in accordance with the new calculation method under section 12 of this Ordinance, the year in which the new calculation method takes effect and the name of the information provider. The information provider is the specified person who submitted the specified information to the Director.
 
-  - 4. The specifications for the font size of the words printed on the energy label in Part 2 are as follows—
+  - 3A. The colour and design of the energy label for a room air conditioner of reverse cycle type within the meaning of Division 1 of Part 2 of Schedule 1 must be as specified in the diagram below—
+
+- (Added L.N. 4 of 2018)
+
+  - 3B. The dimensions of the energy label for a room air conditioner of reverse cycle type within the meaning of Division 1 of Part 2 of Schedule 1 must be as specified in the diagram below—
+
+- (Added L.N. 4 of 2018)
+
+  - 3C. The energy label under section 3A of this Part is divided into 8 rectangular areas (marked I(a), I(b), II(a), II(b), III(a), III(b), IV and V on or by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table AB in relation to the area specified opposite to that information in column 1 of the Table. Table AB
+
+- Area | Information to be contained
+
+- I(a) | The energy efficiency grading for cooling of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left.
+
+- I(b) | The energy efficiency grading for heating of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left.
+
+- II(a) | The annual energy consumption for cooling based on operation for an average of 1 200 hours per year, calculated in accordance with the approved code of practice.
+
+- II(b) | The annual energy consumption for heating based on operation for an average of 240 hours per year, calculated in accordance with the approved code of practice.
+
+- III(a) | The cooling capacity, which is the measured cooling capacity in kW of the model in cooling mode at full load, determined in accordance with the approved code of practice.
+
+- III(b) | The heating capacity, which is the measured heating capacity in kW of the model in heating mode at full load, determined in accordance with the approved code of practice.
+
+- IV | The type of refrigerant used for the model.
+
+- V | The brand name, the product model, the reference number assigned by the Director, the year in which the reference number is assigned or, where the energy efficiency gradings for cooling and heating (or for either of them) are calculated in accordance with the new calculation methods under section 12 of this Ordinance, the year in which the new calculation methods take effect (or, if the new calculation methods take effect in 2 different years, the later of them) and the name of the information provider. The information provider is the specified person who submitted the specified information to the Director.
+
+- (Added L.N. 4 of 2018)
+
+  - 4. The specifications for the font size of the words printed on one or both of the energy labels in this Part are as follows— (Amended L.N. 4 of 2018)
 
 - Description on the Energy Label | Font and font size
 
@@ -49,6 +85,10 @@ SPECIFICATION OF ENERGY LABELS
 - more efficient 效益較高 | 14 point Helvetica Neue Bold (English)
 
 - less efficient 效益較低 | 14 point DFHeiBold (Chinese)
+
+- Cooling 製冷 | 14 point Helvetica Neue Bold (English)
+
+- Heating 供暖 | 14 point DFHeiBold (Chinese) (Added L.N. 4 of 2018)
 
 - Grade on the left (1, 2, 3, 4, 5) | 15 point Helvetica Neue Bold (English)
 
@@ -64,15 +104,31 @@ SPECIFICATION OF ENERGY LABELS
 
 - 每年耗電量(千瓦小時)(製冷) | 10 (8) point DFHeiMedium (Chinese)
 
+- Annual Energy Consumption (kWh) | 11.5 (8) point Helvetica Roman (English)
+
+- 每年耗電量(千瓦小時) | 10 (8) point DFHeiMedium (Chinese) (Added L.N. 4 of 2018)
+
 - Based on 1200 hrs/yr operation | 7 point Helvetica Roman (English)
 
 - 以每年使用1200小時計算 | 7 point DFHeiMedium (Chinese)
+
+- Based on 1200 hrs/yr operation (Cooling) or 240 hrs/yr operation (Heating) | 7 point Helvetica Roman (English)
+
+- 以每年使用1200小時計算(製冷)或以每年使用240小時計算(供暖) | 7 point DFHeiMedium (Chinese) (Added L.N. 4 of 2018)
 
 - Cooling Capacity (kW) | 10 point Helvetica Roman (English)
 
 - 製冷量(千瓦) | 10 point DFHeiMedium (Chinese)
 
-- Figures of annual energy consumption and cooling capacity on the right | 20 point Helvetica Medium
+- Cooling and Heating Capacity (kW) | 10 point Helvetica Roman (English)
+
+- 製冷及供暖量(千瓦) | 10 point DFHeiMedium (Chinese) (Added L.N. 4 of 2018)
+
+- Figure or figures of annual energy consumption on the right | 20 point Helvetica Medium (Replaced L.N. 4 of 2018)
+
+- Figure of cooling capacity on the right | 20 point Helvetica Medium (Added L.N. 4 of 2018)
+
+- Figures of cooling and heating capacity on the right | 20 point Helvetica Medium (Added L.N. 4 of 2018)
 
 - Refrigerant | 10 point Helvetica Roman (English)
 
@@ -439,3 +495,239 @@ SPECIFICATION OF ENERGY LABELS
     - (3) The energy label may be attached to the dehumidifier or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
   - (Part 6 added L.N. 204 of 2009)
+
+- Part 7 Requirements to be Complied with by Energy Label for Televisions
+
+  - 1. The colour and design of the energy label must be as specified in the diagram below—
+
+  - 2. The dimensions of the energy label must be as specified in the diagram below—
+
+  - 3. The energy label under section 1 of this Part is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table F in relation to the area specified opposite to that information in column 1 of the Table. Table F
+
+- Area | Information to be contained
+
+- I | The energy efficiency grading of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left.
+
+- II | The annual energy consumption, calculated by multiplying the measured power consumption by an average of 1 460 hours per year, determined in accordance with the approved code of practice.
+
+- III | The diagonal screen size, which is the measured diagonal length of the model’s visible screen, determined in accordance with the approved code of practice.
+
+- IV | The energy efficiency index determined in accordance with the approved code of practice.
+
+- V | The brand name, the product model, the reference number assigned by the Director, the year in which the reference number is assigned or, where the energy efficiency grading is calculated in accordance with the new calculation method under section 12 of this Ordinance, the year in which the new calculation method takes effect and the name of the information provider. The information provider is the specified person who submitted the specified information to the Director.
+
+  - 4. The specifications for the font size of the words printed on the energy label in this Part are as follows—
+
+- Description on the Energy Label | Font and font size
+
+- ENERGY LABEL | 31 point Italic Kabel Ult BT (English)
+
+- 能源標籤 | 24 point DFHeibold (Chinese)
+
+- more efficient 效益較高 | 14 point Helvetica Neue Bold (English)
+
+- less efficient 效益較低 | 14 point DFHeiBold (Chinese)
+
+- Grade on the left (1, 2, 3, 4, 5) | 15 point Helvetica Neue Bold (English)
+
+- Grade on the right—
+
+- The word “Grade” | 11 point Helvetica Neue Bold Condensed (English)
+
+- The figure “1” | 35.5 point Helvetica Neue Bold (English)
+
+- The word “級” | 9.5 point DFHeiBold (Chinese)
+
+- Annual Energy Consumption (kWh) | 11.5 (8) point Helvetica Roman (English)
+
+- 每年耗電量(千瓦小時) | 10 (8) point DFHeiMedium (Chinese)
+
+- Based on 1460 hrs/yr operation | 7 point Helvetica Roman (English)
+
+- 以每年使用1460小時計算 | 7 point DFHeiMedium (Chinese)
+
+- Diagonal Screen Size (cm) | 10 point Helvetica Roman (English)
+
+- 屏幕對角尺寸(厘米) | 10 point DFHeiMedium (Chinese)
+
+- Figures of annual energy consumption and diagonal screen size on the right | 20 point Helvetica Medium
+
+- Energy Efficiency Index | 10 point Helvetica Roman (English)
+
+- 能源效益指數 | 10 point DFHeiMedium (Chinese)
+
+- Figure of energy efficiency index on the right | 10 point Helvetica Medium
+
+- Television | 9 point Helvetica Bold (English)
+
+- 電視機 | 9 point DFHeiMedium (Chinese)
+
+- Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
+
+- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+
+- Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English) 7.5 point DFHeiMedium (Chinese)
+
+- 機電工程署 | 16 point Monotype Yuen (Chinese)
+
+- EMSD and its logo | 17.9 point Futura Bold Condensed (English)
+
+  - 5.
+
+    - (1) Subject to subsection (3), the energy label is to be attached or affixed to a prominent position of the television and is to be clearly visible.
+
+    - (2) To avoid doubt, if only part of the television is being exhibited, the energy label is to be attached or affixed to a prominent position of that part and is to be clearly visible.
+
+    - (3) The energy label may be attached to the television or its packaging in a manner specified by the Director where the Director has approved its being so attached.
+
+- (Part 7 added L.N. 4 of 2018)
+
+- Part 8 Requirements to be Complied with by Energy Label for Storage Type Electric Water Heaters
+
+  - 1. The colour and design of the energy label must be as specified in the diagram below—
+
+  - 2. The dimensions of the energy label must be as specified in the diagram below—
+
+  - 3. The energy label under section 1 of this Part is divided into 4 rectangular areas (marked I, II, III and IV by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table G in relation to the area specified opposite to that information in column 1 of the Table. Table G
+
+- Area | Information to be contained
+
+- I | The energy efficiency grading of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left.
+
+- II | The annual standby loss energy consumption, calculated by multiplying the measured power consumption due to standby loss in idling time by an average of 1 800 hours per year, determined in accordance with the approved code of practice.
+
+- III | The storage capacity, which is the measured water storage capacity, determined in accordance with the approved code of practice.
+
+- IV | The brand name, the product model, the reference number assigned by the Director, the year in which the reference number is assigned or, where the energy efficiency grading is calculated in accordance with the new calculation method under section 12 of this Ordinance, the year in which the new calculation method takes effect and the name of the information provider. The information provider is the specified person who submitted the specified information to the Director.
+
+  - 4. The specifications for the font size of the words printed on the energy label in this Part are as follows—
+
+- Description on the Energy Label | Font and font size
+
+- ENERGY LABEL | 31 point Italic Kabel Ult BT (English)
+
+- 能源標籤 | 24 point DFHeibold (Chinese)
+
+- more efficient 效益較高 | 14 point Helvetica Neue Bold (English)
+
+- less efficient 效益較低 | 14 point DFHeiBold (Chinese)
+
+- Grade on the left (1, 2, 3, 4, 5) | 15 point Helvetica Neue Bold (English)
+
+- Grade on the right—
+
+- The word “Grade” | 11 point Helvetica Neue Bold Condensed (English)
+
+- The figure “1” | 35.5 point Helvetica Neue Bold (English)
+
+- The word “級” | 9.5 point DFHeiBold (Chinese)
+
+- Annual Standby Loss Energy Consumption (kWh) | 11.5 (8) point Helvetica Roman (English)
+
+- 每年備用耗電量(千瓦小時) | 10 (8) point DFHeiMedium (Chinese)
+
+- Based on idling time of 1800 hrs/yr | 7 point Helvetica Roman (English)
+
+- 以每年備用時間為1800小時計算 | 7 point DFHeiMedium (Chinese)
+
+- Storage Capacity (litre) | 10 point Helvetica Roman (English)
+
+- 儲水容量(公升) | 10 point DFHeiMedium (Chinese)
+
+- Figures of annual standby loss energy consumption and storage capacity on the right | 20 point Helvetica Medium
+
+- Storage Type Electric Water Heater | 9 point Helvetica Bold (English)
+
+- 儲水式電熱水器 | 9 point DFHeiMedium (Chinese)
+
+- Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
+
+- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+
+- Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English) 7.5 point DFHeiMedium (Chinese)
+
+- 機電工程署 | 16 point Monotype Yuen (Chinese)
+
+- EMSD and its logo | 17.9 point Futura Bold Condensed (English)
+
+  - 5.
+
+    - (1) Subject to subsection (3), the energy label is to be attached or affixed to a prominent position of the storage type electric water heater and is to be clearly visible.
+
+    - (2) To avoid doubt, if only part of the storage type electric water heater is being exhibited, the energy label is to be attached or affixed to a prominent position of that part and is to be clearly visible.
+
+    - (3) The energy label may be attached to the storage type electric water heater or its packaging in a manner specified by the Director where the Director has approved its being so attached.
+
+- (Part 8 added L.N. 4 of 2018)
+
+- Part 9 Requirements to be Complied with by Energy Label for Induction Cookers
+
+  - 1. The colour and design of the energy label must be as specified in the diagram below—
+
+  - 2. The dimensions of the energy label must be as specified in the diagram below—
+
+  - 3. The energy label under section 1 of this Part is divided into 3 rectangular areas (marked I, II and III by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table H in relation to the area specified opposite to that information in column 1 of the Table. Table H
+
+- Area | Information to be contained
+
+- I | The energy efficiency grading of the model, calculated in accordance with the approved code of practice. The head of the arrow containing the energy efficiency grade number is to be placed at the same level and has the same colour as the head of the relevant arrow on the left.
+
+- II | The thermal efficiency, calculated by computing the ratio of the heat generated at a given time to the measured power input, determined in accordance with the approved code of practice.
+
+- III | The reference number assigned by the Director and the year in which the reference number is assigned or, where the energy efficiency grading is calculated in accordance with the new calculation method under section 12 of this Ordinance, the year in which the new calculation method takes effect.
+
+  - 4. The specifications for the font size of the words printed on the energy label in this Part are as follows—
+
+- Description on the Energy Label | Font and font size
+
+- ENERGY LABEL | 13 point Italic Kabel Ult BT (English)
+
+- 能源標籤 | 12.5 point DFHeibold (Chinese)
+
+- more efficient 效益較高 | 9.6 point Helvetica Neue Bold (English)
+
+- less efficient 效益較低 | 9.1 point DFHeiBold (Chinese)
+
+- Grade on the left (1, 2, 3, 4, 5) | 10.6 point Helvetica Neue Bold (English)
+
+- Grade on the right—
+
+- The word “Grade” | 8 point Helvetica Neue Bold Condensed (English)
+
+- The figure “2” | 27 point Helvetica Neue Bold (English)
+
+- The word “級” | 14 point DFHeiBold (Chinese)
+
+- Thermal Eff. | 11.8 point Helvetica Neue Medium (English)
+
+- 熱效率 | 10.8 point DFHeiBold (Chinese)
+
+- Figure of thermal efficiency and the sign “%” | 11.8 point Helvetica Neue Medium (English)
+
+- Ref/Yr | 11.8 point Helvetica Neue Medium (English)
+
+- 編號/年份： | 10.8 point DFHeiBold (Chinese)
+
+- Characters of reference number and year | 11.8 point Helvetica Neue Medium (English)
+
+- Induction Cooker | 10.65 point Helvetica Neue Medium (English)
+
+- 電磁爐 | 10.65 point DFHeiBold (Chinese)
+
+- 機電工程署 | 10.4 point Monotype Yuen (Chinese)
+
+- EMSD and its logo | 11.6 point Futura Bold Condensed (English)
+
+  - 5.
+
+    - (1) Subject to subsection (3), the energy label is to be attached or affixed to a prominent position of the induction cooker and is to be clearly visible.
+
+    - (2) To avoid doubt, if only part of the induction cooker is being exhibited, the energy label is to be attached or affixed to a prominent position of that part and is to be clearly visible.
+
+    - (3) The energy label may be attached to the induction cooker or its packaging in a manner specified by the Director where the Director has approved its being so attached.
+
+- (Part 9 added L.N. 4 of 2018)
+
+Editorial Note:
+
+\## | For the transitional arrangements relating to specified washing machines and reverse cycle air conditioners, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedules) Order 2018 (L.N. 4 of 2018).
