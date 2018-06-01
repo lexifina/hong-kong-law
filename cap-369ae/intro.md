@@ -1,5 +1,5 @@
 MERCHANT SHIPPING (SAFETY) (LOAD LINES) (DECK CARGO) REGULATIONS
 
-(Cap. 369 sections 105 and 107)
+(Cap. 369, sections 105, 107 and 112B)
 
 [2 August 1991]
