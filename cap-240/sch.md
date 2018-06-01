@@ -30,7 +30,7 @@ Road Traffic Ordinance (Cap. 374)
 
 Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
-9. | Regulation 10(1) | Unlawfully entering box junction | $320
+9. | Regulation 10(1) | Unlawfully entering box junction (Amended L.N. 6 of 2018) | $400
 
 9A. | Regulation 10A | Unlawfully entering yellow striped light signal crossing (Added L.N. 88 of 1990) | $320
 
@@ -38,7 +38,7 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 11. | Regulation 14(5) | Driving in prohibited zone | $450
 
-12. | Regulation 14(6) | Picking up/setting down passengers in restricted zone | $450
+12. | Regulation 14(6) | Picking up/setting down passengers in restricted zone (Amended L.N. 6 of 2018) | $560
 
 13. | Regulation 14(7) | Loading/unloading goods in restricted zone | $450
 
@@ -50,13 +50,13 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 17. | Regulation 38(2) | Failing to stop for school crossing patrol | $450
 
-18. | Regulation 42(1)(d) | “U” turn causing obstruction (Amended L.N. 117 of 2005) | $320
+18. | Regulation 42(1)(d) | “U” turn causing obstruction (Amended L.N. 117 of 2005; L.N. 6 of 2018) | $400
 
 18A. | Regulation 42(1)(g) | Using a mobile telephone or other telecommunications equipment or an accessory to such telephone or equipment while the vehicle is in motion (Added L.N. 117 of 2005) | $450
 
 19. | Regulation 43 | Sounding audible warning device unnecessarily | $320
 
-20. | Regulation 45 | Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | $320
+20. | Regulation 45 | Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place (Amended L.N. 6 of 2018) | $400
 
 21. | Regulation 47(1)(a) | Driving without necessary lights illuminated | $320
 
@@ -130,7 +130,7 @@ Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)
 
 47. | Regulation 45(1)(d) | Driver not taking all reasonable precautions to ensure safety of passengers of a public bus, public light bus or taxi | $320
 
-48. | Regulation 45(1)(h) | Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | $320
+48. | Regulation 45(1)(h) | Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers (Amended L.N. 6 of 2018) | $400
 
 49. | Regulation 49(2) | Not setting taxi meter to recording position | $320
 
