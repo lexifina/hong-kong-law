@@ -96,6 +96,10 @@ Item | Pesticide | CAS registry number
 
 34. | Methamidophos (Added L.N. 201 of 2015) | 10265-92-6
 
+35. | Carbofuran (Added L.N. 55 of 2018) | 1563-66-2
+
+36. | Trichlorfon (Added L.N. 55 of 2018) | 52-68-6
+
 - Part 2 Extent to which Section 8 does not Apply to
 
 - Pesticides Specified in Part 1 of this Schedule
