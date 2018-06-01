@@ -2,7 +2,9 @@
 
 [reg. 27]
 
-FREEBOARDS
+FREEBOARDS FOR PRE-2005 SHIPS
+
+(L.N. 47 of 2018)
 
 - 1. Interpretation In this Schedule expressions defined in Schedule 4 have the meanings thereby assigned to them respectively, and—
 
@@ -28,16 +30,6 @@ FREEBOARDS
 
   - “length” (長度) and the symbol “(S)” in relation to a superstructure means the length of the superstructure ascertained in accordance with the provisions of paragraph 9 of this Schedule;
 
-  - “moulded depth” (型深) in relation to a ship means the vertical distance measured from the top of the keel to the top of the freeboard deck beam at side: Provided that—
-
-    - (a) in the case of a wood or composite ship, it shall be measured from the lower edge of the keel rabbet;
-
-    - (b) if the form at the lower part of the midship section of the ship is of a hollow character, or if thick garboards are fitted, it shall be measured from the point where the line of the flat of the bottom continued inwards cuts the side of the keel;
-
-    - (c) in the case of a ship having rounded gunwales, it shall be measured to the point of intersection of the moulded lines of the deck and side shell plating, the lines extending as though the gunwale were of angular design;
-
-    - (d) if the freeboard deck is stepped and the raised part of the deck extends over the point at which the moulded depth is to be determined, it shall be measured to a line of reference extending from the lower part of the deck along a line parallel to the raised part of the deck;
-
   - “summer draught” (夏季吃水) in relation to a ship means the draught measured from—
 
     - (a) in the case of a wood or composite ship, the lower edge of the keel rabbet;
@@ -52,25 +44,19 @@ FREEBOARDS
 
   - “tabular freeboard” (表列乾舷) means in the case of a Type “A” ship the freeboard appropriate to the ship’s length under Freeboard Table A set out in Schedule 6 to these regulations and in the case of a Type “B” ship the freeboard appropriate to the ship’s length under Freeboard Table B in that Schedule.
 
+- (L.N. 47 of 2018)
+
 - 2. Freeboards: general
 
   - (1) Except as otherwise provided in subparagraphs (2) and (3), the freeboards to be assigned to a ship other than Timber freeboards shall be determined in accordance with the provisions of Part I of this Schedule, and Timber freeboards to be assigned to a ship shall be determined in accordance with Part II.
 
-  - (2) Freeboards determined as described in subparagraph (1) are the freeboards appropriate to ships the structural strength of which complies with the highest standard required by an Assigning Authority; and the freeboards to be assigned to ships the structural strength of which does not comply with that standard shall be freeboards so determined but increased in each case by such amount as the Assigning Authority with the approval of the Director may determine as appropriate to the ship’s structural strength.
+  - (2) Freeboards determined as described in subparagraph (1) are the freeboards appropriate to ships the structural strength of which complies with the highest standard required by an Assigning Authority; and the freeboards to be assigned to ships the structural strength of which does not comply with that standard shall be freeboards so determined but increased in each case by such amount as the Director may approve as appropriate to the ship’s structural strength.
 
   - (3) The freeboards to be assigned to—
 
-  - sailing ships;
-
-  - tugs;
-
-  - ships of wood or of composite construction or of other materials;
-
-  - ships with constructional features such as to render freeboards determined as described in subparagraph (1) unreasonable or impracticable; and
-
   - unmanned barges having on the freeboard deck only small access openings closed by watertight gasketed covers of steel,
 
-  - shall be determined in accordance with the provisions of Part III of this Schedule.
+  - shall be determined in accordance with the provisions of Part III of this Schedule. (L.N. 47 of 2018)
 
 - PART I Freeboards Other Than Timber Freeboards
 
@@ -494,7 +480,7 @@ FREEBOARDS
 
       - (iii) if the ship’s length (L) exceeds 100 metres in length, be fitted with satisfactory closing appliances.
 
-  - (5) The minimum bow height for a ship shall be derived from formula 1 in the case of a ship of less than 250 metres in length (L) and from formula 2 in the case of a ship of 250 metres of more in length(L)—
+  - (5) The minimum bow height for a ship shall be derived from formula 1 in the case of a ship of less than 250 metres in length (L) and from formula 2 in the case of a ship of 250 metres of more in length (L)—
 
   - Formula 1
 
@@ -554,10 +540,10 @@ FREEBOARDS
 
 - __________
 
-  - PART III Sailing Ships and Other Ships
+  - PART III Other Ships (L.N. 47 of 2018)
 
-- 19. Sailing ships and tugs The freeboards to be assigned to sailing ships and tugs shall be freeboards determined in accordance with the provisions of Part I of this Schedule increased by such amounts as the Director may direct in each particular case.
+- 19. (Repealed L.N. 47 of 2018)
 
-- 20. Ships of wood and other ships The freeboards to be assigned to ships of wood or of composite construction or of other materials, or to ships with constructional features such as to render freeboards calculated in accordance with Part I of this Schedule unreasonable or impracticable shall be determined by the Director in each particular case.
+- 20. (Repealed L.N. 47 of 2018)
 
 - 21. Unmanned barges The freeboards to be assigned to unmanned barges having on the freeboard deck only small access openings closed by watertight gasketed covers of steel shall be freeboards determined in accordance with the provisions of Part I of this Schedule omitting paragraphs 5 and 16. Such freeboards may be reduced by such amounts not exceeding 25 per cent as the Director may direct in each particular case.

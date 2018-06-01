@@ -2,7 +2,9 @@
 
 [reg. 23]
 
-CONDITIONS OF ASSIGNMENT
+CONDITIONS OF ASSIGNMENT FOR PRE-2005 SHIPS
+
+(L.N. 47 of 2018)
 
 - 1. Interpretation In this Schedule, except where the context otherwise require—
 
@@ -28,7 +30,7 @@ CONDITIONS OF ASSIGNMENT
 
   - “Summer load waterline” (夏季載重水線) in relation to a ship means the waterline which corresponds, or will when load lines have been marked on the sides of the ship correspond, to the Summer load line of the ship;
 
-  - “superstructure” (上層建築) means a deck structure (including a raised quarter deck) situated on the freeboard deck which either extends from side to side of the ship or is such that its side plating is not inboard of the shell plating of the ship by more than 4 per cent of the breadth (B) of the ship; and, where the freeboard deck of the ship consists of a lower deck as described in paragraph (b) of the definition of “freeboard deck” in regulation 1A, includes that part of the hull of the ship which extends above the freeboard deck;
+  - “superstructure” (上層建築) means a deck structure (including a raised quarter deck) situated on the freeboard deck which either extends from side to side of the ship or is such that its side plating is not inboard of the shell plating of the ship by more than 4 per cent of the breadth (B) of the ship; and, where the freeboard deck of the ship consists of a lower deck as described in paragraph (a)(ii) of the definition of “freeboard deck” in regulation 1A, includes that part of the hull of the ship which extends above the freeboard deck; (L.N. 47 of 2018)
 
   - “superstructure deck” (上層建築甲板) means a deck forming the top of a superstructure;
 
@@ -66,7 +68,7 @@ CONDITIONS OF ASSIGNMENT
 
     - (c) when closed, is weathertight as above defined; and
 
-    - (d) is so arranged that it can be operated from either side of the bulkhead. References to any structure, opening or fitting as being in Position 1 or Position 2 shall be construed as references to its being in the following positions respectively—
+    - (d) is so arranged that it can be operated from either side of the bulkhead.
 
 - References to any structure, opening or fitting as being in Position 1 or Position 2 shall be construed as references to its being in the following positions respectively—
 
@@ -96,7 +98,7 @@ CONDITIONS OF ASSIGNMENT
 
     - (d) The initial transverse metacentric height shall not be less than 0.15 metres. In the case of a ship carrying a timber deck cargo which complies with sub-subparagraph (a) by taking into account the volume of timber deck cargo the initial transverse metacentric height shall not less than 0.05 metres.
 
-  - (3) To determine whether the ship complies with the requirements of subparagraph (2) the ship shall, unless the Director otherwise permit, be subjected to an inclining test carried out in the presence of a surveyor appointed under section 5 of the Ordinance and the Director shall notify the Assigning Authority whether or not he is satisfied that the ship complies with those requirements.
+  - (3) (Repealed L.N. 47 of 2018)
 
 - 3. Superstructure End Bulkhead Bulkheads at exposed ends of enclosed superstructures shall be of efficient construction. The height of any sill in an access opening in such a bulkhead shall except where otherwise stated be at least 380 millimetres above the deck.
 
@@ -504,7 +506,7 @@ _
 
   - (4) If the ship is so constructed that notwithstanding the provision of freeing ports and arrangements it will be particularly subjected under service conditions to the building up of quantities of water on the freeboard deck, efficient breakwaters shall be fitted in suitable positions on that deck.
 
-- _________
+- _
 
   - PART III Special Requirements Applicable to certain Type “B” Ships
 
@@ -568,10 +570,4 @@ _
 
 _
 
-- PART V General
-
-- 30. Equivalent or exceptional provision The Assigning Authority may with the approval of the Director—
-
-  - (1) allow any fitting, material, appliance or apparatus to be fitted in a ship, or allow other provision to be made in a ship, in the place of any fitting, material, appliance, apparatus or provision respectively which is required under any of the provisions of this Schedule, if satisfied by trial thereof or otherwise that it is at least as effective as that so required; or
-
-  - (2) allow in any exceptional case departures from the requirements of any of the said provisions on condition that the freeboards to be assigned to the ship are increased to such an extent as to satisfy the Director that the safety of the ship and protection afforded to the crew will be no less effective than would be the case if the ship fully complied with those requirements and there were no such increase of freeboards.
+- PART V (Repealed L.N. 47 of 2018)
