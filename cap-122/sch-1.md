@@ -32,4 +32,10 @@ Item | Accounts/Funds | Responsible public officer | Statutory provisions under 
 
 13. | Official Receiver in Voluntary Arrangement Account | Official Receiver | Sections 2 (definition of “nominee”) and 20H(1)(a)(ii) of the Bankruptcy Ordinance (Cap. 6) and rules 122C(2)(i) and 122D(3) and (4) of the Bankruptcy Rules (Cap. 6 sub. leg. A). (Added L.N. 64 of 2001)
 
+14. | Competition Tribunal Suitors’ Funds | Registrar of the Competition Tribunal | Rule 5 of the Competition Tribunal Suitors’ Funds Rules (Cap. 619 sub. leg. F). (Added L.N. 60 of 2018)
+
+15. | Hong Kong Court of Final Appeal Suitors’ Funds | Registrar of the Hong Kong Court of Final Appeal | Rule 5 of the Hong Kong Court of Final Appeal Suitors’ Funds Rules (Cap. 484 sub. leg. C). (Added L.N. 60 of 2018)
+
+16. | Lands Tribunal Suitors’ Funds | Registrar of the Lands Tribunal | Rule 5 of the Lands Tribunal (Suitors’ Funds) Rules (Cap. 17 sub. leg. C). (Added L.N. 60 of 2018)
+
 (Schedule 1 added 32 of 2000 s. 22)
