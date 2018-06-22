@@ -2,7 +2,9 @@
 
 [s. 1]
 
-Specified Item
+Specified Items
+
+(L.N. 122 of 2018)
 
 - 1. All arms or related materiel including any armoured combat vehicle, attack helicopter, battle tank, combat aircraft, large-calibre artillery system, missile and missile launcher, warship, or related materiel (including any spare part).
 
@@ -58,4 +60,54 @@ Specified Item
 
 - 21. Sodium perchlorate.
 
-- 22. Vacuum pump with a manufacturer’s specified maximum flow-rate greater than 1 m3/h (under standard temperature and pressure condition), casing (pump body), preformed casing-liner, impeller, rotor, and jet pump nozzle designed for the pump, in which all surfaces that come into direct contact with the chemical being processed are made from controlled material. (Schedule 2 added L.N. 115 of 2014)
+- 22. Vacuum pump with a manufacturer’s specified maximum flow-rate greater than 1 m3/h (under standard temperature and pressure condition), casing (pump body), preformed casing-liner, impeller, rotor, and jet pump nozzle designed for the pump, in which all surfaces that come into direct contact with the chemical being processed are made from controlled material.
+
+- 23. Isocyanates (TDI (Toluene diisocyanate), MDI (Methylene bis(phenyl isocyanate)), IPDI (Isophorone diisocyanate), HNMDI or HDI (Hexamethylene diisocyanate) and DDI (Dimeryl diisocyanate)) and production equipment. (L.N. 122 of 2018)
+
+- 24. Ammonium nitrate that is chemically pure or in phase stabilized version (PSAN). (L.N. 122 of 2018)
+
+- 25. Non-destructive test chamber with a 1 m or more critical internal dimension. (L.N. 122 of 2018)
+
+- 26. Turbo-pump for a liquid or hybrid rocket engine. (L.N. 122 of 2018)
+
+- 27. Polymeric substances (Hydroxyl Terminated Poly-Ether (HTPE), Hydroxyl Terminated Caprolactone Ether (HTCE), Polypropylene glycol (PPG), Polydiethyleneglycol adipate (PGA) and Polyethylene glycol (PEG)). (L.N. 122 of 2018)
+
+- 28. Inertial equipment for any application, particularly for civilian aircraft, satellite, geophysical survey applications and their associated test equipment. (L.N. 122 of 2018)
+
+- 29. Countermeasure Subsystem and Penetration Aid (e.g. a jammer, chaff, decoy) designed to saturate, confuse or evade missile defence. (L.N. 122 of 2018)
+
+- 30. Manganese metal brazing foil. (L.N. 122 of 2018)
+
+- 31. Hydroforming machine. (L.N. 122 of 2018)
+
+- 32. Thermal treatment furnace with temperature over 850°C and 1 dimension over 1 m. (L.N. 122 of 2018)
+
+- 33. Electrical Discharge Machine (EDM). (L.N. 122 of 2018)
+
+- 34. Friction stir welding machine. (L.N. 122 of 2018)
+
+- 35. Modelling and design software related to the modelling of aerodynamic and thermodynamic analysis of rocket or unmanned aerial vehicle system. (L.N. 122 of 2018)
+
+- 36. High-speed imaging camera (except one used in a medical imaging system). (L.N. 122 of 2018)
+
+- 37. Truck chassis with 6 or more axles. (L.N. 122 of 2018)
+
+- 38. Floor-mounted fume hood (walk-in style) with a minimum nominal width of 2.5 m. (L.N. 122 of 2018)
+
+- 39. Batch centrifuge with a rotor capacity of 4 L or greater that is usable with biological material. (L.N. 122 of 2018)
+
+- 40. Fermenter with an internal volume of 10 L to 20 L that is usable with biological material. (L.N. 122 of 2018)
+
+- 41. Any item, material, equipment, goods or technology set out in the Security Council document S/2016/308. (L.N. 122 of 2018)
+
+- 42. Any item, material, equipment, goods or technology set out in the Security Council document S/2016/1069. (L.N. 122 of 2018)
+
+- 43. Any item, material, equipment, goods or technology set out in the Security Council document S/2017/728. (L.N. 122 of 2018)
+
+- 44. Any item, material, equipment, goods or technology set out in the Security Council document S/2017/760. (L.N. 122 of 2018)
+
+- 45. Any item, material, equipment, goods or technology set out in the Security Council document S/2017/822. (L.N. 122 of 2018)
+
+- 46. Any item, material, equipment, goods or technology set out in the Security Council document S/2017/829. (L.N. 122 of 2018)
+
+(Schedule 2 added L.N. 115 of 2014)
