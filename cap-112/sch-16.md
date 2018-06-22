@@ -8,19 +8,21 @@ Specified Transactions
 
 - Part 1
 
-- (Added 13 of 2015 s. 11)
+- (Added 13 of 2015 s. 11; Amended L.N. 69 of 2018)
 
-  - 1. a transaction in securities.
+  - 1. A transaction in securities.
 
-  - 2. a transaction in futures contracts.
+  - 2. A transaction in futures contracts.
 
-  - 3. a transaction in foreign exchange contracts.
+  - 3. A transaction in foreign exchange contracts.
 
-  - 4. a transaction consisting in the making of a deposit other than by way of a money-lending business.
+  - 4. A transaction consisting in the making of a deposit other than by way of a money-lending business.
 
-  - 5. a transaction in foreign currencies.
+  - 5. A transaction in foreign currencies.
 
-  - 6. a transaction in exchange-traded commodities.
+  - 6. A transaction in exchange-traded commodities.
+
+  - 7. A transaction in an investee company’s shares carried out through or arranged by a specified person for, or carried out by, a non-resident partner fund. (Added L.N. 69 of 2018)
 
 - Part 2
 
@@ -72,6 +74,22 @@ Specified Transactions
 
         - (iii) the transaction in respect of which is regulated by or under, or is carried out in compliance with, the Securities and Futures Ordinance (Cap. 571);
 
+    - investee company (獲投資公司) means—
+
+      - (a) a corporation that has ITVFC and a partner fund as shareholders under the ITVF Scheme; or
+
+      - (b) a corporation that—
+
+        - (i) had, at any time, ITVFC and a partner fund (Fund A) as shareholders under the ITVF Scheme; and
+
+        - (ii) has, since that time, continued to have a partner fund (whether Fund A or another partner fund) as a shareholder; (Added L.N. 69 of 2018)
+
+    - ITVF Scheme (創基計劃) means the Innovation and Technology Venture Fund Scheme established by the Innovation and Technology Commission; (Added L.N. 69 of 2018)
+
+    - ITVFC (創基公司) means The Innovation and Technology Venture Fund Corporation incorporated under the Companies Ordinance (Cap. 622); (Added L.N. 69 of 2018)
+
+    - non-resident partner fund (非居港夥伴基金) means a partner fund that is a non-resident person within the meaning of section 20AB(3); (Added L.N. 69 of 2018)
+
     - options contract (期權合約) means a contract that gives the holder of the contract the option or right, exercisable at or before a time specified in the contract to—
 
       - (a) buy or sell—
@@ -81,6 +99,14 @@ Specified Transactions
         - (ii) an agreed value of a specified futures contract, share or other property; or
 
       - (b) be paid an amount of money calculated by reference to the value of such futures contract, share or other property or by reference to the level of an index, as may be specified in the contract;
+
+    - partner fund (夥伴基金) means a fund that is a party (whether or not through an agent) to an agreement—
+
+      - (a) to which ITVFC is also a party;
+
+      - (b) that stipulates the overall rights and obligations of ITVFC and the fund in respect of their participation in the ITVF Scheme; and
+
+      - (c) that is valid and in force; (Added L.N. 69 of 2018)
 
     - property (財產) includes—
 
@@ -100,7 +126,9 @@ Specified Transactions
 
       - (e) interests, rights or property, whether in the form of an instrument or otherwise, commonly known as securities; (Amended 28 of 2012 ss. 912 & 920; 13 of 2015 s. 11)
 
-    - share (股份) means any share in the share capital of a corporation, and, except where a distinction between stock and shares is express or implied, includes stock.
+    - share (股份) means any share in the share capital of a corporation, and, except where a distinction between stock and shares is express or implied, includes stock; (Amended L.N. 69 of 2018)
+
+    - specified person (指明人士) has the meaning given by section 20AC(6). (Added L.N. 69 of 2018)
 
   - 2. For the purposes of the definition of securities in section 1 of this Part—
 
