@@ -2,7 +2,7 @@
 
 [ss. 2, 24, 25, 33 & 33C]
 
-- PART 1 EXEMPTED PERSONS
+- Part 1 Exempted Persons
 
   - 1. Any subsidiary of an authorized institution within the meaning of the Banking Ordinance (Cap. 155).
 
@@ -36,7 +36,7 @@
 
   - 11. A corporation licensed to carry on, or an authorized financial institution registered for carrying on, a business in dealing in securities under Part V of the Securities and Futures Ordinance (Cap. 571) who engages in securities margin financing in order to facilitate acquisitions or holdings of securities by the corporation or institution for its client. (Replaced 5 of 2002 s. 407)
 
-- PART 2 EXEMPTED LOANS
+- Part 2 Exempted Loans
 
   - 1. A loan made bona fide by an employer to his employee.
 
@@ -48,7 +48,7 @@
 
     - (ac) registered under a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622); or (Added 28 of 2012 ss. 912 & 920)
 
-    - (b) which would, in the case of a company referred to in paragraph (b) or (c) of the definition of “company” (公司) in section 2(1)— (Amended 28 of 2012 ss. 912 & 920)
+    - (b) which would, in the case of a company referred to in paragraph (b) or (c) of the definition of company (公司) in section 2(1)— (Amended 28 of 2012 ss. 912 & 920)
 
       - (i) where the mortgage, charge, lien or encumbrance was created before the commencement date* of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622), be able to be registered under a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622) if the company were incorporated under that former Companies Ordinance; or
 
@@ -90,7 +90,7 @@
 
     - (b)
 
-      - For the purposes of this paragraph “approved currency” (認可貨幣) means a currency—
+      - For the purposes of this paragraph approved currency (認可貨幣) means a currency—
 
         - (i) freely convertible into Hong Kong dollars; or
 

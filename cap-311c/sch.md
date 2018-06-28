@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 2]
 
-APPROVED DEVICES
+Approved Devices
 
 - 1. Micro-Ringelmann Chart
 

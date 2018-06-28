@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [ss. 15(4), 16(3), 20(4), 23A(5), 24(6), 28(7) & 38]
 
-TERMS AND CONDITIONS SUBJECT TO WHICH A LICENCE MAY BE GRANTED
+Terms and Conditions Subject to which a Licence may be Granted
 
 (Amended 67 of 1990 s. 22)
 

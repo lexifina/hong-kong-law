@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 109, 110, 112, 113 & 146 & Schs. 3 & 4]
 
-CHINESE HERBAL MEDICINES
+Chinese Herbal Medicines
 
 Name | Description
 

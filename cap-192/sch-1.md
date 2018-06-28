@@ -1,3 +1,3 @@
 # First Schedule
 
-(Omitted as spent)
+(Omitted as spent—E.R. 3 of 2018)

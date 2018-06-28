@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 18] (Amended 69 of 1988 s. 34)
 
-CALCULATION OF TRUE ANNUAL PERCENTAGE RATE OF INTEREST
+Calculation of True Annual Percentage Rate of Interest
 
 - 1. Any amount paid or payable to the lender under the agreement (other than simple interest charged in accordance with the proviso to section 22(1)) shall be appropriated to principal and interest in the proportion that the total amount of principal bears to the total amount of the interest. (Amended 69 of 1988 s. 34)
 

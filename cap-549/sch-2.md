@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 111, 112, 113 & 146 & Schs. 3 & 4]
 
-CHINESE HERBAL MEDICINES
+Chinese Herbal Medicines
 
 Name | Description
 
@@ -452,9 +452,7 @@ Herba Elephantopi (地膽頭) | Any or whole part of Elephantopus scaber L.
 
 Herba Eleusines Indicae (牛筋草) | Any or whole part of Eleusine indica (L.) Gaertn
 
-Herba Emiliae (一點紅) | Any or whole part of Emilia sonchifolia (L.)
-
-DC.
+Herba Emiliae (一點紅) | Any or whole part of Emilia sonchifolia (L.) DC.
 
 Herba Ephedrae (麻黃) | Herbaceous stem of Ephedra sinica Stapf, Ephedra intermedia Schrenk et C. A. Mey. or Ephedra equisetina Bge
 
@@ -494,9 +492,7 @@ Herba Houttuyniae (魚腥草) | Aerial part of Houttuynia cordata Thunb.
 
 Herba Hyperici (紅旱蓮) | Aerial part of Hyperieum ascyron L.
 
-Herba Hyperici Erecti (小連翹) | Any or whole part of Hypericum erectum
-
-Thunb.
+Herba Hyperici Erecti (小連翹) | Any or whole part of Hypericum erectum Thunb.
 
 Herba Hyperici Japonici (田基黃) | Any or whole part of Hypericum japonicum Thunb.
 
@@ -504,9 +500,7 @@ Herba Inulae (金沸草) | Aerial part of Inula linariifolia Turcz. or Inula jap
 
 Herba Junci Setchuensis (龍鬚草) | Aerial part of Juncus setchuensis Buch. var. effusoides Buch.
 
-Herba Kulanchoes Laciniatae (伽藍菜) | Any or whole part of Kalanchoe laciniata (L.)
-
-DC
+Herba Kulanchoes Laciniatae (伽藍菜) | Any or whole part of Kalanchoe laciniata (L.) DC
 
 Herba Leonuri (益母草) | Aerial part of Leonurus heterophyllus Sweet
 
@@ -586,9 +580,7 @@ Herba Schizonepetae (荊芥) | Aerial part of Schizonepeta tenuifolia Briq.
 
 Herba Scutellariae Barbatae (半枝蓮) | Any or whole part of Scutellaria barbata D. Don
 
-Herba Sedi (垂盆草) | Any or whole part of Sedum sarmentosum
-
-Bunge
+Herba Sedi (垂盆草) | Any or whole part of Sedum sarmentosum Bunge
 
 Herba Selaginellae (卷柏) | Any or whole part of Selaginella tamariscina (Beauv.) Spring or Selaginella puluinata (Hook. et Grev.)
 
@@ -624,7 +616,7 @@ Herba Taxilli (桑寄生) | Stem and branch with leaf of Taxillus chinensis (DC.
 
 Herba Verbenae (馬鞭草) | Aerial part of Verbena officinalis L.
 
-Herba Veronicae (一支香) | Any or whole part of Veronica linariifolia Pall. ex Link [V. spuria (non L.) sensu Romp. p. p. ]
+Herba Veronicae (一支香) | Any or whole part of Veronica linariifolia Pall. ex Link [V. spuria (non L.) sensu Romp. p. p.]
 
 Herba Veronicastri (腹水草) | Any or whole part of Veronicastrum axillare (Sieb. et Zucc.) Yamazaki or Veronicastrum stenostachyum (Hemsl.) Yamazaki
 
@@ -692,9 +684,7 @@ Pollen Pini (松花粉) | Pollen of Pinus massoniana Lamb., Pinus tabulaeformis 
 
 Pollen Typhae (蒲黃) | Pollen of Typha angustifolia L., Typha orientalis Presl or plants of the same genus
 
-Polyporus (豬苓) | Sclerotium of Polyporus umbellatus (Pers.)
-
-Fries
+Polyporus (豬苓) | Sclerotium of Polyporus umbellatus (Pers.) Fries
 
 Processed Fructus Crotonis (製巴豆) | Processed ripe fruit of Croton tiglium L.
 
@@ -910,9 +900,7 @@ Radix Rubiae (茜草) | Root or rhizome of Rubia cordifolia L.
 
 Radix Salviae Miltiorrhizae (丹參) | Root or rhizome of Salvia miltiorrhiza Bge.
 
-Radix Sanguisorbae (地榆) | Root of Sanguisorba officinalis L. or
-
-Sanguisorba officinalis L. var. longifolia (Bert.) Yu et Li
+Radix Sanguisorbae (地榆) | Root of Sanguisorba officinalis L. or Sanguisorba officinalis L. var. longifolia (Bert.) Yu et Li
 
 Radix Saposhnikoviae (防風) | Root of Saposhnikovia divaricata (Turcz.) Schischk.
 

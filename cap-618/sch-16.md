@@ -52,47 +52,41 @@ Consequential and Related Amendments
 
   - 11-13. (Omitted as spent—E.R. 2 of 2014)
 
-  - 14. Section 2 amended (Interpretation) Section 2(1)— Repeal the definition of technical institution.
-
-  - 15. Section 2 amended (Interpretation)
-
-    - (1) Section 2(1), definition of vehicle— Repeal the semicolon Substitute a full stop.
-
-    - (2) Section 2(1)— Repeal the definition of Vocational Training Council
+  - 14-15. (Omitted as spent—E.R. 3 of 2018)
 
   - 16-18. (Omitted as spent—E.R. 2 of 2014)
 
-  - 19. Section 82 amended (Registration—lift workers) Section 82— Repeal subsection (1) Substitute
+  - 19. Section 82 amended (Registration—lift workers)
+
+  - (Not yet in operation)
+
+  - Section 82— Repeal subsection (1) Substitute
 
     - “(1) Subject to section 150, the Registrar may, on application, register a person as a lift worker for all kinds of lift works.”.
 
-  - 20. Section 94 amended (Registration—escalator workers) Section 94— Repeal subsection (1) Substitute
+  - 20. Section 94 amended (Registration—escalator workers)
+
+  - (Not yet in operation)
+
+  - Section 94— Repeal subsection (1) Substitute
 
     - “(1) Subject to section 150, the Registrar may, on application, register a person as an escalator worker for all kinds of escalator works.”.
 
-  - 21. Section 161 added After section 160— Add
+  - 21. Section 161 added
 
-    - “161. Effect of amendments to sections 82 and 94 by sections 19 and 20 of Schedule 16
+  - (Not yet in operation)
 
-  - The amendments to sections 82(1) and 94(1) effected by sections 19 and 20 of Schedule 16 (those 2 sections of Schedule 16) do not affect the validity of a registration granted under section 82(1) or 94(1) before those 2 sections of Schedule 16 come into operation, and an application for renewal of a registration so granted may be made under sections 83 and 95, as appropriate.”.
+  - After section 160— Add
+
+    - “161. Effect of amendments to sections 82 and 94 by sections 19 and 20 of Schedule 16 The amendments to sections 82(1) and 94(1) effected by sections 19 and 20 of Schedule 16 (those 2 sections of Schedule 16) do not affect the validity of a registration granted under section 82(1) or 94(1) before those 2 sections of Schedule 16 come into operation, and an application for renewal of a registration so granted may be made under sections 83 and 95, as appropriate.”.
 
   - 22. (Omitted as spent—E.R. 2 of 2014)
 
-  - 23. Schedule 9 amended (Registration of Lift Engineers and Escalator Engineers)
-
-    - (1) Schedule 9, Part 2, section 1(b)— Repeal “practical experience;” Substitute “practical experience; or”.
-
-    - (2) Schedule 9, Part 2, section 1(c)— Repeal “practical experience;” Substitute “practical experience.”.
-
-    - (3) Schedule 9, Part 2, section 1— Repeal paragraphs (d) and (e).
-
-    - (4) Schedule 9, Part 4, section 1(b)— Repeal “practical experience;” Substitute “practical experience; or”.
-
-    - (5) Schedule 9, Part 4, section 1(c)— Repeal “practical experience;” Substitute “practical experience.”.
-
-    - (6) Schedule 9, Part 4, section 1— Repeal paragraphs (d) and (e).
+  - 23. (Omitted as spent—E.R. 3 of 2018)
 
   - 24. Schedule 9 amended (Registration of Lift Engineers and Escalator Engineers)
+
+  - (Not yet in operation)
 
     - (1) Schedule 9, Part 2— Repeal section 1 Substitute
 
@@ -130,18 +124,10 @@ Consequential and Related Amendments
 
       - and the applicant satisfies the Registrar that the applicant has at least 2 years’ relevant working experience and has the necessary practical experience.”.
 
-  - 25. Schedule 10 amended (Registration of Lift Workers and Escalator Workers)
+  - 25. (Omitted as spent—E.R. 3 of 2018)
 
-    - (1) Schedule 10, Part 1, section 1(d)(ii)— Repeal “training;” Substitute “training; or”.
+  - 26. Schedule 16 amended (Consequential and Related Amendments)
 
-    - (2) Schedule 10, Part 1, section 1— Repeal paragraph (e).
+  - (Not yet in operation)
 
-    - (3) Schedule 10, Part 3, section 1(d)(ii)— Repeal “training;” Substitute “training; or”.
-
-    - (4) Schedule 10, Part 3, section 1— Repeal paragraph (e).
-
-  - 26. Schedule 16 amended (Consequential and Related Amendments) Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012; E.R. 1 of 2013)
-
-Editorial Note:
-
-Sections 19, 20, 21, 24 and 26 of Schedule 16 not yet in operation.
+  - Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012; E.R. 1 of 2013)

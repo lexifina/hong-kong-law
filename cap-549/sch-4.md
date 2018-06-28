@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 25]
 
-FUNCTIONS OF COMMITTEES
+Functions of Committees
 
-- PART I FUNCTIONS OF THE REGISTRATION COMMITTEE The functions of the Registration Committee shall be—
+- Part I Functions of the Registration Committee The functions of the Registration Committee shall be—
 
   - (a) to make recommendations to the Practitioners Board on the qualifications for registration of Chinese medicine practitioners;
 
@@ -16,21 +16,21 @@ FUNCTIONS OF COMMITTEES
 
   - (e) to carry out any other functions assigned to it under the Ordinance or delegated to it by the Practitioners Board.
 
-- PART II FUNCTIONS OF THE EXAMINATION COMMITTEE The functions of the Examination Committee shall be—
+- Part II Functions of the Examination Committee The functions of the Examination Committee shall be—
 
   - (a) to make recommendations to the Practitioners Board on the qualifications or training required before a person is considered eligible to undertake the Licensing Examination; and
 
   - (b) to carry out any other functions assigned to it under the Ordinance or delegated to it by the Practitioners Board.
 
-- PART III FUNCTIONS OF THE DISCIPLINARY COMMITTEE OF
+- Part III Functions of the Disciplinary Committee of
 
-- CHINESE MEDICINE PRACTITIONERS The functions of the Disciplinary Committee of Chinese Medicine Practitioners shall be—
+- Chinese Medicine Practitioners The functions of the Disciplinary Committee of Chinese Medicine Practitioners shall be—
 
   - (a) to conduct preliminary investigation into any complaint or information received relating to the professional conduct of any registered Chinese medicine practitioner or applicant for registration which may be inquired into by the Practitioners Board; and to give advice on such matters to the Practitioners Board; and
 
   - (b) to make recommendations to the Practitioners Board for the holding of an inquiry.
 
-- PART IV FUNCTIONS OF THE CHINESE MEDICINES COMMITTEE The functions of the Chinese Medicines Committee shall be—
+- Part IV Functions of the Chinese Medicines Committee The functions of the Chinese Medicines Committee shall be—
 
   - (a) to make recommendations to the Medicines Board on any amendments to Schedules 1 and 2;
 
@@ -38,15 +38,15 @@ FUNCTIONS OF COMMITTEES
 
   - (c) to carry out any other functions assigned to it under the Ordinance or delegated to it by the Chinese Medicines Board.
 
-- PART V FUNCTIONS OF THE CHINESE MEDICINES TRADERS COMMITTEE The functions of the Chinese Medicines Traders Committee shall be—
+- Part V Functions of the Chinese Medicines Traders Committee The functions of the Chinese Medicines Traders Committee shall be—
 
   - (a) to make recommendations to the Medicines Board on the licensing requirements, practising conditions and guidelines in respect of different categories of Chinese medicines traders required to be licensed; and
 
   - (b) to carry out any other functions assigned to it under the Ordinance or delegated to it by the Medicines Board.
 
-- PART VI FUNCTIONS OF THE REGULATORY COMMITTEE OF
+- Part VI Functions of the Regulatory Committee of
 
-- CHINESE MEDICINES TRADERS The functions of the Regulatory Committee of Chinese Medicines Traders shall be—
+- Chinese Medicines Traders The functions of the Regulatory Committee of Chinese Medicines Traders shall be—
 
   - (a) to conduct investigation into any complaint or information received relating to the conduct of a licensed Chinese medicines trader which may be inquired into by the Medicines Board; and where it considers appropriate, to give advice on the matter to the Chinese medicines trader concerned; and
 

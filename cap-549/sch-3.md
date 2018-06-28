@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 24]
 
-FUNCTIONS OF BOARDS
+Functions of Boards
 
-- PART I FUNCTIONS OF THE CHINESE MEDICINE PRACTITIONERS BOARD The functions of the Chinese Medicine Practitioners Board shall be—
+- Part I Functions of the Chinese Medicine Practitioners Board The functions of the Chinese Medicine Practitioners Board shall be—
 
   - (a) to implement the policy and activities as determined by the Council, and to provide guidance to its committees;
 
@@ -26,7 +26,7 @@ FUNCTIONS OF BOARDS
 
   - (j) to carry out any other functions assigned to it under the Ordinance or delegated to it by the Council.
 
-- PART II FUNCTIONS OF THE CHINESE MEDICINES BOARD The functions of the Chinese Medicines Board shall be—
+- Part II Functions of the Chinese Medicines Board The functions of the Chinese Medicines Board shall be—
 
   - (a) to implement the policy and activities as determined by the Council, and to provide guidance to its committees;
 

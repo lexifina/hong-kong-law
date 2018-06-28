@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [s. 27(2)]
 
-DETERMINATION OF COMPENSATION
+Determination of Compensation
 
 - 1. A person who claims compensation under section 25 or 26 shall submit to the Authority particulars in writing of his claim.
 
@@ -38,11 +38,11 @@ DETERMINATION OF COMPENSATION
 
   - (3) In this paragraph—
 
-    - “non-working day” (非工作日) means a day that is not a working day;
+    - non-working day (非工作日) means a day that is not a working day;
 
-    - “note-issuing bank” (發鈔銀行) has the meaning assigned to it by section 2 of the Legal Tender Notes Issue Ordinance (Cap. 65);
+    - note-issuing bank (發鈔銀行) has the meaning assigned to it by section 2 of the Legal Tender Notes Issue Ordinance (Cap. 65);
 
-    - “working day” (工作日) means any day other than—
+    - working day (工作日) means any day other than—
 
       - (a) a public holiday; or
 
@@ -50,6 +50,6 @@ DETERMINATION OF COMPENSATION
 
 - 9. (Repealed 42 of 1985 s. 5)
 
-Editorial Note:
+- Editorial Note:
 
-* For the validation of interest payments and application provisions relating to the amendments made by 6 of 2001, see s. 13 of 6 of 2001.
+- * For the validation of interest payments and application provisions relating to the amendments made by 6 of 2001, see s. 13 of 6 of 2001.
