@@ -10,7 +10,7 @@ Column 1 | Column 2 | Column 3 | Column 4
 
 Item | Nominating authority | Minimum number of lay assessors | Maximum number of lay assessors
 
-1. | (Addition not yet in operation—see 15 of 2018 s. 4)
+1. | Patient organizations | 2 | 10
 
 2. | Hong Kong Bar Association | 2 | 10
 
