@@ -4,57 +4,77 @@
 
 - Part 1 Type 2 Chemicals
 
-Item | Chemical | CAS registry number
+- Item | Chemical | CAS registry number
 
-1. | Asbestos:
+- 1. | Asbestos:
 
-(a) actinolite | 77536-66-4
+- (a) actinolite | 77536-66-4
 
-(b) anthophyllite | 77536-67-5
+- (b) anthophyllite | 77536-67-5
 
-(c) amosite | 12172-73-5
+- (c) amosite | 12172-73-5
 
-(d) crocidolite | 12001-28-4
+- (d) crocidolite | 12001-28-4
 
-(e) tremolite | 77536-68-6
+- (e) tremolite | 77536-68-6
 
-2. | Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride:
+- 2. | Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride:
 
-(a) perfluorooctane sulfonic acid (PFOS) | 1763-23-1
+- (a) perfluorooctane sulfonic acid (PFOS) | 1763-23-1
 
-(b) salts of perfluorooctane sulfonic acid, for example:
+- (b) salts of perfluorooctane sulfonic acid, for example:
 
-(i) potassium perfluorooctane sulfonate | 2795-39-3
+- (i) potassium perfluorooctane sulfonate | 2795-39-3
 
-(ii) lithium perfluorooctane sulfonate | 29457-72-5
+- (ii) lithium perfluorooctane sulfonate | 29457-72-5
 
-(iii) ammonium perfluorooctane sulfonate | 29081-56-9
+- (iii) ammonium perfluorooctane sulfonate | 29081-56-9
 
-(iv) diethanolammonium perfluorooctane sulfonate | 70225-14-8
+- (iv) diethanolammonium perfluorooctane sulfonate | 70225-14-8
 
-(v) tetraethylammonium perfluorooctane sulfonate | 56773-42-3
+- (v) tetraethylammonium perfluorooctane sulfonate | 56773-42-3
 
-(vi) didecyldimethylammonium perfluorooctane sulfonate | 251099-16-8
+- (vi) didecyldimethylammonium perfluorooctane sulfonate | 251099-16-8
 
-(c) perfluorooctane sulfonyl fluoride (PFOSF) | 307-35-7
+- (c) perfluorooctane sulfonyl fluoride (PFOSF) | 307-35-7
 
-3. | Polybrominated biphenyls (PBB):
+- 3. | Polybrominated biphenyls (PBB):
 
-(a) octabromobiphenyl | 27858-07-7
+- (a) octabromobiphenyl | 27858-07-7
 
-(b) decabromobiphenyl | 13654-09-6
+- (b) decabromobiphenyl | 13654-09-6
 
-4. | Polychlorinated terphenyls (PCT) | 61788-33-8
+- 4. | Polychlorinated terphenyls (PCT) | 61788-33-8
 
-5. | Tetraethyl lead | 78-00-2
+- 5. | Short-chain chlorinated paraffins | 85535-84-8
 
-6. | Tetramethyl lead | 75-74-1
+- 6. | Tetraethyl lead | 78-00-2
 
-7. | Tris (2,3-dibromopropyl) phosphate | 126-72-7
+- 7. | Tetramethyl lead | 75-74-1
 
-(Amended L.N. 73 of 2014)
+- 8. | Tributyltin compounds:
 
-- Part 2 Extent to which Part 2 of Ordinance does not Apply to Type 2 Chemicals
+- (a) tributyltin oxide | 56-35-9
+
+- (b) tributyltin fluoride | 1983-10-4
+
+- (c) tributyltin methacrylate | 2155-70-6
+
+- (d) tributyltin benzoate | 4342-36-3
+
+- (e) tributyltin chloride | 1461-22-9
+
+- (f) tributyltin linoleate | 24124-25-2
+
+- (g) tributyltin naphthenate | 85409-17-2
+
+- 9. | Tris (2,3-dibromopropyl) phosphate | 126-72-7
+
+(Amended L.N. 73 of 2014; L.N. 23 of 2018)
+
+- Part 2 Extent to which Part 2 of Ordinance does not
+
+- Apply to Type 2 Chemicals
 
   - 1. Interpretation of this Part In this Part—
 
