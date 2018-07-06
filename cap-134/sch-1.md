@@ -98,7 +98,7 @@
 
     - Eticyclidine
 
-    - Ethylmorphine (3-ethylmorphine) Etonitazene
+    - Ethylmorphine (3-ethylmorphine) Ethyl phenyl(piperidin-2-yl)acetate (Added L.N. 76 of 2018) Etonitazene
 
     - Etorphine
 
@@ -167,6 +167,8 @@
     - Methamphetamine (methylamphetamine) Methaqualone
 
     - Methcathinone
+
+    - Methyl N-{[1-(cyclohexylmethyl)-1H-indol-3-yl] carbonyl}-3-methylvalinate (Added L.N. 76 of 2018)
 
     - Methyldesorphine
 
@@ -292,6 +294,8 @@
 
     - N-(Adamant-1-yl)-1-pentyl-1H-indole-3-carboxamide (Added L.N. 144 of 2015)
 
+    - N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (Added L.N. 76 of 2018)
+
     - N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
 
     - N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
@@ -313,6 +317,8 @@
     - 1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine (Added L.N. 75 of 2017)
 
     - 3,4-Dichloro-N-[[1- (dimethylamino)cyclohexyl]methyl]benzamide (Added L.N. 58 of 2016)
+
+    - 3,4-Dichloro-N-(2-dimethylamino-cyclohexyl)-N-methyl-benzamide (Added L.N. 76 of 2018)
 
     - [2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1, 2, 3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone (Added L.N. 7 of 2011)
 
@@ -339,6 +345,8 @@
     - N-(2-Methoxybenzyl)-1-[3-bromo-2,5-dimethoxybicyclo[4.2.0]octa-1,3,5-trien-7-yl]methanamine (Added L.N. 144 of 2015)
 
     - N-[α-Methyl-3, 4-(methylenedioxy)phenethyl] hydroxylamine
+
+    - N-Methyl-1-(thiophen-2-yl)propan-2-amine (Added L.N. 76 of 2018)
 
     - 1-Methyl-4-phenylpiperidine-4-carboxylic acid
 
