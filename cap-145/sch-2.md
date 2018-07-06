@@ -2,6 +2,8 @@
 
 [ss. 2, 2A, 3, 5, 7 & 18A]
 
+(Schedule 2 replaced L.N. 53 of 1997)
+
 Item | Substance
 
 1. | Ephedrine (麻黃碱) (*)
@@ -18,7 +20,7 @@ Item | Substance
 
 7. | N-Acetylanthranilic acid (N-乙酰鄰氨苯甲酸) (*)
 
-8. | 3, 4-Methylenedioxy-phenyl-2-propanone (3, 4-亞甲二氧-苯基-2-丙酮) (*)
+8. | 3,4-Methylenedioxy-phenyl-2-propanone (3，4-亞甲二氧-苯基-2-丙酮) (*)
 
 9. | Safrole (黃樟素) (*)
 
@@ -40,4 +42,8 @@ Item | Substance
 
 18. | Alpha-phenylacetoacetonitrile (α-苯乙酰乙腈) (*) (Added L.N. 108 of 2014)
 
-(*) Including the salts of these substances whenever the existence of such salts is possible. (Schedule 2 replaced L.N. 53 of 1997)
+19. | 4-anilino-N-phenethylpiperidine (4-苯胺-N-苯乙基哌啶) (*) (Added L.N. 75 of 2018)
+
+20. | N-phenethyl-4-piperidone (N-苯乙基-4-哌啶酮) (*) (Added L.N. 75 of 2018)
+
+(*) | Including the salts of these substances whenever the existence of such salts is possible.
