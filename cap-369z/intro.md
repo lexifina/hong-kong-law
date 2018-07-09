@@ -1,5 +1,5 @@
 MERCHANT SHIPPING (SAFETY) (GAS CARRIERS) REGULATIONS
 
-(Cap. 369, sections 101 and 107)
+(Cap. 369, sections 101, 107 and 112B)
 
 [2 August 1991]
