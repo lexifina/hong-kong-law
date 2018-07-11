@@ -4,9 +4,7 @@
 
 TOLLS AND FEES
 
-- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel and Eastern Harbour Crossing)
-
-- (7 of 2016 s. 18)
+- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel, Eastern Harbour Crossing and Tate’s Cairn Tunnel) (7 of 2016 s. 18; 9 of 2018 s. 9)
 
 - Vehicle | Tolls
 
@@ -70,6 +68,34 @@ TOLLS AND FEES
 
 - (7 of 2016 s. 18)
 
+- Part 3A Tolls (for Tate’s Cairn Tunnel)
+
+- Column 1 | Column 2 | Column 3
+
+- Item | Vehicle | Tolls
+
+- 1. | Motor cycles, motor tricycles | $15
+
+- 2. | Private cars, taxis | $20
+
+- 3. | Public light buses | $23
+
+- 4. | Private light buses | $24
+
+- 5. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $24
+
+- 6. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | $28
+
+- 7. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 24 tonnes but not exceeding 38 tonnes | $28
+
+- 8. | Public and private single-decked buses | $32
+
+- 9. | Public and private double-decked buses | $35
+
+- 10. | For vehicles with more than 2 axles, each additional axle in excess of 2 | $24
+
+- (9 of 2018 s. 9)
+
 - Part 4 Removal Fee
 
   - 1. Interpretation In this Part—
@@ -104,6 +130,8 @@ TOLLS AND FEES
 
 - 6. | Shing Mun Tunnels | $140 | $175 | $215
 
+- 6A. | Tate’s Cairn Tunnel (9 of 2018 s. 9) | $140 | $175 | $215
+
 - 7. | Tseung Kwan O Tunnel | $140 | $175 | $215
 
 - (7 of 2016 s. 18)
@@ -129,6 +157,8 @@ TOLLS AND FEES
 - 5A. | Scenic Hill Tunnel (L.N. 60 of 2017) | $82
 
 - 6. | Shing Mun Tunnels | $82
+
+- 6A. | Tate’s Cairn Tunnel (9 of 2018 s. 9) | $82
 
 - 7. | Tseung Kwan O Tunnel | $82
 

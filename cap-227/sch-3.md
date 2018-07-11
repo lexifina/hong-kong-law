@@ -56,7 +56,7 @@ Offences to which Defendant May Plead Guilty by Letter
 
 - 13. (Repealed 7 of 2016 s. 23)
 
-- 14. Tate’s Cairn Tunnel Any offence against the Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B). (Added L.N. 356 of 1997)
+- 14. (Repealed 9 of 2018 s. 14)
 
 - 15. Western Harbour Crossing Any offence against the Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D). (Added L.N. 356 of 1997)
 

@@ -78,37 +78,23 @@ Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A)
 
 22 | Regulation 18(4) | Driving in excess of the speed limit referred to in item 20 by more than 45 kilometres an hour | 10
 
-23 - 27 | (Repealed L.N. 198 of 1999)
+23−27 | (Repealed L.N. 198 of 1999)
 
-28A | (Repealed 7 of 2016 s. 25)
+28 | (Repealed 7 of 2016 s. 25)
 
-28A - 28D | (Repealed 7 of 2016 s. 25)
+28A−D | (Repealed 7 of 2016 s. 25)
 
-29 - 32 | (Repealed 7 of 2016 s. 25)
+29−32 | (Repealed 7 of 2016 s. 25)
 
-Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B)
+33 | (Repealed 9 of 2018 s. 16)
 
-33 | By-law 8 | Crossing continuous double lines | 3
+33A−D | (Repealed 9 of 2018 s. 16)
 
-33A | By-law 10(1) | Driving in excess of the speed limit indicated by a prescribed traffic sign by more than 15 kilometres an hour, other than where item 33B or 33C applies | 3
-
-33B | By-law 10(1) | Driving in excess of the speed limit indicated by a prescribed traffic sign by more than 30 kilometres an hour, other than where item 33C applies | 5
-
-33C | By-law 10(1) | Driving in excess of the speed limit indicated by a prescribed traffic sign by more than 45 kilometres an hour | 10
-
-33D | By-law 10(2) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
-
-Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B) as it was in force immediately before 20 July 2012
-
-34 | By-law 10(1) | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 6 or 7 in the Schedule to the Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B) by more than 15 kilometres an hour, other than where item 35 or 36 applies | 3
-
-35 | By-law 10(1) | Driving in excess of the speed limit referred to in item 34 by more than 30 kilometres an hour, other than where item 36 applies | 5
-
-36 | By-law 10(1) | Driving in excess of the speed limit referred to in item 34 by more than 45 kilometres an hour | 10
+34−36 | (Repealed 9 of 2018 s. 16)
 
 Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D)
 
-37 | (Renumbered as item 33D - see L.N. 100 of 2013)
+37 | (Renumbered as item 33D—see L.N. 100 of 2013)
 
 37A | Section 7(1) | Driving in excess of the speed limit indicated by a speed limit sign by more than 15 kilometres an hour, other than where item 37B or 37C applies | 3
 
@@ -140,7 +126,7 @@ Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D) as it was in force immedia
 
 40 | Section 7 | Driving in excess of speed limit by more than 45 kilometres an hour | 10
 
-41 | (Renumbered as item 37J - see L.N. 100 of 2013)
+41 | (Renumbered as item 37J—see L.N. 100 of 2013)
 
 42 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
@@ -192,7 +178,7 @@ Tai Lam Tunnel and Yuen Long Approach Road Bylaw (Cap. 474 sub. leg. C) as it wa
 
 52 | Section 7 | Driving in excess of speed limit referred to in item 50 by more than 45 kilometres an hour | 10
 
-53 | (Renumbered as item 49J - see L.N. 100 of 2013)
+53 | (Renumbered as item 49J—see L.N. 100 of 2013)
 
 54 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 

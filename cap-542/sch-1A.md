@@ -274,7 +274,7 @@ Item | Body
 
 134. | Taxi Association Limited. (Replaced 7 of 2008 s. 7)
 
-135. | Tate’s Cairn Tunnel Company Limited. (Replaced 7 of 2008 s. 7)
+135. | (Repealed 9 of 2018 s. 17)
 
 136. | Taxi Associations Federation.
 

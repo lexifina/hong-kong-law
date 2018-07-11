@@ -22,6 +22,8 @@ Column 1 Item | Column 2 Tunnel
 
 6. | Shing Mun Tunnels
 
+6A. | Tate’s Cairn Tunnel (Added 9 of 2018 s. 3)
+
 7. | Tseung Kwan O Tunnel
 
 (Schedule 1 replaced 7 of 2016 s. 5)

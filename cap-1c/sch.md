@@ -148,12 +148,6 @@ Commissioner for Transport | Road Traffic (Expressway) Regulations (Cap. 374 sub
 
 Commissioner for Transport | Road Traffic (Driving-offence Points) Ordinance (Cap. 375).
 
-Commissioner for Transport | Tate’s Cairn Tunnel Ordinance (Cap. 393).
-
-Commissioner for Transport | Tate’s Cairn Tunnel Regulations (Cap. 393 sub. leg. A).
-
-Commissioner for Transport | Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B).
-
 Commissioner for Transport | Tsing Sha Control Area Ordinance (Cap. 594).
 
 Commissioner for Transport | Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A).
@@ -452,6 +446,4 @@ Secretary for Transport and Housing | Merchant Shipping (Safety) Ordinance (Cap.
 
 Secretary for Transport and Housing | Roads (Works, Use and Compensation) Ordinance (Cap. 370).
 
-Secretary for Transport and Housing | Tate’s Cairn Tunnel Ordinance (Cap. 393).
-
-(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21)
+(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12)

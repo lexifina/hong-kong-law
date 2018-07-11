@@ -134,7 +134,7 @@ Public Bodies
 
 64. | (Repealed 7 of 2016 s. 22)
 
-65. | Tate’s Cairn Tunnel Company Limited. (Added L.N. 382 of 1992)
+65. | (Repealed 9 of 2018 s. 13)
 
 66. | (Repealed 5 of 2001 s. 40)
 
