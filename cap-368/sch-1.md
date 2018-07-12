@@ -4,26 +4,4 @@
 
 Tunnels to which this Ordinance Applies
 
-Column 1 Item | Column 2 Tunnel
-
-1. | Aberdeen Tunnel
-
-1A. | Airport Tunnel (Added L.N. 65 of 2017)
-
-2. | Cross-Harbour Tunnel
-
-3. | Eastern Harbour Crossing
-
-4. | Kai Tak Tunnel
-
-5. | Lion Rock Tunnel
-
-5A. | Scenic Hill Tunnel (Added L.N. 65 of 2017)
-
-6. | Shing Mun Tunnels
-
-6A. | Tate’s Cairn Tunnel (Added 9 of 2018 s. 3)
-
-7. | Tseung Kwan O Tunnel
-
-(Schedule 1 replaced 7 of 2016 s. 5)
+Aberdeen Tunnel (香港仔隧道) Airport Tunnel (機場隧道) Central-Wan Chai Bypass Tunnel (中環及灣仔繞道隧道) Cheung Shan Tunnel (長山隧道) Cross-Harbour Tunnel (海底隧道) Eastern Harbour Crossing (東區海底隧道) Kai Tak Tunnel (啟德隧道) Lion Rock Tunnel (獅子山隧道) Lung Shan Tunnel (龍山隧道) Scenic Hill Tunnel (觀景山隧道) Shing Mun Tunnels (城門隧道) Tate’s Cairn Tunnel (大老山隧道) Tseung Kwan O Tunnel (將軍澳隧道) (Schedule 1 replaced 7 of 2016 s. 5. Amended L.N. 73 of 2018)
