@@ -106,62 +106,72 @@ TOLLS AND FEES
 
     - Type C vehicle (丙類車輛) means a public or private double-decked bus, special purpose vehicle, or goods vehicle of a permitted gross vehicle weight exceeding 5.5 tonnes.
 
-  - 2. Removal fee The removal fee for a Type A vehicle, Type B vehicle or Type C vehicle is set out in the Table.
+  - 2. Removal fee The removal fee for a Type A vehicle, Type B vehicle or Type C vehicle is set out in the Table. Table
 
-- Table
+  - Column 1 | Column 2 | Column 3 | Column 4
 
-- Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+  - Tunnel | Removal fee for Type A vehicle | Removal fee for Type B vehicle | Removal fee for Type C vehicle
 
-- Item | Tunnel | Removal fee for Type A vehicle | Removal fee for Type B vehicle | Removal fee for Type C vehicle
+  - Aberdeen Tunnel (香港仔隧道) | $140 | $175 | $215
 
-- 1. | Aberdeen Tunnel | $140 | $175 | $215
+  - Airport Tunnel (機場隧道) | $140 | $175 | $215
 
-- 1A. | Airport Tunnel (L.N. 60 of 2017) | $140 | $175 | $215
+  - Central-Wan Chai Bypass Tunnel (中環及灣仔繞道隧道) | $140 | $175 | $215
 
-- 2. | Cross-Harbour Tunnel | $140 | $175 | $215
+  - Cheung Shan Tunnel (長山隧道) | $140 | $175 | $215
 
-- 3. | Eastern Harbour Crossing | $140 | $175 | $215
+  - Cross-Harbour Tunnel (海底隧道) | $140 | $175 | $215
 
-- 4. | Kai Tak Tunnel | $140 | $175 | $215
+  - Eastern Harbour Crossing (東區海底隧道) | $140 | $175 | $215
 
-- 5. | Lion Rock Tunnel | $140 | $175 | $215
+  - Kai Tak Tunnel (啟德隧道) | $140 | $175 | $215
 
-- 5A. | Scenic Hill Tunnel (L.N. 60 of 2017) | $140 | $175 | $215
+  - Lion Rock Tunnel (獅子山隧道) | $140 | $175 | $215
 
-- 6. | Shing Mun Tunnels | $140 | $175 | $215
+  - Lung Shan Tunnel (龍山隧道) | $140 | $175 | $215
 
-- 6A. | Tate’s Cairn Tunnel (9 of 2018 s. 9) | $140 | $175 | $215
+  - Scenic Hill Tunnel (觀景山隧道) | $140 | $175 | $215
 
-- 7. | Tseung Kwan O Tunnel | $140 | $175 | $215
+  - Shing Mun Tunnels (城門隧道) | $140 | $175 | $215
 
-- (7 of 2016 s. 18)
+  - Tate’s Cairn Tunnel (大老山隧道) | $140 | $175 | $215
+
+  - Tseung Kwan O Tunnel (將軍澳隧道) | $140 | $175 | $215
+
+- (7 of 2016 s. 18; L.N. 72 of 2018)
 
 - Part 5 Permit Fee
 
-- Column 1 | Column 2 | Column 3
+- Column 1 | Column 2
 
-- Item | Tunnel | Permit fee for any vehicle
+- Tunnel | Permit fee for any vehicle
 
-- 1. | Aberdeen Tunnel | $82
+- Aberdeen Tunnel (香港仔隧道) | $82
 
-- 1A. | Airport Tunnel (L.N. 60 of 2017) | $82
+- Airport Tunnel (機場隧道) | $82
 
-- 2. | Cross-Harbour Tunnel | $82
+- Central-Wan Chai Bypass Tunnel (中環及灣仔繞道隧道) | $82
 
-- 3. | Eastern Harbour Crossing | $82
+- Cheung Shan Tunnel (長山隧道) | $82
 
-- 4. | Kai Tak Tunnel | $82
+- Cross-Harbour Tunnel (海底隧道) | $82
 
-- 5. | Lion Rock Tunnel | $82
+- Eastern Harbour Crossing (東區海底隧道) | $82
 
-- 5A. | Scenic Hill Tunnel (L.N. 60 of 2017) | $82
+- Kai Tak Tunnel (啟德隧道) | $82
 
-- 6. | Shing Mun Tunnels | $82
+- Lion Rock Tunnel (獅子山隧道) | $82
 
-- 6A. | Tate’s Cairn Tunnel (9 of 2018 s. 9) | $82
+- Lung Shan Tunnel (龍山隧道) | $82
 
-- 7. | Tseung Kwan O Tunnel | $82
+- Scenic Hill Tunnel (觀景山隧道) | $82
 
-- (7 of 2016 s. 18)
+- Shing Mun Tunnels (城門隧道) | $82
+
+- Tate’s Cairn Tunnel (大老山隧道) | $82
+
+- Tseung Kwan O Tunnel (將軍澳隧道) | $82
+
+- (7 of 2016 s. 18; L.N. 72 of 2018)
 
 (L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35; 49 of 1999 s. 15; L.N. 33 of 2006; L.N. 96 of 2009)
