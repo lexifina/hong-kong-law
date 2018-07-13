@@ -1,4 +1,4 @@
-# Schedule
+# Schedule 1
 
 [s. 3]
 
@@ -16,4 +16,4 @@ MHz | MHz
 
 1964.9–1969.8 | 2154.9–2159.8
 
-(Schedule added L.N. 59 of 2014)
+(Schedule added L.N. 59 of 2014. Amended L.N. 105 of 2018)
