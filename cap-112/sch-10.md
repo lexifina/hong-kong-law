@@ -6,7 +6,21 @@
 
 - Part 1 Advance Rulings
 
-  - 1. On an application made by a person in accordance with this Part, the Commissioner may make a ruling on how any provision of this Ordinance, other than that relating to the imposition or remission of a penalty, the correctness of a return or other information supplied by any person, the prosecution of any person or the recovery of any debt owing by any person, applies to the applicant or to the arrangement described in the application, whether or not reference is made to that provision in the application.
+  - 1. Subject to section 1A and on an application made by a person in accordance with this Part, the Commissioner may make a ruling on how a provision of this Ordinance applies to the applicant or to the arrangement described in the application, whether or not reference is made to that provision in the application. (Replaced 27 of 2018 s. 24)
+
+  - 1A. A ruling is not to be made under section 1 on how a provision of this Ordinance applies if the provision relates to—
+
+    - (a) the imposition or remission of a penalty;
+
+    - (b) the correctness of a return or other information supplied by a person;
+
+    - (c) the prosecution of a person;
+
+    - (d) the recovery of a debt owing by a person; or
+
+    - (e) the computation of income or loss under section 50AAF or 50AAK.
+
+  - (Added 27 of 2018 s. 24)
 
   - 2. The Commissioner may decline to make a ruling if—
 
@@ -118,19 +132,21 @@
 
     - (a) application fee—
 
-    - (i) | for a ruling on whether profits are to be treated as chargeable to profits tax under section 14 of this Ordinance as arising in or derived from Hong Kong | $30,000
+    - (i) | for a ruling on whether profits are to be treated as chargeable to profits tax under section 14 of this Ordinance as arising in or derived from Hong Kong | $45,000
 
-    - (ii) | for a ruling on whether remuneration is to be treated as chargeable to salaries tax by virtue of section 9A of this Ordinance | $10,000
+    - (ii) | for a ruling on whether remuneration is to be treated as chargeable to salaries tax by virtue of section 9A of this Ordinance | $15,000
 
-    - (iii) | for any other ruling | $10,000
+    - (iii) | for any other ruling | $15,000
 
     - (b) where the time spent in consideration of the application, including any time spent in consulting with the applicant, exceeds the time specified in section 3 for the type of rulings to which the ruling belongs, an additional fee calculated on the basis of each hour or any part thereof spent by—
 
-    - (i) | a Deputy Commissioner | $1,330
+    - (i) | a Deputy Commissioner | $2,650
 
-    - (ii) | an Assistant Commissioner | $1,260
+    - (ii) | an Assistant Commissioner | $2,240
 
-    - (iii) | any other person appointed under this Ordinance | $1,000
+    - (iii) | any other person appointed under this Ordinance | $1,730
+
+  - (Amended 27 of 2018 s. 24)
 
   - 2.
 
