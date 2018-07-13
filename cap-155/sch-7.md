@@ -1,8 +1,10 @@
-# Schedule 7
+# Seventh Schedule
 
 [ss. 16(2) & (10), 17, 29(2) & 135(1) & 8th Sch.]
 
 Minimum Criteria for Authorization
+
+(Format changes—E.R. 2 of 2012)
 
 - 1.
 
@@ -66,9 +68,11 @@ Minimum Criteria for Authorization
 
   - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, the aggregate amount of its paid-up share capital and the balance of its share premium account (if any) is not less than $100,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
-  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization comply with the rules made under section 97C(1) applicable to it. (Amended L.N. 431 of 1997; 19 of 2005 s. 7; 3 of 2012 s. 18; 28 of 2012 ss. 912 & 920)
+  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization comply with the rules made under section 97C(1) applicable to it. (Amended L.N. 431 of 1997; 19 of 2005 s. 7; 3 of 2012 s. 18)
 
   - (e) (Repealed 19 of 2005 s. 7)
+
+- (Amended 28 of 2012 ss. 912 & 920)
 
 - 7. The Monetary Authority is satisfied that the company—
 
@@ -76,7 +80,7 @@ Minimum Criteria for Authorization
 
   - (b) without prejudice to the generality of subparagraph (a), if it is authorized, will on and after authorization comply with the rules made under section 97H(1) applicable to it. (Amended 3 of 2012 s. 18)
 
-- 8. The Monetary Authority is satisfied that the company, if it is authorized, will on and after authorization comply with the provisions of Part XV applicable to it.
+- 8. The Monetary Authority is satisfied that the company, if it is authorized, will on and after authorization comply with the provisions of Part XV, and the provisions of the rules made under that Part, applicable to it. (Amended 6 of 2018 s. 25)
 
 - 9. The Monetary Authority is satisfied that the company presently maintains, and will if it is authorized continue to maintain, adequate provision for depreciation or diminution in the value of its assets (including provision for bad and doubtful debts), for liabilities which will or may fall to be discharged by it and for losses which will or may occur.
 
@@ -108,8 +112,8 @@ Minimum Criteria for Authorization
 
   - (b) that place is, or is part of the territory of, a member of the World Trade Organization.
 
-- (Replaced L.N. 99 of 2012) (Seventh Schedule added 49 of 1995 s. 52) (Format changes—E.R. 2 of 2012)
+- (Replaced L.N. 99 of 2012) (Seventh Schedule added 49 of 1995 s. 52)
 
 Editorial Note:
 
-* For the transitional provision relating to the amendments made by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) , see section 2 of that Notice.
+* | For the transitional provision relating to the amendments made by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002), see section 2 of that Notice.
