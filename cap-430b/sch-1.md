@@ -14,6 +14,8 @@ SERVICES TO BE PROVIDED BY THE TRADING FUND
 
 - 4. Administering and enforcing the provisions of the Registered Trustees Incorporation Ordinance (Cap. 306), including maintaining the register of incorporated trustees.
 
+- 4A. Administering and enforcing the provisions of the Securities and Futures Ordinance (Cap. 571) relating to open-ended fund companies, including facilitating the incorporation of open-ended fund companies and maintaining a register of open-ended fund companies. (16 of 2016 s. 45)
+
 - 5. Making available, where the Registrar of Companies is so required or permitted by law, information registered or filed with the Registrar.
 
 - 6. Monitoring the adequacy of the regulatory framework embodied in any Ordinance referred to in this Schedule and in other Ordinances where the Registrar of Companies has been specified, and advising the Government on any need for change.

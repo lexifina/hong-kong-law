@@ -364,6 +364,8 @@ Regulated Activities
 
     - (xi) issues any advertisement, invitation or document the issue of which has been authorized by the Commission under section 105 of this Ordinance;
 
+    - (xia) being an open-ended fund company, issues any advertisement, invitation or document in respect of the shares in the company; (Added 16 of 2016 s. 21)
+
     - (xii) is a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) acting as an agent for a collective investment scheme which, by performing the act, is carrying out its functions of distributing application forms, redemption notices, conversion notices and contract notes, receiving money and issuing receipts on behalf of its principal;
 
     - (xiii) is licensed or registered for Type 4 or Type 6 regulated activity and, solely for the purposes of carrying on that regulated activity, he issues a document under section 175(1)(a)(i) or (ii) of this Ordinance, the content of which complies with the requirements of section 175(1)(b) and (c) of this Ordinance; (Amended L.N. 197 of 2005)

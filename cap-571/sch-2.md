@@ -326,9 +326,11 @@ Securities and Futures Commission
 
     - (73) to present a petition, under section 212 of this Ordinance;
 
-    - (74) to apply to the Court of First Instance, pursuant to section 213(1) of this Ordinance;
+    - (74) to apply to the Court of First Instance, pursuant to section 213(1) or (3A) of this Ordinance; (Amended 16 of 2016 s. 20)
 
     - (75) to apply to the Court of First Instance, under section 214(1) of this Ordinance;
+
+    - (75A) to apply to the Court of First Instance, under section 214A(1) of this Ordinance; (Added 16 of 2016 s. 20)
 
     - (76) to specify the time at which a specified decision is to take effect, under section 232(3) of this Ordinance;
 

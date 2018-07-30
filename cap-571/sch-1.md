@@ -554,6 +554,8 @@ Interpretation and General Provisions
 
     - number (數目), in relation to shares which in the context can be construed to include stock, includes amount;
 
+    - OFC rules (《開放式基金型公司規則》) has the meaning given by section 112A of this Ordinance; (Added 16 of 2016 s. 19)
+
     - officer (高級人員)—
 
       - (a) in relation to a corporation, means a director, manager or secretary of, or any other person involved in the management of, the corporation; or
@@ -563,6 +565,8 @@ Interpretation and General Provisions
     - Official Receiver (破產管理署署長) means the Official Receiver appointed under section 75 of the Bankruptcy Ordinance (Cap. 6);
 
     - Ombudsman (申訴專員) means The Ombudsman referred to in section 3(1) of The Ombudsman Ordinance (Cap. 397);
+
+    - open-ended fund company (開放式基金型公司) has the meaning given by section 112A of this Ordinance; (Added 16 of 2016 s. 19)
 
     - OTC derivative product (場外衍生工具產品) has the meaning given by section 1B; (Added 6 of 2014 s. 52)
 
@@ -825,6 +829,8 @@ Interpretation and General Provisions
         - (i) its constitution; or
 
         - (ii) the rules, regulations and directions, by whatever name they may be called and wherever contained, governing its management, operations or procedures, or its provision of services;
+
+    - scheme property (計劃財產) has the meaning given by section 112A of this Ordinance; (Added 16 of 2016 s. 19)
 
     - securities (證券) means—
 

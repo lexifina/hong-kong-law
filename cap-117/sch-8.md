@@ -1,6 +1,8 @@
 # Schedule 8
 
-[ss. 19 & 63 & 1st Sch.]
+[ss. 19 & 63 & 1st Sch. & Sch. 10]
+
+(Amended 16 of 2016 s. 32)
 
 Transactions and Transfers Relating to Exchange Traded Funds
 

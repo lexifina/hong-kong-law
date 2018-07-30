@@ -222,6 +222,38 @@ Securities and Futures Appeals Tribunal
 
 - 15. | Section 106(4) of this Ordinance | Imposition of any condition.
 
+- 15A. | Section 112D(1) of this Ordinance | Refusal to register a proposed company. (Added 16 of 2016 s. 22)
+
+- 15B. | Section 112D(6) of this Ordinance | Imposition of any condition. (Added 16 of 2016 s. 22)
+
+- 15C. | Section 112F of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 16 of 2016 s. 22)
+
+- 15D. | Section 112ZF(1) of this Ordinance | Direction to a person. (Added 16 of 2016 s. 22)
+
+- 15E. | Section 112ZF(3) of this Ordinance | Amendment of any direction. (Added 16 of 2016 s. 22)
+
+- 15F. | Section 112ZH(2) of this Ordinance | Refusal to cancel registration. (Added 16 of 2016 s. 22)
+
+- 15G. | Section 112ZH(3) of this Ordinance | Imposition of any condition. (Added 16 of 2016 s. 22)
+
+- 15H. | Section 112ZH(4) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 16 of 2016 s. 22)
+
+- 15I. | Section 112ZI(1) of this Ordinance | Cancellation of registration. (Added 16 of 2016 s. 22)
+
+- 15J. | Section 112ZI(2) of this Ordinance | Imposition of any condition. (Added 16 of 2016 s. 22)
+
+- 15K. | Section 112ZI(3) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 16 of 2016 s. 22)
+
+- 15L. | Section 112ZJ(3) of this Ordinance | Imposition of any condition. (Added 16 of 2016 s. 22)
+
+- 15M. | Section 112ZJ(6) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 16 of 2016 s. 22)
+
+- 15N. | Section 112ZO(6) of this Ordinance | Imposition of any condition. (Added 16 of 2016 s. 22)
+
+- 15O. | Section 112ZO(7) of this Ordinance | Amendment or revocation of a modification or waiver. (Added 16 of 2016 s. 22)
+
+- 15P. | Section 112ZO(8) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 16 of 2016 s. 22)
+
 - 16. | Section 116(1) of this Ordinance | Refusal to grant a licence.
 
 - 17. | Section 116(6) of this Ordinance | Imposition, amendment or revocation of any condition, or imposition of any new condition.
@@ -421,6 +453,14 @@ Securities and Futures Appeals Tribunal
 - 2A. | A specified decision set out in item 4E of Division 1 of Part 2. | Section 101J(7) of this Ordinance. (Added 6 of 2014 s. 54)
 
 - 2B. | A specified decision set out in item 4F of Division 1 of Part 2. | Section 101J(8) of this Ordinance. (Added 6 of 2014 s. 54)
+
+- 2A. | A specified decision set out in item 15D of Division 1 of Part 2. | Section 112ZF(4) of this Ordinance. (Added 16 of 2016 s. 22)
+
+- 2B. | A specified decision set out in item 15E of Division 1 of Part 2. | Section 112ZF(4) of this Ordinance. (Added 16 of 2016 s. 22)
+
+- 2C. | A specified decision set out in item 15L of Division 1 of Part 2. | Section 112ZJ(5) of this Ordinance. (Added 16 of 2016 s. 22)
+
+- 2D. | A specified decision set out in item 15M of Division 1 of Part 2. | Section 112ZJ(7) of this Ordinance. (Added 16 of 2016 s. 22)
 
 - 3. | A specified decision set out in item 17 of Division 1 of Part 2. | Section 116(7) of this Ordinance.
 
