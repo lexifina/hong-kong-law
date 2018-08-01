@@ -6,70 +6,50 @@ Toy Standards
 
 Standards
 
-- 1. International Standard The International Standard is established by the International Organization for Standardization and the International Electrotechnical Commission, and the requirements contained in the Standard are specified in—
+1. | International Standard The International Standard is established by the International Organization for Standardization and the International Electrotechnical Commission, and the requirements contained in the Standard are specified in—
 
-  - (a) ISO 8124-1:2014 “Safety of toys—Part 1: Safety aspects related to mechanical and physical properties”
+(a) | ISO 8124-1:2014 “Safety of toys—Part 1: Safety aspects related to mechanical and physical properties”
 
-  - (b) ISO 8124-2:2014 “Safety of toys—Part 2: Flammability”
+(b) | ISO 8124-2:2014 “Safety of toys—Part 2: Flammability”
 
-  - (c) ISO 8124-3:2010
+(c) | ISO 8124-3:2010 (incorporating Amendment 1:2014) “Safety of toys—Part 3: Migration of certain elements”
 
-  - (incorporating Amendment 1:2014) “Safety of toys—Part 3: Migration of certain elements”
+(ca) | ISO 8124-4:2014 “Safety of toys—Part 4: Swings, slides and similar activity toys for indoor and outdoor family domestic use” (Replaced L.N. 17 of 2015)
 
-  - (ca) ISO 8124-4:2014
+(cb) | ISO 8124-5:2015 “Safety of toys—Part 5: Determination of total concentration of certain elements in toys” (Added L.N. 7 of 2016)
 
-  - “Safety of toys—Part 4: Swings, slides and similar activity toys for indoor and outdoor family domestic use” (Replaced L.N. 17 of 2015)
+(cc) | ISO 8124-7:2015 “Safety of toys—Part 7: Requirements and test methods for finger paints” (Added L.N. 102 of 2017)
 
-  - (cb) ISO 8124-5:2015
+(d) | IEC 62115:2017 Edition 2.0 “Electric Toys—Safety” (Replaced 26 of 2012 s. 15)
 
-  - “Safety of toys—Part 5: Determination of total concentration of certain elements in toys” (Added L.N. 7 of 2016)
+2. | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
 
-  - (cc) ISO 8124-7:2015
+(a) | BS EN 71-1:2014 “Safety of toys—Part 1: Mechanical and physical properties”
 
-  - “Safety of toys—Part 7: Requirements and test methods for finger paints” (Added L.N. 102 of 2017)
+(b) | BS EN 71-2:2011 + A1:2014 “Safety of toys—Part 2: Flammability”
 
-  - (d) IEC 62115 Edition 1.2
+(c) | BS EN 71-3:2013 + A1:2014 “Safety of toys—Part 3: Migration of certain elements”
 
-  - (2011-02) [IEC 62115 Edition 1:2003 consolidated with amendment 1:2004 and amendment 2:2010] “Electric Toys—Safety” (Replaced 26 of 2012 s. 15)
+(d) | BS EN 71-4:2013 “Safety of toys—Part 4: Experimental sets for chemistry and related activities”
 
-- 2. European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
+(e) | BS EN 71-5:2015 “Safety of toys—Part 5: Chemical toys (sets) other than experimental sets”
 
-  - (a) BS EN 71-1:2014
+(f) | (Repealed L.N. 184 of 2011)
 
-  - “Safety of toys—Part 1: Mechanical and physical properties”
+(g) | BS EN 71-7:2014 “Safety of toys—Part 7: Finger paints—Requirements and test methods”
 
-  - (b) BS EN 71-2:2011 + A1:2014 “Safety of toys—Part 2: Flammability”
+(h) | BS EN 71-8:2011 “Safety of toys—Part 8: Activity toys for domestic use”
 
-  - (c) BS EN 71-3:2013 + A1:2014
+(ha) | BS EN 71-12:2016 “Safety of toys—Part 12: N-Nitrosamines and N-nitrosatable substances” (Added L.N. 17 of 2015)
 
-  - “Safety of toys—Part 3: Migration of certain elements”
+(hab) | BS EN 71-13:2014 “Safety of toys—Part 13: Olfactory board games, cosmetic kits and gustative games” (Added L.N. 102 of 2017)
 
-  - (d) BS EN 71-4:2013 “Safety of toys—Part 4: Experimental sets for chemistry and related activities”
+(hb) | BS EN 71-14:2014 “Safety of toys—Part 14: Trampolines for domestic use” (Added L.N. 7 of 2016)
 
-  - (e) BS EN 71-5:2015 “Safety of toys—Part 5: Chemical toys (sets) other than experimental sets”
+(i) | BS EN 62115:2005 + A12:2015 “Electric toys—Safety”
 
-  - (f) (Repealed L.N. 184 of 2011)
+3. | ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in—
 
-  - (g) BS EN 71-7:2014 “Safety of toys—Part 7: Finger paints—Requirements and test methods”
+ASTM F963-17 “Standard consumer safety specification for toy safety”
 
-  - (h) BS EN 71-8:2011 “Safety of toys—Part 8: Activity toys for domestic use”
-
-  - (ha) BS EN 71-12:2013
-
-  - “Safety of toys—Part 12: N-Nitrosamines and N-nitrosatable substances” (Added L.N. 17 of 2015)
-
-  - (hab) BS EN 71-13:2014
-
-  - “Safety of toys—Part 13: Olfactory board games, cosmetic kits and gustative games” (Added L.N. 102 of 2017)
-
-  - (hb) BS EN 71-14:2014
-
-  - “Safety of toys—Part 14: Trampolines for domestic use” (Added L.N. 7 of 2016)
-
-  - (i) BS EN 62115:2005 + A12:2015 “Electric toys—Safety”
-
-- 3. ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in—
-
-- ASTM F963-11 “Standard consumer safety specification for toy safety”
-
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017) (Format changes—E.R. 2 of 2012)
+(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018) (Format changes—E.R. 2 of 2012)
