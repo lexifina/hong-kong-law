@@ -344,4 +344,6 @@ Item | Periods | Rate of interest
 
 170. | On or after 7 December 2009 and before 4 January 2010 (L.N. 241 of 2009; L.N. 264 of 2009) | 0.0667% per annum
 
-171. | On or after 4 January 2010 (L.N. 264 of 2009) | 0.0433% per annum
+171. | On or after 4 January 2010 and before 6 August 2018 (L.N. 264 of 2009; L.N. 147 of 2018) | 0.0433% per annum
+
+172. | On or after 6 August 2018 (L.N. 147 of 2018) | 0.0767% per annum
