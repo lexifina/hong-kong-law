@@ -6,195 +6,213 @@ Designated No Smoking Areas and Exempt Areas
 
 - Part 1 Designated No Smoking Areas
 
-Item | Type of area
+- Item | Type of area
 
-1. | Any cinema, theatre or concert hall.
+- 1. | Any cinema, theatre or concert hall.
 
-2. | Any public lift.
+- 2. | Any public lift.
 
-3. | Any escalator.
+- 3. | Any escalator.
 
-4. | Any amusement game centre.
+- 4. | Any amusement game centre.
 
-5. | Any child care centre.
+- 5. | Any child care centre.
 
-6. | Any school.
+- 6. | Any school.
 
-7. | Any specified educational establishment.
+- 7. | Any specified educational establishment.
 
-8. | Any approved institution.
+- 8. | Any approved institution.
 
-9. | Any place of detention.
+- 9. | Any place of detention.
 
-10. | Any place of refuge.
+- 10. | Any place of refuge.
 
-11. | Any reformatory school.
+- 11. | Any reformatory school.
 
-12. | Any hospital.
+- 12. | Any hospital.
 
-13. | Any maternity home.
+- 13. | Any maternity home.
 
-14. | Any public pleasure ground other than a bathing beach.
+- 14. | Any public pleasure ground other than a bathing beach.
 
-15. | The following areas within any bathing beach—
+- 15. | The following areas within any bathing beach—
 
-(a) | any part of the waters set aside for the sole use of swimmers under section 10 of the Bathing Beaches Regulation (Cap. 132 sub. leg. E) (which includes any beach raft and any other thing on the surface of or above those waters);
+- (a) | any part of the waters set aside for the sole use of swimmers under section 10 of the Bathing Beaches Regulation (Cap. 132 sub. leg. E) (which includes any beach raft and any other thing on the surface of or above those waters);
 
-(b) | the shore covered with sand or stones, together with any structure, showering facilities or natural feature on such shore; and
+- (b) | the shore covered with sand or stones, together with any structure, showering facilities or natural feature on such shore; and
 
-(c) | any area specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a barbecue area, camp site or children’s play area.
+- (c) | any area specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a barbecue area, camp site or children’s play area.
 
-16. | The following areas within any public swimming pool—
+- 16. | The following areas within any public swimming pool—
 
-(a) | any swimming pool;
+- (a) | any swimming pool;
 
-(b) | any sidewalk immediately adjacent to the swimming pool;
+- (b) | any sidewalk immediately adjacent to the swimming pool;
 
-(c) | any diving board or other apparatus or facility adjoining the swimming pool; and
+- (c) | any diving board or other apparatus or facility adjoining the swimming pool; and
 
-(d) | any spectator stand.
+- (d) | any spectator stand.
 
-17. | The following areas within any stadium—
+- 17. | The following areas within any stadium—
 
-(a) | any pitch;
+- (a) | any pitch;
 
-(b) | any running track;
+- (b) | any running track;
 
-(c) | any sidewalk immediately adjacent to the pitch or running track; and
+- (c) | any sidewalk immediately adjacent to the pitch or running track; and
 
-(d) | any spectator stand.
+- (d) | any spectator stand.
 
-18. | The Hong Kong Wetland Park designated under section 24(1) of the Country Parks Ordinance (Cap. 208).
+- 18. | The Hong Kong Wetland Park designated under section 24(1) of the Country Parks Ordinance (Cap. 208).
 
-19. | An indoor area in—
+- 19. | An indoor area in—
 
-(a) | any shop, department store or shopping mall;
+- (a) | any shop, department store or shopping mall;
 
-(b) | any market (whether publicly or privately operated or managed);
+- (b) | any market (whether publicly or privately operated or managed);
 
-(c) | any supermarket;
+- (c) | any supermarket;
 
-(d) | any bank;
+- (d) | any bank;
 
-(e) | any restaurant premises;
+- (e) | any restaurant premises;
 
-(f) | any bar;
+- (f) | any bar;
 
-(g) | any karaoke establishment;
+- (g) | any karaoke establishment;
 
-(h) | any mahjong-tin kau premises;
+- (h) | any mahjong-tin kau premises;
 
-(i) | any bathhouse;
+- (i) | any bathhouse;
 
-(j) | any massage establishment;
+- (j) | any massage establishment;
 
-(k) | any residential care home;
+- (k) | any residential care home;
 
-(l) | any treatment centre; or
+- (l) | any treatment centre; or
 
-(m) | any communal quarters (as defined in Part 3).
+- (m) | any communal quarters (as defined in Part 3).
 
-20. | An indoor area in a workplace or public place to the extent that it is not an area described in any other item in this Part.
+- 20. | An indoor area in a workplace or public place to the extent that it is not an area described in any other item in this Part.
 
-21. | The following bus interchanges and adjoining facilities—
+- 21. | The following bus interchanges and adjoining facilities—
 
-(a) | Lion Rock Tunnel Bus Interchange, located on both sides of the toll plaza of the Lion Rock Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-004V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- (a) | Lion Rock Tunnel Bus Interchange, located on both sides of the toll plaza of the Lion Rock Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-004V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-(b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
+- (b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
 
-(i) | coloured orange and edged red;
+- (i) | coloured orange and edged red;
 
-(ii) | coloured yellow and edged red;
+- (ii) | coloured yellow and edged red;
 
-(iii) | coloured orange stippled black and edged red; and
+- (iii) | coloured orange stippled black and edged red; and
 
-(iv) | coloured orange hatched black and edged red,
+- (iv) | coloured orange hatched black and edged red,
 
-on Plan No. DH/TCO/T-001V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- on Plan No. DH/TCO/T-001V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-(c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- (c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-(d) | Shing Mun Tunnels Bus Interchange, located on both sides of the toll plaza of the Shing Mun Tunnels, as shown coloured orange and edged red on Plan No. DH/TCO/T-006V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- (d) | Shing Mun Tunnels Bus Interchange, located on both sides of the toll plaza of the Shing Mun Tunnels, as shown coloured orange and edged red on Plan No. DH/TCO/T-006V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-(e) | Tate’s Cairn Tunnel Bus Interchange, located on both sides of the toll plaza of the Tate’s Cairn Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-005V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- (e) | Tate’s Cairn Tunnel Bus Interchange, located on both sides of the toll plaza of the Tate’s Cairn Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-005V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-(f) | Western Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Western Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-003V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- (f) | Western Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Western Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-003V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-(g) | Tai Lam Tunnel Bus Interchange, located on both sides of the toll plaza of the Tai Lam Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-007V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; and
+- (g) | Tai Lam Tunnel Bus Interchange, located on both sides of the toll plaza of the Tai Lam Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-007V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; (Amended L.N. 81 of 2018)
 
-(h) | Tsing Sha Highway Bus Interchange, located on both sides of the toll plaza on Tsing Sha Highway, as shown coloured orange and edged red on Plan No. DH/TCO/T-008V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry. (Added L.N. 237 of 2015)
+- (h) | Tsing Sha Highway Bus Interchange, located on both sides of the toll plaza on Tsing Sha Highway, as shown coloured orange and edged red on Plan No. DH/TCO/T-008V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; (Added L.N. 237 of 2015. Amended L.N. 81 of 2018)
+
+- (i) | Tuen Mun Road Bus Interchange (Kowloon Bound), located at Tuen Mun Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-003V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
+
+- (j) | Tuen Mun Road Bus Interchange (Tuen Mun Bound), located at Tuen Mun Road, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
+
+- (i) | coloured orange and edged red;
+
+- (ii) | coloured yellow and edged red;
+
+- (iii) | coloured orange stippled black and edged red; and
+
+- (iv) | coloured orange hatched black and edged red,
+
+- on Plan No. DH/TCO/E-004V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
+
+- (k) | Lantau Toll Plaza Bus Interchange, located on both sides of the toll plaza on North Lantau Highway, as shown coloured orange and edged red on Plan No. DH/TCO/E-002V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; and (Added L.N. 81 of 2018)
+
+- (l) | Aberdeen Tunnel Bus Interchange, on both sides of the unnamed road near the junction of Nam Fung Road with Wong Chuk Hang Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-001V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry. (Added L.N. 81 of 2018)
 
 - Part 2 Exempt Areas
 
-Item | Type of area
+- Item | Type of area
 
-1. | An area described in item 20 of Part 1 that is situated in domestic premises.
+- 1. | An area described in item 20 of Part 1 that is situated in domestic premises.
 
-2. | Type 1 private quarters (as defined in Part 3).
+- 2. | Type 1 private quarters (as defined in Part 3).
 
-3. | Type 2 private quarters (as defined in Part 3) that are not situated within any of the following—
+- 3. | Type 2 private quarters (as defined in Part 3) that are not situated within any of the following—
 
-(a) | a child care centre;
+- (a) | a child care centre;
 
-(b) | a school;
+- (b) | a school;
 
-(c) | a specified educational establishment;
+- (c) | a specified educational establishment;
 
-(d) | an approved institution;
+- (d) | an approved institution;
 
-(e) | a place of detention;
+- (e) | a place of detention;
 
-(f) | a place of refuge;
+- (f) | a place of refuge;
 
-(g) | a reformatory school;
+- (g) | a reformatory school;
 
-(h) | a hospital;
+- (h) | a hospital;
 
-(i) | a maternity home.
+- (i) | a maternity home.
 
-4. | A bedspace apartment in respect of which a licence or certificate of exemption issued under the Bedspace Apartments Ordinance (Cap. 447) is in force.
+- 4. | A bedspace apartment in respect of which a licence or certificate of exemption issued under the Bedspace Apartments Ordinance (Cap. 447) is in force.
 
-5. | A room or suite of rooms in a hotel or guesthouse if—
+- 5. | A room or suite of rooms in a hotel or guesthouse if—
 
-(a) | a licence or certificate of exemption issued under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349) is in force in respect of the hotel or guesthouse; and
+- (a) | a licence or certificate of exemption issued under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349) is in force in respect of the hotel or guesthouse; and
 
-(b) | the room or suite of rooms is being hired for use as sleeping accommodation.
+- (b) | the room or suite of rooms is being hired for use as sleeping accommodation.
 
-6. | An area designated by the Airport Authority as a smoking area as referred to in section 16 of the Airport Authority Bylaw (Cap. 483 sub. leg. A).
+- 6. | An area designated by the Airport Authority as a smoking area as referred to in section 16 of the Airport Authority Bylaw (Cap. 483 sub. leg. A).
 
-7. | An area in a correctional facility that is set aside for smoking by prisoners who are allowed to do so in accordance with orders under rule 25 of the Prison Rules (Cap. 234 sub. leg. A).
+- 7. | An area in a correctional facility that is set aside for smoking by prisoners who are allowed to do so in accordance with orders under rule 25 of the Prison Rules (Cap. 234 sub. leg. A).
 
-8. | An area that is—
+- 8. | An area that is—
 
-(a) | situated within a public pleasure ground other than a bathing beach; and
+- (a) | situated within a public pleasure ground other than a bathing beach; and
 
-(b) | specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a smoking area.
+- (b) | specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a smoking area.
 
-9. | A room designated for cigar tasting in a shop if all the following requirements are complied with—
+- 9. | A room designated for cigar tasting in a shop if all the following requirements are complied with—
 
-(a) | the shop is engaged in the retail sale of cigars;
+- (a) | the shop is engaged in the retail sale of cigars;
 
-(b) | nothing except cigars and cigar accessories are offered for sale in the shop;
+- (b) | nothing except cigars and cigar accessories are offered for sale in the shop;
 
-(c) | the room is not used for smoking except for the purpose of tasting the cigars, or samples of the cigars, that are sold or offered for sale in the shop;
+- (c) | the room is not used for smoking except for the purpose of tasting the cigars, or samples of the cigars, that are sold or offered for sale in the shop;
 
-(d) | the room is independently ventilated and completely partitioned off from the remainder of the shop; and
+- (d) | the room is independently ventilated and completely partitioned off from the remainder of the shop; and
 
-(e) | no natural person is required to enter the room while it is being occupied for cigar tasting (whether or not he could have been required to do so by contract or otherwise).
+- (e) | no natural person is required to enter the room while it is being occupied for cigar tasting (whether or not he could have been required to do so by contract or otherwise).
 
-10. | A room designated for tobacco tasting in the manufacturing or business premises of a business engaged in the tobacco trade if all the following requirements are complied with—
+- 10. | A room designated for tobacco tasting in the manufacturing or business premises of a business engaged in the tobacco trade if all the following requirements are complied with—
 
-(a) | the business is not engaged in the retail sale of tobacco products;
+- (a) | the business is not engaged in the retail sale of tobacco products;
 
-(b) | the tobacco tasting is carried out for the purpose of conducting research and development or quality control of tobacco products in the normal course of the business;
+- (b) | the tobacco tasting is carried out for the purpose of conducting research and development or quality control of tobacco products in the normal course of the business;
 
-(c) | the room is only used for carrying out the tobacco tasting;
+- (c) | the room is only used for carrying out the tobacco tasting;
 
-(d) | the room is independently ventilated and completely partitioned off from the remainder of the premises; and
+- (d) | the room is independently ventilated and completely partitioned off from the remainder of the premises; and
 
-(e) | no natural person, other than one who carries out the tobacco tasting, is required to enter the room while it is being occupied for the tobacco tasting (whether or not he could have been required to do so by contract or otherwise).
+- (e) | no natural person, other than one who carries out the tobacco tasting, is required to enter the room while it is being occupied for the tobacco tasting (whether or not he could have been required to do so by contract or otherwise).
 
-11. | An area set aside by the Director of Immigration under rule 11A of Schedule 1 to the Immigration (Treatment of Detainees) Order (Cap. 115 sub. leg. E) in a place specified in Schedule 2 to that Order for smoking by persons detained there. (Added L.N. 16 of 2010)
+- 11. | An area set aside by the Director of Immigration under rule 11A of Schedule 1 to the Immigration (Treatment of Detainees) Order (Cap. 115 sub. leg. E) in a place specified in Schedule 2 to that Order for smoking by persons detained there. (Added L.N. 16 of 2010)
 
 - Part 3 Interpretation In this Schedule—
 
