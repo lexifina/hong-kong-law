@@ -31,3 +31,5 @@
 - 14. The area within the Clearance Area of the Shenzhen Bay Port Hong Kong Port Area that is set aside as detention quarters for use by the Immigration Department. (L.N. 73 of 2007)
 
 - 15. The area within the Kai Tak Cruise Terminal that is set aside as detention quarters for use by the Immigration Department. (19 of 2016 s. 28)
+
+- 17. The area within the West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) that is set aside as detention quarters for use by the Immigration Department. (L.N. 110 of 2018)
