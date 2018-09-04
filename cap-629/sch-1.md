@@ -29,3 +29,5 @@ Specified Control Points
 12. | Kai Tak Cruise Terminal
 
 13. | Ocean Terminal (Added L.N. 53 of 2018)
+
+14. | West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) (Added L.N. 111 of 2018)
