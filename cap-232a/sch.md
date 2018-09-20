@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 30]
 
-POWERS OF PUNISHMENT
+Powers of Punishment
 
 Appropriate Tribunal or Authority (1) | Punishment that may be imposed upon
 

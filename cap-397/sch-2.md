@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 8]
 
-ACTIONS NOT SUBJECT TO INVESTIGATION
+Actions Not Subject to Investigation
+
+(Format changes—E.R. 4 of 2018)
 
 - 1. Any action taken in matters certified by the Chief Executive as affecting security, defence or international relations (including relations with any international organization) in respect of Hong Kong. (Amended 25 of 1998 s. 2)
 

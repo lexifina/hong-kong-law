@@ -1,14 +1,12 @@
-# SCHEDULE 1A
+# Schedule 1A
 
 [ss. 3(7), 18(a) & 24]
 
-FINANCES, ETC. OF OMBUDSMAN
+Finances, etc. of Ombudsman
 
-- 1.
+(Format changes—E.R. 4 of 2018)
 
-- Resources of Ombudsman
-
-- The resources of the Ombudsman shall consist of—
+- 1. Resources of Ombudsman The resources of the Ombudsman shall consist of—
 
   - (a) all money appropriated by the Legislative Council under section 6(3) of this Ordinance;
 

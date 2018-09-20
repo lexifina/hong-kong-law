@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [rule 2]
 
-FEES
+Fees
 
 Item | Particular | Fee $
 

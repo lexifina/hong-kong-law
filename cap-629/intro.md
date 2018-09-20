@@ -2,4 +2,4 @@ An Ordinance to establish a declaration and disclosure system to detect the cros
 
 [16 July 2018] L.N. 54 of 2018
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 4 of 2018)

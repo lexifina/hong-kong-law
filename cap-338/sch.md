@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 5]
 
-JURISDICTION OF TRIBUNAL
+Jurisdiction of Tribunal
 
 - 1. Any monetary claim founded in contract, quasi-contract or tort where the amount claimed is not more than $50,000, whether on balance of account or otherwise: (Amended L.N. 81 of 1982; 14 of 1986 s. 11; 49 of 1988 s. 2; 28 of 1999 s. 17)
 
@@ -34,4 +34,4 @@ JURISDICTION OF TRIBUNAL
 
   - (b) the amount claimed does not exceed $50,000. (Amended L.N. 81 of 1982; 14 of 1986 s. 11; 49 of 1988 s. 2; 28 of 1999 s. 17)
 
-  - For the purposes of this paragraph, “penalty” (罰金) shall not include a fine imposed on the conviction of any person for an offence.
+- For the purposes of this paragraph, penalty (罰金) shall not include a fine imposed on the conviction of any person for an offence.
