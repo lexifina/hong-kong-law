@@ -20,4 +20,10 @@
 
 - 4. New Territories East Psychiatric Observation Unit All those parts of the Tai Po Hospital, Chuen On Road, Tai Po known as Wards 2AR, 2AL, 2BR, 2BL, 2CR, 2CL, 2DR and 2DL on the second floor of the Main Block and collectively known as the New Territories East Psychiatric Observation Unit. (L.N. 169 of 2000)
 
-- 5. Kowloon Psychiatric Observation Unit All those parts of the Kowloon Hospital, 147A Argyle Street, Kowloon known as Wards 9D and 9E (on the ninth floor of the Main Building) and Wards 10D and 10E (on the tenth floor of that building) and collectively known as the Kowloon Psychiatric Observation Unit. (L.N. 61 of 2006)
+- 5. Kowloon Psychiatric Observation Unit The following parts of the Kowloon Hospital, 147A Argyle Street, Kowloon (collectively known as the Kowloon Psychiatric Observation Unit)—
+
+  - (a) Ward 8D on the eighth floor of the Main Building;
+
+  - (b) Wards 9D and 9E on the ninth floor of the Main Building;
+
+  - (c) Wards 10D and 10E on the tenth floor of the Main Building. (L.N. 100 of 2018)
