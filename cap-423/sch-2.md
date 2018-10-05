@@ -190,7 +190,7 @@ Item | Body
 
 94. | (Repealed L.N. 21 of 2017)
 
-95. | Leo Hair & Beauty Training Centre (Added L.N. 75 of 2010)
+95. | (Repealed L.N. 170 of 2018)
 
 96. | (Repealed L.N. 49 of 2012)
 
@@ -200,17 +200,11 @@ Item | Body
 
 99. | (Repealed L.N. 142 of 2014)
 
-100. | Electronic Communication Technical Staff Union (Added L.N. 75 of 2010)
-
-101. | Fire and Security Engineering Employees Association (Added L.N. 75 of 2010)
-
-102. | Union of Hong Kong Electrical and Mechanical Engineering Assistants (Added L.N. 75 of 2010)
+100-102. | (Repealed L.N. 170 of 2018)
 
 103. | Hong Kong Electrical & Mechanical College (Evening School) (Added L.N. 75 of 2010)
 
-104. | The Federation of Hong Kong Electrical & Mechanical Industries Trade Unions (Added L.N. 75 of 2010)
-
-105. | Hong Kong Air-conditioning and Refrigerating Trades Workers General Union (Added L.N. 75 of 2010)
+104-105. | (Repealed L.N. 170 of 2018)
 
 106. | (Repealed L.N. 142 of 2014)
 
@@ -284,9 +278,9 @@ Item | Body
 
 148. | (Repealed L.N. 78 of 2017)
 
-149. | Logistics Cargo Supervisors Association (Added L.N. 173 of 2010)
+149. | Logistics Practitioners Union (Added L.N. 173 of 2010. Amended L.N. 170 of 2018)
 
-150. | Kwan Sang Catering Professional Employees Association (Added L.N. 59 of 2011)
+150. | (Repealed L.N. 170 of 2018)
 
 151. | (Repealed L.N. 1 of 2016)
 
