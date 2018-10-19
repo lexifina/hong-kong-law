@@ -524,6 +524,8 @@ Poisons List
 
     - Brinzolamide; its salts
 
+    - Brivaracetam; its salts
+
     - Bromocriptine; its salts
 
     - Bromvaletone
@@ -689,6 +691,8 @@ Poisons List
     - Cisplatin
 
     - Citalopram; its salts
+
+    - Citicoline; its salts; when contained in pharmaceutical products intended to be used for the treatment of cognitive and neurological disorders associated with cerebrovascular disease or brain injury, or both
 
     - Cladribine
 
@@ -1012,6 +1016,8 @@ Poisons List
 
     - Duloxetine; its salts
 
+    - Durvalumab
+
     - Dutasteride
 
     - Dyflos
@@ -1045,6 +1051,8 @@ Poisons List
     - Elvitegravir; its salts
 
     - Embutramide
+
+    - Emicizumab
 
     - Empagliflozin; its salts
 
@@ -1332,6 +1340,8 @@ Poisons List
 
     - Polymethylene diguanidines; di-para-anisyl-para-phenethylguanidine; their salts
 
+    - Guselkumab
+
     - Halofantrine; its salts
 
     - Halofuginone; its salts
@@ -1423,6 +1433,8 @@ Poisons List
     - Inosine
 
     - Inosine pranobex
+
+    - Inotuzumab ozogamicin
 
     - Insulin
 
@@ -1688,6 +1700,8 @@ Poisons List
 
     - Methoxsalen
 
+    - Methoxyflurane
+
     - Methoxyphenamine; its salts
 
     - Methylaminoheptane; its salts
@@ -1879,6 +1893,8 @@ Poisons List
     - Nimodipine
 
     - Nintedanib; its salts
+
+    - Niraparib; its salts
 
     - Nisoldipine
 
@@ -2127,6 +2143,8 @@ Poisons List
     - Choline
 
     - Cimetidine
+
+    - Citicoline
 
     - Deoxycholic acid
 
@@ -2978,6 +2996,8 @@ Poisons List
 
     - Vortioxetine; its salts
 
+    - Voxilaprevir; its salts
+
     - Warfarin; its salts
 
     - Xamoterol; its salts
@@ -3016,7 +3036,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018)
 
     - Division B
 
