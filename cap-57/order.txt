@@ -120,8 +120,13 @@ s-032K.md
 s-032L.md
 s-032M.md
 s-032N.md
+s-032NA.md
+s-032NB.md
 s-032O.md
 s-032P.md
+s-032PA.md
+s-032PB.md
+s-032PC.md
 s-032Q.md
 s-032.md
 s-033.md
@@ -212,6 +217,7 @@ s-073.md
 s-074.md
 s-075.md
 s-076.md
+s-077.md
 sch-1.md
 sch-2.md
 sch-3.md
