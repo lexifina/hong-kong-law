@@ -4,21 +4,23 @@
 
 Permitted Areas for New Territories and Lantau Taxis
 
+(Format changes—E.R. 2 of 2012)
+
 - 1. Permitted area for taxis licensed to be available for hire or to carry passengers within the New Territories—
 
-  - (a) The following roads in the Kwun Tong District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+  - (a) The following roads in the Kwun Tong District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
     - (i) New Clear Water Bay Road from the boundary of the Kwun Tong District to Shun Ching Street;
 
     - (ii) Shun Lee Tsuen Road between Shun Ching Street and Shun King Street;
 
-    - (iii) Shun King Street; and
+    - (iii) Shun King Street; and (L.N. 58 of 2005)
 
     - (iv) Lee On Road between Shun King Street and New Clear Water Bay Road.
 
-  - (b) The following roads in the North District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— All roads.
+  - (b) The following roads in the North District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005) All roads.
 
-  - (c) The following roads in the Sai Kung District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+  - (c) The following roads in the Sai Kung District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
     - (i) all roads outside Tseung Kwan O New Town, but excluding—
 
@@ -52,9 +54,9 @@ Permitted Areas for New Territories and Lantau Taxis
 
       - (J) Ming Shing Street; and
 
-      - (K) Clear Water Bay Road.
+      - (K) Clear Water Bay Road. (L.N. 58 of 2005)
 
-  - (d) The following roads in the Sha Tin District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+  - (d) The following roads in the Sha Tin District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
     - (i) Tai Po Road and local access roads leading therefrom north of its junction with Sha Tin Road but excluding Kau To Shan Road and the 2 slip roads joining Tai Po Road and Yuen Wo Road;
 
@@ -84,13 +86,13 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (xiv) the 2 slip roads joining Tate’s Cairn Highway and Ma on Shan Road;
 
-    - (xv) the 2 slip roads joining Sha Tin Wai Road and Tate’s Cairn Highway to the north of Siu Lek Yuen Road; and
+    - (xv) the 2 slip roads joining Sha Tin Wai Road and Tate’s Cairn Highway to the north of Siu Lek Yuen Road; and (L.N. 58 of 2005)
 
     - (xvi) Tate’s Cairn Highway between Tolo Highway and the 2 slip roads mentioned in sub-subparagraph (xv).
 
-  - (e) The following roads in the Tai Po District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— All roads.
+  - (e) The following roads in the Tai Po District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005) All roads.
 
-  - (f) The following roads in the Tsuen Wan District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+  - (f) The following roads in the Tsuen Wan District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
     - (i) Castle Peak Road between Tuen Mun and the Lido Car Park underneath Ting Kau Bridge and local access roads leading from that section of Castle Peak Road;
 
@@ -130,9 +132,9 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (xix) North Lantau Highway;
 
-    - (xx) Ting Kau Bridge;
+    - (xx) Ting Kau Bridge; (L.N. 58 of 2005)
 
-    - (xxi) Tai Lam Tunnel;
+    - (xxi) Tai Lam Tunnel; (L.N. 58 of 2005)
 
     - (xxii) Penny’s Bay Highway; (L.N. 58 of 2005)
 
@@ -148,11 +150,11 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (xxviii) Long Yan Road. (L.N. 58 of 2005)
 
-  - (g) The following roads in the Tuen Mun District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— All roads.
+  - (g) The following roads in the Tuen Mun District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005) All roads.
 
-  - (h) The following roads in the Yuen Long District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— All roads.
+  - (h) The following roads in the Yuen Long District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005) All roads.
 
-  - (i) The following roads in the Islands District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+  - (i) The following roads in the Islands District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
     - (i) North Lantau Highway;
 
@@ -166,9 +168,9 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (vi) (Repealed L.N. 52 of 2006)
 
-    - (vii) Airport South Interchange;
+    - (vii) Airport South Interchange; (L.N. 58 of 2005)
 
-    - (viii) Airport North Interchange;
+    - (viii) Airport North Interchange; (L.N. 58 of 2005)
 
     - (ix) Magic Road; (L.N. 58 of 2005; L.N. 52 of 2006)
 
@@ -208,9 +210,9 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (xxv) the slip road of Cheong Lin Road leading to Cheong Hong Road from the roundabout joining Cheong Lin Road and Cheong Shun Road; and (L.N. 62 of 2017)
 
-    - (xxvi) (Addition not yet in operation—see L.N. 62 of 2017)
+    - (xxvi) Shun Long Road. (L.N. 62 of 2017)
 
-  - (j) The following roads in the Kwai Tsing District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+  - (j) The following roads in the Kwai Tsing District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
     - (i) Texaco Road;
 
@@ -232,15 +234,13 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (x) Lantau Link;
 
-    - (xi) Ting Kau Bridge;
+    - (xi) Ting Kau Bridge; (L.N. 58 of 2005)
 
-    - (xii) Tsing King Road between Tam Kon Shan Interchange and Tsing Yi Station of the Airport Railway; and
+    - (xii) Tsing King Road between Tam Kon Shan Interchange and Tsing Yi Station of the Airport Railway; and (L.N. 58 of 2005)
 
     - (xiii) Tsing Yi North Coastal Road. (L.N. 58 of 2005)
 
   - (k) All roads in the Shenzhen Bay Port Hong Kong Port Area. (L.N. 68 of 2007)
-
-- (L.N. 58 of 2005)
 
 - 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau—
 
@@ -248,4 +248,4 @@ Permitted Areas for New Territories and Lantau Taxis
 
   - (b) All roads in Chek Lap Kok. (L.N. 62 of 2017)
 
-(L.N. 65 of 1998) (Format changes—E.R. 2 of 2012)
+(L.N. 65 of 1998)
