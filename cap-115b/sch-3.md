@@ -44,4 +44,6 @@
 
 - 29. The area within the Kai Tak Cruise Terminal that is set aside as detention quarters for use by the Immigration Department. (19 of 2016 s. 28)
 
+- 30. The area within the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port that is set aside as detention quarters for use by the Immigration Department. (L.N. 153 of 2017)
+
 - 31. The area within the West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) that is set aside as detention quarters for use by the Immigration Department. (L.N. 109 of 2018)
