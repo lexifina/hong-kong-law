@@ -58,6 +58,8 @@ Poisons List
 
     - Acebutolol; its salts
 
+    - Aceclofenac; its salts
+
     - Acemetacin; its salts
 
     - Acetanilide; alkyl acetanilides
@@ -197,6 +199,8 @@ Poisons List
     - Vinca, alkaloids of
 
     - Yohimba, alkaloids of
+
+    - Allergen extract of Dermatophagoides farinae
 
     - Allergen extract of Dermatophagoides pteronyssinus
 
@@ -404,6 +408,8 @@ Poisons List
 
     - Avanafil; its salts
 
+    - Avelumab
+
     - Axitinib; its salts
 
     - Azacitidine; its salts
@@ -444,6 +450,8 @@ Poisons List
 
     - Benoxaprofen; its salts
 
+    - Benralizumab
+
     - Benserazide; its salts
 
     - Benzbromarone
@@ -475,6 +483,8 @@ Poisons List
     - Bezitramide; its salts
 
     - Bicalutamide; its salts
+
+    - Bictegravir; its salts
 
     - Bifonazole; its salts
 
@@ -525,6 +535,8 @@ Poisons List
     - Brinzolamide; its salts
 
     - Brivaracetam; its salts
+
+    - Brodalumab
 
     - Bromocriptine; its salts
 
@@ -1015,6 +1027,8 @@ Poisons List
     - Dulaglutide
 
     - Duloxetine; its salts
+
+    - Dupilumab
 
     - Durvalumab
 
@@ -1556,6 +1570,8 @@ Poisons List
 
     - Linezolid; its salts
 
+    - Lipegfilgrastim
+
     - Liraglutide
 
     - Lisinopril; its salts
@@ -1935,6 +1951,8 @@ Poisons List
     - Olanzapine; its salts
 
     - Olaparib; its salts
+
+    - Olaratumab
 
     - Olmesartan; its salts; its esters; their salts
 
@@ -2346,6 +2364,8 @@ Poisons List
 
     - Piminodine; its salts
 
+    - Pimobendan; its salts
+
     - Pioglitazone; its salts
 
     - Pipecuronium; its salts
@@ -2376,7 +2396,11 @@ Poisons List
 
     - Pomalidomide; its salts
 
+    - Ponatinib; its salts
+
     - Poractant alfa
+
+    - Porfimer; its salts
 
     - Posaconazole; its salts; its esters; their salts
 
@@ -3036,7 +3060,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018)
 
     - Division B
 
