@@ -24,7 +24,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - II.
 
-    - “Appropriate and acceptable destination” (適當和可接受的目的地) Where the term “appropriate and acceptable destination” appears in an annotation to the listing of a species in Appendix II with reference to the export of or international trade in live animals, this term shall be defined to mean a destination where the relevant authority of the place of import is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for it.
+    - “Appropriate and acceptable destination” (適當和可接受的目的地) Where the term “appropriate and acceptable destination” appears in an annotation to the listing of a species in Appendix II with reference to the export of or international trade in live animals, this term shall be defined to mean a destination where the relevant authority of the place of import is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for it and the relevant authorities of the place of import and the place of export are satisfied that the trade would promote in situ conservation. (Amended L.N. 114 of 2018)
 
   - III.
 

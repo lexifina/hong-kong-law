@@ -48,7 +48,7 @@ SCHEDULED SPECIES
 
   - #4 Designates all parts and derivatives, except —
 
-    - (a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Neodypsis decaryi exported from Madagascar; (Replaced L.N. 36 of 2011)
+    - (a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Dypsis decaryi exported from Madagascar; (Replaced L.N. 36 of 2011. Amended L.N. 114 of 2018)
 
     - (b) seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; (Amended L.N. 36 of 2011; L.N. 98 of 2014)
 
@@ -72,7 +72,7 @@ SCHEDULED SPECIES
 
   - #10 Designates logs, sawn wood and veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
 
-  - #11 Designates logs, sawn wood, veneer sheets, plywood, powder and extracts.
+  - #11 Designates logs, sawn wood, veneer sheets, plywood, powder and extracts. Finished products containing those extracts as ingredients, including fragrances, are not covered by this annotation. (Amended L.N. 114 of 2018)
 
   - #12 Designates logs, sawn wood, veneer sheets, plywood and extracts. Finished products containing those extracts as ingredients, including fragrances, are not covered by this annotation. (Added L.N. 36 of 2011. Amended L.N. 98 of 2014)
 
@@ -90,7 +90,21 @@ SCHEDULED SPECIES
 
     - (e) exhausted agarwood powder, including compressed powder in all shapes; and
 
-    - (f) finished products packaged and ready for retail trade (excluding beads, prayer beads and carvings). (Added L.N. 98 of 2014)
+    - (f) finished products packaged and ready for retail trade (excluding woodchips, beads, prayer beads and carvings). (Added L.N. 98 of 2014. Amended L.N. 114 of 2018)
+
+  - #15 Designates—
+
+    - (a) for any species other than one referred to in paragraph (b) or (c)—all parts and derivatives, except—
+
+      - (i) leaves, flowers, pollen, fruits and seeds; and
+
+      - (ii) export for non-commercial purposes of a maximum total weight of 10 kg per shipment;
+
+    - (b) for Dalbergia cochinchinensis—parts and derivatives covered by annotation #4; or
+
+    - (c) for Dalbergia spp. originating and exported from Mexico—parts and derivatives covered by annotation #6. (Added L.N. 114 of 2018)
+
+  - #16 Designates seeds, fruits, oil and live plants. (Added L.N. 114 of 2018)
 
   - 8. For the purposes of section 7 of this Part —
 
@@ -138,19 +152,17 @@ SCHEDULED SPECIES
 
 - Antilope cervicapra <Blackbuck> (Nepal, Pakistan)
 
-- Bison bison athabascae <Wood bison>
-
 - Appendix I | Appendix II | Appendix III
 
-- Bos gaurus <Gaur, saladang> (Excludes the domesticated form, which is referenced as Bos frontalis, and is not subject to the provisions of this Ordinance)
+- Bos gaurus <Gaur, saladang> (Excludes the domesticated form, which is referenced as Bos frontalis and is not subject to the provisions of this Ordinance)
 
-- Bos mutus <Wild yak> (Excludes the domesticated form, which is referenced as Bos grunniens, and is not subject to the provisions of this Ordinance)
+- Bos mutus <Wild yak> (Excludes the domesticated form, which is referenced as Bos grunniens and is not subject to the provisions of this Ordinance)
 
 - Bos sauveli <Kouprey>
 
-- Boselaphus tragocamelus (Pakistan)
+- Boselaphus tragocamelus <Nilgai> (Pakistan)
 
-- Bubalus arnee <Wild Asiatic buffalo> (Nepal) (Excludes the domesticated form, which is referenced as Bubalus bubalis)
+- Bubalus arnee <Wild Asiatic buffalo> (Nepal) (Excludes the domesticated form, which is referenced as Bubalus bubalis and is not subject to the provisions of this Ordinance)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -162,11 +174,13 @@ SCHEDULED SPECIES
 
 - Budorcas taxicolor <Takin>
 
+- Capra caucasica <Western tur>
+
 - Capra falconeri <Markhor>
 
-- Capra hircus aegagrus (Pakistan)
+- Capra hircus aegagrus <Wild goat> (Pakistan) (Specimens of the domesticated form are not subject to the provisions of this Ordinance)
 
-- Capra sibirica (Pakistan)
+- Capra sibirica <Siberian ibex> (Pakistan)
 
 - Capricornis milneedwardsii <Chinese serow>
 
@@ -178,7 +192,7 @@ SCHEDULED SPECIES
 
 - Capricornis thar <Himalayan serow>
 
-- Cephalophus brookei
+- Cephalophus brookei <Brooke’s duiker>
 
 - Cephalophus dorsalis <Bay duiker>
 
@@ -192,7 +206,7 @@ SCHEDULED SPECIES
 
 - Damaliscus pygargus pygargus <Bontebok>
 
-- Gazella bennettii (Pakistan)
+- Gazella bennettii <Indian gazelle> (Pakistan)
 
 - Gazella cuvieri <Cuvier’s gazelle, edmi gazelle>
 
@@ -228,21 +242,21 @@ SCHEDULED SPECIES
 
 - Ovis ammon nigrimontana <Kara Tau argali>
 
+- Ovis aries <Red sheep, urial, shapo> (Except the subspecies included in Appendix I, the subspecies O. a. isphahanica, O. a. laristanica, O. a. musimon and O. a. orientalis, which are not included in the Appendices, and the domesticated form Ovis aries aries, which is not subject to the provisions of this Ordinance)
+
+- Ovis aries ophion <Cyprian wild sheep, Cyprus mouflon>
+
+- Ovis aries vignei <Ladakh urial>
+
 - Ovis canadensis <Bighorn sheep> (Only the population of Mexico; no other population is included in the Appendices)
 
-- Ovis orientalis ophion <Cyprian wild sheep, Cyprus mouflon>
-
-- Ovis vignei <Red sheep, urial, shapo> (Except the subspecies included in Appendix I)
-
 - Appendix I | Appendix II | Appendix III
-
-- Ovis vignei vignei <Ladakh urial>
 
 - Pantholops hodgsonii <Chiru, Tibetan antelope>
 
 - Philantomba monticola <Blue duiker>
 
-- Pseudois nayaur (Pakistan)
+- Pseudois nayaur <Bharal> (Pakistan)
 
 - Pseudoryx nghetinhensis <Saola>
 
@@ -264,7 +278,7 @@ SCHEDULED SPECIES
 
 - Appendix I | Appendix II | Appendix III
 
-- Vicugna vicugna <Vicugna> (Only the populations of Argentina1 [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia2 [the whole population]; Chile3 [population of the Primera Región]; Ecuador3A [the whole population]; and Peru4 [the whole population]; all other populations are included in Appendix I)
+- Vicugna vicugna1 <Vicugna> (Only the populations of Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia [the whole population]; Chile [population of the Primera Región]; Ecuador [the whole population]; and Peru [the whole population]; all other populations are included in Appendix I)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -274,7 +288,7 @@ SCHEDULED SPECIES
 
 - Axis kuhlii <Bawean deer, Kuhl’s hog deer>
 
-- Axis porcinus (Except the subspecies included in Appendix I) (Pakistan)
+- Axis porcinus <Hog deer> (Except the subspecies included in Appendix I) (Pakistan)
 
 - Axis porcinus annamiticus <Ganges hog deer, Thai hog deer>
 
@@ -356,11 +370,11 @@ SCHEDULED SPECIES
 
 - Canis aureus <Golden jackal> (India)
 
-- Canis lupus <Common wolf, timber wolf> (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
+- Canis lupus <Common wolf, timber wolf> (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo, which are referenced as Canis lupus familiaris and Canis lupus dingo respectively and are not subject to the provisions of this Ordinance)
 
 - Appendix I | Appendix II | Appendix III
 
-- Canis lupus <Common wolf, timber wolf> (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
+- Canis lupus <Common wolf, timber wolf> (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo, which are referenced as Canis lupus familiaris and Canis lupus dingo respectively and are not subject to the provisions of this Ordinance)
 
 - Cerdocyon thous <Common zorro, forest fox>
 
@@ -404,7 +418,7 @@ SCHEDULED SPECIES
 
 - Felidae
 
-- Felidae spp. <Cats> (Except the species included in Appendix I. Specimens of the domesticated form are not subject to the provisions of this Ordinance)
+- Felidae spp. <Cats> (Except the species included in Appendix I. Excludes specimens of the domesticated form, which are not subject to the provisions of this Ordinance. For Panthera leo <Lion> (African populations): a zero annual export quota is established for specimens of bones, bone pieces, bone products, claws, skeletons, skulls and teeth removed from the wild and traded for commercial purposes. Annual export quotas for trade in bones, bone pieces, bone products, claws, skeletons, skulls and teeth for commercial purposes, derived from captive breeding operations in South Africa, will be established and communicated annually to the Secretariat)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -452,11 +466,7 @@ SCHEDULED SPECIES
 
 - Prionailurus rubiginosus <Rusty-spotted cat> (Only the population of India; all other populations are included in Appendix II)
 
-- Puma concolor coryi <Florida cougar, Florida puma>
-
 - Puma concolor costaricensis <Central American puma, Costa Rican puma>
-
-- Puma concolor couguar <Eastern cougar, eastern puma>
 
 - Puma yagouaroundi <Eyra cat, jaguarundi> (Only the populations of Central and North America; all other populations are included in Appendix II)
 
@@ -470,7 +480,7 @@ SCHEDULED SPECIES
 
 - Herpestes fuscus <Indian brown mongoose> (India)
 
-- Herpestes javanicus (Pakistan)
+- Herpestes javanicus <Javan mongoose> (Pakistan)
 
 - Herpestes javanicus auropunctatus <Small Indian mongoose> (India)
 
@@ -682,6 +692,8 @@ SCHEDULED SPECIES
 
 - Phocoenidae
 
+- Neophocaena asiaeorientalis <Black finless porpoise>
+
 - Neophocaena phocaenoides <Black finless porpoise>
 
 - Phocoena sinus <Cochito>
@@ -716,7 +728,7 @@ SCHEDULED SPECIES
 
 - Appendix I | Appendix II | Appendix III
 
-- Pteropus spp. <Flying-foxes> (Except Pteropus brunneus <Dusky flying-fox> and the species included in Appendix I)
+- Pteropus spp. <Flying-foxes> (Except the species included in Appendix I and Pteropus brunneus <Dusky flying-fox>)
 
 - Pteropus insularis <Chuuk flying-fox>
 
@@ -748,7 +760,7 @@ SCHEDULED SPECIES
 
 - Cabassous tatouay <Greater naked-tailed armadillo> (Uruguay)
 
-- Chaetophractus nationi <Andean hairy armadillo> (A zero annual export quota has been established. All specimens shall be deemed to be specimens of species included in Appendix I)
+- Chaetophractus nationi <Andean hairy armadillo> (A zero annual export quota has been established. All specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -830,7 +842,7 @@ SCHEDULED SPECIES
 
 - Equidae
 
-- Equus africanus <African ass> (Excludes the domesticated form, which is referenced as Equus asinus, and is not subject to the provisions of this Ordinance)
+- Equus africanus <African ass> (Excludes the domesticated form, which is referenced as Equus asinus and is not subject to the provisions of this Ordinance)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -856,7 +868,7 @@ SCHEDULED SPECIES
 
 - Rhinocerotidae spp. <Rhinoceroses> (Except the subspecies included in Appendix II)
 
-- Ceratotherium simum simum <Southern square-lipped rhinoceros> (Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I)
+- Ceratotherium simum simum <Southern square-lipped rhinoceros> (Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -870,7 +882,23 @@ SCHEDULED SPECIES
 
 - Manidae
 
-- Manis spp. <Pangolins> (A zero annual export quota has been established for Manis crassicaudata, M. culionensis, M. javanica and M. pentadactyla for specimens removed from the wild and traded for primarily commercial purposes)
+- Manis spp. <Pangolins> (Except the species included in Appendix I)
+
+- Manis crassicaudata <Indian pangolin>
+
+- Manis culionensis <Philippine pangolin>
+
+- Manis gigantea <Giant pangolin>
+
+- Manis javanica <Sunda pangolin>
+
+- Manis pentadactyla <Chinese pangolin>
+
+- Manis temminckii <South African pangolin>
+
+- Manis tetradactyla <Long-tailed pangolin>
+
+- Manis tricuspis <White-bellied pangolin>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -908,13 +936,13 @@ SCHEDULED SPECIES
 
 - Ateles geoffroyi frontatus <Black-browed spider monkey>
 
-- Ateles geoffroyi panamensis <Panama spider monkey>
+- Ateles geoffroyi ornatus <Panama spider monkey>
 
 - Appendix I | Appendix II | Appendix III
 
 - Brachyteles arachnoides <Muriqui>
 
-- Brachyteles hypoxanthus
+- Brachyteles hypoxanthus <Northern muriqui>
 
 - Oreonax flavicauda <Yellow-tailed woolly monkey>
 
@@ -952,6 +980,8 @@ SCHEDULED SPECIES
 
 - Macaca silenus <Lion-tailed macaque>
 
+- Macaca sylvanus <Barbary macaque>
+
 - Appendix I | Appendix II | Appendix III
 
 - Mandrillus leucophaeus <Drill>
@@ -966,9 +996,9 @@ SCHEDULED SPECIES
 
 - Presbytis potenziani <Long-tailed langur>
 
-- Pygathrix spp. <Snub-nosed monkeys>
+- Pygathrix spp. <Douc langurs>
 
-- Rhinopithecus spp.
+- Rhinopithecus spp. <Snub-nosed monkeys>
 
 - Semnopithecus ajax <Kashmir grey langur>
 
@@ -1052,7 +1082,7 @@ SCHEDULED SPECIES
 
 - Elephas maximus <Asian elephant>
 
-- Loxodonta africana <African elephant> (Except the populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II)
+- Loxodonta africana <African elephant> (Except the populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II subject to section 5 of this Part)
 
 - Loxodonta africana5 <African elephant> (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)
 
@@ -1152,8 +1182,6 @@ SCHEDULED SPECIES
 
 - Branta sandvicensis <Hawaiian goose>
 
-- Cairina moschata <Muscovy duck> (Honduras)
-
 - Appendix I | Appendix II | Appendix III
 
 - Coscoroba coscoroba <Coscoroba swan>
@@ -1168,7 +1196,7 @@ SCHEDULED SPECIES
 
 - Oxyura leucocephala <White-headed duck>
 
-- Rhodonessa caryophyllacea <Pink-headed duck> (possibly extinct)
+- Rhodonessa caryophyllacea <Pink-headed duck>
 
 - Sarkidiornis melanotos <Comb duck>
 
@@ -1408,7 +1436,7 @@ SCHEDULED SPECIES
 
 - Meleagris ocellata <Ocellated turkey> (Guatemala)
 
-- Pavo cristatus (Pakistan)
+- Pavo cristatus <Indian peafowl> (Pakistan)
 
 - Pavo muticus <Green peafowl>
 
@@ -1424,7 +1452,7 @@ SCHEDULED SPECIES
 
 - Polyplectron schleiermacheri <Bornean peacock-pheasant>
 
-- Pucrasia macrolopha (Pakistan)
+- Pucrasia macrolopha <Koklass pheasant> (Pakistan)
 
 - Rheinardia ocellata <Crested argus>
 
@@ -1482,7 +1510,7 @@ SCHEDULED SPECIES
 
 - Ardeotis nigriceps <Great Indian bustard>
 
-- Chlamydotis macqueenii
+- Chlamydotis macqueenii <MacQueen’s bustard>
 
 - Chlamydotis undulata <Houbara bustard>
 
@@ -1564,7 +1592,7 @@ SCHEDULED SPECIES
 
 - Cyornis ruckii <Rueck’s blue-flycatcher>
 
-- Dasyornis broadbenti litoralis <Lesser rufous bristlebird> (possibly extinct)
+- Dasyornis broadbenti litoralis <Lesser rufous bristlebird>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -1684,7 +1712,7 @@ SCHEDULED SPECIES
 
 - PSITTACIFORMES
 
-- PSITTACIFORMES spp. <Parrots, psittacines (e.g. parakeets, cockatoos, macaws)> (Except the species included in Appendix I and Agapornis roseicollis, Melopsittacus undulatus, Nymphicus hollandicus and Psittacula krameri, which are not included in the Appendices)
+- PSITTACIFORMES spp. <Parrots, psittacines (e.g. parakeets, cockatoos, macaws)> (Except the species included in Appendix I and Agapornis roseicollis <Peach-faced lovebird>, Melopsittacus undulatus <Budgerigar>, Nymphicus hollandicus <Cockatiel> and Psittacula krameri <Rose-ringed parakeet>, which are not included in the Appendices)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -1780,7 +1808,7 @@ SCHEDULED SPECIES
 
 - Ognorhynchus icterotis <Yellow-eared conure>
 
-- Pezoporus occidentalis <Night parrot> (possibly extinct)
+- Pezoporus occidentalis <Night parrot>
 
 - Pezoporus wallicus <Ground parakeet>
 
@@ -1796,9 +1824,11 @@ SCHEDULED SPECIES
 
 - Appendix I | Appendix II | Appendix III
 
-- Psephotus pulcherrimus <Beautiful parakeet, paradise parrot> (possibly extinct)
+- Psephotus pulcherrimus <Beautiful parakeet, paradise parrot>
 
 - Psittacula echo <Mauritius parakeet>
+
+- Psittacus erithacus <African grey parrot>
 
 - Pyrrhura cruentata <Blue-chested parakeet>
 
@@ -1828,7 +1858,7 @@ SCHEDULED SPECIES
 
 - STRIGIFORMES
 
-- STRIGIFORMES spp. <Owls> (Except Sceloglaux albifacies <Laughing owl> and the species included in Appendix I)
+- STRIGIFORMES spp. <Owls> (Except the species included in Appendix I and Sceloglaux albifacies <Laughing owl>)
 
 - Strigidae
 
@@ -1837,8 +1867,6 @@ SCHEDULED SPECIES
 - Mimizuku gurneyi <Giant scops-owl>
 
 - Ninox natalis <Christmas hawk-owl>
-
-- Ninox novaeseelandiae undulata <Norfolk boobook>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -1888,7 +1916,7 @@ SCHEDULED SPECIES
 
 - Crocodylidae
 
-- Crocodylus acutus <American crocodile> (Except the population of Cuba, which is included in Appendix II)
+- Crocodylus acutus <American crocodile> (Except the population of the Integrated Management District of Mangroves of the Bay of Cispata, Tinajones, La Balsa and Surrounding Areas, Department of Córdoba, Colombia and the population of Cuba, which are included in Appendix II)
 
 - Crocodylus cataphractus <African sharp-nosed crocodile>
 
@@ -1896,7 +1924,7 @@ SCHEDULED SPECIES
 
 - Crocodylus mindorensis <Mindoro crocodile>
 
-- Crocodylus moreletii <Belize crocodile, Morelet’s crocodile> (Except the populations of Belize and Mexico, which are included in Appendix II with a zero quota for wild specimens traded for commercial purposes)
+- Crocodylus moreletii <Belize crocodile, Morelet’s crocodile> (Except the population of Belize, which is included in Appendix II with a zero quota for wild specimens traded for commercial purposes, and the population of Mexico, which is included in Appendix II)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -1906,7 +1934,7 @@ SCHEDULED SPECIES
 
 - Crocodylus palustris <Broad-snouted crocodile, mugger crocodile>
 
-- Crocodylus porosus <Estuarine crocodile> (Except the populations of Australia, Indonesia and Papua New Guinea, which are included in Appendix II)
+- Crocodylus porosus <Estuarine crocodile> (Except the populations of Australia, Indonesia, Malaysia [wild harvest restricted to the State of Sarawak and a zero quota for wild specimens for the other States of Malaysia (Sabah and Peninsular Malaysia), with no change in the zero quota unless approved by the Parties] and Papua New Guinea, which are included in Appendix II)
 
 - Crocodylus rhombifer <Cuban crocodile>
 
@@ -1932,13 +1960,27 @@ SCHEDULED SPECIES
 
 - Agamidae
 
-- Saara spp.
+- Saara spp. <Mastigures, spiny-tailed lizards>
 
 - Uromastyx spp. <Mastigures, spiny-tailed lizards>
 
+- Anguidae
+
+- Abronia spp. <Alligator lizards> (Except the species included in Appendix I [zero export quota for wild specimens for Abronia aurita <Cope’s alligator lizard>, A. gaiophantasma <Brilliant alligator lizard>, A. montecristoi <Monte Cristo alligator lizard>, A. salvadorensis <Salvador alligator lizard> and A. vasconcelosii <Bocourt’s alligator lizard>])
+
+- Abronia anzuetoi <Anzuetoi alligator lizard>
+
+- Abronia campbelli <Campbell’s alligator lizard>
+
+- Abronia fimbriata <Fringed arboreal alligator lizard>
+
+- Abronia frosti <Frost’s alligator lizard>
+
+- Abronia meledona <Meledona alligator lizard>
+
 - Chamaeleonidae
 
-- Archaius spp.
+- Archaius spp. <Chameleons>
 
 - Bradypodion spp. <Chameleons>
 
@@ -1958,25 +2000,63 @@ SCHEDULED SPECIES
 
 - Nadzikambia spp. <Chameleons>
 
-- Trioceros spp.
+- Palleon spp. <Chameleons>
+
+- Rhampholeon spp. <Pygmy chameleons>
+
+- Rieppeleon spp. <Pygmy chameleons>
+
+- Trioceros spp. <Chameleons>
 
 - Cordylidae
 
 - Cordylus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
 
+- Hemicordylus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
+- Karusaurus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
+- Namazonurus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
+- Ninurta spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
+- Ouroborus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
+- Pseudocordylus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
+- Smaug spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+
 - Appendix I | Appendix II | Appendix III
 
 - Gekkonidae
 
+- Cnemaspis psychedelica <Psychedelic rock gecko>
+
+- Dactylocnemis spp. <Sticky-toed geckos> (New Zealand)
+
 - Hoplodactylus spp. <Sticky-toed geckos> (New Zealand)
+
+- Lygodactylus williamsi <Turquoise dwarf gecko>
+
+- Mokopirirakau spp. <Sticky-toed geckos> (New Zealand)
 
 - Nactus serpensinsula <Serpent Island gecko>
 
 - Naultinus spp. <New Zealand tree geckos>
 
+- Paroedura masobe <Masobe gecko>
+
 - Phelsuma spp. <Day geckos>
 
+- Rhoptropella spp. <Day geckos>
+
+- Toropuku spp. <Sticky-toed geckos> (New Zealand)
+
+- Tukutuku spp. <Sticky-toed geckos> (New Zealand)
+
 - Uroplatus spp. <Leaf-tailed geckos>
+
+- Woodworthia spp. <Sticky-toed geckos> (New Zealand)
 
 - Helodermatidae
 
@@ -1996,9 +2076,9 @@ SCHEDULED SPECIES
 
 - Ctenosaura bakeri <Baker’s spiny-tailed iguana>
 
-- Ctenosaura oedirhina <Roatan spiny-tailed iguana>
-
 - Ctenosaura melanosterna <Rio Aguan spiny-tailed iguana>
+
+- Ctenosaura oedirhina <Roatan spiny-tailed iguana>
 
 - Ctenosaura palearis <Guatemalan spiny-tailed iguana>
 
@@ -2010,7 +2090,7 @@ SCHEDULED SPECIES
 
 - Phrynosoma blainvillii
 
-- Phrynosoma cerroense
+- Phrynosoma cerroense <Cedros Island horned lizard>
 
 - Phrynosoma coronatum <Coast horned lizard>
 
@@ -2026,6 +2106,10 @@ SCHEDULED SPECIES
 
 - Podarcis pityusensis <Ibiza wall lizard>
 
+- Lanthanotidae
+
+- Lanthanotidae spp. <Earless monitor lizards> (Zero export quota for wild specimens for commercial purposes)
+
 - Appendix I | Appendix II | Appendix III
 
 - Scincidae
@@ -2037,6 +2121,8 @@ SCHEDULED SPECIES
 - Crocodilurus amazonicus <Crocodile tegu>
 
 - Dracaena spp. <Caiman lizards>
+
+- Salvator spp. <Tegu lizards>
 
 - Tupinambis spp. <Tegu lizards>
 
@@ -2106,6 +2192,10 @@ SCHEDULED SPECIES
 
 - Xenochrophis piscator <Chequered keelback> (India)
 
+- Xenochrophis schnurrenbergeri <Chequered keelback> (India)
+
+- Xenochrophis tytleri <Chequered keelback> (India)
+
 - Elapidae
 
 - Hoplocephalus bungaroides <Broad-headed snake>
@@ -2115,6 +2205,8 @@ SCHEDULED SPECIES
 - Micrurus diastema <Atlantic coral snake> (Honduras)
 
 - Micrurus nigrocinctus <Black-banded coral snake> (Honduras)
+
+- Micrurus ruatanus <Black-banded coral snake> (Honduras)
 
 - Naja atra <Chinese cobra>
 
@@ -2156,9 +2248,13 @@ SCHEDULED SPECIES
 
 - Tropidophiidae
 
-- Tropidophiidae spp. <Boas>
+- Tropidophiidae spp. <Wood boas>
 
 - Viperidae
+
+- Atheris desaixi <Ashe’s bush viper>
+
+- Bitis worthingtoni <Kenya horned viper>
 
 - Crotalus durissus <Cascabel, neotropical rattlesnake> (Honduras)
 
@@ -2189,6 +2285,8 @@ SCHEDULED SPECIES
 - Cheloniidae spp. <Marine turtles, sea turtles>
 
 - Chelydridae
+
+- Chelydra serpentina <Common snapping turtle> (United States of America)
 
 - Macrochelys temminckii <Alligator snapping turtle> (United States of America)
 
@@ -2238,7 +2336,7 @@ SCHEDULED SPECIES
 
 - Appendix I | Appendix II | Appendix III
 
-- Cuora spp. <Asian box turtles> (Zero quota for wild specimens for commercial purposes for Cuora aurocapitata <Golden-headed box turtle>, C. flavomarginata <Yellow-margined box turtle>, C. galbinifrons <Indochinese box turtle>, C. mccordi <McCord’s box turtle>, C. mouhotii <Keeled box turtle>, C. pani <Pan’s box turtle>, C. trifasciata <Chinese three-striped box turtle>, C. yunnanensis <Yunnan box turtle> and C. zhoui <Zhou’s box turtle>)
+- Cuora spp. <Asian box turtles> (Zero quota for wild specimens for commercial purposes for Cuora aurocapitata <Golden-headed box turtle>, C. bourreti <Indochinese box turtle>, C. flavomarginata <Yellow-margined box turtle>, C. galbinifrons <Indochinese box turtle>, C. mccordi <McCord’s box turtle>, C. mouhotii <Keeled box turtle>, C. pani <Pan’s box turtle>, C. picturata <Indochinese box turtle>, C. trifasciata <Chinese three-striped box turtle>, C. yunnanensis <Yunnan box turtle> and C. zhoui <Zhou’s box turtle>)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2340,13 +2438,13 @@ SCHEDULED SPECIES
 
 - Testudinidae
 
-- Testudinidae spp. <Tortoises> (Except the species included in Appendix I. A zero annual export quota has been established for Geochelone sulcata <African spurred tortoise> for specimens removed from the wild and traded for primarily commercial purposes)
+- Testudinidae spp. <Tortoises> (Except the species included in Appendix I. A zero annual export quota has been established for Centrochelys sulcata <African spurred tortoise> for specimens removed from the wild and traded for primarily commercial purposes)
 
 - Astrochelys radiata <Radiated tortoise>
 
 - Astrochelys yniphora <Angonoka, Madagascar tortoise>
 
-- Chelonoidis nigra <Galapagos giant tortoise>
+- Chelonoidis niger <Galapagos giant tortoise>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2366,6 +2464,12 @@ SCHEDULED SPECIES
 
 - Amyda cartilaginea <Southeast Asian softshell turtle>
 
+- Apalone ferox <Florida softshell turtle> (United States of America)
+
+- Apalone mutica <Smooth softshell turtle> (United States of America)
+
+- Apalone spinifera <Spiny softshell turtle> (United States of America) (Except the subspecies included in Appendix I)
+
 - Apalone spinifera atra <Cuatro Cienegas softshell>
 
 - Appendix I | Appendix II | Appendix III
@@ -2376,9 +2480,17 @@ SCHEDULED SPECIES
 
 - Chitra vandijki <Burmese narrow-headed softshell turtle>
 
+- Cyclanorbis elegans <Nubian flapshell turtle>
+
+- Cyclanorbis senegalensis <Senegal flapshell turtle>
+
+- Cycloderma aubryi <Aubry’s flapshell turtle>
+
+- Cycloderma frenatum <Zambezi flapshell turtle>
+
 - Dogania subplana <Malayan soft-shelled turtle>
 
-- Lissemys ceylonensis
+- Lissemys ceylonensis <Sri Lankan flapshell turtle>
 
 - Lissemys punctata <Indian flap-shell turtle>
 
@@ -2406,7 +2518,11 @@ SCHEDULED SPECIES
 
 - Pelodiscus parviformis <Lesser Chinese softshell turtle>
 
+- Rafetus euphraticus <Euphrates softshell turtle>
+
 - Rafetus swinhoei <Yangtze softshell turtle>
+
+- Trionyx triunguis <Nile softshell turtle>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2422,15 +2538,17 @@ SCHEDULED SPECIES
 
 - Allobates myersi <Myers’s poison frog>
 
-- Allobates rufulus <Chimanta poison frog>
-
 - Allobates zaparo <Sanguine poison frog, Zaparo’s poison frog>
+
+- Anomaloglossus rufulus <Chimantá poison frog>
 
 - Appendix I | Appendix II | Appendix III
 
 - Bufonidae
 
 - Altiphrynoides spp. <Ethiopian toads>
+
+- Amietophrynus channingi <Cameroon toad>
 
 - Amietophrynus superciliaris <Cameroon toad>
 
@@ -2450,27 +2568,27 @@ SCHEDULED SPECIES
 
 - Dendrobatidae
 
-- Adelphobates spp.
+- Adelphobates spp. <Poison frogs>
 
-- Ameerega spp.
+- Ameerega spp. <Poison frogs>
 
-- Andinobates spp.
+- Andinobates spp. <Poison frogs>
 
 - Dendrobates spp. <Poison frogs>
 
 - Epipedobates spp. <Poison frogs>
 
-- Excidobates spp.
+- Excidobates spp. <Poison frogs>
 
 - Hyloxalus azureiventris <Sky-blue poison frog>
 
-- Minyobates spp.
+- Minyobates spp. <Poison frogs>
 
-- Oophaga spp.
+- Oophaga spp. <Poison frogs>
 
 - Phyllobates spp. <Poison frogs>
 
-- Ranitomeya spp.
+- Ranitomeya spp. <Poison frogs>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2492,13 +2610,27 @@ SCHEDULED SPECIES
 
 - Dyscophus antongilii <Tomato frog>
 
+- Dyscophus guineti <False tomato frog>
+
+- Dyscophus insularis <Antsouhy tomato frog>
+
+- Scaphiophryne boribory <Burrowing frog>
+
 - Scaphiophryne gottlebei <Burrowing frog>
+
+- Scaphiophryne marmorata <Green burrowing frog>
+
+- Scaphiophryne spinosa <Burrowing frog>
 
 - Appendix I | Appendix II | Appendix III
 
 - Myobatrachidae
 
-- Rheobatrachus spp. <Gastric-brooding frogs> (Except Rheobatrachus silus <Conondale gastric-brooding frog> and Rheobatrachus vitellinus <Eungella gastric-brooding frog>)
+- Rheobatrachus spp. <Gastric-brooding frogs> (Except Rheobatrachus silus <Conondale gastric-brooding frog> and Rheobatrachus vitellinus <Eungella gastric-brooding frog>, which are not included in the Appendices)
+
+- Telmatobiidae
+
+- Telmatobius culeus <Titicaca water frog>
 
 - CAUDATA
 
@@ -2524,6 +2656,10 @@ SCHEDULED SPECIES
 
 - Neurergus kaiseri <Kaiser’s spotted newt>
 
+- Paramesotriton hongkongensis <Hong Kong warty newt>
+
+- Salamandra algira <North African fire salamander> (Algeria)
+
 - Appendix I | Appendix II | Appendix III
 
 - CLASS ELASMOBRANCHII <SHARKS>
@@ -2531,6 +2667,8 @@ SCHEDULED SPECIES
 - CARCHARHINIFORMES
 
 - Carcharhinidae
+
+- Carcharhinus falciformis <Silky shark>
 
 - Carcharhinus longimanus <Oceanic whitetip shark>
 
@@ -2546,6 +2684,10 @@ SCHEDULED SPECIES
 
 - LAMNIFORMES
 
+- Alopiidae
+
+- Alopias spp. <Thresher sharks>
+
 - Cetorhinidae
 
 - Cetorhinus maximus <Basking shark>
@@ -2555,6 +2697,34 @@ SCHEDULED SPECIES
 - Carcharodon carcharias <Great white shark>
 
 - Lamna nasus <Porbeagle shark>
+
+- MYLIOBATIFORMES
+
+- Myliobatidae
+
+- Manta spp. <Manta rays>
+
+- Mobula spp. <Devil rays>
+
+- Potamotrygonidae
+
+- Paratrygon aiereba <Discus ray> (Colombia)
+
+- Potamotrygon spp. <River stingrays> [Population of Brazil (Brazil)]
+
+- Potamotrygon constellata <Thorny river stingray> (Colombia)
+
+- Potamotrygon magdalenae <Magdalena river stingray> (Colombia)
+
+- Potamotrygon motoro <Ocellate river stingray> (Colombia)
+
+- Potamotrygon orbignyi <Smooth back river stingray> (Colombia)
+
+- Potamotrygon schroederi <Rosette river stingray> (Colombia)
+
+- Potamotrygon scobina <Raspy river stingray> (Colombia)
+
+- Potamotrygon yepezi <Maracaibo river stingray> (Colombia)
 
 - ORECTOLOBIFORMES
 
@@ -2568,15 +2738,9 @@ SCHEDULED SPECIES
 
 - Pristidae spp. <Sawfish>
 
-- RAJIFORMES
-
-- Mobulidae
-
-- Manta spp. <Manta rays>
-
 - Appendix I | Appendix II | Appendix III
 
-- CLASS ACTINOPTERYGII <FISHES>
+- CLASS ACTINOPTERI <FISHES>
 
 - ACIPENSERIFORMES
 
@@ -2616,7 +2780,9 @@ SCHEDULED SPECIES
 
 - Osteoglossidae
 
-- Scleropages formosus <Asian arowana, Asiatic bony tongue> (Includes the taxon Scleropages inscriptus)
+- Scleropages formosus <Asian arowana, Asiatic bony tongue>
+
+- Scleropages inscriptus <Asian arowana, Asiatic bony tongue>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2626,11 +2792,19 @@ SCHEDULED SPECIES
 
 - Cheilinus undulatus <Humphead wrasse>
 
+- Pomacanthidae
+
+- Holacanthus clarionensis <Clarion angelfish>
+
 - Sciaenidae
 
 - Totoaba macdonaldi <MacDonald’s weakfish>
 
 - SILURIFORMES
+
+- Loricariidae
+
+- Hypancistrus zebra <Zebra pleco> (Brazil)
 
 - Pangasiidae
 
@@ -2644,13 +2818,15 @@ SCHEDULED SPECIES
 
 - Appendix I | Appendix II | Appendix III
 
-- CLASS SARCOPTERYGII <LUNGFISHES>
+- CLASS DIPNEUSTI <LUNGFISHES>
 
 - CERATODONTIFORMES
 
-- Ceratodontidae
+- Neoceratodontidae
 
 - Neoceratodus forsteri <Australian lungfish>
+
+- CLASS COELACANTHI <COELACANTHS>
 
 - COELACANTHIFORMES
 
@@ -2693,6 +2869,8 @@ SCHEDULED SPECIES
 - Pandinus gambiensis <Giant Senelgalese scorpion>
 
 - Pandinus imperator <Emperor scorpion>
+
+- Pandinus roeseli <Emperor scorpion>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2848,6 +3026,14 @@ SCHEDULED SPECIES
 
 - Tridacnidae spp. <Giant clams>
 
+- CLASS CEPHALOPODA <SQUIDS, OCTOPUSES, CUTTLEFISH>
+
+- NAUTILIDA
+
+- Nautilidae
+
+- Nautilidae spp. <Nautiluses>
+
 - CLASS GASTROPODA <SNAILS AND CONCHES>
 
 - MESOGASTROPODA
@@ -2865,6 +3051,10 @@ SCHEDULED SPECIES
 - Camaenidae
 
 - Papustyla pulcherrima <Emerald green snail>
+
+- Cepolidae
+
+- Polymita spp. <Cuban landsnails>
 
 - Appendix I | Appendix II | Appendix III
 
@@ -2978,6 +3168,10 @@ SCHEDULED SPECIES
 
 - Araucaria araucana <Chilean pine, monkey puzzle>
 
+- ASPARAGACEAE
+
+- Beaucarnea spp. <Ponytail palm, elephant-foot tree>
+
 - BERBERIDACEAE
 
 - Podophyllum hexandrum #2 <Himilayan may-apple>
@@ -2989,8 +3183,6 @@ SCHEDULED SPECIES
 - Tillandsia harrisii #4 <Harris’ tillandsia>
 
 - Tillandsia kammii #4 <Kamm’s tillandsia>
-
-- Tillandsia mauryana #4 <Maury’s tillandsia>
 
 - Tillandsia xerographica #4 <Xerographic tillandsia>
 
@@ -3018,9 +3210,7 @@ SCHEDULED SPECIES
 
 - Escobaria sneedii <Sneed’s cory cactus>
 
-- Mammillaria pectinifera
-
-- Mammillaria solisioides
+- Mammillaria pectinifera (Includes the ssp. solisioides)
 
 - Appendix I | Appendix II | Appendix III
 
@@ -3050,7 +3240,13 @@ SCHEDULED SPECIES
 
 - Pelecyphora spp. <Hatchet cacti>
 
+- Sclerocactus blainei <Blaine’s fishhook cactus>
+
 - Sclerocactus brevihamatus ssp. tobuschii
+
+- Sclerocactus brevispinus
+
+- Sclerocactus cloverae <New Mexico fishhook cactus>
 
 - Sclerocactus erectocentrus
 
@@ -3065,6 +3261,10 @@ SCHEDULED SPECIES
 - Sclerocactus papyracanthus <Paper-spine pincushion cactus>
 
 - Sclerocactus pubispinus
+
+- Sclerocactus sileri <Siler’s fishhook cactus>
+
+- Sclerocactus wetlandicus
 
 - Appendix I | Appendix II | Appendix III
 
@@ -3162,6 +3362,10 @@ SCHEDULED SPECIES
 
 - Euphorbia tulearensis
 
+- FAGACEAE
+
+- Quercus mongolica #5 <Mongolian oak> (Russian Federation)
+
 - FOUQUIERIACEAE
 
 - Fouquieria columnaris #4 <Boojum tree>
@@ -3169,10 +3373,6 @@ SCHEDULED SPECIES
 - Fouquieria fasciculata
 
 - Fouquieria purpusii
-
-- FAGACEAE
-
-- Quercus mongolica #5 <Mongolian oak> (Russian Federation)
 
 - GNETACEAE
 
@@ -3192,29 +3392,25 @@ SCHEDULED SPECIES
 
 - Caesalpinia echinata #10 <Brazil wood>
 
-- Dalbergia spp. #5 <Malagasy rosewood> (Populations of Madagascar)
-
-- Dalbergia cochinchinensis #5 <Thailand rosewood>
-
-- Dalbergia darienensis #2 <Panamanian rosewood> [Population of Panama (Panama)]
-
-- Dalbergia granadillo #6 <Granadillo rosewood>
+- Dalbergia spp. #15 <Rosewood> (Except the species included in Appendix I)
 
 - Dalbergia nigra <Brazilian rosewood>
 
 - Appendix I | Appendix II | Appendix III
 
-- Dalbergia retusa #6 <Black rosewood, Cocobolo>
-
-- Dalbergia stevensonii #6 <Honduras rosewood>
-
-- Dalbergia tucurensis #6 <Guatemalan rosewood> (Nicaragua)
-
 - Dipteryx panamensis (Costa Rica, Nicaragua)
+
+- Guibourtia demeusei #15
+
+- Guibourtia pellegriniana #15
+
+- Guibourtia tessmannii #15
 
 - Pericopsis elata #5 <African teak>
 
 - Platymiscium pleiostachyum #4 <Quira macawood>
+
+- Pterocarpus erinaceus <African rosewood, kosso>
 
 - Pterocarpus santalinus #7 <Red sandalwood>
 
@@ -3276,13 +3472,17 @@ SCHEDULED SPECIES
 
 - Magnolia liliifera var. obovata #1 (Nepal)
 
+- MALVACEAE
+
+- Adansonia grandidieri #16 <Grandidier’s baobab>
+
 - MELIACEAE
 
-- Cedrela fissilis #5 <South American cedar> (Plurinational State of Bolivia)
+- Cedrela fissilis #5 <South American cedar> (Brazil; Plurinational State of Bolivia)
 
 - Appendix I | Appendix II | Appendix III
 
-- Cedrela lilloi #5 <Cedro> (Plurinational State of Bolivia)
+- Cedrela lilloi #5 <Cedro> (Brazil; Plurinational State of Bolivia)
 
 - Cedrela odorata #5 <West Indian cedar> [Brazil; Plurinational State of Bolivia; Population of Colombia (Colombia); Population of Guatemala (Guatemala); Population of Peru (Peru)]
 
@@ -3340,17 +3540,17 @@ SCHEDULED SPECIES
 
 - Beccariophoenix madagascariensis #4
 
+- Dypsis decaryi #4 <Feather palm>
+
 - Appendix I | Appendix II | Appendix III
 
-- Chrysalidocarpus decipiens <Butterfly palm>
+- Dypsis decipiens <Butterfly palm>
 
 - Lemurophoenix halleuxii <Red-lemur palm>
 
 - Lodoicea maldivica #13 <Sea coconut> (Seychelles)
 
 - Marojejya darianii
-
-- Neodypsis decaryi #4 <Feather palm>
 
 - Ravenea louvelii
 
@@ -3500,11 +3700,11 @@ SCHEDULED SPECIES
 
 - Ceratozamia spp. <Cycads>
 
-- Chigua spp. <Cycads>
-
 - Encephalartos spp. <Bread palms>
 
 - Microcycas calocoma <Palma corcho>
+
+- Zamia restrepoi
 
 - Appendix I | Appendix II | Appendix III
 
@@ -3512,89 +3712,53 @@ SCHEDULED SPECIES
 
 - Hedychium philippinense #4 <Philippine garland flower>
 
+- Siphonochilus aethiopicus <Natal ginger> (Populations of Mozambique, South Africa, Swaziland and Zimbabwe)
+
 - ZYGOPHYLLACEAE
 
 - Bulnesia sarmientoi #11 <Holy wood>
 
 - Guaiacum spp. #2 <Lignum-vitae>
 
-- (Amended L.N. 36 of 2011; L.N. 98 of 2014; E.R. 2 of 2015)
+- (Amended L.N. 36 of 2011; L.N. 98 of 2014; E.R. 2 of 2015; L.N. 114 of 2018)
 
-  - 1. Any specimen of the population of Argentina is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
+  - 1. Any specimen of the population of a country of origin (that is to say, the country where the species occurs, namely Argentina, Bolivia, Chile, Ecuador or Peru) is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as fibre that comes from the shearing of live vicuñas (Vicugna vicugna), or if it is imported, exported or re-exported as a product derived from fibre from vicuñas in accordance with all of the following requirements (in so far as applicable)—
 
-    - (a) wool sheared from live vicuñas;
+    - (a) any person or entity processing vicuña fibre to manufacture cloth or garment must request authorization from the relevant authorities of the country of origin to use the “vicuña country of origin” wording, mark or logo adopted by the range states of the species that are signatories to the Convention for the Conservation and Management of the Vicuña;
 
-    - (b) cloth made of such wool —
+    - (b) for marketed cloth made from live-sheared vicuña fibre, whether the cloth is produced within or outside the range states of the species—
 
-      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+      - (i) the “VICUÑA [COUNTRY OF ORIGIN]” wording, mark or logo having the format specified in Diagram 1 (with the country of origin identified within the square brackets) must be used so that the country of origin can be identified— Diagram 1;
 
-      - (ii) the selvages of which bear the words “VICUÑA-ARGENTINA”; or (Replaced L.N. 98 of 2014)
+      - (ii) that wording, mark or logo must appear on the reverse side of the cloth; and
 
-    - (c) a derived manufactured product or other handicraft artefact, which bears a label including the logotype and the designation “VICUÑA-ARGENTINA-ARTESANÍA”. (Amended L.N. 98 of 2014)
+      - (iii) the selvages of the cloth must bear the words “VICUÑA [COUNTRY OF ORIGIN]”;
 
-  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+    - (c) for marketed garment made from live-sheared vicuña fibre, whether the garment is produced within or outside the range states of the species—
 
-  - 2. Any specimen of the population of Plurinational State of Bolivia is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 36 of 2011; L.N. 98 of 2014)
+      - (i) the wording, mark or logo referred to in paragraph (b)(i) must be used;
 
-    - (a) wool sheared from live vicuñas;
+      - (ii) that wording, mark or logo must appear on a label in the garment itself; and
 
-    - (b) cloth made of such wool —
+      - (iii) if the garment is produced outside the country of origin, the name of the country where the garment is produced must be indicated, in addition to that wording, mark or logo;
 
-      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+    - (d) for a handicraft product made from live-sheared vicuña fibre produced within the range states of the species—the “VICUÑA [COUNTRY OF ORIGIN] – ARTESANÍA” wording, mark or logo having the format specified in Diagram 2 (with the country of origin identified within the square brackets) must be used— Diagram 2;
 
-      - (ii) the selvages of which bear the words “VICUÑA-BOLIVIA”; or (Replaced L.N. 98 of 2014)
+    - (e) if live-sheared vicuña fibre from various countries of origin is used for the production of cloth or garment, the wording, mark or logo of each of the countries of origin of the fibre must be indicated in accordance with paragraph (b) or (c).
 
-    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-BOLIVIA-ARTESANÍA”. (Amended L.N. 98 of 2014)
+  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Replaced L.N. 114 of 2018)
 
-  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+  - 2-3. (Repealed L.N. 114 of 2018)
 
-  - 3. Any specimen of the population of Chile is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
+  - 3A. (Repealed L.N. 114 of 2018)
 
-    - (a) wool sheared from live vicuñas;
-
-    - (b) cloth made of such wool —
-
-      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
-
-      - (ii) the selvages of which bear the words “VICUÑA-CHILE”; or (Replaced L.N. 98 of 2014)
-
-    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-CHILE-ARTESANÍA”. (Amended L.N. 98 of 2014)
-
-  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
-
-  - 3A. Any specimen of the population of Ecuador is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as —
-
-    - (a) wool sheared from live vicuñas;
-
-    - (b) cloth made of such wool —
-
-      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
-
-      - (ii) the selvages of which bear the words “VICUÑA ECUADOR”; or
-
-    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA ECUADOR-ARTESANÍA”.
-
-  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Added L.N. 98 of 2014)
-
-  - 4. Any specimen of the population of Peru is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
-
-    - (a) wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3 249 kg of wool;
-
-    - (b) cloth made of such wool —
-
-      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
-
-      - (ii) the selvages of which bear the words “VICUÑA-PERÚ”; or (Replaced L.N. 98 of 2014)
-
-    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-PERÚ-ARTESANÍA”. (Amended L.N. 98 of 2014)
-
-  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+  - 4. (Repealed L.N. 114 of 2018)
 
   - 5. Any specimen of the populations of Botswana, Namibia, South Africa and Zimbabwe is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
 
     - (a) hunting trophies for non-commercial purposes;
 
-    - (b) live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and for in situ conservation programmes for Namibia and South Africa;
+    - (b) live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20 (Rev. CoP17), for Botswana and Zimbabwe and for in situ conservation programmes for Namibia and South Africa; (Amended L.N. 114 of 2018)
 
     - (c) hides;
 
@@ -3602,13 +3766,13 @@ SCHEDULED SPECIES
 
     - (e) leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
 
-    - (f) individually marked and certified ekipa incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe; or
+    - (f) individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe; or (Amended L.N. 114 of 2018)
 
     - (g) registered raw ivory (whole tusks and pieces) subject to the following —
 
       - (i) only registered government-owned stocks, originating in the state (excluding seized ivory and ivory of unknown origin);
 
-      - (ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee under the Convention, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;
+      - (ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee under the Convention, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP17) concerning domestic manufacturing and trade; (Amended L.N. 114 of 2018)
 
       - (iii) not before the Secretariat has verified the prospective importing countries, and the registered government-owned stocks;
 
