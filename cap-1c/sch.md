@@ -92,6 +92,8 @@ Collector of Stamp Revenue | Betting Duty Ordinance (Cap. 108), sections 6GH(3),
 
 Collector of Stamp Revenue | Betting Duty Regulations (Cap. 108 sub. leg. A), regulation 3(4).
 
+Commissioner for Innovation and Technology | Inland Revenue Ordinance (Cap. 112), section 19 of Schedule 45. (29 of 2018 s. 14)
+
 Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Cap. 59), sections 7(4) and 9A.
 
 Commissioner for Labour | Employees’ Compensation Ordinance (Cap. 282).
@@ -184,7 +186,7 @@ Commissioner of Customs and Excise | Copyright Ordinance (Cap. 528).
 
 Commissioner of Customs and Excise | Prevention of Copyright Piracy Ordinance (Cap. 544).
 
-Commissioner of Inland Revenue | Inland Revenue Ordinance (Cap. 112), sections 16B and 16C.
+Commissioner of Inland Revenue | Inland Revenue Ordinance (Cap. 112), section 16C. (29 of 2018 s. 14)
 
 Commissioner of Mines | Mining Ordinance (Cap. 285), sections 13, 18, 20, 21, 31 and 37.
 
