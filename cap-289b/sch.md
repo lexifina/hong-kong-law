@@ -160,7 +160,7 @@ Item | Periods | Rate of interest
 
 78. | On or after 24 August 1994 and before 4 December 1995 (L.N. 476 of 1994) | 5.04% per annum
 
-79. | On or after 4 December 1995 and before 4 March 1996 (L.N. 557 of 1995; L.N. 120 of 1996) | 5.64% per annum
+79. | On or after 4 December 1995 and before 4 March 1996 (L.N. 557 of 1995) | 5.64% per annum
 
 80. | On or after 4 March 1996 and before 1 June 1996 (L.N. 120 of 1996; L.N. 238 of 1996) | 5.28% per annum
 
@@ -346,4 +346,6 @@ Item | Periods | Rate of interest
 
 171. | On or after 4 January 2010 and before 6 August 2018 (L.N. 264 of 2009; L.N. 147 of 2018) | 0.0433% per annum
 
-172. | On or after 6 August 2018 (L.N. 147 of 2018) | 0.0767% per annum
+172. | On or after 6 August 2018 and before 5 November 2018 (L.N. 147 of 2018; L.N. 211 of 2018) | 0.0767% per annum
+
+173. | On or after 5 November 2018 (L.N. 211 of 2018) | 0.25% per annum
