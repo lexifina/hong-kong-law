@@ -1,6 +1,6 @@
 # Schedule 4
 
-[s. 27(3)] (Amended 48 of 1995 s. 13)
+[ss. 27 & 59]* (Replaced 32 of 2018 s. 13)
 
 Allowances
 
@@ -1107,3 +1107,7 @@ First Column (section) | Second Column (the prescribed amount)
 9. | Section 32(1) (single parent allowance) | $ 132,000
 
 (Added 20 of 2018 s. 15)
+
+Editorial Note:
+
+* | The amendment made by Part 2 of Ord. No. 32 of 2018 to this Schedule applies in relation to all years of assessment commencing on or after 1 April 2018. (Please see 32 of 2018 s. 3)
