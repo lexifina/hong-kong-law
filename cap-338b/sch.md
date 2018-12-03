@@ -8,15 +8,15 @@ Item | Particular | Fee $
 
 Filing of Claim and Summons
 
-1. | Filing of claim—
+1. | Filing of a claim—
 
-where the claim does not exceed $3,000 | 20
+for a claim that does not exceed $5,000 | 20
 
-where the claim exceeds $3,000 but does not exceed $17,000 | 40
+for a claim that exceeds $5,000 but does not exceed $25,000 | 40
 
-where the claim exceeds $17,000 but does not exceed $33,000 | 70
+for a claim that exceeds $25,000 but does not exceed $50,000 | 70
 
-where the claim exceeds $33,000 but does not exceed $50,000 (28 of 1999 s. 18) | 120
+for a claim that exceeds $50,000 but does not exceed $75,000 (L.N. 140 of 2018) | 120
 
 2. | Summons and copy including service, each witness | 33
 
