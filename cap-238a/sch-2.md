@@ -4,7 +4,7 @@
 
 Fees
 
-Item | Particular | Fee $
+Item | Particulars | Fee $
 
 1. | For an exemption under section 4(3) of the Ordinance | 620
 
@@ -30,4 +30,4 @@ Item | Particular | Fee $
 
 5. | For the replacement of a licence or an exemption | 95
 
-(L.N. 67 of 1991; L.N. 227 of 1994; 97 of 1994 s. 34; L.N. 146 of 1995; L.N. 331 of 2000; L.N. 37 of 2006; L.N. 128 of 2008; L.N. 65 of 2012; L.N. 78 of 2014)
+(L.N. 67 of 1991; L.N. 227 of 1994; 97 of 1994 s. 34; L.N. 146 of 1995; L.N. 331 of 2000; L.N. 37 of 2006; L.N. 128 of 2008; L.N. 65 of 2012; L.N. 78 of 2014; E.R. 5 of 2018)

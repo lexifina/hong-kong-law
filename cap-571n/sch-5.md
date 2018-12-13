@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 52]
 

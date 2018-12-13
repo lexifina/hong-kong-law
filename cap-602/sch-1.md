@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 84]
 
-EDUCATIONAL ESTABLISHMENTS AND THEIR RESPONSIBLE BODIES
+Educational Establishments and their Responsible Bodies
+
+(Format changes—E.R. 5 of 2018)
 
 Item | Educational establishment | Responsible body
 

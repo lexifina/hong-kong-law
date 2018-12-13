@@ -1,16 +1,20 @@
-# SCHEDULE 1
+Editorial Note:
+
+* Commencement date: 1 August 1991.
+
+# Schedule 1
 
 [s. 4]
 
-DUTIES OF THE OFFICIAL SOLICITOR
+Duties of the Official Solicitor
 
-- PART 1
+- Part 1
 
   - 1. To act as guardian ad litem or next friend to any person under a disability of age or mental capacity, in proceedings before any court.
 
   - 2. To act on behalf of a person committed to prison for contempt who is unable or unwilling to apply on his own behalf for release.
 
-- PART 2
+- Part 2
 
   - 1. (Repealed 81 of 1997 s. 59)
 
@@ -24,4 +28,4 @@ DUTIES OF THE OFFICIAL SOLICITOR
 
   - 3. To intervene in proceedings before the Court. (Amended 25 of 1998 s. 2)
 
-- PART 3 If requested by the Juvenile Court, to act for any party involved in proceedings under the Protection of Women and Juveniles Ordinance (Cap. 213) relating to the care and protection of a child or juvenile.
+- Part 3 If requested by the Juvenile Court, to act for any party involved in proceedings under the Protection of Women and Juveniles Ordinance (Cap. 213) relating to the care and protection of a child or juvenile.

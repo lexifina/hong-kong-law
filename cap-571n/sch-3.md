@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 2 & Sch. 2]
 
 Specified Exchanges
 
-- PART 1 American Stock Exchange LLC
+- Part 1 American Stock Exchange LLC
 
 - Australian Stock Exchange Limited
 
@@ -96,7 +96,7 @@ Specified Exchanges
 
 - Winnipeg Commodities Exchange, Inc.
 
-- PART 2 Kuala Lumpur Stock Exchange
+- Part 2 Kuala Lumpur Stock Exchange
 
 - Malaysian Derivatives Exchange Berhad
 

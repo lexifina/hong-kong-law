@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-MEANING OF TERMS “BASIC INFORMATION” AND “RELEVANT INFORMATION”
+Meaning of Terms Basic Information and Relevant Information
 
-- PART 1 BASIC INFORMATION
+- Part 1 Basic Information
 
   - 1. Basic information, in relation to an individual, means, in so far as applicable, the following particulars of the individual—
 
@@ -46,7 +46,7 @@ MEANING OF TERMS “BASIC INFORMATION” AND “RELEVANT INFORMATION”
 
     - (i) the telephone and facsimile numbers, electronic mail address and web site address.
 
-- PART 2 RELEVANT INFORMATION
+- Part 2 Relevant Information
 
   - 1. Relevant information, in relation to an individual, means information on whether or not the individual is or has been, in Hong Kong or elsewhere—
 

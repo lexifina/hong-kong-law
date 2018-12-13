@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 19(2) & 84]
 
-AUTHORIZATION OR QUALIFICATION SPECIFIED FOR THE PURPOSES OF SECTION 19(2) OF THIS ORDINANCE
+Authorization or Qualification Specified for the Purposes of Section 19(2) of this Ordinance
+
+(Format changes—E.R. 5 of 2018)
 
 - Any authorization or qualification conferred for the purposes of—
 

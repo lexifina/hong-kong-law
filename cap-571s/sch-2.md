@@ -1,20 +1,20 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-INFORMATION TO BE PROVIDED WITH APPLICATIONS TO COMMISSION
+Information to be Provided with Applications to Commission
 
-- PART 1 APPLICATIONS BY LICENSED CORPORATIONS
+- Part 1 Applications by Licensed Corporations and Registered Institutions under Provisions Referred to in
 
-- AND REGISTERED INSTITUTIONS UNDER
-
-- PROVISIONS REFERRED TO IN SECTION 3(1)(a)
+- Section 3(1)(a)
 
 - Item | Description of information
 
 - 1. Basic information in respect of— (a) the applicant; (b) each controlling person of the applicant; (c) each person who is, or is proposed to be, a responsible officer or executive officer of the applicant; (d) each subsidiary of the applicant that carries on a business in any regulated activity; and (e) each related corporation of the applicant that carries on a business in any regulated activity.
 
-- 2. Basic information in respect of— (a) any corporation that is, or is proposed to be, an associated entity of the applicant; and (b) any person who is, or is proposed to be, an executive officer of an associated entity referred to in paragraph (a).
+- 2. Basic information in respect of— (a) any corporation that is, or is proposed to be, an associated entity of the applicant; and
+
+- (b) any person who is, or is proposed to be, an executive officer of an associated entity referred to in paragraph (a).
 
 - 3. The name, correspondence address, contact telephone and facsimile numbers and electronic mail address of— (a) each contact person appointed by the applicant as the person whom the Commission may contact in the event of market emergency or other urgent need; and (b) each person who is, or is proposed to be, a complaints officer of the applicant.
 
@@ -52,9 +52,7 @@ INFORMATION TO BE PROVIDED WITH APPLICATIONS TO COMMISSION
 
 - 20. In the case of a person applying to be licensed as a licensed corporation, the financial information in respect of him showing that it is capable of meeting its obligations under the Securities and Futures (Financial Resources) Rules (Cap. 571 sub. leg. N).
 
-- PART 2 APPLICATIONS BY LICENSED REPRESENTATIVES
-
-- UNDER PROVISIONS REFERRED TO IN SECTION 3(1)(b)
+- Part 2 Applications by Licensed Representatives under Provisions Referred to in Section 3(1)(b)
 
 - Item | Description of information
 
@@ -88,9 +86,7 @@ INFORMATION TO BE PROVIDED WITH APPLICATIONS TO COMMISSION
 
 - 10. Whether the applicant has ever been a patient as defined in section 2 of the Mental Health Ordinance (Cap. 136).
 
-- PART 3 OTHER APPLICATIONS UNDER PROVISIONS
-
-- REFERRED TO IN SECTION 3(1)(c)
+- Part 3 Other Applications under Provisions Referred to in Section 3(1)(c)
 
 - Item | Description of information
 

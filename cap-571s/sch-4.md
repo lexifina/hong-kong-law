@@ -1,49 +1,65 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 6]
 
-PARTICULARS TO BE CONTAINED IN REGISTER
+Particulars to be Contained in Register
 
-- PART 1 PARTICULARS OF LICENSED PERSONS TO BE CONTAINED IN REGISTER
+- Part 1 Particulars of Licensed Persons to be Contained in Register
 
-- The following particulars in respect of a licensed person shall be contained in the register—
+  - The following particulars in respect of a licensed person shall be contained in the register—
 
-- (a) his CE number;
+    - (a) his CE number;
 
-- (b) the date of grant of the licence under Part V of the Ordinance;
+    - (b) the date of grant of the licence under Part V of the Ordinance;
 
-- (c) in the case of a licensed corporation— (i) its electronic mail address (if any) and web site address (if any); (ii) its contact details (including correspondence address, telephone and facsimile numbers and electronic mail address) of its complaints officer; (iii) whether it is licensed under section 117 of the Ordinance; and (19 of 2015 s.15) (iv) a list of its accredited representatives;
+    - (c) in the case of a licensed corporation—
 
-- (d) in the case of a licensed representative— (i) whether he is licensed under section 120(2) of the Ordinance; (19 of 2015 s.15) (ii) whether he is licensed under section 121 of the Ordinance; (19 of 2015 s.15) (iii) whether he is approved as a responsible officer and, if so, the regulated activity for which he is responsible; and (iv) the date of accreditation to his principal;
+      - (i) its electronic mail address (if any) and web site address (if any);
 
-- (e) the effective date of such conditions (if any) of the licence as the Commission contains in the register under section 136(2)(b) of the Ordinance;
+      - (ii) its contact details (including correspondence address, telephone and facsimile numbers and electronic mail address) of its complaints officer;
 
-- (f) the regulated activity or activities for which the licensed person is licensed and the effective date of the approval for the person to carry on the regulated activity or activities;
+      - (iii) whether it is licensed under section 117 of the Ordinance; and (19 of 2015 s. 15)
 
-- (g) whether or not the licence is suspended;
+      - (iv) a list of its accredited representatives;
 
-- (h) the modification or waiver granted (if any), together with such particulars as the Commission considers appropriate in relation to any condition imposed, and the corresponding effective date; and
+    - (d) in the case of a licensed representative—
 
-- (i) a record of each public disciplinary action (if any) taken by the Commission against him in Hong Kong that is not the subject of a pending appeal, or a successful appeal, and the record of each disciplinary action is to be kept in the register for a period of 5 years from the date when the relevant disciplinary action takes effect.
+      - (i) whether he is licensed under section 120(2) of the Ordinance; (19 of 2015 s. 15)
 
-- PART 2 PARTICULARS OF REGISTERED INSTITUTIONS TO BE CONTAINED IN REGISTER
+      - (ii) whether he is licensed under section 121 of the Ordinance; (19 of 2015 s. 15)
 
-- The following particulars in respect of a registered institution shall be contained in the register—
+      - (iii) whether he is approved as a responsible officer and, if so, the regulated activity for which he is responsible; and
 
-- (a) its CE number;
+      - (iv) the date of accreditation to his principal;
 
-- (b) the date of grant of the registration under Part V of the Ordinance;
+    - (e) the effective date of such conditions (if any) of the licence as the Commission contains in the register under section 136(2)(b) of the Ordinance;
 
-- (c) its electronic mail address (if any) and web site address (if any);
+    - (f) the regulated activity or activities for which the licensed person is licensed and the effective date of the approval for the person to carry on the regulated activity or activities;
 
-- (d) its contact details (including correspondence address, telephone and facsimile numbers and electronic mail address) of its complaints officer;
+    - (g) whether or not the licence is suspended;
 
-- (e) the effective date of such conditions (if any) of the registration as the Commission contains in the register under section 136(2)(b) of the Ordinance;
+    - (h) the modification or waiver granted (if any), together with such particulars as the Commission considers appropriate in relation to any condition imposed, and the corresponding effective date; and
 
-- (f) the regulated activity or activities for which the registered institution is registered and the effective date of the approval for the institution to carry on the regulated activity or activities;
+    - (i) a record of each public disciplinary action (if any) taken by the Commission against him in Hong Kong that is not the subject of a pending appeal, or a successful appeal, and the record of each disciplinary action is to be kept in the register for a period of 5 years from the date when the relevant disciplinary action takes effect.
 
-- (g) whether or not the registration is suspended;
+- Part 2 Particulars of Registered Institutions to be Contained in Register
 
-- (h) the modification or waiver granted (if any), together with such particulars as the Commission considers appropriate in relation to any condition imposed, and the corresponding effective date; and
+  - The following particulars in respect of a registered institution shall be contained in the register—
 
-- (i) a record of each public disciplinary action (if any) taken by the Commission against it in Hong Kong that is not the subject of a pending appeal, or a successful appeal, and the record of each disciplinary action is to be kept in the register for a period of 5 years from the date when the relevant disciplinary action takes effect.
+    - (a) its CE number;
+
+    - (b) the date of grant of the registration under Part V of the Ordinance;
+
+    - (c) its electronic mail address (if any) and web site address (if any);
+
+    - (d) its contact details (including correspondence address, telephone and facsimile numbers and electronic mail address) of its complaints officer;
+
+    - (e) the effective date of such conditions (if any) of the registration as the Commission contains in the register under section 136(2)(b) of the Ordinance;
+
+    - (f) the regulated activity or activities for which the registered institution is registered and the effective date of the approval for the institution to carry on the regulated activity or activities;
+
+    - (g) whether or not the registration is suspended;
+
+    - (h) the modification or waiver granted (if any), together with such particulars as the Commission considers appropriate in relation to any condition imposed, and the corresponding effective date; and
+
+    - (i) a record of each public disciplinary action (if any) taken by the Commission against it in Hong Kong that is not the subject of a pending appeal, or a successful appeal, and the record of each disciplinary action is to be kept in the register for a period of 5 years from the date when the relevant disciplinary action takes effect.

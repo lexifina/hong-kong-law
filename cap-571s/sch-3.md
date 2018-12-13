@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 4]
 
-NOTIFICATION OF CHANGES
+Notification of Changes
 
-- PART 1 CHANGES TO BE NOTIFIED BY LICENSED CORPORATIONS
+- Part 1 Changes to be Notified by Licensed Corporations
 
 - Item | Description of information
 
@@ -46,11 +46,13 @@ NOTIFICATION OF CHANGES
 
 - 16. Changes in any insurance maintained or previously maintained by the licensed corporation in accordance with rules made under section 116(5) of the Ordinance.
 
-- PART 2 CHANGES TO BE NOTIFIED BY REGISTERED INSTITUTIONS
+- Part 2 Changes to be Notified by Registered Institutions
 
 - Item | Description of information
 
-- 1. Changes in the basic information in respect of— (a) the registered institution; (b) each controlling person of the registered institution; (c) each person who is an executive officer of the registered institution; and (d) each subsidiary of the registered institution that carries on a business in any regulated activity.
+- 1. Changes in the basic information in respect of— (a) the registered institution; (b) each controlling person of the registered institution; (c) each person who is an executive officer of the registered institution; and
+
+- (d) each subsidiary of the registered institution that carries on a business in any regulated activity.
 
 - 2. Changes in the persons who are controlling persons, executive officers or subsidiaries of the registered institution that carry on a business in any regulated activity.
 
@@ -76,7 +78,7 @@ NOTIFICATION OF CHANGES
 
 - 11. Changes in the name of the auditor of the registered institution and the reasons for the change in the auditor.
 
-- PART 3 CHANGES TO BE NOTIFIED BY LICENSED REPRESENTATIVES
+- Part 3 Changes to be Notified by Licensed Representatives
 
 - Item | Description of information
 
@@ -94,7 +96,7 @@ NOTIFICATION OF CHANGES
 
 - 7. Changes in the status of any directorships, partnerships or proprietorships of the licensed representative.
 
-- PART 4 CHANGES TO BE NOTIFIED BY SUBSTANTIAL SHAREHOLDERS
+- Part 4 Changes to be Notified by Substantial Shareholders
 
 - Item | Description of information
 

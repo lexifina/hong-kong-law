@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 14 & 84]
 
-EMPLOYEE IN EXISTING EMPLOYMENT
+Employee in Existing Employment
+
+(Format changes—E.R. 5 of 2018)
 
 - 1. An employee specified in section 2, 3, 4, 5 or 6 is an employee in an existing employment for the purposes of section 14 of this Ordinance.
 
@@ -74,11 +76,11 @@ EMPLOYEE IN EXISTING EMPLOYMENT
 
 - 11. For the purposes of this Ordinance—
 
-  - “ICAC officer” (廉署人員) means a public officer who is an officer within the meaning of section 2 of the Independent Commission Against Corruption Ordinance (Cap. 204);
+  - ICAC officer (廉署人員) means a public officer who is an officer within the meaning of section 2 of the Independent Commission Against Corruption Ordinance (Cap. 204);
 
-  - “judicial officer” (司法人員) means a judicial officer holding a judicial office specified in Schedule 1 to the Judicial Officers Recommendation Commission Ordinance (Cap. 92);
+  - judicial officer (司法人員) means a judicial officer holding a judicial office specified in Schedule 1 to the Judicial Officers Recommendation Commission Ordinance (Cap. 92);
 
-  - “local terms of employment” (本地僱用條款) and “overseas terms of employment” (海外僱用條款)—
+  - local terms of employment (本地僱用條款) and overseas terms of employment (海外僱用條款)—
 
     - (a) in relation to any employee (other than a public officer), mean respectively—
 
@@ -88,13 +90,13 @@ EMPLOYEE IN EXISTING EMPLOYMENT
 
     - (b) in relation to a judicial officer, an ICAC officer or any other public officer, respectively mean the local conditions or terms of service and overseas conditions or terms of service within the meaning of such regulations, administrative rules, circulars and circular memoranda as apply, from time to time, generally to the appointment or employment of judicial officers, ICAC officers or other public officers (as the case may be);
 
-  - “public officer” (公職人員) does not include a specified English teacher who is employed—
+  - public officer (公職人員) does not include a specified English teacher who is employed—
 
     - (a) in a primary or secondary school entirely maintained and controlled by the Government; or
 
     - (b) in the Native-speaking English Teacher Section of the Education Bureau;
 
-  - “specified English teacher” (指明英語教師) means a teacher—
+  - specified English teacher (指明英語教師) means a teacher—
 
     - (a) who is a native-speaker of English or possesses native-speaker English competency;
 
@@ -102,11 +104,11 @@ EMPLOYEE IN EXISTING EMPLOYMENT
 
     - (c) who—
 
-      - (i) is employed in a secondary school under the Enhanced Native-speaking English Teacher Scheme administered by the Education Bureau;
+      - (i) is employed in a secondary school under the “Enhanced Native-speaking English Teacher Scheme” administered by the Education Bureau;
 
-      - (ii) is employed in a primary school under the Native-speaking English Teacher Scheme administered by that Bureau; or
+      - (ii) is employed in a primary school under the “Native-speaking English Teacher Scheme” administered by that Bureau; or
 
-      - (iii) is employed as an Advisory Teacher or a Regional Native-speaking English Teacher Coordinator in the Native-speaking English Teacher Section of that Bureau.
+      - (iii) is employed as an Advisory Teacher or a Regional Native-speaking English Teacher Coordinator in the Native-speaking English Teacher Section of that Bureau. (Amended E.R. 5 of 2018)
 
 - Editorial Note:
 

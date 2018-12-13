@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 5]
 
 Financial Resources Requirements
 
-TABLE 1 Paid-up Share Capital
+Table 1 Paid-up Share Capital
 
 Regulated activity | Minimum amount of paid-up share capital
 
@@ -40,9 +40,7 @@ Type 9 | $5,000,000
 
 Type 10 (L.N. 29 of 2011) | $5,000,000
 
-TABLE 2
-
-Required Liquid Capital
+Table 2 Required Liquid Capital
 
 Regulated activity | Minimum amount of required liquid capital
 

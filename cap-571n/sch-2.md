@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 43]
 
 Haircut Percentages
 
-TABLE 1
+Table 1
 
 Haircut Percentages for Shares Listed in Hong Kong
 
@@ -28,7 +28,7 @@ Item | Description | Haircut Percentage %
 
 2. | Shares which are listed on a recognized stock market but are not stratified according to stock indices (L.N. 117 of 2006) | 30
 
-TABLE 1A
+Table 1A
 
 Haircut Percentages for Shares Listed in
 
@@ -60,7 +60,7 @@ Item | Description | Haircut Percentage %
 
 (b) for a licensed corporation which repledges securities collateral | 60
 
-(L.N. 117 of 2006) TABLE 2
+(L.N. 117 of 2006) Table 2
 
 Haircut Percentages for Shares Listed in The
 
@@ -80,7 +80,7 @@ Item | Description | Haircut Percentage %
 
 2. | Shares which are listed on a specified exchange in the United Kingdom (other than the London Stock Exchange plc—SEAQ International), the United States of America (other than the Nasdaq Stock Market, Inc.—Nasdaq National Market) or Japan (other than the Japanese Association of Securities Dealers Automated Quotations), but are not stratified according to stock indices (L.N. 117 of 2006) | 20
 
-TABLE 3
+Table 3
 
 Haircut Percentages for Other Shares
 
@@ -98,7 +98,7 @@ Item | Description | Haircut Percentage
 
 5. | Listed shares not referred to in item 1, 2, 3 or 4 or Table 1, 1A or 2 (L.N. 117 of 2006) | 75
 
-TABLE 4
+Table 4
 
 Haircut Percentages for Qualifying Debt Securities,
 
@@ -126,7 +126,7 @@ Tier | Description | Haircut Percentage %
 
 4. | To the extent not already covered in Tier 1, Tier 2 or Tier 3, where the issuer of the qualifying debt securities has an issue or issues currently rated by— (a) Moody’s Investors Service at Baa or Prime-3; or (b) Standard & Poor’s Corporation at BBB or A-3 | 5
 
-TABLE 5
+Table 5
 
 Haircut Percentages for Qualifying Debt Securities,
 
@@ -148,7 +148,7 @@ Haircut Percentage % | Haircut Percentage %
 
 (e) | 10 years or more | 10 | 22
 
-TABLE 6
+Table 6
 
 Haircut Percentages for Special Debt Securities
 
@@ -170,7 +170,7 @@ where—
 
 3. | Special debt securities being non-interest bearing debt securities | 105% of the haircut percentage applicable to the qualifying debt securities referred to in column 2 in relation to Tier 1, Tier 3 or Tier 4 in Table 4 and with the same remaining term to maturity
 
-TABLE 7
+Table 7
 
 Haircut Percentages for Specified Securities
 
@@ -192,7 +192,7 @@ where their nature is—
 
 (d) | not the same as any of the funds mentioned in paragraph (c) | 20%
 
-TABLE 8
+Table 8
 
 Haircut Percentages for Specified Investments
 

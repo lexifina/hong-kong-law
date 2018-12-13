@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 7 & 12]
 
-PRESCRIBED FEES
+Prescribed Fees
 
 Item | Particular | Fee $
 

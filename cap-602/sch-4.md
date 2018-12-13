@@ -1,8 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 33(2) & 84]
 
-DISCRIMINATION TO WHICH SECTIONS 27(1) AND 28 OF THIS ORDINANCE DO NOT APPLY
+Discrimination to which Sections 27(1) and 28 of this Ordinance Do Not Apply
+
+(Format changes—E.R. of 5 of 2018)
 
 Item | Provision creating illegality | Exception
 

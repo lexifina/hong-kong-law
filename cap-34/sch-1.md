@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 4(1)(a)]
 
-TRANSACTION NOTE
+Transaction Note
 
 Money Changer’s Name:
 
@@ -16,7 +16,9 @@ Currency | Amount | Net Rate of Exchange | Equivalent Amount
 
 Total
 
-Cashier’s Signature for the Money Changer. | Customer’s Signature.
+Cashier’s Signature for the Money Changer | Customer’s Signature
+
+(Amended E.R. 5 of 2018)
 
 A customer may cancel an exchange transaction within 3 days and obtain a refund of the original currency tendered in exchange for the Equivalent Amount shown above if the money changer fails to comply with the Money Changers Ordinance (Cap. 34).
 

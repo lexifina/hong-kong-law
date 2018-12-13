@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 49 & 50]
 
 Financial Commitments
 
-TABLE 1
+Table 1
 
 Interest Rate Swap Agreements
 
@@ -18,7 +18,7 @@ Item | Remaining term to maturity | Percentage %
 
 4. | Each year in addition to the period referred to in item 3 | 0.1
 
-TABLE 2
+Table 2
 
 Foreign Exchange Agreements
 
