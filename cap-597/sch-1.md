@@ -10,4 +10,4 @@ DESIGNATED COURTS
 
 - 3. An Intermediate People’s Court
 
-- 4. A recognized Basic People’s Court
+- 4. A recognized Primary People’s Court (Amended 17 of 2018 s. 20)
