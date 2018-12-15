@@ -114,7 +114,7 @@
 
 - 56. No. 1, Yuen Wo Road, Sha Tin.
 
-- 57. 1 Yung Shue Wan Main Street, Lamma Island.
+- 57. The first and second floors, 1 Yung Shue Wan Main Street, Lamma Island. (L.N. 192 of 2018)
 
 - 58. Shop 1, Block 20, Ground Floor, Sha Tau Kok Chuen, New Territories.
 
@@ -155,5 +155,7 @@
 - 76. The building known as Self-service Library Station situated at the Island East Sports Centre, 52 Lei King Road, Sai Wan Ho. (L.N. 97 of 2017)
 
 - 77. The building known as Self-service Library Station situated at the Hong Kong Cultural Centre, 10 Salisbury Road, Tsim Sha Tsui. (L.N. 97 of 2017)
+
+- 78. The building known as Self-service Library Station situated at 2 Tsuen Nam Road, Tai Wai, Sha Tin. (L.N. 192 of 2018)
 
 (Schedule replaced 78 of 1999 s. 7)
