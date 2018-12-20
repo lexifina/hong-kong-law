@@ -88,9 +88,7 @@
 
 - Note: | (1) | The fees specified in this Part include the issue of the appropriate certificate of competency or licence under the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J).
 
-- (2) | The fee for a sight test specified in item 6(a) is included in the fee for an examination for a certificate of competency specified in item 1 in cases where the sight test is conducted as part of the examination. In the event of a candidate failing the sight test, the balance of the relevant fees paid for the examination, less the fee for sight test, will be refunded to the candidate.
-
-- (3) | Examinations for Extra Master and Extra First Class Engineers are conducted by arrangement on behalf of the Department of Transport, London. The fees payable in Hong Kong shall be the appropriate fees payable to the Department of Transport from time to time plus 1/4 of such fees to cover administrative and other expenses incurred by the Hong Kong Government in providing the service.
+- (2)-(3) | (Repealed L.N. 82 of 2016)
 
 - Purpose or service | Fee $
 
@@ -98,23 +96,23 @@
 
 - For an examination for a certificate of competency on each occasion a candidate presents himself—
 
-- (a) | Deck Officer Class 1 (Master Mariner) | 9,250
+- (a) | Deck Officer Class 1 (Master Mariner) | 8,980
 
-- (b) | Deck Officer Class 2 | 6,940
+- (b) | Deck Officer Class 2 | 6,670
 
-- (c) | Deck Officer Class 3 | 4,820
+- (c) | Deck Officer Class 3 | 4,550
 
-- (d) | Deck Officer (River Trade) Class 1 | 6,940
+- (d) | Deck Officer (River Trade) Class 1 | 6,670
 
-- (e) | Deck Officer (River Trade) Class 2 | 4,820
+- (e) | Deck Officer (River Trade) Class 2 | 4,550
 
-- (f) | Deck Officer (River Trade) Class 3 | 3,090
+- (f) | Deck Officer (River Trade) Class 3 | 2,820
 
 - (g) | For an examination in communications in relation to sub-item (b), (c) or (e), if taken separately from the remainder of the full examination, for each attempt | 790
 
 - (h) | If a candidate for a certificate of competency in relation to sub-item (a), (b), (c), (d), (e) or (f) is examined or re-examined in either the written or the oral part of the examination | 1/2 of the appropriate fee in sub-items (a) to (f).
 
-- (L.N. 6 of 2011)
+- (L.N. 6 of 2011; L.N. 82 of 2016)
 
 - 2. | Fees for examinations for certificates of competency as Marine Engineer Officers Class 1, Class 2 or Class 3 and Marine Engineer Officers (River Trade) Class 1, Class 2 or Class 3—
 
@@ -156,7 +154,7 @@
 
 - (f) | Marine Engineer Officer (River Trade) Class 3 | 2,400
 
-- (g) | If a candidate for a certificate of competency in relation to sub-item (d) or (e) is examined or re-examined in either the written or oral part of the examination | 1/2 of the appropriate fee in sub-item (d) or (e)
+- (g) | If a candidate for a certificate of competency in relation to sub-item (d) or (e) is examined or re-examined in either the written or oral part of the examination | 1/2 of the appropriate fee in sub-item (d) or (e).
 
 - Note: | For the purpose of this item, “endorsement” (批註) means the endorsement of an ordinary (steam) certificate to the effect that the holder is qualified to act in the capacity stated in his certificate on board a motor vessel, or vice versa.
 
@@ -180,11 +178,7 @@
 
 - 6. | Fees for miscellaneous examinations, certificates and endorsements—
 
-- (a) | For a sight test for an examination in item 1 | 270
-
-- (b) | For a further sight test on appeal | 780
-
-- (c) | For a further sight test on special appeal | 1,520
+- (a)-(c) | (Repealed L.N. 82 of 2016)
 
 - (d) | For an examination of a candidate for an acting appointment as deck officer or marine engineer officer of a Hong Kong ship | 7,535
 
@@ -200,7 +194,7 @@
 
 - (a) | For a copy of a certificate of competency (other than a Type Rating Certificate), a certificate of service or a licence | 220
 
-- (b) | For a copy of a sight test certificate | 150
+- (b) | (Repealed L.N. 82 of 2016)
 
 - (c) | For a copy of a radar maintenance certificate | 150
 
@@ -316,17 +310,19 @@
 
 - 7. | Where any officer of the Marine Department is required to perform any service referred to in this Part either at the Office or at any other place in Hong Kong outside office hours, there shall be payable, in addition to the fee prescribed for the service required, the following charge—
 
-- (a) | on week-days from 7 a.m. to 9 a.m. or 5 p.m. to 7 p.m. (per hour per officer) | 1,115
+- (a) | on Monday to Friday (except a general holiday) between the hours of 6:30 a.m. to 8:30 a.m. or 5:45 p.m. to 7:45 p.m. (per hour per officer) | 1,115
 
-- (b) | on week-days before 7 a.m. or after 7 p.m. (per hour per officer) | 2,215
+- (b) | on Monday to Friday (except a general holiday) before 6:30 a.m. or after 7:45 p.m. (per hour per officer) | 2,215
 
-- (c) | on Saturday afternoons, Sundays and public holidays (per hour per officer) | 3,270
+- (c) | on Saturday, Sunday or a general holiday (per hour per officer) | 3,270
 
 - Note: | A service occupying less than an hour will be charged for as one hour, according to the scale. Where a service occupies more than one hour but not an exact number of hours the charge will be—
 
 - (a) | if the period in excess of an exact number of hours is 30 minutes or less, half the appropriate fee for one hour;
 
 - (b) | if the period in excess is more than 30 minutes, the appropriate fee for one hour.
+
+- (L.N. 82 of 2016)
 
 - 8. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Engine Room Watch Ratings and Electro-technical Ratings) Regulation (Cap. 478 sub. leg. V)—
 
@@ -400,18 +396,26 @@
 
 - (a) | Fee for the conduct of a muster | Nil
 
-- (b) | Fee for the issue of an exemption certificate to a non-registered seafarer | Nil
+- (b) | Fee for the issue of an exemption certificate to a seafarer whose name is not entered in the register (16 of 2013 s. 80) | Nil
 
 - (c) | Fee for a permit to use the emergency employment procedure | Nil
 
 - (d) | Fee for a permit to use the re-employment procedure | Nil
 
-- (e) | Fee for a permit to operate the company roster | Nil
+- (e) | Fee for a permit to operate the roster (16 of 2013 s. 80) | Nil
 
-- (f) | Fee for amendment of particulars on a company roster | Nil
+- (f) | Fee for amendment of particulars on a roster (16 of 2013 s. 80) | Nil
 
 - (g) | Employment of seafarers supplied through Office procedures (in respect of each seafarer employed) | Nil
 
 - (h) | Emergency employment (in respect of each seafarer employed) (L.N. 102 of 2009) | Nil
 
 - 12. | Fee for providing copy of Chinese language translation of the Code under the Merchant Shipping (Seafarers) (Code of Safe Working Practices) Regulation (Cap. 478 sub. leg. M) | 95
+
+- Part IV Fees Payable for Inspection and Issue of Certificates under Merchant Shipping (Seafarers) (Working and Living Conditions) Regulation (Part IV added L.N. 82 of 2016)
+
+- Service | Fee $
+
+- 1. | An inspection or intermediate inspection of a ship referred to in section 69, 72, 74, 78 or 91 of the Merchant Shipping (Seafarers) (Working and Living Conditions) Regulation (Cap. 478 sub. leg. AF) (E.R. 5 of 2018) | 3,270 for the first hour or part hour, and $1,115 for each subsequent hour or part hour during which the inspection continues.
+
+- 2. | Issue of a maritime labour certificate, or interim maritime labour certificate, under section 69, 70, 72 or 78 of the Merchant Shipping (Seafarers) (Working and Living Conditions) Regulation (Cap. 478 sub. leg. AF) (E.R. 5 of 2018) | 565
