@@ -2,7 +2,9 @@
 
 [ss. 3, 9(1)(a)(ii), 10(3)
 
-& (4) & 42]
+& (4), 41A & 42]
+
+(L.N. 73 of 2016)
 
 DECK COVERINGS
 
@@ -26,7 +28,7 @@ DECK COVERINGS
 
   - (7) if laid in a permanent hospital, be such that it will not be readily susceptible to damage by liquids which are likely to be used in the hospital;
 
-  - (8) if it is laid directly on top of an oil tank, be such that if it is immersed in fuel oil for 24 hours at a temperature of 66℃ it will not be penetrated by the oil and its weight will not increase by more than 1%;
+  - (8) if it is laid directly on top of an oil tank, be such that if it is immersed in fuel oil for 24 hours at a temperature of 66°C it will not be penetrated by the oil and its weight will not increase by more than 1%;
 
   - (9)
 

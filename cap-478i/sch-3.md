@@ -1,6 +1,8 @@
 # SCHEDULE 3
 
-[ss. 3, 15 & 42]
+[ss. 3, 15, 41A & 42]
+
+(L.N. 73 of 2016)
 
 ELECTRIC LIGHTING
 

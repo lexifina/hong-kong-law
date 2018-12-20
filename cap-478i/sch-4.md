@@ -1,6 +1,8 @@
 # SCHEDULE 4
 
-[ss. 3, 16 & 42]
+[ss. 3, 16, 41A & 42]
+
+(L.N. 73 of 2016)
 
 TRUNKED MECHANICAL VENTILATION SYSTEMS
 
@@ -30,94 +32,96 @@ TRUNKED MECHANICAL VENTILATION SYSTEMS
 
   - For Air Conditioning Units, Supply and Exhaust Fans, Refrigerating Machinery and Seawater Pump
 
-    - Motors: (for each size fitted) 1-set Bearings
+    - Motors: (for each size fitted) 1—set Bearings
 
-    - Starters: (for each size fitted) 1-set Contacts 1-set Springs 1-Operating Coil
+    - Starters: (for each size fitted) 1—set Contacts 1—set Springs 1—Operating Coil
 
-    - Mechanical Spares for Pump: (for each size fitted) 1-set Wearing Rings 1-set Seal parts
+    - Mechanical Spares for Pump: (for each size fitted) 1—set Wearing Rings 1—set Seal parts
 
   - For Air Conditioning Units
 
-    - 1-set Air Filter Cells (if throw-away type fitted) 1-set Fan Bearings for A/C Unit 1-set Vee Belts of each size and type fitted
+    - 1—set Air Filter Cells (if throw-away type fitted) 1—set Fan Bearings for A/C Unit 1—set Vee Belts of each size and type fitted
 
   - For Refrigerating Machinery
 
-    - Compressor: (for each size fitted) 1-Gasket Set 1-Shaft Seal Replacement 1-set Piston Rings 1-complete set Connecting Rod Bolts and Nuts 1-complete set Connecting Rod Bearings 1-set Discharge Valve Discs 1-set Discharge Valve Springs 1-set Suction Valve Discs 1-set Suction Valve Springs 1-Main Bearing-Pump End 1-Main Bearing-Seal End 2-Pump End Bearing Washers (Bronze) 2-Seal End Bearing Washers (Bronze) 2-Seal End Thrust Washers (Steel) 1-Oil Filter Condenser: (for each size fitted) 1-set End Cover Gaskets 1-set Condenser Anodes 1-Tube Cleansing Brush Miscellaneous: 1-Oil Differential Switch 1-High/Low Pressure Switch 1-set Drier Cores 1-Relief Valve 1-set Packing for Refrigerating Line Valves 1-set Vee Belts of each size fitted 1-Expansion Valve of each size fitted 1-Leak Detector
+    - Compressor: (for each size fitted) 1—Gasket Set 1—Shaft Seal Replacement 1—set Piston Rings 1—complete set Connecting Rod Bolts and Nuts 1—complete set Connecting Rod Bearings 1—set Discharge Valve Discs 1—set Discharge Valve Springs 1—set Suction Valve Discs 1—set Suction Valve Springs 1—Main Bearing—Pump End 1—Main Bearing—Seal End 2—Pump End Bearing Washers (Bronze) 2—Seal End Bearing Washers (Bronze) 2—Seal End Thrust Washers (Steel) 1—Oil Filter Condenser: (for each size fitted) 1—set End Cover Gaskets 1—set Condenser Anodes 1—Tube Cleansing Brush Miscellaneous: 1—Oil Differential Switch 1—High/Low Pressure Switch 1—set Drier Cores 1—Relief Valve 1—set Packing for Refrigerating Line Valves 1—set Vee Belts of each size fitted 1—Expansion Valve of each size fitted 1—Leak Detector
 
-TABLE I (not applicable to Spaces specified in Table II)
+TABLE I
 
-1 Cate-gory | 2 Space | 3 Fresh air changes per hour | 4 Volume of fresh air in cubic metres per minute, for each seafarer likely to use the room at any one time
+(not applicable to Spaces specified in Table II)
 
-A | Accommodation above the Upper Deck
+- 1 Cate-gory | 2 Space | 3 Fresh air changes per hour | 4 Volume of fresh air in cubic metres per minute, for each seafarer likely to use the room at any one time
 
-(i) | Rooms (other than those in Category (ii))
+- A | Accommodation above the Upper Deck
 
-(1) | outside rooms (other than rooms adjoining machinery casings) | 12 | 1.42
+- (i) | Rooms (other than those in Category (ii))
 
-(2) | inside rooms and rooms adjoining machinery casings | 15 | 1.42
+- (1) | outside rooms (other than rooms adjoining machinery casings) | 12 | 1.42
 
-(ii) | Mess rooms, smoking rooms and recreation rooms
+- (2) | inside rooms and rooms adjoining machinery casings | 15 | 1.42
 
-(1) | not adjoining machinery casings | 15 | 0.71(a)
+- (ii) | Mess rooms, smoking rooms and recreation rooms
 
-(2) | adjoining machinery casings | 18 | 0.71(a)
+- (1) | not adjoining machinery casings | 15 | 0.71(a)
 
-B | Accommodation below the Upper Deck of Motor Vessels
+- (2) | adjoining machinery casings | 18 | 0.71(a)
 
-(i) | Rooms (other than those in Category (ii))
+- B | Accommodation below the Upper Deck of Motor Vessels
 
-(1) | outside rooms (other than rooms adjoining machinery casings) | 12 | 1.42
+- (i) | Rooms (other than those in Category (ii))
 
-(2) | inside rooms and rooms adjoining machinery casings | 15 | 1.70
+- (1) | outside rooms (other than rooms adjoining machinery casings) | 12 | 1.42
 
-(ii) | Mess rooms, smoking rooms and recreation rooms
+- (2) | inside rooms and rooms adjoining machinery casings | 15 | 1.70
 
-(1) | not adjoining machinery casings | 15 | 0.71
+- (ii) | Mess rooms, smoking rooms and recreation rooms
 
-(2) | adjoining machinery casings | 18 | 0.71
+- (1) | not adjoining machinery casings | 15 | 0.71
 
-C | Accommodation below the Upper Deck of Steam Ships
+- (2) | adjoining machinery casings | 18 | 0.71
 
-(i) | Rooms (other than those in Category (ii))
+- C | Accommodation below the Upper Deck of Steam Ships
 
-(1) | outside rooms (other than rooms immediately above or adjoining machinery casings) | 12 | 1.42
+- (i) | Rooms (other than those in Category (ii))
 
-(2) | inside rooms and rooms immediately above or adjoining machinery casings | 18 | 1.70
+- (1) | outside rooms (other than rooms immediately above or adjoining machinery casings) | 12 | 1.42
 
-(ii) | Mess rooms, smoking rooms and recreation rooms
+- (2) | inside rooms and rooms immediately above or adjoining machinery casings | 18 | 1.70
 
-(1) | not adjoining machinery casings | 18 | 0.85(b)
+- (ii) | Mess rooms, smoking rooms and recreation rooms
 
-(2) | adjoining machinery casings | 20 | 0.85(b)
+- (1) | not adjoining machinery casings | 18 | 0.85(b)
 
-D | Passageways above and below the Upper Deck
+- (2) | adjoining machinery casings | 20 | 0.85(b)
 
-Adjoining machinery casings | 4 | —
+- D | Passageways above and below the Upper Deck
 
-(a) | Provided that whatever the number of seafarers likely to use the room at any one time, the total volume of fresh air per minute shall not be required to exceed such volume per minute as would produce 20 fresh air changes per hour.
+- Adjoining machinery casings | 4 | —
 
-(b) | Provided that whatever the number of seafarers likely to use the room at any one time, the total volume of fresh air per minute shall not be required to exceed such volume per minute as would produce 25 fresh air changes per hour.
+- (a) | Provided that whatever the number of seafarers likely to use the room at any one time, the total volume of fresh air per minute shall not be required to exceed such volume per minute as would produce 20 fresh air changes per hour.
+
+- (b) | Provided that whatever the number of seafarers likely to use the room at any one time, the total volume of fresh air per minute shall not be required to exceed such volume per minute as would produce 25 fresh air changes per hour.
 
 TABLE II
 
-1 Cate-gory | 2 Space | 3 | 4
+- 1 Cate-gory | 2 Space | 3 | 4
 
-Fresh air changes per hour
+- Fresh air changes per hour
 
-Supply | Exhaust
+- Supply | Exhaust
 
-E | Galleys | 20(c) | 40
+- E | Galleys | 20(c) | 40
 
-F | Sanitary accommodation, laundries, drying rooms and pantries | (d) | 15
+- F | Sanitary accommodation, laundries, drying rooms and pantries | (d) | 15
 
-Private or semi-private | (d) | 10
+- Private or semi-private toilets | (d) | 10
 
-G | Wards in permanent hospitals | 12 or such greater number as would result in the supply of not less than 1.42 cubic metres fresh air per minute for each bed in the ward | —
+- G | Wards in permanent hospitals | 12 or such greater number as would result in the supply of not less than 1.42 cubic metres fresh air per minute for each bed in the ward | —
 
-H | Dry provisions store rooms | Not less than 10and not more than 20(e) | —
+- H | Dry provisions store rooms | Not less than 10 and not more than 20(e) | —
 
-(c) | 15, if at least 2 sides of the galley are exposed to the weather.
+- (c) | 15, if at least 2 sides of the galley are exposed to the weather.
 
-(d) | Mechanical supply ventilation may be fitted in addition to the mechanical exhaust ventilation provided that the volume of air supplied does not exceed that provided by the exhaust.
+- (d) | Mechanical supply ventilation may be fitted in addition to the mechanical exhaust ventilation provided that the volume of air supplied does not exceed that provided by the exhaust.
 
-(e) | Subject to the provisions of section 33(3) of this Regulation.
+- (e) | Subject to the provisions of section 33(3) of this Regulation.

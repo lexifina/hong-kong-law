@@ -1,6 +1,8 @@
 # SCHEDULE 2
 
-[ss. 3, 9(1)(b) & 42]
+[ss. 3, 9(1)(b), 41A & 42]
+
+(L.N. 73 of 2016)
 
 INSULATING MATERIAL FOR THE UNDERSIDE OF DECKS
 
@@ -8,7 +10,7 @@ INSULATING MATERIAL FOR THE UNDERSIDE OF DECKS
 
   - (1) provide thermal insulation not less than that provided by a wooden deck 57 millimetres thick;
 
-  - (2) be such that it is non-combustible, that is to say, insulating material which when heated to a temperature of 750℃ (1382℉) neither flames for longer than 10 seconds duration, nor raises either its internal temperature or the temperature of the test furnace more than 50℃ (90℉) above 750℃ (1382℉) when tested in accordance with an established test procedure to the satisfaction of the Authority;
+  - (2) be such that it is non-combustible, that is to say, insulating material which when heated to a temperature of 750°C (1382°F) neither flames for longer than 10 seconds duration, nor raises either its internal temperature or the temperature of the test furnace more than 50°C (90°F) above 750°C (1382°F) when tested in accordance with an established test procedure to the satisfaction of the Authority;
 
   - (3)
 

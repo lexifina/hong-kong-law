@@ -1,8 +1,12 @@
 # SCHEDULE 6
 
-[ss. 39, 40, 41 & 42]
+[ss. 39, 40, 41, 41A & 42]
 
-CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 1979
+(L.N. 73 of 2016)
+
+CREW ACCOMMODATION REQUIREMENTS FOR CERTAIN HONG KONG SHIPS CONSTRUCTED BEFORE 1 JULY 1979
+
+(L.N. 73 of 2016)
 
 - 1. Position of crew accommodation
 
@@ -14,7 +18,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
 - 2. Height of crew accommodation
 
-  - (1) In every ship to which this Schedule applies the height of the crew accommodation measured from the top of the floor beams to the top of the crown beams shall be not less than the following— In ships of under 1600 tons-7 feet. In ships of 1600 tons or over-7 feet 6 inches.
+  - (1) In every ship to which this Schedule applies the height of the crew accommodation measured from the top of the floor beams to the top of the crown beams shall be not less than the following— In ships of under 1 600 tons—7 feet. In ships of 1 600 tons or over—7 feet 6 inches.
 
   - (2) Every sleeping room forming part of the crew accommodation in a ship to which this Schedule applies shall be so constructed as to provide a clear headroom of at least 6 feet 3 inches at every point in the room which is available for free movement.
 
@@ -62,13 +66,13 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
   - (2) The upper side of every overhead deck shall be sheathed with wood or with a material which complies with the requirements specified in Appendix 1 to this Schedule. Such sheathing shall be properly laid and, if it consists of wood, shall be properly caulked.
 
-  - (3) Every wooden overhead deck shall be at least 2 1/2 inches thick and every wooden sheathing shall be 2 1/4 inches thick.
+  - (3) Every wooden overhead deck shall be at least 2 1 2 inches thick and every wooden sheathing shall be 2 1 4 inches thick.
 
 - 5. Flooring
 
   - (1) In every ship to which this Schedule applies the decks which form the floors in the crew accommodation shall be properly constructed and shall have a surface which provides a good foothold and is capable of being easily kept clean. The floor covering shall be impervious to water and, if the deck is situated on the top of an oil tank, impervious to oil.
 
-  - (2) Wooden decks which form the floors in the crew accommodation shall be at least 2 1/2 inches thick and shall be properly laid and caulked.
+  - (2) Wooden decks which form the floors in the crew accommodation shall be at least 2 1 2 inches thick and shall be properly laid and caulked.
 
   - (3) The surface of metal decks which form the floors of the crew accommodation, not being floors in sanitary accommodation, galleys, store rooms or laundries, shall be covered with linoleum or wooden planking, or with a material which complies with the requirements specified in Appendix 1 to this Schedule. The joinings of such material with the side walls shall be rounded in a manner which will avoid crevices. Such linoleum, planking or material shall be properly laid.
 
@@ -154,7 +158,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
 - 7. Heating
 
-  - (1) In every ship to which this Schedule applies, other than a ship employed solely within the Tropics or the Persian Gulf, all sleeping rooms, mess rooms, recreation rooms, sanitary accommodation, offices, studies and hospitals forming part of the crew accommodation shall be provided with a heating system which shall be permanently installed and capable of ensuring that when the ventilation system provided for such rooms or accommodation in compliance with this Schedule is working so as to furnish at least 15 cubic feet of fresh air per minute for each seafarer whom the room or accommodation is designed to accommodate at one time and the temperature of the open air is 30 degrees Fahrenheit, the temperature therein can be maintained at 67 degrees Fahrenheit. Provided that the temperature within a water closet shall not be required to be maintained at more than 10 degrees Fahrenheit above the ambient temperature in the open air. If the temperature within any water closet is capable of being so maintained by heat derived from an adjoining compartment, a heating system shall not be required to be provided in that water closet.
+  - (1) In every ship to which this Schedule applies, other than a ship employed solely within the Tropics or the Persian Gulf, all sleeping rooms, mess rooms, recreation rooms, sanitary accommodation, offices, studies and hospitals forming part of the crew accommodation shall be provided with a heating system which shall be permanently installed and capable of ensuring that when the ventilation system provided for such rooms or accommodation in compliance with this Schedule is working so as to furnish at least 15 cubic feet of fresh air per minute for each seafarer whom the room or accommodation is designed to accommodate at one time and the temperature of the open air is 30°F, the temperature therein can be maintained at 67°F. Provided that the temperature within a water closet shall not be required to be maintained at more than 10°F above the ambient temperature in the open air. If the temperature within any water closet is capable of being so maintained by heat derived from an adjoining compartment, a heating system shall not be required to be provided in that water closet.
 
   - (2) The permanent heating system required by subsection (1) shall be operated by steam, hot water or electricity, or shall be a system supplying warm air.
 
@@ -172,7 +176,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - Provided that this subsection shall not apply to any sidescuttle being a sidescuttle in a passenger ship which is required by rule 17(3)(a)(b) or (4) of the Merchant Shipping (Passenger Ship Construction) Rules 1965 (S.I. 1965/1103 U.K.) to be of a non-opening type.
 
-  - (4) In every ship of 3000 tons or over such sidescuttle shall be at least 12 inches in diameter.
+  - (4) In every ship of 3 000 tons or over such sidescuttle shall be at least 12 inches in diameter.
 
   - (5) In every ship to which this Schedule applies an electrical system shall be installed which is capable of providing adequate lighting in every part of the crew accommodation. The electric lights shall be so arranged as to give the maximum benefit to the crew, and in particular an electric reading light shall be fitted at the head of each bed and shall be capable of being switched on and off from the bed. A lamp emitting at least 200 lumens shall be fitted in every such reading light in a sleeping room, and a lamp emitting at least 400 lumens shall be fitted in every such light in a hospital ward. An efficient alternative system of lighting or source of electric power shall be always available for lighting the crew accommodation.
 
@@ -288,15 +292,13 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (b) The sectional area of every part of the inlet and exhaust system (other than a part serving only a drying room or locker) shall be at least 6 square inches for each seafarer for whose use at any one time the space is appropriated, and shall not be less than 19 square inches in all at any point in the system. The effective area of the inlet and exhaust system serving each space shall be capable of being adjusted from fully open down to a minimum of 3 square inches for each seafarer likely to use the space at any one time.
 
-  - (3) Every enclosed space, other than a cold store room, forming part of the crew accommodation of a ship to which this Schedule applies, being a ship of 3000 tons or over, or a ship of under 3000 tons for the time being regularly engaged only on voyages confined to the areas within the Tropics and the Persian Gulf, shall be provided with a trunked mechanical ventilation system complying with the requirements specified in Appendix 2 to this Schedule. Provided that such a system shall not be required in any galley which is situated on an open deck and exposed to the weather on the fore-end and the port and starboard sides.
+  - (3) Every enclosed space, other than a cold store room, forming part of the crew accommodation of a ship to which this Schedule applies, being a ship of 3 000 tons or over, or a ship of under 3 000 tons for the time being regularly engaged only on voyages confined to the areas within the Tropics and the Persian Gulf, shall be provided with a trunked mechanical ventilation system complying with the requirements specified in Appendix 2 to this Schedule. Provided that such a system shall not be required in any galley which is situated on an open deck and exposed to the weather on the fore-end and the port and starboard sides.
 
-  - (4) In the crew accommodation of every ship to which this Schedule applies, being a ship not provided with a trunked mechanical ventilation system and not being a ship for the time being regularly engaged only on voyages on the coasts of New Zealand or at latitudes north of 53 degrees North latitude or south of 45 degrees South latitude, an electric fan shall be fitted in every sleeping room, mess room, recreation room, study, office, galley and pantry.
+  - (4) In the crew accommodation of every ship to which this Schedule applies, being a ship not provided with a trunked mechanical ventilation system and not being a ship for the time being regularly engaged only on voyages on the coasts of New Zealand or at latitudes north of 53° North latitude or south of 45° South latitude, an electric fan shall be fitted in every sleeping room, mess room, recreation room, study, office, galley and pantry.
 
   - (5) Power for the operation of the trunked mechanical ventilation system or fans, as the case may be, required by subsections (1) to (4) inclusive shall be available at all times when any members of the crew are on board the ship and circumstances require such system or fans to be used.
 
-  - (6) The following spare gear shall be provided for each size of electric motor employed to operate a trunked mechanical ventilation system in the crew accommodation of a ship to which this Schedule applies—
-
-  - For direct current motors
+  - (6) The following spare gear shall be provided for each size of electric motor employed to operate a trunked mechanical ventilation system in the crew accommodation of a ship to which this Schedule applies— For direct current motors
 
     - 1 armature 1 field coil 1 set of bearings 1 set of carbon brushes 1 brush holder
 
@@ -364,7 +366,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (c) Apprentices—wherever practicable not more than 3 per room, and in no event more than 4 per room.
 
-    - (d) Chief or only steward and chief or only cook, in either case in a ship of 3000 tons or over—1 per room.
+    - (d) Chief or only steward and chief or only cook, in either case in a ship of 3 000 tons or over—1 per room.
 
     - (e) Petty officers not being seafarers referred to in paragraph (d)—wherever practicable 1 per room and in no event more than 2 per room.
 
@@ -380,9 +382,9 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
       - In ships of 400 tons or over but under 800 tons | 20
 
-      - In ships of 800 tons or over but under 3000 tons | 25
+      - In ships of 800 tons or over but under 3 000 tons | 25
 
-      - In ships of 3000 tons or over | 30
+      - In ships of 3 000 tons or over | 30
 
     - (b) Subject to the provisions of paragraph (c), the minimum floor area provided in a sleeping room in a passenger ship shall be 24 square feet per seafarer if more than 4 ratings are accommodated in that room.
 
@@ -392,7 +394,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
       - In ships of under 400 tons | 14
 
-      - In ships of 400 tons or over but under 3000 tons | 18
+      - In ships of 400 tons or over but under 3 000 tons | 18
 
       - In ships of 3000 tons or over | 20
 
@@ -432,7 +434,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (a) Subject to the provisions of paragraph (b) the size of the beds provided for the crew shall be at least 6 feet 3 inches by 2 feet 3 inches, the measurements being taken inside the lee-boards or lee-rails, if any, and at right angles to each other.
 
-    - (b) The size of the beds provided in a ship of 3000 tons or over for the Chief Officer and for the Chief and Second Engineers shall be at least 6 feet 3 inches by 2 feet 9 inches in a passenger ship and at least 6 feet 3 inches by 3 feet 6 inches in any other ship, the measurements in each case being taken inside the lee-boards or lee-rails, if any, and at right angles to each other.
+    - (b) The size of the beds provided in a ship of 3 000 tons or over for the Chief Officer and for the Chief and Second Engineers shall be at least 6 feet 3 inches by 2 feet 9 inches in a passenger ship and at least 6 feet 3 inches by 3 feet 6 inches in any other ship, the measurements in each case being taken inside the lee-boards or lee-rails, if any, and at right angles to each other.
 
   - (10) Every bed provided for a member of the crew shall be fitted with a spring bottom or spring under-mattress, and with a mattress made of material which will resist damp and is unlikely to harbour vermin. A bottom of wood, canvas or other dust-proof material shall be fitted to every bed which is fitted above another bed.
 
@@ -540,9 +542,9 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
   - (3) In every ship of 500 tons or over the mess rooms provided for ratings shall be separate from those provided for the Master of the ship or for officers.
 
-  - (4) In every ship of 1000 tons or over a single mess room shall be provided for all officers in the ship. Provided that the officers may be accommodated in separate mess rooms if their sleeping rooms are in widely separated portions of the ship.
+  - (4) In every ship of 1 000 tons or over a single mess room shall be provided for all officers in the ship. Provided that the officers may be accommodated in separate mess rooms if their sleeping rooms are in widely separated portions of the ship.
 
-  - (5) In every ship of 1000 tons or over each of the following classes of ratings shall be provided with mess rooms separate from those provided for the other classes—
+  - (5) In every ship of 1 000 tons or over each of the following classes of ratings shall be provided with mess rooms separate from those provided for the other classes—
 
     - (a) petty officers of the deck department;
 
@@ -552,7 +554,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (d) other ratings of the engine room department.
 
-  - (6) In every ship of 3000 tons or over mess rooms shall be provided for ratings of the catering department which shall be separate from those provided for ratings of other departments. If in any other ship a separate mess room is not provided for ratings of the catering department, messing accommodation shall be provided for them in mess rooms provided for other ratings.
+  - (6) In every ship of 3 000 tons or over mess rooms shall be provided for ratings of the catering department which shall be separate from those provided for ratings of other departments. If in any other ship a separate mess room is not provided for ratings of the catering department, messing accommodation shall be provided for them in mess rooms provided for other ratings.
 
   - (7) Apprentices shall be provided with a separate mess room, or with messing accommodation in the officers’ mess room.
 
@@ -572,15 +574,15 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - Provided that the lockers or racks may be fitted in a pantry, store room or other suitable place outside a mess room and readily accessible therefrom. No lockers or racks, being lockers or racks intended to contain food, shall be fitted in a sleeping room, not being a sleeping room combined with a mess room.
 
-  - (4) A dresser, hot-press, sink and boiler or other means from which boiling drinking water shall always be available shall be fitted in each mess room, unless such equipment is fitted in a pantry readily accessible from the mess room or, in the case of a ship of under 1000 tons, in a galley. Such equipment shall be adequate in size for the number of seafarers likely to use the room at any one time. If in the case of a mess room provided for officers or petty officers the dresser is fitted in a pantry, a sideboard shall be provided in the mess room. A supply of fresh water shall be laid on to the sink and boiler.
+  - (4) A dresser, hot-press, sink and boiler or other means from which boiling drinking water shall always be available shall be fitted in each mess room, unless such equipment is fitted in a pantry readily accessible from the mess room or, in the case of a ship of under 1 000 tons, in a galley. Such equipment shall be adequate in size for the number of seafarers likely to use the room at any one time. If in the case of a mess room provided for officers or petty officers the dresser is fitted in a pantry, a sideboard shall be provided in the mess room. A supply of fresh water shall be laid on to the sink and boiler.
 
   - (5) All tables, lockers, dressers and the un-upholstered parts of chairs and settees in the mess room shall be made of polished hardwood, rustproof metal or other smooth and impervious material not likely to crack, warp or become corroded. All furniture provided in the mess room shall be so made as not to be likely to harbour vermin.
 
 - 18. Recreation spaces and studies
 
-  - (1) In every ship to which this Schedule applies, being a ship of 3000 tons or over, a smoking room shall be provided for the recreation of the officers, and shall not be combined with a mess room. The smoking room shall be provided with tables each having a top approximately 4 square feet in area and with tub chairs or easy chairs sufficient to accommodate at one time at least one-third of the number of officers for whose use the room is provided, and a bookcase.
+  - (1) In every ship to which this Schedule applies, being a ship of 3 000 tons or over, a smoking room shall be provided for the recreation of the officers, and shall not be combined with a mess room. The smoking room shall be provided with tables each having a top approximately 4 square feet in area and with tub chairs or easy chairs sufficient to accommodate at one time at least one-third of the number of officers for whose use the room is provided, and a bookcase.
 
-  - (2) In every ship to which this Schedule applies of under 3000 tons, the mess room provided for the officers shall be available and furnished for use as a smoking room, unless a separate smoking room is provided for their use.
+  - (2) In every ship to which this Schedule applies of under 3 000 tons, the mess room provided for the officers shall be available and furnished for use as a smoking room, unless a separate smoking room is provided for their use.
 
   - (3) In every ship to which this Schedule applies recreation accommodation shall be provided in a mess room or elsewhere for ratings and shall be conveniently situated and appropriately furnished. Where such accommodation is provided elsewhere than in a mess room the seating provided shall be sufficient to accommodate at one time at least one-third of the number of ratings for whom that accommodation is provided.
 
@@ -588,11 +590,11 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
   - (5) In every ship to which this Schedule applies, being a ship of 500 tons or over, a bookcase shall be provided for, and shall be accessible to, all members of the crew.
 
-  - (6) In every ship to which this Schedule applies space shall be provided on an open deck for the use of the crew for recreational purposes.The space shall be adequate in area (in so far as the size of the ship allows) having regard to the number of seafarers in the crew.
+  - (6) In every ship to which this Schedule applies space shall be provided on an open deck for the use of the crew for recreational purposes. The space shall be adequate in area (in so far as the size of the ship allows) having regard to the number of seafarers in the crew.
 
   - (7) Separate and appropriate recreation rooms shall be provided wherever required by the widely different national habits and customs of groups of seafarers in the crew.
 
-- 19. Office accommodation In every ship to which this Schedule applies, being a ship of 3000 tons or over, and not being a ship used in treating whales or engaged in the carriage of seafarers employed in catching or treating whales, 2 separate rooms shall be provided for use as offices and shall be appropriately furnished for that purpose. One of such rooms shall be appropriated for use by the Chief Officer or the officers of the deck department, and the other for use by the Chief Engineer or the officers of the engine room department. The office accommodation shall be in a room not used for any other purpose except study. Provided that an office appropriated solely for use by an individual officer may be combined with the day room of that officer.
+- 19. Office accommodation In every ship to which this Schedule applies, being a ship of 3 000 tons or over, and not being a ship used in treating whales or engaged in the carriage of seafarers employed in catching or treating whales, 2 separate rooms shall be provided for use as offices and shall be appropriately furnished for that purpose. One of such rooms shall be appropriated for use by the Chief Officer or the officers of the deck department, and the other for use by the Chief Engineer or the officers of the engine room department. The office accommodation shall be in a room not used for any other purpose except study. Provided that an office appropriated solely for use by an individual officer may be combined with the day room of that officer.
 
 - 20. Washing accommodation
 
@@ -632,9 +634,9 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (d) a bath, shower or wash-basin shall be deemed to be private if it is appropriated for the exclusive use of not more than 4 seafarers.
 
-  - (5) The wash-basins shall be made of vitreous china or other material having a smooth and impervious surface not likely to crack, flake or become corroded. Every wash-basin provided in a passenger ship, being a basin fitted with hot and cold fresh-water taps, shall have a capacity of at least 1 gallon. Every other wash-basin provided in compliance with this Schedule shall have a capacity of at least 1 1/2 gallons. The capacity of wash-basins shall be measured for the purposes of this subsection to a level at least 1 1/2 inches below the rim of the bowl.
+  - (5) The wash-basins shall be made of vitreous china or other material having a smooth and impervious surface not likely to crack, flake or become corroded. Every wash-basin provided in a passenger ship, being a basin fitted with hot and cold fresh-water taps, shall have a capacity of at least 1 gallon. Every other wash-basin provided in compliance with this Schedule shall have a capacity of at least 1 1 2 gallons. The capacity of wash-basins shall be measured for the purposes of this subsection to a level at least 1 1 2 inches below the rim of the bowl.
 
-  - (6) Every bath shall be at least 4 feet 5 inches in internal length unless it is combined with a shower. Every bath shall be made of vitreous enamelled iron, or other material having a smooth and impervious surface not likely to crack, flake or become corroded. The floor area of every shower space shall be at least 6 1/4 square feet, and each side of the space shall be at least 2 feet 6 inches long.
+  - (6) Every bath shall be at least 4 feet 5 inches in internal length unless it is combined with a shower. Every bath shall be made of vitreous enamelled iron, or other material having a smooth and impervious surface not likely to crack, flake or become corroded. The floor area of every shower space shall be at least 6 1 4 square feet, and each side of the space shall be at least 2 feet 6 inches long.
 
   - (7) Baths and showers provided for any class of seafarers shall be situated in or adjacent to a room containing wash-basins and provided for that class of seafarers. Screening shall be provided to ensure privacy for any bath or shower which is in the same room as any wash-basin or any other bath or shower unless the room is appropriated for the sole use of one seafarer. The screening shall be made of robust and opaque material and shall be rigid on at least 3 sides of every bath and shower space. The screening shall, wherever reasonable and practicable in the circumstances, enclose sufficient space to permit a seafarer to dress and undress in comfort therein.
 
@@ -646,7 +648,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
 - 21. Supply of water to washing accommodation
 
-  - (1) In every ship to which this Schedule applies there shall be available a supply of fresh water sufficient for the wash-basins, baths and showers fitted in compliance with this Schedule. The supply shall be provided from tanks of a capacity of at least 10 gallons for each member of the crew for each day likely to elapse between successive replenishments of the water or by other equally efficient means. If service tanks are fitted for that purpose they shall be directly connected with the ship’s main washing water or drinking water storage tanks. In ships of 1000 tons or over any pumping necessary for the supply of fresh water shall be by mechanical power.
+  - (1) In every ship to which this Schedule applies there shall be available a supply of fresh water sufficient for the wash-basins, baths and showers fitted in compliance with this Schedule. The supply shall be provided from tanks of a capacity of at least 10 gallons for each member of the crew for each day likely to elapse between successive replenishments of the water or by other equally efficient means. If service tanks are fitted for that purpose they shall be directly connected with the ship’s main washing water or drinking water storage tanks. In ships of 1 000 tons or over any pumping necessary for the supply of fresh water shall be by mechanical power.
 
   - (2) Hot and cold fresh water shall be laid on to all wash-basins, baths and showers fitted in compliance with this Schedule. Provided that—
 
@@ -656,15 +658,15 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
   - Cold fresh water shall be laid on to any wash-basins which are additional to those required by this Schedule and are fitted in sleeping rooms.
 
-  - (3) The hot fresh water shall be at a constant temperature of at least 150 degrees Fahrenheit and shall be supplied by thermostatically controlled calorifiers or by other equally safe and efficient means. Every shower bath shall be provided with an anti-scalding mixing valve which shall be adjusted so that the temperature of the shower-water (whether salt or fresh) can be varied by the seafarer using a shower over the range of temperatures between the ambient temperature and a temperature of between 95℉ and 105℉.
+  - (3) The hot fresh water shall be at a constant temperature of at least 150°F and shall be supplied by thermostatically controlled calorifiers or by other equally safe and efficient means. Every shower bath shall be provided with an anti-scalding mixing valve which shall be adjusted so that the temperature of the shower-water (whether salt or fresh) can be varied by the seafarer using a shower over the range of temperatures between the ambient temperature and a temperature of between 95°F and 105°F.
 
 - 22. Supply of drinking water
 
-  - (1) In every ship to which this Schedule applies a supply of drinking water shall be provided in the crew accommodation from tanks of an adequate capacity for the purpose having regard to the number of seafarers in the crew and the time likely to elapse between successive replenishments of the water, or by other equally efficient means. If service tanks are fitted for that purpose they shall be directly connected with the ship’s main drinking water storage tanks. In ships of 3000 tons or over any pumping necessary for the supply of drinking water in crew accommodation shall be by mechanical power.
+  - (1) In every ship to which this Schedule applies a supply of drinking water shall be provided in the crew accommodation from tanks of an adequate capacity for the purpose having regard to the number of seafarers in the crew and the time likely to elapse between successive replenishments of the water, or by other equally efficient means. If service tanks are fitted for that purpose they shall be directly connected with the ship’s main drinking water storage tanks. In ships of 3 000 tons or over any pumping necessary for the supply of drinking water in crew accommodation shall be by mechanical power.
 
   - (2) Cold drinking water shall be laid on to taps in the galleys and pantries, and in the mess rooms provided for those members of the crew for whose use and service pantries are not provided.
 
-  - (3) In every ship to which this Schedule applies, being a ship of 1000 tons or over, means shall be provided whereby the crew shall obtain access to drinking water which has been cooled by passing through a cooling-tank or by other suitable means.
+  - (3) In every ship to which this Schedule applies, being a ship of 1 000 tons or over, means shall be provided whereby the crew shall obtain access to drinking water which has been cooled by passing through a cooling-tank or by other suitable means.
 
 - 23. Laundry facilities, etc.
 
@@ -708,9 +710,9 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
       - In ships of 500 tons but under 800 tons | 3
 
-      - In ships of 800 tons but under 3000 tons | 4
+      - In ships of 800 tons but under 3 000 tons | 4
 
-      - In ships of 3000 tons or over | 6
+      - In ships of 3 000 tons or over | 6
 
     - (c) In determining the number of water closets required by this section no account shall be taken of any water closet forming part of a permanent hospital.
 
@@ -794,9 +796,9 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (a) every galley shall be provided with one or more cooking appliances with—
 
-      - (i) a total oven capacity, suitable for roasting and baking, of at least 1/4 cubic foot; and
+      - (i) a total oven capacity, suitable for roasting and baking, of at least 1 4 cubic foot; and
 
-      - (ii) an area of range top-plate or boiling table, amounting to at least 1/3 square foot,
+      - (ii) an area of range top-plate or boiling table, amounting to at least 1 3 square foot,
 
     - for each seafarer whom the galley is intended to serve;
 
@@ -860,7 +862,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (a) In addition to any mechanical ventilation required by section 9, every permanent hospital shall be provided with adequate natural supply and exhaust ventilation to the open air by means of ventilators independent of the ventilators provided for any other space in the ship.
 
-    - (b) Every hospital in every ship when regularly engaged, whether temporarily or permanently, on voyages to areas within the Persian Gulf shall be provided with a means of air conditioning of sufficient capacity to maintain 84 degrees Fahrenheit (dry bulb) with 50% relative humidity when the ambient conditions are 90 degrees Fahrenheit (dry bulb) with 78% relative humidity.
+    - (b) Every hospital in every ship when regularly engaged, whether temporarily or permanently, on voyages to areas within the Persian Gulf shall be provided with a means of air conditioning of sufficient capacity to maintain 84°F (dry bulb) with 50% relative humidity when the ambient conditions are 90°F (dry bulb) with 78% relative humidity.
 
   - (8) Every permanent hospital shall be provided with an electric fan, unless it is served by a trunked mechanical ventilation system.
 
@@ -890,7 +892,7 @@ CREW ACCOMMODATION REQUIREMENTS FOR SHIPS REGISTERED IN HONG KONG BEFORE 1 JULY 
 
     - (d) electric bell-pushes so arranged as to be within reach of each bed and communicating with the sleeping room of a seafarer in charge of the patients.
 
-  - (15) A wash-basin having a capacity of at least 1 1/2 gallons shall be fitted in every permanent hospital. In ships of 5000 tons or over a bath at least 4 feet 5 inches in internal length shall be fitted in washing accommodation forming part of the hospital and adjacent to the hospital ward. The wash-basin and bath shall be made of or coated with hygienic and durable material having a smooth and impervious surface not likely to crack, flake or become corroded. They shall be fitted with an efficient and hygienic discharge system separate, if practicable, from any other discharge system in the ship and in particular the waste pipes shall be fitted in a manner which will facilitate cleaning. A scupper at least 2 inches in diameter shall be fitted in the lowest part of any room (other that a ward) which contains such wash-basin or bath.
+  - (15) A wash-basin having a capacity of at least 1 1 2 gallons shall be fitted in every permanent hospital. In ships of 5 000 tons or over a bath at least 4 feet 5 inches in internal length shall be fitted in washing accommodation forming part of the hospital and adjacent to the hospital ward. The wash-basin and bath shall be made of or coated with hygienic and durable material having a smooth and impervious surface not likely to crack, flake or become corroded. They shall be fitted with an efficient and hygienic discharge system separate, if practicable, from any other discharge system in the ship and in particular the waste pipes shall be fitted in a manner which will facilitate cleaning. A scupper at least 2 inches in diameter shall be fitted in the lowest part of any room (other that a ward) which contains such wash-basin or bath.
 
   - (16)
 
@@ -974,7 +976,7 @@ DECK SHEATHINGS
 
     - (b) Thermal insulation
 
-      - (i) If the material covers a deck exposed to the weather, it shall provide thermal insulation not less than that provided by a wooden deck 2 1/4 inches thick.
+      - (i) If the material covers a deck exposed to the weather, it shall provide thermal insulation not less than that provided by a wooden deck 2 1 4 inches thick.
 
       - (ii) If the material covers any other deck, it shall provide a warm and comfortable surface.
 
@@ -1006,7 +1008,7 @@ TRUNKED MECHANICAL VENTILATION SYSTEM
 
 - 3. If any store room is served by a fan which provides warmed air for any other space, the store room shall be provided with ventilation trunking separate from that serving such other space.
 
-- 4. The clear area of the exhaust openings provided in conjunction with the system shall be sufficient to ensure that the velocity of air at each exhaust opening does not exceed 1000 feet per minute when the system is in operation.
+- 4. The clear area of the exhaust openings provided in conjunction with the system shall be sufficient to ensure that the velocity of air at each exhaust opening does not exceed 1 000 feet per minute when the system is in operation.
 
 - 5. The speed of every supply fan forming part of the system shall be capable of being varied where direct current motors are used.
 

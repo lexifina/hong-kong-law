@@ -1,6 +1,8 @@
 # SCHEDULE 5
 
-[ss. 3, 20 & 42]
+[ss. 3, 20, 41A & 42]
+
+(L.N. 73 of 2016)
 
 MARKING
 
