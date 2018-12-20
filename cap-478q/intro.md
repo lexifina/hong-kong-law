@@ -1,5 +1,5 @@
 MERCHANT SHIPPING (SEAFARERS) (REPATRIATION) REGULATION
 
-(Cap. 478, sections 86, 104 , 119 and 134)
+(Cap. 478, sections 86, 96, 104, 119 and 134)
 
 [2 September 1996] L.N. 342 of 1996
