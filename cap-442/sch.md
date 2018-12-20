@@ -262,11 +262,11 @@ Note: | The Board of Management of the Chinese Permanent Cemeteries is specified
 
 (a) | to refuse to grant a permit;
 
-(b) | to impose any condition under section 52(3);
+(b) | to impose any condition under section 52(3); or (Amended 16 of 2013 s. 84)
 
-(c) | to refuse to approve any person for the purposes of section 57(1); or
+(c) | (Repealed 16 of 2013 s. 84)
 
-(d) | to cancel a permit. (Added 23 of 2002 s. 14)
+(d) | to cancel a permit under section 56(1). (Added 23 of 2002 s. 14. Amended 16 of 2013 s. 84)
 
 53. | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | A decision of the Seafarers’ Authority— (Amended L.N. 143 of 2016)
 
@@ -279,6 +279,12 @@ Note: | The Board of Management of the Chinese Permanent Cemeteries is specified
 55. | Merchant Shipping (Seafarers) (Engine Room Watch Ratings and Electro-technical Ratings) Regulation (Cap. 478 sub. leg. V) | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency under section 4A. (Added 23 of 2002 s. 14. Amended L.N. 143 of 2016)
 
 56.-58. | (Repealed L.N. 143 of 2016)
+
+58A. | Merchant Shipping (Seafarers) (Working and Living Conditions) Regulation (Cap. 478 sub. leg. AF) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority—
+
+(a) | to require a deficiency to be rectified under section 100(2); or
+
+(b) | to direct that a ship must not proceed to sea under section 100(3). (Added L.N. 143 of 2016)
 
 58B. | Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation (Cap. 478 sub. leg. AJ) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 9. (Added L.N. 143 of 2016)
 

@@ -24,7 +24,7 @@ PARTICULARS TO BE RECORDED IN AND CONTENTS OF EMPLOYMENT REGISTRATION BOOKS
 
 - 10. Particulars and date of register listings and cancellations, including part of register in which listed.
 
-- 11. Any listing on a company roster together with the dates of listing and cancellation.
+- 11. Any listing on a roster together with the dates of listing and cancellation. (16 of 2013 s. 77)
 
 - 12. The grade, number and date of issue of any certificate of competency or licence held.
 
@@ -34,7 +34,7 @@ PARTICULARS TO BE RECORDED IN AND CONTENTS OF EMPLOYMENT REGISTRATION BOOKS
 
 - 15. The name, relationship and address of next-of-kin.
 
-- 16. Date and rating on registration and any change in rating with date of such change.
+- 16. Date of and capacity and rank on registration, and any change in capacity and rank with date of such change. (16 of 2013 s. 77)
 
 - 17. Record of medical examinations (including X-ray examinations).
 
@@ -54,4 +54,4 @@ PARTICULARS TO BE RECORDED IN AND CONTENTS OF EMPLOYMENT REGISTRATION BOOKS
 
 - 25. Endorsements.
 
-- 26. Date on which the seafarer’s registration was last renewed under section 10(4) of the Ordinance and the date on which the seafarer will next have had a continuous 3 year period of registration for the purposes of that section.
+- 26. Date on which the person’s registration was last renewed under section 10(4) of the Ordinance and the date on which the person will next have had a continuous 3 year period of registration for the purposes of that section. (16 of 2013 s. 77)
