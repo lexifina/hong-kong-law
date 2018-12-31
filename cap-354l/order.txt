@@ -3,6 +3,7 @@ s-001.md
 s-002.md
 s-003.md
 s-003A.md
+s-003AB.md
 s-003B.md
 s-004.md
 s-005.md
