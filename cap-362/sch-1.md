@@ -45,3 +45,11 @@ Republic of Singapore | A date in accordance with Article 4 of Chapter 14 of the
 Kingdom of Thailand | A date in accordance with Article 4 of Chapter 14 of the Agreement
 
 Socialist Republic of Viet Nam | A date in accordance with Article 4 of Chapter 14 of the Agreement
+
+7. | Mainland and Hong Kong Closer Economic Partnership Arrangement (a translation of “《內地與香港關於建立更緊密經貿關係的安排》”) signed on 29 June 2003 (including the annexes signed on 29 September 2003) (Added L.N. 167 of 2018) | The part of China other than Hong Kong Special Administrative Region, Macao Special Administrative Region and Taiwan | A date in accordance with Article 23 of Chapter 6 of the Arrangement
+
+8. | Hong Kong, China – New Zealand Closer Economic Partnership Agreement signed on 29 March 2010 (Added L.N. 167 of 2018) | New Zealand | A date in accordance with Article 4 of Chapter 20 of the Agreement
+
+9. | Hong Kong Special Administrative Region and Macao Special Administrative Region Closer Economic Partnership Arrangement (a translation of “《香港特別行政區與澳門特別行政區關於建立更緊密經貿關係的安排》”) signed on 27 October 2017 (Added L.N. 167 of 2018) | Macao Special Administrative Region of China | A date in accordance with Article 34 of Chapter 12 of the Arrangement
+
+10. | Hong Kong, China – Georgia Free Trade Agreement signed on 28 June 2018 (Added L.N. 167 of 2018) | Georgia | A date in accordance with Article 2 of Chapter 18 of the Agreement
