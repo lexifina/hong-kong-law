@@ -366,7 +366,9 @@ Due Diligence Requirements
 
   - 5. Determining controlling persons of account holder For the purpose of determining the controlling persons of an account holder, a reporting financial institution may rely on information collected and maintained pursuant to AML/KYC procedures.
 
-  - 6. Determining residence of controlling person of passive NFE For the purpose of determining the residence of a controlling person of a passive NFE, a reporting financial institution may rely on a self-certification from the account holder or the controlling person.
+  - 6. Determining residence of controlling person of passive NFE For the purpose of determining the residence of a controlling person of a passive NFE, a reporting financial institution may rely only on a self-certification from the account holder or the controlling person.
+
+- (Amended 5 of 2018 s. 11)
 
 - Part 7 Special Due Diligence Requirements
 

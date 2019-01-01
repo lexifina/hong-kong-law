@@ -114,7 +114,7 @@ Non-reporting Financial Institutions and Excluded Accounts
 
     - in each case applying the rules of account aggregation and currency set out in the due diligence requirements in Schedule 17D.
 
-    - (2) For the purposes of subsection (1)(b)(ii), a customer overpayment does not refer to credit balances to the extent of disputed charges but includes credit balances resulting from merchandise returns.
+    - (2) For the purposes of subsection (1)(b), a customer overpayment does not refer to credit balances to the extent of disputed charges but includes credit balances resulting from merchandise returns. (Amended 5 of 2018 s. 8)
 
   - 9. Exempt collective investment vehicle
 
@@ -126,11 +126,13 @@ Non-reporting Financial Institutions and Excluded Accounts
 
         - (i) individuals who are not reportable persons;
 
-        - (ii) entities that—
+        - (ii) entities that are not reportable persons. (Replaced 5 of 2018 s. 9)
 
-          - (A) are not reportable persons; and
+    - (1A) Subsection (1) does not apply to an investment entity if—
 
-          - (B) are passive NFEs with controlling persons who are not reportable persons.
+      - (a) any of the interests in the entity is held by, or through, an entity that is a passive NFE; and
+
+      - (b) any one of the controlling persons of the passive NFE is a reportable person. (Added 5 of 2018 s. 9)
 
     - (2) An investment entity that is regulated as a collective investment vehicle does not fail to qualify under subsection (1) as a non-reporting financial institution solely because the investment entity has issued physical shares in bearer form, if—
 
@@ -246,12 +248,24 @@ Non-reporting Financial Institutions and Excluded Accounts
 
     - (2) For the purpose of subsection (1)(b), a customer overpayment does not refer to credit balances to the extent of disputed charges but includes credit balances resulting from merchandise returns.
 
-  - 7. Dormant account An account (other than an annuity contract) with a balance that does not exceed $7,800 is an excluded account if—
+  - 7. Dormant account
 
-    - (a) the account holder has not initiated a transaction with regard to the account or any other account held by the account holder with a reporting financial institution in the previous 3 years;
+    - (1) An account (other than an annuity contract) with a balance that does not exceed $7,800 is an excluded account if— (Amended 5 of 2018 s. 10)
 
-    - (b) the account holder has not communicated with the reporting financial institution regarding the account or any other account held by the account holder with the reporting financial institution in the previous 6 years;
+      - (a) the account holder has not initiated a transaction with regard to the account or any other account held by the account holder with a reporting financial institution in the previous 3 years;
 
-    - (c) the account is treated as a dormant account in accordance with the reporting financial institution’s normal operating procedures; or
+      - (b) the account holder has not communicated with the reporting financial institution regarding the account or any other account held by the account holder with the reporting financial institution in the previous 6 years; and (Amended 5 of 2018 s. 10)
 
-    - (d) (for the account being a cash value insurance contract) the reporting financial institution has not communicated with the account holder regarding the account or any other account held by the account holder with the reporting financial institution in the previous 6 years.
+      - (c) (Repealed 5 of 2018 s. 10)
+
+      - (d) (for the account being a cash value insurance contract) the reporting financial institution has not communicated with the account holder regarding the account or any other account held by the account holder with the reporting financial institution in the previous 6 years.
+
+    - (2) An account (other than an annuity contract) with a balance that does not exceed $7,800 maintained with a reporting financial institution is also an excluded account if—
+
+      - (a) the account is treated as a dormant account—
+
+        - (i) in accordance with the laws or regulations applicable to the institution; or
+
+        - (ii) under the normal operating procedures of the institution that are consistently applied for all accounts maintained with the institution; and
+
+      - (b) the laws, regulations or procedures mentioned in paragraph (a) contain provisions that are substantially similar to subsection (1)(a), (b) and (d). (Added 5 of 2018 s. 10)
