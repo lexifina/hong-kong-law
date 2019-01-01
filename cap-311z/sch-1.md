@@ -14,9 +14,15 @@ Emission Standards
 
     - Council (理事會) means the Council of the European Communities (now known as the Council of the European Union);
 
+    - design weight (設計重量), in relation to a particular motor vehicle, means the maximum design loaded vehicle weight recommended by its manufacturer for motor vehicles of the same class or description as the particular vehicle; (L.N. 173 of 2018)
+
+    - direct-injection type (直噴型), in relation to an engine, means a type of engine in which the fuel is injected directly into the combustion space above the piston crown; (L.N. 173 of 2018)
+
     - g/kWh (克/千瓦小時) means gram per kilowatt-hour;
 
     - HC means hydrocarbons;
+
+    - indirect-injection type (非直噴型), in relation to an engine, means a type of engine in which the fuel is not injected directly into the combustion space above the piston crown; (L.N. 173 of 2018)
 
     - kW means kilowatt;
 
@@ -190,73 +196,61 @@ Emission Standards
 
 - Part 4 Emission Standards for Non-road Vehicle
 
-  - 1. Prescribed emission standard The prescribed emission standard for a non-road vehicle numbered and described in column 1 of the following table is the emission standard specified in the provisions set out in column 4 for that vehicle. Table
+  - 1. Prescribed emission standard The prescribed emission standard for a non-road vehicle numbered and described in column 1 of the following table is the emission standard specified in the provisions set out in column 2 for that vehicle.
 
-  - Column 1 | Column 2 | Column 3 | Column 4
+  - (L.N. 173 of 2018) Table A
 
-  - Vehicle | Type of engine | Design weight | Provisions in which emission standard is specified
+  - Column 1 | Column 2
 
-  - 1. | Private car, goods vehicle, bus, light bus, special purpose vehicle, motor cycle or motor tricycle that is equipped with the type of engine specified in column 2 | Compression-ignition engine | Not applicable | Section 2(1) of this Part
+  - Vehicle | Provisions in which emission standard is specified
 
-  - 2. | Private car that— | Compression-ignition engine | Not more than 3.0 tonnes | Section 2(2) of this Part
+  - 1. Private car— (a) that is equipped with a positive-ignition engine of indirect-injection type; and (b) the design weight of which does not exceed 3 tonnes. | Section 3(1), (3) or (4) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 2. Private car— (a) that is equipped with a positive-ignition engine of direct-injection type; and (b) the design weight of which does not exceed 3 tonnes. | Sections 3(1), (3) or (4) and 4(1) of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 3. Private car— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which does not exceed 3 tonnes. | Sections 3(3) and 4(2) of this Part
 
-  - 3. | Private car that— | Positive-ignition engine | Not more than 3.0 tonnes | Section 2(3), (4) or (5) of this Part
+  - 4. Goods vehicle— (a) that is equipped with a positive-ignition engine of indirect-injection type; and (b) the design weight of which does not exceed 3.5 tonnes. | Section 3(1), (3) or (4) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 5. Goods vehicle— (a) that is equipped with a positive-ignition engine of direct-injection type; and (b) the design weight of which does not exceed 3.5 tonnes. | Sections 3(1), (3) or (4) and 4(1) of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 6. Goods vehicle— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which does not exceed 3.5 tonnes. | Sections 3(1) or (3) and 4(2) of this Part
 
-  - 4. | Goods vehicle that— | Positive-ignition engine | Not more than 3.5 tonnes | Section 2(3), (4) or (5) of this Part
+  - 7. Goods vehicle— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 3(5) or (7), 4(4) and 5 of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 8. Goods vehicle— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 3(5) or (7), 4(3) and (4) and 5 of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 9. Bus— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes but does not exceed 9 tonnes. | Section 2(5), (6) or (7) of this Part
 
-  - 5. | Goods vehicle that— | Compression-ignition engine | Not more than 3.5 tonnes | Section 2(3) or (4) of this Part
+  - 10. Bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes but does not exceed 9 tonnes. | Sections 2(1) and 2(5), (6) or (7) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 11. Bus— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 9 tonnes. | Sections 3(5) or (7), 4(4) and 5 of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 12. Bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 9 tonnes. | Sections 3(5) or (7), 4(3) and (4) and 5 of this Part
 
-  - 6. | Goods vehicle that— | Positive-ignition engine or compression-ignition engine | More than 3.5 tonnes | Section 2(5), (6) or (7) of this Part
+  - 13. Light bus— (a) that is equipped with a positive-ignition engine of indirect-injection type; and (b) the design weight of which does not exceed 3.5 tonnes. | Section 3(1), (3) or (4) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 14. Light bus— (a) that is equipped with a positive-ignition engine of direct-injection type; and (b) the design weight of which does not exceed 3.5 tonnes. | Sections 3(1), (3) or (4) and 4(1) of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 15. Light bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which does not exceed 3.5 tonnes. | Sections 3(1) or (3) and 4(2) of this Part
 
-  - 7. | Bus that— | Positive-ignition engine or compression-ignition engine | More than 3.5 tonnes | Section 2(5), (6) or (7) of this Part
+  - 16. Light bus— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Section 2(5), (6) or (7) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 17. Light bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 2(1) and 2(5), (6) or (7) of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 18. Motor cycle that is equipped with a positive-ignition engine. | Section 2(8), (9) or (10) of this Part
 
-  - 8. | Light bus that— | Positive-ignition engine | Not more than 3.5 tonnes | Section 2(3), (4) or (5) of this Part
+  - 19. Motor cycle that is equipped with a compression-ignition engine. | Sections 2(1) and 2(8), (9) or (10) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - 20. Motor tricycle that is equipped with a positive-ignition engine. | Section 2(11) of this Part
 
-  - (b) | has a design weight specified in column 3
+  - 21. Motor tricycle that is equipped with a compression-ignition engine. | Section 2(1) and (11) of this Part
 
-  - 9. | Light bus that— | Compression-ignition engine | Not more than 3.5 tonnes | Section 2(3) or (4) of this Part
+  - 22. Special purpose vehicle that is equipped with a compression-ignition engine. | Section 2(1) of this Part
 
-  - (a) | is equipped with the type of engine specified in column 2; and
+  - (L.N. 173 of 2018)
 
-  - (b) | has a design weight specified in column 3
-
-  - 10. | Light bus that— | Positive-ignition engine or compression-ignition engine | More than 3.5 tonnes | Section 2(5), (6) or (7) of this Part
-
-  - (a) | is equipped with the type of engine specified in column 2; and
-
-  - (b) | has a design weight specified in column 3
-
-  - 11. | Motor cycle that is equipped with the type of engine specified in column 2 | Positive-ignition engine or compression-ignition engine | Not applicable | Section 2(8), (9) or (10) of this Part
-
-  - 12. | Motor tricycle that is equipped with the type of engine specified in column 2 | Positive-ignition engine or compression-ignition engine | Not applicable | Section 2(11) of this Part
-
-  - 2. Emission standard
+  - 2. Emission standards for certain non-road vehicles approved on or after 1 June 2015 (L.N. 173 of 2018)
 
     - (1) The emission of smoke from the vehicle must not exceed the following levels as measured by means of the free acceleration test procedure as specified in Council Directive 72/306/EEC made by the Council as amended by its subsequent amendments up to and including amendments made by Commission Directive 2005/21/EC—
 
@@ -264,29 +258,7 @@ Emission Standards
 
       - (b) 1.00 m-1 in absolute units of light absorption.
 
-    - (2) United States of America Motor Vehicle Emission Standards, comprising all of the following requirements—
-
-      - (a) all the testing procedures, requirements and emission limits as specified in Title 13 of the California Code of Regulations of the United States of America;
-
-      - (b) the emission limit values as specified in California “LEV II” exhaust emission standards for 2004 and subsequent model vehicles;
-
-      - (c) all the type approval requirements administered by the California Air Resources Board.
-
-    - (3) European Union Motor Vehicle Emission Standards, comprising all of the following requirements—
-
-      - (a) all the testing procedures, requirements and emission limits (except Type VI test) as specified in Regulation (EC) No. 715/2007 of the European Parliament and of the Council and Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulations (EU) No. 566/2011;
-
-      - (b) the emission limit values for Type I test as specified in Table 1 of Annex XVII to Commission Regulation (EC) No. 692/2008 of the European Parliament and of the Council as amended by its subsequent amendments up to and including amendments made by Commission Regulations (EU) No. 566/2011;
-
-      - (c) all the type approval requirements as specified in Regulation (EC) No. 715/2007 of the European Parliament and of the Council and Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulations (EU) No. 566/2011.
-
-    - (4) United States of America Motor Vehicle Emission Standards, comprising all of the following requirements—
-
-      - (a) all the testing procedures, requirements and emission limits as specified in Title 13 of the California Code of Regulations of the United States of America;
-
-      - (b) the emission limit values as specified in California “LEV II” exhaust emission standards for vehicle models manufactured on and after 2004;
-
-      - (c) all the type approval requirements administered by the California Air Resources Board.
+    - (2)-(4) (Repealed L.N. 173 of 2018)
 
     - (5) Japan Motor Vehicle Emission Standards, comprising all of the following requirements—
 
@@ -310,15 +282,15 @@ Emission Standards
 
     - (7) United States of America Motor Vehicle Emission Standards, comprising all of the following requirements—
 
-      - (a) all the testing procedures, requirements and emission limits as specified in the Code of Federal Regulations Title 40 Protection of Environment Part 86 Control of Emissions from new and in-use highway vehicles and engines of the United States of America;
+      - (a) all the testing procedures, requirements and emission limits as specified in the Code of Federal Regulations Title 40 Protection of Environment Part 86 Control of Emissions from new and in-use highway vehicles and engines of the United States of America as at 20 March 2012;
 
       - (b) the emission limit values as specified in—
 
-        - (i) emission standards for Otto-cycle heavy-duty vehicle models equipped with positive-ignition engines manufactured on and after 2008; or
+        - (i) the emission standards, as at 20 March 2012, for Otto-cycle heavy-duty vehicle models equipped with positive-ignition engines manufactured on and after 2008; or
 
-        - (ii) emission standards and supplemental requirements for heavy-duty vehicle models equipped with compression-ignition engines manufactured on and after 2007;
+        - (ii) the emission standards and supplemental requirements, as at 20 March 2012, for heavy-duty vehicle models equipped with compression-ignition engines manufactured on and after 2007;
 
-      - (c) all the type approval requirements administered by the Environmental Protection Agency of the United States of America.
+      - (c) all the type approval requirements administered by the Environmental Protection Agency of the United States of America. (L.N. 173 of 2018)
 
     - (8) European Union Motor Cycle Emission Standards, comprising all of the following requirements—
 
@@ -355,3 +327,131 @@ Emission Standards
       - (b) the emission limit values for Type I test set out in Row A of the Table in Chapter 5, Annex II, Section 2.2.1.1.5 to Directive 97/24/EC made by the European Parliament and the Council as amended by its subsequent amendments up to and including amendments made by Directive 2005/30/EC made by the European Parliament and the Council;
 
       - (c) all the type approval requirements as specified in Directive 2002/24/EC made by the European Parliament and the Council as amended by its subsequent amendments up to and including amendments made by Directive 2005/30/EC made by the European Parliament and the Council.
+
+  - 3. Emission standards for certain non-road vehicles approved on or after 1 January 2019
+
+    - (1) European Union Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system (except Type VI test), specified in—
+
+        - (i) Regulation (EC) No. 715/2007 of the European Parliament and of the Council; and
+
+        - (ii) Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646;
+
+      - (b) the emission limit values for Type I test specified in Table 2 (Euro 6 Emission Limits) of Annex I to Regulation (EC) No. 715/2007 of the European Parliament and of the Council as amended by Commission Regulation (EC) No. 692/2008 and its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646;
+
+      - (c) the emission standards and on-board diagnostic system standards specified in Row W, X, Y, ZA, ZB or ZC of Table 1 of Appendix 6 to Annex I to Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646;
+
+      - (d) all the type approval requirements specified in Directive 2007/46/EC of the European Parliament and of the Council as amended by its subsequent amendments up to and including amendments made by Regulation (EU) No. 2015/758.
+
+    - (2) European Union Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system (except Type VI test), specified in—
+
+        - (i) Regulation (EC) No. 715/2007 of the European Parliament and of the Council; and
+
+        - (ii) Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646;
+
+      - (b) the emission limit values for Type I test specified in Table 2 (Euro 6 Emission Limits) of Annex I to Regulation (EC) No. 715/2007 of the European Parliament and of the Council as amended by Commission Regulation (EC) No. 692/2008 and its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646;
+
+      - (c) the emission standards and on-board diagnostic system standards specified in Row ZD, ZE or ZF of Table 1 of Appendix 6 to Annex I to Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646;
+
+      - (d) all the type approval requirements specified in Directive 2007/46/EC of the European Parliament and of the Council as amended by its subsequent amendments up to and including amendments made by Regulation (EU) No. 2015/758.
+
+    - (3) United States of America Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system, specified in Title 13 of the California Code of Regulations of the United States of America as at 23 December 2016;
+
+      - (b) the emission limit values specified in “LEV III” in section 1961.2 of Article 2 of Chapter 1 of Division 3 of Title 13 of the California Code of Regulations of the United States of America as at 23 December 2016;
+
+      - (c) all the type approval requirements administered by the California Air Resources Board.
+
+    - (4) Japan Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system, specified in—
+
+        - (i) the Safety Regulation for Road Vehicles (i.e. the Ministry of Transport Ordinance No. 67 of 28 July 1951) as amended by its subsequent amendments up to and including amendments made by the Ministry of Land, Infrastructure, Transport and Tourism Ordinance No. 18 of 31 March 2015; and
+
+        - (ii) the Announcement that Prescribes Details of Safety Regulations for Road Vehicles (i.e. the Ministry of Land, Infrastructure and Transport Announcement No. 619 of 15 July 2002) as amended by its subsequent amendments up to and including amendments made by the Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 459 of 31 March 2015;
+
+      - (b) the emission limit values specified in Article 41 of the Announcement that Prescribes Details of Safety Regulations for Road Vehicles (i.e. the Ministry of Land, Infrastructure and Transport Announcement No. 619 of 15 July 2002) as amended by its subsequent amendments up to and including amendments made by the Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 459 of 31 March 2015;
+
+      - (c) all the type approval requirements administered by the Ministry of Land, Infrastructure, Transport and Tourism of Japan.
+
+    - (5) European Union Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system, specified in—
+
+        - (i) Regulation (EC) No. 595/2009 of the European Parliament and of the Council; and
+
+        - (ii) Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
+
+      - (b) the emission limit values of gaseous and particulate pollutants from the engine specified in the Table entitled “Euro VI Emission Limits” of Annex I to Regulation (EC) No. 595/2009 of the European Parliament and of the Council as amended by Commission Regulation (EU) No. 582/2011 and its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
+
+      - (c) the requirements specified in—
+
+        - (i) Row A of Table 1 of Appendix 9 to Annex I to Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718, for vehicle models equipped with compression-ignition engines; or
+
+        - (ii) Row B of Table 1 of Appendix 9 to Annex I to Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718, for vehicle models equipped with positive-ignition engines;
+
+      - (d) all the type approval requirements specified in Directive 2007/46/EC of the European Parliament and of the Council as amended by its subsequent amendments up to and including amendments made by Regulation (EU) No. 2015/758.
+
+    - (6) European Union Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system, specified in—
+
+        - (i) Regulation (EC) No. 595/2009 of the European Parliament and of the Council; and
+
+        - (ii) Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
+
+      - (b) the emission limit values of gaseous and particulate pollutants from the engine specified in the Table entitled “Euro VI Emission Limits” of Annex I to Regulation (EC) No. 595/2009 of the European Parliament and of the Council as amended by Commission Regulation (EU) No. 582/2011 and its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
+
+      - (c) the requirements specified in Row C of Table 1 of Appendix 9 to Annex I to Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
+
+      - (d) all the type approval requirements specified in Directive 2007/46/EC of the European Parliament and of the Council as amended by its subsequent amendments up to and including amendments made by Regulation (EU) No. 2015/758.
+
+    - (7) United States of America Motor Vehicle Emission Standards, comprising all of the following—
+
+      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system for 2017 and later model years, specified in the Code of Federal Regulations Title 40 Protection of Environment Part 86 Control of Emissions from New and In-use Highway Vehicles and Engines of the United States of America including and up to the amendments on 25 October 2016;
+
+      - (b) the emission limit values specified in—
+
+        - (i) section 86.008-10 entitled “Emission standards for 2008 and later model year Otto-cycle heavy-duty engines and vehicles” in the Code of Federal Regulations Title 40 Protection of Environment Part 86 Control of Emissions from New and In-use Highway Vehicles and Engines of the United States of America including and up to the amendments on 25 October 2016, for vehicle models equipped with positive-ignition engines including all the phase-in requirements for 2009; or
+
+        - (ii) section 86.007-11 entitled “Emission standards and supplemental requirements for 2007 and later model year diesel heavy-duty engines and vehicles” in the Code of Federal Regulations Title 40 Protection of Environment Part 86 Control of Emissions from New and In-use Highway Vehicles and Engines of the United States of America including and up to the amendments on 25 October 2016, for vehicle models equipped with compression-ignition engines including all the phase-in requirements for 2010;
+
+      - (c) all the type approval requirements administered by the United States Environmental Protection Agency.
+
+  - (L.N. 173 of 2018)
+
+  - 4. Emission standards for particulate emission from certain non-road vehicles approved on or after 1 January 2019
+
+    - (1) Number of particles emitted must not exceed 6 × 1012 per kilometre, as measured by the Type I test procedure specified in—
+
+      - (a) Regulation (EC) No. 715/2007 of the European Parliament and of the Council; and
+
+      - (b) Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646.
+
+    - (2) Number of particles emitted must not exceed 6 × 1011 per kilometre, as measured by the Type I test procedure specified in—
+
+      - (a) Regulation (EC) No. 715/2007 of the European Parliament and of the Council; and
+
+      - (b) Commission Regulation (EC) No. 692/2008 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/646.
+
+    - (3) Number of particles emitted must not exceed 8 × 1011 per kilowatt-hour, as measured by the Worldwide Harmonised Steady State Cycle (WHSC) test procedure specified in—
+
+      - (a) Regulation (EC) No. 595/2009 of the European Parliament and of the Council; and
+
+      - (b) Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718.
+
+    - (4) Number of particles emitted must not exceed 6 × 1011 per kilowatt-hour, as measured by the Worldwide Harmonised Transient Driving Cycle (WHTC) test procedure specified in—
+
+      - (a) Regulation (EC) No. 595/2009 of the European Parliament and of the Council; and
+
+      - (b) Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718.
+
+  - (L.N. 173 of 2018)
+
+  - 5. Emission standards: portable emissions measurement system demonstration test at type approval Portable emissions measurement system demonstration test at type approval specified in Appendix 1 to Annex VI to Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718.
+
+- (L.N. 173 of 2018)
