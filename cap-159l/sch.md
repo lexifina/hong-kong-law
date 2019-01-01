@@ -76,14 +76,36 @@ _
 
 FORM 2 | [rule 4]
 
-PRACTISING CERTIFICATE—SOLICITOR LEGAL PRACTITIONERS ORDINANCE (Chapter 159)
+PRACTISING CERTIFICATE—SOLICITOR 執業證書——律師 LEGAL PRACTITIONERS ORDINANCE
 
-The Law Society of Hong Kong hereby certifies, in accordance with section 6 of the Legal Practitioners Ordinance, that . a Solicitor of the High Court of Hong Kong, has complied with that section and is therefore entitled to practise as such solicitor for the period from . to . Conditions if any:
+(Chapter 159) 《法律執業者條例》
+
+(第159章)
+
+The Law Society of Hong Kong hereby certifies, in accordance with section 6 of the Legal Practitioners Ordinance, that
+
+., a Solicitor of the High Court of Hong Kong,
+
+香港律師會現按照《法律執業者條例》第6條證明香港高等法院律師
+
+has complied with that section and is therefore entitled to practise as such solicitor for the period from
+
+. to . .
+
+已符合該條的規定，因此有權由 . 至
+
+. 的期間執業為上述律師。
+
+Conditions (if any):
+
+條件(如有的話)為：
 
 Dated this . day of .
 
+日期：. 年 . 月 . 日
+
 .
 
-Secretary, The Law Society of Hong Kong.
+Secretary, The Law Society of Hong Kong 香港律師會秘書
 
-(L.N. 259 of 1986; 25 of 1998 s. 2; L.N. 115 of 2000; L.N. 193 of 2003)
+(L.N. 82 of 2018) (L.N. 259 of 1986)
