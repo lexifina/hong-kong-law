@@ -28,6 +28,10 @@ Specifications for Purposes of Certain Definitions in these Rules*
 
   - 11. Hong Kong Science and Technology Parks Corporation. (L.N. 175 of 2017)
 
+  - 12. HKMC Insurance Limited. (L.N. 222 of 2018)
+
+  - 13. HKMC Annuity Limited. (L.N. 222 of 2018)
+
 - Part 2 Relevant CCF in respect of Certain Off-balance Sheet Exposures
 
 - Part 3 Restricted Collective Investment Schemes

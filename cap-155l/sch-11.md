@@ -1,12 +1,12 @@
 # Schedule 11
 
-[ss. 265 & 266]
+[ss. 15B, 265 & 266] (L.N. 222 of 2018)
 
 Mapping of ECAI Issue Specific Ratings into Credit Quality Grades under SEC-ERBA
 
 Table A Long-term Credit Quality Grades
 
-Long-term credit quality grade | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
+Long-term credit quality grade | S&P Global Ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
 
 1 | AAA | Aaa | AAA | AAA | AAA
 
@@ -44,9 +44,11 @@ Long-term credit quality grade | Standard & Poor’s Ratings Services | Moody’
 
 18 | any rating below CCC- | any rating below Caa3 | any rating below C | any rating below CCC- | any rating below C
 
+(L.N. 222 of 2018)
+
 Table B Short-term Credit Quality Grades
 
-Short-term credit quality grade | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
+Short-term credit quality grade | S&P Global Ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
 
 1 | A-1+ A-1 | P-1 | F1+ F1 | a-1+ a-1 | J-1+ J-1
 
@@ -55,5 +57,7 @@ Short-term credit quality grade | Standard & Poor’s Ratings Services | Moody�
 3 | A-3 | P-3 | F3 | a-3 | J-3
 
 4 | any rating below A-3 | any rating below P-3 | any rating below F3 | any rating below a-3 | any rating below J-3
+
+(L.N. 222 of 2018)
 
 (Schedule 11 replaced L.N. 175 of 2017)

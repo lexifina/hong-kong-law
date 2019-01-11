@@ -8,6 +8,8 @@ Qualifying Criteria to be Met to be Tier 2 Capital
 
   - (a) the instrument is issued and paid up;
 
+  - (ab) subject to section 3 of this Schedule, the instrument, if issued in Hong Kong, must be issued to a professional investor; (L.N. 222 of 2018)
+
   - (b) the instrument is subordinated to depositors and general creditors of the institution;
 
   - (c) the paid-up amount is not secured or covered by a guarantee of the institution or by an affiliate of the institution, and is not subject to any other arrangement that legally or economically enhances the seniority of the claim;
@@ -78,10 +80,42 @@ Qualifying Criteria to be Met to be Tier 2 Capital
 
     - (ii) agrees to be bound by any such write off, cancellation, conversion, modification or form change; and
 
-    - (iii) acknowledges that the rights of the holder are subject to anything done in the exercise of those powers. (23 of 2016 s. 213)
+    - (iii) acknowledges that the rights of the holder are subject to anything done in the exercise of those powers; (23 of 2016 s. 213; L.N. 222 of 2018)
+
+  - (m) subject to section 3 of this Schedule—
+
+    - (i) the terms and conditions of the instrument contain a provision that the instrument is intended to qualify as Tier 2 capital under these Rules; and
+
+    - (ii) any prospectus or offering document prepared by or for the issuer in relation to the instrument—
+
+      - (A) adequately discloses the risks inherent in the holding of the instrument, including the risks in relation to its subordination and the circumstances in which the holder may suffer loss as a result of the holding;
+
+      - (B) contains a statement that the instrument is complex and of high risk; and
+
+      - (C) contains a statement that the instrument, if issued in Hong Kong, must be issued to a professional investor; (L.N. 222 of 2018)
+
+  - (n) subject to section 3 of this Schedule, the instrument is in a denomination of no less than—
+
+    - (i) if denominated in Hong Kong dollars— HK$2,000,000;
+
+    - (ii) if denominated in US dollars—US$250,000;
+
+    - (iii) if denominated in Euros—Euro 200,000; or
+
+    - (iv) if denominated in any other currency—the equivalent in that currency to HK$2,000,000 with reference to the relevant exchange rate on the date of issue. (L.N. 222 of 2018)
 
 - Editorial Note:
 
-- * Commencement date: 7 July, 2017.
+- * Commencement date: 7 July 2017.
 
-- 2. Application of section 1(k) of this Schedule to capital instruments other than ordinary shares Section 1(k) of this Schedule, with necessary modifications, applies to a capital instrument that is equivalent to an ordinary share in the case of an entity other than a joint-stock company as it applies to an ordinary share in the case of a joint-stock company. (Schedule 4C added L.N. 156 of 2012)
+- 2. Application of section 1(k) of this Schedule to capital instruments other than ordinary shares Section 1(k) of this Schedule, with necessary modifications, applies to a capital instrument that is equivalent to an ordinary share in the case of an entity other than a joint-stock company as it applies to an ordinary share in the case of a joint-stock company.
+
+- 3. Section 1(ab), (m) and (n) of this Schedule not applicable to certain instruments
+
+  - (1) Section 1(ab), (m) and (n) of this Schedule does not apply to an instrument issued before 11 January 2019.
+
+  - (2) Section 1(ab), (m)(ii) and (n) of this Schedule does not apply in determining whether an instrument qualifies as Tier 2 capital of an authorized institution if the instrument is issued to and held by an entity within the same banking group as the institution.
+
+- (L.N. 222 of 2018)
+
+(Schedule 4C added L.N. 156 of 2012)

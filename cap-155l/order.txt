@@ -49,6 +49,9 @@ s-013.md
 s-014.md
 s-015.md
 s-015A.md
+s-015B.md
+s-015C.md
+s-015D.md
 s-016.md
 s-016A.md
 s-017.md
@@ -314,6 +317,7 @@ s-226ZC.md
 s-226ZD.md
 s-226ZE.md
 s-227.md
+s-227A.md
 s-228.md
 s-229.md
 s-230.md
@@ -358,6 +362,7 @@ s-263.md
 s-264.md
 s-265.md
 s-266.md
+s-266A.md
 s-267.md
 s-268.md
 s-268A.md

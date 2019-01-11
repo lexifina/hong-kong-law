@@ -22,7 +22,7 @@ Requirements Supplementary to Schedules 9 and 10
 
     - (i) underlying exposures that are revolving in nature (revolving underlying exposures) are to be replenished by exposures that are non-revolving in nature; and
 
-    - (ii) the early amortization ends the ability of an originating institution of the transaction to add new underlying exposures;
+    - (ii) the early amortization ends the ability of the originating institution of the transaction to add new underlying exposures; (L.N. 222 of 2018)
 
   - (b) the provision—
 
@@ -30,7 +30,7 @@ Requirements Supplementary to Schedules 9 and 10
 
     - (ii) does not result in subordination of the institution’s interest;
 
-  - (c) investors in the securitization issues remain fully exposed to future drawdowns by the borrowers in respect of the revolving underlying exposures even if the provision has been triggered; and
+  - (c) investors in the securitization issues concerned remain fully exposed to future drawdowns by the borrowers in respect of the revolving underlying exposures even if the provision has been triggered; and (L.N. 222 of 2018)
 
   - (d) the provision is solely triggered by events not related to the performance of the underlying exposures of the securitization transaction or of the originating institution of the transaction.
 
