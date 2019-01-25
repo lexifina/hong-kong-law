@@ -1292,7 +1292,7 @@ Election Committee
 
           - (a) an identity card issued to a person under the Registration of Persons Ordinance (Cap. 177);
 
-          - (b) a document issued to a person under regulations in force under that Ordinance certifying that the person is exempt from being required to register under that Ordinance; or
+          - (b) a document issued by the Commissioner (within the meaning of section 1A(1) of the Registration of Persons Ordinance (Cap. 177)) to a person certifying that the person is exempt, under regulation 25 of the Registration of Persons Regulations (Cap. 177 sub. leg. A), from being required to register under that Ordinance; or (Replaced 1 of 2019 s. 76)
 
           - (c) any other document issued to a person that is acceptable to the Electoral Registration Officer as proof of the person’s identity.
 
@@ -1448,13 +1448,25 @@ Election Committee
 
   - 46. Appointment of Revising Officer
 
-    - (1) The Chief Justice may appoint any magistrate, or any legal officer within the meaning of the Legal Officers Ordinance (Cap. 87), to be a Revising Officer for the purposes of this Schedule.
+    - (1) The Chief Justice may appoint an eligible person to be a Revising Officer for the purposes of this Schedule. (Amended 1 of 2019 s. 72)
 
     - (2) If no appointment is made under subsection (1), the Registrar of the High Court is taken to be a Revising Officer.
 
     - (3) A Revising Officer has such functions as are conferred or imposed on the Officer by or under this Schedule.
 
     - (4) A Revising Officer has, when performing the Officer’s functions, the powers and immunities of a magistrate under sections 21, 22, 99, 125 and 126 of the Magistrates Ordinance (Cap. 227).
+
+    - (5) In subsection (1)—
+
+      - eligible person (合資格人士) means—
+
+        - (a) a magistrate;
+
+        - (b) a former magistrate;
+
+        - (c) a retired magistrate; or
+
+        - (d) a legal officer as defined by section 2 of the Legal Officers Ordinance (Cap. 87). (Added 1 of 2019 s. 72)
 
   - 47. Appointment of Returning Officers and assistants
 
@@ -1475,6 +1487,10 @@ Election Committee
     - (1) A person who is dissatisfied with a decision of the Electoral Registration Officer made for the purposes of this Schedule may appeal against the decision to a Revising Officer.
 
     - (2) The determination of a Revising Officer on such an appeal is final.
+
+    - (2A) A Revising Officer may determine an appeal without a hearing on the basis of written submissions only. (Added 1 of 2019 s. 8)
+
+    - (2B) Subsections (3) and (4) apply if a hearing is held for an appeal. (Added 1 of 2019 s. 8)
 
     - (3) The Electoral Registration Officer, or an Assistant Electoral Registration Officer, is required to appear as the respondent at the hearing of the appeal.
 

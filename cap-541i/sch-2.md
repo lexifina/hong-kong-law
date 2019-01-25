@@ -16,6 +16,8 @@ BALLOT PAPER FOR SUBSECTOR ELECTION
 
 \# The relevant number will be printed.
 
+(1 of 2019 s. 59)
+
 _
 
 FORM 2

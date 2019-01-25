@@ -40,6 +40,7 @@ s-037.md
 s-038.md
 s-039.md
 s-040.md
+s-040A.md
 s-041.md
 s-042.md
 s-043.md
