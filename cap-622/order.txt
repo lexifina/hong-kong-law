@@ -365,6 +365,7 @@ s-363.md
 s-364.md
 s-365.md
 s-366.md
+s-366A.md
 s-367.md
 s-368.md
 s-369.md
@@ -841,6 +842,8 @@ s-802.md
 s-803.md
 s-804.md
 s-805.md
+s-805A.md
+s-805B.md
 s-806.md
 s-807.md
 s-808.md

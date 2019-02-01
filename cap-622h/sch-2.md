@@ -1210,7 +1210,13 @@ Division 2—Administrative Arrangements
 
   - Division 5 Alteration and Reduction of Share Capital, Share Buy-backs and Allotment of Shares
 
-    - 69. Alteration of share capital The company may by ordinary resolution alter its share capital in any one or more of the ways set out in section 170(2)(a), (b), (c), (d), (e) and (f)(i) of the Ordinance, and section 170(3), (4), (5), (6), (7) and (8) of the Ordinance applies accordingly.
+    - 69. Alteration of share capital
+
+      - (1) Subject to paragraph (2), the company may alter its share capital in any one or more of the ways set out in section 170(2)(a), (b), (c), (d), (e) and (f)(i) of the Ordinance, and subsections (3), (4), (5), (6), (7) and (8) of that section apply accordingly.
+
+      - (2) An alteration made in the way set out in section 170(2)(c), (d), (e) or (f)(i) of the Ordinance may only be made by ordinary resolution.
+
+    - (35 of 2018 s. 110)
 
     - 70. Reduction of share capital The company may by special resolution reduce its share capital in accordance with Division 3 of Part 5 of the Ordinance.
 
@@ -1370,4 +1376,4 @@ Division 2—Administrative Arrangements
 
       - (3) In this article—
 
-        - required sanction (規定認許) means the sanction of a special resolution of the company and any other sanction required by the Ordinance.
+        - required sanction (規定認許) means the sanction of a special resolution of the company and any other sanction required by the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (35 of 2018 s. 110)

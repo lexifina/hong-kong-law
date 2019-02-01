@@ -36,9 +36,13 @@ Accounting Disclosures
 
         - (ii) if that undertaking is not a body corporate, the address of its principal place of business.
 
+    - (3) In this section—
+
+      - parent undertaking (母企業) has the same meaning as in Part 9. (Added 35 of 2018 s. 87)
+
   - 4. Compliance with applicable accounting standards The financial statements for a financial year must state—
 
-    - (a) whether they have been prepared in accordance with the applicable accounting standards within the meaning of section 380; and
+    - (a) whether they have been prepared in accordance with the applicable accounting standards as defined by section 357(1); and (Amended 35 of 2018 s. 87)
 
     - (b) if they have not been so prepared, the particulars of, and the reasons for, any material departure from those standards.
 

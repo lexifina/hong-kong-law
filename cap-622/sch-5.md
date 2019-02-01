@@ -36,4 +36,6 @@ Contents of Directors’ Report: Business Review
 
 - 5. In this Schedule—
 
-  - key performance indicators (關鍵表現指標) means factors by reference to which the development, performance or position of the company’s business can be measured effectively.
+  - key performance indicators (關鍵表現指標) means factors by reference to which the development, performance or position of the company’s business can be measured effectively; (Amended 35 of 2018 s. 88)
+
+  - subsidiary undertaking (附屬企業) has the same meaning as in Part 9. (Added 35 of 2018 s. 88)
