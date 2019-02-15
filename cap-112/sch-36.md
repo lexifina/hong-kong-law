@@ -1,6 +1,6 @@
 # Schedule 36
 
-[s. 89(16)]
+[s. 89(16) & Sch. 47] (Replaced 4 of 2019 s. 13)
 
 Transitional Provisions for Inland Revenue (Amendment) (No. 2) Ordinance 2016
 
