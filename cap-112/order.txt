@@ -86,6 +86,12 @@ s-018C.md
 s-018D.md
 s-018E.md
 s-018F.md
+s-018G.md
+s-018H.md
+s-018I.md
+s-018J.md
+s-018K.md
+s-018L.md
 s-019.md
 s-019A.md
 s-019B.md
@@ -406,3 +412,4 @@ sch-43.md
 sch-44.md
 sch-45.md
 sch-47.md
+sch-48.md
