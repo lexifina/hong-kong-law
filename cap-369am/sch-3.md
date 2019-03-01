@@ -2,7 +2,7 @@
 
 [regs. 11A, 11B, 16(4), 19(2) & 31(1)(a), Sch. 1 para. 6(7) & Sch. 2 para. 10(2)]
 
-Stability in Damaged Condition
+STABILITY IN DAMAGED CONDITION
 
 - PART 1
 
@@ -34,7 +34,9 @@ Stability in Damaged Condition
 
       - (c) vertical extent: from the base line upwards without limit;
 
-      - (d) if any damage of lesser extent than that indicated in sub-subparagraphs (a), (b) and (c) would result in a more severe condition regarding heel or loss of metacentric height, such damage shall be assumed for the purposes of the calculation.
+      - (ca) for a ro/ro passenger ship—throughout the ship’s length; (L.N. 256 of 2018)
+
+      - (d) if any damage of lesser extent than that indicated in sub-subparagraphs (a), (b), (c) and (ca) would result in a more severe condition regarding heel or loss of metacentric height, such damage shall be assumed for the purposes of the calculation. (L.N. 256 of 2018)
 
     - (4) Where the ship is fitted with decks, inner skins or longitudinal bulkheads of sufficient tightness to restrict the flow of water, regard shall be had to such restrictions in the calculation.
 
