@@ -34,7 +34,9 @@ STABILITY IN DAMAGED CONDITION
 
       - (iii) vertical extent: from the base line upwards without limit;
 
-      - (iv) if any damage of lesser extent than that indicated in the foregoing sub-subparagraphs (i), (ii) and (iii) would result in a more severe condition regarding heel or loss of metacentric height, such damage shall be assumed for the purposes of the calculation.
+      - (iiia) for a ro/ro passenger ship—throughout the ship’s length; (L.N. 255 of 2018)
+
+      - (iv) if any damage of lesser extent than that indicated in sub-subparagraphs (i), (ii), (iii) and (iiia) would result in a more severe condition regarding heel or loss of metacentric height, such damage shall be assumed for the purposes of the calculation. (L.N. 255 of 2018)
 
     - (d) Where the ship is fitted with decks, inner skins or longitudinal bulkheads of sufficient tightness to restrict the flow of water, regard shall be had to such restrictions in the calculation.
 
@@ -46,7 +48,7 @@ STABILITY IN DAMAGED CONDITION
 
     - (i) at all stages of flooding there shall be sufficient positive residual stability;
 
-    - (ii) at intermediate stages of flooding the margin line is not to be submerged unless partial subdivision above the margin line in accordance with regulation 22 limits sufficiently the spread of water along the bulkhead deck and results in an angle of heel not exceeding 20°. In the case of ships carrying vehicles on the bulkhead deck, the angle of heel at intermediate stages of flooding shall not be greater than that which will submerge the margin line;
+    - (ii) at intermediate stages of flooding the margin line is not to be submerged unless partial subdivision above the margin line in accordance with regulation 22 limits sufficiently the spread of water along the bulkhead deck and results in an angle of heel not exceeding 20o. In the case of ships carrying vehicles on the bulkhead deck, the angle of heel at intermediate stages of flooding shall not be greater than that which will submerge the margin line;
 
     - (iii) at the final stage of flooding the margin line shall not be submerged and there shall be a positive residual metacentric height of at least 50 millimetres as calculated by the constant displacement method.
 
@@ -56,4 +58,4 @@ STABILITY IN DAMAGED CONDITION
 
     - (ii) the provisions of subparagraph (a)(ii) shall apply;
 
-    - (iii) at the final stage of flooding, and after equalization measures, if any, have been taken the angle of heel is not to exceed 7° and the margin line is not to be submerged.
+    - (iii) at the final stage of flooding, and after equalization measures, if any, have been taken the angle of heel is not to exceed 7o and the margin line is not to be submerged.
