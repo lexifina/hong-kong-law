@@ -1,7 +1,7 @@
 MERCHANT SHIPPING (SAFETY) (DANGEROUS GOODS AND MARINE POLLUTANTS) REGULATION
 
-(Cap. 369, sections 101 and 107)
+(Cap. 369, sections 101, 107 and 112B)
 
-(Cap. 413, section 3)
+(Cap. 413, sections 3 and 3A)
 
 [2 December 1994]
