@@ -44,7 +44,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
   - (b) 2 fuel oil pumps shall be fitted to the inert gas generator. The Director may permit only one fuel oil pump on condition that sufficient spares for the fuel oil pump and its prime mover are carried on board to enable any failure of the fuel oil pump and its prime mover to be rectified by the ship’s crew.
 
-  - (c) The inert gas system shall be so designed that the maximum pressure which it can exert on any cargo tank will not exceed the test pressure of any cargo tank. Suitable shut-off arrangements shall be provided on the suction and discharge connections of each blower. Arrangements shall be provided to enable the functioning of the inert gas plant to be stabilised before commencing cargo discharge. If the blowers are to be used for gas freeing, their air inlets shall be provided with blanking arrangements.
+  - (c) The inert gas system shall be so designed that the maximum pressure which it can exert on any cargo tank will not exceed the test pressure of any cargo tank. Suitable shut-off arrangements shall be provided on the suction and discharge connexions of each blower. Arrangements shall be provided to enable the functioning of the inert gas plant to be stabilised before commencing cargo discharge. If the blowers are to be used for gas freeing, their air inlets shall be provided with blanking arrangements.
 
   - (d) The blowers shall be located aft of all cargo tanks, cargo pump rooms and cofferdams separating these spaces from machinery spaces of Category A.
 
@@ -88,6 +88,8 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (i) The inert gas supply main shall be fitted with branch piping leading to each cargo tank and slop tank. Branch piping for inert gas shall be fitted with either stop valves or equivalent means of control for isolating each tank. Where stop valves are fitted, they shall be provided with locking arrangements, which shall be under the control of a responsible ship’s officer.
 
+    - (ia) For a post-1998 ship, positive indication of the operational status of the valves must be provided for the control system. (L.N. 254 of 2018)
+
     - (ii) In combination carriers, the arrangements to isolate the slop tanks containing oil or oil residues from other tanks shall consist of blank flanges which will remain in position at all times when cargoes other than oil are being carried except as provided for in the relevant section of the Guide-lines on Inert Gas Systems.
 
   - (c) Means shall be provided to protect cargo tanks and slop tanks against the effect of over-pressure or vacuum caused by thermal variations when such tanks are isolated from the inert gas main.
@@ -120,7 +122,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (ii) a negative pressure in excess of 700 millimetres water gauge if cargo were to be discharged at the maximum rated capacity of the cargo pumps and the inert gas blower were to fail. Such devices shall be installed on the inert gas main unless they are installed in the venting system required by regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) or on individual cargo tanks.
 
-      - (b) The location and design of the devices referred to in subparagraph (a) shall be in accordance with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey)(Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.).
+  - (b) The location and design of the devices referred to in subparagraph (a) shall be in accordance with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.).
 
 - (15) Means shall be provided for continuously indicating the temperature and pressure of the inert gas at the discharge side of the gas blowers, whenever those gas blowers are operating.
 

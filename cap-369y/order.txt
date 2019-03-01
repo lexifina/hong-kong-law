@@ -92,6 +92,7 @@ s-085.md
 s-086.md
 s-087.md
 s-088.md
+s-088A.md
 s-089.md
 s-090.md
 s-091.md
@@ -109,6 +110,7 @@ s-101.md
 s-102.md
 s-103.md
 s-104.md
+s-104A.md
 s-105.md
 s-106.md
 s-107.md
@@ -153,6 +155,7 @@ s-143.md
 s-144.md
 s-145.md
 s-146.md
+s-147.md
 sch-1.md
 sch-2.md
 sch-3.md
