@@ -12,57 +12,57 @@
 
 - For any length of 100 metres and below | For each metre or part of a metre in excess of 100 metres
 
-- (a) | Pipes of any size up to and including 20 mm in diameter | $2,260 | $ | 95
+- (a) | Pipes of any size up to and including 20 mm in diameter | $2,830 | $ | 125
 
 - For any length of 30 metres and below | For each metre or part of a metre in excess of 30 metres
 
-- (b) | Pipes above 20 mm in diameter up to and including 25 mm in diameter | $3,510 | $ | 145
+- (b) | Pipes above 20 mm in diameter up to and including 25 mm in diameter | $4,040 | $ | 180
 
-- (c) | Pipes above 25 mm in diameter up to and including 40 mm in diameter | $4,610 | $ | 185
+- (c) | Pipes above 25 mm in diameter up to and including 40 mm in diameter | $5,530 | $ | 225
 
 - 2. | Under regulations 18(2) and 28(2)—
 
-- Reconnecting a fire service or inside service | $ | 380
+- Reconnecting a fire service or inside service | $ | 420
 
 - 3. | Under regulation 26(2A)—
 
-- (a) | Providing and installing a meter | $ | 420
+- (a) | Providing and installing a meter | $ | 460
 
-- (b) | Providing a meter | $ | 110
+- (b) | Providing a meter | $ | 120
 
 - 4. | Under regulations 4(3) and 26(3)—
 
-- Resealing a fire service or meter | $ | 255
+- Resealing a fire service or meter | $ | 280
 
 - 5. | Under regulations 28(2), 30(3) and 32(2)—
 
 - Testing a meter or a private check meter (including removal and refixing)—
 
-- (a) | any size up to and including 80 mm in diameter | $ | 735
+- (a) | any size up to and including 80 mm in diameter | $ | 810
 
-- (b) | above 80 mm in diameter up to and including 100 mm in diameter | $ | 1,650
+- (b) | above 80 mm in diameter up to and including 100 mm in diameter | $ | 1,820
 
-- (c) | above 100 mm in diameter up to and including 150 mm in diameter | $ | 2,880
+- (c) | above 100 mm in diameter up to and including 150 mm in diameter | $ | 3,170
 
-- (d) | above 150 mm in diameter up to and including 200 mm in diameter | $ | 3,600
+- (d) | above 150 mm in diameter up to and including 200 mm in diameter | $ | 3,960
 
 - 6. | Under regulation 34(1) and (2)—
 
-- Plumber’s licence | $ | 98
+- Plumber’s licence | $ | 105
 
 - 7. | Under regulation 34(3)—
 
-- Renewal of plumber’s licence | $ | 73
+- Renewal of plumber’s licence | $ | 80
 
 - 8. | Under regulation 34(3C)—
 
-- Plumber’s licence examination | $ | 1,190
+- Plumber’s licence examination | $ | 1,310
 
 - 9. | Under regulation 42—
 
-- Fishing licence | $ | 30
+- Fishing licence | $ | 33
 
-- (L.N. 176 of 1996; L.N. 358 of 2000; L.N. 41 of 2001; L.N. 129 of 2010; L.N. 89 of 2012; L.N. 121 of 2013; L.N. 126 of 2014)
+- (L.N. 176 of 1996; L.N. 358 of 2000; L.N. 41 of 2001; L.N. 129 of 2010; L.N. 89 of 2012; L.N. 121 of 2013; L.N. 126 of 2014; L.N. 12 of 2019)
 
 - Part 2 Supervision Charge (Regulation 8) The charge for supervision of work carried out by the Water Authority, other than work for which a fee is prescribed in this Schedule, shall be 20% of the actual cost of such work.
 
@@ -112,22 +112,22 @@
 
 - Charge where sample delivered to Water Authority
 
-- (a) | for a general chemical analysis (comprising all standard tests*) | $ | 3,250
+- (a) | for a general chemical analysis (comprising all standard tests*) | $ | 3,580
 
-- (b) | for an individual standard test* | $ | 285
+- (b) | for an individual standard test* | $ | 315
 
-- (c) | for a non-standard test (other than a non-standard test referred to in paragraph (d) or (e)) | $ | 555
+- (c) | for a non-standard test (other than a non-standard test referred to in paragraph (d) or (e)) | $ | 610
 
-- (d) | for a British Pharmaceutical test for water for injection purposes | $ | 1,290
+- (d) | for a British Pharmaceutical test for water for injection purposes | $ | 1,420
 
-- (e) | for a general bacteriological examination | $ | 655
+- (e) | for a general bacteriological examination | $ | 720
 
-- 2. | Charge for each attendance to collect any sample or samples | $ | 1,130
+- 2. | Charge for each attendance to collect any sample or samples | $ | 1,200
 
-- 3. | Charge for additional copy of examination report | $ | 1.10
+- 3. | Charge for additional copy of examination report | $ | 1.30
 
   - * For the purpose of this Part, standard test (標準測試) means a test to determine any one of the following—
 
 - Turbidity; Ortho-phosphate; Total hardness; Oxygen absorbed value; Conductivity; Manganese; Chlorides; Residual chlorine; | Nitrite nitrogen; pH value; Fluorides; Calcium; Suspended solids; Ammoniacal nitrogen; Aluminium; Sulphates; | Total alkalinity; Nitrate nitrogen; Colour; Iron; Magnesium; Dissolved solids; Albuminoid nitrogen; Silica.
 
-- (L.N. 176 of 1996; L.N. 129 of 2010; L.N. 89 of 2012; L.N. 121 of 2013; L.N. 126 of 2014)
+- (L.N. 176 of 1996; L.N. 129 of 2010; L.N. 89 of 2012; L.N. 121 of 2013; L.N. 126 of 2014; L.N. 12 of 2019)
