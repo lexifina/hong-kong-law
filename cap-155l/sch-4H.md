@@ -1,6 +1,8 @@
 # Schedule 4H
 
-[ss. 43, 47, 48 & 226 & Sch. 4D]
+[s. 226]
+
+(L.N. 222 of 2018)
 
 Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 2012
 
@@ -18,99 +20,7 @@ Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 201
 
   - (2) If an authorized institution decides not to apply the transitional arrangements set out in this Schedule for an item or investment under subsection (1), it must inform the Monetary Authority in writing of its decision, and must not change its decision without the prior consent of the Monetary Authority.
 
-- 3. Capital deductions
-
-  - (1) For those items that must be deducted from the capital base of an authorized institution in accordance with Division 4 of Part 3 of these Rules, the deductions must be made in accordance with the applicable arrangements referred to in this section.
-
-  - (2) The deduction amount of a certain item or investment for which the transitional arrangements set out in this Schedule apply is the amount of that item or investment that was outstanding immediately before 1 January 2013 (adjusted for any fair value changes as required by applicable accounting standards on each reporting date), and any amount in respect of the same item or investment incurred on or after that date must be deducted in accordance with Division 4 of Part 3 of these Rules.
-
-  - (3) Table A applies, for the purposes of deduction on and after 1 January 2013, in respect of items that were subject to deduction from core capital under section 48(1) of the pre-amended Capital Rules before that date but are subject to deduction from CET1 capital on and after that date. Table A Deductions on and after 1 January 2013
-
-  - Date | Amount to be deducted from core capital before 1 January 2013 expressed in percentage points | Amount to be deducted from CET1 capital on and after 1 January 2013 expressed in percentage points
-
-  - Before 1 January 2013 | 100% | 0%
-
-  - On and after 1 January 2013 | 0% | 100%
-
-  - (4) Table B applies, for the purposes of deduction from 1 January 2013 to 31 December 2017 (both dates inclusive), in respect of items that—
-
-    - (a) were not required to be deducted under section 48(2)(c), (d), (e), (f) and (g) of the pre-amended Capital Rules, but were subject to the risk-weighting framework of those Rules, before 1 January 2013; and
-
-    - (b) but for this subsection, would be subject to deduction under Division 4 of Part 3 of these Rules on and after 1 January 2013. Table B Deductions from 1 January 2013 to 31 December 2017
-
-    - (both dates inclusive)
-
-    - Date from which deduction is to be made | Amount to be deducted expressed in percentage points | Amount to be subject to risk-weighting before 1 January 2013 expressed in percentage points
-
-    - 1 January 2013 | 0% | 100%
-
-    - 1 January 2014 | 20% | 80%
-
-    - 1 January 2015 | 40% | 60%
-
-    - 1 January 2016 | 60% | 40%
-
-    - 1 January 2017 | 80% | 20%
-
-  - (5) Table C applies, for the purposes of deduction from 1 January 2013 to 31 December 2017 (both dates inclusive), in respect of items that were subject to deduction on an equal basis from core capital and supplementary capital under section 48(2) of the preamended Capital Rules before 1 January 2013 but are subject to deduction from CET1 capital, Additional Tier 1 capital or Tier 2 capital, as the case requires, on and after 1 January 2013. (L.N. 51 of 2013) Table C Deductions from 1 January 2013 to 31 December 2017
-
-  - (both dates inclusive)
-
-  - Date from which deduction is to be made | Amount to be deducted from CET1 capital, Additional Tier 1 capital or Tier 2 capital, as the case requires, expressed in percentage points | Remaining amount to be deducted on an equal basis from Tier 1 capital and Tier 2 capital expressed in percentage points
-
-  - 1 January 2013 | 0% | 100%
-
-  - 1 January 2014 | 20% | 80%
-
-  - 1 January 2015 | 40% | 60%
-
-  - 1 January 2016 | 60% | 40%
-
-  - 1 January 2017 | 80% | 20%
-
-- (L.N. 51 of 2013)
-
-  - (6) For the purpose of a deduction that an authorized institution is required to make from Tier 1 capital and Tier 2 capital by virtue of the application of Table C—
-
-    - (a) if the amount required to be deducted from Tier 1 capital is greater than the actual amount of Additional Tier 1 capital, the amount of shortfall in Additional Tier 1 capital must be deducted from the institution’s CET1 capital;
-
-    - (b) if the amount required to be deducted from Tier 2 capital is greater than the actual amount of Tier 2 capital, the amount of shortfall must be met by the institution’s Tier 1 capital.
-
-- 4. Recognition of minority interests and capital instruments issued by consolidated bank subsidiaries and held by third parties in authorized institution’s capital base
-
-  - (1) If—
-
-    - (a) a minority interest; or
-
-    - (b) a capital instrument issued by a bank subsidiary of an authorized institution and held by third parties,
-
-  - is eligible for inclusion in the capital base of the institution in accordance with Part 3 of these Rules, the minority interest or capital instrument may be so included on and after 1 January 2013.
-
-  - (2) If—
-
-    - (a) a minority interest; or
-
-    - (b) a capital instrument issued by a subsidiary of an authorized institution that is subject to a section 3C requirement and held by third parties,
-
-  - is no longer eligible for inclusion in the institution’s capital base on 1 January 2013 but was included in the calculation of the institution’s capital base before that date, the minority interest or capital instrument must be progressively excluded from the capital base of the institution in accordance with Table D.
-
-  - Table D Exclusion of Non-eligible Minority Interests or Capital
-
-  - Instruments from Capital Base of Authorized Institution
-
-  - Date from which minority interests or capital instruments are to be excluded | Amount of minority interests or capital instruments to be excluded expressed in percentage points
-
-  - 1 January 2013 | 0%
-
-  - 1 January 2014 | 20%
-
-  - 1 January 2015 | 40%
-
-  - 1 January 2016 | 60%
-
-  - 1 January 2017 | 80%
-
-  - 1 January 2018 | 100%
+- 3-4. (Repealed L.N. 222 of 2018)
 
 - 5. Capital instruments that no longer qualify for inclusion in capital base
 
@@ -124,9 +34,9 @@ Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 201
 
       - (i) in the case of Additional Tier 1 capital instruments, meet the qualifying criteria set out in Schedule 4B (excluding section 1(q) of that Schedule); or
 
-      - (ii) in the case of Tier 2 capital instruments, meet the qualifying criteria set out in Schedule 4C (excluding section 1(k) of that Schedule), (L.N. 51 of 2013)
+      - (ii) in the case of Tier 2 capital instruments, meet the qualifying criteria set out in Schedule 4C (excluding section 1(k) of that Schedule),
 
-  - multiplied by a progressively reducing percentage during the period as specified in Table E.
+  - multiplied by a progressively reducing percentage during the period as specified in Table E. (L.N. 51 of 2013)
 
   - Table E Progressive Phasing Out of Non-eligible Capital
 

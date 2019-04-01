@@ -28,15 +28,7 @@ Requirements to be Met for Minority Interests and Capital Instruments Issued by 
 
   - (3) For inclusion of a minority interest or minority capital instrument in an authorized institution’s capital base calculated on a consolidated basis, the institution or an affiliate of the institution must not fund directly or indirectly (whether through a special purpose vehicle or through any other vehicle or arrangement) the purchase of the interest or instrument in the relevant consolidated bank subsidiary of the institution.
 
-  - (4) For inclusion of a minority interest or minority capital instrument in an authorized institution’s capital base calculated on a consolidated basis, capital instruments issued by subsidiaries of the institution and held by third parties before 1 January 2013 that do not—
-
-    - (a) meet the qualifying criteria set out in Schedule 4A for inclusion in CET1 capital;
-
-    - (b) meet the qualifying criteria set out in Schedule 4B for inclusion in Additional Tier 1 capital; or
-
-    - (c) meet the qualifying criteria set out in Schedule 4C for inclusion in Tier 2 capital,
-
-  - are subject to the transitional arrangements set out in sections 2 and 4 of Schedule 4H.
+  - (4) (Repealed L.N. 222 of 2018)
 
 - 3. Computation of applicable amount of minority interests for inclusion in authorized institution’s CET1 capital on consolidated basis
 
