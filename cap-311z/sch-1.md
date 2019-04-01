@@ -216,17 +216,17 @@ Emission Standards
 
   - 6. Goods vehicle— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which does not exceed 3.5 tonnes. | Sections 3(1) or (3) and 4(2) of this Part
 
-  - 7. Goods vehicle— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 3(5) or (7), 4(4) and 5 of this Part
+  - 7. Goods vehicle— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 3(6) or (7), 4(4) and 5 of this Part (L.N. 173 of 2018)
 
-  - 8. Goods vehicle— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 3(5) or (7), 4(3) and (4) and 5 of this Part
+  - 8. Goods vehicle— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes. | Sections 3(6) or (7), 4(3) and (4) and 5 of this Part (L.N. 173 of 2018)
 
   - 9. Bus— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes but does not exceed 9 tonnes. | Section 2(5), (6) or (7) of this Part
 
   - 10. Bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 3.5 tonnes but does not exceed 9 tonnes. | Sections 2(1) and 2(5), (6) or (7) of this Part
 
-  - 11. Bus— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 9 tonnes. | Sections 3(5) or (7), 4(4) and 5 of this Part
+  - 11. Bus— (a) that is equipped with a positive-ignition engine; and (b) the design weight of which exceeds 9 tonnes. | Sections 3(6) or (7), 4(4) and 5 of this Part (L.N. 173 of 2018)
 
-  - 12. Bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 9 tonnes. | Sections 3(5) or (7), 4(3) and (4) and 5 of this Part
+  - 12. Bus— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which exceeds 9 tonnes. | Sections 3(6) or (7), 4(3) and (4) and 5 of this Part (L.N. 173 of 2018)
 
   - 13. Light bus— (a) that is equipped with a positive-ignition engine of indirect-injection type; and (b) the design weight of which does not exceed 3.5 tonnes. | Section 3(1), (3) or (4) of this Part
 
@@ -378,23 +378,7 @@ Emission Standards
 
       - (c) all the type approval requirements administered by the Ministry of Land, Infrastructure, Transport and Tourism of Japan.
 
-    - (5) European Union Motor Vehicle Emission Standards, comprising all of the following—
-
-      - (a) all the testing procedures, requirements and emission limits, including those for on-board diagnostic system, specified in—
-
-        - (i) Regulation (EC) No. 595/2009 of the European Parliament and of the Council; and
-
-        - (ii) Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
-
-      - (b) the emission limit values of gaseous and particulate pollutants from the engine specified in the Table entitled “Euro VI Emission Limits” of Annex I to Regulation (EC) No. 595/2009 of the European Parliament and of the Council as amended by Commission Regulation (EU) No. 582/2011 and its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718;
-
-      - (c) the requirements specified in—
-
-        - (i) Row A of Table 1 of Appendix 9 to Annex I to Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718, for vehicle models equipped with compression-ignition engines; or
-
-        - (ii) Row B of Table 1 of Appendix 9 to Annex I to Commission Regulation (EU) No. 582/2011 as amended by its subsequent amendments up to and including amendments made by Commission Regulation (EU) No. 2016/1718, for vehicle models equipped with positive-ignition engines;
-
-      - (d) all the type approval requirements specified in Directive 2007/46/EC of the European Parliament and of the Council as amended by its subsequent amendments up to and including amendments made by Regulation (EU) No. 2015/758.
+    - (5) (Repealed L.N. 173 of 2018)
 
     - (6) European Union Motor Vehicle Emission Standards, comprising all of the following—
 
