@@ -1,6 +1,6 @@
 # Schedule 16
 
-[s. 20AC & Schs. 17A, 29 & 36] (Amended 10 of 2013 s. 19; 12 of 2016 s. 16)
+[ss. 20AB & 20AC & Schs. 17A, 29 & 36] (Amended 10 of 2013 s. 19; 12 of 2016 s. 16; 5 of 2019 s. 9)
 
 Specified Transactions
 

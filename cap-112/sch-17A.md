@@ -1,6 +1,6 @@
 # Schedule 17A
 
-[ss. 5B(7), 14A(6), 15(3A), 16(4A), 20AC(7), 26A(2) & (4), 40AB, 51C(5), 60(4), 64(11), 79(4), 80(6) & 82A(8) & Schs. 6, 16 & 29] (Amended 7 of 2014 s. 9)
+[ss. 5B(7), 14A(6), 15(3A), 16(4A), 20AC(7), 20AN(7), 26A(2) & (4), 40AB, 51C(5), 60(4), 64(11), 79(4), 80(6) & 82A(8) & Schs. 6, 16, 16C & 29] (Amended 7 of 2014 s. 9; 5 of 2019 s. 12)
 
 Specified Alternative Bond Scheme and its Tax Treatment
 
@@ -720,7 +720,7 @@ The following is an overview of the content of this Schedule and does not have l
 
       - (5) Section 16(2)(f) of this Ordinance is to apply to additional payments payable on alternative bonds under the qualified bond arrangement by the bond-issuer as if they were interest payable on debentures or instruments by the bond-issuer.
 
-      - (6) Section 20AC of this Ordinance and item 1 of Part 1 of Schedule 16 are to apply as if alternative bonds issued under the qualified bond arrangement were bonds for the purposes of paragraph (a) of the definition of securities in that Schedule. (Amended 13 of 2015 s. 12)
+      - (6) Sections 20AC and 20AN of this Ordinance and item 1 of Part 1 of Schedules 16 and 16C are to apply as if alternative bonds issued under the qualified bond arrangement were bonds for the purposes of paragraph (a) of the definition of securities in those Schedules. (Amended 13 of 2015 s. 12; 5 of 2019 s. 12)
 
       - (7) For the purposes of section 26A of this Ordinance, the qualified bond arrangement is to be regarded as not being a mutual fund, unit trust or similar investment scheme described in subsection (1A)(a) of that section.
 
