@@ -52,7 +52,7 @@ Financial Penalties
 
 - 4E | 34DB(1)(d) | Approved trustee to ensure default investment strategy is available for selection by scheme member (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
-- 4F | 34DB(3) | Approved trustee must not invest according to default investment strategy the accrued benefits in pre-existing account of scheme member who the trustee is aware has reached 60 years of age before the commencement date# of Part 4AA of the Ordinance unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+- 4F | 34DB(3) | Approved trustee must not invest according to default investment strategy the accrued benefits in pre-existing account of scheme member who the trustee is aware has reached 60 years of age before the commencement date* of Part 4AA of the Ordinance unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
 - 4G | 34DC(1) | Approved trustee to ensure transferred benefits remain invested in the same manner as they were invested immediately before the transfer unless scheme member otherwise instructs (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
@@ -64,7 +64,7 @@ Financial Penalties
 
 - 4K | 34DH(2) | Approved trustee to continue to invest any accrued benefits in DIA account according to default investment strategy after accrued benefits have been invested according to strategy under section 34DI(2) or 34DJ(3) or (5) unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
-- 4L | 34DI(1) | Approved trustee to give specified notice to scheme member within 6 months after the commencement date# of Part 4AA of the Ordinance (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+- 4L | 34DI(1) | Approved trustee to give specified notice to scheme member within 6 months after the commencement date* of Part 4AA of the Ordinance (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
 - 4M | 34DI(2) | Approved trustee to invest accrued benefits according to default investment strategy in default of reply to specified notice within 14 days after expiry day (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
@@ -82,7 +82,7 @@ Financial Penalties
 
 - Editorial Note:
 
-- # Commencement date: 1 April 2017.
+- * Commencement date: 1 April 2017.
 
 - Part 2 Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A)
 
@@ -145,6 +145,8 @@ Financial Penalties
 - 15 | (Repealed 1 of 2015 s. 51)
 
 - 16 | 56 | Requirements with respect to provision of annual benefit statements to scheme members | 5,000 | 10,000 | 20,000
+
+- 16A | 56A | Requirements with respect to provision of contribution summaries for TVC accounts to scheme members (7 of 2019 s. 24) | 5,000 | 10,000 | 20,000
 
 - 17 | 57 | Approved trustee to assist employers and scheme members | 5,000 | 10,000 | 20,000
 

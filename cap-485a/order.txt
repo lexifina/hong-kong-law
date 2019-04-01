@@ -64,6 +64,7 @@ s-053.md
 s-054.md
 s-055.md
 s-056.md
+s-056A.md
 s-057.md
 s-058.md
 s-059.md
@@ -163,6 +164,8 @@ s-148.md
 s-148A.md
 s-148B.md
 s-149.md
+s-149A.md
+s-149B.md
 s-150.md
 s-150A.md
 s-151.md
