@@ -80,7 +80,9 @@ Major trade division | Designated trade division or divisions with similar requi
 
 (d) Bricklayer (e) Mason (f) Plasterer (g) Tiler
 
-22. Concrete and Grouting Worker (Master) | (a) Paving Block Layer (b) Marble Worker (Wet Fixing) | A person registered for this major division may not personally carry out, under section 3A(1), on a construction site construction work involving tie fastening under marble work (a skill required for the designated trade division of marble worker (wet fixing)).
+22. Concrete and Grouting Worker (Master) | (a) Paving Block Layer
+
+(b) Marble Worker (Wet Fixing) | A person registered for this major division may not personally carry out, under section 3A(1), on a construction site construction work involving tie fastening under marble work (a skill required for the designated trade division of marble worker (wet fixing)).
 
 (c) Bricklayer (d) Mason (e) Plasterer (f) Tiler
 
@@ -100,10 +102,18 @@ Major trade division | Designated trade division or divisions with similar requi
 
 28. Carpenter (Formwork—Civil Construction) (Striking) | Carpenter (Formwork—Building Construction) (Striking)
 
-29. Joiner | Floor Layer (PVC Flooring)
+29. Joiner | (a) False Ceiling Installer (b) Partition (Metal Frame) Installer (c) Floor Layer (PVC Flooring) (Replaced L.N. 189 of 2016)
 
 30. Fire Service Mechanic (Master) | Plumber | A person registered for this major division may personally carry out, under section 3A(1), on a construction site construction work involving metal pipe work, but not any other skills required for the designated trade division of plumber.
 
 31. Fire Service Mechanical Fitter | Plumber | A person registered for this major division may personally carry out, under section 3A(1), on a construction site construction work involving metal pipe work, but not any other skills required for the designated trade division of plumber.
 
+32. Metal Worker | (a) False Ceiling Installer (b) Partition (Metal Frame) Installer (Added L.N. 189 of 2016)
+
+33. False Ceiling Installer | Partition (Metal Frame) Installer (Added L.N. 189 of 2016)
+
 (Schedule 1A added 22 of 2014 s. 36)
+
+Editorial Note:
+
+For the transitional provisions relating to the amendments made by the Construction Workers Registration Ordinance (Amendment of Schedules 1 and 1A) Notice 2016 (L.N. 189 of 2016), see Part 3 of the Notice.
