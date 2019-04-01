@@ -56,7 +56,7 @@ Item | Designated trade divisions
 
 24. | Structural Steel Erector
 
-\#25. | False Ceiling Installer
+25. | False Ceiling Installer
 
 26. | Concretor
 
@@ -68,7 +68,7 @@ Item | Designated trade divisions
 
 30. | Marble Worker (Wet Fixing)
 
-\#31. | Partition (Metal Frame) Installer
+31. | Partition (Metal Frame) Installer
 
 32. | Glazier
 
@@ -101,7 +101,3 @@ Item | Designated trade divisions
 46. | Asphalter (Road Construction)
 
 47. | Electrical Wireman
-
-Editorial Note:
-
-\# Not yet in operation.

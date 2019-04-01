@@ -40,7 +40,7 @@ Item | Designated trade divisions | Requirements
 
 13. | Structural Steel Erector | Weight of structural steel to be handled ≤ 0.2 tonne
 
-\#14. | False Ceiling Installer | (a) For replacing or repairing false ceiling—false ceiling area ≤ 50 m2 (b) For constructing new false ceiling—false ceiling area ≤ 25 m2
+14. | False Ceiling Installer | (a) For replacing or repairing false ceiling—false ceiling area ≤ 50 m2 (b) For constructing new false ceiling—false ceiling area ≤ 25 m2
 
 15. | Concretor | Volume of concrete to be handled ≤ 7 m3
 
@@ -48,7 +48,7 @@ Item | Designated trade divisions | Requirements
 
 17. | (a) Marble Worker (Polishing) (b) Marble Worker (Dry Fixing) (c) Marble Worker (Wet Fixing) | (a) For replacing or repairing marble— (i) marble area ≤ 50 m2 (ii) height of marble work ≤ 1.1 m (b) For constructing new marble— (i) marble area ≤ 25 m2 (ii) height of marble work ≤ 1.1 m
 
-\#18. | Partition (Metal Frame) Installer | (a) For replacing or repairing partition (metal frame)—partition (metal frame) area ≤ 50 m2 (b) For constructing new partition (metal frame)—partition (metal frame) area ≤ 25 m2
+18. | Partition (Metal Frame) Installer | (a) For replacing or repairing partition (metal frame)—partition (metal frame) area ≤ 50 m2 (b) For constructing new partition (metal frame)—partition (metal frame) area ≤ 25 m2
 
 19. | Glazier | Area of glass to be handled ≤ 0.7 m2
 
@@ -59,7 +59,3 @@ Item | Designated trade divisions | Requirements
 22. | (a) Painter and Decorator (Roller Painting) (b) Painter and Decorator (Surface Filling) (c) Painter and Decorator (Emulsion Painting) (d) Painter and Decorator (Brushing Lacquering) (e) Painter and Decorator (Synthetic Painting) (f) Painter and Decorator (Clear Lacquering) (g) Painter and Decorator (Texture-spray) (h) Painter and Decorator (Metal Paint Spray) (i) Painter and Decorator (Paperhanging) (j) Painter and Decorator (Sign Writing) | (a) For protective coating of concrete structure—area ≤ 5 m2 (b) For protective coating of structural steelwork against corrosion—area ≤ 0.5 m2 (c) For painting of non-structural steelwork—area ≤ 5 m2 (d) For replacing or repairing painting of an area other than one mentioned in paragraphs (a), (b) and (c)—area ≤ 50 m2 (e) For new painting of an area other than one mentioned in paragraphs (a), (b) and (c)—area ≤ 2 m2
 
 23. | Electrical Wireman | Length of wire to be handled ≤ 50 m
-
-Editorial Note:
-
-\# Not yet in operation.
