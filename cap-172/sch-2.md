@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 11]
 
-FORM 1 | [s. 11(1)]
+(Schedule 2 added 83 of 1997 s. 6)
+
+Form 1 | [s. 11(1)]
 
 PLACES OF PUBLIC ENTERTAINMENT ORDINANCE (Chapter 172) Prohibition Order
 
@@ -38,13 +40,13 @@ Note: | 1. | The penalties for a breach of this Order are a fine at level 6 and 
 
 _
 
-FORM 2 | [s. 11(4)]
+Form 2 | [s. 11(4)]
 
 PLACES OF PUBLIC ENTERTAINMENT ORDINANCE (Chapter 172) Closure Order
 
 TO . (licensing authority or public officer authorized by that authority in this behalf making the application)
 
-WHEREAS a Prohibition Order was made by me . (OR specify the person who made the order) on the . day of . 19 ., in respect of the place of public entertainment known as . situated at . prohibiting the keeping or use of that place of public entertainment as . (specify use prohibited):
+WHEREAS a Prohibition Order was made by me .. (OR specify the person who made the order) on the . day of . 19 ., in respect of the place of public entertainment known as . situated at .. prohibiting the keeping or use of that place of public entertainment as . (specify use prohibited):
 
 AND WHEREAS application has been made to me for a Closure Order in respect of that place of public entertainment:
 
@@ -64,4 +66,4 @@ Note: | 1. | It is an offence for any unauthorized person to enter or remain in 
 
 2. | The penalty for removing or defacing a copy of this Order affixed to any place of public entertainment or for breaking or interfering with any lock or seal placed on any place of public entertainment is a fine at level 4 and imprisonment for 6 months.
 
-(Amended 78 of 1999 s. 7) (Schedule 2 added 83 of 1997 s. 6)
+(Amended 78 of 1999 s. 7)
