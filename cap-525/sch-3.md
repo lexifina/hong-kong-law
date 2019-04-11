@@ -38,6 +38,6 @@ Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) O
 
 - (Not yet in operation)
 
-- The Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order is repealed.
+- The Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg. A) is repealed. (Amended E.R. 1 of 2019)
 
 - 16-18. (Omitted as spent—E.R. 1 of 2013)

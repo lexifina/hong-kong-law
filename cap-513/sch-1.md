@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-INWARD AND OUTWARD WARRANTS
+Inward and Outward Warrants
 
 PART 1
 
-INWARD WARRANT
+Inward Warrant
 
 To the Commissioner of Correctional Services and to each and all of the officers acting under his orders.
 
@@ -24,7 +24,7 @@ Dated this . day of .
 
 PART 2
 
-OUTWARD WARRANT
+Outward Warrant
 
 To the Commissioner of Correctional Services, to each and all of the officers acting under his orders and to the escorting officer representing the appropriate authority of the place outside Hong Kong.
 

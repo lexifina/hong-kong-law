@@ -1,14 +1,18 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 17(4)(b) & 39(2)]
 
-DESCRIPTION OF OFFENCES WHICH DISENTITLE PERSONS FROM BEING OR CONTINUING TO BE REGISTERED SOCIAL WORKERS
+Description of Offences which Disentitle Persons from Being or Continuing to be Registered Social Workers
 
-- 1. An offence under the following section of the Affiliation Proceedings Ordinance (Cap. 183)—
+- 1. An offence under the following section of the #Affiliation Proceedings Ordinance (Cap. 183)—
 
 - Section | Description*
 
 - 16(b) | ill-treating a child
+
+- Editorial Note:
+
+  - # Cap. 183 was repealed by section 79 of the Law Reform (Miscellaneous Provisions and Minor Amendments) Ordinance 1997 (80 of 1997).
 
 - 2. An offence under any of the following sections of the Crimes Ordinance (Cap. 200)—
 
@@ -162,6 +166,8 @@ DESCRIPTION OF OFFENCES WHICH DISENTITLE PERSONS FROM BEING OR CONTINUING TO BE 
 
 - Section | Description*
 
-- 26 42 | abduction of child or juvenile assisting escape of child or juvenile from custody or control
+- 26 | abduction of child or juvenile
+
+- 42 | assisting escape of child or juvenile from custody or control
 
 * Note: The short description of offences in this Schedule is for ease of reference only.

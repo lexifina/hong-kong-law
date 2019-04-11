@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [paras. 3, 4A, 4AA, 5A & 8] (L.N. 558 of 1994; L.N. 188 of 1999; 21 of 2006 s. 40)
 
-- PART I (Repealed L.N. 188 of 1999)
+- Part I (Repealed L.N. 188 of 1999)
 
 - Part 2 Forms of Health Warning on Packet of Cigarettes or Retail Container of Tobacco Products (Not in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2 replaced L.N. 66 of 2017 and L.N. 126 of 2017)
 
@@ -370,39 +370,41 @@
 
 - (c) | clearly visible.
 
-- PART III (Repealed 21 of 2006 s. 40)
+- Part III (Repealed 21 of 2006 s. 40)
 
-- Part 3A FORM OF HEALTH WARNING ON PRICE BOARD
+- Part 3A Form of Health Warning on Price Board
 
-- OF TOBACCO PRODUCTS (L.N. 66 of 2017)
+- of Tobacco Products (L.N. 66 of 2017)
 
-- Specifications:
+- Specifications—
 
-  - 1. The form is rectangular in shape and surrounded by a black line as demarcation.
+- 1. | The form is rectangular in shape and surrounded by a black line as demarcation.
 
-  - 2. The background colour is white.
+- 2. | The background colour is white.
 
-  - 3. The characters “香港特區政府忠告市民” are printed in 30 kyu (級).
+- 3. | The characters “香港特區政府忠告市民” are printed in 30 kyu (級).
 
-  - 4. The characters “吸煙足以致命” are printed in 90 kyu (級).
+- 4. | The characters “吸煙足以致命” are printed in 90 kyu (級).
 
-  - 5. All characters referred to in paragraphs 3 and 4 are printed in black and in “華康中黑體” typeface.
+- 5. | All characters referred to in paragraphs 3 and 4 are printed in black and in “華康中黑體” typeface.
 
-  - 6. The letters “HKSAR GOVERNMENT WARNING” are printed in 30 points.
+- 6. | The letters “HKSAR GOVERNMENT WARNING” are printed in 30 points.
 
-  - 7. The letters “SMOKING KILLS” are printed in 90 points.
+- 7. | The letters “SMOKING KILLS” are printed in 90 points.
 
-  - 8. All letters referred to in paragraphs 6 and 7 are printed in black and in Univers Bold typeface, all capitals.
+- 8. | All letters referred to in paragraphs 6 and 7 are printed in black and in Univers Bold typeface, all capitals.
 
-  - 9. If the price board is smaller than 1500 square centimetres, the characters and letters of the health warning may be proportionally reduced in kyu (級) and points by reference to the specifications in paragraphs 3, 4, 6 and 7. (21 of 2006 s. 40)
+- 9. | If the price board is smaller than 1500 square centimetres, the characters and letters of the health warning may be proportionally reduced in kyu (級) and points by reference to the specifications in paragraphs 3, 4, 6 and 7.
 
-- PART IV (Repealed L.N. 188 of 1999)
+- (21 of 2006 s. 40)
 
-- PART V (Repealed 21 of 2006 s. 40)
+- Part IV (Repealed L.N. 188 of 1999)
 
-- Part 6 SIGN WHEN OFFERING TOBACCO
+- Part V (Repealed 21 of 2006 s. 40)
 
-- PRODUCTS FOR SALE, ETC. (L.N. 66 of 2017) BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
+- Part 6 Sign when Offering Tobacco
+
+- Products for Sale, etc. (L.N. 66 of 2017) BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
 
 - TO PERSON UNDER 18 OR GIVEN FOR
 

@@ -1,12 +1,14 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 17]
 
-SCHEDULED SUBSTANCES
+Scheduled Substances
+
+(Schedule replaced L.N. 114 of 2009)
 
 A substance listed in this Schedule includes, except as otherwise stated, the substance’s isomers.
 
-- PART 1 CHLOROFLUOROCARBONS (CFCs)
+- Part 1 Chlorofluorocarbons (CFCs)
 
 - Chemical Name | Chemical Formula
 
@@ -20,7 +22,7 @@ A substance listed in this Schedule includes, except as otherwise stated, the su
 
 - Chloropentafluoroethane | C2F5Cl
 
-- PART 2 HALONS
+- Part 2 Halons
 
 - Chemical Name | Chemical Formula
 
@@ -30,7 +32,7 @@ A substance listed in this Schedule includes, except as otherwise stated, the su
 
 - Dibromotetrafluoroethane | C2F4Br2
 
-- PART 3 OTHER FULLY HALOGENATED CHLOROFLUOROCARBONS
+- Part 3 Other Fully Halogenated Chlorofluorocarbons
 
 - Chemical Name | Chemical Formula
 
@@ -54,25 +56,25 @@ A substance listed in this Schedule includes, except as otherwise stated, the su
 
 - Chloroheptafluoropropane | C3F7Cl
 
-- PART 4 METHYL CHLOROFORM
+- Part 4 Methyl Chloroform
 
 - Chemical Name | Chemical Formula
 
-- 1, 1, 1-Trichloroethane (except 1, 1, 2-Trichloroethane) | C2H3Cl3
+- 1,1,1-Trichloroethane (except 1,1,2-Trichloroethane) | C2H3Cl3
 
-- PART 5 CARBON TETRACHLORIDE
+- Part 5 Carbon Tetrachloride
 
 - Chemical Name | Chemical Formula
 
 - Tetrachloromethane | CCl4
 
-- PART 6 METHYL BROMIDE
+- Part 6 Methyl Bromide
 
 - Chemical Name | Chemical Formula
 
 - Bromomethane | CH3Br
 
-- PART 7 HYDROBROMOFLUOROCARBONS (HBFCs)
+- Part 7 Hydrobromofluorocarbons (HBFCs)
 
 - Chemical Name | Chemical Formula
 
@@ -144,7 +146,7 @@ A substance listed in this Schedule includes, except as otherwise stated, the su
 
 - Bromofluoropropane | C3H6FBr
 
-- PART 8 HYDROCHLOROFLUOROCARBONS (HCFCs)
+- Part 8 Hydrochlorofluorocarbons (HCFCs)
 
 - Chemical Name | Chemical Formula
 
@@ -216,10 +218,8 @@ A substance listed in this Schedule includes, except as otherwise stated, the su
 
 - Chlorofluoropropane | C3H6FCl
 
-- PART 9 BROMOCHLOROMETHANE (BCM)
+- Part 9 Bromochloromethane (BCM)
 
 - Chemical Name | Chemical Formula
 
 - Bromochloromethane | CH2BrCl
-
-(Schedule replaced L.N. 114 of 2009)

@@ -6,7 +6,7 @@ Consequential Amendments
 
 Telecommunications Ordinance
 
-- 1-4. (Omitted as spent)
+- 1-4. (Omitted as spent—E.R. 1 of 2019)
 
 - 5. Authority may determine terms of interconnection Section 36A(3)(a) and (aa) is repealed and the following substituted—
 
@@ -14,4 +14,4 @@ Telecommunications Ordinance
 
   - (aa) and between services the subject of a licence the subject of section 2(3) of Schedule 8 to the Broadcasting Ordinance (Cap. 562); and”.
 
-- 6-23. (Omitted as spent)
+- 6-23. (Omitted as spent—E.R. 1 of 2019)

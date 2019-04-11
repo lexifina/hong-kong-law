@@ -536,7 +536,7 @@ Whereas
 
 of
 
-is required by the Governor under section 55(2) of the Immigration Ordinance to enter into this recognizance on the recission by the Governor, subject to the condition(s) specified below, of the deportation order made against him:
+is required by the Governor under section 55(2) of the Immigration Ordinance to enter into this recognizance on the rescission by the Governor, subject to the condition(s) specified below, of the deportation order made against him:
 
 Now—
 
@@ -572,7 +572,7 @@ Signature
 
 * Delete where inapplicable.
 
-(82 of 1993 s. 16; L.N. 166 of 1995) _
+(82 of 1993 s. 16; L.N. 166 of 1995; E.R. 1 of 2019) _
 
 FORM NO. 12
 

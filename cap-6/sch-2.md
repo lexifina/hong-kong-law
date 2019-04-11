@@ -2,7 +2,9 @@
 
 [ss. 75 & 76]
 
-- PART I Assistant Official Receiver (Legal)
+(Schedule 2 replaced L.N. 465 of 1994) (Format changes—E.R. 1 of 2019)
+
+- Part I Assistant Official Receiver (Legal)
 
 - Assistant Principal Solicitor
 
@@ -10,7 +12,7 @@
 
 - Solicitor
 
-- PART II Assistant Director of Accounting Services
+- Part II Assistant Director of Accounting Services
 
 - Chief Insolvency Officer
 
@@ -26,4 +28,4 @@
 
 - Accounting Officer II
 
-- Assistant Official Receiver (Case Management) (Schedule 2 replaced L.N. 465 of 1994)
+- Assistant Official Receiver (Case Management)

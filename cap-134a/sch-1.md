@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [reg. 5]
 
-FORM OF REGISTER
+Form of Register
 
 Date of receipt/ supply | Name and address of person* or firm from whom received/to whom supplied | Patient’s identity card number# | Amount | Invoice No. | Balance
 

@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [s. 3(2)]
 
-PARTICULARS TO ACCOMPANY APPLICATION FOR REGISTRATION
+Particulars to Accompany Application for Registration
 
 - 1. The nature and the objects of the body of persons or charity, and the rules and regulations of the same, together with a copy of every deed, will, or other instrument, if any, creating, constituting or regulating the same. (Amended 14 of 1968 s. 11)
 

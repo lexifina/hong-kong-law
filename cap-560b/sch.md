@@ -74,8 +74,8 @@ Item | Particular | Fee $
 
 17. | Issue of certified copy of licence or permit | 135
 
-Notes | * | the Regulation (規例) means the Entertainment Special Effects (General) Regulation (Cap. 560 sub. leg. A).
+Notes | * | the Regulation (《規例》) means the Entertainment Special Effects (General) Regulation (Cap. 560 sub. leg. A).
 
 † | An assessment fee as set out in items 3(b), 4(b), 5(b), 6(b), 7(b), 8(b), 9(b), 10(b) and 11(b) may also be payable for the alteration of the particulars in respect of the permitted scope of operation specified in a special effects operator licence.
 
-(L.N. 46 of 2005; L.N. 36 of 2013)
+(L.N. 46 of 2005; L.N. 36 of 2013; E.R. 1 of 2019)

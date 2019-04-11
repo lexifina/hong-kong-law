@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
@@ -18,4 +18,6 @@
 
 - 8. The areas of Lantau Island West hatched and enclosed in bold lines in Plan No. EPD/AN/NT-05 signed by the Secretary for the Environment and deposited in the Land Registry.
 
-- 9. The areas of Lantau Island East, Peng Chau and Cheung Chau hatched and enclosed in bold lines in Plan No. EPD/AN/NT-06 signed by the Secretary for the Environment and deposited in the Land Registry. (Schedule replaced L.N. 136 of 2008)
+- 9. The areas of Lantau Island East, Peng Chau and Cheung Chau hatched and enclosed in bold lines in Plan No. EPD/AN/NT-06 signed by the Secretary for the Environment and deposited in the Land Registry.
+
+(Schedule replaced L.N. 136 of 2008)

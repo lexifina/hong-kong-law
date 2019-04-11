@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 4(3)]
 
-CONSTITUTION, ETC. OF THE AUTHORITY
+Constitution, etc. of the Authority
 
 - 1. Seal
 
@@ -30,17 +30,17 @@ CONSTITUTION, ETC. OF THE AUTHORITY
 
       - (ii) subject to subparagraphs (i)(B), (iii) and (iv) and to compliance with subparagraph (i)(A), the appointments shall be made from amongst the following categories—
 
-        - (A) individuals who do estate agency work (“persons of Category A”);
+        - (A) individuals who do estate agency work (persons of Category A);
 
-        - (B) individuals, not being persons of Category A, who, either because of their experience in property development, general administration or consumer affairs or because of their professional or occupational experience, appear to the Chief Executive either to have knowledge of estate agency work, or to be otherwise particularly suitable for appointment to membership of the Authority (“persons of Category B”); and
+        - (B) individuals, not being persons of Category A, who, either because of their experience in property development, general administration or consumer affairs or because of their professional or occupational experience, appear to the Chief Executive either to have knowledge of estate agency work, or to be otherwise particularly suitable for appointment to membership of the Authority (persons of Category B); and
 
-        - (C) individuals, who are neither persons of Category A nor persons of Category B, who appear to the Chief Executive to be suitable for appointment to membership of the Authority (“persons of Category C”);
+        - (C) individuals, who are neither persons of Category A nor persons of Category B, who appear to the Chief Executive to be suitable for appointment to membership of the Authority (persons of Category C);
 
       - (iii) a person of Category A shall not be eligible for appointment as the Chairman or the Vice-chairman;
 
       - (iv) at any time when he makes 1 or more such appointments the Chief Executive shall ensure that the appointment or appointments are made so that, immediately after its or their making, not less than one half of the members of the Authority (excluding the Chairman and the Vice-chairman) are persons of Category C and the remaining members should, as far as possible, be equally represented by persons of Category A and persons of Category B.
 
-    - (d) Where the number of ordinary members falls below the number which is equal to the number required for a quorum by subsection (9) plus 1 (“the requisite number”), the Chief Executive shall make such appointment or appointments as are necessary to make the number of ordinary members not less than the requisite number.
+    - (d) Where the number of ordinary members falls below the number which is equal to the number required for a quorum by subsection (9) plus 1 (the requisite number), the Chief Executive shall make such appointment or appointments as are necessary to make the number of ordinary members not less than the requisite number.
 
     - (e) Where the total number of members of the Authority (excluding the Chairman and the Vice-chairman) for the time being is not an even number, then for, but only for, the purposes of determining the number of persons appointed to Category C under paragraph (c)(iv), that total number shall be regarded as having being increased by 1. (Amended 44 of 2000 s. 3)
 
@@ -88,4 +88,4 @@ CONSTITUTION, ETC. OF THE AUTHORITY
 
     - (d) any minor irregularity in the convening of any meeting of the Authority.
 
-- 4. Definition In this Schedule “ordinary member” (普通成員) means any member of the Authority who is neither the Chairman nor the Vice-chairman.
+- 4. Definition In this Schedule ordinary member (普通成員) means any member of the Authority who is neither the Chairman nor the Vice-chairman.

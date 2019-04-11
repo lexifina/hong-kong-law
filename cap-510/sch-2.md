@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3(3)]
 
-OATH OF OFFICE
+Oath of Office
 
 I, , having been appointed to be a justice of the peace,
 

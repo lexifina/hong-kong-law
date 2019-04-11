@@ -1,19 +1,19 @@
-# SCHEDULE 3
+# Schedule 3
 
-[s. 12(1A) & section (1C)]
+[s. 12(1A) & (1C)]
 
-QUALIFICATIONS FOR APPOINTMENT UNDER SECTION 12(1A)
+Qualifications for Appointment under Section 12(1A)
 
-To qualify for appointment under section 12(1A) of this Ordinance, a person shall—
+(Schedule 3 added 18 of 2005 s. 47) (Format changes—E.R. 1 of 2019)
 
-- (a) be—
+- To qualify for appointment under section 12(1A) of this Ordinance, a person shall—
 
-  - (i) a certified public accountant within the meaning of section 2 of the Professional Accountants Ordinance (Cap. 50);
+  - (a) be—
 
-  - (ii) a solicitor within the meaning of section 2(1) of the Legal Practitioners Ordinance (Cap. 159); or
+    - (i) a certified public accountant within the meaning of section 2 of the Professional Accountants Ordinance (Cap. 50);
 
-  - (iii) a current member of The Hong Kong Institute of Chartered Secretaries; and (Amended L.N. 102 of 2007)
+    - (ii) a solicitor within the meaning of section 2(1) of the Legal Practitioners Ordinance (Cap. 159); or
 
-- (b) satisfy any reasonable conditions that the Official Receiver may impose and has made accessible to the public.
+    - (iii) a current member of The Hong Kong Institute of Chartered Secretaries; and (Amended L.N. 102 of 2007)
 
-(Schedule 3 added 18 of 2005 s. 47)
+  - (b) satisfy any reasonable conditions that the Official Receiver may impose and has made accessible to the public.

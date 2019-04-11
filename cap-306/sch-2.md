@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [s. 15(1)]
 
-TABLE OF FEES PAYABLE TO THE REGISTRAR OF COMPANIES
+Table of Fees Payable to the Registrar of Companies
 
 Item | Matter in respect of which a fee is payable | Fees $
 
@@ -22,7 +22,7 @@ Item | Matter in respect of which a fee is payable | Fees $
 
 8. | For supplying under section 10(3), a copy of or extract from any document or part of any document by photostatic means, per sheet or page | 5.00
 
-Provided that where any sheet or page exceeds in size 210 X 297 mm, such additional fee not exceeding $5 as the Registrar may direct, shall be payable.
+Provided that where any sheet or page exceeds in size 210 × 297 mm, such additional fee not exceeding $5 as the Registrar may direct, shall be payable.
 
 9. | For supplying under section 10(3), a copy of or extract from any document or part of any document where the copy or extract is made other than by photostatic means, per folio of 100 words or part thereof of the first or top copy | 5.00
 

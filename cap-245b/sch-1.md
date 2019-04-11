@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [para. 2]
 
-(Grid system: Universal Transverse Mercator (UTM) Grid. Geodetic datum: WGS 84.)
+- (Grid system: Universal Transverse Mercator (UTM) Grid. Geodetic datum: WGS 84.)
 
 Item | Location | Remarks
 

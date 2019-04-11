@@ -4,6 +4,8 @@
 
 Proceedings for which Legal Aid may be Given under Section 5
 
+(Format changes—E.R. 1 of 2013)
+
 - Part 1 Description of Proceedings
 
   - 1. Civil proceedings in any of the following courts—
@@ -30,7 +32,7 @@ Proceedings for which Legal Aid may be Given under Section 5
 
   - 1. Proceedings wholly or partly in respect of—
 
-    - (a) defamation, other than the defence of a counterclaim alleging defamation; (Replaced 27 of 1991 s. 19)
+    - (a) defamation, other than the defence of a counterclaim alleging defamation. (Replaced 27 of 1991 s. 19. Amended E.R. 1 of 2019)
 
     - (b)-(c) (Repealed 40 of 1986 s. 6)
 
@@ -68,6 +70,4 @@ Proceedings for which Legal Aid may be Given under Section 5
 
     - For the purposes of this paragraph—
 
-    - derivatives of securities (證券衍生工具) means options to buy or sell interests in, certificates of interest of participation in, warrants to subscribe to or rights (other than shares) in, the capital of, or an instrument issued by, a company, government authority or other body. (Added 43 of 1995 s. 13)
-
-    - (Format changes—E.R. 1 of 2013)
+      - derivatives of securities (證券衍生工具) means options to buy or sell interests in, certificates of interest of participation in, warrants to subscribe to or rights (other than shares) in, the capital of, or an instrument issued by, a company, government authority or other body. (Added 43 of 1995 s. 13)

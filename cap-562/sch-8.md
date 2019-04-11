@@ -18,7 +18,7 @@ Transitional and Savings Provisions
 
   - programme service licence (節目服務牌照) means a programme service licence within the meaning of section 2(1) of the repealed Ordinance and which was in force immediately before the relevant day or which was to come into force on or after that day;
 
-  - relevant day (有關日期) means the day on which section 44(1) of this Ordinance commences*;
+  - *relevant day (有關日期) means the day on which section 44(1) of this Ordinance commences;
 
   - repealed Ordinance (已廢除條例) means the Television Ordinance (Cap. 52) repealed under section 44(1) of this Ordinance;
 
@@ -108,7 +108,7 @@ Editorial Note:
 
     - (b) is not amended in any way whatsoever apart from any amendment made to mitigate the conduct in contravention of section 13(1) of this Ordinance provided or permitted, whether directly or indirectly, under the agreement.
 
-  - (3) Subsections (1) and (2) shall expire on the 2nd anniversary of the specified day.
+  - (3) Subsections (1) and (2) shall expire on the second anniversary of the specified day. (Amended E.R. 1 of 2019)
 
   - (4) Section 21 of this Ordinance shall not apply to a person—
 

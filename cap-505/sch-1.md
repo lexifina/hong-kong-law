@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4(8) & (11), 8(2), 12(2)(c), 20(4) & 39(1)]
 
-PROVISIONS WITH RESPECT TO BOARD AND COMMITTEES AND THEIR MEMBERS, ETC.
+Provisions with respect to Board and Committees and their Members, etc.
 
 Board and members of Board
 
@@ -60,7 +60,7 @@ Board and members of Board
 
   - (6)
 
-    - In this section, “Council” (社專局) means the Hong Kong Social Welfare Personnel Registration Council.
+    - In this section, Council (社專局) means the Hong Kong Social Welfare Personnel Registration Council.
 
   - (7) This section shall expire on the relevant date.
 

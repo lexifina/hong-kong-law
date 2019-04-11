@@ -1,8 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [para. 2]
 
-(Grid system: Universal Transverse Mercator (UTM) Grid. Items 1 to 17: the geodetic datum is Hong Kong 1980 Geodetic Datum (HK80). Items 18 to 21: the geodetic datum is WGS 84.)
+(Grid system: | Universal Transverse Mercator (UTM) Grid.
+
+Items 1 to 17: | the geodetic datum is Hong Kong 1980 Geodetic Datum (HK80).
+
+Items 18 to 21: | the geodetic datum is WGS 84.)
 
 (L.N. 172 of 2000)
 

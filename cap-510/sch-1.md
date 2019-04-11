@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 8]
 
-- PART I CUSTODIAL INSTITUTIONS
+- Part I Custodial Institutions
 
   - 1. A prison or any other institutions under the control of the Commissioner of Correctional Services of Hong Kong within the meaning of section 23 of the Prisons Ordinance (Cap. 234).
 
@@ -12,10 +12,10 @@
 
   - 4. A place of detention appointed under section 16 of the Juvenile Offenders Ordinance (Cap. 226).
 
-- PART II DETAINED PERSONS
+- Part II Detained Persons
 
   - 1. A detainee within the meaning of paragraph 2 of the Independent Commission Against Corruption (Treatment of Detained Persons) Order (Cap. 204 sub. leg. A).
 
-- PART III ADVISORY PANELS
+- Part III Advisory Panels
 
   - 1. An advisory panel within the meaning of section 29B of the Pension Benefits Ordinance (Cap. 99).

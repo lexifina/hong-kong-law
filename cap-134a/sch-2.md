@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [reg. 8]
 
-LICENCE FEES
+Licence Fees
 
 Item | Licence | Fee
 

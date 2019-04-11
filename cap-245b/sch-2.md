@@ -1,4 +1,4 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [para. 3]
 
