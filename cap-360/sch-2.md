@@ -2,9 +2,11 @@
 
 [ss. 12(2), 12A(2) & 40]
 
-MEDICAL EXPENSES AND EXPENSES FOR MEDICAL APPLIANCES*
+Medical Expenses and Expenses for Medical Appliances
 
-- PART I MEDICAL EXPENSES UNDER SECTION 12 (Replaced 16 of 2006 s. 32)
+(Replaced 16 of 2006 s. 32)
+
+- PART I Medical Expenses under Section 12 (Replaced 16 of 2006 s. 32)
 
   - 1. Subject to paragraph 3, where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) as an in-patient in a hospital, the expenses payable are— (Amended 6 of 2008 s. 28)
 
@@ -22,7 +24,9 @@ MEDICAL EXPENSES AND EXPENSES FOR MEDICAL APPLIANCES*
 
   - whichever total amount is the less.
 
-  - 3. Where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) on any day both as an in-patient in a hospital and other than as an in-patient in a hospital, the daily rate for the purposes of this Schedule shall be $370. (Amended 6 of 2008 s. 28)(Amended L.N. 322 of 1985; L.N. 391 of 1987; L.N. 387 of 1989; L.N. 434 of 1991; 54 of 1993 s. 43; L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 99 of 2003; 16 of 2006 s. 32; L.N. 26 of 2018)
+  - 3. Where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) on any day both as an in-patient in a hospital and other than as an in-patient in a hospital, the daily rate for the purposes of this Schedule shall be $370.
+
+- (Amended 6 of 2008 s. 28) (Amended L.N. 322 of 1985; L.N. 391 of 1987; L.N. 387 of 1989; L.N. 434 of 1991; 54 of 1993 s. 43; L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 99 of 2003; 16 of 2006 s. 32; L.N. 26 of 2018)
 
 - PART II MEDICAL APPLIANCES UNDER SECTION 12A
 
@@ -30,8 +34,10 @@ MEDICAL EXPENSES AND EXPENSES FOR MEDICAL APPLIANCES*
 
   - 2. Oxygen concentrator and its accessories.
 
-  - 3. Oxygen cylinder and its accessories. (Added 54 of 1993 s. 43)
+  - 3. Oxygen cylinder and its accessories.
 
-Editorial Note:
+  - 4. Non-invasive positive pressure ventilation device (and humidifier when used with the device) and their accessories. (Added L.N. 61 of 2019)
 
-* (Replaced 16 of 2006 s. 32)
+  - 5. Sputum suction device and its accessories. (Added L.N. 61 of 2019)
+
+- (Added 54 of 1993 s. 43)

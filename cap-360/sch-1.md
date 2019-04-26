@@ -2,13 +2,11 @@
 
 [ss. 5, 5A, 5B, 6, 10, 11, 15A & 40]
 
-AMOUNTS OF COMPENSATION
+Amounts of Compensation
 
-- PART I COMPENSATION FOR DEATH RESULTING FROM PNEUMOCONIOSIS
+- PART I Compensation for Death Resulting from Pneumoconiosis or Mesothelioma (or both) (Amended 6 of 2008 s. 27)
 
-- OR MESOTHELIOMA (OR BOTH) (Amended 6 of 2008 s. 27)
-
-  - 1. An amount calculated according to the formula— (Average yearly earnings x Age factor x 55%) x 110%,
+  - 1. An amount calculated according to the formula— (Average yearly earnings × Age factor × 55%) × 110%,
 
   - rounded up to the nearest $10.
 
@@ -44,15 +42,15 @@ AMOUNTS OF COMPENSATION
 
     - “Average yearly earnings” (每年平均收入) means the average yearly earnings, as defined in Part VII of this Schedule, in the year in which the deceased died.
 
-- PART II COMPENSATION FOR TOTAL INCAPACITY An amount equal to the average monthly earnings as defined in Part VII of this Schedule for the period to which the payment relates, rounded up to the nearest $10. (Replaced 4 of 1996 s. 12)
+- PART II Compensation for Total Incapacity An amount equal to the average monthly earnings as defined in Part VII of this Schedule for the period to which the payment relates, rounded up to the nearest $10. (Replaced 4 of 1996 s. 12)
 
-- PART IIA COMPENSATION FOR PAIN, SUFFERING
+- PART IIA Compensation for Pain, Suffering
 
-- AND LOSS OF AMENITIES $5,110. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
+- and Loss of Amenities $5,330. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
 
-- PART III COMPENSATION FOR PERIOD PRIOR TO DATE OF DIAGNOSIS
+- PART III Compensation for Period Prior to Date of Diagnosis
 
-  - 1. An amount calculated according to the formula— Average monthly earnings x No. of months x Multiplier, rounded up to the nearest $10. (Replaced 4 of 1996 s. 12)
+  - 1. An amount calculated according to the formula— Average monthly earnings × No. of months × Multiplier, rounded up to the nearest $10. (Replaced 4 of 1996 s. 12)
 
   - 2. In paragraph 1—
 
@@ -70,13 +68,13 @@ AMOUNTS OF COMPENSATION
 
     - “No. of months” (月數) means the number of full months, not exceeding 24, in the period from the earliest diagnosed date to the date of diagnosis.
 
-- PART IV COMPENSATION FOR CARE AND ATTENTION $5,210. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
+- PART IV Compensation for Care and Attention $5,600. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
 
-- PART V COMPENSATION FOR BEREAVEMENT $121,230. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
+- PART V Compensation for Bereavement $220,000. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
 
-- PART VI FUNERAL EXPENSES An amount not exceeding $83,700, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017)
+- PART VI Funeral Expenses An amount not exceeding $87,330, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
 
-- PART VII INTERPRETATION In this Schedule—
+- PART VII Interpretation In this Schedule—
 
   - “average monthly earnings” (每月平均收入) means, in respect of any period, an amount equal to 26 times the overall average daily wage earned by persons or classes of persons engaged in Government building and construction works as ascertained by the Commissioner for Census and Statistics and applicable to 1 January of the year in which the period falls;
 
