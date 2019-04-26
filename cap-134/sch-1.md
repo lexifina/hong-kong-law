@@ -6,7 +6,7 @@
 
   - 1. The following substances, namely—
 
-    - (a) Acetyldihydrocodeine Alphacetylmethadol
+    - (a) Acetyldihydrocodeine Acryloylfentanyl (Added L.N. 23 of 2019) Alphacetylmethadol
 
     - Alphamethadol
 
@@ -112,6 +112,8 @@
 
     - Flurazepam
 
+    - Furanylfentanyl (Added L.N. 23 of 2019)
+
     - Gamma-butyrolactone (Added L.N. 101 of 2012)
 
     - Gamma-hydroxybutyric acid (Added L.N. 149 of 2001)
@@ -168,7 +170,9 @@
 
     - Methcathinone
 
-    - Methyl N-{[1-(cyclohexylmethyl)-1H-indol-3-yl] carbonyl}-3-methylvalinate (Added L.N. 76 of 2018)
+    - Methyl N-{[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl}-3-methylvalinate (Added L.N. 76 of 2018)
+
+    - Methyl 2-{[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate (Added L.N. 23 of 2019)
 
     - Methyldesorphine
 
@@ -209,6 +213,8 @@
     - Normorphine
 
     - Norpipanone
+
+    - Ocfentanil (Added L.N. 23 of 2019)
 
     - Oxazepam
 
@@ -273,6 +279,8 @@
     - Tapentadol (Added L.N. 58 of 2016)
 
     - Temazepam
+
+    - Tetrahydrofuranylfentanyl (Added L.N. 23 of 2019)
 
     - Tetrazepam
 
