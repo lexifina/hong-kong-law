@@ -8,39 +8,57 @@ Fees Relating to Government Crematoria, Columbaria or Public Cemeteries, etc.
 
   - 1. Interpretation In this Schedule—
 
+    - ashes (骨灰) has the meaning given by section 3 of the Cremation and Gardens of Remembrance Regulation; (L.N. 14 of 2019)
+
     - Cremation and Gardens of Remembrance Regulation (《火葬及紀念花園規例》) means the Cremation and Gardens of Remembrance Regulation (Cap. 132 sub. leg. M);
 
     - garden of remembrance (紀念花園) means a garden of remembrance specified in Part 7 of the Fifth Schedule to the Ordinance;
 
     - Government crematorium (政府火葬場) means a Government crematorium specified in Part 5 of the Fifth Schedule to the Ordinance;
 
+    - large niche (大型龕位) means a niche—
+
+      - (a) that is located at a Government crematorium or columbarium; and
+
+      - (b) that is capable of holding 4 containers; (L.N. 14 of 2019)
+
     - Public Cemeteries Regulation (《公眾墳場規例》) means the Public Cemeteries Regulation (Cap. 132 sub. leg. BI);
 
-    - public cemetery (公眾墳場) means a public cemetery specified in Part 1 of the Fifth Schedule to the Ordinance.
+    - public cemetery (公眾墳場) means a public cemetery specified in Part 1 of the Fifth Schedule to the Ordinance; (L.N. 14 of 2019)
+
+    - standard niche (標準龕位) means a niche—
+
+      - (a) that is located at a Government crematorium or columbarium; and
+
+      - (b) that is capable of holding 2 containers. (L.N. 14 of 2019)
 
 - Part 2 Fees for Matters Relating to Cremation and Gardens of Remembrance Regulation
 
-Column 1 | Column 2 | Column 3
+- Column 1 | Column 2 | Column 3
 
-Item | Matter | Fee
+- Item | Matter | Fee
 
-1. | The cremation in any Government crematorium under section 9 of the Cremation and Gardens of Remembrance Regulation of—
+- 1. | The cremation in any Government crematorium under section 9 of the Cremation and Gardens of Remembrance Regulation of—
 
-(a) the human remains of a person aged 12 or above | $1,220
+- (a) the human remains of a person aged 12 or above | $1,220
 
-(b) the human remains of a person aged below 12 | $650
+- (b) the human remains of a person aged below 12 | $650
 
-(c) the skeletal remains of a person | $90
+- (c) the skeletal remains of a person | $90
 
-2. | The permanent deposit of ashes of human remains at a Government crematorium or columbarium under section 13 of the Cremation and Gardens of Remembrance Regulation in—
+- 2. | The permanent deposit of ashes under section 13 of the Cremation and Gardens of Remembrance Regulation in a standard niche or a large niche (L.N. 14 of 2019) | $1
 
-(a) a standard niche (capable of holding 2 urns) | $2,800
+- 2A. | The deposit of ashes for a period stipulated by the Director of Food and Environmental Hygiene under section 13 of the Cremation and Gardens of Remembrance Regulation—
 
-(b) a large niche (capable of holding 4 urns) | $3,600
+- (a) in a standard niche | $120 per year
 
-3. | The temporary deposit of ashes of human remains at a Government crematorium under section 13 of the Cremation and Gardens of Remembrance Regulation | $80 per month
+- (b) in a large niche (L.N. 14 of 2019) | $150 per year
 
-4. | The permission granted under section 14 or 21 of the Cremation and Gardens of Remembrance Regulation for the placing of each monument, commemorative tablet, inscription, receptacle for flowers or other ornament or the planting of each tree, shrub or plant of any kind in a Government crematorium or garden of remembrance | $90
+- 2B. | The deposit of an additional set of ashes in a standard niche or a large niche (L.N. 14 of 2019) | $140
+
+- 3. | The temporary deposit of ashes at a Government crematorium after the expiry of the period allowed by the officer in charge under section 13(2) of the Cremation and Gardens of Remembrance Regulation (L.N. 14 of 2019) | $80 per month
+
+- 4. | The permission granted under section 14 or 21 of the Cremation and Gardens of Remembrance Regulation for the placing of each monument, commemorative tablet, inscription, receptacle for flowers or other ornament or the planting of each tree, shrub or plant of any kind in a Government crematorium or garden of remembrance | $90
 
 - Part 3 Fees for Matters Relating to Public Cemeteries Regulation
 
