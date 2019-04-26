@@ -4,6 +4,8 @@
 
 Amount of Compensation
 
+(Format changes—E.R. 2 of 2012)
+
 - 1. The amount of compensation payable to a claimant is a lump sum which is obtained by multiplying the percentage of permanent incapacity or additional permanent incapacity of the claimant determined under section 20 of this Ordinance by either of the following 2 sums, whichever is the less— (Amended 6 of 2010 s. 25)
 
   - (a) the higher of—
@@ -18,19 +20,19 @@ Amount of Compensation
 
     - 56 and above | 48; or
 
-    - (ii) the sum of $464,360; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017)
+    - (ii) the sum of $499,840; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017; L.N. 62 of 2019)
 
   - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— Table 2
 
   - Age | Sum
 
-  - under 40 | $2,722,560
+  - under 40 | $2,930,880
 
-  - 40 to under 56 | $2,041,920
+  - 40 to under 56 | $2,198,160
 
-  - 56 and above | $1,361,280
+  - 56 and above | $1,465,440
 
-- (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017)
+- (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017; L.N. 62 of 2019)
 
 - 2. For the purpose of this Schedule, earnings include—
 
@@ -94,9 +96,13 @@ Amount of Compensation
 
     - (a) for the purposes of sections 1 and 3(a), the date of the previous unsuccessful application mentioned in section 48(3)(b) of this Ordinance or, where there was more than one such previous unsuccessful application, the date of the last such application; and
 
-    - (b) for the purposes of section 3(c), the date of the commencement of section 48(4) of this Ordinance.
+    - (b) for the purposes of section 3(c), the date of the commencement* of section 48(4) of this Ordinance.
 
 - (Added 6 of 2010 s. 25)
+
+- Editorial Note:
+
+- * Commencement date: 16 April 2010.
 
 - 6.
 
@@ -104,6 +110,10 @@ Amount of Compensation
 
     - (a) for the purposes of sections 1 and 3(a), the date of the self-arranged audiometric test mentioned in section 48(5)(a) of this Ordinance or, where there was more than one such test, the date of the last such test; and
 
-    - (b) for the purposes of section 3(c), the date of the commencement of section 48(9) of this Ordinance.
+    - (b) for the purposes of section 3(c), the date of the commencement* of section 48(9) of this Ordinance.
 
-- (Added 6 of 2010 s. 25) (Format changes—E.R. 2 of 2012)
+- (Added 6 of 2010 s. 25)
+
+- Editorial Note:
+
+- * Commencement date: 16 April 2010.
