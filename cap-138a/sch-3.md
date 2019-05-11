@@ -732,6 +732,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Desferrioxamine; its salts
 
+- Desflurane
+
 - Desipramine; its salts
 
 - Desvenlafaxine; its salts
@@ -1211,6 +1213,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Isoaminile; its salts
 
 - Isoetharine; its salts
+
+- Isoflurane
 
 - Isoniazid; its salts; its derivatives; their salts; any compound with any substance falling within this item
 
@@ -2263,6 +2267,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Sertraline; its salts
 
 - Sevelamer; its salts
+
+- Sevoflurane
 
 - Sibutramine; its salts; any compound containing the chemical structure of 1-[1-(4-Chlorophenyl)cyclobutyl]-3-methylbutan-1-amine substituted to any degree or without substitution; its salts
 

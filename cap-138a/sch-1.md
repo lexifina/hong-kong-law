@@ -770,6 +770,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Desferrioxamine; its salts
 
+- Desflurane
+
 - Desipramine; its salts
 
 - Desomorphine; its salts; its esters and ethers; their salts
@@ -1301,6 +1303,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Isoaminile; its salts
 
 - Isoetharine; its salts
+
+- Isoflurane
 
 - Isomethadone; its salts
 
@@ -2425,6 +2429,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Sertraline; its salts
 
 - Sevelamer; its salts
+
+- Sevoflurane
 
 - Sibutramine; its salts; any compound containing the chemical structure of 1-[1-(4-Chlorophenyl)cyclobutyl]-3-methylbutan-1-amine substituted to any degree or without substitution; its salts
 
