@@ -224,6 +224,10 @@
 
 - (L.N. 142 of 2016)
 
+- 8F. | Fee for a copy of a determination made under section 7 of the Merchant Shipping (Seafarers) (Ships Using Low-flashpoint Fuels) Regulation (L.N. 19 of 2019) | 155
+
+- 8G. | Fee for a copy of a determination made under section 7 of the Merchant Shipping (Seafarers) (Ships Operating in Polar Waters) Regulation (L.N. 19 of 2019) | 155
+
 - 9-10. | (Repealed L.N. 142 of 2016)
 
 - 11. | Fee for endorsement of validity of a certificate of competency, a certificate of service or a licence | 155
@@ -365,6 +369,22 @@
 - (b) | For issue of a copy of a certificate of proficiency | 155
 
 - (L.N. 142 of 2016)
+
+- 9E. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Ships Using Low-flashpoint Fuels) Regulation—
+
+- (a) | For issue or renewal of a certificate of proficiency under section 6 of that Regulation | Nil
+
+- (b) | For issue of a replacement certificate of proficiency under section 10 of that Regulation | 155
+
+- (L.N. 19 of 2019)
+
+- 9F. | Fees in relation to a certificate of proficiency under the Merchant Shipping (Seafarers) (Ships Operating in Polar Waters) Regulation—
+
+- (a) | For issue or renewal of a certificate of proficiency under section 6 of that Regulation | Nil
+
+- (b) | For issue of a replacement certificate of proficiency under section 10 of that Regulation | 155
+
+- (L.N. 19 of 2019)
 
 - 10. | Fees in relation to employment registration books—
 
