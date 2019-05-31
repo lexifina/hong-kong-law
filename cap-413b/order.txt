@@ -9,6 +9,7 @@ s-002AD.md
 s-002B.md
 s-002C.md
 s-003.md
+s-003A.md
 s-004.md
 s-005.md
 s-006.md
@@ -49,6 +50,7 @@ s-027A.md
 s-027B.md
 s-028.md
 s-028A.md
+s-028B.md
 s-029.md
 s-030.md
 s-031.md
