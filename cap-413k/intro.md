@@ -1,6 +1,6 @@
 Merchant Shipping (Prevention of Pollution by Sewage) Regulation
 
-(Cap. 413, section 3(2))
+(Cap. 413, sections 3 and 3A)
 
 (Enacting provision omitted—E.R. 3 of 2015)
 

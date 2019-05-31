@@ -1,6 +1,6 @@
 # Schedule
 
-[ss. 6A, 9, 10, 21, 23, 26 & 28] (L.N. 108 of 2015)
+[ss. 6A, 9, 10, 21, 23, 26, 28 & 28B] (L.N. 108 of 2015; L.N. 47 of 2019)
 
 Requirements for Equipments, etc.
 
