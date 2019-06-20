@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 54 & 56 & Schs. 2 & 3] (Replaced L.N. 4 of 2018)
 
-PRESCRIBED PRODUCTS
+Prescribed Products*
 
-- PART 1#* PRODUCTS THAT ARE PRESCRIBED PRODUCTS
+- Part 1 Products that are Prescribed Products
 
   - 1. Room air conditioners within the description in Division 1 of Part 2.
 
@@ -22,17 +22,35 @@ PRESCRIBED PRODUCTS
 
   - 8. Induction cookers within the description in Division 8 of Part 2. (Added L.N. 183 of 2017)
 
-- PART 2## DEFINITION OF PRESCRIBED PRODUCTS
+- Editorial Note:
+
+- * | Products | Transitional Arrangements | Legal Notices
+
+- • | Washing machines | See sections 4 and 5 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2009 | L.N. 202 of 2009
+
+- • | Dehumidifiers
+
+- • | Televisions | See Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2017 | L.N. 183 of 2017
+
+- • | Storage type electric water heater
+
+- • | Induction cookers
+
+- • | Specified washing machines | See Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedules) Order 2018 | L.N. 4 of 2018
+
+- • | Reverse cycle air conditioners
+
+- Part 2 Definition of Prescribed Products
 
   - Division 1 Room air conditioners
 
     - 1.
 
-      - In this Schedule, “room air conditioner” (空調機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
+      - In this Schedule, room air conditioner (空調機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
         - (a) that is an encased assembly or encased assemblies that are designed to be used together where— (Amended L.N. 4 of 2018)
 
-          - (i) the assembly or assemblies is or are designed primarily to provide free delivery of conditioned air to an enclosed space, room or zone (“conditioned space”); and
+          - (i) the assembly or assemblies is or are designed primarily to provide free delivery of conditioned air to an enclosed space, room or zone (conditioned space); and
 
           - (ii) the assembly or assemblies has or have a prime source of refrigeration for cooling or heating; and
 
@@ -52,7 +70,7 @@ PRESCRIBED PRODUCTS
 
     - 2.
 
-      - In this Schedule, “room air conditioner” (空調機) does not include air-conditioners that are—
+      - In this Schedule, room air conditioner (空調機) does not include air-conditioners that are—
 
         - (a) fan-coil air-conditioning units;
 
@@ -70,19 +88,19 @@ PRESCRIBED PRODUCTS
 
     - 3. In sections 1 and 2—
 
-      - “air-cooled” (氣冷式), in relation to a room air conditioner, means the employment of air-cooled condensers in the room air conditioner;
+      - air-cooled (氣冷式), in relation to a room air conditioner, means the employment of air-cooled condensers in the room air conditioner;
 
       - air-heated (氣暖式), in relation to a room air conditioner, means the employment of air-heated evaporators in the room air conditioner; (Added L.N. 4 of 2018)
 
-      - “cooling capacity” (製冷量) means the amount of sensible and latent heat that a room air conditioner can remove from the conditioned space in a defined interval of time;
+      - cooling capacity (製冷量) means the amount of sensible and latent heat that a room air conditioner can remove from the conditioned space in a defined interval of time;
 
-      - “fan-coil air-conditioning unit” (盤管式空調機組) means an air-conditioning unit equipped with a fan re-circulating air from the conditioned space through the coil, that contains either chilled or hot water for cooling or heating;
+      - fan-coil air-conditioning unit (盤管式空調機組) means an air-conditioning unit equipped with a fan re-circulating air from the conditioned space through the coil, that contains either chilled or hot water for cooling or heating;
 
-      - “heat pump” (熱泵) means an encased assembly or assemblies designed as a unit to provide delivery of heat, which includes an electrically operated refrigeration system for heating;
+      - heat pump (熱泵) means an encased assembly or assemblies designed as a unit to provide delivery of heat, which includes an electrically operated refrigeration system for heating;
 
-      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
 
-      - “multiple split-system” (多重分體式系統) means a split system that—
+      - multiple split-system (多重分體式系統) means a split system that—
 
         - (a) incorporates a single or multiple refrigerant circuits;
 
@@ -94,13 +112,13 @@ PRESCRIBED PRODUCTS
 
         - (e) is capable of operating either as an air conditioner or a heat pump;
 
-      - “non-ducted” (非管道式) means not having any additional ductings or pipes required for air intake and exhaust;
+      - non-ducted (非管道式) means not having any additional ductings or pipes required for air intake and exhaust;
 
-      - “rated cooling capacity” (額定製冷量) means the cooling capacity of a room air conditioner as determined and declared by the manufacturer or importer of the room air conditioner in accordance with the standard and requirements specified in the approved code of practice;
+      - rated cooling capacity (額定製冷量) means the cooling capacity of a room air conditioner as determined and declared by the manufacturer or importer of the room air conditioner in accordance with the standard and requirements specified in the approved code of practice;
 
-      - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a room air conditioner throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function;
+      - vapour compression cycle (蒸氣壓縮循環方式) means a mechanism employed by a room air conditioner throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function;
 
-      - “water-cooled” (水冷式), in relation to a room air conditioner, means the employment of water-cooled condensers in the room air conditioner; (Amended L.N. 4 of 2018)
+      - water-cooled (水冷式), in relation to a room air conditioner, means the employment of water-cooled condensers in the room air conditioner; (Amended L.N. 4 of 2018)
 
       - water-heated (水暖式), in relation to a room air conditioner, means the employment of water-heated evaporators in the room air conditioner. (Added L.N. 4 of 2018)
 
@@ -128,7 +146,7 @@ PRESCRIBED PRODUCTS
 
     - 1.
 
-      - In this Schedule, “refrigerating appliance” (冷凍器具), subject to section 2, means a product— (Amended L.N. 4 of 2018)
+      - In this Schedule, refrigerating appliance (冷凍器具), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
         - (a) that is a factory-assembled insulated cabinet with one or more compartments and of suitable volume and equipment for household use, cooled by internal natural convection or a frost-free system where the cooling is obtained by one or more energy-consuming means; (Amended L.N. 4 of 2018)
 
@@ -144,27 +162,27 @@ PRESCRIBED PRODUCTS
 
     - 2.
 
-      - In this Schedule, “refrigerating appliance” (冷凍器具) does not include appliances that operate by using absorption refrigerating system. (Amended L.N. 4 of 2018)
+      - In this Schedule, refrigerating appliance (冷凍器具) does not include appliances that operate by using absorption refrigerating system. (Amended L.N. 4 of 2018)
 
     - 3. In sections 1 and 2—
 
-      - “absorption refrigerating system” (吸收式製冷系統) means a system—
+      - absorption refrigerating system (吸收式製冷系統) means a system—
 
         - (a) by which refrigeration effect is produced through the use of two fluids and some quantity of heat input; and
 
         - (b) in which a secondary fluid or absorbent, rather than a mechanical compressor, is used to circulate the refrigerant;
 
-      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
 
-      - “rated total storage volume” (額定總容積) means the total storage volume of a refrigerating appliance as determined and declared by the manufacturer or importer of the refrigerating appliance in accordance with the standard and requirements specified in the approved code of practice;
+      - rated total storage volume (額定總容積) means the total storage volume of a refrigerating appliance as determined and declared by the manufacturer or importer of the refrigerating appliance in accordance with the standard and requirements specified in the approved code of practice;
 
-      - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a refrigerating appliance throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
+      - vapour compression cycle (蒸氣壓縮循環方式) means a mechanism employed by a refrigerating appliance throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
 
   - Division 3 Compact fluorescent lamps
 
     - 1.
 
-      - In this Schedule, “compact fluorescent lamp” (緊湊型熒光燈), subject to section 2, means a product— (Amended L.N. 4 of 2018)
+      - In this Schedule, compact fluorescent lamp (緊湊型熒光燈), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
         - (a) that is a type of fluorescent lamp which has a single lamp cap; and (Amended L.N. 4 of 2018)
 
@@ -178,7 +196,7 @@ PRESCRIBED PRODUCTS
 
     - 2.
 
-      - In this Schedule, “compact fluorescent lamp” (緊湊型熒光燈) does not include—
+      - In this Schedule, compact fluorescent lamp (緊湊型熒光燈) does not include—
 
         - (a) non-integrated type compact fluorescent lamps;
 
@@ -188,19 +206,19 @@ PRESCRIBED PRODUCTS
 
     - 3. In sections 1 and 2—
 
-      - “cold cathode fluorescent lamp” (冷陰極熒光燈) means a lamp of a type whose principle of illumination is the same as that of a conventional fluorescent lamp except that it—
+      - cold cathode fluorescent lamp (冷陰極熒光燈) means a lamp of a type whose principle of illumination is the same as that of a conventional fluorescent lamp except that it—
 
         - (a) does not require heating of electrodes during starting and operating; and
 
         - (b) operates at a much higher voltage and lower current to start and maintain the discharge;
 
-      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
 
-      - “non-integrated type compact fluorescent lamp” (非整合式熒光燈) means a compact fluorescent lamp of a type that is electrically connected to an external ballast for operation;
+      - non-integrated type compact fluorescent lamp (非整合式熒光燈) means a compact fluorescent lamp of a type that is electrically connected to an external ballast for operation;
 
-      - “rated lamp wattage” (額定瓦數值) means the wattage of a compact fluorescent lamp as determined and declared by the manufacturer or importer of the compact fluorescent lamp in accordance with the standard and requirements specified in the approved code of practice;
+      - rated lamp wattage (額定瓦數值) means the wattage of a compact fluorescent lamp as determined and declared by the manufacturer or importer of the compact fluorescent lamp in accordance with the standard and requirements specified in the approved code of practice;
 
-      - “reflector compact fluorescent lamp” (反射式熒光燈) means a compact fluorescent lamp of a type that comprises one or more compact fluorescent arc tubes mounted into a reflector housing for directing light from light source, both of which cannot be dismantled without being permanently damaged.
+      - reflector compact fluorescent lamp (反射式熒光燈) means a compact fluorescent lamp of a type that comprises one or more compact fluorescent arc tubes mounted into a reflector housing for directing light from light source, both of which cannot be dismantled without being permanently damaged.
 
     - (Amended L.N. 4 of 2018)
 
@@ -212,11 +230,11 @@ PRESCRIBED PRODUCTS
 
     - (Added L.N. 4 of 2018)
 
-  - Division 4 Washing machines
+  - Division 4 Washing machines (Division 4 added L.N. 204 of 2009)
 
     - 1.
 
-      - In this Schedule, “washing machine” (洗衣機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
+      - In this Schedule, washing machine (洗衣機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
         - (a) that is a household appliance for cleaning and rinsing of textiles using water with or without a means of extracting excess water from the textiles; and (Amended L.N. 4 of 2018)
 
@@ -230,21 +248,19 @@ PRESCRIBED PRODUCTS
 
     - 2.
 
-      - In this Schedule, “washing machine” (洗衣機) does not include washing machines that have no spin extraction capability. (Amended L.N. 4 of 2018)
+      - In this Schedule, washing machine (洗衣機) does not include washing machines that have no spin extraction capability. (Amended L.N. 4 of 2018)
 
     - 3. In section 1—
 
-      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
 
-      - “rated washing capacity” (額定洗衣量) means the washing capacity of a washing machine as determined and declared by the manufacturer or importer of the washing machine in accordance with the standard and requirements specified in the approved code of practice.
+      - rated washing capacity (額定洗衣量) means the washing capacity of a washing machine as determined and declared by the manufacturer or importer of the washing machine in accordance with the standard and requirements specified in the approved code of practice.
 
-  - (Division 4 added L.N. 204 of 2009)
-
-  - Division 5 Dehumidifiers
+  - Division 5 Dehumidifiers (Division 5 added L.N. 204 of 2009)
 
     - 1.
 
-      - In this Schedule, “dehumidifier” (抽濕機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
+      - In this Schedule, dehumidifier (抽濕機), subject to section 2, means a product— (Amended L.N. 4 of 2018)
 
         - (a) that is an encased assembly for removing moisture from its surrounding atmosphere; and (Amended L.N. 4 of 2018)
 
@@ -268,7 +284,7 @@ PRESCRIBED PRODUCTS
 
     - 2.
 
-      - In this Schedule, “dehumidifier” (抽濕機) does not include dehumidifiers that—
+      - In this Schedule, dehumidifier (抽濕機) does not include dehumidifiers that—
 
         - (a) may also operate by using desiccant materials; or
 
@@ -276,15 +292,13 @@ PRESCRIBED PRODUCTS
 
     - 3. In section 1—
 
-      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+      - mains electricity (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
 
-      - “rated dehumidifying capacity” (額定抽濕量) means the dehumidifying capacity of a dehumidifier as determined and declared by the manufacturer or importer of the dehumidifier in accordance with the standard and requirements specified in the approved code of practice;
+      - rated dehumidifying capacity (額定抽濕量) means the dehumidifying capacity of a dehumidifier as determined and declared by the manufacturer or importer of the dehumidifier in accordance with the standard and requirements specified in the approved code of practice;
 
-      - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a dehumidifier throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
+      - vapour compression cycle (蒸氣壓縮循環方式) means a mechanism employed by a dehumidifier throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
 
-  - (Division 5 added L.N. 204 of 2009)
-
-  - Division 6 Televisions
+  - Division 6 Televisions (Division 6 added L.N. 4 of 2018)
 
     - 1. In this Schedule—
 
@@ -310,9 +324,7 @@ PRESCRIBED PRODUCTS
 
       - rated visible diagonal screen size (額定可視屏幕對角尺寸) means the visible diagonal screen size as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice.
 
-  - (Division 6 added L.N. 4 of 2018)
-
-  - Division 7 Storage Type Electric Water Heaters
+  - Division 7 Storage Type Electric Water Heaters (Division 7 added L.N. 4 of 2018)
 
     - 1. In this Schedule—
 
@@ -344,9 +356,7 @@ PRESCRIBED PRODUCTS
 
       - rated water storage capacity (額定儲水容量) means the water storage capacity as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice.
 
-  - (Division 7 added L.N. 4 of 2018)
-
-  - Division 8 Induction Cookers
+  - Division 8 Induction Cookers (Division 8 added L.N. 4 of 2018)
 
     - 1. In this Schedule—
 
@@ -379,13 +389,3 @@ PRESCRIBED PRODUCTS
       - rated power (額定功率) means the power of a heating unit when operating independently, as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice;
 
       - total rated power (總額定功率), in relation to a product, means the power of the product as determined and declared by the manufacturer or importer of the product in accordance with the standard and requirements specified in the approved code of practice.
-
-  - (Division 8 added L.N. 4 of 2018)
-
-Editorial Note:
-
-\# | For the transitional arrangements relating to washing machines and dehumidifiers, please see sections 4 and 5 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2009 (L.N. 202 of 2009).
-
-* | For the transitional arrangements relating to televisions, storage type electric water heaters and induction cookers, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2017 (L.N. 183 of 2017).
-
-\## | For the transitional arrangements relating to specified washing machines and reverse cycle air conditioners, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedules) Order 2018 (L.N. 4 of 2018).

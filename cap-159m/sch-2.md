@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [r. 5] (L.N. 173 of 2016)
 
-MANAGEMENT AND ADMINISTRATION OF FUND
+Management and Administration of Fund
 
 - 1. Power of Company to manage fund The Company shall hold, and have power to manage and administer, the fund, subject only to—
 

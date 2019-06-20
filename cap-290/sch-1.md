@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 18 & 19(6)]
 
-REGISTRATION OF CERTAIN ADOPTIONS MADE OUTSIDE HONG KONG
+Registration of Certain Adoptions Made outside Hong Kong
 
 - 1. Registration of adoptions on the Director’s application
 
@@ -28,7 +28,7 @@ REGISTRATION OF CERTAIN ADOPTIONS MADE OUTSIDE HONG KONG
 
   - (4) In this section—
 
-    - “registrable adoption made outside Hong Kong” (可登記外地領養) means—
+    - registrable adoption made outside Hong Kong (可登記外地領養) means—
 
       - (a) a Convention adoption in respect of which—
 

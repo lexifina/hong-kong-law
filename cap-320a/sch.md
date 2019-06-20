@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 10]
 
-FORM 1 POST SECONDARY COLLEGES ORDINANCE
+Form 1 Post Secondary Colleges Ordinance
 
 (Chapter 320) Application to register a college as an approved Post Secondary College
 
@@ -82,7 +82,7 @@ Note: | Registration of a college does not release the Board of Governors or any
 
 _
 
-FORM 2 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a Member of a Board of Governors
+Form 2 Post Secondary Colleges Ordinance (Chapter 320) Application for registration of a Member of a Board of Governors
 
 and or Member of a College Council of Post Secondary College
 
@@ -110,7 +110,7 @@ a Member of the Council
 
 2. | Particulars—
 
-(a) | Name (in English)............. (In Chinese)
+(a) | Name (in English)............. (in Chinese)
 
 (b) | Aliases
 
@@ -134,19 +134,19 @@ a Member of the Council
 
 Chairman of the Board of Governors
 
-College.
+College
 
 Note: | This form should be completed in duplicate.
 
 * Delete as necessary.
 
-(3 of 2003 s. 26; L.N. 130 of 2007)
+(3 of 2003 s. 26; L.N. 130 of 2007; E.R. 2 of 2019)
 
 _
 
-FORM 3
+Form 3
 
-POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a teacher of an approved
+Post Secondary Colleges Ordinance (Chapter 320) Application for registration of a teacher of an approved
 
 Post Secondary College
 
@@ -160,7 +160,7 @@ Education Bureau,
 
 Hong Kong.
 
-1. With the approval of the College Council I hereby make application for Mr./Mrs./Miss ........................................, particular of whom are given below, to be registered as a teacher in this College.
+1. With the approval of the College Council I hereby make application for Mr./Mrs./Miss ........................................, particulars of whom are given below, to be registered as a teacher in this College.
 
 2. | Particulars—
 
@@ -206,7 +206,7 @@ School (with dates month/year) | Classes taught | Subjects taught
 
 (if part-time, state hours)
 
-6. | The following persons who are/are not aware of the statements made on this form may be referred to regarding the character of the teacher:—
+6. The following persons who are/are not aware of the statements made on this form may be referred to regarding the character of the teacher:—
 
 (a) | Name | Occupation
 

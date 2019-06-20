@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
-[rule 4]
+[r. 4]
 
-ELECTION PETITION
+Election Petition
 
 IN THE HIGH COURT OF HONG KONG ORIGINAL JURISDICTION
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [rr. 2, 4 & 9 & Schs. 2 & 3] (L.N. 173 of 2016)
 
-CONTRIBUTIONS TO FUND
+Contributions to Fund
 
 - 1. Obligation to make contributions Every principal in Practice shall, in respect of himself and of all assistant solicitors and consultants in his firm, make or cause to be made the contributions as are set out in paragraph 2 in respect of that Practice.
 
@@ -136,7 +136,7 @@ CONTRIBUTIONS TO FUND
 
       - (ii)
 
-        - For the purposes of this sub-subparagraph, “the relevant date” (有關日期) means 31 July immediately prior to any indemnity period.
+        - For the purposes of this sub-subparagraph, the relevant date (有關日期) means 31 July immediately prior to any indemnity period.
 
     - (c) For the purposes of sub-subparagraph (d), claims paid during such period—
 

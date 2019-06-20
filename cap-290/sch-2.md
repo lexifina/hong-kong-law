@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 19(1) & Sch. 1]
 
-FORM
+Form
 
 領養子女登記冊記項表格 FORM OF ENTRY IN ADOPTED CHILDREN REGISTER
 

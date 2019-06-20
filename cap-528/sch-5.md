@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 281 & Schs. 2 & 3]
 
-REPEALS
+Repeals
 
 Enactment | Extent of repeal
 

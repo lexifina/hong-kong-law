@@ -1,10 +1,14 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 17 & 82] (Amended 3 of 2013 s. 14)
 
-FORM 1 (Repealed 3 of 2013 s. 14)
+Forms for Acceptance of Office
 
-FORM 2 DISTRICT COUNCILS ORDINANCE (Cap. 547) ACCEPTANCE OF OFFICE UNDER
+(Format changes—E.R. 2 of 2019)
+
+Form 1 (Repealed 3 of 2013 s. 14) _________________
+
+Form 2 DISTRICT COUNCILS ORDINANCE (CAP. 547) ACCEPTANCE OF OFFICE UNDER
 
 SECTION 17(1)
 

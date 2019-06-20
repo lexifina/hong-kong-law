@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 4 & 55]
 
-- PART 1 Reportable Deaths
+- Part 1 Reportable Deaths
 
   - 1. Any death of a person where a registered medical practitioner is unable to accurately state the medical cause of the death in the certificate of the cause of death.
 
@@ -80,7 +80,7 @@
 
   - 20. Any death of a person which occurred outside Hong Kong where the body of the person is brought into Hong Kong.
 
-- PART 2 Persons under a Duty to Report Reportable Deaths
+- Part 2 Persons under a Duty to Report Reportable Deaths
 
 - Item | Person required to discharge duty and the particular circumstances, if any, in which duty arises | Person to whom reported
 

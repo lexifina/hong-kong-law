@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 173, 191 & 199]
 
-COPYRIGHT: TRANSITIONAL PROVISIONS AND SAVINGS
+Copyright: Transitional Provisions and Savings
 
 Introductory
 
@@ -10,25 +10,29 @@ Introductory
 
   - (1) In this Schedule—
 
-    - “the 1911 Act” (1911年法令) means the Copyright Act 1911 (1911 c. 46 U.K.) as extended to Hong Kong by Proclamation No. 3 of 1912 published in the Gazette of 28 June 1912;
+    - the 1911 Act (1911年法令) means the Copyright Act 1911 (1911 c. 46 U.K.) as extended to Hong Kong by Proclamation No. 3 of 1912 published in the Gazette of 28 June 1912;
 
-    - “the 1956 Act” (1956年法令) means the Copyright Act 1956 (1956 c. 74 U.K.) as extended to Hong Kong by the Copyright (Hong Kong) Orders 1972 to 1990 (App. III, p. DD1);
+    - the 1956 Act (1956年法令) means the Copyright Act 1956 (1956 c. 74 U.K.) as extended to Hong Kong by the Copyright (Hong Kong) Orders 1972 to 1990 (App. III, p. DD1)*;
 
-    - “the Copyright Ordinance” (版權條例) means the Copyright Ordinance (Cap. 39) in force immediately before the commencement of Part II of this Ordinance;
+    - the Copyright Ordinance (版權條例) means the Copyright Ordinance (Cap. 39) in force immediately before the commencement of Part II of this Ordinance;
 
-    - “the new copyright provisions” (新的版權條文) means the provisions of this Ordinance relating to copyright, that is, Part II (including this Schedule and Schedule 1) and Schedules 4 and 5 so far as they make amendments or repeals consequential on the provisions of Part II;
+    - the new copyright provisions (新的版權條文) means the provisions of this Ordinance relating to copyright, that is, Part II (including this Schedule and Schedule 1) and Schedules 4 and 5 so far as they make amendments or repeals consequential on the provisions of Part II;
 
-    - “the WTO Ordinance” (世界貿易組織條例) means the Intellectual Property (World Trade Organization Amendments) Ordinance 1996 (11 of 1996).
+    - the WTO Ordinance (世界貿易組織條例) means the Intellectual Property (World Trade Organization Amendments) Ordinance 1996 (11 of 1996).
 
   - (2)
 
-    - References in this Schedule to “commencement”, without more, are to the date on which this Ordinance (other than the provisions specified in section 1(2) of this Ordinance) comes into force.
+    - References in this Schedule to commencement, without more, are to the date on which this Ordinance (other than the provisions specified in section 1(2) of this Ordinance) comes into force.
 
   - (3)
 
-    - References in this Schedule to “existing works” are to works made before commencement; and for this purpose a work of which the making extended over a period is to be taken to have been made when its making was completed.
+    - References in this Schedule to existing works are to works made before commencement; and for this purpose a work of which the making extended over a period is to be taken to have been made when its making was completed.
 
   - [cf. 1988 c. 48 Sch. 1 para. 1 U.K.]
+
+- Editorial Note:
+
+- * Please see Revised Edition 1989.
 
 - 2.
 
@@ -38,15 +42,15 @@ Introductory
 
     - (a)
 
-      - references in this Schedule to “copyright” include the right conferred by section 24 of that Act in substitution for a right subsisting immediately before the commencement of that Act;
+      - references in this Schedule to copyright include the right conferred by section 24 of that Act in substitution for a right subsisting immediately before the commencement of that Act;
 
     - (b)
 
-      - references in this Schedule to “copyright in a sound recording” are to the copyright under that Act in records embodying the recording; and
+      - references in this Schedule to copyright in a sound recording are to the copyright under that Act in records embodying the recording; and
 
     - (c)
 
-      - references in this Schedule to “copyright in a film” are to any copyright under that Act in the film (so far as it constituted a dramatic work for the purposes of that Act) or in photographs forming part of the film.
+      - references in this Schedule to copyright in a film are to any copyright under that Act in the film (so far as it constituted a dramatic work for the purposes of that Act) or in photographs forming part of the film.
 
     - [cf. 1988 c. 48 Sch. 1 para. 2 U.K.]
 
@@ -214,7 +218,7 @@ Acts infringing copyright
 
   - (4)
 
-    - For the purposes of section 35 of this Ordinance (meaning of “infringing copy”) the question whether the making of an article constituted an infringement of copyright, or would have done if the article had been made in Hong Kong, is to be determined—
+    - For the purposes of section 35 of this Ordinance (meaning of infringing copy) the question whether the making of an article constituted an infringement of copyright, or would have done if the article had been made in Hong Kong, is to be determined—
 
       - (a) in relation to an article made on or after 10 May 1996 and before commencement, by reference to the 1956 Act as amended by the WTO Ordinance;
 
@@ -224,7 +228,7 @@ Acts infringing copyright
 
   - (5)
 
-    - For the purposes of section 35 of the Ordinance (meaning of “infringing copy”), if an article has been imported before commencement without infringing copyright under the law existing at the time of importation, the terms of any exclusive licence agreement relating to that article are to be disregarded and, for the avoidance of doubt, any possession or dealing in the article which takes place after commencement shall not infringe copyright within the terms of sections 31 and 118 to 133 of the Ordinance.
+    - For the purposes of section 35 of the Ordinance (meaning of infringing copy), if an article has been imported before commencement without infringing copyright under the law existing at the time of importation, the terms of any exclusive licence agreement relating to that article are to be disregarded and, for the avoidance of doubt, any possession or dealing in the article which takes place after commencement shall not infringe copyright within the terms of sections 31 and 118 to 133 of the Ordinance.
 
   - (6) For the purposes of the application of sections 40(2) and 71(3) of this Ordinance (subsequent exploitation of things whose making was, by virtue of an earlier provision of the section, not an infringement of copyright) to things made before commencement, it is to be assumed that the new copyright provisions were in force at all material times.
 
@@ -292,7 +296,7 @@ Enforcement of copyright in registrable design
 
 Abolition of statutory recording licence
 
-- 20. Section 8 of the 1956 Act (statutory licence to copy records sold by retail) and the Copyright Royalty System (Records) Regulations (App. I, p. AL1) continue to apply where notice under subsection (1)(b) of section 8 was given before the repeal of that section by this Ordinance, but only in respect of the making of records—
+- 20. Section 8 of the 1956 Act (statutory licence to copy records sold by retail) and the Copyright Royalty System (Records) Regulations (App. I, p. AL1)* continue to apply where notice under subsection (1)(b) of section 8 was given before the repeal of that section by this Ordinance, but only in respect of the making of records—
 
   - (a) within one year of the repeal coming into force; and
 
@@ -301,6 +305,10 @@ Abolition of statutory recording licence
   - up to the number stated in the notice as intended to be sold.
 
   - [cf. 1988 c. 48 Sch. 1 para. 21 U.K.]
+
+- Editorial Note:
+
+- * Please see Revised Edition 1989.
 
 Moral rights
 
@@ -382,7 +390,7 @@ Assignments and licences
 
   - (5)
 
-    - In subparagraph (4) “collective work” (匯集作品) means—
+    - In subparagraph (4) collective work (匯集作品) means—
 
       - (a) any encyclopaedia, dictionary, yearbook, or similar work;
 
@@ -534,17 +542,17 @@ Copyright vesting in certain international organizations
 
   - [cf. 1988 c. 48 Sch. 1 para. 44 U.K.]
 
-Meaning of “publication”
+Meaning of publication
 
 - 39. Section 196(3) of this Ordinance (construction of building treated as equivalent to publication) applies only where the construction of the building began after commencement.
 
 - [cf. 1988 c. 48 Sch. 1 para. 45 U.K.]
 
-Meaning of “unauthorized”
+Meaning of unauthorized
 
 - 40.
 
-  - For the purposes of the application of the definition in section 198(1) of this Ordinance (minor definitions) of the expression “unauthorized” in relation to things done before commencement— (Amended 64 of 2000 s. 18)
+  - For the purposes of the application of the definition in section 198(1) of this Ordinance (minor definitions) of the expression unauthorized in relation to things done before commencement— (Amended 64 of 2000 s. 18)
 
     - (a) paragraph (a) applies in relation to things done before 12 December 1972 as if the reference to the licence of the copyright owner were a reference to his consent or acquiescence;
 
@@ -558,10 +566,14 @@ Saving of subsidiary legislation
 
 - 41. Until rules are made by the Chief Justice under section 174 of this Ordinance, the Copyright Tribunal Rules (App. I, p. BF1)* in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance.
 
-- 42. Until rules of court under the High Court Ordinance (Cap. 4) are made for the purposes of sections 144 and 271 of this Ordinance, the Copyright (Border Measures) Rules (L.N. 482 of 1996) , so far as they are not inconsistent with this Ordinance, continue in force and have effect as if made for the purposes of those sections subject to such necessary adaptations and modifications as may be necessary for those rules to have effect under the appropriate Part of this Ordinance. (Amended 25 of 1998 s. 2)
+- Editorial Note:
 
-- 43. Until regulations are made by the Secretary for Commerce and Economic Development under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000; L.N. 106 of 2002; L.N. 130 of 2007)
+- * Please see Revised Edition 1989 and also L.N. 5 of 1997.
 
-Editorial Note:
+- 42. Until rules of court under the High Court Ordinance (Cap. 4) are made for the purposes of sections 144 and 271 of this Ordinance, the Copyright (Border Measures) Rules (Cap. 4 sub. leg. F), so far as they are not inconsistent with this Ordinance, continue in force and have effect as if made for the purposes of those sections subject to such necessary adaptations and modifications as may be necessary for those rules to have effect under the appropriate Part of this Ordinance. (Amended 25 of 1998 s. 2; E.R. 2 of 2019)
 
-* Please also see L.N. 5 of 1997.
+- 43. Until regulations are made by the Secretary for Commerce and Economic Development under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1)* as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000; L.N. 106 of 2002; L.N. 130 of 2007)
+
+- Editorial Note:
+
+- * Please see Revised Edition 1989.

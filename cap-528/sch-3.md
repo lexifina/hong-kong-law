@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 233 & 237]
 
-RIGHTS IN PERFORMANCE: TRANSITIONAL PROVISIONS AND SAVINGS
+Rights in Performance: Transitional Provisions and Savings
 
 Introductory
 
@@ -10,21 +10,21 @@ Introductory
 
   - (1) In this Schedule—
 
-    - “the Copyright Ordinance” (《版權條例》) means the Copyright Ordinance (Cap. 39) in force immediately before the commencement of Part III of this Ordinance;
+    - the Copyright Ordinance (《版權條例》) means the Copyright Ordinance (Cap. 39) in force immediately before the commencement of Part III of this Ordinance;
 
-    - “the new performance rights provisions” (新的表演權利條文) means the provisions of this Ordinance relating to rights in performances, that is, Part III (including this Schedule and Schedule 1), Schedules 4 and 5 and so far as they make amendments or repeals consequential on the provisions of Part III.
+    - the new performance rights provisions (新的表演權利條文) means the provisions of this Ordinance relating to rights in performances, that is, Part III (including this Schedule and Schedule 1), Schedules 4 and 5 and so far as they make amendments or repeals consequential on the provisions of Part III.
 
   - (2)
 
-    - References in this Schedule to “commencement”, without more, are to the date on which the new performance rights provisions come into force.
+    - References in this Schedule to commencement, without more, are to the date on which the new performance rights provisions come into force.
 
   - (3)
 
-    - References in this Schedule to “existing performances” (現存的表演) are to performances given before commencement; and for this purpose a performance which extended over a period is to be taken to have been given when the performance was completed.
+    - References in this Schedule to existing performances (現存的表演) are to performances given before commencement; and for this purpose a performance which extended over a period is to be taken to have been given when the performance was completed.
 
 - 2.
 
-  - In relation to the Copyright Ordinance, “performance” (表演) means—
+  - In relation to the Copyright Ordinance, performance (表演) means—
 
     - (a) a dramatic performance;
 
@@ -78,7 +78,7 @@ Acts infringing rights in performances
 
   - (1) The provisions of Part III as to the acts constituting an infringement of the rights conferred by that Part apply only in relation to acts done after commencement; the provisions of the Copyright Ordinance continue to apply in relation to acts done on or after 20 December 1996 and before commencement.
 
-  - (2) For the purposes of section 229 of this Ordinance (meaning of “infringing fixation”) the question whether the fixation constituted an infringement of performers’ rights, or would have done if the performance had been given in Hong Kong, is to be determined, in relation to a performance given on or after 20 December 1996 and before commencement, by reference to the Copyright Ordinance.
+  - (2) For the purposes of section 229 of this Ordinance (meaning of infringing fixation) the question whether the fixation constituted an infringement of performers’ rights, or would have done if the performance had been given in Hong Kong, is to be determined, in relation to a performance given on or after 20 December 1996 and before commencement, by reference to the Copyright Ordinance.
 
 Remedies for infringement
 

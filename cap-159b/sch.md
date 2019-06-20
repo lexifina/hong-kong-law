@@ -1,16 +1,20 @@
-# SCHEDULE FORMS
+# Schedule Forms
 
-FORM 1 (Repealed L.N. 165 of 1994)
-
-_
-
-FORM 1A (Repealed L.N. 466 of 1994)
+Form 1 (Repealed L.N. 165 of 1994)
 
 _
 
-FORM 1B | [rule 3(2)(a)]
+Form 1A (Repealed L.N. 466 of 1994)
 
-ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
+_
+
+Form 1B
+
+[rule 3(2)(a)]
+
+Admission and Registration Rules
+
+APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
 
 ADMISSION AS A SOLICITOR ON THE BASIS OF
 
@@ -60,7 +64,7 @@ The attached document marked “ ” is a certified copy of my passport.
 
 (4) | My name was removed from the roll of barristers in Hong Kong on the . day of . and the attached document marked “ ” is a certificate to that effect from the Registrar of the High Court.
 
-(5) | The Law Society of Hong Kong granted me exemption from employment as a trainee solicitor on the . day of
+(5) | The Law Society of Hong Kong granted me exemption from employment as a trainee solicitor on the . day of .
 
 (6) | I was not required to pass any examinations prior to applying for admission as a solicitor.
 
@@ -78,17 +82,21 @@ HONG KONG this . day of
 
 Before me,
 
-Commissioner for Oaths/Solicitor.
+Commissioner for Oaths/Solicitor
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 103 of 2017; 17 of 2018 s. 14)
+(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 103 of 2017; 17 of 2018 s. 14; E.R. 2 of 2019)
 
 _
 
-FORM 1C | [rule 3(2)(c)]
+Form 1C
 
-ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
+[rule 3(2)(c)]
+
+Admission and Registration Rules
+
+APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
 
 ADMISSION AS A SOLICITOR UNDER SECTION 4(1)(b)
 
@@ -134,7 +142,11 @@ The attached document marked “ ” is a certified copy of my passport.
 
 OR*
 
-I was required to pass an examination/examinations* in . prior to applying for admission as a solicitor. I passed the examination/examinations* on the . day of . The attached document marked “ ” is a certified copy of a certificate from the authority administering the examination.
+I was required to pass an examination/examinations* in
+
+prior to applying for admission as a solicitor. I passed the examination/examinations* on the . day of
+
+The attached document marked “ ” is a certified copy of a certificate from the authority administering the examination.
 
 AND I make this solemn declaration conscientiously believing it to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
 
@@ -144,17 +156,21 @@ HONG KONG this . day of
 
 Before me,
 
-Commissioner for Oaths/Solicitor.
+Commissioner for Oaths/Solicitor
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 114 of 2000; 17 of 2018 s. 14)
+(L.N. 466 of 1994; L.N. 114 of 2000; 17 of 2018 s. 14; E.R. 2 of 2019)
 
 _
 
-FORM 2 | [rule 3(4)]
+Form 2
 
-ADMISSION AND REGISTRATION RULES CERTIFICATE OF ELIGIBILITY FOR ADMISSION
+[rule 3(4)]
+
+Admission and Registration Rules
+
+CERTIFICATE OF ELIGIBILITY FOR ADMISSION
 
 AS A SOLICITOR
 
@@ -180,7 +196,9 @@ has been employed as a trainee solicitor for a period of . months to the satisfa
 
 OR*
 
-is exempted from employment as a trainee solicitor in accordance with the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
+is exempted from employment as a trainee solicitor
+
+in accordance with the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
 (d) | has resided in Hong Kong for at least 3 months immediately before the date on which he/she applied for a certificate as stated in paragraph (1) of this Form;
 
@@ -204,17 +222,21 @@ Dated this . day of .
 
 (Sgd.)
 
-for The Law Society of Hong Kong.
+for The Law Society of Hong Kong
 
 * Delete whichever inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002; L.N. 277 of 2008;L.N. 69 of 2010; 17 of 2018 s. 14)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002; L.N. 277 of 2008;L.N. 69 of 2010; 17 of 2018 s. 14; E.R. 2 of 2019)
 
 _
 
-FORM 3 | [rule 3(5)]
+Form 3
 
-ADMISSION AND REGISTRATION RULES CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR
+[rule 3(5)]
+
+Admission and Registration Rules
+
+CERTIFICATE OF ELIGIBILITY FOR ADMISSION AS A SOLICITOR
 
 THIS IS TO CERTIFY THAT
 
@@ -254,19 +276,23 @@ Dated this . day of .
 
 (Sgd.)
 
-for The Law Society of Hong Kong.
+for The Law Society of Hong Kong
 
 \# | Please insert relevant profession (e.g. solicitor/advocate/attorney etc.) and the relevant jurisdiction.
 
 * | Delete whichever inapplicable.
 
-(L.N. 466 of 1994; L.N. 114 of 2000; L.N. 69 of 2010; 17 of 2018 s. 14)
+(L.N. 466 of 1994; L.N. 114 of 2000; L.N. 69 of 2010; 17 of 2018 s. 14; E.R. 2 of 2019)
 
 _
 
-FORM 4 | [rule 3(2)(b)]
+Form 4
 
-ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
+[rule 3(2)(b)]
+
+Admission and Registration Rules
+
+APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR
 
 ADMISSION AS A SOLICITOR ON THE BASIS OF COMPLIANCE
 
@@ -422,7 +448,7 @@ HONG KONG this . day of
 
 Before me,
 
-Commissioner for Oaths/Solicitor.
+Commissioner for Oaths/Solicitor
 
 FIRST SCHEDULE
 
@@ -444,13 +470,15 @@ Note: | Where the Trainee Solicitor has been employed under two or more trainee 
 
 * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002; L.N. 277 of 2008; L.N. 69 of 2010 ; 17 of 2018 s. 14)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002; L.N. 277 of 2008; L.N. 69 of 2010 ; 17 of 2018 s. 14; E.R. 2 of 2019) _
 
-_
+Form 5
 
-FORM 5 | [rules 4 & 11]
+[rules 4 & 11]
 
-ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
+Admission and Registration Rules
+
+AFFIDAVIT OF IDENTITY
 
 I, | of
 
@@ -460,9 +488,9 @@ Hong Kong, Solicitor, make oath and say (or solemnly and sincerely declare and a
 
 is a true likeness of . of . Hong Kong, a .*, the applicant herein.
 
-2. | I have examined [Hong Kong Identity Card No.
+2. | I have examined [Hong Kong Identity Card No. .]
 
-] [passport No. .]# of the said . and I am satisfied that from such examination that he/she is the person shown in the photograph attached hereto and that he/she is the applicant in these proceedings.
+[passport No. .]# of the said . and I am satisfied that from such examination that he/she is the person shown in the photograph attached hereto and that he/she is the applicant in these proceedings.
 
 SWORN/DECLARED at . HONG KONG | }
 
@@ -470,56 +498,58 @@ this . day of
 
 Before me,
 
-Commissioner for Oaths/Solicitor.
+Commissioner for Oaths/Solicitor
 
 * | Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
 
 \# | Delete whichever is inapplicable.
 
-(L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000; L.N. 5 of 2003; L.N. 69 of 2010)
+(L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000; L.N. 5 of 2003; L.N. 69 of 2010; E.R. 2 of 2019) _
+
+Form 6
+
+(Repealed L.N. 312 of 1988)
 
 _
 
-FORM 6 (Repealed L.N. 312 of 1988)
+Form 7
 
-_
+[rule 7]
 
-FORM 7 | [rule 7]
+Admission and Registration Rules
 
-ADMISSION AND REGISTRATION RULES ROLL OF SOLICITORS
+ROLL OF SOLICITORS
 
 was duly
 
 admitted to practise as a Solicitor of the High Court of Hong Kong on the . day of .
 
-Registrar, High Court, Hong Kong.
+Registrar, High Court, Hong Kong
 
-(L.N. 212 of 1976; L.N. 41 of 1981; 25 of 1998 s. 2; L.N. 114 of 2000)
-
-_
-
-FORM 8 (Repealed L.N. 5 of 2003)
+(L.N. 212 of 1976; L.N. 41 of 1981; 25 of 1998 s. 2; L.N. 114 of 2000; E.R. 2 of 2019) _ Form 8 (Repealed L.N. 5 of 2003)
 
 _
 
-FORM 9 (Repealed 27 of 1998 s. 9)
+Form 9 (Repealed 27 of 1998 s. 9)
 
 _
 
-FORM 10 (Repealed L.N. 5 of 2003)
+Form 10 (Repealed L.N. 5 of 2003)
 
 _
 
-FORM 11 | [rule 12E]
+Form 11
+
+[rule 12E]
 
 CERTIFICATE OF APPOINTMENT AS NOTARY PUBLIC
 
 I HEREBY CERTIFY THAT
 
-was appointed as a notary public of Hong Kong on the .day of .
+was appointed as a notary public of Hong Kong on the . day of .
 
 Dated this . day of .
 
-Chief Judge, Hong Kong.
+Chief Judge, Hong Kong
 
-(L.N. 28 of 2005)
+(L.N. 28 of 2005; E.R. 2 of 2019)

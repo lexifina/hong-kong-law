@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 1]
 
-FEES PAYABLE UNDER PART IIIA OF THE ORDINANCE
+Fees Payable under Part IIIA of the Ordinance
 
 Item | Section | Description | Fee $
 

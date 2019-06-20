@@ -294,9 +294,9 @@ Note: | The Board of Management of the Chinese Permanent Cemeteries is specified
 
 58E. | Merchant Shipping (Seafarers) (Tankers) Regulation (Cap. 478 sub. leg. AG) (Amended E.R. 4 of 2017) | A decision of the Seafarers’ Authority to refuse to issue a certificate of proficiency or an endorsement, or to refuse to renew an endorsement, under section 6. (Added L.N. 143 of 2016)
 
-58F. | Merchant Shipping (Seafarers) (Ships Using Low-flashpoint Fuels) Regulation | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 6. (Added L.N. 18 of 2019)
+58F. | Merchant Shipping (Seafarers) (Ships Using Low-flashpoint Fuels) Regulation (Cap. 478 sub. leg. AK) (Amended E.R. 2 of 2019) | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 6. (Added L.N. 18 of 2019)
 
-58G. | Merchant Shipping (Seafarers) (Ships Operating in Polar Waters) Regulation | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 6. (Added L.N. 18 of 2019)
+58G. | Merchant Shipping (Seafarers) (Ships Operating in Polar Waters) Regulation (Cap. 478 sub. leg. AL) (Amended E.R. 2 of 2019) | A decision of the Seafarers’ Authority to refuse to issue or renew a certificate of proficiency under section 6. (Added L.N. 18 of 2019)
 
 59. | Marine Fish Culture Ordinance (Cap. 353) | A decision of the Director of Agriculture, Fisheries and Conservation—
 

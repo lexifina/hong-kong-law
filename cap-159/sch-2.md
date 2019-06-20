@@ -1,10 +1,8 @@
 # Schedule 2
 
-[ss. 26A, 26B, 26C & 26D]
+[ss. 26A, 26B, 26C & 26D] (Format changes—E.R. 2 of 2019)
 
 Money
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
 
 - 1.
 
@@ -36,7 +34,7 @@ Money
 
   - (6) If any person on whom a notice has been served under subsection (3) pays out sums of money at a time when such payment is prohibited by the notice—
 
-    - (a) he shall be guilty of an offence and liable on summary conviction to a fine of $50,000; and
+    - (a) he shall be guilty of an offence and liable on summary conviction to a fine at level 5; and (Amended E.R. 2 of 2019)
 
     - (b) the Court of First Instance may, on the application of the Council, order that person to comply with the requirements of the notice within such time as may be specified in the order.
 
@@ -48,7 +46,9 @@ Money
 
   - Provided that a banker with whom such special account or accounts is or are kept shall be under no obligation to ascertain whether that account or those accounts is or are being so operated on or otherwise dealt with.
 
-- 6. In any case where the Council is unable to ascertain the person to whom any moneys referred to in a notice served under section 2(3) belong or where the Council otherwise thinks it expedient so to do, the Council may apply to the Court of First Instance for directions as to the transfer of such moneys. Documents
+- 6. In any case where the Council is unable to ascertain the person to whom any moneys referred to in a notice served under section 2(3) belong or where the Council otherwise thinks it expedient so to do, the Council may apply to the Court of First Instance for directions as to the transfer of such moneys.
+
+Documents
 
 - 7.
 
@@ -60,7 +60,7 @@ Money
 
   - (2) The person appointed by the Council may take possession of any such documents on behalf of the Council.
 
-  - (3) Except in a case where an application has been made to the Court of First Instance under subsection (4), if any person having possession of any such documents refuses, neglects or otherwise fails to comply with a requirement under subsection (1), he shall be guilty of an offence and liable on summary conviction to a fine of $50,000.
+  - (3) Except in a case where an application has been made to the Court of First Instance under subsection (4), if any person having possession of any such documents refuses, neglects or otherwise fails to comply with a requirement under subsection (1), he shall be guilty of an offence and liable on summary conviction to a fine at level 5. (Amended E.R. 2 of 2019)
 
   - (4) The Court of First Instance, on the application of the Council, may order a person required to produce or deliver documents under subsection (1) to produce or deliver them to any person appointed by the Council at such time and place as may be specified in the order, and authorize him to take possession of them on behalf of the Council.
 
@@ -82,7 +82,9 @@ Money
 
   - (12) On an application under subsection (8) or (11), the Court may make such order as it thinks fit.
 
-  - (13) Except so far as its right to do so may be restricted by an order on an application under subsection (8) or (11), the Council may take copies of or extracts from any documents in its possession by virtue of this section or section 8 and require any person to whom it is proposed that such documents shall be delivered, as a condition precedent to delivery, to give a reasonable undertaking to supply copies or extracts to the Council. Mail
+  - (13) Except so far as its right to do so may be restricted by an order on an application under subsection (8) or (11), the Council may take copies of or extracts from any documents in its possession by virtue of this section or section 8 and require any person to whom it is proposed that such documents shall be delivered, as a condition precedent to delivery, to give a reasonable undertaking to supply copies or extracts to the Council.
+
+Mail
 
 - 8.
 
@@ -90,7 +92,9 @@ Money
 
   - (2) Where such an order is made the Council shall pay to the Postmaster General the like charges (if any), as would have been payable for the redirection of the packets by virtue of any scheme made under regulation 32 of the Post Office Regulations (Cap. 98 sub. leg. A), if the addressee had permanently ceased to occupy the premises to which they were addressed and had applied to the Postmaster General to redirect them to him at the address mentioned in the order.
 
-  - (3) This section does not apply where the powers conferred by this Schedule are exercisable by virtue of section 26C of this Ordinance. General
+  - (3) This section does not apply where the powers conferred by this Schedule are exercisable by virtue of section 26C of this Ordinance.
+
+General
 
 - 9. The powers in relation to sums of money and documents conferred by this Schedule shall be exercisable notwithstanding any lien on them or right to their possession.
 
@@ -104,4 +108,4 @@ Money
 
 - [cf. 1974 c. 47 Sch. 1 Pt. II U.K.]
 
-- 14. Any requirement of notice under this Schedule shall be made in writing under the hand of such person as may be appointed by the Council for the purpose and may be served on any person either by personal service or by being sent by registered post addressed to his last known place of business or residence. (Replaced 68 of 1995 s. 13. Amended 25 of 1998 s. 2)
+- 14. Any requirement of notice under this Schedule shall be made in writing under the hand of such person as may be appointed by the Council for the purpose and may be served on any person either by personal service or by being sent by registered post addressed to his last known place of business or residence. (Schedule 2 replaced 68 of 1995 s. 13.Amended 25 of 1998 s. 2)

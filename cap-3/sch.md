@@ -1,8 +1,6 @@
-# SCHEDULE
+# Schedule
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
-FORM 1
+Form 1
 
 [s. 17]
 
@@ -16,17 +14,15 @@ on the day of , 19 , at the hour of o’clock in the noon, and there to attend f
 
 (Signed) C.D., Registrar.
 
-_
-
 N.B.—The penalty for disobedience hereto is a fine not exceeding $3,000.
 
 (Amended 37 of 1988 s. 14; 13 of 1995 s. 17; 25 of 1998 s. 2)
 
-FORM 2
+Form 2
 
 [s. 7]
 
-JURY ORDINANCE (Chapter 3) NOTICE Jury Service
+Jury Ordinance (Chapter 3) Notice Jury Service
 
 - 1. Whereas it appears that you are a person—
 
@@ -44,8 +40,8 @@ JURY ORDINANCE (Chapter 3) NOTICE Jury Service
 
 - Registrar of the High Court.
 
-- HIGH COURT
+- High Court
 
-- 38 QUEENSWAY
+- 38 Queensway
 
-- HONG KONG (Replaced 28 of 1962 s. 5. Amended 37 of 1988 s. 14; 25 of 1998 s. 2)
+- Hong Kong (Replaced 28 of 1962 s. 5. Amended 37 of 1988 s. 14; 25 of 1998 s. 2)

@@ -1,8 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 1]
 
 Fees Payable for Applications and Examinations under the Overseas Lawyers (Qualification for Admission) Rules (Cap. 159 sub. leg. Q)
+
+(E.R. 2 of 2019)
 
 Item | Section | Description | Fee $
 

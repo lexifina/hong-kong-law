@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 12 & 54]
 
-CONDITIONS
+Conditions
 
 - 1. The conditions specified for the purposes of section 12(4) of this Ordinance are that—
 
@@ -16,4 +16,4 @@ CONDITIONS
 
 - 2.
 
-  - In this Schedule, “effective date” (生效日期) means the date stated by the Director in an updating notice under section 12(2)(a)(ii) of this Ordinance as the date on which the new calculation method of the energy efficiency grading of a prescribed product takes effect.
+  - In this Schedule, effective date (生效日期) means the date stated by the Director in an updating notice under section 12(2)(a)(ii) of this Ordinance as the date on which the new calculation method of the energy efficiency grading of a prescribed product takes effect.

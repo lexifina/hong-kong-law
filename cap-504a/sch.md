@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
@@ -40,4 +40,6 @@
 
 - 19. Victoria Public Mortuary
 
-- 20. Yan Chai Hospital Mortuary (Schedule replaced L.N. 81 of 2011)
+- 20. Yan Chai Hospital Mortuary
+
+(Schedule replaced L.N. 81 of 2011)

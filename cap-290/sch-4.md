@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 25 & 26(2)]
 
-ACCREDITATION PRINCIPLES
+Accreditation Principles
 
 - 1. Accreditation shall only be granted to and maintained by a body of persons (corporate or unincorporate) that—
 

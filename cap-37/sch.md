@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 14 & 16]
 
-TABLE OF FEES PAYABLE TO THE REGISTRAR OF COMPANIES
+Table of Fees Payable to the Registrar of Companies
 
 Item | Matter in respect of which a fee is payable | Fees $
 

@@ -1,8 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 65 & 82]
 
-VOTING PROCEDURE UNDER SECTION 65 OF THIS ORDINANCE
+Voting Procedure under Section 65 of this Ordinance
+
+(Format changes—E.R. 2 of 2019)
 
 - 1. The election of Chairman and Vice Chairman is to be conducted by one or more secret ballots held amongst those present and entitled to vote at the election and according to this Schedule.
 
@@ -40,4 +42,4 @@ VOTING PROCEDURE UNDER SECTION 65 OF THIS ORDINANCE
 
 - 14.
 
-  - In this Schedule, “an absolute majority of votes” (絕對多數票) means that the candidate receives more than half of the valid votes cast excluding abstentions.
+  - In this Schedule, an absolute majority of votes (絕對多數票) means that the candidate receives more than half of the valid votes cast excluding abstentions.

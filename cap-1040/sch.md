@@ -1,6 +1,4 @@
-# SCHEDULE
-
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+# Schedule
 
 [ss. 2, 4 & 9]
 
@@ -28,7 +26,7 @@
 
 - 2. Powers Without prejudice to any other Ordinance, the corporation shall have the following powers—
 
-  - (a) to acquire, take on lease, purchase, hold and enjoy any property and invest moneys upon mortgage of any immovable property or upon the mortgages, debentures, stocks, funds, shares or investments specified in Schedule 2 of the Trustee Ordinance (Cap. 29);
+  - (a) to acquire, take on lease, purchase, hold and enjoy any property and invest moneys upon mortgage of any immovable property or upon the mortgages, debentures, stocks, funds, shares or investments specified in Schedule 2 of the Trustee Ordinance (Cap. 29); (Amended E.R. 2 of 2014)
 
   - (b) with the approval of the Chief Executive, to grant, sell, convey, assign, surrender, exchange, partition, yield up, mortgage, transfer or otherwise dispose of any immovable property; (Amended 4 of 2000 s. 3)
 
@@ -58,9 +56,7 @@
 
   - (o) to do all such other lawful things as are incidental or conducive to the attainment of the above objects;
 
-  - (p) subject to the provisions of sub-paragraphs (b), (d) and (j) with regard to approval or consent, to enter into any contract with the Government or any other person.
-
-- (Amended E.R. 2 of 2014)
+  - (p) subject to the provisions of sub-subparagraphs (b), (d) and (j) with regard to approval or consent, to enter into any contract with the Government or any other person. (Amended E.R. 2 of 2019)
 
 - 3. Common seal
 
@@ -74,7 +70,7 @@
 
   - (2) The following persons, firms and societies shall be ordinary members of the corporation—
 
-    - (a) any persons who, or firms or societies which, at the commencement of this Ordinance are members of the Society by virtue of section 13(1) of the repealed Ordinance;
+    - (a) any persons who, or firms or societies which, at the commencement* of this Ordinance are members of the Society by virtue of section 13(1) of the repealed Ordinance;
 
     - (b) any person who, or firm or society which, subscribes to the funds of the corporation such sum as may be specified by the board from time to time and approved by the Secretary for Home Affairs, and whose name is entered with the consent of the board in the register of members to be kept by the corporation. (Amended L.N. 67 of 1985; L.N. 262 of 1989)
 
@@ -94,11 +90,19 @@
 
   - (5) Any member may at any time resign from the corporation by giving to the corporation not less than 1 month’s notice in writing.
 
+- Editorial Note:
+
+- * Commencement date: 14 December 1973.
+
 - 5. Establishment of board
 
   - (1) There shall be a board of the corporation consisting of not less than 11 nor more than 20 directors.
 
-  - (2) The persons who are members of the elected committee of the Society at the commencement of this Ordinance shall constitute the board until 1 April 1974.
+  - (2) The persons who are members of the elected committee of the Society at the commencement* of this Ordinance shall constitute the board until 1 April 1974.
+
+- Editorial Note:
+
+- * Commencement date: 14 December 1973.
 
 - 6. Election of directors
 
@@ -114,7 +118,7 @@
 
 - 7. Term of office of directors
 
-  - (1) The directors shall subject to sub-paragraph (2) hold office for a period of 1 year commencing on 1 April or if they are elected after that date until 1 April next following their election.
+  - (1) The directors shall subject to subparagraph (2) hold office for a period of 1 year commencing on 1 April or if they are elected after that date until 1 April next following their election.
 
   - (2) If the election of directors for the ensuing year has not been completed on or before 31 March the directors in office on that day shall continue to hold office until the election of their immediate successors.
 
@@ -138,7 +142,9 @@
 
     - (a) a director in any one of the previous years; or
 
-    - (b) a member of the elected committee prior to 1 April 1973 under the repealed Ordinance, shall be eligible for election as a vice-chairman unless no past director or member of the elected committee is available for election.
+    - (b) a member of the elected committee prior to 1 April 1973 under the repealed Ordinance,
+
+  - shall be eligible for election as a vice-chairman unless no past director or member of the elected committee is available for election.
 
 - (Replaced L.N. 144 of 1975)
 
@@ -212,7 +218,11 @@
 
   - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Labour and Welfare members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
 
-  - (8) The persons who are members of the Board of Direction of the Society at the commencement of this Ordinance shall be members of the advisory board until 1 April 1974.
+  - (8) The persons who are members of the Board of Direction of the Society at the commencement* of this Ordinance shall be members of the advisory board until 1 April 1974.
+
+- Editorial Note:
+
+- * Commencement date: 14 December 1973.
 
 - 19. Procedure at meetings of advisory board
 
@@ -248,7 +258,7 @@
 
   - (1) An ordinary general meeting of the voting members shall be convened at any time for such purposes as the board thinks fit.
 
-  - (2) Notice of a meeting convened under sub-paragraph (1) shall be sent by the secretary by prepaid post to each voting member, at his last known address in Hong Kong, at least 14 days before the date of the meeting, and every such notice shall specify the place, date and time of such meeting.
+  - (2) Notice of a meeting convened under subparagraph (1) shall be sent by the secretary by prepaid post to each voting member, at his last known address in Hong Kong, at least 14 days before the date of the meeting, and every such notice shall specify the place, date and time of such meeting.
 
 - 24. General provisions with respect to meetings
 

@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [reg. 2]
 
@@ -40,13 +40,13 @@ We do solemnly, sincerely and truly declare that all the particulars given herei
 
 Before me,
 
-在本人面前提出聲明 | Deputy Registrar of Marriages. 副婚姻登記官
+在本人面前提出聲明 | Deputy Registrar of Marriages 副婚姻登記官
 
 Date . 19 .
 
 日期︰19 年 月 日
 
-(L.N. 501 of 1995)
+(L.N. 501 of 1995; E.R. 2 of 2019)
 
 _
 
@@ -88,13 +88,13 @@ We do solemnly, sincerely and truly declare that all the particulars given herei
 
 Before me,
 
-在本人面前提出聲明 | Deputy Registrar of Marriages. 副婚姻登記官
+在本人面前提出聲明 | Deputy Registrar of Marriages 副婚姻登記官
 
 Date . 19 .
 
 日期︰19 年 月 日
 
-(L.N. 501 of 1995)
+(L.N. 501 of 1995; E.R. 2 of 2019)
 
 _
 
@@ -140,7 +140,7 @@ I do solemnly, sincerely and truly declare that all the information given herein
 
 Before me,
 
-在本人面前提出聲明 | Deputy Registrar of Marriages. 副婚姻登記官
+在本人面前提出聲明 | Deputy Registrar of Marriages 副婚姻登記官
 
 Date .................................... 19 .
 
@@ -148,7 +148,7 @@ Date .................................... 19 .
 
 * Delete as appropriate. * 將不適用者刪去。
 
-(L.N. 501 of 1995; 34 of 1999 s. 3)
+(L.N. 501 of 1995; 34 of 1999 s. 3; E.R. 2 of 2019)
 
 _
 
@@ -192,7 +192,7 @@ I do solemnly, sincerely and truly declare that all the information given herein
 
 Before me,
 
-在本人面前提出聲明 | Deputy Registrar of Marriages. 副婚姻登記官
+在本人面前提出聲明 | Deputy Registrar of Marriages 副婚姻登記官
 
 Date .................................... 19 .
 
@@ -200,7 +200,7 @@ Date .................................... 19 .
 
 * Delete as appropriate. * 將不適用者刪去。
 
-(L.N. 501 of 1995; 34 of 1999 s. 3)
+(L.N. 501 of 1995; 34 of 1999 s. 3; E.R. 2 of 2019)
 
 _
 
@@ -248,7 +248,7 @@ presence of us | and
 
 婚禮見證人 | 及
 
-This marriage was registered by me in accordance with section 9 of the Marriage Reform Ordinance (Cap.178) this day of 19 .
+This marriage was registered by me in accordance with section 9 of the Marriage Reform Ordinance (Cap. 178) this day of 19 .
 
 上述婚姻已於19 年 月 日由本人按照《婚姻制度改革條例》(第178章)第9條予以登記。
 
@@ -260,13 +260,13 @@ is/are not available, and cannot reasonably be made available, to sign this cert
 
 無法前來及在合理情況下不能使其前來在本證書上簽署。
 
-Deputy Registrar of Marriages.
+Deputy Registrar of Marriages
 
 副婚姻登記官
 
 * Delete as appropriate. * 將不適用者刪去。
 
-(L.N. 501 of 1995)
+(L.N. 501 of 1995; E.R. 2 of 2019)
 
 _
 
@@ -314,7 +314,7 @@ presence of us | and
 
 婚禮見證人 | 及
 
-This marriage was registered by me in accordance with section 9 of the Marriage Reform Ordinance (Cap.178) this day of 19 .
+This marriage was registered by me in accordance with section 9 of the Marriage Reform Ordinance (Cap. 178) this day of 19 .
 
 上述婚姻已於19 年 月 日由本人按照《婚姻制度改革條例》(第178章)第9條予以登記。
 
@@ -326,13 +326,13 @@ is/are not available, and cannot reasonably be made available, to sign this cert
 
 無法前來及在合理情況下不能使其前來在本證書上簽署。
 
-Deputy Registrar of Marriages.
+Deputy Registrar of Marriages
 
 副婚姻登記官
 
 * Delete as appropriate. * 將不適用者刪去。
 
-(L.N. 501 of 1995)
+(L.N. 501 of 1995; E.R. 2 of 2019)
 
 _
 
@@ -360,7 +360,9 @@ If you fail without lawful excuse to comply with this summons, you will be guilt
 
 Dated this day of 19
 
-p. Registrar of Marriages.
+p. Registrar of Marriages
+
+(E.R. 2 of 2019)
 
 _
 
@@ -386,13 +388,13 @@ We, the parties to a *customary/validated marriage particulars of which are give
 
 Dated this . day of ., 19 .
 
-(Signature of husband).
+(Signature of husband)
 
 Hong Kong Identity Card No.
 
 Address:
 
-(Signature of wife).
+(Signature of wife)
 
 Hong Kong Identity Card No.
 
@@ -402,7 +404,7 @@ Fee: $10
 
 * Delete whichever is not applicable.
 
-(L.N. 125 of 1971; L.N. 260 of 1982; L.N. 67 of 1985; 32 of 2000 s. 48)
+(L.N. 125 of 1971; L.N. 260 of 1982; L.N. 67 of 1985; 32 of 2000 s. 48; E.R. 2 of 2019)
 
 _
 
@@ -426,7 +428,7 @@ On the . day of ., 19 ., my *husband/wife (state name .) and I gave you notice i
 
 Dated this . day of ., 19 .
 
-(Signature of *husband/wife).
+(Signature of *husband/wife)
 
 Hong Kong Identity Card No.
 
@@ -438,7 +440,7 @@ Fee: $10
 
 - Note: This notice must be given to the same designated public officer to whom the notice under section 16(1) of the Ordinance was given.
 
-(L.N. 125 of 1971; L.N. 260 of 1982; L.N. 67 of 1985; 32 of 2000 s. 48)
+(L.N. 125 of 1971; L.N. 260 of 1982; L.N. 67 of 1985; 32 of 2000 s. 48; E.R. 2 of 2019)
 
 _
 
@@ -468,9 +470,9 @@ who are parties to a *customary/validated marriage, gave me notice in accordance
 
 Dated this . day of ., 19 .
 
-Designated Public Officer.
+Designated Public Officer
 
-Headquarters, Home Affairs Department.
+Headquarters, Home Affairs Department
 
 Fee: $100 * Delete whichever is not applicable.
 
@@ -478,7 +480,7 @@ Note: | (a) | This statement is to be signed in duplicate and delivered one copy
 
 (b) | The parties are advised to note carefully the provisions of sections 19 and 20 of the Marriage Reform Ordinance (Cap. 178) which are reproduced overleaf.
 
-(Back page) MARRIAGE REFORM ORDINANCE
+(Back page) Marriage Reform Ordinance
 
 (Chapter 178)
 
@@ -490,4 +492,4 @@ Note: | (a) | This statement is to be signed in duplicate and delivered one copy
 
 - 20. Registration of memorandum for dissolution of marriage The parties to an agreement or memorandum for the dissolution of a marriage signed under and in accordance with section 19 shall, within 14 days from the date of signature or such longer period as the designated public officer before whom the parties appeared under section 17 may for special reasons in any particular case permit, register, either personally or through their duly authorized agent, particulars of the agreement or memorandum for dissolution of marriage with the designated public officer before whom the parties appeared under section 17; and that officer shall endorse on the agreement or memorandum a record of registration under this section.”.
 
-(L.N. 125 of 1971; L.N. 260 of 1982; L.N. 67 of 1985; 32 of 2000 s. 48)
+(L.N. 125 of 1971; L.N. 260 of 1982; L.N. 67 of 1985; 32 of 2000 s. 48; E.R. 2 of 2019)

@@ -1,8 +1,12 @@
-# SCHEDULE
+# Schedule
 
-FORM 1 | [rule 2]
+Form 1
 
-THE LAW SOCIETY OF HONG KONG APPLICATION FOR PRACTISING CERTIFICATE
+[rule 2]
+
+The Law Society of Hong Kong
+
+APPLICATION FOR PRACTISING CERTIFICATE
 
 1. | Name:
 
@@ -42,7 +46,7 @@ by Government
 
 4. | State the details of all firms in which you are engaged in practice or by whom you are employed specifying your capacity with each firm and whether you are engaged full-time or part-time or other (please specify) in that capacity:
 
-FIRM | CAPACITY | FULL-TIME/PART-TIME /OTHER
+FIRM | CAPACITY | FULL-TIME/PART-TIME/OTHER
 
 Continue on a separate sheet if necessary. Please indicate if an additional sheet is annexed—YES/NO*
 
@@ -64,9 +68,9 @@ I am not engaged in private practice and am engaged in acts for which a specific
 
 7. | I apply for a practising certificate.
 
-Signed:_
+Signed:
 
-Date: _
+Date:
 
 * Delete if inapplicable.
 
@@ -74,7 +78,9 @@ Date: _
 
 _
 
-FORM 2 | [rule 4]
+Form 2
+
+[rule 4]
 
 PRACTISING CERTIFICATE—SOLICITOR 執業證書——律師 LEGAL PRACTITIONERS ORDINANCE
 
@@ -108,4 +114,4 @@ Dated this . day of .
 
 Secretary, The Law Society of Hong Kong 香港律師會秘書
 
-(L.N. 82 of 2018) (L.N. 259 of 1986)
+(L.N. 82 of 2018)

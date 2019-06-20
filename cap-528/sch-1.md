@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 40A, 119B, 195 & 273D & Schs. 2 & 3] (Amended 15 of 2007 s. 73)
 
-EDUCATIONAL ESTABLISHMENTS
+Educational Establishments
 
 - 1. Any school, within the meaning of section 3 of the Education Ordinance (Cap. 279), entirely maintained and controlled by the Government.
 

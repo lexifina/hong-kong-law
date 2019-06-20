@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4, 5 & 54]
 
-SPECIFICATION OF ENERGY LABELS
+Specification of Energy Labels
 
-- PART 1
+- Part 1
 
   - 1. The requirements to be complied with by energy label for room air conditioners are specified in Part 2.
 
@@ -22,15 +22,15 @@ SPECIFICATION OF ENERGY LABELS
 
   - 8. The requirements to be complied with by energy label for induction cookers are specified in Part 9. (Added L.N. 4 of 2018)
 
-- PART 2## REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
-
-- FOR ROOM AIR CONDITIONERS
+- Part 2 Requirements to be Complied with by Energy Label for Room Air Conditioners#
 
   - 1. The colour and design of the energy label for a room air conditioner of cooling only type within the meaning of Division 1 of Part 2 of Schedule 1 must be as specified in the diagram below— (Amended L.N. 4 of 2018)
 
   - 2. The dimensions of the energy label for a room air conditioner of cooling only type within the meaning of Division 1 of Part 2 of Schedule 1 must be as specified in the diagram below— (Amended L.N. 4 of 2018)
 
-  - 3. The energy label under section 1 of this Part is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table A in relation to the area specified opposite to that information in column 1 of the Table. (Amended L.N. 4 of 2018) TABLE A
+  - 3. The energy label under section 1 of this Part is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table A in relation to the area specified opposite to that information in column 1 of the Table. (Amended L.N. 4 of 2018)
+
+- Table A
 
 - Area | Information to be contained
 
@@ -52,7 +52,9 @@ SPECIFICATION OF ENERGY LABELS
 
 - (Added L.N. 4 of 2018)
 
-  - 3C. The energy label under section 3A of this Part is divided into 8 rectangular areas (marked I(a), I(b), II(a), II(b), III(a), III(b), IV and V on or by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table AB in relation to the area specified opposite to that information in column 1 of the Table. Table AB
+  - 3C. The energy label under section 3A of this Part is divided into 8 rectangular areas (marked I(a), I(b), II(a), II(b), III(a), III(b), IV and V on or by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table AB in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table AB
 
 - Area | Information to be contained
 
@@ -140,9 +142,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - 空調機 | 9 point DFHeiMedium (Chinese)
 
-- Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
-
-- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+- Brand Model Reference Number / Year Information Provider 品牌： 型號： 參考編號 / 年份： 資料提供者： | 9 point Helvetica Roman (English) 9 point DFHeiMedium (Chinese)
 
 - Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English)
 
@@ -160,15 +160,19 @@ SPECIFICATION OF ENERGY LABELS
 
     - (3) The energy label may be attached to the room air conditioner or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
-- PART 3 REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
+- Editorial Note:
 
-- FOR REFRIGERATING APPLIANCES
+- # | For the transitional arrangements relating to specified washing machines and reverse cycle air conditioners, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedules) Order 2018 (L.N. 4 of 2018).
+
+- Part 3 Requirements to be Complied with by Energy Label for Refrigerating Appliances
 
   - 1. The colour and design of the energy label must be as specified in the diagram below—
 
   - 2. The dimensions of the energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of Part 3 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table B in relation to the area specified opposite to that information in column 1 of the Table. TABLE B
+  - 3. The energy label under section 1 of Part 3 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table B in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table B
 
 - Area | Information to be contained
 
@@ -242,15 +246,15 @@ SPECIFICATION OF ENERGY LABELS
 
     - (3) The energy label may be attached to the refrigerating appliance or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
-- PART 4 REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
-
-- FOR COMPACT FLUORESCENT LAMPS
+- Part 4 Requirements to be Complied with by Energy Label for Compact Fluorescent Lamps
 
   - 1. The colour and design of the largest energy label must be as specified in the diagram below. There are two versions of the energy labels, namely the colour version and black-on-white version. The supplier is to choose either one of the two versions.
 
   - 2. The dimensions of the largest energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of Part 4 is divided into 3 rectangular areas (marked I, II and III by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table C in relation to the area specified opposite to that information in column 1 of the Table. TABLE C
+  - 3. The energy label under section 1 of Part 4 is divided into 3 rectangular areas (marked I, II and III by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table C in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table C
 
 - Area | Information to be contained
 
@@ -290,7 +294,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - Ref / Yr | 11.8 point Helvetica Neue Medium (English)
 
-- 編號/年份： | 10.8 point DFHeiBold (Chinese)
+- 編號 / 年份： | 10.8 point DFHeiBold (Chinese)
 
 - Characters of reference number and year | 11.8 point Helvetica Neue Medium (English)
 
@@ -316,15 +320,15 @@ SPECIFICATION OF ENERGY LABELS
 
     - (c) Where the product packaging is too small to accommodate the smallest energy label specified in this Part, the specified person of the product is to apply for the Director’s directions on the manner of displaying the energy label on the packaging.
 
-- PART 5 REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
-
-- FOR WASHING MACHINES
+- Part 5 Requirements to be Complied with by Energy Label for Washing Machines (Part 5 added L.N. 204 of 2009)
 
   - 1. The colour and design of the energy label must be as specified in the diagram below—
 
   - 2. The dimensions of the energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of Part 5 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table D in relation to the area specified opposite to that information in column 1 of the Table. TABLE D
+  - 3. The energy label under section 1 of Part 5 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table D in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table D
 
 - Area | Information to be contained
 
@@ -384,9 +388,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - 洗衣機 | 9 point DFHeiMedium (Chinese)
 
-- Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
-
-- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+- Brand Model Reference Number / Year Information Provider 品牌： 型號： 參考編號 / 年份： 資料提供者： | 9 point Helvetica Roman (English) 9 point DFHeiMedium (Chinese)
 
 - Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English)
 
@@ -404,17 +406,15 @@ SPECIFICATION OF ENERGY LABELS
 
     - (3) The energy label may be attached to the washing machine or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
-  - (Part 5 added L.N. 204 of 2009)
-
-- PART 6 REQUIREMENTS TO BE COMPLIED WITH BY ENERGY LABEL
-
-- FOR DEHUMIDIFIERS
+- Part 6 Requirements to be Complied with by Energy Label for Dehumidifiers (Part 6 added L.N. 204 of 2009)
 
   - 1. The colour and design of the energy label must be as specified in the diagram below—
 
   - 2. The dimensions of the energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of Part 6 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table E in relation to the area specified opposite to that information in column 1 of the Table. TABLE E
+  - 3. The energy label under section 1 of Part 6 is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table E in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table E
 
 - Area | Information to be contained
 
@@ -460,13 +460,13 @@ SPECIFICATION OF ENERGY LABELS
 
 - Dehumidifying Capacity (litre/day) | 10 point Helvetica Roman (English)
 
-- 抽濕量(公升/天) | 10 point DFHeiMedium (Chinese)
+- 抽濕量(公升 / 天) | 10 point DFHeiMedium (Chinese)
 
 - Figures of annual energy consumption and dehumidifying capacity on the right | 20 point Helvetica Medium
 
 - Energy Factor (litre/kWh) | 10 point Helvetica Roman (English)
 
-- 能源效率(公升/千瓦小時) | 10 point DFHeiMedium (Chinese)
+- 能源效率(公升 / 千瓦小時) | 10 point DFHeiMedium (Chinese)
 
 - Figure of energy factor on the right | 10 point Helvetica Roman (English)
 
@@ -474,9 +474,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - 抽濕機 | 9 point DFHeiMedium (Chinese)
 
-- Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
-
-- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+- Brand Model Reference Number / Year Information Provider 品牌： 型號： 參考編號 / 年份： 資料提供者： | 9 point Helvetica Roman (English) 9 point DFHeiMedium (Chinese)
 
 - Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English)
 
@@ -494,15 +492,15 @@ SPECIFICATION OF ENERGY LABELS
 
     - (3) The energy label may be attached to the dehumidifier or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
-  - (Part 6 added L.N. 204 of 2009)
-
-- Part 7 Requirements to be Complied with by Energy Label for Televisions
+- Part 7 Requirements to be Complied with by Energy Label for Televisions (Part 7 added L.N. 4 of 2018)
 
   - 1. The colour and design of the energy label must be as specified in the diagram below—
 
   - 2. The dimensions of the energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of this Part is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table F in relation to the area specified opposite to that information in column 1 of the Table. Table F
+  - 3. The energy label under section 1 of this Part is divided into 5 rectangular areas (marked I, II, III, IV and V by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table F in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table F
 
 - Area | Information to be contained
 
@@ -562,9 +560,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - 電視機 | 9 point DFHeiMedium (Chinese)
 
-- Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
-
-- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+- Brand Model Reference Number / Year Information Provider 品牌： 型號： 參考編號 / 年份： 資料提供者： | 9 point Helvetica Roman (English) 9 point DFHeiMedium (Chinese)
 
 - Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English) 7.5 point DFHeiMedium (Chinese)
 
@@ -580,15 +576,15 @@ SPECIFICATION OF ENERGY LABELS
 
     - (3) The energy label may be attached to the television or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
-- (Part 7 added L.N. 4 of 2018)
-
-- Part 8 Requirements to be Complied with by Energy Label for Storage Type Electric Water Heaters
+- Part 8 Requirements to be Complied with by Energy Label for Storage Type Electric Water Heaters (Part 8 added L.N. 4 of 2018)
 
   - 1. The colour and design of the energy label must be as specified in the diagram below—
 
   - 2. The dimensions of the energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of this Part is divided into 4 rectangular areas (marked I, II, III and IV by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table G in relation to the area specified opposite to that information in column 1 of the Table. Table G
+  - 3. The energy label under section 1 of this Part is divided into 4 rectangular areas (marked I, II, III and IV by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table G in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table G
 
 - Area | Information to be contained
 
@@ -642,7 +638,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - Brand Model Reference Number / Year Information Provider | 9 point Helvetica Roman (English)
 
-- 品牌： 型號： 參考編號/年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
+- 品牌： 型號： 參考編號 / 年份： 資料提供者： | 9 point DFHeiMedium (Chinese)
 
 - Characters of brand, model, reference number, year and information provider on the right | 9 point Helvetica Roman (English) 7.5 point DFHeiMedium (Chinese)
 
@@ -658,15 +654,15 @@ SPECIFICATION OF ENERGY LABELS
 
     - (3) The energy label may be attached to the storage type electric water heater or its packaging in a manner specified by the Director where the Director has approved its being so attached.
 
-- (Part 8 added L.N. 4 of 2018)
-
-- Part 9 Requirements to be Complied with by Energy Label for Induction Cookers
+- Part 9 Requirements to be Complied with by Energy Label for Induction Cookers (Part 9 added L.N. 4 of 2018)
 
   - 1. The colour and design of the energy label must be as specified in the diagram below—
 
   - 2. The dimensions of the energy label must be as specified in the diagram below—
 
-  - 3. The energy label under section 1 of this Part is divided into 3 rectangular areas (marked I, II and III by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table H in relation to the area specified opposite to that information in column 1 of the Table. Table H
+  - 3. The energy label under section 1 of this Part is divided into 3 rectangular areas (marked I, II and III by the side of the label). The information to be contained in each area of the energy label is specified in column 2 of Table H in relation to the area specified opposite to that information in column 1 of the Table.
+
+- Table H
 
 - Area | Information to be contained
 
@@ -706,7 +702,7 @@ SPECIFICATION OF ENERGY LABELS
 
 - Ref/Yr | 11.8 point Helvetica Neue Medium (English)
 
-- 編號/年份： | 10.8 point DFHeiBold (Chinese)
+- 編號 / 年份： | 10.8 point DFHeiBold (Chinese)
 
 - Characters of reference number and year | 11.8 point Helvetica Neue Medium (English)
 
@@ -725,9 +721,3 @@ SPECIFICATION OF ENERGY LABELS
     - (2) To avoid doubt, if only part of the induction cooker is being exhibited, the energy label is to be attached or affixed to a prominent position of that part and is to be clearly visible.
 
     - (3) The energy label may be attached to the induction cooker or its packaging in a manner specified by the Director where the Director has approved its being so attached.
-
-- (Part 9 added L.N. 4 of 2018)
-
-Editorial Note:
-
-\## | For the transitional arrangements relating to specified washing machines and reverse cycle air conditioners, please see Part 3 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedules) Order 2018 (L.N. 4 of 2018).

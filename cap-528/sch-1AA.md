@@ -1,20 +1,20 @@
-# SCHEDULE 1AA
+# Schedule 1AA
 
 [s. 119B]
 
-CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT OF MAKING OR DISTRIBUTION OF INFRINGING COPIES)
+Circumstances in which Section 119B(1) of this Ordinance does not Apply (Extent of Making or Distribution of Infringing Copies)
 
-- PART 1 INTRODUCTORY
+- Part 1 Introductory
 
   - 1. Interpretation
 
     - (1) In this Schedule—
 
-      - “A4 size” (A4 尺寸) means a size measuring 29.7 cm × 21 cm;
+      - A4 size (A4 尺寸) means a size measuring 29.7 cm × 21 cm;
 
-      - “infringing page” (侵犯版權頁) means a page that embodies, whether in whole or in part, an infringing copy of any copyright work in a printed form that is contained in a magazine, periodical (other than a specified journal) or newspaper;
+      - infringing page (侵犯版權頁) means a page that embodies, whether in whole or in part, an infringing copy of any copyright work in a printed form that is contained in a magazine, periodical (other than a specified journal) or newspaper;
 
-      - “marked retail price” (標示零售價)—
+      - marked retail price (標示零售價)—
 
         - (a) in relation to a copy of a book, means its retail price as printed in or on it by the publisher;
 
@@ -22,9 +22,9 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
         - (c) in relation to a copy of an issue of a specified journal, means its retail price as printed in or on it by the publisher;
 
-      - “marked subscription price” (標示訂閱價), in relation to a specified journal, means the subscription price of the journal as printed in or on a copy of an issue of the journal by the publisher;
+      - marked subscription price(標示訂閱價), in relation to a specified journal, means the subscription price of the journal as printed in or on a copy of an issue of the journal by the publisher;
 
-      - “qualifying copy” (限定複製品)—
+      - qualifying copy (限定複製品)—
 
         - (a) in relation to a book, means a set of pages, whether in a printed or electronic form, that embodies, whether in whole or in part, an infringing copy of any copyright work in a printed form that is contained in a copy of the book, and corresponds to more than 25% of the printed pages of that copy of the book; or
 
@@ -34,7 +34,7 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
           - (ii) a set of pages, whether in a printed or electronic form, that embodies an infringing copy made from the whole of an article in a printed copy of an issue of the journal, and corresponds to not more than 25% of the printed pages of that copy of the issue;
 
-      - “recommended retail price” (建議零售價)—
+      - recommended retail price (建議零售價)—
 
         - (a) in relation to a copy of a book, means its retail price as recommended by the publisher before any discount is given to traders or consumers;
 
@@ -42,9 +42,9 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
         - (c) in relation to a copy of an article in an issue of a specified journal, means its retail price as recommended by the publisher before any discount is given to traders or consumers;
 
-      - “recommended subscription price” (建議訂閱價), in relation to a specified journal, means its subscription price as recommended by the publisher before any discount is given to traders or consumers;
+      - recommended subscription price (建議訂閱價), in relation to a specified journal, means its subscription price as recommended by the publisher before any discount is given to traders or consumers;
 
-      - “specified journal” (指明期刊) means a periodical that contains scholarly articles relating to a discipline, normally at least one of which in an issue has been peer-reviewed by one or more than one expert or scholar in the discipline.
+      - specified journal (指明期刊) means a periodical that contains scholarly articles relating to a discipline, normally at least one of which in an issue has been peer-reviewed by one or more than one expert or scholar in the discipline.
 
     - (2) Expressions used in this Schedule that are defined for the purposes of Part II (copyright) of this Ordinance have the same meaning as in that Part.
 
@@ -54,9 +54,7 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
     - (b) if no such rate is published, the representative exchange rate published by the International Monetary Fund in respect of that other currency.
 
-- PART 2 EXTENT OF MAKING OR DISTRIBUTION
-
-- OF INFRINGING COPIES
+- Part 2 Extent of Making or Distribution of Infringing Copies
 
   - 3. Magazines, periodicals (other than specified journals) and newspapers
 
@@ -72,17 +70,17 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
     - (2) Section 119B(1) of this Ordinance does not apply to the distribution by a person, within any period of 180 days, of infringing copies of one or more than one copyright work in a printed form that is contained in books or specified journals if the total value of qualifying copies distributed by the person within that period does not exceed $6,000.
 
-    - (3) Section 119B(1) of this Ordinance does not apply to the making for distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a book if the set of pages embodying such infringing copies made by the person does not fall within the meaning of paragraph (a) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (3) Section 119B(1) of this Ordinance does not apply to the making for distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a book if the set of pages embodying such infringing copies made by the person does not fall within the meaning of paragraph (a) of the definition of qualifying copy in section 1(1) of this Schedule.
 
-    - (4) Section 119B(1) of this Ordinance does not apply to the making for distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a specified journal if the set of pages embodying such infringing copies made by the person does not fall within the meaning of paragraph (b) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (4) Section 119B(1) of this Ordinance does not apply to the making for distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a specified journal if the set of pages embodying such infringing copies made by the person does not fall within the meaning of paragraph (b) of the definition of qualifying copy in section 1(1) of this Schedule.
 
-    - (5) Section 119B(1) of this Ordinance does not apply to the distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a book if the set of pages embodying such infringing copies distributed by the person does not fall within the meaning of paragraph (a) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (5) Section 119B(1) of this Ordinance does not apply to the distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a book if the set of pages embodying such infringing copies distributed by the person does not fall within the meaning of paragraph (a) of the definition of qualifying copy in section 1(1) of this Schedule.
 
-    - (6) Section 119B(1) of this Ordinance does not apply to the distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a specified journal if the set of pages embodying such infringing copies distributed by the person does not fall within the meaning of paragraph (b) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (6) Section 119B(1) of this Ordinance does not apply to the distribution by a person of infringing copies of one or more than one copyright work in a printed form that is contained in a specified journal if the set of pages embodying such infringing copies distributed by the person does not fall within the meaning of paragraph (b) of the definition of qualifying copy in section 1(1) of this Schedule.
 
     - (7) Part 4 of this Schedule sets out provisions relating to the determination of the value of qualifying copies for the purposes of subsections (1) and (2).
 
-- PART 3 CALCULATION OF TOTAL NUMBER OF INFRINGING PAGES
+- Part 3 Calculation of Total Number of Infringing Pages
 
   - 5. Calculation of total number of infringing pages
 
@@ -104,25 +102,25 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
       - (b) if any of the infringing pages are larger than A4 size, the number of those infringing pages shall be adjusted upward in proportion to the difference between the size of those infringing pages and an infringing page of A4 size, with the result expressed to 2 decimal places without rounding off;
 
-      - (c) if any of the infringing pages embody, whether in whole or in part, an image (referred to in this paragraph as “the reduced image”) of an infringing copy that has been reduced in size from the image (referred to in this paragraph as “the original image”) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted upward in proportion to the difference between the size of the reduced image and that of the original image, with the result expressed to 2 decimal places without rounding off; and
+      - (c) if any of the infringing pages embody, whether in whole or in part, an image (referred to in this paragraph as the reduced image) of an infringing copy that has been reduced in size from the image (referred to in this paragraph as the original image) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted upward in proportion to the difference between the size of the reduced image and that of the original image, with the result expressed to 2 decimal places without rounding off; and
 
-      - (d) if any of the infringing pages embody, whether in whole or in part, an image (referred to in this paragraph as “the enlarged image”) of an infringing copy that has been enlarged in size from the image (referred to in this paragraph as “the original image”) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted downward in proportion to the difference between the size of the enlarged image and that of the original image, with the result expressed to 2 decimal places without rounding off.
+      - (d) if any of the infringing pages embody, whether in whole or in part, an image (referred to in this paragraph as the enlarged image) of an infringing copy that has been enlarged in size from the image (referred to in this paragraph as the original image) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted downward in proportion to the difference between the size of the enlarged image and that of the original image, with the result expressed to 2 decimal places without rounding off.
 
     - (4) In calculating the total number of infringing pages made or distributed in electronic form—
 
       - (a) all images of infringing copies embodied in the documents so made or distributed shall be printed on paper of A4 size and each side of such printout is taken to be one infringing page;
 
-      - (b) if any of the infringing pages so printed embody, whether in whole or in part, an image (referred to in this paragraph as “the reduced image”) of an infringing copy that has been reduced in size from the image (referred to in this paragraph as “the original image”) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted upward in proportion to the difference between the size of the reduced image and that of the original image, with the result expressed to 2 decimal places without rounding off; and
+      - (b) if any of the infringing pages so printed embody, whether in whole or in part, an image (referred to in this paragraph as the reduced image) of an infringing copy that has been reduced in size from the image (referred to in this paragraph as the original image) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted upward in proportion to the difference between the size of the reduced image and that of the original image, with the result expressed to 2 decimal places without rounding off; and
 
-      - (c) if any of the infringing pages so printed embody, whether in whole or in part, an image (referred to in this paragraph as “the enlarged image”) of an infringing copy that has been enlarged in size from the image (referred to in this paragraph as “the original image”) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted downward in proportion to the difference between the size of the enlarged image and that of the original image, with the result expressed to 2 decimal places without rounding off.
+      - (c) if any of the infringing pages so printed embody, whether in whole or in part, an image (referred to in this paragraph as the enlarged image) of an infringing copy that has been enlarged in size from the image (referred to in this paragraph as the original image) of the work from which the infringing copy was made, the number of those infringing pages shall be adjusted downward in proportion to the difference between the size of the enlarged image and that of the original image, with the result expressed to 2 decimal places without rounding off.
 
-- PART 4 DETERMINATION OF VALUE OF QUALIFYING COPIES
+- Part 4 Determination of Value of Qualifying Copies
 
   - 6. Determination of value of qualifying copies made from books
 
-    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (a) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (a) of the definition of qualifying copy in section 1(1) of this Schedule.
 
-    - (2) A qualifying copy is taken to have the same value as a copy of a book (referred to in this section as a “comparable copy”) that—
+    - (2) A qualifying copy is taken to have the same value as a copy of a book (referred to in this section as a comparable copy) that—
 
       - (a) is not an infringing copy; and
 
@@ -136,7 +134,7 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
       - (c) if the comparable copy has neither a marked retail price nor a recommended retail price, subject to subsection (4), the market value of the comparable copy in so far as it is readily ascertainable.
 
-    - (4) If the comparable copy forms one of the volumes in a copy of a publication series or multi-volume set (referred to in this section as a “comparable set”), and the comparable copy has neither a marked retail price nor a recommended retail price, the value of the comparable copy is taken to be—
+    - (4) If the comparable copy forms one of the volumes in a copy of a publication series or multi-volume set (referred to in this section as a comparable set), and the comparable copy has neither a marked retail price nor a recommended retail price, the value of the comparable copy is taken to be—
 
       - (a) a fraction of the marked retail price of the comparable set in which the denominator is the total number of printed pages of the comparable set and the numerator is the number of printed pages of the comparable copy, with the result expressed to 2 decimal places without rounding off; or
 
@@ -162,21 +160,21 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
   - 7. Determination of value of qualifying copies made from specified journals (general provisions)
 
-    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (b) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (b) of the definition of qualifying copy in section 1(1) of this Schedule.
 
     - (2) If—
 
-      - (a) a qualifying copy within the meaning of paragraph (b)(i) of the definition of “qualifying copy” in section 1(1) of this Schedule is made from a copy of an issue of a specified journal; and
+      - (a) a qualifying copy within the meaning of paragraph (b)(i) of the definition of qualifying copy in section 1(1) of this Schedule is made from a copy of an issue of a specified journal; and
 
-      - (b) that qualifying copy consists of one or more than one qualifying copy within the meaning of paragraph (b)(ii) of the definition of “qualifying copy” in section 1(1) of this Schedule,
+      - (b) that qualifying copy consists of one or more than one qualifying copy within the meaning of paragraph (b)(ii) of the definition of qualifying copy in section 1(1) of this Schedule,
 
     - in determining the total value of the qualifying copies referred to in paragraphs (a) and (b), only the value of the qualifying copy referred to in paragraph (a) is to be taken into account.
 
   - 8. Determination of value of qualifying copies made from specified journals (issues)
 
-    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (b)(i) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (b)(i) of the definition of qualifying copy in section 1(1) of this Schedule.
 
-    - (2) A qualifying copy is taken to have the same value as a copy of an issue of a specified journal (referred to in this section as a “comparable copy”) that—
+    - (2) A qualifying copy is taken to have the same value as a copy of an issue of a specified journal (referred to in this section as a comparable copy) that—
 
       - (a) is not an infringing copy; and
 
@@ -210,9 +208,9 @@ CIRCUMSTANCES IN WHICH SECTION 119B(1) OF THIS ORDINANCE DOES NOT APPLY (EXTENT 
 
   - 9. Determination of value of qualifying copies made from specified journals (articles)
 
-    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (b)(ii) of the definition of “qualifying copy” in section 1(1) of this Schedule.
+    - (1) This section applies to the determination, for the purposes of section 4(1) and (2) of this Schedule, of the value of qualifying copies within the meaning of paragraph (b)(ii) of the definition of qualifying copy in section 1(1) of this Schedule.
 
-    - (2) A qualifying copy is taken to have the same value as a copy of an article in an issue of a specified journal (referred to in this section as a “comparable copy”) that—
+    - (2) A qualifying copy is taken to have the same value as a copy of an article in an issue of a specified journal (referred to in this section as a comparable copy) that—
 
       - (a) is not an infringing copy; and
 

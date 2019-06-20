@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [rr. 2, 10 & 13 & Sch. 2] (L.N. 173 of 2016)
 
-EXCLUSIONS AND CONDITIONS
+Exclusions and Conditions
 
 - 1. Exclusions
 
@@ -40,7 +40,7 @@ EXCLUSIONS AND CONDITIONS
 
       - (v) in respect of any liability incurred in connection with a Practice conducted wholly outside Hong Kong;
 
-      - (vi) made by Carrian Investments Limited (“CIL”), Carrian Holdings Limited (“CHL”) or any of their respective subsidiary (which has the same meaning as in section 15 of the Companies Ordinance (Cap. 622)) or associate companies or by the shareholders, creditors or liquidators of any of them in respect of professional or other work done by the indemnified for or on behalf of or for the benefit of CIL, CHL or any of their respective subsidiary or associate companies at any time prior to the liquidation of such companies but the Company shall remain liable in respect of professional or other work done for or on behalf of or for the benefit of the liquidators of such companies; (28 of 2012 ss. 912 & 920)
+      - (vi) made by Carrian Investments Limited (CIL), Carrian Holdings Limited (CHL) or any of their respective subsidiary (which has the same meaning as in section 15 of the Companies Ordinance (Cap. 622)) or associate companies or by the shareholders, creditors or liquidators of any of them in respect of professional or other work done by the indemnified for or on behalf of or for the benefit of CIL, CHL or any of their respective subsidiary or associate companies at any time prior to the liquidation of such companies but the Company shall remain liable in respect of professional or other work done for or on behalf of or for the benefit of the liquidators of such companies; (28 of 2012 ss. 912 & 920)
 
       - (vii) notwithstanding paragraph 7 but without prejudice to the generality of paragraph 8(8), where non-compliance by the indemnified with a condition of these rules has involved or led to a substantial prejudice, whether or not capable of measurement in monetary terms, to the handling or settlement of the claim; (L.N. 58 of 1993)
 
@@ -68,11 +68,11 @@ EXCLUSIONS AND CONDITIONS
 
     - (a)
 
-      - “Computer Equipment” (電腦設備) includes but is not limited to any or any combination or part of data, computer hardware, firmware, operating system, application, software, computer chip including microprocessor chip or embedded control logic which is integrated or incorporated into another product or component, and any equipment, system, medium or device for processing, transmitting, storing or retrieving data, irrespective of by whom it is owned or operated;
+      - Computer Equipment (電腦設備) includes but is not limited to any or any combination or part of data, computer hardware, firmware, operating system, application, software, computer chip including microprocessor chip or embedded control logic which is integrated or incorporated into another product or component, and any equipment, system, medium or device for processing, transmitting, storing or retrieving data, irrespective of by whom it is owned or operated;
 
     - (b)
 
-      - “Year 2000 Compliant” (符合2000年數位標準) means that neither the performance nor functionality of any Computer Equipment is affected by any date or dates prior to, during or after Year 2000 and, in particular but without limitation, that—
+      - Year 2000 Compliant (符合2000年數位標準) means that neither the performance nor functionality of any Computer Equipment is affected by any date or dates prior to, during or after Year 2000 and, in particular but without limitation, that—
 
       - (i) no value for current date will cause any interruption or error in operation;
 
@@ -102,7 +102,7 @@ EXCLUSIONS AND CONDITIONS
 
     - (a) Where—
 
-      - (i) a claim (“first-mentioned claim”) is made against the indemnified or a former solicitor in any indemnity period; and
+      - (i) a claim (first-mentioned claim) is made against the indemnified or a former solicitor in any indemnity period; and
 
       - (ii) one or more claim has been made against the same indemnified or former solicitor in that indemnity period or the 2 preceding indemnity periods,
 
@@ -174,7 +174,7 @@ EXCLUSIONS AND CONDITIONS
 
   - (2) It shall be a condition precedent of the right of the Company on behalf of the fund to such reimbursement that it shall first have provided full Indemnity for the indemnified by payment (up to the limits contained in paragraphs 2 and 3) in or towards satisfying, or in or towards enabling the indemnified to satisfy the claim and claimants’ costs in accordance with the terms hereof. (L.N. 58 of 1993)
 
-- 8. General Conditions
+- 8. General conditions (E.R. 2 of 2019)
 
   - (1)
 
@@ -216,7 +216,7 @@ EXCLUSIONS AND CONDITIONS
 
       - (xiv)
 
-        - For the purpose of sub-sub-subparagraph (i), “contest” (爭辯) includes a contest in respect of the defence, prosecution, appeal or taking of interlocutory or any ancillary steps or procedures in legal proceedings to which a claim relates.
+        - For the purpose of sub-sub-subparagraph (i), contest (爭辯) includes a contest in respect of the defence, prosecution, appeal or taking of interlocutory or any ancillary steps or procedures in legal proceedings to which a claim relates.
 
       - (xv) For the purpose of this sub-subparagraph, costs of the reference to the counsel include fees of the counsel. (L.N. 266 of 1999; L.N. 173 of 2016)
 
