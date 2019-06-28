@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3, 7 & 45]
 
-PROVISIONS WITH RESPECT TO MEMBERS, PROCEEDINGS, COMMITTEES AND FINANCES OF, AND EXECUTION OF DOCUMENTS BY, AND OTHER MISCELLANEOUS MATTERS OF, COUNCIL
+Provisions with respect to Members, Proceedings, Committees and Finances of, and Execution of Documents by, and Other Miscellaneous Matters of, Council
 
 Members of Council
 
@@ -34,7 +34,7 @@ Members of Council
 
 - 6. Fees and allowances to Chairman, Vice-Chairmen and appointed members The Council may pay the Chairman, Vice-Chairmen and appointed members such fees and allowances as the Chief Executive may determine.
 
-Execution of documents by Council
+Execution of Documents by Council
 
 - 7. Seal and documents of Council
 
@@ -102,7 +102,7 @@ Proceedings of Council
 
 - 13. Disclosure of interest in matters other than reportable complaints and notifiable complaints
 
-  - (1) If a member of the Council has an interest (whether directly or indirectly) in a matter (“the Matter”) being discussed or to be discussed at a meeting of the Council and the Matter is neither a reportable complaint (including related matter) nor a notifiable complaint (including related matter), then the member—
+  - (1) If a member of the Council has an interest (whether directly or indirectly) in a matter (the Matter) being discussed or to be discussed at a meeting of the Council and the Matter is neither a reportable complaint (including related matter) nor a notifiable complaint (including related matter), then the member—
 
     - (a) must disclose the nature of his interest at or before the meeting;
 
@@ -182,7 +182,7 @@ Committees of Council
 
 - 21. Disclosure of interest in matters other than reportable complaints and notifiable complaints
 
-  - (1) If a member of a committee has an interest (whether directly or indirectly) in a matter (“the Matter”) being discussed or to be discussed at a meeting of the committee and the Matter is neither a reportable complaint (including related matter) nor a notifiable complaint (including related matter), then the member—
+  - (1) If a member of a committee has an interest (whether directly or indirectly) in a matter (the Matter) being discussed or to be discussed at a meeting of the committee and the Matter is neither a reportable complaint (including related matter) nor a notifiable complaint (including related matter), then the member—
 
     - (a) must disclose the nature of his interest at or before the meeting;
 
@@ -232,9 +232,13 @@ Finances of Council
 
 - 27. Financial year The financial year of the Council is—
 
-  - (a) the period beginning on the date of commencement of this Ordinance and ending on 31 March in the next following year; and
+  - (a) the period beginning on the date of commencement* of this Ordinance and ending on 31 March in the next following year; and
 
   - (b) the period of 12 months ending on 31 March in each subsequent year.
+
+- Editorial Note:
+
+- * Commencement date: 1 June 2009.
 
 - 28. Council to keep proper accounts
 
@@ -282,7 +286,7 @@ Finances of Council
 
   - (4) Subsection (1) does not entitle the Director of Audit to question the merits of the policy objectives of the Council.
 
-Miscellaneous matters
+Miscellaneous Matters
 
 - 32. Delegation of functions
 

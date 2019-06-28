@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 35 & 45]
 
-PROVISIONS WITH RESPECT TO OBSERVERS
+Provisions with respect to Observers
 
 - 1. Term of office of observers An observer—
 
