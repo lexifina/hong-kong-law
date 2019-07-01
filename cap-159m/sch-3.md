@@ -94,7 +94,7 @@ Exclusions and Conditions
 
     - (b) where the indemnified is a partnership, in respect of any claim against that partnership or its predecessors in business, the first $20,000 of any one claim multiplied by the number of principals in the firm at the relevant date;
 
-    - (c) in addition to sub-subparagraph (a) or (b), $15,000 of any one claim multiplied by the number of assistant solicitors and consultants in the firm at the relevant date.
+    - (c) in addition to sub-subparagraph (a) or (b), $15,000 of any one claim multiplied by the number of assistant solicitors, foreign lawyers and consultants in the firm at the relevant date. (L.N. 51 of 2019)
 
   - (3) Notwithstanding subparagraph (2), the aggregate of the amounts set out in subparagraph (2)(a) or (b) and (c) in respect of any firm shall not exceed the first $200,000 of any one claim.
 
@@ -116,7 +116,7 @@ Exclusions and Conditions
 
     - (b) For the purpose of sub-subparagraph (a), a number of claims arising out of the same act or omission shall be treated as one claim. (L.N. 162 of 2001)
 
-- 3. Extent of former solicitors Indemnity
+- 3. Extent of Indemnity to former solicitors and former employees (L.N. 51 of 2019)
 
   - (1)
 
@@ -153,6 +153,8 @@ Exclusions and Conditions
       - (ii) the first $20,000 of any one claim where he was in Practice as a partner at the date when he ceased to be a solicitor in Practice in Hong Kong;
 
       - (iii) the first $15,000 of any one claim where he was in Practice as an assistant solicitor or consultant at the date when he ceased to be a solicitor in Practice in Hong Kong.
+
+    - (c) If any person (other than a former solicitor described in sub-subparagraph (a)) who was employed or who worked in connection with the Practice ceases to be employed or to work in connection with the Practice on or after 1 July 2019, he or she must be provided with Indemnity under rule 10(2) for that part of his or her loss that exceeds $15,000 and up to but not exceeding $10,000,000 in respect of any one claim. (L.N. 51 of 2019)
 
   - (3) In applying rule 16 for the purpose of this paragraph, the reference to “principal” in that rule shall be taken as a reference to “former solicitor”. (L.N. 162 of 2001)
 

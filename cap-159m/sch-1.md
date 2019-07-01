@@ -4,7 +4,7 @@
 
 Contributions to Fund
 
-- 1. Obligation to make contributions Every principal in Practice shall, in respect of himself and of all assistant solicitors and consultants in his firm, make or cause to be made the contributions as are set out in paragraph 2 in respect of that Practice.
+- 1. Obligation to make contributions Every principal in Practice shall, in respect of himself and of all assistant solicitors, foreign lawyers and consultants in his firm, make or cause to be made the contributions as are set out in paragraph 2 in respect of that Practice. (L.N. 51 of 2019)
 
 - 2. Calculation of contribution
 
@@ -24,7 +24,7 @@ Contributions to Fund
 
       - N | ＝ | number of principals (as at 31 July immediately preceding such indemnity period);
 
-      - M | ＝ | number of assistant solicitors and consultants (as at 31 July immediately preceding such indemnity period); and
+      - M | ＝ | number of assistant solicitors, consultants (as at 31 July immediately preceding such indemnity period) and foreign lawyers (as at 31 July immediately preceding such indemnity period commencing on or after 1 July 2019); and
 
       - S | ＝ | the amount established from the following table—
 
@@ -80,7 +80,7 @@ Contributions to Fund
 
       - over 100 | 0.73% × gross fee income
 
-      - and the gross fee income of the firm shall be determined by the particulars contained in the gross fee income report produced under rule 8(1)(a) plus a factor to be applied by the Company to this figure to compensate for the historical basis of the gross fee income calculation (such factor not to exceed 10%) and shall be subject to adjustment as provided in sub-subparagraph (b)(iv); or (L.N. 162 of 2001; L.N. 154 of 2007)
+      - and the gross fee income of the firm shall be determined by the particulars contained in the gross fee income report produced under rule 8(1)(a) plus a factor to be applied by the Company to this figure to compensate for the historical basis of the gross fee income calculation (such factor not to exceed 10%) and shall be subject to adjustment as provided in sub-subparagraph (b)(iv); or (L.N. 162 of 2001; L.N. 154 of 2007; L.N. 51 of 2019)
 
       - (ii) in the circumstances set out in subparagraph (6), according to the formula—
 
@@ -94,11 +94,13 @@ Contributions to Fund
 
     - (b)
 
-      - (i) The contribution for the first indemnity period and for all subsequent indemnity periods shall be regulated by the number of principals, assistant solicitors and consultants engaged or employed in the Practice from time to time and the gross fee income of the firm.
+      - (i) The contribution for the first indemnity period and for all subsequent indemnity periods shall be regulated by the number of principals, assistant solicitors, consultants, and from 1 July 2019 onwards, foreign lawyers, engaged or employed in the Practice from time to time and the gross fee income of the firm. (L.N. 51 of 2019)
 
       - (ii) Information regarding gross fee income of the firm and unqualified staff and the information described as N and M in sub-subparagraph (a) shall be properly recorded and the indemnified shall at all times allow the Company to inspect such records.
 
-      - (iii) Particulars of the names and the position held in the Practice of every principal, assistant solicitor and consultant and the numbers of and positions held by unqualified staff at 1 October 1989 shall be submitted by the firm to the Company on or before 8 October 1989. Thereafter a return shall be sent to the Company on or before the last day of December, March, June and September in each year commencing on 31 December 1989 showing every subsequent change in such particulars (and the date of such change) occurring since the date of the previous return.
+      - (iii) Particulars of the name and the position held in the Practice of every principal, assistant solicitor and consultant and the numbers of and positions held by unqualified staff at 1 October 1989 shall be submitted by the firm to the Company on or before 8 October 1989. Thereafter a return shall be sent to the Company on or before the last day of December, March, June and September in each year commencing on 31 December 1989 showing every subsequent change in such particulars (and the date of such change) occurring since the date of the previous return. (L.N. 51 of 2019)
+
+      - (iiia) From 1 July 2019 onwards, the return referred to in sub-subparagraph (b)(iii) must also include particulars of the name and the position held in the Practice of every foreign lawyer and any change in such particulars since the date of the previous return. (L.N. 51 of 2019)
 
       - (iv) Upon receipt by the Company of the report of gross fee income and information pursuant to rule 8(1) to enable the Company to assess the contribution for the next period of indemnity, the Company will also, based on such information and the other information referred to in sub-subparagraph (b)(iii), calculate and adjust the contribution for the preceding indemnity period in accordance with the formula for calculating the contribution for such preceding indemnity period. Any difference in the amount of the assessed contribution paid for the preceding indemnity period and the contribution established by such calculation shall be met by a further payment by the firm, or in the event of the firm being dissolved prior to payment, by the principals of the firm immediately prior to such dissolution to the Company, or, notwithstanding paragraph 4, by a refund to the firm or such principals by the Company, as the case may be. (L.N. 162 of 1993; L.N. 154 of 2007)
 
@@ -198,7 +200,7 @@ Contributions to Fund
 
   - (c) the number of unqualified staff employed for the purpose of the Practice at any date;
 
-  - (d) the number of assistant solicitors and consultants in a firm at any date;
+  - (d) the number of assistant solicitors, foreign lawyers and consultants in a firm at any date; (L.N. 51 of 2019)
 
   - (e) any information or other matter on the basis of which any adjustment in contribution is assessed in accordance with paragraph 2(1)(b)(iv);
 
