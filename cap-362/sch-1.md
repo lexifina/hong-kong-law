@@ -53,3 +53,5 @@ Socialist Republic of Viet Nam | A date in accordance with Article 4 of Chapter 
 9. | Hong Kong Special Administrative Region and Macao Special Administrative Region Closer Economic Partnership Arrangement (a translation of “《香港特別行政區與澳門特別行政區關於建立更緊密經貿關係的安排》”) signed on 27 October 2017 (Added L.N. 167 of 2018) | Macao Special Administrative Region of China | A date in accordance with Article 34 of Chapter 12 of the Arrangement
 
 10. | Hong Kong, China – Georgia Free Trade Agreement signed on 28 June 2018 (Added L.N. 167 of 2018) | Georgia | A date in accordance with Article 2 of Chapter 18 of the Agreement
+
+11. | Free Trade Agreement between Hong Kong, China and Australia signed on 26 March 2019 (Added L.N. 59 of 2019) | Australia | A date in accordance with Article 20.3 of Chapter 20 of the Agreement
