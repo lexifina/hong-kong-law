@@ -4,11 +4,31 @@
 
 Affairs or Business of Authorized Institutions Specified for Purposes of Definition of Manager
 
-(Format changes—E.R. 1 of 2013)
+(Fourteenth Schedule added 32 of 2001 s. 29) (Format changes—E.R. 1 of 2013)
 
 - 1. In this Schedule—
 
-  - banking or other financial services (銀行或其他財務服務) includes the taking of deposits, the provision of payment and remittance services, the issuance of credit cards, debit cards or stored value facilities, facilities for the purchase or sale of foreign currencies, securities or other financial instruments, the provision of financial advice and the incurring of financial exposure mentioned in section 81(2) of this Ordinance; (Amended 18 of 2015 s. 65)
+  - banking or other financial services (銀行或其他財務服務) includes—
+
+    - (a) the taking of deposits;
+
+    - (b) the provision of payment and remittance services;
+
+    - (c) the issue of credit cards, debit cards or stored value facilities;
+
+    - (d) the provision of facilities for the purchase or sale of foreign currencies, securities or other financial instruments;
+
+    - (e) the provision of financial advice;
+
+    - (f) the incurring of exposures in connection with—
+
+      - (i) the extension of credit;
+
+      - (ii) the provision of guarantees; or
+
+      - (iii) the undertaking of other off-balance sheet exposures; and
+
+    - (g) the entry into contracts of a financial nature; (Replaced 6 of 2018 s. 26)
 
   - corporate banking (公司銀行業務), in relation to an authorized institution, means the provision by the institution of banking or other financial services to companies, but does not include such services so provided as part of the institution’s retail banking;
 
@@ -48,4 +68,4 @@ Affairs or Business of Authorized Institutions Specified for Purposes of Definit
 
 - 7. The conduct of internal audits or inspections of the institution’s affairs or business.
 
-- 8. The function of ensuring that an authorized institution complies with laws, regulations or guidelines that are applicable to it. (Fourteenth Schedule added 32 of 2001 s. 29)
+- 8. The function of ensuring that an authorized institution complies with laws, regulations or guidelines that are applicable to it.
