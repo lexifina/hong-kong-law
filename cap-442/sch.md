@@ -442,6 +442,30 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (f) | to cancel a registration of a registered healthcare provider under section 25(1). (Added 15 of 2015 s. 63 and E.R. 3 of 2015)
 
+75. | Private Healthcare Facilities Ordinance (Cap. 633) | A decision of the Director of Health—
+
+(a) | to refuse to issue a licence under section 17(1)(b);
+
+(b) | to issue a licence subject to particular conditions under section 17(3);
+
+(c) | to refuse to renew a licence under section 21(2);
+
+(d) | to impose particular conditions on renewing a licence under section 21(3);
+
+(e) | to approve an application for variation of the scale or scope of services subject to particular conditions under section 23(3);
+
+(f) | to refuse an application for variation of the scale or scope of services under section 23(4) or (5);
+
+(g) | to approve an application for variation of the class of specialized service subject to particular conditions under section 24(3);
+
+(h) | to refuse an application for variation of the class of specialized service under section 24(4) or (5);
+
+(i) | to suspend or cancel a licence under section 28(1);
+
+(j) | to suspend a facility service under section 29(1); or
+
+(k) | to amend the conditions of a licence under section 37(1). (Added 34 of 2018 s. 141 and E.R. 5 of 2018)
+
 (Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
 Note:
