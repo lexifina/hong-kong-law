@@ -4,9 +4,9 @@
 
 Classes of Specialized Services
 
-(Not yet in operation)
+Column 1 | Column 2 | Column 3
 
-Column 1 Class of specialized services | Column 2 Particular medical procedures | Column 3 Exceptions to medical procedures described in column 2
+Class of specialized services | Particular medical procedures | Exceptions to medical procedures described in column 2
 
 1. Surgical procedure | (a) Creation of surgical wound to allow access to major body cavity or viscus, including access to central large joints | (i) Needle injection (ii) Creation of surgical wound to allow access to peripheral joints distal to knee and elbow
 
@@ -38,17 +38,33 @@ Column 1 Class of specialized services | Column 2 Particular medical procedures 
 
 (c) Therapeutic endoscopic procedure | Minor therapeutic procedure such as removal of foreign body
 
-3. Dental procedure | Maxillofacial surgical procedure that extends beyond dento-alveolar process, including but not limited to— (a) Maxillary osteotomies and mandibular osteotomies (including angle reduction) (b) Open reduction and fixation of complex maxillofacial fracture (c) Surgical treatment of diagnosed malignancies (d) Surgical treatment of complex haemangioma (e) Surgery involving major salivary glands (f) Open surgery of temporomandibular joint (g) Harvesting of autogenous bone from outside oral cavity (h) Primary cleft lip and palate surgery | (i) Temporomandibular arthrocentesis (ii) Temporomandibular arthroscopy
+3. Dental procedure | Maxillofacial surgical procedure that extends beyond dento-alveolar process, including but not limited to— | (i) Temporomandibular arthrocentesis (ii) Temporomandibular arthroscopy
+
+(a) Maxillary osteotomies and mandibular osteotomies (including angle reduction)
+
+(b) Open reduction and fixation of complex maxillofacial fracture
+
+(c) Surgical treatment of diagnosed malignancies
+
+(d) Surgical treatment of complex haemangioma
+
+(e) Surgery involving major salivary glands
+
+(f) Open surgery of temporomandibular joint
+
+(g) Harvesting of autogenous bone from outside oral cavity
+
+(h) Primary cleft lip and palate surgery
 
 4. Chemo-therapy | Administration of chemotherapy (cytotoxic) through parenteral routes regardless of therapeutic indication
 
 5. Haemo-dialysis | Haemodialysis
 
-6. Inter-ventional radiology and lithotripsy | (a) Extracorporeal shock wave lithotripsy (ESWL) requiring image guidance (b) Image-guided core biopsy | (i) Image-guided core biopsy of superficial tissues excluding thyroid or salivary glands (ii) Image-guided core biopsy of superficial and peripheral muscle
+6. Inter-ventional radiology and lithotripsy | (a) Extracorporeal shock wave lithotripsy (ESWL) requiring image guidance
 
-7. Anaesthetic procedure | (a) General anaesthesia
+(b) Image-guided core biopsy | (i) Image-guided core biopsy of superficial tissues excluding thyroid or salivary glands (ii) Image-guided core biopsy of superficial and peripheral muscle
 
-(b) Neuroaxial blocks (including spinal, epidural and caudal)
+7. Anaesthetic procedure | (a) General anaesthesia (b) Neuroaxial blocks (including spinal, epidural and caudal)
 
 (c) Major plexus block (including brachial, lumbar and sacral)
 
@@ -56,8 +72,20 @@ Column 1 Class of specialized services | Column 2 Particular medical procedures 
 
 (e) Intercostal nerve block
 
-(f) Major nerve block— (i) Glossopharyngeal nerve, vagus nerve or their terminal branches (including superior, inferior and recurrent laryngeal nerves); (ii) Sciatic and femoral nerves; (iii) Posterior tibial nerve, pudendal nerve or para-cervical block
+(f) Major nerve block—
+
+(i) Glossopharyngeal nerve, vagus nerve or their terminal branches (including superior, inferior and recurrent laryngeal nerves);
+
+(ii) Sciatic and femoral nerves;
+
+(iii) Posterior tibial nerve, pudendal nerve or para-cervical block
 
 (g) Use of sedative or analgesic drugs with reasonable expectation that it will, in the manner used, result in deep sedation for a significant percentage of a group of patients
 
 (h) Tumescent anaesthesia
+
+8. Radiotherapy | (a) External beam radiotherapy
+
+(b) Brachytherapy
+
+(c) Radionuclide therapy (Added L.N. 86 of 2019)
