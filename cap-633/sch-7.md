@@ -4,8 +4,6 @@
 
 Healthcare Professionals
 
-(Not yet in operation)
-
 1. | A registered pharmacist within the meaning of the Pharmacy and Poisons Ordinance (Cap. 138).
 
 2. | A registered dentist within the meaning of the Dentists Registration Ordinance (Cap. 156).

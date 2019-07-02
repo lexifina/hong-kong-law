@@ -4,8 +4,6 @@
 
 Scheduled Nursing Homes
 
-(Not yet in operation)
-
 (as at 1 April 2017)
 
 Column 1 Name of Nursing Home | Column 2 Address

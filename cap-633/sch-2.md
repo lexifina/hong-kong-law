@@ -4,8 +4,6 @@
 
 Premises Excluded from Definition of Hospital
 
-(Not yet in operation)
-
 - 1. A residential care home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence or a certificate of exemption under that Ordinance is in force.
 
 - 2. A treatment centre within the meaning of the Drug Dependent Persons Treatment and Rehabilitation Centres (Licensing) Ordinance (Cap. 566) for which a licence or a certificate of exemption under that Ordinance is in force.

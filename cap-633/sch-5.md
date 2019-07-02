@@ -4,8 +4,6 @@
 
 Premises in which Outreach Medical Services are Provided as Part of Healthcare Services
 
-(Not yet in operation)
-
 1. | A place of refuge specified in the Schedule to the Protection of Children and Juveniles (Places of Refuge) Order (Cap. 213 sub. leg. B).
 
 2. | A child care centre within the meaning of the Child Care Services Ordinance (Cap. 243) for which a certificate of registration or a certificate of exemption under that Ordinance is in force.
