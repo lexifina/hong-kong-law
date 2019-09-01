@@ -204,9 +204,9 @@ Emission Standards
 
   - Vehicle | Provisions in which emission standard is specified
 
-  - 1. Private car— (a) that is equipped with a positive-ignition engine of indirect-injection type; and (b) the design weight of which does not exceed 3 tonnes. | Section 3(1), (3) or (4) of this Part
+  - 1. Private car— (a) that is equipped with a positive-ignition engine of indirect-injection type; and (b) the design weight of which does not exceed 3 tonnes. | Section 3(2), (3) or (4) of this Part (L.N. 173 of 2018)
 
-  - 2. Private car— (a) that is equipped with a positive-ignition engine of direct-injection type; and (b) the design weight of which does not exceed 3 tonnes. | Sections 3(1), (3) or (4) and 4(1) of this Part
+  - 2. Private car— (a) that is equipped with a positive-ignition engine of direct-injection type; and (b) the design weight of which does not exceed 3 tonnes. | Sections 3(2), (3) or (4) and 4(2) of this Part (L.N. 173 of 2018)
 
   - 3. Private car— (a) that is equipped with a compression-ignition engine; and (b) the design weight of which does not exceed 3 tonnes. | Sections 3(3) and 4(2) of this Part
 
