@@ -1,10 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4, 15 & 28 & Sch. 2]
 
-INFORMATION TO BE PROVIDED TO EXISTING MEMBERS AND NEW ELIGIBLE EMPLOYEES
+Information to be Provided to Existing Members and New Eligible Employees
 
-- PART 1 ORSO EXEMPTED SCHEME AND MPF SCHEME
+(Format changes—E.R. 4 of 2019)
+
+- Part 1 ORSO Exempted Scheme and MPF Scheme
 
   - 1. A statement—
 
@@ -24,7 +26,7 @@ INFORMATION TO BE PROVIDED TO EXISTING MEMBERS AND NEW ELIGIBLE EMPLOYEES
 
       - (ii) the subject of or regulated by an insurance arrangement within the meaning of section 2 of the relevant Ordinance;
 
-    - (b) if neither paragraph (a)(i) or (ii) is applicable, the system which takes the place of a trust or such an insurance arrangement for the scheme;
+    - (b) if neither paragraph (a)(i) nor (ii) is applicable, the system which takes the place of a trust or such an insurance arrangement for the scheme; (E.R. 4 of 2019)
 
     - (c) whether the law of Hong Kong governs the scheme;
 
@@ -62,9 +64,9 @@ INFORMATION TO BE PROVIDED TO EXISTING MEMBERS AND NEW ELIGIBLE EMPLOYEES
 
   - 6. A statement advising the existing member of the relevant date referred to in section 4(2)(a) of this Regulation.
 
-  - 7. The address and telephone and fascimile numbers of a person who can, on behalf of the relevant employer, respond to any questions the existing member or new eligible employee may have concerning the ORSO exempted scheme and MPF scheme.
+  - 7. The address and telephone and facsimile numbers of a person who can, on behalf of the relevant employer, respond to any questions the existing member or new eligible employee may have concerning the ORSO exempted scheme and MPF scheme. (E.R. 4 of 2019)
 
-- PART 2 RELEVANT ORSO REGISTERED SCHEME AND MPF SCHEME
+- Part 2 Relevant ORSO Registered Scheme and MPF Scheme
 
   - 1. A statement—
 
@@ -134,4 +136,4 @@ INFORMATION TO BE PROVIDED TO EXISTING MEMBERS AND NEW ELIGIBLE EMPLOYEES
 
   - 8. A statement advising the existing member of the relevant date referred to in section 15(2)(a) of this Regulation.
 
-  - 9. The address and telephone and fascimile numbers of a person who can, on behalf of the relevant employer, respond to any questions the existing member or new eligible employee may have concerning the relevant ORSO registered scheme and MPF scheme.
+  - 9. The address and telephone and facsimile numbers of a person who can, on behalf of the relevant employer, respond to any questions the existing member or new eligible employee may have concerning the relevant ORSO registered scheme and MPF scheme. (E.R. 4 of 2019)

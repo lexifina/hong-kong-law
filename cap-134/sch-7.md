@@ -1,8 +1,10 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
 [ss. 54AA(7) & 54AC]
 
-APPLICATION FOR AND GIVING OF A MAGISTRATE’S APPROVAL FOR THE TAKING OF A URINE SAMPLE
+Application for and Giving of a Magistrate’s Approval for the Taking of a Urine Sample
+
+(Format changes—E.R. 4 of 2019)
 
 - 1. An application under section 54AA(7) of this Ordinance must be made in Form 1. A copy of the authorization duly given pursuant to section 54AA(2) of this Ordinance and of appropriate consent duly given and signed under section 54AA(6) of this Ordinance must be exhibited to Form 1.
 
@@ -46,68 +48,74 @@ APPLICATION FOR AND GIVING OF A MAGISTRATE’S APPROVAL FOR THE TAKING OF A URIN
 
   - (b) reject the application if he thinks fit to do so.
 
-- 7.
+- 7. The approval under sections 3(a) and 6(a) must be given in Form 2.
 
-- The approval under sections 3(a) and 6(a) must be given in Form 2.
+Form 1
 
-- FORM 1 APPLICATION FOR AN APPROVAL FOR THE
+Application for an Approval for the Taking of a Urine Sample
 
-- TAKING OF A URINE SAMPLE Section 54AA(7) of the Dangerous
+Section 54AA(7) of the Dangerous Drugs Ordinance (Cap. 134)
 
-- Drugs Ordinance (Cap. 134)
+Application No.
 
-- Application No.
+Writ No.
 
-- Writ No.
+TO A MAGISTRATE OF HONG KONG IN THE MAGISTRATES COURT AT .
 
-- TO A MAGISTRATE OF HONG KONG
+I, . (name of the applicant), apply for an approval to the taking of urine sample from . (name of the suspect) on the following grounds—
 
-- IN THE MAGISTRATES COURT AT .
+(a) | . , a police officer of or above the rank of superintendent/a member of the Customs and Excise Service of or above the rank of superintendent* on . (date) has given an authorization (which is exhibited to this form) to the taking of the sample from the said person as he has reasonable grounds—
 
-- I, . (name of the applicant), apply for an approval to the taking of urine sample from . (name of the suspect) on the following grounds—
+(i) | for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap. . ); and
 
-  - (a) . , a police officer of or above the rank of superintendent/a member of the Customs and Excise Service of or above the rank of superintendent* on . (date) has given an authorization (which is exhibited to this form) to the taking of the sample from the said person as he has reasonable grounds—
+(ii) | for believing that the sample will tend to confirm or disprove the commission of the offence by the said person,
 
-    - (i) for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap . ); and
+relying on the following facts—
 
-    - (ii) for believing that the sample will tend to confirm or disprove the commission of the offence by the said person,
+(b) | the appropriate consent has been given (which is exhibited to this form).
 
-  - relying on the following facts—
+Dated this day of (year)
 
-  - (b) the appropriate consent has been given (which is exhibited to this form).
+Applicant (signature)
 
-- Dated this day of (year).
+* Delete whichever is inapplicable.
 
-- .
+_
 
-- Applicant.
+Form 2
 
-- (signature)
+Approval for the Taking of a Urine Sample
 
-- * Delete whichever is inapplicable.
+Section 54AA(7) of the Dangerous Drugs Ordinance (Cap. 134)
 
-- _ FORM 2 APPROVAL FOR THE TAKING OF A URINE SAMPLE Section 54AA(7) of the Dangerous
+Application No.
 
-- Drugs Ordinance (Cap. 134)
+Writ No.
 
-- Application No.
+HONG KONG IN THE MAGISTRATES COURT AT ..
 
-- Writ No.
+To each and all of the police officers of Hong Kong/members of the Customs and Excise Service of Hong Kong*.
 
-- HONG KONG. IN THE MAGISTRATES COURT AT . To each and all of the police officers of Hong Kong/members of the Customs and Excise Service of Hong Kong*.
+APPLICATION has been made to the undersigned, a magistrate of Hong Kong, by . (name of the applicant) on . (date) and the undersigned magistrate, relying on the facts specified in the said application/upon hearing the parties*, has satisfied that—
 
-  - APPLICATION has been made to the undersigned, a magistrate of Hong Kong, by . (name of the applicant) on . (date) and the undersigned magistrate, relying on the facts specified in the said application/upon hearing the parties*, has satisfied that—
+(a) | . , a police officer of or above the rank of superintendent/a member of the Customs and Excise Service of or above the rank of superintendent* on . (date) has duly given an authorization to the taking of the sample from . (name of the suspect);
 
-  - (a) . , a police officer of or above the rank of superintendent/a member of the Customs and Excise Service of or above the rank of superintendent* on . (date) has duly given an authorization to the taking of the sample from . (name of the suspect);
+(b) | there are reasonable grounds—
 
-  - (b) there are reasonable grounds—
+(i) | for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap. . ); and
 
-    - (i) for suspecting that the said person has committed a serious arrestable offence, namely an offence contrary to section . of the . Ordinance (Cap . ); and
+(ii) | for believing that the sample will tend to confirm or disprove the commission of the offence by the said person; and
 
-    - (ii) for believing that the sample will tend to confirm or disprove the commission of the offence by the said person; and
+(c) | the appropriate consent has been duly given.
 
-  - (c) the appropriate consent has been duly given.
+You are herewith approved to take the urine sample from the said person.
 
-  - You are herewith approved to take the urine sample from the said person. Dated this day of (year). . Magistrate [L. S.] * Delete whichever is inapplicable.
+Dated this day of (year)
 
-- (Seventh Schedule added 68 of 2000 s. 3)
+Magistrate
+
+[L. S.]
+
+* Delete whichever is inapplicable.
+
+(Seventh Schedule added 68 of 2000 s. 3. Amended E.R. 4 of 2019)

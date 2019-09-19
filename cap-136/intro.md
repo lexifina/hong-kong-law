@@ -2,4 +2,6 @@ To amend and consolidate the law relating to mental incapacity and the care and 
 
 (Replaced 81 of 1997 s. 2)
 
+(Format changes—E.R. 4 of 2019)
+
 [19 January 1962] G.N.A. 2 of 1962

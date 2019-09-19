@@ -1,5 +1,7 @@
 Telecommunications (Method for Determining Spectrum Utilization Fee) (Spectrum for Auction) Regulation
 
-(Made by the Secretary for Commerce and Economic Development under section 32I of the Telecommunications Ordinance (Cap. 106))
+(Cap. 106, section 32I)
+
+(Enacting provision omitted—E.R. 4 of 2019)
 
 [12 July 2019]

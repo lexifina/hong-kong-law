@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 94 & 112]
 
-ORDERS THAT MAY BE MADE BY TRIBUNAL IN RELATION TO CONTRAVENTIONS OF COMPETITION RULES
+Orders that may be Made by Tribunal in relation to Contraventions of Competition Rules
 
 - 1. Orders The Tribunal may make the following orders with respect to a contravention of the competition rules—
 
@@ -56,7 +56,7 @@ ORDERS THAT MAY BE MADE BY TRIBUNAL IN RELATION TO CONTRAVENTIONS OF COMPETITION
 
   - (b) registrable, as an instrument affecting land, in the Land Registry under that Ordinance in any manner the Land Registrar considers appropriate.
 
-- 3. Interpretation In section 1(j) of this Schedule, a reference to “withholding” includes—
+- 3. Interpretation In section 1(j) of this Schedule, a reference to withholding includes—
 
   - (a) agreeing or threatening to withhold; and
 

@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [s. 161]
 
-MATTERS THAT MUST BE PROVIDED FOR IN MEMORANDUM OF UNDERSTANDING
+Matters that must be Provided for in Memorandum of Understanding
 
 - 1. The manner in which the parties to a Memorandum of Understanding will perform the functions that they have jurisdiction to perform concurrently under this Ordinance.
 

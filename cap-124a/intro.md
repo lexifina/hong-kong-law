@@ -1,4 +1,6 @@
-RESOLUTION OF THE LEGISLATIVE COUNCIL
+Resolution of the Legislative Council
+
+(Format changes—E.R. 4 of 2019)
 
 Resolution made and passed by the Legislative Council under section 17(3A) of the Crown Lands Resumption Ordinance on the 27th July 1977.
 

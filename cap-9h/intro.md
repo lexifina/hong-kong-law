@@ -1,5 +1,7 @@
-JUDGMENTS (FACILITIES FOR ENFORCEMENT) (NORTHERN TERRITORY OF AUSTRALIA) ORDER
+Judgments (Facilities for Enforcement) (Northern Territory of Australia) Order
 
 (Cap. 9, section 6)
 
 [1 June 1957]
+
+(Format changes—E.R. 4 of 2019)

@@ -1,18 +1,24 @@
-# SCHEDULE 9
+# Schedule 9
 
 [s. 177]
 
-TRANSITIONAL AND SAVINGS PROVISIONS
+Transitional and Savings Provisions
 
 - 1. Interpretation In this Schedule—
 
-  - “commencement date” (生效日期) means the date on which Part 11 comes into operation;
+  - *commencement date (生效日期) means the date on which Part 11 comes into operation;
 
-  - “pre-amended Broadcasting (Miscellaneous Provisions) Ordinance” (原有《廣播(雜項條文)條例》) means the Broadcasting (Miscellaneous Provisions) Ordinance (Cap. 391) in force immediately before the commencement date;
+  - pre-amended Broadcasting (Miscellaneous Provisions) Ordinance (原有《廣播(雜項條文)條例》) means the Broadcasting (Miscellaneous Provisions) Ordinance (Cap. 391) in force immediately before the commencement date;
 
-  - “pre-amended Broadcasting Ordinance” (原有《廣播條例》) means the Broadcasting Ordinance (Cap. 562) in force immediately before the commencement date;
+  - pre-amended Broadcasting Ordinance (原有《廣播條例》) means the Broadcasting Ordinance (Cap. 562) in force immediately before the commencement date;
 
-  - “pre-amended Telecommunications Ordinance” (原有《電訊條例》) means the Telecommunications Ordinance (Cap. 106) in force immediately before the commencement date.
+  - pre-amended Telecommunications Ordinance (原有《電訊條例》) means the Telecommunications Ordinance (Cap. 106) in force immediately before the commencement date.
+
+- _____________________
+
+- Editorial Note:
+
+- * Commencement date: 14 December 2015.
 
 - 2. General provisions Subject to sections 3 and 4 of this Schedule, anything that was done under the pre-amended Telecommunications Ordinance, the pre-amended Broadcasting (Miscellaneous Provisions) Ordinance or the pre-amended Broadcasting Ordinance and was in effect immediately before the commencement date is, in so far as it may be done under this Ordinance, to continue to have effect as if it were done under this Ordinance.
 
@@ -20,11 +26,11 @@ TRANSITIONAL AND SAVINGS PROVISIONS
 
   - (1) In this section—
 
-    - “Appeal Board” (上訴委員會) has the meaning given by section 32L of the pre-amended Telecommunications Ordinance;
+    - Appeal Board (上訴委員會) has the meaning given by section 32L of the pre-amended Telecommunications Ordinance;
 
-    - “appeal subject matter” (標的事項) has the meaning given by section 32L of the pre-amended Telecommunications Ordinance;
+    - appeal subject matter (標的事項) has the meaning given by section 32L of the pre-amended Telecommunications Ordinance;
 
-    - “licensee” (持牌人) has the meaning given by section 2(1) of the pre-amended Telecommunications Ordinance.
+    - licensee (持牌人) has the meaning given by section 2(1) of the pre-amended Telecommunications Ordinance.
 
   - (2) Any conduct in relation to a licensee that—
 
@@ -96,9 +102,9 @@ TRANSITIONAL AND SAVINGS PROVISIONS
 
   - (1) In this section—
 
-    - “licensee” (持牌人) has the meaning given by section 2(1) of the pre-amended Broadcasting Ordinance;
+    - licensee (持牌人) has the meaning given by section 2(1) of the pre-amended Broadcasting Ordinance;
 
-    - “pre-amended Ordinance” (《原有條例》) means—
+    - pre-amended Ordinance (《原有條例》) means—
 
       - (a) the pre-amended Broadcasting (Miscellaneous Provisions) Ordinance; or
 

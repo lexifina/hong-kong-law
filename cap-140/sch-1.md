@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [s. 3]
 
-AIR PASSENGER DEPARTURE TAX
+Air Passenger Departure Tax
 
 Amount of Tax
 

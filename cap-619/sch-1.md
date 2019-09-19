@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 9, 15, 24, 30, 36 & 163]
 
-GENERAL EXCLUSIONS FROM CONDUCT RULES
+General Exclusions from Conduct Rules
 
 - 1. Agreements enhancing overall economic efficiency The first conduct rule does not apply to any agreement that—
 
@@ -26,7 +26,7 @@ GENERAL EXCLUSIONS FROM CONDUCT RULES
 
   - (3) In this section—
 
-    - “legal requirement” (法律規定) means a requirement—
+    - legal requirement (法律規定) means a requirement—
 
       - (a) imposed by or under any enactment in force in Hong Kong; or
 
@@ -74,9 +74,9 @@ GENERAL EXCLUSIONS FROM CONDUCT RULES
 
   - (5) In this section—
 
-    - “preceding calendar year” (對上公曆年) means the calendar year preceding the calendar year mentioned in subsection (1)(a), (b) or (c);
+    - preceding calendar year (對上公曆年) means the calendar year preceding the calendar year mentioned in subsection (1)(a), (b) or (c);
 
-    - “turnover” (營業額)—
+    - turnover (營業額)—
 
       - (a) in relation to an undertaking that is not an association of undertakings, means the total gross revenues of the undertaking whether obtained in Hong Kong or outside Hong Kong; and
 
@@ -108,6 +108,6 @@ GENERAL EXCLUSIONS FROM CONDUCT RULES
 
   - (4) In this section—
 
-    - “preceding calendar year” (對上公曆年) means the calendar year preceding the calendar year in which the conduct mentioned in subsection (1) is engaged in;
+    - preceding calendar year (對上公曆年) means the calendar year preceding the calendar year in which the conduct mentioned in subsection (1) is engaged in;
 
-    - “turnover” (營業額) means the total gross revenues of an undertaking whether obtained in Hong Kong or outside Hong Kong.
+    - turnover (營業額) means the total gross revenues of an undertaking whether obtained in Hong Kong or outside Hong Kong.

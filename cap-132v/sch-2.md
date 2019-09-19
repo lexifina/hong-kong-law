@@ -1,10 +1,12 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [reg. 3]
 
-MAXIMUM PERMITTED CONCENTRATION OF CERTAIN METALS PRESENT IN SPECIFIED FOODS
+Maximum Permitted Concentration of Certain Metals Present in Specified Foods
 
-A Metal | B Description of food | C Maximum permitted concentration in parts per million
+A | B | C
+
+Metal | Description of food | Maximum permitted concentration in parts per million
 
 Antimony (Sb) | Cereals and vegetables | 1
 

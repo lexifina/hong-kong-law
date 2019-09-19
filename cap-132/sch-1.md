@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# First Schedule
 
 [ss. 2 & 84]
 
-SCHEDULED OFFENCES
+Scheduled Offences
+
+(Format changes—E.R. 4 of 2019)
 
 Section 51A(4) and (5)
 

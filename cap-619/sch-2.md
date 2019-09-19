@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 65]
 
 Commitments
 
-- PART 1 Procedural Requirements for Acceptance and
+- Part 1 Procedural Requirements for Acceptance and
 
 - Variation of Commitments
 
@@ -62,7 +62,7 @@ Commitments
 
     - for the purpose of bringing the matter to which the notice relates to the attention of those the Commission considers likely to be affected by it.
 
-- PART 2 PROCEDURAL REQUIREMENTS FOR WITHDRAWAL OF ACCEPTANCE OF COMMITMENTS
+- Part 2 Procedural Requirements for Withdrawal of Acceptance of Commitments
 
   - 6. Application Section 7 of this Schedule applies where the Commission proposes to withdraw its acceptance of a commitment under section 61.
 
@@ -106,7 +106,7 @@ Commitments
 
     - for the purpose of bringing the matter to which the notice relates to the attention of those the Commission considers likely to be affected by it.
 
-- PART 3 PROCEDURAL REQUIREMENTS FOR RELEASE OF COMMITMENTS
+- Part 3 Procedural Requirements for Release of Commitments
 
   - 11. Application Section 12 of this Schedule applies where the Commission proposes to release a person from a commitment, under section 62.
 

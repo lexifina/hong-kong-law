@@ -1,9 +1,13 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [reg. 3]
 
-MAXIMUM PERMITTED CONCENTRATION OF CERTAIN METALS NATURALLY PRESENT IN SPECIFIED FOODS
+Maximum Permitted Concentration of Certain Metals Naturally Present in Specified Foods
 
-A Metal | B Description of food | C Maximum permitted concentration in parts per million
+A | B | C
 
-Arsenic (AS2O3) | Solids being fish and fish products Solids being shellfish and shellfish products | 6 10
+Metal | Description of food | Maximum permitted concentration in parts per million
+
+Arsenic (AS2O3) | Solids being fish and fish products | 6
+
+Solids being shellfish and shellfish products | 10

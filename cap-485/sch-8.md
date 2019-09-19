@@ -4,7 +4,7 @@
 
 Associates and Associated Companies
 
-(Amended 1 of 2008 s. 52)
+(Amended 1 of 2008 s. 52) (Schedule 8 replaced 4 of 1998 s. 2) (Format changes—E.R. 1 of 2012)
 
 - Part 1 Associates
 
@@ -98,7 +98,7 @@ Associates and Associated Companies
 
       - (c) one of the persons has appointed the other (otherwise than for valuable consideration given by the other or by an associate of the other) to vote as a proxy or representative at a meeting of members, or of a class of members, of a company.
 
-    - (2) For the purposes of proceedings under this Ordinance in which it is alleged that a person was an associate of another because of paragraph (b) or (e) of section 4(1) of this Schedule, the person is taken to have been an associate of the other in relation to a matter by virtue of that paragraph only if it is proved that the person knew, or ought to have known, at that time the material particulars of that matter.
+    - (2) For the purposes of proceedings under this Ordinance in which it is alleged that a person was an associate of another because of section 4(1)(b) or (e) of this Schedule, the person is taken to have been an associate of the other in relation to a matter by virtue of that paragraph only if it is proved that the person knew, or ought to have known, at that time the material particulars of that matter. (Amended E.R. 4 of 2019)
 
   - 6. Associates of composite persons For the purposes of this Ordinance, a reference to an associate includes, in a case where 2 or more persons constitute the approved trustee of a registered scheme, a reference to an associate of any of those persons.
 
@@ -208,7 +208,7 @@ Associates and Associated Companies
 
   - 18. Effect of this Part A person has a relevant interest in a share for the purposes of this Schedule only as provided by this Part.
 
-- Part 3 ASSOCIATED COMPANIES (Amended 1 of 2008 s. 52)
+- Part 3 Associated Companies (Amended 1 of 2008 s. 52)
 
   - 19. (Repealed 1 of 2008 s. 52)
 
@@ -221,5 +221,3 @@ Associates and Associated Companies
     - (c) is a subsidiary of the other company; or
 
     - (d) is a subsidiary of a company that is an associate of the other company.
-
-(Schedule 8 replaced 4 of 1998 s. 2) (Format changes—E.R. 1 of 2012)

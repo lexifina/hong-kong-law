@@ -1,44 +1,44 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 17 & 28]
 
-MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
+Minimum Standards Applicable to Trustees, etc. of Schemes
+
+(Format changes—E.R. 4 of 2019)
 
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “actuary” (精算師) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+    - actuary (精算師) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A); (E.R. 1 of 2013)
 
-    - “associate” (有聯繫者) has the meaning given by Schedule 8 to the Ordinance;
+    - associate (有聯繫者) has the meaning given by Schedule 8 to the Ordinance;
 
-    - “derivative” (衍生工具) has the same meaning as in Schedule 2 to the Trustee Ordinance (Cap. 29);
+    - derivative (衍生工具) has the same meaning as in Schedule 2 to the Trustee Ordinance (Cap. 29); (E.R. 2 of 2014)
 
-    - “effective exposure” (有效風險) means—
+    - effective exposure (有效風險) means—
 
       - (a) in relation to a derivative contract, the nominal value of the investment multiplied by delta;
 
       - (b) in relation to other kinds of securities and investments, the market value;
 
-    - “employer trustee” (僱主受託人) has the same meaning as in section 25 of the relevant Ordinance;
+    - employer trustee (僱主受託人) has the same meaning as in section 25 of the relevant Ordinance;
 
-    - “investment manager” (投資經理), in relation to a scheme, means a person appointed by a trustee of the scheme to manage the investment of the assets of the scheme;
+    - investment manager (投資經理), in relation to a scheme, means a person appointed by a trustee of the scheme to manage the investment of the assets of the scheme;
 
-    - “market value” (市值) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+    - market value (市值) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A); (E.R. 1 of 2013)
 
-    - “non-employer trustee” (非僱主受託人) has the same meaning as in section 25 of the relevant Ordinance;
+    - non-employer trustee (非僱主受託人) has the same meaning as in section 25 of the relevant Ordinance;
 
-    - “qualified director” (合資格董事), in relation to a company which is a trustee of a scheme, means a director of the company who satisfies the Authority that he has the skill, knowledge, experience and qualifications that are, in the opinion of the Authority, necessary for the successful operation of the scheme;
+    - qualified director (合資格董事), in relation to a company which is a trustee of a scheme, means a director of the company who satisfies the Authority that he has the skill, knowledge, experience and qualifications that are, in the opinion of the Authority, necessary for the successful operation of the scheme;
 
-    - “registered trust company” (註冊信託公司) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+    - registered trust company (註冊信託公司) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A); (E.R. 1 of 2013)
 
-    - “scheme” (計劃) means a relevant ORSO registered scheme to which an exemption certificate issued under section 16(1) of this Regulation relates.
+    - scheme (計劃) means a relevant ORSO registered scheme to which an exemption certificate issued under section 16(1) of this Regulation relates.
 
   - (2)
 
-    - For the purposes of the definition of “effective exposure” (有效風險) in subsection (1), delta is the expected increase or decrease in the market value of the derivative contract given a 1 unit change in the value of the underlying investment.
-
-- (E.R. 1 of 2013; E.R. 2 of 2014)
+    - For the purposes of the definition of effective exposure (有效風險) in subsection (1), “delta” is the expected increase or decrease in the market value of the derivative contract given a 1 unit change in the value of the underlying investment. (E.R. 4 of 2019)
 
 - 2. Trustees and investment manager to exercise appropriate care, skill, diligence and prudence with respect to the administration of a scheme The trustees and investment manager of a scheme shall perform the following duties with respect to the administration of the scheme—
 
@@ -66,7 +66,11 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - (b) is a company authorized by an authority recognized by the Authority to carry on under the law of a place outside Hong Kong the business referred to in paragraph (a). (5 of 2002 s. 407)
 
-  - (2) Subsection (1) shall not of itself prejudice the efficacy of the appointment of the investment manager of a scheme made before the commencement of this section.
+  - (2) Subsection (1) shall not of itself prejudice the efficacy of the appointment of the investment manager of a scheme made before the commencement* of this section.
+
+- Editorial Note:
+
+- * Commencement date: 3 January 2000.
 
 - 4. Investment standards
 
@@ -78,7 +82,7 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
       - (i) paying accrued benefits to or in respect of scheme members, and then only if—
 
-        - (A) the amount borrowed is not more than 10 per cent of the market value of the assets at the relevant time;
+        - (A) the amount borrowed is not more than 10% of the market value of the assets at the relevant time; (E.R. 4 of 2019)
 
         - (B) the borrowing is not part of a series of borrowing; and
 

@@ -4,6 +4,8 @@
 
 Mandatory Conditions
 
+(Format changes—E.R. 3 of 2015)
+
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
@@ -202,33 +204,37 @@ Mandatory Conditions
 
   - (12B) The committee of the estate may, as if it were the member—
 
-  - (a) lodge with the trustee of the scheme a claim for payment of the minimum MPF benefits of the member; or
+    - (a) lodge with the trustee of the scheme a claim for payment of the minimum MPF benefits of the member; or
 
-  - (b) continue with a claim initiated by the member. (1 of 2015 s. 53)
+    - (b) continue with a claim initiated by the member. (1 of 2015 s. 53)
 
   - (12C) Subsection (12B) does not apply in relation to a claim made under subsection (10). (1 of 2015 s. 53)
 
   - (12D) In this section—
 
-  - committee of the estate (產業受託監管人)means a committee of the estate appointed under section 11 of the Mental Health Ordinance (Cap. 136);
+    - committee of the estate (產業受託監管人) means a committee of the estate appointed under section 11 of the Mental Health Ordinance (Cap. 136);
 
-  - registered Chinese medicine practitioner (註冊中醫) has the meaning given by section 2(1) of the Chinese Medicine Ordinance (Cap. 549). (1 of 2015 s. 53)
+    - registered Chinese medicine practitioner (註冊中醫) has the meaning given by section 2(1) of the Chinese Medicine Ordinance (Cap. 549). (1 of 2015 s. 53)
 
   - (12E) For the purposes of this section, a new member has permanently ceased employment or self-employment if the member—
 
-  - (a) has ceased all employment with no intention of becoming employed or self-employed again; and
+    - (a) has ceased all employment with no intention of becoming employed or self-employed again; and
 
-  - (b) has ceased all self-employment with no intention of becoming self-employed or employed again. (1 of 2015 s. 53)
+    - (b) has ceased all self-employment with no intention of becoming self-employed or employed again. (1 of 2015 s. 53)
 
   - (12F) For the purposes of this section, a new member departs from Hong Kong permanently if the member departs from Hong Kong to reside elsewhere with no intention of returning for employment or to resettle in Hong Kong as a permanent resident. (1 of 2015 s. 53)
 
   - (12G) A new member who has an illness that is likely to reduce the life expectancy of the member to 12 months or less has a terminal illness for the purposes of this section. (1 of 2015 s. 53)
 
-  - (13) For the purposes of subsection (9)(a) and (9A)— (1 of 2015 s. 53)
+  - (13) For the purposes of subsections (9)(a) and (9A)— (1 of 2015 s. 53)
 
     - (a) (Repealed 1 of 2015 s. 53)
 
-    - (b) a reference to a certificate signed by a registered Chinese medicine practitioner does not include a certificate so signed before the commencement of section 34 of the Certification for Employee Benefits (Chinese Medicine) (Miscellaneous Amendments) Ordinance 2006 (16 of 2006). (16 of 2006 s. 34)
+    - (b) a reference to a certificate signed by a registered Chinese medicine practitioner does not include a certificate so signed before the commencement* of section 34 of the Certification for Employee Benefits (Chinese Medicine) (Miscellaneous Amendments) Ordinance 2006 (16 of 2006). (16 of 2006 s. 34)
+
+- Editorial Note:
+
+- * Commencement date: 1 December 2006.
 
 - 7. Treatment of accrued rights of members who join registered scheme
 
@@ -244,7 +250,7 @@ Mandatory Conditions
 
         - (B) and age only is applicable, his age at the time of such termination shall be used in determining his benefit entitlements;
 
-        - (C) and a combination of period of service and age are applicable, sub-subparagraphs (A) and (B) shall apply as appropriate in determining his benefit entitlements;
+        - (C) and a combination of period of service and age is applicable, sub-subparagraphs (A) and (B) shall apply as appropriate in determining his benefit entitlements; (E.R. 4 of 2019)
 
     - (b) for a defined benefit scheme—
 
@@ -302,8 +308,4 @@ Mandatory Conditions
 
   - (b) accompanied by the prescribed fee.
 
-- 11. Reporting of changes to governing rules of scheme
-
-- The trustee of a relevant scheme shall give notice in writing to the Authority of any amendments to the governing rules of the scheme upon submission of any return under section 10 and shall attach a copy of the amendments to the notice.
-
-(Format changes—E.R. 3 of 2015)
+- 11. Reporting of changes to governing rules of scheme The trustee of a relevant scheme shall give notice in writing to the Authority of any amendments to the governing rules of the scheme upon submission of any return under section 10 and shall attach a copy of the amendments to the notice.

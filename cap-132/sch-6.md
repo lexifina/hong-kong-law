@@ -1,8 +1,10 @@
-# SCHEDULE 6
+# Sixth Schedule
 
 [s. 131]
 
-NAMES IN WHICH PROCEEDINGS FOR OFFENCES MAY BE BROUGHT UNDER SECTION 131(1)
+Names in which Proceedings for Offences may be brought under Section 131(1)
+
+(Format changes—E.R. 4 of 2019)
 
 Section | Name in which proceedings for offences may be brought
 
@@ -46,47 +48,47 @@ Section | Name in which proceedings for offences may be brought
 
 47 | Director of Food and Environmental Hygiene
 
-50 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
+50 | Director of Food and Environmental Hygiene where the offence committed is in respect of food
 
-Director of Health where the offence committed is in respect of drugs.
+Director of Health where the offence committed is in respect of drugs
 
 51 | Director of Food and Environmental Hygiene
 
 51A | Director of Food and Environmental Hygiene
 
-52 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
+52 | Director of Food and Environmental Hygiene where the offence committed is in respect of food
 
-Director of Health where the offence committed is in respect of drugs.
+Director of Health where the offence committed is in respect of drugs
 
-54 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
+54 | Director of Food and Environmental Hygiene where the offence committed is in respect of food
 
-Director of Health where the offence committed is in respect of drugs.
+Director of Health where the offence committed is in respect of drugs
 
-59 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
+59 | Director of Food and Environmental Hygiene where the offence committed is in respect of food
 
-Director of Health where the offence committed is in respect of drugs.
+Director of Health where the offence committed is in respect of drugs
 
-61 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
+61 | Director of Food and Environmental Hygiene where the offence committed is in respect of food
 
-Director of Health where the offence committed is in respect of drugs.
+Director of Health where the offence committed is in respect of drugs
 
-62 | Director of Food and Environmental Hygiene where the demand or requisition relates to food.
+62 | Director of Food and Environmental Hygiene where the demand or requisition relates to food
 
-Director of Health where the demand or requisition relates to drugs.
+Director of Health where the demand or requisition relates to drugs
 
-63 | Director of Food and Environmental Hygiene where the certificate relates to food.
+63 | Director of Food and Environmental Hygiene where the certificate relates to food
 
-Director of Health where the certificate relates to drugs.
+Director of Health where the certificate relates to drugs
 
 68 | Director of Food and Environmental Hygiene or Director of Health
 
-69 | Director of Food and Environmental Hygiene where the direction is given by him or a public officer authorized by him and the notification is given in relation to food.
+69 | Director of Food and Environmental Hygiene where the direction is given by him or a public officer authorized by him and the notification is given in relation to food
 
-Director of Health where the direction is given by him or a public officer authorized by him and the notification is given in relation to drugs.
+Director of Health where the direction is given by him or a public officer authorized by him and the notification is given in relation to drugs
 
-72 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
+72 | Director of Food and Environmental Hygiene where the offence committed is in respect of food
 
-Director of Health where the offence committed is in respect of drugs.
+Director of Health where the offence committed is in respect of drugs
 
 81 | Director of Food and Environmental Hygiene
 
@@ -128,4 +130,4 @@ Director of Health where the offence committed is in respect of drugs.
 
 128C | Director of Food and Environmental Hygiene
 
-(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5; 3 of 2009 s. 4; 5 of 2011 s. 72)
+(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5; 3 of 2009 s. 4; 5 of 2011 s. 72; E.R. 4 of 2019)

@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Third Schedule
 
 [s. 3]
 
-DESIGNATED AUTHORITIES
+Designated Authorities
 
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+(Format changes—E.R. 4 of 2019)
 
 Section | Designated Authorities
 

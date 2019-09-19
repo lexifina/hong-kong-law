@@ -1,24 +1,24 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 2, 122, 129 & 166]
 
-COMPETITION COMMISSION
+Competition Commission
 
-- PART 1 INTERPRETATION
+- Part 1 Interpretation
 
   - 1. Interpretation In this Schedule—
 
-    - “auditor” (核數師) means the auditor appointed under section 24 of this Schedule;
+    - auditor (核數師) means the auditor appointed under section 24 of this Schedule;
 
-    - “Chairperson” (主席) means the Chairperson of the Commission appointed under section 8 of this Schedule;
+    - Chairperson (主席) means the Chairperson of the Commission appointed under section 8 of this Schedule;
 
-    - “Chief Executive Officer” (行政總裁) means the Chief Executive Officer of the Commission appointed under section 10 of this Schedule;
+    - Chief Executive Officer (行政總裁) means the Chief Executive Officer of the Commission appointed under section 10 of this Schedule;
 
-    - “financial year” (財政年度) means the financial year of the Commission as defined in section 20 of this Schedule;
+    - financial year (財政年度) means the financial year of the Commission as defined in section 20 of this Schedule;
 
-    - “statement of accounts” (帳目報表) means the statement of the accounts of the Commission required to be prepared by section 23 of this Schedule.
+    - statement of accounts (帳目報表) means the statement of the accounts of the Commission required to be prepared by section 23 of this Schedule.
 
-- PART 2 MEMBERS OF COMMISSION
+- Part 2 Members of Commission
 
   - 2. Composition of Commission
 
@@ -76,7 +76,7 @@ COMPETITION COMMISSION
 
     - (3) In this section—
 
-      - “officer” (高級人員) means—
+      - officer (高級人員) means—
 
         - (a) in relation to a corporation, a director, manager or company secretary of the corporation, and any other person involved in the management of the corporation; and
 
@@ -118,7 +118,7 @@ COMPETITION COMMISSION
 
   - 9. Acting chairperson If the Chairperson is temporarily unable to perform the functions of the office of Chairperson because of illness or absence from Hong Kong or for any other cause or if the office of Chairperson becomes vacant, the Chief Executive may appoint another member to act in place of the Chairperson and perform the functions of the office of Chairperson.
 
-- PART 3 CHIEF EXECUTIVE OFFICER, STAFF, ETC.
+- Part 3 Chief Executive Officer, Staff, etc.
 
   - 10. Chief Executive Officer
 
@@ -140,7 +140,7 @@ COMPETITION COMMISSION
 
     - (3) The Commission may provide and maintain schemes (whether contributory or not) for the payment of retirement benefits, gratuities or other allowances to its employees or former employees and their dependants.
 
-- PART 4 MEETINGS
+- Part 4 Meetings
 
   - 12. General procedure for meetings of Commission
 
@@ -206,7 +206,7 @@ COMPETITION COMMISSION
 
     - (d) any irregularity in the procedures adopted by the Commission that does not affect the decision taken.
 
-- PART 5 FINANCIAL PROVISIONS
+- Part 5 Financial Provisions
 
   - 19. Commission to submit estimates The Commission must, not later than 31 December in each financial year, submit to the Chief Executive estimates of its income and expenditure for the next financial year.
 
@@ -228,7 +228,7 @@ COMPETITION COMMISSION
 
     - (2) To avoid doubt, subsection (1) does not apply to or in relation to any remuneration, benefits or expenses paid out of the funds of the Commission to a member of the Commission.
 
-- PART 6 ACCOUNTS, AUDIT AND ACCOUNT REPORT
+- Part 6 Accounts, Audit and Account Report
 
   - 23. Accounts
 
@@ -272,7 +272,9 @@ COMPETITION COMMISSION
 
     - (b) its statement of accounts; and
 
-    - (c) the auditor’s report on the statement of accounts, to the Chief Executive who must arrange for them to be laid on the table of the Legislative Council.
+    - (c) the auditor’s report on the statement of accounts,
+
+  - to the Chief Executive who must arrange for them to be laid on the table of the Legislative Council.
 
   - 27. Director of Audit’s examination
 
@@ -290,7 +292,7 @@ COMPETITION COMMISSION
 
     - (4) Subsection (1) does not operate to entitle the Director of Audit to question the merits of the policy objectives of the Commission.
 
-- PART 7 COMMITTEES
+- Part 7 Committees
 
   - 28. Commission may establish committees
 
@@ -312,7 +314,7 @@ COMPETITION COMMISSION
 
     - (7) Subject to any directions that may be given by the Commission, a committee may regulate its own procedure, including the determination of its quorum.
 
-- PART 8 REGISTER AND DISCLOSURE OF INTERESTS
+- Part 8 Register and Disclosure of Interests
 
   - 29. Register of interest
 
@@ -336,7 +338,7 @@ COMPETITION COMMISSION
 
       - (c) from time to time change any matter determined under paragraph (a) or (b).
 
-    - (3) The Commission is to establish and maintain a register relating to any disclosure required to be made under subsection (1) (the “register”).
+    - (3) The Commission is to establish and maintain a register relating to any disclosure required to be made under subsection (1) (the register).
 
     - (4) If a person makes a disclosure as required by subsection (1), the Commission must cause the person’s name and the particulars of the disclosure to be recorded in the register, and if a further disclosure is made, the Commission must cause the particulars of the further disclosure to be recorded in the register.
 
@@ -382,7 +384,7 @@ COMPETITION COMMISSION
 
     - (7) Subsections (1), (2) and (6) apply to a member of a committee established by the Commission, as if any reference to the Commission in subsections (1) and (6) were a reference to the committee.
 
-- PART 9 DELEGATION
+- Part 9 Delegation
 
   - 31. Delegation by Commission
 
@@ -448,7 +450,7 @@ COMPETITION COMMISSION
 
   - 33. Delegation of power to obtain documents and information Despite section 31 (Delegation by Commission) of this Schedule and section 32 (Subdelegation) of this Schedule, the Commission may delegate its power under section 41 (Powers to obtain documents and information) only to a member of the Commission, and that member may not subdelegate that power.
 
-- PART 10 MISCELLANEOUS
+- Part 10 Miscellaneous
 
   - 34. Rules The Commission may make rules—
 

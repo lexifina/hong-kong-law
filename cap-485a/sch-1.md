@@ -40,7 +40,7 @@ Investment of Scheme Funds
 
         - (c) is a put warrant. (5 of 2002 s. 407; L.N. 145 of 2006)
 
-    - (2) For the purposes of the definition of effective exposure in subsection (1), delta is the expected increase or decrease in the market value of the financial option contract given a 1 unit change in the value of the underlying investment.
+    - (2) For the purposes of the definition of effective exposure in subsection (1), “delta” is the expected increase or decrease in the market value of the financial option contract given a 1 unit change in the value of the underlying investment. (E.R. 4 of 2019)
 
     - (3) For the purposes of this Schedule, a financial futures contract, a financial option contract, a currency forward contract or a put warrant is acquired for hedging purposes if it is of a kind that will have the effect of reducing the impact on existing assets of a constituent fund, or on assets acquired for the fund at the same time as the contract or warrant is acquired, of a possible reduction in the value of those assets.
 

@@ -1,8 +1,10 @@
-# Schedule 5
+# Fifth Schedule
 
 [ss. 2, 113, 113A & 124A] (Amended 8 of 2017 s. 127)
 
 Cemeteries, Crematoria and Gardens of Remembrance
+
+(Format changes—E.R. 1 of 2013)
 
 - Part 1 Public Cemeteries
 
@@ -30,6 +32,10 @@ Cemeteries, Crematoria and Gardens of Remembrance
 
 - (Amended G.N.A. 152 of 1960; 21 of 1973 s. 15; L.N. 269 of 1977; 78 of 1999 s. 7; L.N. 171 of 2012)
 
+- Editorial Note:
+
+- * Declared closed by G.N.A. 18 of 1961.
+
 - Part 2 Private Cemeteries
 
 - Name of Cemetery | Location
@@ -40,9 +46,9 @@ Cemeteries, Crematoria and Gardens of Remembrance
 
 - Castle Peak Christian Cemetery | Tuen Mun, New Territories
 
-- Cheung Chau Christian Cemetery | Cheung Chau, New Territories
-
 - Cheung Chau Catholic Cemetery | Cheung Chau, New Territories
+
+- Cheung Chau Christian Cemetery | Cheung Chau, New Territories
 
 - Chinese Permanent Cemetery | Aberdeen
 
@@ -88,27 +94,23 @@ Cemeteries, Crematoria and Gardens of Remembrance
 
 - Zoroastrian Cemetery | Happy Valley
 
-- (Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7; L.N. 171 of 2012)
+- (Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7; L.N. 171 of 2012; E.R. 4 of 2019)
 
 - Part 2A Persons Specified for Purposes of Section 113A
 
-- (so that Columbaria under the Persons’ Management and Control are Private Cemeteries)
+- (so that Columbaria under the Persons’ Management and Control are Private Cemeteries) (Part 2A added 8 of 2017 s. 127)
 
 - 1. | The Board of Management of the Chinese Permanent Cemeteries, established under the Chinese Permanent Cemeteries Ordinance (Cap. 1112)
 
-- (Part 2A added 8 of 2017 s. 127)
+- Part III—Part IV (Repealed 78 of 1999 s. 7)
 
-- Part III-Part IV (Repealed 78 of 1999 s. 7)
-
-- Part 4A Commonwealth War Graves Commission Cemeteries
+- Part 4A Commonwealth War Graves Commission Cemeteries (Part 4A added 69 of 1976 s. 6)
 
 - Name of Cemetery | Location
 
 - Sai Wan War Cemetery | Cape Collinson Road
 
 - Stanley Military Cemetery | Stanley
-
-- (Part 4A added 69 of 1976 s. 6)
 
 - Part 5 Government Crematoria
 
@@ -161,9 +163,3 @@ Cemeteries, Crematoria and Gardens of Remembrance
 - Wo Hop Shek
 
 - (Part 7 replaced 78 of 1999 s. 7)
-
-(Format changes—E.R. 1 of 2013)
-
-Editorial Note:
-
-* Declared closed G.N.A. 18 of 1961.

@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [s. 12]
 
-PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
+Passengers Exempted from Liability to Pay the Tax
 
 - 1. Direct transit passengers, that is to say passengers arriving at the airport by aircraft from a place outside Hong Kong who—
 

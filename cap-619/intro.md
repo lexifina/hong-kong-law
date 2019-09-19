@@ -2,4 +2,6 @@ An Ordinance to prohibit conduct that prevents, restricts or distorts competitio
 
 [18 January 2013]
 
+(Format changes—E.R. 4 of 2019)
+
 (Enacting provision omitted—E.R. 2 of 2012)

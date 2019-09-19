@@ -1,14 +1,14 @@
-# SCHEDULE 7
+# Schedule 7
 
 [ss. 2, 3, 83 & 162]
 
-MERGERS
+Mergers
 
-- PART 1 PRELIMINARY
+- Part 1 Preliminary
 
   - 1. Interpretation In this Schedule—
 
-    - “carrier licence” (傳送者牌照) means a carrier licence within the meaning of the Telecommunications Ordinance (Cap. 106).
+    - carrier licence (傳送者牌照) means a carrier licence within the meaning of the Telecommunications Ordinance (Cap. 106).
 
   - 2. Territorial application This Schedule applies to a merger even if—
 
@@ -18,7 +18,7 @@ MERGERS
 
     - (c) any party to the arrangements for the creation of the merger, or any party involved in the merger is outside Hong Kong.
 
-- PART 2 THE MERGER RULE
+- Part 2 The Merger Rule
 
   - 3. Mergers substantially lessening competition prohibited
 
@@ -30,13 +30,13 @@ MERGERS
 
       - (b) one or more persons or other undertakings acquire direct or indirect control of the whole or part of one or more other undertakings; or
 
-      - (c) an acquisition by one undertaking (the “acquiring undertaking”) of the whole or part of the assets (including goodwill) of another undertaking (the “acquired undertaking”) has the result set out in subsection (3).
+      - (c) an acquisition by one undertaking (the acquiring undertaking) of the whole or part of the assets (including goodwill) of another undertaking (the acquired undertaking) has the result set out in subsection (3).
 
     - (3) The result referred to in subsection (2)(c) is that the acquiring undertaking is in a position to replace the acquired undertaking, or to substantially replace the acquired undertaking, in the business or in part of the business concerned (as the case requires) in which the acquired undertaking was engaged immediately before the acquisition.
 
     - (4) The creation of a joint venture to perform, on a lasting basis, all the functions of an autonomous economic entity also constitutes a merger within the meaning of subsection (2)(b).
 
-    - (5) The prohibition imposed by subsection (1) is referred to in this Ordinance as the “merger rule”.
+    - (5) The prohibition imposed by subsection (1) is referred to in this Ordinance as the merger rule.
 
   - 4. Application of merger rule The merger rule applies only in the following cases—
 
@@ -82,7 +82,7 @@ MERGERS
 
     - (g) the nature and extent of change and innovation in the market.
 
-- PART 3 INVESTIGATIONS
+- Part 3 Investigations
 
   - 7. Time limit for commencement of investigation of merger
 
@@ -98,7 +98,7 @@ MERGERS
 
     - the date on which the Commission became aware that the merger has taken place is to be taken to be the date of the rescission of its decision.
 
-- PART 4 EXCLUSIONS AND EXEMPTIONS
+- Part 4 Exclusions and Exemptions
 
   - Division 1 Exclusions from Merger Rule
 
@@ -124,7 +124,7 @@ MERGERS
 
         - (b) laid on the table of the Legislative Council at the next sitting of the Council after its publication in the Gazette.
 
-      - (2) The Legislative Council may, by resolution passed at a sitting of the Legislative Council held not later than 28 days after the sitting at which an order is laid on the table of the Council (the “relevant period”), amend the order in any manner consistent with the power of the Chief Executive in Council to make the order in question.
+      - (2) The Legislative Council may, by resolution passed at a sitting of the Legislative Council held not later than 28 days after the sitting at which an order is laid on the table of the Council (the relevant period), amend the order in any manner consistent with the power of the Chief Executive in Council to make the order in question.
 
       - (3) If the relevant period would but for this section expire after the end of a session or a dissolution of the Legislative Council, but on or before the day of its second sitting in the next session, the period for amending the order is deemed to be extended and to expire on the day after that second sitting.
 
@@ -144,9 +144,9 @@ MERGERS
 
       - (9) In this section—
 
-        - “sitting” (會議), when used to calculate time, means the day on which the sitting commences and only includes a sitting at which subsidiary legislation is included on the order paper.
+        - sitting (會議), when used to calculate time, means the day on which the sitting commences and only includes a sitting at which subsidiary legislation is included on the order paper.
 
-- PART 5 DECISIONS
+- Part 5 Decisions
 
   - 11. Application for decision
 
@@ -276,7 +276,7 @@ MERGERS
 
       - (c) in any other manner the Commission considers appropriate.
 
-- PART 6 GUIDELINES
+- Part 6 Guidelines
 
   - 17. Guidelines
 

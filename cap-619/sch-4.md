@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 97 & 100]
 
-PROVISIONS THAT MAY BE CONTAINED IN ORDERS MADE BY TRIBUNAL IN RELATION TO ANTICIPATED MERGERS AND MERGERS
+Provisions that may be Contained in Orders Made by Tribunal in relation to Anticipated Mergers and Mergers
 
 - 1. An order may provide for—
 
