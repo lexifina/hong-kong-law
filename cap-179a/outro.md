@@ -1,4 +1,4 @@
-APPENDIX FORMS FORM 1
+Appendix Forms Form 1
 
 [Rule 5(3)]
 
@@ -20,7 +20,7 @@ To the Respondent
 
 [Here set out Form 4]
 
-(L.N. 325 of 1982; L.N. 78 of 1986; L.N. 172 of 1996) _ FORM 2
+(L.N. 325 of 1982; L.N. 78 of 1986; L.N. 172 of 1996) _ Form 2
 
 [Rule 9(2)]
 
@@ -32,7 +32,9 @@ THE PETITION OF | SHOWS THAT—
 
 (2) The petitioner and the respondent have cohabited at [state the last address at which they have cohabited in Hong Kong] [or The petitioner and the respondent have not cohabited in Hong Kong].
 
-(3) Both the petitioner and the respondent are domiciled in Hong Kong [or as the case may be]; the petitioner is a [state occupation] and resides at , and the respondent is a [state occupation] and resides at .
+(3) Both the petitioner and the respondent are domiciled in Hong Kong [or as the case may be]; the petitioner is a [state occupation] and resides at
+
+, and the respondent is a [state occupation] and resides at .
 
 (4) There is [are] [no [or state number] children of the family now living] [namely [state the name of each child and his date of birth or, if it be the case, that he is over 18 and, in the case of each minor child over the age of 16, whether he is receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation]].
 
@@ -72,7 +74,7 @@ The petitioner’s address for service is [Where the petitioner sues by a solici
 
 Dated this day of 19 . Note: Under the Matrimonial Causes Rules further information is required in certain cases.
 
-(L.N. 135 of 1972; L.N. 172 of 1996) _ FORM 2A
+(L.N. 135 of 1972; L.N. 172 of 1996) _ Form 2A
 
 [Rule 12]
 
@@ -82,7 +84,7 @@ I the solicitor acting for the petitioner in the above cause do hereby certify t
 
 Signed Solicitor for the Petitioner.
 
-(L.N. 135 of 1972) _ FORM 2B
+(L.N. 135 of 1972) _ Form 2B
 
 [Rule 9(3)]
 
@@ -104,7 +106,7 @@ Dated this day of 19 .
 
 Signed Petitioner.
 
-(L.N. 135 of 1972; L.N. 172 of 1996) _ FORM 2C
+(L.N. 135 of 1972; L.N. 172 of 1996) _ Form 2C
 
 [Rules 9(2) & 33(2B)]
 
@@ -118,27 +120,27 @@ of and | 1st applicant 2nd applicant
 
 shows that—
 
-(1) On theday of 19 the applicants, [state the name of the 1st applicant] and [state the name of the 2nd applicant] were lawfully married to each other at .
+(1)On the day of 19 the applicants, [state the name of the 1st applicant] and [state the name of the 2nd applicant] were lawfully married to each other at.
 
-(2) [state the name of the appropriate applicant or both of them if appropriate] is [are] domiciled in Hong Kong [or as the case may be]; [state the name of the 1st applicant] is a [state occupation] and resides at , and [state the name of the 2nd applicant] is a [state occupation] and resides at .
+(2)[state the name of the appropriate applicant or both of them if appropriate] is [are] domiciled in Hong Kong [or as the case may be]; [state the name of the 1st applicant] is a [state occupation] and resides at, and [state the name of the 2nd applicant] is a [state occupation] and resides at.
 
-(3) The applicants have lived apart for a continuous period of at least 1 year immediately preceding the making of the application [and/or Not less than 1 year prior to the making of the application a notice under section 11B(3) of the Ordinance, signed by each of the applicants, was given to the court and the notice was not subsequently withdrawn].
+(3)The applicants have lived apart for a continuous period of at least 1 year immediately preceding the making of the application [and/or Not less than 1 year prior to the making of the application a notice under section 11B(3) of the Ordinance, signed by each of the applicants, was given to the court and the notice was not subsequently withdrawn].
 
-(4) There is [are] [no [or state number] children of the family now living] [namely [state the name of each child and his date of birth or, if it be the case, that he is over 18 and, in the case of each minor child over the age of 16, whether he is receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation]].
+(4)There is [are] [no [or state number] children of the family now living] [namely [state the name of each child and his date of birth or, if it be the case, that he is over 18 and, in the case of each minor child over the age of 16, whether he is receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation]].
 
-(5) No other child now living has been born to the wife applicant during the marriage [except [state the name of any such child and his date of birth, or if it be the case, that he is over 18]].
+(5)No other child now living has been born to the wife applicant during the marriage [except [state the name of any such child and his date of birth, or if it be the case, that he is over 18]].
 
-(6) [Where appropriate in the case of a child who is under 18] The said was, on the day of 19 , received into the care of [or is a child with respect to whom a resolution was, on the day of 19 , passed by] the Social Welfare Department.
+(6)[Where appropriate in the case of a child who is under 18] The said was, on the day of 19 , received into the care of [or is a child with respect to whom a resolution was, on the day of 19 , passed by] the Social Welfare Department.
 
-(7) There have been no previous proceedings in any court in Hong Kong or elsewhere with reference to the marriage [or to any children of the family] [except [state the nature of the proceedings, the date and effect of any decree or order and, in the case of proceedings with reference to the marriage, whether there has been any resumption of cohabitation since the making of the decree or order]].
+(7)There have been no previous proceedings in any court in Hong Kong or elsewhere with reference to the marriage [or to any children of the family] [except [state the nature of the proceedings, the date and effect of any decree or order and, in the case of proceedings with reference to the marriage, whether there has been any resumption of cohabitation since the making of the decree or order]].
 
-(8) The following [or No] agreement or arrangement has been made or is proposed to be made between the parties for the support of [state the name of the relevant applicant] [and the said children] [namely [state details]].
+(8)The following [or No] agreement or arrangement has been made or is proposed to be made between the parties for the support of [state the name of the relevant applicant] [and the said children] [namely [state details]].
 
-(9) The said marriage has broken down irretrievably.
+(9)The said marriage has broken down irretrievably.
 
-The applicants therefore pray— (a) That the said marriage may be dissolved. (b) That [state the name of the relevant applicant] may be granted the custody of [state name[s] of the child[ren] and add any application for a declaration under section 19(3) of the Matrimonial Proceedings and Property Ordinance].
+The applicants therefore pray— (a)That the said marriage may be dissolved. (b)That [state the name of the relevant applicant] may be granted the custody of [state name[s] of the child[ren] and add any application for a declaration under section 19(3) of the Matrimonial Proceedings and Property Ordinance].
 
-(c) [Where appropriate] That the costs of this application shall be borne by the applicants equally. (d) That [state the name of the relevant applicant] may be granted the following ancillary relief, namely [state particulars of any application for ancillary relief which it is intended to claim].
+(c)[Where appropriate] That the costs of this application shall be borne by the applicants equally. (d)That [state the name of the relevant applicant] may be granted the following ancillary relief, namely [state particulars of any application for ancillary relief which it is intended to claim].
 
 The applicants’ addresses for service are as follows— [state in respect of each applicant] [Where the applicant applies by a solicitor, state the solicitor’s name or firm and address, or, where the applicant applies in person, state either of the place of residence as given in paragraph (2) of the application or, if no place of residence in Hong Kong is given, the address of a place in Hong Kong at or to which documents for the applicant may be delivered or sent].
 
@@ -148,7 +150,7 @@ Signed 1st Applicant | Signed 2nd Applicant
 
 [Signed Solicitor for the 1st Applicant] | [Signed Solicitor for the 2nd Applicant]
 
-(L.N. 172 of 1996) _ FORM 2D
+(L.N. 172 of 1996) _ Form 2D
 
 [Rules 9(3) & 33(2B)]
 
@@ -162,9 +164,11 @@ The present arrangements for the minor children of the family under 16 and those
 
 The arrangements proposed for the children in the event of a decree being granted are as follows— (i) residence (ii) education etc. (iii) financial provision (iv) access
 
+[In each of these paragraphs state whether the grant of a decree will affect the present arrangements set out above, whether it is proposed that those arrangements should continue, and if not, and to the extent that they are likely to alter, state what alteration is anticipated and what proposals in substitution are proposed. In the case of residence, where it is proposed that for any period a child should be in the immediate care of a person other than the applicants, give details of that person’s willingness and ability to care for the child. In the case of education state, if possible, any long-term proposals for further education or training. In the case of financial provision give details of any application which will be made for ancillary relief in respect of the children and, where applicable, state the object of any application which is other than for the day-to-day support of the children.]
+
 The said child[ren] is [are] [not] suffering from [any] serious disability or chronic illness or from the effects of [any] serious illness [namely [state, in respect of each child so suffering, the nature of the disability or illness and attach a copy of any up-to-date medical report which is available]].
 
-The said child[ren] is[are] [not] under the supervision of a probation officer, social welfare officer or institution [namely [state the date of any order for supervision and the circumstances which gave rise to its being made]].
+The said child[ren] is [are] [not] under the supervision of a probation officer, social welfare officer or institution [namely [state the date of any order for supervision and the circumstances which gave rise to its being made]].
 
 Dated this day of 19 .
 
@@ -172,7 +176,7 @@ Signed 1st Applicant | Signed 2nd Applicant
 
 [Signed Solicitor for the 1st Applicant] | [Signed Solicitor for the 2nd Applicant]
 
-(L.N. 172 of 1996) _ FORM 2E
+(L.N. 172 of 1996) _ Form 2E
 
 [Rule 9(12)]
 
@@ -188,7 +192,7 @@ Signed 1st Applicant | Signed 2nd Applicant
 
 (L.N. 172 of 1996) _
 
-FORM 3
+Form 3
 
 [Rule 12(7)]
 
@@ -202,25 +206,25 @@ and [and | Petitioner Respondent Co-Respondent]
 
 TAKE NOTICE that a petition [or divorce](2) has been presented to the Court. A copy of it [and a copy of the petitioner’s proposals regarding the child[ren]] [is] [are] delivered with this notice. | (2) Or as the case may be.
 
-1. You must complete and detach the acknowledgement of service and send it so as to reach the Court within 8 days after you receive this notice, inclusive of the day of receipt. Delay in returning the form may add to the costs.
+1.You must complete and detach the acknowledgement of service and send it so as to reach the Court within 8 days after you receive this notice, inclusive of the day of receipt. Delay in returning the form may add to the costs.
 
-2. (3) If you wish to do so, you may send to the court a statement setting out your views on the proposals regarding the children. If you send a statement it will be placed before the Judge dealing with the arrangements for the child[ren] and a copy of your statement will be sent to the petitioner. | (3) Delete if inapplicable.
+2.(3) If you wish to do so, you may send to the court a statement setting out your views on the proposals regarding the children. If you send a statement it will be placed before the Judge dealing with the arrangements for the child[ren] and a copy of your statement will be sent to the petitioner. | (3) Delete if inapplicable.
 
-3. If the reply to Question 4 [5 or 6](3) in the acknowledgement is Yes, you must, within 29 days after you receive this notice, inclusive of the day of receipt, file in the Court office an answer to the petition(2), together with a copy for every other party to the proceedings.
+3.If the reply to Question 4 [5 or 6](3) in the acknowledgement is Yes, you must, within 29 days after you receive this notice, inclusive of the day of receipt, file in the Court office an answer to the petition(2), together with a copy for every other party to the proceedings.
 
-4. (3) If the reply to Question 5 in the acknowledgment is Yes, the consequences to you are that—
+4.(3) If the reply to Question 5 in the acknowledgment is Yes, the consequences to you are that—
 
 (a) provided the petitioner establishes the fact that the parties to the marriage have lived apart for one year immediately preceding the presentation of the petition and that you consent, a decree will be granted unless, in the case of a petition for divorce, the Court is satisfied that the marriage has not broken down irretrievably; (b) your right to inherit from the petitioner if he or she dies without having made a will ceases on the grant of a decree of judicial separation or on a decree nisi of divorce being made absolute; (c) in the case of divorce the making absolute of the decree will end the marriage thereby affecting any right to a pension which depends upon the marriage continuing or upon your being left a widow; will cease unless the court directs otherwise during the subsistence of the marriage;
 
 (d) apart from the consequences listed above there may be others applicable to you depending on your particular circumstances. About these you should obtain legal advice from a solicitor.
 
-5. (3) If after consenting you wish to withdraw your consent you must immediately inform the court and give notice to the petitioner.
+5.(3) If after consenting you wish to withdraw your consent you must immediately inform the court and give notice to the petitioner.
 
-6. (3) The only fact on which the petitioner relies in support of the petition is that the parties to the marriage have lived apart for at least 2 years. Section 17A of the Ordinance provides that if in such a case the respondent applies to the Court for it to consider the respondent’s financial position after the divorce, the decree nisi cannot be made absolute unless the Court is satisfied that the petitioner has made or will make proper financial provision for the respondent, or else that the petitioner should not be required to make any financial provision for respondent. Paragraph (11) of the petition will tell you whether the petitioner proposes to make any financial provision for you. It is important that you should consider this information carefully before answering Question 7 in the acknowledgment.
+6.(3) The only fact on which the petitioner relies in support of the petition is that the parties to the marriage have lived apart for at least 2 years. Section 17A of the Ordinance provides that if in such a case the respondent applies to the Court for it to consider the respondent’s financial position after the divorce, the decree nisi cannot be made absolute unless the Court is satisfied that the petitioner has made or will make proper financial provision for the respondent, or else that the petitioner should not be required to make any financial provision for respondent. Paragraph (11) of the petition will tell you whether the petitioner proposes to make any financial provision for you. It is important that you should consider this information carefully before answering Question 7 in the acknowledgment.
 
-7. (3) If the reply to Question 7 in the acknowledgment is Yes, you must, before the decree is made absolute, make application to the court by filing and serving on the petitioner a notice in Form 8A, which may be obtained from the Court.
+7.(3) If the reply to Question 7 in the acknowledgment is Yes, you must, before the decree is made absolute, make application to the court by filing and serving on the petitioner a notice in Form 8A, which may be obtained from the Court.
 
-8. If you intend to instruct a solicitor to act for you, you should at once give him all the documents which have been served on you, so that he may send the acknowledgment to the Court on your behalf. If you do not intend to instruct a solicitor, you should nevertheless give an address for service in the acknowledgment so that any documents affecting your interests which are sent to you will in fact reach you. Change of address should be notified to the Court.
+8.If you intend to instruct a solicitor to act for you, you should at once give him all the documents which have been served on you, so that he may send the acknowledgment to the Court on your behalf. If you do not intend to instruct a solicitor, you should nevertheless give an address for service in the acknowledgment so that any documents affecting your interests which are sent to you will in fact reach you. Change of address should be notified to the Court.
 
 Dated this day of 19 .
 
@@ -230,7 +234,7 @@ To
 
 _
 
-FORM 4
+Form 4
 
 [Rule 14(5)]
 
@@ -238,21 +242,21 @@ Acknowledgment of Service
 
 If you intend to instruct a solicitor to act for you, give him this form immediately. [Heading as in Form 3]
 
-1. Have you received the originating application [or summons] [and copy of the supporting affidavit] [or the petition for [divorce](2)] delivered with this form? | (2) Or as the case may be.
+1.Have you received the originating application [or summons] [and copy of the supporting affidavit] [or the petition for [divorce](2)] delivered with this form? | (2) Or as the case may be.
 
-2. On what date and at what address did you receive it?
+2.On what date and at what address did you receive it?
 
-3. Are you the person named as the Respondent in the application [or as in the petition](2)?
+3.Are you the person named as the Respondent in the application [or as in the petition](2)?
 
-4. Do you intend to defend the case?
+4.Do you intend to defend the case?
 
-5. (3) [In the case of a petition alleging any such fact as is mentioned in section 1A(2)(c) of the Ordinance (one year’s separation and consent of respondent)]: Do you consent to a decree being granted? | (3) Delete if inapplicable.
+5.(3) [In the case of a petition alleging any such fact as is mentioned in section 1A(2)(c) of the Ordinance (one year’s separation and consent of respondent)]: Do you consent to a decree being granted? | (3) Delete if inapplicable.
 
-6. (3) [In the case of a petition asking for divorce and alleging any such fact as is mentioned in section 11A(2)(d) of the Ordinance (two years’ separation)]: Do you intend to oppose the grant of a decree on the ground that the divorce will result in grave financial or other hardship to you and that in all the circumstances it would be wrong to dissolve the marriage?
+6.(3) [In the case of a petition asking for divorce and alleging any such fact as is mentioned in section 11A(2)(d) of the Ordinance (two years’ separation)]: Do you intend to oppose the grant of a decree on the ground that the divorce will result in grave financial or other hardship to you and that in all the circumstances it would be wrong to dissolve the marriage?
 
-7. (3) In the event of the grant of a decree nisi and the Court holding that the only fact on which the petitioner was entitled to rely in support or the petition was any such fact as is mentioned in section 11A(2)(c) or (d) of the Ordinance (one year’s separation and the consent of the respondent or two years’ separation), do you intend to apply to the Court for it to consider your financial position as it will be after the divorce?
+7.(3) In the event of the grant of a decree nisi and the Court holding that the only fact on which the petitioner was entitled to rely in support or the petition was any such fact as is mentioned in section 11A(2)(c) or (d) of the Ordinance (one year’s separation and the consent of the respondent or two years’ separation), do you intend to apply to the Court for it to consider your financial position as it will be after the divorce?
 
-8. (4)Even if you do not intend to defend the case do you wish to be heard on the claim[s] in the petition for (5)— | (4) Delete Question 8 except in the case of a petition. (5) Insert whichever of the following item is applicable.
+8.(4)Even if you do not intend to defend the case do you wish to be heard on the claim[s] in the petition for (5)— | (4) Delete Question 8 except in the case of a petition. (5) Insert whichever of the following item is applicable.
 
 (a) costs
 
@@ -270,7 +274,7 @@ If you intend to instruct a solicitor to act for you, give him this form immedia
 
 (h) variation of a settlement
 
-9. (6) Do you wish to make any application on your own account for— | (6) Delete Question 9 (except in the case of a respondent spouse in proceedings begun by petition).
+9.(6) Do you wish to make any application on your own account for— | (6) Delete Question 9 (except in the case of a respondent spouse in proceedings begun by petition).
 
 (a) access to the children
 
@@ -294,11 +298,11 @@ If you intend to instruct a solicitor to act for you, give him this form immedia
 
 Dated this day of 19 .
 
-(If a solicitor is instructed, he will sign below on your behalf but if the answer to Question 5 is Yes, you must also sign here). Signed Address for service [Unless you intend to instruct a solicitor, give your place of residence, or if you do not reside in Hong Kong, the address of a place in Hong Kong to which documents may be sent to you. If you subsequently wish to change your address for service, you must notify the Court.] [Or, if a solicitor is instructed I am [We are] acting for the Respondent [or the above named ] in this matter. Signed Address for service: ]
+(If a solicitor is instructed, he will sign below on your behalf but if the answer to Question 5 is Yes, you must also sign here). Signed Address for service [Unless you intend to instruct a solicitor, give your place of residence, or if you do not reside in Hong Kong, the address of a place in Hong Kong to which documents may be sent to you. If you subsequently wish to change your address for service, you must notify the Court.] [Or, if a solicitor is instructed I am [We are] acting for the Respondent [or the above named ] in this matter. Signed Address for service:]
 
 (L.N. 325 of 1982; L.N 246 of 1995; L.N 172 of 1996)
 
-_ FORM 5
+_ Form 5
 
 [Rule 65(1)]
 
@@ -310,7 +314,7 @@ Signed
 
 [Solicitor for the] petitioner [or Respondent].
 
-_ FORM 5A
+_ Form 5A
 
 [Rule 65A(1)]
 
@@ -318,13 +322,13 @@ Notice of Application for Decree Nisi to be Made Absolute [Heading as in Form 2D
 
 TAKE NOTICE that the applicants in the joint application apply for the decree nisi pronounced in their favour on the day of 19 , to be made absolute.
 
-Dated thisday of19.
+Dated this day of 19 .
 
 Signed Applicant
 
 [Signed Solicitor for the Applicant]
 
-(L.N. 172 of 1996) _ FORM 6
+(L.N. 172 of 1996) _ Form 6
 
 [Rule 66]
 
@@ -336,7 +340,7 @@ Certificate of Making Decree Nisi Absolute (Divorce)
 
 Referring to the decree made in this cause on the day of 19 , whereby it was decreed that the marriage solemnized on the day of 19 at between the petitioner and the respondent be dissolved unless sufficient cause be shown to the court within from the making thereof why the said decree should not be made absolute, and no such cause having been shown, it is hereby certified that the said decree was on the day of 19 made final and absolute and that the said marriage was thereby dissolved. Dated this day of 19 .
 
-(L.N. 325 of 1982; L.N. 246 of 1995) _ FORM 7
+(L.N. 325 of 1982; L.N. 246 of 1995) _ Form 7
 
 [Rule 66(1)]
 
@@ -348,7 +352,7 @@ Certificate of Making Decree Nisi Absolute (Nullity)
 
 Referring to the decree made in this cause on the day of 19 , whereby it was ordered that the marriage in fact solemnized on the day of 19 , at between the petitioner and the respondent be pronounced and declared to have been by law void and the said petitioner be pronounced to have been and to be free of all bond of marriage with the respondent unless sufficient cause be shown to the court within from the making thereof why the said decree should not be made absolute, and no such cause having been shown, it is hereby certified that the said decree was on the day of 19 made final and absolute and that the said marriage was by law void and that the said petitioner was and is free from all bond of marriage with the said respondent. Dated this day of 19 .
 
-(L.N. 325 of 1982; L.N. 246 of 1995) _ FORM 7A
+(L.N. 325 of 1982; L.N. 246 of 1995) _ Form 7A
 
 [Rule 66]
 
@@ -360,7 +364,7 @@ Certificate of Making Decree Nisi Absolute (Nullity) (Voidable)
 
 Referring to the decree made in this cause on the day of 19 , whereby it was ordered that the marriage in fact solemnized on the day of 19 , at between the petitioner and the respondent be annulled unless sufficient cause be shown to the court within from the making thereof why the said decree should not be made absolute, and no such cause having been shown, it is hereby certified that the said decree was on the day of 19 made final and absolute and that the said petitioner was from that date and is free from all bond of marriage with the said respondent. Dated this day of 19 .
 
-(L.N. 325 of 1982; L.N. 246 of 1995) _ FORM 7B
+(L.N. 325 of 1982; L.N. 246 of 1995) _ Form 7B
 
 [Rule 66]
 
@@ -370,7 +374,7 @@ Certificate of Making Decree Nisi Absolute (Divorce)
 
 Referring to the decree made in this cause on the day of 19 , whereby it was decreed that the marriage solemnized on the day of 19 at between the 1st applicant and the 2nd applicant be dissolved unless sufficient cause be shown to the court within from the making thereof why the said decree should not be made absolute, and no such cause having been shown, it is hereby certified that the said decree was on the day of 19 made final and absolute and that the said marriage was thereby dissolved. Dated this day of 19 .
 
-(L.N. 172 of 1996) _ FORM 8
+(L.N. 172 of 1996) _ Form 8
 
 [Rules 68(2)(a) & (3) & 84A(3)(c)]
 
@@ -380,7 +384,7 @@ TAKE NOTICE that the petitioner [or respondent] intends to apply to the Court fo
 
 [Solicitor for the] Petitioner/Respondent.
 
-(L.N. 325 of 1982; L.N. 246 of 1995; L.N. 209 of 2003) _ FORM 8A
+(L.N. 325 of 1982; L.N. 246 of 1995; L.N. 209 of 2003) _ Form 8A
 
 [Rule 56B & 84A(3)(a)]
 
@@ -394,7 +398,7 @@ Signed
 
 * Delete if not applicable.
 
-(L.N. 325 of 1982; L.N. 246 of 1995; L.N. 209 of 2003) _ FORM 8B
+(L.N. 325 of 1982; L.N. 246 of 1995; L.N. 209 of 2003) _ Form 8B
 
 [Rules 68A(1), 70, 73, 74, 77 & 84A(3)(c)]
 
@@ -414,7 +418,7 @@ Dated this day of 19 .
 
 [Solicitor for the] Applicant in this application for ancillary relief
 
-(L.N. 172 of 1996; L.N. 209 of 2003) _ FORM 9
+(L.N. 172 of 1996; L.N. 209 of 2003) _ Form 9
 
 [Rule 73(1)]
 
@@ -422,15 +426,15 @@ Notice of Intention to Proceed with Application for Ancillary Relief Made in Pet
 
 The petitioner [or respondent] having applied in his [her] petition [or answer] for [here set out the ancillary relief claimed, stating the terms of any agreement as to the order which the court is to be asked to make]. [Add where applicable TAKE NOTICE that the application will be heard by the court in chambers at on day, the day of 19 , at o’clock]. TAKE NOTICE [ALSO] that [continue as in third paragraph of Form 8]. Dated this day of 19 .
 
-(L.N. 325 of 1982) _ FORM 10
+(L.N. 325 of 1982) _ Form 10
 
 [Rule 82(2)]
 
 Notice of Request for Periodical Payments Order at Same Rate as Order for Maintenance Pending Suit [Heading as in Form 3]
 
-To of .
+To of.
 
-The petitioner [or respondent] having on the day of 19 , obtained an order for payment by you of maintenance pending suit at the rate of ,
+The petitioner [or respondent] having on the day of19, obtained an order for payment by you of maintenance pending suit at the rate of,
 
 AND the petitioner [or respondent] having applied in his [her] petition [or answer] for a periodical payments order for himself [or herself],
 
@@ -440,7 +444,7 @@ AND TAKE NOTICE that if you object to the making of such a periodical payments o
 
 Dated this day of 19 .
 
-(L.N. 135 of 1972; L.N. 325 of 1982 ) _ FORM 11
+(L.N. 135 of 1972; L.N. 325 of 1982 ) _ Form 11
 
 [Rule 82(2)]
 
@@ -448,7 +452,7 @@ Notice of Request for Periodical Payments Order at Same Rate as Order for Mainte
 
 To of The applicant having on the day of 19 , obtained an order for payment by you of maintenance pending suit at the rate of , AND the applicant having applied in the joint application for a periodical payments order for himself [or herself], TAKE NOTICE that the applicant has requested the court to make a periodical payments order for himself [or herself] providing for payments by you at the same rate as those mentioned above. AND TAKE NOTICE that if you object to the making of such a periodical payments order, you must give notice to that effect to the court and the applicant within 14 days after service of this notice on you, and if you do not do so, the court may make such a periodical payments order without further notice to you. Dated this day of 19 .
 
-(L.N. 172 of 1996) _ FORM 14
+(L.N. 172 of 1996) _ Form 14
 
 [Rule 98(1)]
 
@@ -462,13 +466,13 @@ Between and | Applicant Respondent
 
 1. I, , of , the wife [husband] of of (hereinafter called the respondent) say that the respondent [in the case of a wife’s application has wilfully neglected to provide reasonable maintenance for me or in the case of a husband’s application has wilfully neglected to provide [or make a proper contribution towards] reasonable maintenance for me [and the child[ren] of our family]].
 
-2. On the day of 19 ,I [in the case of an application by a wife being then [state full name and status before the marriage] was lawfully married to the respondent [in the case of an application by a husband who was then [state respondent’s full name and status before marriage]] at .
+2. On the day of 19 , I [in the case of an application by a wife being then [state full name and status before the marriage] was lawfully married to the respondent [in the case of an application by a husband who was then [state respondent’s full name and status before marriage]] at.
 
 3. There is [are] [no [or state number] children of the family now living] [namely [state the name of each child and his date of birth or, if it be the case, that he is over 18 and, in the case of each minor child over the age of 16, whether he is, or will be, or if an order or provision were made would be, receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation] who is now residing at [state the place] with [state the person]].
 
 4. There have been no previous proceedings in any court in Hong Kong or elsewhere with reference to the marriage [or the children of the family] [except state the nature of the proceedings, the date and effect of any decree or order and, in the case of proceedings with reference to the marriage, whether there has been any resumption of cohabitation since the making of the decree or order].
 
-5. [Where appropriate in the case of a child who is under 18] The said was, on the day of 19 , received into the care of [or is a child with respect to whom a resolution was, on theday of 19 , passed by] the Director of Social Welfare.
+5. [Where appropriate in the case of a child who is under 18] The said was, on the day of 19 , received into the care of [or is a child with respect to whom a resolution was, on the day of 19 , passed by] the Director of Social Welfare.
 
 6. The following are particulars of the wilful neglect by the respondent to provide reasonable maintenance for me [or in the case of a husband’s application to provide reasonable maintenance [or to make a proper contribution towards reasonable maintenance] for me] [and for the said child[ren] [state names]] [give particulars adding in the case of a husband’s application in respect of himself the matters set out in section 8(1)(b)(i) of the Matrimonial Proceedings and Property Ordinance (Cap. 192) on which he relies].
 
@@ -488,7 +492,7 @@ My address for service is [Where the applicant sues by a solicitor, state the so
 
 Dated this day of 19 .
 
-(L.N. 135 of 1972) _ FORM 15
+(L.N. 135 of 1972) _ Form 15
 
 [Rules 98 and 100]
 
@@ -514,7 +518,7 @@ To the Respondent
 
 [Here set out Form 4]
 
-(L.N. 135 of 1972; L.N. 352 of 1982; L.N. 78 of 1986) _ FORM 16
+(L.N. 135 of 1972; L.N. 352 of 1982; L.N. 78 of 1986) _ Form 16
 
 [Rule 100(1)]
 
@@ -526,9 +530,9 @@ In the Matter of an Application under section 15 of the Matrimonial Proceedings 
 
 Between and | Applicant Respondent
 
-1. I, , the wife [or husband] of (hereinafter called the respondent), apply for an order altering the maintenance agreement made between me and the respondent on the day of 19 .
+1. I, , the wife [or husband] of(hereinafter called the respondent), apply for an order altering the maintenance agreement made between me and the respondent on the day of 19 .
 
-2. I reside at , and the respondent resides at .
+2. I reside at, and the respondent resides at.
 
 [Add, unless both parties are resident in Hong Kong We are both domiciled in Hong Kong [or as the case may be]].
 
@@ -548,7 +552,7 @@ My address for service is [Where the applicant sues by a solicitor, state the so
 
 Dated this day of 19 .
 
-(L.N. 135 of 1972) _ FORM 17
+(L.N. 135 of 1972) _ Form 17
 
 [Rule 101(1)]
 
@@ -558,7 +562,7 @@ In the District Court of Hong Kong held at In the Matter of an Application by un
 
 Between and | Applicant Respondent
 
-Let of attend before the Court on day, the day of 19 , at o’clock, on the hearing of an application by that the agreement made on the day of 19 , between the applicant and who died on the day of 19 , should be altered as shown in the affidavit accompanying this summons so as to make different [or contain] financial arrangements.
+Let of attend before the Court on day, the day of19 , at o’clock, on the hearing of an application by that the agreement made on the day of 19, between the applicant and who died on the day of 19 , should be altered as shown in the affidavit accompanying this summons so as to make different [or contain] financial arrangements.
 
 Dated this day of 19 .
 
@@ -580,13 +584,13 @@ TAKE NOTICE THAT—
 
 4. If you intend to instruct a solicitor to act for you, you should at once give him all the documents which have been served on you, so that he may take the necessary steps on your behalf.
 
-(L.N.325 of 1982; 21 of 2005 s. 36) _ FORM 18
+(L.N.325 of 1982; 21 of 2005 s. 36) _ Form 18
 
 [Rule 103(1)]
 
 Originating Summons for Maintenance out of Estate of Deceased Former Spouse
 
-In the District Court of Hong Kong held at In the Matter of an Application by under section 38 of the Matrimonial Causes Ordinance
+In the District Court of Hong Kong held at In the Matter of an Application by undersection 38 of the Matrimonial Causes Ordinance
 
 Between and | Applicant Respondent
 
@@ -600,7 +604,7 @@ To the respondent.
 
 TAKE NOTICE THAT— [Continue as in Form 17]
 
-(L.N. 325 of 1982) _ FORM 19
+(L.N. 325 of 1982) _ Form 19
 
 [Rule 106(2)]
 
@@ -612,7 +616,7 @@ TAKE NOTICE that the contents or purport of this document are to be communicated
 
 * Delete these words if the document is served on the responsible medical officer or medical attendant.
 
-_ FORM 20
+_ Form 20
 
 [Rules 76 and 95(5)]
 
@@ -624,7 +628,7 @@ Dated this day of 19 .
 
 Issued by [Solicitor for the] Petitioner [or Respondent]
 
-(L.N. 135 of 1972) _ FORM 21(1)
+(L.N. 135 of 1972) _ Form 21(1)
 
 [Rule 33(2A)]
 
@@ -672,11 +676,11 @@ make oath/do solemnly, sincerely and truly affirm and say as follows—
 
 (4) Exhibit any other documents on which the petitioner wishes to rely. | 5. (4)
 
-(5) If the petitioner seeks a judicial separation, amend accordingly. (6) Amend or delete as appropriate. | 6. I ask the Court to grant a decree dissolving my marriage with the respondent (5) on the grounds stated in my petition [and to order the respondent/co-respondent to pay the costs of this suit] (6). Sworn/Affirmed at thisday of19. Before me,
+(5) If the petitioner seeks a judicial separation, amend accordingly. (6) Amend or delete as appropriate. | 6. I ask the Court to grant a decree dissolving my marriage with the respondent (5) on the grounds stated in my petition [and to order the respondent/co-respondent to pay the costs of this suit] (6). Sworn/Affirmed at this day of 19 . Before me,
 
 A Commissioner for Oaths.
 
-(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ FORM 21(2)
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ Form 21(2)
 
 [Rule 33(2A)]
 
@@ -728,11 +732,11 @@ make oath/do solemnly, sincerely and truly affirm and say as follows—
 
 (3) Exhibit any other documents on which the petitioner wishes to rely. | 4. (3)
 
-(4) If the petitioner seeks a judicial separation, amend accordingly. (5) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (5). Sworn/Affirmed at this day of19 . Before me,
+(4) If the petitioner seeks a judicial separation, amend accordingly. (5) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (5). Sworn/Affirmed at this day of 19 . Before me,
 
 A Commissioner for Oaths.
 
-(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ FORM 21(3)
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ Form 21(3)
 
 [Rule 33(2A)]
 
@@ -784,11 +788,11 @@ make oath/do solemnly, sincerely and truly affirm and say as follows—
 
 (2) Exhibit any other documents on which the petitioner wishes to rely. | 4. (2)
 
-(3) If the petitioner seeks a judicial separation, amend accordingly. (4) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (3) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (4). Sworn/Affirmed at thisday of19. Before me,
+(3) If the petitioner seeks a judicial separation, amend accordingly. (4) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (3) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (4). Sworn/Affirmed at this day of 19 . Before me,
 
 A Commissioner for Oaths.
 
-(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ FORM 21(4)
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ Form 21(4)
 
 [Rule 33(2A)]
 
@@ -844,7 +848,7 @@ make oath/do solemnly, sincerely and truly affirm and say as follows—
 
 A Commissioner for Oaths.
 
-(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ FORM 21(5)
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001) _ Form 21(5)
 
 [Rule 33(2B)]
 
@@ -908,7 +912,7 @@ A Commissioner for Oaths.
 
 A Commissioner for Oaths.
 
-( L.N. 172 of 1996; L.N. 270 of 2001) _ FORM 21(6)
+( L.N. 172 of 1996; L.N. 270 of 2001) _ Form 21(6)
 
 [Rule 33(2B)]
 
@@ -952,15 +956,15 @@ make oath/do solemnly, sincerely and truly affirm and say as follows—
 
 4. We ask the Court to grant a decree dissolving our marriage.
 
-(2) Insert name | Sworn/Affirmed by ..................................................(2) at .................................................................................. this day of19. Before me, ..............................
+(2) Insert name | Sworn/Affirmed by ..................................................(2) at .................................................................................. this day of 19 . Before me, ..............................
 
 A Commissioner for Oaths.
 
-(3) Insert name | Sworn/Affirmed by ...................................................(3) at .................................................................................. thisday of19. Before me, ..............................
+(3) Insert name | Sworn/Affirmed by ...................................................(3) at .................................................................................. this day of 19 . Before me, ..............................
 
 A Commissioner for Oaths.
 
-(L.N. 172 of 1996; L.N. 270 of 2001) _ FORM 21(7)
+(L.N. 172 of 1996; L.N. 270 of 2001) _ Form 21(7)
 
 [Rule 33(2A)]
 
@@ -978,7 +982,11 @@ About the divorce/judicial separation petition
 
 4. (i) Is the respondent’s behaviour as set out in the petition continuing? (ii) If the respondent’s behaviour is not continuing, what was the date of the final incident relied upon by you in the petition?
 
-5. (i) Since the date given in the answer to Question 4 or, if no date is given in answer to that question, since the date of the petition, have you ever lived at the same address as the respondent for a period of more than 6 months, or for periods which together amount to more than 6 months? (ii) If so, state the addresses and the period or periods, giving dates to the best of your information and belief, and describe the arrangements for sharing the accommodation. [State: ‧ whether you have shared a bedroom; ‧ whether you have taken your meals together; ‧ what arrangements you have made for cleaning the accommodation and other domestic tasks; ‧ what arrangements you have made for the payment of household bills and other expenses.]
+5. (i) Since the date given in the answer to Question 4 or, if no date is given in answer to that question, since the date of the petition, have you ever lived at the same address as the respondent for a period of more than 6 months, or for periods which together amount to more than 6 months? (ii) If so, state the addresses and the period or periods, giving dates to the best of your information and belief, and describe the arrangements for sharing the accommodation.
+
+[State: ‧ whether you have shared a bedroom; ‧ whether you have taken your meals together;
+
+‧ what arrangements you have made for cleaning the accommodation and other domestic tasks; ‧ what arrangements you have made for the payment of household bills and other expenses.]
 
 About the children of the family
 
@@ -1006,7 +1014,7 @@ make oath/do solemnly, sincerely and truly affirm and say as follows—
 
 A Commissioner for Oaths.
 
-(L.N. 270 of 2001) _ FORM 22
+(L.N. 270 of 2001) _ Form 22
 
 [Rule 87(3)]
 
@@ -1048,7 +1056,7 @@ Costs of this summons
 
 Travelling expenses to be paid to the judgment debtor
 
-(L.N. 193 of 1974; 25 of 1998 s. 2; 18 of 2003 s. 21) _ FORM 23
+(L.N. 193 of 1974; 25 of 1998 s. 2; 18 of 2003 s. 21) _ Form 23
 
 [Rule 87(4)]
 
@@ -1056,7 +1064,7 @@ Judgment Summons [Heading as in Form 22]
 
 WHEREAS the above-named (hereinafter called “the judgment creditor”) obtained an order in this Court (or as the case may be) on the day of 19 , against (hereinafter called the “judgment debtor”) for [state nature of order].
 
-AND WHEREAS default has been made in respect of the sum of $ payable under the said order and the judgment creditor has required this judgment summons to be issued against you, the said judgment debtor.
+AND WHEREAS default has been made in respect of the sum of $payable under the said order and the judgment creditor has required this judgment summons to be issued against you, the said judgment debtor.
 
 YOU ARE HEREBY SUMMONED to appear personally before the Judge sitting on the day of 19 , at o’clock, to be examined on oath touching the means you have or have had since the date of the said order to pay the said sum in payment of which you have made default and also to show cause why you should not be committed to prison for such default.
 
@@ -1078,11 +1086,11 @@ Travelling expenses to be paid to the judgment debtor
 
 Sum on payment of which this summons will be discharged
 
-Note: If payment is made too late to prevent the judgment creditor’s attendance on the day of hearing you may be liable for further costs. [The judgment creditor’s solicitor is ]
+Note:If payment is made too late to prevent the judgment creditor’s attendance on the day of hearing you may be liable for further costs. [The judgment creditor’s solicitor is ]
 
 (L.N. 193 of 1974; 18 of 2003 s. 21) _
 
-FORM 24(1)
+Form 24(1)
 
 [Rule 56(1)(c)]
 
@@ -1102,9 +1110,9 @@ AND the Judge further ordered that the question of custody be adjourned to Chamb
 
 AND the Judge further declared that the Court is satisfied that the arrangements for the welfare of the said child/children of the family have been made and are satisfactory or are the best that can be devised in the circumstances that there are no children of the family to whom section 18 of the Matrimonial Proceedings and Property Ordinance, Cap. 192 applies.
 
-Dated this day of 19 . Note: (and that the child/children of the family, namely: do remain in the custody of the petitioner/respondent until further order of the Court with reasonable access granted to the petitioner/respondent)
+Dated this day of 19 . Note:(and that the child/children of the family, namely: do remain in the custody of the petitioner/respondent until further order of the Court with reasonable access granted to the petitioner/respondent)
 
-(L.N. 78 of 1986) _ FORM 24(2)
+(L.N. 78 of 1986) _ Form 24(2)
 
 [Rule 56(1)(c)]
 
@@ -1124,7 +1132,7 @@ AND the Judge further declared that the Court is satisfied that there are no chi
 
 Dated this day of , 19 .
 
-(L.N. 78 of 1986) _ FORM 25
+(L.N. 78 of 1986) _ Form 25
 
 [Rule 84A(3)(c)]
 
@@ -1178,7 +1186,7 @@ Signed: | Date:
 
 [Solicitor for the] [Petitioner / 1st Applicant] [Respondent / 2nd Applicant] Address all communications to the Chief Judicial Clerk or if the matter is in the High Court, the Clerk of Court and quote the case number. If you do not quote this number, your correspondence may be returned. Chief Judicial Clerk Family Court Registry Wanchai Law Courts OR If the matter is in the High Court The Clerk of Court High Court of Hong Kong
 
-(L.N. 209 of 2003) _ FORM 26
+(L.N. 209 of 2003) _ Form 26
 
 [Rule 84A(3)(a)]
 
@@ -1190,7 +1198,7 @@ Case No. Always quote this
 
 Between | Petitioner Solicitor’s ref. | And | Respondent Solicitor’s ref.
 
-TAKE NOTICE that— The Respondent intends to apply to the court under section 17A of the Matrimonial Causes Ordinance (Cap. 179) for the court to consider the financial position of the respondent after the divorce. * The application will be heard on a date to be fixed. * A first appointment date has been fixed by the court on the day of 20 at o’clock. Dated thisday of20.
+TAKE NOTICE that— The Respondent intends to apply to the court under section 17A of the Matrimonial Causes Ordinance (Cap. 179) for the court to consider the financial position of the respondent after the divorce. * The application will be heard on a date to be fixed. * A first appointment date has been fixed by the court on the day of 20 at o’clock. Dated this day of 20 .
 
 * delete if not applicable.
 
@@ -1198,31 +1206,31 @@ Signed: | Date:
 
 [Solicitor for the] Respondent Address all communications to the Chief Judicial Clerk or if the matter is in the High Court, the Clerk of Court and quote the case number. If you do not quote this number, your correspondence may be returned. Chief Judicial Clerk Family Court Registry Wanchai Law Courts OR If the matter is in the High Court The Clerk of Court High Court of Hong Kong
 
-(L.N. 209 of 2003) _ FORM 27
+(L.N. 209 of 2003) _ Form 27
 
 [Rule 103A(1)]
 
-Ex parte Originating Summons for an Application under Section 29AC of the Matrimonial Proceedings and Property Ordinance IN THE DISTRICT COURT OF HONG KONG Case No.
+Ex parte Originating Summons for an Application under Section 29AC of the Matrimonial Proceedings and Property Ordinance In the District Court of Hong Kong Case No.
 
 In the Matter of an Application by under section 29AC of the Matrimonial Proceedings and Property Ordinance (Cap. 192). Let all parties concerned attend before the Court on day, the day of 20 , at o’clock, on the hearing of an application by that leave be granted to to make an application for an order for financial relief under section 29AG of the Matrimonial Proceedings and Property Ordinance (Cap. 192). Dated this day of 20 . This summons was taken out by [the solicitor for] the above-named applicant whose address is .
 
-(20 of 2010 s. 14) _ FORM 28
+(20 of 2010 s. 14) _ Form 28
 
 [Rule 103B(1)]
 
-Originating Summons for an Application under Section 29AB of the Matrimonial Proceedings and Property Ordinance IN THE DISTRICT COURT OF HONG KONG Case No.
+Originating Summons for an Application under Section 29AB of the Matrimonial Proceedings and Property Ordinance In the District Court of Hong Kong Case No.
 
 In the Matter of an Application by under section 29AB of the Matrimonial Proceedings and Property Ordinance (Cap. 192).
 
 Between and | Applicant Respondent
 
-Let of attend before the Court on day, the day of 20 , at o’clock, on the hearing of an application by for the following relief, namely— Dated thisday of20. This summons was taken out by [the solicitor for] the above-named applicant whose address is .
+Let of attend before the Court on day, the day of 20 , at o’clock, on the hearing of an application by for the following relief, namely— Dated this day of 20 . This summons was taken out by [the solicitor for] the above-named applicant whose address is .
 
-(20 of 2010 s. 14) _ FORM 29
+(20 of 2010 s. 14) _ Form 29
 
 [Rules 103B(2) & 103D(2)]
 
-Notice of Proceedings and Acknowledgment of Service IN THE DISTRICT COURT OF HONG KONG Case No.
+Notice of Proceedings and Acknowledgment of Service In the District Court of Hong Kong Case No.
 
 Between and | Applicant Respondent
 
@@ -1236,7 +1244,7 @@ NOTICE OF PROCEEDINGS
 
 3. If you intend to instruct a lawyer to act for you, you should at once give the lawyer all the documents that have been served on you, so that the lawyer may send the acknowledgment to the Court on your behalf. If you do not intend to instruct a lawyer, you should nevertheless give an address for service in the acknowledgment so that any documents affecting your interests that are sent to you will in fact reach you. This should be your place of residence or, if you do not reside in Hong Kong, the address of a place in Hong Kong to which documents may be sent to you. Change of address should be notified to the Court.
 
-ACKNOWLEDGMENT OF SERVICE IN THE DISTRICT COURT OF HONG KONG
+Acknowledgment of Service In the District Court of Hong Kong
 
 Case No.
 
@@ -1246,7 +1254,7 @@ Between and | Applicant Respondent
 
 3. Are you the person named as the respondent in the originating summons? 4. Do you intend to defend the case? If your answer to this question is yes you must follow the instructions in paragraph 2 of the Notice of Proceedings.
 
-5. Even if you do not intend to defend the case do you object to paying the costs of the proceedings, if so on what grounds? Dated thisday of20.
+5. Even if you do not intend to defend the case do you object to paying the costs of the proceedings, if so on what grounds? Dated this day of 20 .
 
 Signed Respondent
 
@@ -1254,21 +1262,21 @@ I am [We are] acting for the Respondent in this matter
 
 Signed Address for service of documents
 
-Dated thisday of20.
+Dated this day of 20 .
 
-(20 of 2010 s. 14) _ FORM 30
+(20 of 2010 s. 14) _ Form 30
 
 [Rule 103D(1)]
 
-Originating Summons for an Application under Section 29AK of the Matrimonial Proceedings and Property Ordinance IN THE DISTRICT COURT OF HONG KONG Case No.
+Originating Summons for an Application under Section 29AK of the Matrimonial Proceedings and Property Ordinance In the District Court of Hong Kong Case No.
 
 In the Matter of an Application by under section 29AK of the Matrimonial Proceedings and Property Ordinance (Cap. 192).
 
 Between and | Applicant Respondent
 
-Let of attend before the Court on day, the day of 20 , at o’clock, on the hearing of an application by for an order restraining from making any disposition or transferring out of the jurisdiction or otherwise dealing with any property with intent to defeat a claim for financial relief by the applicant under section 29AG of the Matrimonial Proceedings and Property Ordinance (Cap. 192). Dated thisday of20. This summons was taken out by [the solicitor for] the above-named applicant whose address is .
+Let of attend before the Court on day, the day of 20 , at o’clock, on the hearing of an application by for an order restraining from making any disposition or transferring out of the jurisdiction or otherwise dealing with any property with intent to defeat a claim for financial relief by the applicant under section 29AG of the Matrimonial Proceedings and Property Ordinance (Cap. 192). Dated this day of 20 . This summons was taken out by [the solicitor for] the above-named applicant whose address is .
 
-(20 of 2010 s. 14) _ ALPHABETICAL INDEX ALPHABETICAL INDEX TO THE MATRIMONIAL CAUSES RULES
+(20 of 2010 s. 14) _ Alphabetical Index Alphabetical Index to the Matrimonial Causes Rules
 
 Subject | Rule
 
@@ -1332,7 +1340,9 @@ after death of one party . 102(3)
 
 during lifetime . 100(5)
 
-variation of marriage settlement wife’s property settlement | } | . 74(4)
+variation of marriage settlement | }
+
+wife’s property settlement | . 74(4)
 
 in support of application,
 
@@ -1886,7 +1896,7 @@ FORMS (表格) . Appendix
 
 2B. | Statement as to arrangements for children . 9(3)
 
-3 | Notice of proceedings . 12(7), 23, 109
+3. | Notice of proceedings . 12(7), 23, 109
 
 4. | Acknowledgement of service . 5(3), 12(7), 14(5), 15(1), 23, 98(3), 100(4), 101(4), Forms 1, 15
 
