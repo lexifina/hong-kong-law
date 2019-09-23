@@ -28,6 +28,10 @@ $
 
 7. | Section 15(3B)(b) | For each application for approval of the appointment of an actuary | 18,000
 
+7A. | Section 64O(3)(a) | For obtaining each page of a copy of an entry in, or extract of, the register of licensed insurance intermediaries | 6
+
+7B. | Section 64O(3)(b) | For obtaining a copy of an entry in, or extract of, the register of licensed insurance intermediaries, certified by an authorized officer of the Authority as a true copy of the entry or extract | 100
+
 8. | Section 128(1)(a)(ii) | For each notification of the appointment of—
 
 (a) | a controller (other than one to whom section 13A or 13B of the Ordinance applies) of an authorized insurer | 5,000
