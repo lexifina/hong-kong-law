@@ -40,7 +40,7 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
   - 6. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
 
-    - (a) the claim is made by the person in respect of the negligence of an insurer, appointed insurance agent or authorized insurance broker, as defined by section 2 of the Insurance Companies Ordinance (Cap. 41), in the performance of their functions for the taking out of the personal insurance that is the subject of the claim; and
+    - (a) the claim is made by the person in respect of the negligence of an insurer which is authorized within the meaning of the Insurance Ordinance (Cap. 41) or a licensed insurance intermediary as defined by section 2(1) of that Ordinance, in the performance of their functions for the taking out of the personal insurance that is the subject of the claim; and (Amended 12 of 2015 s. 101)
 
     - (b) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012)
 

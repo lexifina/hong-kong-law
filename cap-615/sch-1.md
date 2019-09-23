@@ -114,11 +114,7 @@ Interpretation
 
       - (c) a firm of certified public accountants (practising) registered under Part IV of the Professional Accountants Ordinance (Cap. 50); (Added 4 of 2018 s. 25)
 
-    - appointed insurance agent (獲委任保險代理人) has the meaning given by section 2(1) of the Insurance Companies Ordinance (Cap. 41);
-
     - authorized institution (認可機構) has the meaning given by section 2(1) of the Banking Ordinance (Cap. 155);
-
-    - authorized insurance broker (獲授權保險經紀) has the meaning given by section 2(1) of the Insurance Companies Ordinance (Cap. 41);
 
     - authorized insurer (獲授權保險人) means an insurer authorized under the Insurance Ordinance (Cap. 41); (Amended 12 of 2015 s. 162)
 
@@ -160,9 +156,11 @@ Interpretation
 
       - (c) an authorized insurer;
 
-      - (d) an appointed insurance agent;
+      - (d) a licensed individual insurance agent; (Replaced 12 of 2015 s. 162)
 
-      - (e) an authorized insurance broker;
+      - (e) a licensed insurance agency; (Replaced 12 of 2015 s. 162)
+
+      - (ea) a licensed insurance broker company; (Added 12 of 2015 s. 162)
 
       - (f) a licensed money service operator; (Amended 18 of 2015 s. 71)
 
@@ -183,6 +181,12 @@ Interpretation
       - (b) a foreign lawyer as defined by section 2(1) of the Legal Practitioners Ordinance (Cap. 159); (Added 4 of 2018 s. 25)
 
     - licensed corporation (持牌法團) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571);
+
+    - licensed individual insurance agent (持牌個人保險代理) has the meaning given by section 2(1) of the Insurance Ordinance (Cap. 41); (Added 12 of 2015 s. 162)
+
+    - licensed insurance agency (持牌保險代理機構) has the meaning given by section 2(1) of the Insurance Ordinance (Cap. 41); (Added 12 of 2015 s. 162)
+
+    - licensed insurance broker company (持牌保險經紀公司) has the meaning given by section 2(1) of the Insurance Ordinance (Cap. 41); (Added 12 of 2015 s. 162)
 
     - licensed money service operator (持牌金錢服務經營者) means the holder of a licence as defined by section 24;
 
@@ -214,7 +218,7 @@ Interpretation
 
       - (b) in relation to a licensed corporation, means the Securities and Futures Commission;
 
-      - (c) in relation to an authorized insurer, appointed insurance agent or authorized insurance broker, means the Insurance Authority; (Amended 4 of 2018 s. 25)
+      - (c) in relation to an authorized insurer, licensed individual insurance agent, licensed insurance agency or licensed insurance broker company, means the Insurance Authority; and (Replaced 12 of 2015 s. 162)
 
       - (d) in relation to a licensed money service operator or to the Postmaster General, means the Commissioner; and (Amended 4 of 2018 s. 25)
 
@@ -239,3 +243,5 @@ Interpretation
       - (a) a person who holds a licence granted under section 53G or renewed under section 53K; or
 
       - (b) a deemed licensee as defined by section 53ZQ(5). (Added 4 of 2018 s. 25)
+
+  - (Amended 12 of 2015 s. 162)

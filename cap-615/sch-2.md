@@ -698,7 +698,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (iv) a TCSP licensee; (Replaced 4 of 2018 s. 26)
 
-        - (b) a financial institution that is an authorized institution, a licensed corporation, an authorized insurer, an appointed insurance agent or an authorized insurance broker;
+        - (b) a financial institution that is an authorized institution, a licensed corporation, an authorized insurer, a licensed individual insurance agent, licensed insurance agency or licensed insurance broker company; (Amended 12 of 2015 s. 163)
 
         - (c) a lawyer, a notary public, an auditor, a professional accountant, a trust or company service provider or a tax advisor practising in an equivalent jurisdiction, or a trust company carrying on trust business in an equivalent jurisdiction, or a person who carries on in an equivalent jurisdiction a business similar to that carried on by an estate agent, or an institution that carries on in an equivalent jurisdiction a business similar to that carried on by an intermediary financial institution, that— (Amended 4 of 2018 s. 26)
 

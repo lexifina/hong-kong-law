@@ -28,9 +28,9 @@
 
 - (c) an insurer authorized under the Insurance Ordinance (Cap. 41); (Amended 12 of 2015 s. 125)
 
-- (d) an appointed insurance agent as defined by section 2(1) of the Insurance Companies Ordinance (Cap. 41); or
+- (d) a licensed insurance agency as defined by section 2(1) of the Insurance Ordinance (Cap. 41); or (Replaced 12 of 2015 s. 125)
 
-- (e) an authorized insurance broker as defined by section 2(1) of the Insurance Companies Ordinance (Cap. 41).
+- (e) a licensed insurance broker company as defined by section 2(1) of the Insurance Ordinance (Cap. 41). (Replaced 12 of 2015 s. 125)
 
 (4) In this section—
 
