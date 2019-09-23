@@ -2,7 +2,7 @@
 
 (Replaced 12 of 2015 s. 89)
 
-[ss. 2, 3, 8, 10, 22, 23, 50A, 51 & 138 & Sch. 3] (Replaced 12 of 2015 s. 89)
+[ss. 2, 3, 8, 10, 22, 23, 50A, 51, 64ZZC & 138 & Sch. 3] (Replaced 12 of 2015 s. 89)
 
 Classes of Insurance Business
 

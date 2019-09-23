@@ -1,0 +1,17 @@
+# 64ZZM. Use of incriminating evidence in proceedings
+
+(1) If an investigator requires a person to give an answer to a question or to give an explanation or further particulars under this Division, the investigator must ensure that the person has first been informed of the effect of subsection (2).
+
+(2) Despite anything in this Ordinance and subject to subsection (3)—
+
+- (a) if an investigator requires a person to give an answer to a question or to give an explanation or further particulars under this Division; and
+
+- (b) the answer, or the explanation or further particulars, might tend to incriminate the person and the person so claims before giving the answer or giving the explanation or further particulars,
+
+the requirement and the question and answer, or the explanation or further particulars, are not admissible in evidence against the person in criminal proceedings in a court of law.
+
+(3) Subsection (2) does not apply to criminal proceedings in which the person is, in relation to the answer, or the explanation or further particulars, charged with—
+
+- (a) an offence under section 64ZZL(1), (2), (3), (4) or (5), or under Part V of the Crimes Ordinance (Cap. 200); or
+
+- (b) perjury.

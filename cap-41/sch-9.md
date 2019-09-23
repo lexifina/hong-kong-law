@@ -70,4 +70,40 @@ Specified Decisions
 
 - 29. | Exercise of power to take disciplinary action against Lloyd’s, etc. | Section 50G
 
-- Part 2 (Addition not yet in operation—see 12 of 2015 s. 98)
+- Part 2 Specified Decisions Made in respect of Insurance Intermediaries
+
+- Column 1 | Column 2 | Column 3
+
+- Item | Description of decision | Provision
+
+- 1. | Refusal to grant an insurance agency licence | Section 64U(4)
+
+- 2. | Refusal to grant an individual insurance agent licence | Section 64W(2)
+
+- 3. | Refusal to grant a technical representative (agent) licence | Section 64Y(2)
+
+- 4. | Refusal to grant an insurance broker company licence | Section 64ZA(3)
+
+- 5. | Refusal to grant a technical representative (broker) licence | Section 64ZC(2)
+
+- 6. | Refusal to approve an individual as a responsible officer of a licensed insurance agency | Section 64ZE(3)
+
+- 7. | Refusal to approve an individual as a responsible officer of a licensed insurance broker company | Section 64ZF(3)
+
+- 8. | Imposition, amendment or revocation of a condition in relation to a licence granted under section 64U, 64W, 64Y, 64ZA or 64ZC or approval granted under section 64ZE or 64ZF | Section 64ZG
+
+- 9. | Revocation of the approval granted under section 64ZE | Section 64ZL(2)
+
+- 10. | Revocation of the approval granted under section 64ZF | Section 64ZM(2)
+
+- 11. | Refusal to renew a licence granted under section 64U, 64W, 64Y, 64ZA or 64ZC | Section 64ZV(4)
+
+- 12. | Imposition, amendment or revocation of a condition in relation to a renewal of a licence granted under section 64U, 64W, 64Y, 64ZA or 64ZC | Section 64ZW
+
+- 13. | Exercise of power to take disciplinary action | Section 81(1), (2) and (3)
+
+- 14. | Revocation or suspension of a licence or approval that is regarded as having been granted under Part 5 of Schedule 11 | Section 110 of Schedule 11
+
+- 15. | Imposition, amendment or revocation of a condition in relation to a licence or approval that is regarded as having been granted under Part 5 of Schedule 11 | Section 111 of Schedule 11
+
+- 16. | Imposition of a disciplinary sanction on a specified person as defined by section 112 of Schedule 11 | Section 113(4) of Schedule 11

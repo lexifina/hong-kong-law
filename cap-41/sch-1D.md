@@ -24,7 +24,7 @@ Non-delegable Functions of Authority
 
   - (h) to withdraw a reference from a committee, or to revoke an appointment of a member or chairperson of a committee under section 4D(5);
 
-  - (i) (Addition not yet in operation—see 12 of 2015 s. 90)
+  - (i) to delegate the powers under sections 64ZZF(6) and 64ZZH(1) to the Monetary Authority under section 4G(1), or to revoke the delegation under section 4G(3);
 
   - (j) to submit to the Financial Secretary corporate plans under section 5B(3);
 
@@ -34,9 +34,9 @@ Non-delegable Functions of Authority
 
   - (m) to authorize a company to carry on a class or classes of insurance business under section 8;
 
-  - *(n) to appoint a person, other than an employee of the Authority, to investigate any matter referred to in sections 41D(1) and 64ZZH(1);
+  - (n) to appoint a person, other than an employee of the Authority, to investigate any matter referred to in sections 41D(1) and 64ZZH(1);
 
-  - **(o) to publish codes or guidelines under section 41R, 83, 95 or 133;
+  - (o) to publish codes or guidelines under section 41R, 83, 95 or 133;
 
   - (p) to specify the time at which a specified decision as defined by section 96 is to take effect;
 
@@ -47,9 +47,3 @@ Non-delegable Functions of Authority
   - (s) to make an application under section 145(1) of the Financial Institutions (Resolution) Ordinance (Cap. 628); (Added 23 of 2016 ss. 208A & 241. Amended E.R. 2 of 2017)
 
   - (t) to issue a code of practice under section 196 of the Financial Institutions (Resolution) Ordinance (Cap. 628). (Added 23 of 2016 ss. 208A & 241. Amended E.R. 2 of 2017)
-
-Editorial Note:
-
-* | Section 1(n) of Schedule 1D of this Ordinance as added by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017, except in so far as it relates to the new section 64ZZH(1)—see paragraph (zd)(iii) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
-
-** | Section 1(o) of Schedule 1D of this Ordinance as added by section 90 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) came into operation on 26 June 2017, except in so far as it relates to the new sections 83 and 95—see paragraph (zd)(iv) of the Insurance Companies (Amendment) Ordinance 2015 (Commencement) Notice 2017 (L.N. 71 of 2017).
