@@ -1,109 +1,275 @@
-# SCHEDULE 2
+# Schedule 2
 
-[ss. 7, 11 & 61]
+[ss. 7 & 61 & Schs. 3A & 4]
 
-PROVISIONS RELATING TO COUNCIL AND ITS MEMBERS
+Financial Reporting Council
 
-- 1. Seal
+- Part 1 Interpretation
 
-  - (1) The affixing of the common seal of the Council is to be authenticated by the signature of—
+  - 1. Interpretation
 
-    - (a) the Chairman of the Council; or
+    - (1) In this Schedule—
 
-    - (b) such other member of the Council authorized by it for the purpose.
+      - Chairperson (主席) means the chairperson of the FRC;
 
-  - (2) Any document purporting to be a document duly executed under the seal of the Council is to be received in evidence and is, unless the contrary is proved, to be deemed to be a document so executed.
+      - Chief Executive Officer (行政總裁) means the chief executive officer of the FRC;
 
-- 2. Tenure of appointed members
+      - Deputy Chairperson (副主席) means the deputy chairperson of the FRC;
 
-  - (1) An appointed member of the Council is to be appointed for a term not exceeding 3 years.
+      - FRC member (財匯局成員) means a member of the FRC appointed under section 7.
 
-  - (2) On the expiry of his period of appointment or reappointment, an appointed member of the Council is eligible for reappointment.
+    - (2) In this Schedule, a reference to a person being unable to perform the person’s functions is a reference to the person being unable to do so due to illness, absence from Hong Kong or any other reason.
 
-  - (3) An appointed member of the Council may resign from office by giving notice in writing to the Chief Executive. A notice of resignation takes effect on the date specified in the notice or, if no date is specified, on the date of receipt by the Chief Executive of the notice.
+- Part 2 Office of FRC Members
 
-- 3. Acting Chairman or temporary member
+  - 2. Appointment of Deputy Chairperson The Chief Executive may appoint an FRC member (other than the Chairperson or the Chief Executive Officer) to be the Deputy Chairperson.
 
-  - (1) If—
+  - 3. Functions of FRC members An FRC member has the functions assigned to the member by the FRC.
 
-    - (a) because of absence from Hong Kong or any other reason, the Chairman of the Council is unable to perform the functions of his office as Chairman; or
+  - 4. Terms and conditions of office of FRC members
 
-    - (b) there is a vacancy in the office of Chairman of the Council,
+    - (1) The Chief Executive is to determine the terms and conditions of the office of an FRC member.
 
-  - the Chief Executive may appoint another appointed member of the Council who is a lay person to act as Chairman of the Council during the absence, incapacity or vacancy.
+    - (2) The remuneration, allowances and expenses of an FRC member, as determined by the Chief Executive, are to be paid out of the funds of the FRC.
 
-  - (2) If, because of absence from Hong Kong or any other reason, an appointed member of the Council, other than the Chairman, is unable to perform the functions of his office as member, the Chief Executive may, subject to subsection (3), appoint another person to be a temporary member in his place during his absence or incapacity.
+  - 5. Resignation of FRC members
 
-  - (3) If the Chief Executive is to appoint a person to be a temporary member in the place of an appointed member of the Council who was appointed under section 7(1)(c)(i), (ii) or (iii) of this Ordinance on the nomination of another person, the Chief Executive shall make the appointment on the nomination of that other person.
+    - (1) An FRC member may at any time resign from office by written notice to the Chief Executive.
 
-  - (4) If a person is appointed to act as Chairman of the Council, the person may perform all the functions of the Chairman.
+    - (2) Unless it is otherwise provided in the terms and conditions referred to in section 4(1) of this Schedule, a notice of resignation takes effect on—
 
-  - (5) If a person is appointed as a temporary member of the Council, the person may perform all the functions of the member in whose place the person is appointed.
+      - (a) the day on which the notice is received by the Chief Executive; or
 
-- 4. Terms and conditions of appointment of
+      - (b) if a later day is specified in the notice—that later day.
 
-- members All matters relating to the terms and conditions of the appointment of an appointed member of the Council are to be determined by the Chief Executive.
+  - 6. Removal of FRC members
 
-- 5. Removal of appointed members
+    - (1) The Chief Executive may remove an FRC member from office if the Chief Executive is satisfied that the member—
 
-  - (1) If the Chief Executive is satisfied that an appointed member of the Council—
+      - (a) has ceased to be a non-practitioner;
 
-    - (a) has become a public officer;
+      - (b) has become a public officer;
 
-    - (b) has become bankrupt;
+      - (c) has become bankrupt;
 
-    - (c) is incapacitated by physical or mental illness;
+      - (d) is convicted in Hong Kong of an offence that is punishable by imprisonment for 12 months or more, or is convicted elsewhere than in Hong Kong of an offence that, if committed in Hong Kong, would be an offence so punishable; or
 
-    - (d) is convicted in Hong Kong of an offence that is punishable by imprisonment for 12 months or more or is convicted elsewhere than in Hong Kong of an offence that, if committed in Hong Kong, would be an offence so punishable; or
+      - (e) is otherwise unable or unfit to perform the functions of an FRC member.
 
-    - (e) is otherwise unable or unfit to perform the functions of a member of the Council,
+    - (2) The Chief Executive must publish in the Gazette a notice of each removal under subsection (1).
 
-  - the Chief Executive may declare his office as member of the Council to be vacant, and upon such declaration the office becomes vacant.
+- Part 3 Acting Arrangements
 
-  - (2) The Chief Executive shall give notice of a declaration under subsection (1) in such manner as he thinks fit.
+  - 7. Acting Chairperson
 
-  - (3) Subsection (4) applies if notice of a declaration is given under subsection (2) otherwise than by notice published in the Gazette.
+    - (1) If the office of Chairperson is vacant or the Chairperson is unable to perform the Chairperson’s functions, the Deputy Chairperson must act as Chairperson.
 
-  - (4) The Chief Executive shall, as soon as practicable after having given notice under subsection (2), give another notice of the declaration by notice published in the Gazette.
+    - (2) Whether or not the Deputy Chairperson has been appointed, the Chairperson may—
 
-- 6. Meetings and proceedings of Council
+      - (a) designate an FRC member to act as Chairperson for any period during which both the Chairperson and the Deputy Chairperson are unable to act as Chairperson; and
 
-  - (1) Meetings are to be held as often as necessary to enable the Council to perform its functions.
+      - (b) at any time revoke the designation.
 
-  - (2) A meeting of the Council may be convened by the Chairman of the Council. The Chairman of the Council is to convene a meeting of the Council on being given a notice for that purpose by 2 or more other members of the Council.
+    - (3) Subsection (4) applies if—
 
-  - (3) The procedure for convening meetings of the Council and for the conduct of business at those meetings is, subject to this Ordinance, to be determined by the Council.
+      - (a) the office of Deputy Chairperson is vacant;
 
-  - (4) The quorum for a meeting of the Council is two thirds of the members of the Council.
+      - (b) the Deputy Chairperson appointed is unable to act as Chairperson;
 
-  - (5) A member of the Council is regarded as being present at a meeting of the Council if—
+      - (c) no designation under subsection (2)(a) is in force; or
 
-    - (a) he participates in the meeting by telephone, video conferencing or other electronic means; and
+      - (d) the FRC member designated under subsection (2)(a) is unable to act as Chairperson.
 
-    - (b) he is able to communicate with the other members present at the meeting and they are able to communicate with him.
+    - (4) The Financial Secretary may—
 
-  - (6) If a member of the Council is required under section 53(5) or (6) of this Ordinance not to be present during any deliberation of, or not to take part in any decision of or the making of a determination by, the Council, he is not to be counted for the purpose of forming a quorum at such part of a meeting of the Council that is held for such deliberation or decision or the making of such determination.
+      - (a) designate an FRC member to act as Chairperson for any period during which the Chairperson is unable to perform the Chairperson’s functions; and
 
-  - (7) The Chairman of the Council shall preside at all meetings of the Council. Subject to section 3(1), if the Chairman is absent from any meeting or any part of the meeting, he may nominate an appointed member of the Council who is a lay person to preside in his absence as Chairman at the meeting or that part of the meeting.
+      - (b) at any time revoke the designation.
 
-  - (8) At a meeting of the Council, each member of the Council present has one vote.
+    - (5) A designation under subsection (4)(a) ceases to have effect when the earliest of the following events occurs—
 
-  - (9) Subject to subsection (10), every matter for decision at a meeting of the Council is to be determined by a majority of the votes of the members of the Council present. In the case of an equality of votes, the Chairman of the Council, or the member of the Council nominated by the Chairman to preside at the meeting, has a casting vote.
+      - (a) the designation is revoked by the Financial Secretary;
 
-  - (10) For the purposes of subsection (9), the number of the votes that constitutes the majority, apart from the casting vote (if any), is to be 4 or more.
+      - (b) the designated FRC member is unable to act as Chairperson;
 
-- 7. Transaction of business by circulation of papers
+      - (c) if the designation is made in the circumstances mentioned in subsection (3)(a)—an appointment is made under section 2 of this Schedule;
 
-  - (1) The Council may transact any of its business by circulation of papers.
+      - (d) if the designation is made in the circumstances mentioned in subsection (3)(b)—the Deputy Chairperson is able to act as Chairperson;
 
-  - (2) A written resolution that is approved in writing by all the members of the Council present in Hong Kong (being not less than the number required to constitute two thirds of the members of the Council) is as valid and effectual as if it had been duly passed at a meeting of the Council by the votes of the members of the Council so approving the resolution.
+      - (e) if the designation is made in the circumstances mentioned in subsection (3)(c)—a designation is made under subsection (2)(a);
 
-- 8. Committees
+      - (f) if the designation is made in the circumstances mentioned in subsection (3)(d)—the designated FRC member is able to act as Chairperson.
 
-  - (1) The Council may establish committees for any general or special purposes as it thinks fit.
+    - (6) An FRC member acting as Chairperson under this section is to be regarded for all purposes to be the Chairperson.
 
-  - (2) The Council shall appoint one of its members to be the chairman of such a committee.
+    - (7) Despite subsection (6), an executive director or non-executive director of the FRC who acts as Chairperson under this section does not cease to be regarded as such a director only because the director is acting as Chairperson.
 
-  - (3) The Council may appoint other members of such a committee. The number of such other members who are members of the Council is to exceed the number of those who are not.
+  - 8. Acting Chief Executive Officer
 
-  - (4) The procedure for convening meetings of such a committee and for the conduct of business at those meetings is, subject to any direction of the Council, to be determined by the committee.
+    - (1) The Chief Executive Officer may—
+
+      - (a) designate an executive director of the FRC to act as Chief Executive Officer for any period during which the Chief Executive Officer is unable to perform the Officer’s functions; and
+
+      - (b) at any time revoke the designation.
+
+    - (2) Subsection (3) applies if—
+
+      - (a) no designation under subsection (1)(a) is in force; or
+
+      - (b) the executive director designated under subsection (1)(a) is unable to act as Chief Executive Officer.
+
+    - (3) The Financial Secretary may—
+
+      - (a) designate an executive director of the FRC to act as Chief Executive Officer for any period during which the Chief Executive Officer is unable to perform the Officer’s functions; and
+
+      - (b) at any time revoke the designation.
+
+    - (4) A designation under subsection (3)(a) ceases to have effect when the earliest of the following events occurs—
+
+      - (a) the designation is revoked by the Financial Secretary;
+
+      - (b) the designated executive director is unable to act as Chief Executive Officer;
+
+      - (c) the Chief Executive Officer is able to perform the Officer’s functions.
+
+    - (5) An executive director of the FRC acting as Chief Executive Officer under this section is to be regarded for all purposes to be the Chief Executive Officer.
+
+- Part 4 Meetings of FRC
+
+  - 9. General procedures for meetings
+
+    - (1) Meetings of the FRC are to be held as often as necessary to enable the FRC to perform its functions.
+
+    - (2) A meeting of the FRC may be convened by the Chairperson.
+
+    - (3) The Chairperson must convene a meeting of the FRC on being given a notice for that purpose by 2 or more other FRC members.
+
+    - (4) The procedures for convening meetings of the FRC and for the conduct of business at those meetings are, subject to this Ordinance, to be determined by the FRC.
+
+  - 10. Quorum
+
+    - (1) The quorum for a meeting of the FRC is constituted by—
+
+      - (a) one-third of the executive directors of the FRC; and
+
+      - (b) one-third of the non-executive directors of the FRC.
+
+    - (2) For the purposes of subsection (1)—
+
+      - (a) if the number that is equal to one-third of the executive directors or non-executive directors of the FRC is not a whole number, that number is to be rounded up to the nearest whole number;
+
+      - (b) an executive director of the FRC who acts as Chairperson is only counted as an executive director of the FRC; and
+
+      - (c) a non-executive director of the FRC who acts as Chairperson is only counted as a non-executive director of the FRC.
+
+    - (3) If an FRC member is required under section 53(5) or (6)—
+
+      - (a) not to be present during any deliberation of the FRC;
+
+      - (b) not to take part in any decision of the FRC; or
+
+      - (c) not to take part in the making of a determination by the FRC,
+
+    - the member is not to be counted for the purpose of forming a quorum at the part of the meeting of the FRC held for such deliberation, decision or determination.
+
+    - (4) An FRC member who participates in a meeting of the FRC by telephone, video conferencing or other electronic means is to be regarded as being present at the meeting if—
+
+      - (a) that member is able to hear the other FRC members who are physically present at the meeting; and
+
+      - (b) the FRC members who are physically present at the meeting are able to hear that member.
+
+  - 11. Presiding member at meetings A meeting of the FRC is to be presided over by the first of the following persons (in descending order of priority) who is able to preside at the meeting—
+
+    - (a) the Chairperson;
+
+    - (b) the Deputy Chairperson;
+
+    - (c) the FRC member designated under section 7(2)(a) of this Schedule;
+
+    - (d) the FRC member designated under section 7(4)(a) of this Schedule; or
+
+    - (e) an FRC member who is chosen, for this purpose, by other FRC members present at the meeting.
+
+  - 12. Voting at meetings
+
+    - (1) Each FRC member present at a meeting of the FRC has 1 vote.
+
+    - (2) Every question to be decided at a meeting of the FRC must be determined by a majority of the votes of its members present.
+
+    - (3) If the votes on a question are equally divided, the FRC member who presides at the meeting has, subject to subsection (4), a casting vote.
+
+    - (4) The FRC member who presides at a meeting of the FRC must not exercise a casting vote on a question at the meeting until after the member has consulted the Financial Secretary on the question.
+
+  - 13. Circulation of papers and written resolution
+
+    - (1) The FRC may transact any of its business by circulation of papers.
+
+    - (2) A resolution that meets the requirements set out in subsection (3) is as valid as if it had been passed at a meeting of the FRC.
+
+    - (3) The requirements are—
+
+      - (a) the resolution is in writing;
+
+      - (b) the resolution is signed by all the FRC members who are, when the resolution is made available for signature, present in Hong Kong and capable of signing the resolution; and
+
+      - (c) the resolution is signed by—
+
+        - (i) at least one-third of the executive directors of the FRC; and
+
+        - (ii) at least one-third of the non-executive directors of the FRC.
+
+    - (4) For the purposes of subsection (3)—
+
+      - (a) a resolution may be—
+
+        - (i) in the form of one document; or
+
+        - (ii) in the form of more than one document, each of which is in the same form; and
+
+      - (b) if the number that is equal to one-third of the executive directors or non-executive directors of the FRC is not a whole number, that number is to be rounded up to the nearest whole number.
+
+    - (5) If a resolution is in the form of more than one document, the requirements under subsection (3)(b) and (c) are to be regarded as having been met if the documents together bear the signatures of the numbers of FRC members as specified in that subsection.
+
+    - (6) For the purposes of this section—
+
+      - (a) a resolution is regarded as having been signed by an FRC member if a fax or electronic transmission of the resolution bears the signature of the member; and
+
+      - (b) a resolution is regarded as made on the day on which the resolution is signed by the last person signing as an FRC member.
+
+- Part 5 Miscellaneous
+
+  - 14. Committees
+
+    - (1) The FRC may establish one or more committees to assist it in a matter with which it is concerned.
+
+    - (2) The FRC—
+
+      - (a) must appoint an FRC member to be the chairperson of a committee; and
+
+      - (b) may, subject to subsection (3), appoint other members of a committee, whether or not any of them is also an FRC member.
+
+    - (3) Among the members of a committee, the number of FRC members must exceed the number of non-FRC members.
+
+    - (4) The FRC may refer a matter with which it is concerned to a committee for consideration, inquiry or management.
+
+    - (5) The FRC may—
+
+      - (a) revoke an appointment under subsection (2); or
+
+      - (b) withdraw a reference under subsection (4).
+
+    - (6) The procedures for convening meetings of a committee and for the conduct of business at those meetings are, subject to any direction of the FRC, to be determined by the committee.
+
+  - 15. Seal
+
+    - (1) The FRC must have a seal the affixing of which must be authenticated by—
+
+      - (a) the signature of the Chairperson or the Deputy Chairperson; or
+
+      - (b) the signature of another FRC member authorized to sign on behalf of the FRC.
+
+    - (2) A document purporting to be a document duly executed under the seal of the FRC is to be received in evidence without further proof and is, unless the contrary is proved, to be regarded as a document so executed on being received in evidence.
+
+  - 16. Organization of administration etc. The FRC must organize and regulate its administration, procedure and business in a way that it considers will, subject to the requirements of this Ordinance, best ensure the performance of its functions.
+
+(Schedule 2 replaced 3 of 2019 s. 78)

@@ -20,11 +20,7 @@ SERVICES TO BE PROVIDED BY THE TRADING FUND
 
 - 6. Monitoring the adequacy of the regulatory framework embodied in any Ordinance referred to in this Schedule and in other Ordinances where the Registrar of Companies has been specified, and advising the Government on any need for change.
 
-- 6A. Supporting the Financial Reporting Council established by section 6(1) of the Financial Reporting Council Ordinance (Cap. 588) in the performance of its functions by—
-
-  - (a) providing the service of the Registrar of Companies as an ex officio member of the Council; and
-
-  - (b) making contributions, whether in cash or in kind, to sponsor the performance by the Council of any of its functions. (18 of 2006 s. 82)
+- 6A. (Repealed 3 of 2019 s. 91)
 
 - 7. Any service that the Registrar of Companies may be authorized to provide under or by virtue of any other Ordinance.
 

@@ -1,4 +1,6 @@
-An Ordinance to provide for the establishment of a Financial Reporting Council to investigate irregularities committed by auditors of listed corporations and of listed collective investment schemes in respect of the audit of accounts, and irregularities committed by reporting accountants of such corporations and of such schemes in respect of the preparation of financial reports for prospectuses or other listing documents, and to enquire into instances of non-compliance with legal, accounting or regulatory requirements in the financial reports of such corporations and of such schemes, for the establishment of an Audit Investigation Board to conduct such investigations, for the appointment by the Council of a Financial Reporting Review Committee to make such enquiries, and for related matters.
+An Ordinance to establish a Financial Reporting Council acting in the public interest as an independent oversight body of auditors of listed entities; to regulate those auditors through registration, recognition, inspection, investigation and disciplinary sanction; to provide for a review and appeal mechanism regarding decisions made against those auditors; to provide for enquiries into non-compliances with regulatory requirements for financial reports of listed entities; to provide for the levies payable to the Council; and to provide for related matters.
+
+(Amended 3 of 2019 s. 3)
 
 [1 December 2006] L.N. 204 of 2006
 
