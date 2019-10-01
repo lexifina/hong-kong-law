@@ -1,6 +1,8 @@
 # FIRST SCHEDULE
 
-[regs. 3, 8 & 12]
+[regs. 3, 8, 12 & 12A]
+
+(L.N. 111 of 2019)
 
 FEES
 
