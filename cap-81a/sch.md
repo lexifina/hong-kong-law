@@ -1,6 +1,8 @@
 # SCHEDULE
 
-[regs. 5C, 7D & 22]
+[regs. 5C, 7D, 22 & 23]
+
+(L.N. 100 of 2019)
 
 FEES AND CHARGES
 
