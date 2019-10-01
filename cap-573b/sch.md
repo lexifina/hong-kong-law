@@ -1,6 +1,8 @@
 # SCHEDULE
 
-[s. 3]
+[ss. 3 & 4]
+
+(L.N. 110 of 2019)
 
 FEES
 
