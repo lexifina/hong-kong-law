@@ -144,7 +144,9 @@ Contributions to Fund
 
       - (i) shall not include—
 
-        - (A) any amount in excess of $10,000,000 in respect of any one claim; (L.N. 528 of 1994)
+        - (A) for all claims first made before 1 October 2019 against persons who are entitled to be provided with Indemnity—any amount in excess of $10,000,000 in respect of any one claim; (L.N. 52 of 2019)
+
+        - (AB) for all claims first made on or after 1 October 2019 against persons who are entitled to be provided with Indemnity—any amount in excess of $20,000,000 in respect of any one claim; (L.N. 52 of 2019)
 
         - (B) the amount of any claim paid by insurers under the former Master Policy on behalf of the indemnified prior to 1 October 1986 the full amount of which is paid by the indemnified to authorized insurers under the first Master Policies prior to 1 October 1986 provided that this exclusion shall only apply in respect of claims paid by insurers under the former Master Policy (and repaid by the indemnified) which do not exceed the aggregate of 50% of the premiums paid by the indemnified in respect of compulsory professional indemnity insurance in respect of the 4 indemnity periods prior to 1 October 1986;
 
