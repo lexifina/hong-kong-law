@@ -42,13 +42,13 @@ International Standard The International Standard is established by the Internat
 
 6. Child safety barriers for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 1930:2011 “Child use and care articles—Safety barriers—Safety requirements and test methods”
 
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1004-16b “Standard consumer safety specification for expansion gates and expandable enclosures” (Amended L.N. 110 of 2010; L.N. 102 of 2017)
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1004-18 “Standard consumer safety specification for expansion gates and expandable enclosures” (Amended L.N. 110 of 2010; L.N. 102 of 2017; L.N. 49 of 2019)
 
 7. Children’s cots for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
 
-(a) | BS EN 716-1:2008 + A1:2013 “Furniture—Children’s cots and folding cots for domestic use—Part 1: Safety requirements”
+(a) | BS EN 716-1:2017 “Furniture—Children’s cots and folding cots for domestic use—Part 1: Safety requirements”
 
-(b) | BS EN 716-2:2008 + A1:2013 “Furniture—Children’s cots and folding cots for domestic use—Part 2: Test methods”
+(b) | BS EN 716-2:2017 “Furniture—Children’s cots and folding cots for domestic use—Part 2: Test methods”
 
 ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1169-13 “Standard consumer safety specification for full-size baby cribs”
 
@@ -56,25 +56,21 @@ International Standard The International Standard is established by the Internat
 
 (a) | ISO 7175-1:1997 “Children’s cots and folding cots for domestic use—Part 1: Safety requirements”
 
-(b) | ISO 7175-2:1997 “Children’s cots and folding cots for domestic use—Part 2: Test methods” (Amended L.N. 110 of 2010)
+(b) | ISO 7175-2:1997 “Children’s cots and folding cots for domestic use—Part 2: Test methods” (Amended L.N. 110 of 2010; L.N. 49 of 2019)
 
-8. Children’s high chairs and multi-purpose high chairs for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
+8. Children’s high chairs and multi-purpose high chairs for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 14988:2017 “Children’s high chairs—Requirements and test methods”
 
-(a) | BS EN 14988-1:2006 + A1:2012 “Children’s high chairs—Part 1: Safety requirements”
-
-(b) | BS EN 14988-2:2006 + A1:2012 “Children’s high chairs—Part 2: Test methods”
-
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F404-17 “Standard consumer safety specification for high chairs” International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in—
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F404-18 “Standard consumer safety specification for high chairs” International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in—
 
 (a) | ISO 9221-1:2015 “Furniture—Children’s high chairs—Part 1: Safety requirements”
 
-(b) | ISO 9221-2:2015 “Furniture—Children’s high chairs—Part 2: Test methods” (Amended L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018)
+(b) | ISO 9221-2:2015 “Furniture—Children’s high chairs—Part 2: Test methods” (Amended L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019)
 
-9. Children’s paints | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 71-3:2013 + A1:2014 “Safety of toys—Part 3: Migration of certain elements” ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-17 “Standard consumer safety specification for toy safety”
+9. Children’s paints | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 71-3:2013 + A3:2018 “Safety of toys—Part 3: Migration of certain elements” ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-17 “Standard consumer safety specification for toy safety”
 
 Joint Australian/New Zealand Standard The Joint Australian/New Zealand Standard is established by Standards Australia and Standards New Zealand, and the requirements contained in the Standard are specified in— AS/NZS 8124.3:2012 (incorporating Amendment 1:2016) “Safety of toys—Part 3: Migration of certain elements”
 
-International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in— ISO 8124-3:2010 (incorporating Amendment 1:2014) “Safety of toys—Part 3: Migration of certain elements” (Amended L.N. 110 of 2010; L.N. 7 of 2016; L.N. 63 of 2018)
+International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in— ISO 8124-3:2010 (incorporating Amendment 1:2014) “Safety of toys—Part 3: Migration of certain elements” (Amended L.N. 110 of 2010; L.N. 7 of 2016; L.N. 63 of 2018; L.N. 49 of 2019)
 
 10. Children’s safety harnesses | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
 
@@ -82,7 +78,7 @@ BS EN 13210:2004 “Child use and care articles—Children’s safety harnesses,
 
 11. Playpens for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 12227:2010 “Playpens for domestic use—Safety requirements and test methods”
 
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F406-15 “Standard consumer safety specification for non-full-size baby cribs/play yards” (Amended L.N. 110 of 2010; L.N. 102 of 2017)
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F406-17 “Standard consumer safety specification for non-full-size baby cribs/play yards” (Amended L.N. 110 of 2010; L.N. 102 of 2017; L.N. 49 of 2019)
 
 12. Wheeled child conveyances | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 1888:2012 “Child care articles—Wheeled child conveyances—Safety requirements and test methods”
 
