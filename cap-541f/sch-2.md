@@ -8,6 +8,4 @@ Form of Ballot Paper for an Ordinary Election/ By-election
 
 * | Only the appropriate information will be printed.
 
-+ | Address of the candidate to be included if required under section 52(7)(b).
-
-(Schedule 2 replaced L.N. 79 of 2007. E.R. 2 of 2019)
+(Schedule 2 replaced L.N. 79 of 2007. E.R. 2 of 2019; L.N. 144 of 2019)
