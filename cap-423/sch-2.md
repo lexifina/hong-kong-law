@@ -304,4 +304,6 @@ Item | Body
 
 161. | The Free Methodist Church of Hong Kong (Added L.N. 1 of 2016)
 
+162. | Youth Centre of The True Word Lutheran Church operated by The True Word Lutheran Church Limited (Added L.N. 159 of 2019)
+
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
