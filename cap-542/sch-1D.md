@@ -8,9 +8,11 @@ Composition of the Information Technology Functional Constituency
 
 - Item | Body
 
-- 1. | APT Satellite Company Limited. (Amended 10 of 2006 s. 42)
+- 1. | APT Satellite Company Limited (Amended 10 of 2006 s. 42)
 
-- 2. | Asia Satellite Telecommunications Company Limited.
+- 2. | Asia Satellite Telecommunications Company Limited
+
+- (Amended E.R. 5 of 2019)
 
 - Part 2
 
@@ -42,4 +44,4 @@ Composition of the Information Technology Functional Constituency
 
 - Part 3
 
-  - 1. Definition In Part 2, relevant period (有關期間), in relation to a person, means the period of 4 years immediately preceding the date on which that person applies for registration as an elector of the information technology functional constituency. (Replaced 25 of 2003 s. 47)
+  - 1. Definition In Part 2, relevant period (有關期間), in relation to a person, means the period of 4 years immediately preceding the date on which that person applies for registration as an elector of the information technology functional constituency. (Schedule 1D replaced 25 of 2003 s. 47)

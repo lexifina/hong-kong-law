@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 Water Quality Objective | Part or parts of Zone
 
@@ -26,7 +26,7 @@ B. | BACTERIA
 
 C. | DISSOLVED OXYGEN
 
-(a) Waste discharges shall not cause the level of dissolved oxygen to fall below 4 milligrams per litre for 90% of the sampling occasions during the year; values should be calculated as the water column average (arithmetic mean of at least 3 measurements at 1 metre below surface, mid-depth, and 1 metre above seabed). In addition, the concentration of dissolved oxygen should not be less than 2 milligrams per litre within 2 metres of the seabed for 90% of the sampling occasions during the year. | Marine waters excepting Fish Culture Subzones
+(a) Waste discharges shall not cause the level of dissolved oxygen to fall below 4 milligrams per litre for 90% of the sampling occasions during the year; values should be calculated as the water column average (arithmetic mean of at least 3 measurements at 1 metre below surface, mid-depth and 1 metre above seabed). In addition, the concentration of dissolved oxygen should not be less than 2 milligrams per litre within 2 metres of the seabed for 90% of the sampling occasions during the year. (E.R. 5 of 2019) | Marine waters excepting Fish Culture Subzones
 
 (b) The dissolved oxygen level should not be less than 5 milligrams per litre for 90% of the sampling occasions during the year; values should be calculated as water column average (arithmetic mean of at least 3 measurements at 1 metre below surface, mid-depth and 1 metre above seabed). In addition, the concentration of dissolved oxygen should not be less than 2 milligrams per litre within 2 metres of the seabed for 90% of the sampling occasions during the year. | Fish Culture Subzones
 
