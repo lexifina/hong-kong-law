@@ -274,6 +274,8 @@ Public Bodies
 
 133. | Private Columbaria Appeal Board established under section 83 of the Private Columbaria Ordinance (Cap. 630). (Added 8 of 2017 s. 131. Amended E.R. 4 of 2017)
 
+134. | Travel Industry Authority (including any committees and working groups established under the Travel Industry Ordinance (Cap. 634)). (Added 37 of 2018 s. 171. Amended E.R. 1 of 2019)
+
 (Replaced L.N. 272 of 1974)
 
 Editorial Note:
