@@ -4,8 +4,6 @@
 
 Travel Industry Authority
 
-(Not yet in operation)
-
 - Part 1 Members
 
   - 1. Appointment of members of Authority
@@ -244,7 +242,7 @@ Travel Industry Authority
 
   - 17. Financial year The financial year of the Authority is—
 
-    - (a) the period beginning on the commencement date of this section and ending on the next 31 March; or
+    - (a) the period beginning on the commencement date* of this section and ending on the next 31 March; or
 
     - (b) the period of 12 months ending on 31 March in each subsequent year.
 
@@ -503,3 +501,7 @@ Travel Industry Authority
     - (1) The Authority may give written directions to a committee or working group, whether generally or in any particular case, and whether regarding the way in which it must act or otherwise.
 
     - (2) The committee or working group must act in accordance with the directions.
+
+Editorial Note:
+
+* Commencement date: 2 December 2019.
