@@ -18,19 +18,15 @@ Restricted Zones
 
 - (ii) | the section of the eastern kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its junction with Airport Road to a point about 1 050 m north of the same junction; and
 
-- (iii) | the section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its junction with Airport Road to a point about 1 050 m north of the same junction. (L.N. 40 of 2013)
+- (iii) | the section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its junction with Airport Road to a point about 1 116 m north of the same junction. (L.N. 40 of 2013; L.N. 138 of 2019)
 
 - (c) | Cheong Wong Road.
 
 - (d) | The section of Cheong Hing Road from its junction with Airport North Interchange to the ramp to Airport Station, being the area shown in red on a plan numbered PSU/P350/G/2001/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
-- (e) | South Perimeter Road except the southern kerbside lane of South Perimeter Road from a point about 655 m west of the junction of South Perimeter Road with Chun Wan Road roundabout to a point about 665 m west of the same junction. (L.N. 40 of 2013)
+- (e) | South Perimeter Road. (L.N. 138 of 2019)
 
-- (f) | East Coast Road except the eastern kerbside lane of East Coast Road from a point about 75 m south of the junction of the southbound carriageway of East Coast Road with Tung Fai Road to a point about 840 m north of the same junction, excluding—
-
-- (i) | a section from a point about 120 m north of the same junction to a point about 130 m north of the same junction; and
-
-- (ii) | a section from a point about 150 m north of the same junction to a point about 160 m north of the same junction. (L.N. 40 of 2013)
+- (f) | East Coast Road. (L.N. 138 of 2019)
 
 - (g) | Cheong Yip Road.
 
@@ -56,13 +52,7 @@ Restricted Zones
 
 - (p) | Scenic Road.
 
-- (q) | The section of Chek Lap Kok South Road from its junction with South Perimeter Road to a point about 1 330 m south-east of the same junction except— (L.N. 40 of 2013)
-
-- (i) | the northern kerbside lane of Chek Lap Kok South Road from a point about 287 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 290 m east of the same junction;
-
-- (ii) | the northern kerbside lane of Chek Lap Kok South Road from a point about 343 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 348 m east of the same junction; and
-
-- (iii) | the northern kerbside lane of Chek Lap Kok South Road from a point about 400 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 404 m east of the same junction. (L.N. 40 of 2013)
+- (q) | The section of Chek Lap Kok South Road from its junction with South Perimeter Road to a point about 1 330 m south-east of the same junction. (L.N. 40 of 2013; L.N. 138 of 2019)
 
 - (r) | (Repealed L.N. 22 of 2018)
 
@@ -116,6 +106,12 @@ Restricted Zones
 
 - (zq) | The access road to and from the Northern (Landside) Petrol Filling Station, being the areas shown in red on a plan numbered TSD/000/C/1758A and deposited in the head office of the Authority. (L.N. 22 of 2018)
 
+- (zr) | The section of Kwo Lo Wan Road from its junction with Tung Fai Road to a point about 430 m west of the same junction. (L.N. 138 of 2019)
+
+- (zs) | The section of Tung Wing Road from its junction with Airport Road to a point about 80 m south of the same junction. (L.N. 138 of 2019)
+
+- (zt) | The section of Chek Lap Kok Road from its junction with Sky City Interchange to a point about 20 m east of the same junction. (L.N. 138 of 2019)
+
 - 2. | (a) | The section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction. | All motor vehicles except franchised buses and taxis.
 
 - (b) | (Repealed L.N. 230 of 2008)
@@ -134,17 +130,13 @@ Restricted Zones
 
 - (e) | (Repealed L.N. 22 of 2018)
 
-- 5. | (a) | The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its southern junction with Airport Road to a point about 1 050 m north from the same junction. (L.N. 202 of 2006; L.N. 40 of 2013) | All goods vehicles.
+- 5. | (a) | The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its southern junction with Airport Road to a point about 1 116 m north of the same junction. (L.N. 202 of 2006; L.N. 40 of 2013; L.N. 138 of 2019) | All goods vehicles.
 
 - (b) | The eastern kerbside lane, including the laybys, of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2009/A and deposited in the head office of the Authority. (L.N. 230 of 2008)
 
-- 6. | Tung Fai Road except— (L.N. 40 of 2013) | All motor vehicles except franchised buses.
+- 6. | Tung Fai Road. (L.N. 138 of 2019) | All motor vehicles except franchised buses.
 
-- (a) | the southern kerbside lane of Tung Fai Road from a point about 20 m east of the junction of Tung Fai Road with East Coast Road to the same junction; and
-
-- (b) | the northern kerbside lane of Tung Fai Road from a point about 15 m east of the junction of Tung Fai Road with East Coast Road to the same junction. (L.N. 207 of 2000; L.N. 40 of 2013)
-
-- 7. | The road intersecting the south end of Tung Fai Road, being the area delineated by hatching on a plan numbered AMD/LOD/GZ/008A and deposited in the head office of the Authority. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
+- 7. | (Repealed L.N. 138 of 2019)
 
 - Part 2
 
@@ -157,8 +149,6 @@ Restricted Zones
 - 2. | Light Goods Vehicles Loading Area to the east of Cheong Shun Road, being the area shown in green on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) | Light goods vehicles. | Unloading goods.
 
 - (b) | Other motor vehicles. | Picking up passengers, setting down passengers, loading goods and unloading goods.
-
-- Column 1 | Column 2 | Column 3
 
 - 3. | The section of the eastbound carriageway of Chun Wan Road from a point about 192 m east of its junction with Chun Ping Road to a point about 202 m east of that junction. (L.N. 230 of 2008) | (a) | Taxi. | Picking up passengers, loading goods and unloading goods.
 
