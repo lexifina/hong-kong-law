@@ -34,7 +34,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 13. | Southern District Recreation and Sports Association Limited (Amended 10 of 2006 s. 44)
 
-- 14. | Tai Po Sports Association Ltd.
+- 14. | Taipo Sports Association Limited. (Replaced 11 of 2019 s. 9)
 
 - 15. | Tuen Mun Sports Association Limited
 
@@ -154,7 +154,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 34. | Hong Kong Performing Artistes Guild Limited (Amended 15 of 2016 s. 13)
 
-- 35. | Hong Kong Philharmonic Orchestra
+- 35. | The Hong Kong Philharmonic Society Limited. (Replaced 11 of 2019 s. 9)
 
 - 36. | Hong Kong Press Photographers Association
 
@@ -164,13 +164,13 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 39. | Hong Kong Screen Writers’ Guild Limited (Amended 15 of 2016 s. 13)
 
-- 40. | Hong Kong Sports Association of the Deaf
+- 40. | Hong Kong Sports Association of the Deaf Company Limited (Amended 11 of 2019 s. 9)
 
 - 41. | Hong Kong Sports Press Association Ltd.
 
 - 42. | Hong Kong Stuntman Association Limited (Amended 15 of 2016 s. 13)
 
-- 43. | Hong Kong Tai Chi Association
+- 43. | The Hong Kong Tai Chi Association (Amended 11 of 2019 s. 9)
 
 - 44. | (Repealed 25 of 2003 s. 45)
 

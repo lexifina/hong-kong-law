@@ -108,7 +108,7 @@ Item | Body
 
 51. | The Hong Kong Liner Shipping Association
 
-52. | Hong Kong Marine Contractors Association
+52. | (Repealed 11 of 2019 s. 8)
 
 53. | Hong Kong Motor Car Driving Instructors Association Ltd.
 
@@ -132,7 +132,7 @@ Item | Body
 
 63. | Hong Kong Logistics Management Staff Association (Amended 10 of 2006 s. 43)
 
-64. | Hong Kong Society of Articulated Vehicle Driving Instructors Ltd.
+64. | (Repealed 11 of 2019 s. 8)
 
 65. | The Hong Kong Stevedores Employers’ Association
 
@@ -228,7 +228,7 @@ Item | Body
 
 111. | (Repealed 10 of 2006 s. 47)
 
-112. | Peak Tramways Co., Ltd.
+112. | (Repealed 11 of 2019 s. 8)
 
 113. | (Repealed 2 of 2011 s. 33)
 
@@ -246,7 +246,7 @@ Item | Body
 
 120. | Public Vehicle Merchants Fraternity Association
 
-121. | Quadripartite Taxi Service Association Ltd.
+121. | (Repealed 11 of 2019 s. 8)
 
 122. | (Repealed 15 of 2016 s. 12)
 
@@ -288,7 +288,7 @@ Item | Body
 
 141. | Transport Infrastructure Management Limited (Replaced 7 of 2008 s. 7)
 
-142. | Tsuen Wan PLB Commercial Association Ltd.
+142. | (Repealed 11 of 2019 s. 8)
 
 143. | Tuen Mun Public Light Bus Association (Amended 10 of 2006 s. 43)
 
@@ -461,5 +461,15 @@ Item | Body
 227. | TIML MOM Limited (Added 14 of 2015 s. 11)
 
 228. | Hong Kong Taxi Association (Added 14 of 2015 s. 11)
+
+229. | Chung Shing Taxi Limited. (Added 11 of 2019 s. 8)
+
+230. | Hong Kong Air Cargo Carrier Limited. (Added 11 of 2019 s. 8)
+
+231. | Hong Kong Dumper Truck Drivers Association. (Added 11 of 2019 s. 8)
+
+232. | Shun Fung Motors Investment Management Company Limited. (Added 11 of 2019 s. 8)
+
+233. | Taxi Drivers and Operators Association. (Added 11 of 2019 s. 8)
 
 (Added 48 of 1999 s. 43. Amended E.R. 5 of 2019)

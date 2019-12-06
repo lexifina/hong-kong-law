@@ -418,13 +418,15 @@ Election Committee
 
   - (p) | the Board of Governors of the Tung Wah College; (Added 14 of 2015 s. 15)
 
-  - (q) | the Board of Governors of the Hang Seng Management College; (Added 14 of 2015 s. 15)
+  - (q) | the Board of Governors of The Hang Seng University of Hong Kong; (Added 14 of 2015 s. 15. Amended 11 of 2019 s. 12)
 
   - (r) | the Board of Governors of the Hong Kong Nang Yan College of Higher Education; (Added 14 of 2015 s. 15)
 
   - (s) | the Board of Governors of the HKCT Institute of Higher Education; (Added 14 of 2015 s. 15. Amended 15 of 2016 s. 14)
 
-  - (t) | the Board of Governors of the Gratia Christian College. (Added 15 of 2016 s. 14)
+  - (t) | the Board of Governors of the Gratia Christian College; (Added 15 of 2016 s. 14. Amended 11 of 2019 s. 12)
+
+  - (u) | the Board of Governors of Yew Chung College of Early Childhood Education. (Added 11 of 2019 s. 12)
 
   - 6. | Education | (1) | Registered teachers registered under the Education Ordinance (Cap. 279).
 

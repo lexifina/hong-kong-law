@@ -12,20 +12,22 @@ Limit Prescribed for Election Concerned for Purposes of Section 37A
 
 Item | Election | Limit
 
-1. | An election to elect the Chief Executive | $5,000
+1. | An election to elect the Chief Executive | $50,000
 
-2. | An election to elect a Member or Members of the Legislative Council for the District Council (second) functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) | $5,000
+2. | An election to elect a Member or Members of the Legislative Council for the District Council (second) functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) | $50,000
 
-3. | An election to elect a Member or Members of the Legislative Council for any geographical constituency within the meaning of the Legislative Council Ordinance (Cap. 542) | $3,000
+3. | An election to elect a Member or Members of the Legislative Council for any geographical constituency within the meaning of the Legislative Council Ordinance (Cap. 542) | $30,000
 
-4. | An election to elect a Member or Members of the Legislative Council for any functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) other than the District Council (second) functional constituency | $500
+4. | An election to elect a Member or Members of the Legislative Council for any functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) other than the District Council (second) functional constituency | $5,000
 
-5. | An election to elect a member or members of the Election Committee | $500
+5. | An election to elect a member or members of the Election Committee | $5,000
 
-6. | An election to elect a member or members of a District Council | $500
+6. | An election to elect a member or members of a District Council | $3,000
 
-7. | An election to elect a member or members of the Heung Yee Kuk | $200
+7. | An election to elect a member or members of the Heung Yee Kuk | $600
 
-8. | An election to elect the Chairman or Vice-Chairman or a member of the Executive Committee of a Rural Committee | $200
+8. | An election to elect the Chairman or Vice-Chairman or a member of the Executive Committee of a Rural Committee | $600
 
-9. | An election to elect a Rural Representative (Amended 5 of 2014 s. 73) | $200
+9. | An election to elect a Rural Representative (Amended 5 of 2014 s. 73) | $600
+
+(Amended 11 of 2019 s. 16)

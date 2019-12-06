@@ -114,11 +114,11 @@ Item | Body
 
 54. | Shatin Florists Association
 
-55. | The Shau Kei Wan Deep Sea Capture Fishermen’s Credit Co-operative Society, Unlimited
+55. | Shau Kei Wan Deep Sea Capture Fishermen’s Credit Co-operative Society, Unlimited (Amended 11 of 2019 s. 7)
 
 56. | Shau Kei Wan Fishermen Friendship Association
 
-57. | The Shau Kei Wan Pair Trawler Fishermen’s Credit Co-operative Society, Unlimited
+57. | Shau Kei Wan Pair Trawler Fishermen’s Credit Co-operative Society, Unlimited (Amended 11 of 2019 s. 7)
 
 58. | The Shau Kei Wan Trawler Fishermen’s Credit Co-operative Society, Unlimited
 
@@ -136,7 +136,7 @@ Item | Body
 
 65. | The Tai Po Purse Seiner and Small Long Liner Fishermen’s Credit Co-operative Society, Unlimited
 
-66. | The Tsing Lung Tau Hand Liner Fishermen’s Credit Co-operative Society, Unlimited
+66. | (Repealed 11 of 2019 s. 7)
 
 67. | The Tsuen Wan Fishermen’s Credit Co-operative Society, Unlimited
 
@@ -158,9 +158,9 @@ Item | Body
 
 76. | Tsing Yi Residents Association (Replaced 10 of 2006 s. 34)
 
-77. | 荃灣葵青居民聯會(漁民組)
+77. | 荃灣葵青居民聯會(漁民組)*
 
-78. | 荃灣葵青漁民會
+78. | 荃灣葵青漁民會#
 
 79. | The Shau Kei Wan Stern Trawler Fishermen’s Credit Co-operative Society, Unlimited (Added 25 of 2003 s. 43)
 
@@ -172,4 +172,16 @@ Item | Body
 
 83. | Aberdeen Fisherwomen Association (Added 25 of 2003 s. 43)
 
+84. | 香港新界本地農協會＋. (Added 11 of 2019 s. 7)
+
+85. | The Hong Kong Veterinary Association Limited. (Added 11 of 2019 s. 7)
+
 (Replaced 48 of 1999 s. 43. Amended E.R. 5 of 2019)
+
+Editorial Note:
+
+* | The English translation of “荃灣葵青居民聯會(漁民組)” is “Tsuen Wan Kwai Tsing Residents Assn (Fishermen Unit)”.
+
+\# | The English translation of “荃灣葵青漁民會” is “Tsuen Wan & Kwai Ching Fishermen Association”.
+
+＋ | The English translation of “香港新界本地農協會” is “Hong Kong New Territories Local Farmers Association”.

@@ -6,7 +6,7 @@ Composition of the Catering Functional Constituency
 
 Item | Body
 
-1. | The Association for the Hong Kong Catering Services Management Limited
+1. | The Association for Hong Kong Catering Services Management Limited (Amended 11 of 2019 s. 11)
 
 2. | The Association of Restaurant Managers Limited
 

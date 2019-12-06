@@ -70,7 +70,7 @@ Item | Body
 
 32. | (Repealed 25 of 2003 s. 46)
 
-33. | Hong Kong & Kowloon Vermicelli & Noodle Manufacturing Industry Merchants’ General Association
+33. | Hong Kong & Kowloon Vermicelli & Noodle Manufacturing Industry Merchants’ General Association Limited (Amended 11 of 2019 s. 10)
 
 34. | Hong Kong Art Craft Merchants Association, Ltd.
 
@@ -134,9 +134,7 @@ Item | Body
 
 64. | Hong Kong Retail Management Association Limited (Amended 10 of 2006 s. 45)
 
-65. | Hong Kong Silk Piece-Goods Merchants’ Association
-
-66. | Hong Kong Stamp and Coin Dealers Association (Amended 10 of 2006 s. 45)
+65-66. | (Repealed 11 of 2019 s. 10)
 
 67. | (Repealed 25 of 2003 s. 46)
 
@@ -156,7 +154,7 @@ Item | Body
 
 75. | Kowloon Fresh Fish Merchants Association Limited (Amended 10 of 2006 s. 45)
 
-76. | Kowloon Fresh Meat Retailers’ Association Ltd.
+76. | (Repealed 11 of 2019 s. 10)
 
 77. | The Kowloon Pearls, Precious Stones, Jade, Gold & Silver Ornament Merchants Association
 
