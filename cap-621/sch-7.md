@@ -52,7 +52,7 @@ Provisions Required to be Contained in Agreement for Sale and Purchase (Complete
 
     - *[[insert figure] square metres/[insert figure] square feet is the floor area of the utility platform];
 
-    - *[[insert figure] square metres/[insert figure] square feet is the floor area of the verandah]; and
+    - *[[insert figure] square metres/[insert figure] square feet is the floor area of the verandah]; and (Amended E.R. 6 of 2019)
 
     - (b) other measurements are — *[the area of the air-conditioning plant room is [insert figure] square metres/[insert figure] square feet]; *[the area of the bay window is [insert figure] square metres/[insert figure] square feet]; *[the area of the cockloft is [insert figure] square metres/[insert figure] square feet]; *[the area of the flat roof is [insert figure] square metres/[insert figure] square feet]; *[the area of the garden is [insert figure] square metres/[insert figure] square feet]; *[the area of the parking space is [insert figure] square metres/[insert figure] square feet]; *[the area of the roof is [insert figure] square metres/[insert figure] square feet]; *[the area of the stairhood is [insert figure] square metres/[insert figure] square feet]; *[the area of the terrace is [insert figure] square metres/[insert figure] square feet]; *[the area of the yard is [insert figure] square metres/[insert figure] square feet].
 

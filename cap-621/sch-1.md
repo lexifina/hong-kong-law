@@ -170,13 +170,11 @@ Information in Sales Brochure
 
         - (a) a proprietor of the firm of which the authorized person is a proprietor in his or her professional capacity; or
 
-        - (b)
+        - (b) a director of the corporation of which the authorized person is a director in his or her professional capacity;
 
-        - a director of the corporation of which the authorized person is a director in his or her professional capacity;
+      - listed company (上市公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
-          - listed company (上市公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
-
-          - private company (私人公司) has the meaning given by section 11 of the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
+      - private company (私人公司) has the meaning given by section 11 of the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
   - 4. Information on design of the development
 
@@ -592,97 +590,99 @@ Information in Sales Brochure
 
     - 1. | Exterior finishes
 
-    - (a) | External wall | Type of finishes.
+    - (a) | External wall | Type of finishes
 
-    - (b) | Window | Material of the frame and glass.
+    - (b) | Window | Material of the frame and glass
 
-    - (c) | Bay window | Material and window sill finishes.
+    - (c) | Bay window | Material and window sill finishes
 
-    - (d) | Planter | Type of finishes.
+    - (d) | Planter | Type of finishes
 
-    - (e) | Verandah or balcony | (i) | Type of finishes.
+    - (e) | Verandah or balcony | (i) | Type of finishes
 
-    - (ii) | Whether it is covered.
+    - (ii) | Whether it is covered
 
-    - (f) | Drying facilities for clothing | Type and material.
+    - (f) | Drying facilities for clothing | Type and material
 
     - 2. | Interior finishes
 
-    - (a) | Lobby | Type of wall, floor and ceiling finishes.
+    - (a) | Lobby | Type of wall, floor and ceiling finishes
 
-    - (b) | Internal wall and ceiling | Type of wall and ceiling finishes for living room, dining room and bedroom.
+    - (b) | Internal wall and ceiling | Type of wall and ceiling finishes for living room, dining room and bedroom
 
-    - (c) | Internal floor | Material of floor and skirting for living room, dining room and bedroom.
+    - (c) | Internal floor | Material of floor and skirting for living room, dining room and bedroom
 
-    - (d) | Bathroom | (i) | Type of wall, floor and ceiling finishes.
+    - (d) | Bathroom | (i) | Type of wall, floor and ceiling finishes
 
-    - (ii) | Whether the wall finishes run up to the ceiling.
+    - (ii) | Whether the wall finishes run up to the ceiling
 
-    - (e) | Kitchen | (i) | Type of wall, floor, ceiling and cooking bench finishes.
+    - (e) | Kitchen | (i) | Type of wall, floor, ceiling and cooking bench finishes
 
-    - (ii) | Whether the wall finishes run up to the ceiling.
+    - (ii) | Whether the wall finishes run up to the ceiling
 
     - 3. | Interior fittings
 
-    - (a) | Doors | Material, finishes and accessories.
+    - (a) | Doors | Material, finishes and accessories
 
-    - (b) | Bathroom | (i) | Type and material of fittings and equipment.
+    - (b) | Bathroom | (i) | Type and material of fittings and equipment
 
-    - (ii) | Type and material of water supply system.
+    - (ii) | Type and material of water supply system
 
-    - (iii) | Type and material of bathing facilities (including shower or bath tub, if applicable).
+    - (iii) | Type and material of bathing facilities (including shower or bath tub, if applicable)
 
-    - (iv) | Size of bath tub, if applicable.
+    - (iv) | Size of bath tub, if applicable
 
-    - (c) | Kitchen | (i) | Material of sink unit.
+    - (c) | Kitchen | (i) | Material of sink unit
 
-    - (ii) | Material of water supply system.
+    - (ii) | Material of water supply system
 
-    - (iii) | Material and finishes of kitchen cabinet.
+    - (iii) | Material and finishes of kitchen cabinet
 
-    - (iv) | Type of all other fittings and equipment.
+    - (iv) | Type of all other fittings and equipment
 
-    - (d) | Bedroom | Type and material of fittings (including built-in wardrobe).
+    - (d) | Bedroom | Type and material of fittings (including built-in wardrobe)
 
-    - (e) | Telephone | Location and number of connection points.
+    - (e) | Telephone | Location and number of connection points
 
-    - (f) | Aerials | Location and number of connection points.
+    - (f) | Aerials | Location and number of connection points
 
-    - (g) | Electrical installations | (i) | Electrical fittings (including safety devices).
+    - (g) | Electrical installations | (i) | Electrical fittings (including safety devices)
 
-    - (ii) | Whether conduits are concealed or exposed.
+    - (ii) | Whether conduits are concealed or exposed
 
-    - (iii) | Location and number of power points and air-conditioner points.
+    - (iii) | Location and number of power points and air-conditioner points
 
-    - (h) | Gas supply | Type, system and location.
+    - (h) | Gas supply | Type, system and location
 
-    - (i) | Washing machine connection point | Location and design.
+    - (i) | Washing machine connection point | Location and design
 
-    - (j) | Water supply | (i) | Material of water pipes.
+    - (j) | Water supply | (i) | Material of water pipes
 
-    - (ii) | Whether water pipes are concealed or exposed.
+    - (ii) | Whether water pipes are concealed or exposed
 
-    - (iii) | Whether hot water is available.
+    - (iii) | Whether hot water is available
 
     - 4. | Miscellaneous
 
-    - (a) | Lifts | (i) | Brand name and model number.
+    - (a) | Lifts | (i) | Brand name and model number
 
-    - (ii) | Number and floors served by them.
+    - (ii) | Number and floors served by them
 
-    - (b) | Letter box | Material.
+    - (b) | Letter box | Material
 
-    - (c) | Refuse collection | (i) | Means of refuse collection.
+    - (c) | Refuse collection | (i) | Means of refuse collection
 
-    - (ii) | Location of refuse room.
+    - (ii) | Location of refuse room
 
-    - (d) | Water meter, electricity meter and gas meter | (i) | Location.
+    - (d) | Water meter, electricity meter and gas meter | (i) | Location
 
-    - (ii) | Whether they are separate or communal meters for residential properties.
+    - (ii) | Whether they are separate or communal meters for residential properties
 
-    - 5. | Security facilities | Security system and equipment (including details of built-in provisions and their locations).
+    - 5. | Security facilities | Security system and equipment (including details of built-in provisions and their locations)
 
-    - 6. | Appliances | Brand name and model number.
+    - 6. | Appliances | Brand name and model number
+
+    - (Amended E.R. 6 of 2019)
 
   - 23. Service agreements The sales brochure must set out information on any agreement with a utility company for providing utility service for the specified residential property.
 

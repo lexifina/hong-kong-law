@@ -4,7 +4,7 @@
 
 Minimum Criteria for Authorization
 
-(Format changes—E.R. 2 of 2012)
+(Seventh Schedule added 49 of 1995 s. 52) (Format changes—E.R. 2 of 2012)
 
 - 1.
 
@@ -78,7 +78,7 @@ Minimum Criteria for Authorization
 
   - (a) presently maintains, and will if it is authorized continue to maintain, adequate liquidity to meet its obligations as they will or may fall due; and
 
-  - (b) without prejudice to the generality of subparagraph (a), if it is authorized, will on and after authorization comply with the rules made under section 97H(1) applicable to it. (Amended 3 of 2012 s. 18)
+  - (b) without prejudice to the generality of sub-subparagraph (a), if it is authorized, will on and after authorization comply with the rules made under section 97H(1) applicable to it. (Amended 3 of 2012 s. 18; E.R. 6 of 2019)
 
 - 8. The Monetary Authority is satisfied that the company, if it is authorized, will on and after authorization comply with the provisions of Part XV, and the provisions of the rules made under that Part, applicable to it. (Amended 6 of 2018 s. 25)
 
@@ -112,7 +112,7 @@ Minimum Criteria for Authorization
 
   - (b) that place is, or is part of the territory of, a member of the World Trade Organization.
 
-- (Replaced L.N. 99 of 2012) (Seventh Schedule added 49 of 1995 s. 52)
+- (Replaced L.N. 99 of 2012)
 
 Editorial Note:
 

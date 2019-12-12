@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [r. 2(3)]
 
@@ -16,7 +16,13 @@ Case adjourned to 9.30 a.m. on . in Court No.
 
 Bail refused. Remanded in jail custody because there are substantial grounds for believing that the accused would— | □
 
-(a) (b) (c) (d) | fail to surrender to custody as the court may appoint commit an offence while on bail interfere with a witness pervert or obstruct the course of justice | □ □ □ □
+(a) | fail to surrender to custody as the court may appoint | □
+
+(b) | commit an offence while on bail | □
+
+(c) | interfere with a witness | □
+
+(d) | pervert or obstruct the course of justice | □
 
 (IV) | Reasons:
 
@@ -62,7 +68,7 @@ $ | Own recognizance | □
 
 (f) | To obey a curfew from . to . | □
 
-(g) | To report to . Police Station between the hours of.and . on Mon/Tue/Wed/Thur/Fri/Sat/Sun/Everyday. | □
+(g) | To report to . Police Station between the hours of . and . on Mon/Tue/Wed/Thur/Fri/Sat/Sun/Everyday. | □
 
 (h) | To inform . Police Station 24 hours prior to any change of residence. | □
 

@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [regs. 2, 3 & 4]
 

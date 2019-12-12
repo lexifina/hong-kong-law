@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [rule 3]
 
-CRIMINAL PROCEDURE ORDINANCE
+Criminal Procedure Ordinance
 
 (Chapter 221) Notice of Appeal against Discharge
 
@@ -30,8 +30,8 @@ To the Respondent:
 
 1. | You are invited within . days of the service of this notice upon you to inform the Registrar if you wish to present any argument to the Court of Appeal. If you wish to present any argument you should also inform the Registrar whether you desire to present such argument by counsel or desire to seek leave to appear in person.
 
-2. | If you are not already legally aided you may be entitled to apply to the Director of Legal Aid for legal aid. Should you desire legal aid you should contact to the Director at the following address
+2. | If you are not already legally aided you may be entitled to apply to the Director of Legal Aid for legal aid. Should you desire legal aid you should contact the Director at the following address
 
 Dated the . day of . 19 .
 
-Counsel for Secretary for Justice. (L.N. 362 of 1997; 25 of 1998 s. 2)
+Counsel for Secretary for Justice (L.N. 362 of 1997; 25 of 1998 s. 2; E.R. 6 of 2019)

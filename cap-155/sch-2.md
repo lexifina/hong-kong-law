@@ -1,8 +1,10 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [ss. 19, 23, 26, 27, 45, 48, 51, 109, 118F, 135(2) & 144] (Amended 4 of 1997 s. 25)
 
-FEES
+Fees
+
+(Format changes—E.R. 6 of 2019)
 
 $
 
@@ -28,8 +30,6 @@ $
 
 10. | Fee for the establishment of a local branch of a restricted licence bank or deposit-taking company (section 45(1)) | 19,110
 
-FEES
-
 $
 
 11. | Annual fee for maintaining a local branch of a restricted licence bank or deposit-taking company (section 45(1), (2) and (3)) (Amended 32 of 2001 s. 25) | 19,110
@@ -51,8 +51,6 @@ $
 19. | Annual fee for maintaining an overseas representative office of a bank, other than a restricted licence bank (section 51(1) and (2)) | 11,200
 
 20. | Fee for the establishment of an overseas representative office of a restricted licence bank or deposit-taking company (section 51(1)) | 19,110
-
-FEES
 
 $
 

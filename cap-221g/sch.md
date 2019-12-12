@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [rule 4]
 
@@ -38,7 +38,7 @@ My address for service is— | (Set out address in full if different from above.
 
 Applicant, or his solicitor
 
-or other legal representative.
+or other legal representative
 
 PART II*
 
@@ -52,4 +52,4 @@ You are required to answer the following questions—
 
 *To be completed in the case of the notice given to the Registrar only.
 
-(L.N. 362 of 1997; 25 of 1998 s. 2)
+(L.N. 362 of 1997; 25 of 1998 s. 2; E.R. 6 of 2019)

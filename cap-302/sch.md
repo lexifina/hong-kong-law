@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [s. 26] (Amended 3 of 2001 s. 34)
 

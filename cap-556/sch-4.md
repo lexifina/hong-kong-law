@@ -1,16 +1,16 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 64(3)]
 
-BYLAWS ADOPTED UNDER SECTION 64(3) OF THIS ORDINANCE
+Bylaws Adopted under Section 64(3) of this Ordinance
 
 Item | Bylaw | Modification
 
 1. | Mass Transit Railway By-laws (Cap. 270 sub. leg. B) | In by-law 2—
 
-(a) | by repealing the definition of “Corporation” and substituting— ““Corporation” (地鐵公司) means the MTR Corporation Limited;”;
+(a) | by repealing the definition of Corporation and substituting— “Corporation (地鐵公司) means the MTR Corporation Limited;”;
 
-(b) | by repealing the definition of “railway” and substituting— ““railway” (鐵路) means the Mass Transit Railway;”.
+(b) | by repealing the definition of railway and substituting— “railway (鐵路) means the Mass Transit Railway;”.
 
 2. | Mass Transit Railway (Transport Interchange) Bylaw (Cap. 270 sub. leg. F) | (a) | In section 2(1), by repealing “section 24A” and substituting “section 31”.
 

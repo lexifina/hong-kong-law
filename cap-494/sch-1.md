@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 64]
 
-COUNTRIES OR TERRITORIES TO WHICH THE TOKYO CONVENTION APPLIES
+Countries or Territories to which the Tokyo Convention Applies
 
 1. | The Islamic State of Afghanistan
 

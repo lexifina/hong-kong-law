@@ -1,8 +1,10 @@
-# THIRTEENTH SCHEDULE
+# Thirteenth Schedule
 
 [ss. 132B & 135(2)]
 
-LEVEL OF FINES FOR OFFENCES
+Level of Fines for Offences
+
+(Thirteenth Schedule added 4 of 1997 s. 26) (Format changes—E.R. 6 of 2019)
 
 Tier 1 | $4,000
 
@@ -21,5 +23,3 @@ Tier 7 | $400,000
 Tier 8 | $1,000,000
 
 Tier 9 | $2,000,000
-
-(Thirteenth Schedule added 4 of 1997 s. 26)

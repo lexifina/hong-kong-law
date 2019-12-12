@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 64(2)]
 
-REGULATIONS, ETC. ADOPTED UNDER SECTION 64(2) OF THIS ORDINANCE
+Regulations, etc. Adopted under Section 64(2) of this Ordinance
 
 Item | Regulation | Modification
 

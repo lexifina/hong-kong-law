@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 17(2), 20(2) & 54]
 
-PROVISIONS TO WHICH SECTIONS 17(2) AND 20(2) APPLY
+Provisions to which Sections 17(2) and 20(2) Apply
 
 Ordinance | Sections (with general indication of contents shown in brackets)
 
@@ -58,7 +58,7 @@ Ordinance | Sections (with general indication of contents shown in brackets)
 
 32(3) | (doing or omitting anything endangering passenger on railway)
 
-36 | (assault with intent to commit an arrestable offence, or on a police officer or with intent to resist arrest) (Amended 50 of 1991 s. 4(1))
+36 | (assault with intent to commit an arrestable offence, or on a police officer or with intent to resist arrest) (Amended 50 of 1991 s. 4)
 
 39 | (assault occasioning actual bodily harm)
 

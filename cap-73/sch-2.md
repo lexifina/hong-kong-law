@@ -4,7 +4,7 @@
 
 - 1. Right of surviving spouse to require residence to be appropriated
 
-  - (1) Where the residuary estate of the intestate comprises or includes an interest in premises in which the surviving husband or wife was residing at the time of the intestate’s death (referred to in this Schedule as the “residence”) and the surviving husband or wife so elects, the personal representatives shall appropriate that interest—
+  - (1) Where the residuary estate of the intestate comprises or includes an interest in premises in which the surviving husband or wife was residing at the time of the intestate’s death (referred to in this Schedule as the residence) and the surviving husband or wife so elects, the personal representatives shall appropriate that interest—
 
     - (a) in or towards satisfaction of any interest of the surviving husband or wife in the estate of the intestate; or
 
@@ -22,7 +22,9 @@
 
   - (a) forms part of a building and the residuary estate comprises or includes an interest in the whole of the building; or
 
-  - (b) was, at the time of the intestate’s death, partly used for purposes other than domestic purposes, an election under paragraph 1 shall not be exercisable unless the court, on being satisfied that the exercise of that election is not likely to diminish the value of the assets in the residuary estate (other than the interest in the residence) or make them more difficult to dispose of, so orders.
+  - (b) was, at the time of the intestate’s death, partly used for purposes other than domestic purposes,
+
+- an election under paragraph 1 shall not be exercisable unless the court, on being satisfied that the exercise of that election is not likely to diminish the value of the assets in the residuary estate (other than the interest in the residence) or make them more difficult to dispose of, so orders.
 
 - 3. Exercise of election
 

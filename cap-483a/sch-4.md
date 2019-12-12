@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 62]
 
-PENALTIES
+Penalties
 
 Section | Summary of Offence | Penalty
 

@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 50]
 
-MODIFICATION OF ROAD TRAFFIC ORDINANCE
+Modification of Road Traffic Ordinance
 
-- PART I ROAD TRAFFIC ORDINANCE In this Part, all references to “section” or “subsection” are references to the relevant section or subsection of the Road Traffic Ordinance (Cap. 374) unless otherwise expressly specified.
+- Part I Road Traffic Ordinance In this Part, all references to “section” or “subsection” are references to the relevant section or subsection of the Road Traffic Ordinance (Cap. 374) unless otherwise expressly specified.
 
   - 1. In section 40(3) and (4)(b), for the words “the Commissioner” there shall be substituted the words “the Authority”.
 
@@ -42,11 +42,11 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
   - 8. In section 62, after the words “traffic warden”, there shall be added “or an Authorized Person”.
 
-- PART II ROAD TRAFFIC (PARKING) REGULATIONS In this Part, all references to “regulation” or “subregulation” are references to the relevant regulation or subregulation under the Road Traffic (Parking) Regulations (Cap. 374 sub. leg.) unless otherwise expressly specified.
+- Part II Road Traffic (Parking) Regulations In this Part, all references to “regulation” or “subregulation” are references to the relevant regulation or subregulation under the Road Traffic (Parking) Regulations (Cap. 374 sub. leg. C) unless otherwise expressly specified. (E.R. 6 of 2019)
 
   - 1. General
 
-    - (1) In applying the Road Traffic (Parking) Regulations (Cap. 374 sub. leg.)—
+    - (1) In applying the Road Traffic (Parking) Regulations (Cap. 374 sub. leg. C)— (E.R. 6 of 2019)
 
       - (a) all references in the Regulations to “the Commissioner”, not being a reference to “the Commissioner of Police” or “the Government” shall be substituted by references to “the Authority”;
 
@@ -54,7 +54,7 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
     - (2) For the avoidance of doubt, these regulations shall not be construed howsoever to prejudice or limit the rights of the Authority or operators of car parks and car parking places which are to be operated on a commercial basis, in determining the terms and conditions, including fees chargeable, on which such car parks and car parking places are to be offered for use to the public.
 
-  - 2. In regulation 2(3), there shall be added “and in Schedule 6 to the Airport Authority Bylaw (Cap. 483 sub. leg.)” after “Schedule 1”.
+  - 2. In regulation 2(3), there shall be added “and in Schedule 6 to the Airport Authority Bylaw (Cap. 483 sub. leg. A)” after “Schedule 1”. (E.R. 6 of 2019)
 
   - 3. Regulation 3(2) shall be omitted.
 
@@ -62,9 +62,9 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
     - (a) for subregulation (1), there shall be substituted—
 
-      - “(1) No person shall park a vehicle at any place to which Part IX of the Airport Authority Bylaw (Cap. 483 sub. leg.) applies except at a parking place or area designated by the Authority for the parking of that type of vehicles and no person shall park a vehicle in contravention of any prescribed traffic sign or road marking.”;
+      - “(1) No person shall park a vehicle at any place to which Part IX of the Airport Authority Bylaw (Cap. 483 sub. leg. A) applies except at a parking place or area designated by the Authority for the parking of that type of vehicles and no person shall park a vehicle in contravention of any prescribed traffic sign or road marking.”; (E.R. 6 of 2019)
 
-    - (b) for subregulation (2), there shall be added “and by the erection or placing of parking signs in accordance with Figures Nos. 1 and 2 in Schedule 6 to the Airport Authority Bylaw (Cap. 483 sub. leg.)” after “Schedule 1”;
+    - (b) for subregulation (2), there shall be added “and by the erection or placing of parking signs in accordance with Figures Nos. 1 and 2 in Schedule 6 to the Airport Authority Bylaw (Cap. 483 sub. leg. A)” after “Schedule 1”; (E.R. 6 of 2019)
 
     - (c) subregulations (3), (4) and (6) shall be omitted;
 
@@ -72,7 +72,7 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
       - “(5) Any person who contravenes subregulation (1) commits an offence and is liable to a fine of $2,000.”.
 
-  - 5. In regulation 5(1) and (2A), there shall be added “and by the erection or placing of parking signs in accordance with Figures Nos. 1 and 2 in Schedule 6 to the Airport Authority Bylaw (Cap. 483 sub. leg.)” after “Schedule 1”.
+  - 5. In regulation 5(1) and (2A), there shall be added “and by the erection or placing of parking signs in accordance with Figures Nos. 1 and 2 in Schedule 6 to the Airport Authority Bylaw (Cap. 483 sub. leg. A)” after “Schedule 1”. (E.R. 6 of 2019)
 
   - 6. In regulation 6—
 
@@ -88,17 +88,23 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
   - 9. For regulation 14, there shall be substituted—
 
-    - “14. Designation of car parks The Authority may, subject to the provisions of the Land Grant, designate any place as a car park and may limit the use of such car park or any part thereof to any particular class or type of motor vehicle and may revoke or amend any such designation.”.
+    - “14. Designation of car parks
+
+    - The Authority may, subject to the provisions of the Land Grant, designate any place as a car park and may limit the use of such car park or any part thereof to any particular class or type of motor vehicle and may revoke or amend any such designation.”.
 
   - 10. Regulations 15, 17, 18, 21, 23 and 24 shall be omitted.
 
   - 11. For regulation 20, there shall be substituted—
 
-    - “20. Car park fees The fees for use of car parks shall be determined by the Authority from time to time.”.
+    - “20. Car park fees
+
+    - The fees for use of car parks shall be determined by the Authority from time to time.”.
 
   - 12. For regulation 22, there shall be substituted—
 
-    - “22. Monthly passes The Authority may issue monthly pass for use of car parks on such terms and conditions and on payment of such fee as the Authority may determine.”.
+    - “22. Monthly passes
+
+    - The Authority may issue monthly pass for use of car parks on such terms and conditions and on payment of such fee as the Authority may determine.”.
 
   - 13. In regulation 25(1)—
 
@@ -108,23 +114,27 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
   - 14. For regulation 28, there shall be substituted—
 
-    - “28. Limitation of liability The exercise by the Authority of its powers or functions under regulation 5, the exercise by the operator of his functions under regulation 5(3) or the exercise by the Commissioner of Police or the Authority or his or, as the case may be, its functions under regulation 6 shall not render any of them subject to any liability in respect of the loss of or damage to any vehicle in a parking place or car park or the contents of any such vehicle.”.
+    - “28. Limitation of liability
 
-- PART III ROAD TRAFFIC (PUBLIC SERVICE VEHICLES) REGULATIONS In this Part, all references to “regulation”, “subregulation” or “Part” are references to the relevant regulation, subregulation or Part under the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg.) unless otherwise expressly specified.
+    - The exercise by the Authority of its powers or functions under regulation 5, the exercise by the operator of his functions under regulation 5(3) or the exercise by the Commissioner of Police or the Authority or his or, as the case may be, its functions under regulation 6 shall not render any of them subject to any liability in respect of the loss of or damage to any vehicle in a parking place or car park or the contents of any such vehicle.”.
 
-  - 1. Part IV In Part IV, all references to “the Commissioner”, not being a reference to “the Commissioner of Police”, there shall be substituted “the Commissioner or the Authority in consultation with the Commissioner”.
+- Part III Road Traffic (Public Service Vehicles) Regulations In this Part, all references to “regulation”, “subregulation” or “Part” are references to the relevant regulation, subregulation or Part under the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D) unless otherwise expressly specified. (E.R. 6 of 2019)
 
-  - 2. Regulations 31 and 32 For regulations 31 and 32, after the words “Commissioner of Police”, there shall be added “or the Authority”.
+  - 1. Part IV
 
-- PART IV ROAD TRAFFIC (REGISTRATION AND LICENSING
+  - In Part IV, all references to “the Commissioner”, not being a reference to “the Commissioner of Police”, there shall be substituted “the Commissioner or the Authority in consultation with the Commissioner”.
 
-- OF VEHICLES) REGULATIONS In this Part, all references to “regulation” or “subregulation” are references to the relevant regulation or subregulation under the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg.) unless otherwise expressly specified.
+  - 2. Regulations 31 and 32
+
+  - For regulations 31 and 32, after the words “Commissioner of Police”, there shall be added “or the Authority”.
+
+- Part IV Road Traffic (Registration and Licensing of Vehicles) Regulations In this Part, all references to “regulation” or “subregulation” are references to the relevant regulation or subregulation under the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) unless otherwise expressly specified. (E.R. 6 of 2019)
 
   - 1. In regulation 49—
 
     - (a) in subregulation (1)—
 
-      - (i) after the words “may apply to the Commissioner”, there shall be added “or, in the case of the closure of a road by the Authority under regulation 27 of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.), modified as set out in section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg.), the Authority, with the approval of the Commissioner,”;
+      - (i) after the words “may apply to the Commissioner”, there shall be added “or, in the case of the closure of a road by the Authority under regulation 27 of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G), modified as set out in section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg. A), the Authority, with the approval of the Commissioner,”; (E.R. 6 of 2019)
 
       - (ii) after the words “and the Commissioner”, there shall be added “or the Authority, with the approval of the Commissioner,”;
 
@@ -138,11 +148,13 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
   - 2. In regulation 50(1)—
 
-    - (a) after the words “may apply to the Commissioner”, there shall be added “or, in the case of a prohibited zone or a restricted zone designated by the Authority under regulation 14 of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.), modified as set out in section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg.), the Authority, with the approval of the Commissioner,”;
+    - (a) after the words “may apply to the Commissioner”, there shall be added “or, in the case of a prohibited zone or a restricted zone designated by the Authority under regulation 14 of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G), modified as set out in section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg. A), the Authority, with the approval of the Commissioner,”;
 
-    - (b) there shall be added “The Authority may, in the case of a prohibited zone or a restricted zone designated by the Authority under regulation 14 of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.), modified as set out in section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg.), issue such a permit subject to such conditions and in respect of such period as may be determined by the Authority with the approval of the Commissioner” at the end.
+    - (b) there shall be added “The Authority may, in the case of a prohibited zone or a restricted zone designated by the Authority under regulation 14 of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G), modified as set out in section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg. A), issue such a permit subject to such conditions and in respect of such period as may be determined by the Authority with the approval of the Commissioner” at the end.
 
-- PART V ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS In this Part, all references to “regulation”, “subregulation” or “Schedule” are references to the relevant regulation, subregulation or Schedule under the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.) unless otherwise expressly specified.
+  - (E.R. 6 of 2019)
+
+- Part V Road Traffic (Traffic Control) Regulations In this Part, all references to “regulation”, “subregulation” or “Schedule” are references to the relevant regulation, subregulation or Schedule under the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) unless otherwise expressly specified. (E.R. 6 of 2019)
 
   - 1. In regulations 3(1) and (2), 8(1) and (3), 9, 14(1) and (4), 27(1) and (2), 30(1) and 40(1)—
 
@@ -168,11 +180,13 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
     - (a) for regulations 21(4) and 23(2), wherever after the words “the Director”, there shall be added “and the Authority”;
 
-    - (b) for regulations 24(2) and (3) and 25(2) and (3), wherever after the words “the Director”, there shall be added “or the Authority”. (L.N. 9 of 1998)
+    - (b) for regulations 24(2) and (3) and 25(2) and (3), wherever after the words “the Director”, there shall be added “or the Authority”.
+
+  - (L.N. 9 of 1998)
 
   - 8. In regulation 27(1), after the word “he” where it twice appears, there shall be added “or it”.
 
-  - 9. In regulation 29, in the definition of “pedestrian road”, for the words “unleased Crown land”, there shall be substituted the words “any designated road”.
+  - 9. In regulation 29, in the definition of pedestrian road, for the words “unleased Crown land”, there shall be substituted the words “any designated road”.
 
   - 10. In regulation 39(a)(iv), after the words “, traffic warden in uniform”, there shall be added “, an Authorized Person in uniform”.
 
@@ -190,7 +204,9 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
     - (a) after “The Commissioner”, there is added “or the Authority”;
 
-    - (b) before “considers”, there is added “or the Authority (as the case may be)”. (17 of 2018 s. 125)
+    - (b) before “considers”, there is added “or the Authority (as the case may be)”.
+
+  - (17 of 2018 s. 125)
 
   - 12A. For regulation 52(1A)(b), there is substituted—
 
@@ -200,7 +216,9 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
       - (ii) for a permission given by the Authority—the Authority,
 
-    - considers appropriate and specifies in the permission.”. (17 of 2018 s. 125)
+    - considers appropriate and specifies in the permission.”.
+
+  - (17 of 2018 s. 125)
 
   - 13. For regulation 52(2), there is substituted—
 
@@ -208,10 +226,12 @@ MODIFICATION OF ROAD TRAFFIC ORDINANCE
 
       - (a) for equipment caused or permitted by the Commissioner to be installed—the Commissioner; or
 
-      - (b) for equipment caused or permitted by the Authority to be installed—the Authority.”. (17 of 2018 s. 125)
+      - (b) for equipment caused or permitted by the Authority to be installed—the Authority.”.
 
-  - 14. In regulation 59(1)(a), for the words “or Figure No. 804 in Schedule 4”, there shall be substituted “, Figure No. 804 in Schedule 4 or any traffic sign shown in Schedule 5 to the Airport Authority Bylaw (Cap. 483 sub. leg.)”.
+  - (17 of 2018 s. 125)
+
+  - 14. In regulation 59(1)(a), for the words “or Figure No. 804 in Schedule 4”, there shall be substituted “, Figure No. 804 in Schedule 4 or any traffic sign shown in Schedule 5 to the Airport Authority Bylaw (Cap. 483 sub. leg. A)”. (E.R. 6 of 2019)
 
   - 15. In regulation 60(g) and (h), for the words “the Commissioner or the Director”, there shall be substituted “the Commissioner, the Director or the Authority”.
 
-  - 16. The traffic signs appearing in Schedule 5 to the Airport Authority Bylaw (Cap. 483 sub. leg.) shall form part of Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.).
+  - 16. The traffic signs appearing in Schedule 5 to the Airport Authority Bylaw (Cap. 483 sub. leg. A) shall form part of Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G). (E.R. 6 of 2019)

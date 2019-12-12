@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 12C & 64]
 
-REQUEST AND UNDERTAKING UNDER SECTION 12C OF THE AVIATION SECURITY ORDINANCE (CAP. 494)
+Request and Undertaking under Section 12C of the Aviation Security Ordinance (Cap. 494)
 
 To: The Hong Kong Police Force
 

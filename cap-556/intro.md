@@ -14,10 +14,12 @@ An Ordinance to provide for—
 
 - (g) the vesting of certain rights and liabilities of the Kowloon-Canton Railway Corporation in the MTR Corporation Limited, (Added 11 of 2007 s. 3)
 
-and for connected purposes.
+- and for connected purposes.
 
 (Amended 11 of 2007 s. 3)
 
 [30 June 2000] L.N. 136 of 2000
+
+(Format changes—E.R. 6 of 2019)
 
 (Enacting provision omitted—E.R. 2 of 2014)

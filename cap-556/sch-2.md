@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 54(1)]
 
-PROVISIONS OF PUBLIC HEALTH AND MUNICIPAL SERVICES ORDINANCE DISAPPLIED
+Provisions of Public Health and Municipal Services Ordinance Disapplied
 
-- 1. No remedy lies against the Corporation under section 127 of the Public Health and Municipal Services Ordinance (Cap. 132) (“PHMSO”) in respect of a nuisance described in section 12(1)(g) of the PHMSO.
+- 1. No remedy lies against the Corporation under section 127 of the Public Health and Municipal Services Ordinance (Cap. 132) (PHMSO) in respect of a nuisance described in section 12(1)(g) of the PHMSO.
 
 - 2. Section 22 of the PHMSO does not apply to anything done by or on behalf of the Corporation in the course of constructing an extension.
 

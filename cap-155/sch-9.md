@@ -1,8 +1,10 @@
-# NINTH SCHEDULE
+# Ninth Schedule
 
 [ss. 53C(1)(b) & 135(3)]
 
-POWERS OF MANAGER OF AUTHORIZED INSTITUTION
+Powers of Manager of Authorized Institution
+
+(Ninth Schedule added 49 of 1995 s. 52) (Format changes—E.R. 6 of 2019)
 
 - 1. Power to take possession of, collect and get in the property of the institution and, for that purpose, to take such proceedings as may seem to him expedient.
 
@@ -52,4 +54,4 @@ POWERS OF MANAGER OF AUTHORIZED INSTITUTION
 
 - 22. Power to change the situation of the institution’s business office.
 
-- 23. Power to do all other things incidental to the exercise of the powers specified in this Schedule. (Ninth Schedule added 49 of 1995 s. 52)
+- 23. Power to do all other things incidental to the exercise of the powers specified in this Schedule.

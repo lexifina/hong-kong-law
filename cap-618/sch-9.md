@@ -8,7 +8,7 @@ Registration of Lift Engineers and Escalator Engineers
 
   - 1. In this Schedule—
 
-    - registered professional engineer (註冊專業工程師) means a registered professional engineers as defined by section 2 of the Engineers Registration Ordinance (Cap. 409).
+    - registered professional engineer (註冊專業工程師) means a registered professional engineer as defined by section 2 of the Engineers Registration Ordinance (Cap. 409). (Amended E.R. 6 of 2019)
 
 - Part 2 Requirements for Lift Engineers under Section 78(2)(a)
 

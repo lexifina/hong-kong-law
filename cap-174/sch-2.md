@@ -130,7 +130,7 @@ And I make this solemn declaration conscientiously believing the same to be true
 
 (Signed) A.B.
 
-Parent (or Guardian).
+Parent (or Guardian)
 
 Declared at . in Hong Kong this . day of .
 
@@ -138,9 +138,9 @@ Before me,
 
 (Signed)
 
-registrar.
+registrar
 
-(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18) _ Form 5
+(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 5
 
 [s. 13(1)]
 
@@ -166,7 +166,7 @@ And I make this solemn declaration conscientiously believing the same to be true
 
 (Signed) A.B.
 
-Parent (or Guardian).
+Parent (or Guardian)
 
 Declared at . in Hong Kong this . day of .
 
@@ -174,9 +174,9 @@ Before me,
 
 (Signed)
 
-registrar.
+registrar
 
-(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18) _ Form 6
+(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 6
 
 [s. 13(2)]
 
@@ -190,11 +190,11 @@ day of , , has [or have] been altered to and that such alteration has been enter
 
 Dated the day of , .
 
-(Signed.) A.B., a registrar of births and deaths.
+(Signed) A.B., a registrar of births and deaths
 
 Fee $110.
 
-(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68; 8 of 2006 s. 18) _ Form 7
+(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 7
 
 [s. 13(2)]
 
@@ -208,11 +208,11 @@ and that such name or names has [or have] been entered in the register.
 
 Dated the day of , .
 
-(Signed.) A.B., a registrar of births and deaths.
+(Signed) A.B., a registrar of births and deaths
 
 Fee $110.
 
-(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68; 8 of 2006 s. 18) _ Form 8
+(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 8
 
 [s. 16(1)]
 
@@ -222,13 +222,13 @@ Permission is hereby given to of to remove and bury the dead body of one called 
 
 Dated the day of , .
 
-(Signed.) Officer in charge.
+(Signed) Officer in charge
 
-No. Police station.
+No. Police station
 
 No fee is payable for this permit.
 
-(Amended L.N. 51 of 1974; L.N. 497 of 1994; 8 of 2006 s. 18) _ Form 9
+(Amended L.N. 51 of 1974; L.N. 497 of 1994; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 9
 
 [s. 16(2)]
 
@@ -238,11 +238,11 @@ Permission is hereby given to of to remove from Hong Kong the dead body of one c
 
 Dated the day of , .
 
-(Signed.) A.B., a registrar of births and deaths.
+(Signed) A.B., a registrar of births and deaths
 
 No fee is payable for this permit.
 
-(Amended L.N. 51 of 1974; 67 of 1984 s. 10; L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18) _ Form 10
+(Amended L.N. 51 of 1974; 67 of 1984 s. 10; L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 10
 
 [s. 17(1)]
 
@@ -252,11 +252,11 @@ I, A.B., a registrar of deaths in the district of , do hereby certify that the d
 
 Dated the day of , .
 
-(Signed.) A.B., a registrar of births and deaths.
+(Signed) A.B., a registrar of births and deaths
 
 No fee is payable for this certificate.
 
-(Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18) _ Form 11
+(Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 11
 
 [s. 17(1)]
 
@@ -268,9 +268,9 @@ Dated the day of , .
 
 .
 
-Coroner.
+Coroner
 
-(Replaced L.N. 2 of 1968. Amended 8 of 2006 s. 18) _ Form 12
+(Replaced L.N. 2 of 1968. Amended 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 12
 
 [s. 17(2)]
 
@@ -310,9 +310,9 @@ I, A.B., registered medical practitioner in Hong Kong, hereby certify that I was
 
 Dated the day of , .
 
-(Signed.) A.B., Registered medical practitioner.
+(Signed) A.B., Registered medical practitioner
 
-(Amended 67 of 1984 s. 10; 8 of 2006 s. 18) _ Form 14 (Repealed 47 of 1997 s. 10) _ Form 15
+(Amended 67 of 1984 s. 10; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 14 (Repealed 47 of 1997 s. 10) _ Form 15
 
 [s. 19]
 
@@ -322,9 +322,9 @@ I, A.B., hereby give you notice that in the coffin in which C.D. is brought for 
 
 Dated the day of , .
 
-(Signed.) A.B., Undertaker [or person in charge of funeral].
+(Signed) A.B., Undertaker [or person in charge of funeral]
 
-(Amended 8 of 2006 s. 18) _ Form 16
+(Amended 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 16
 
 [s. 19]
 
@@ -334,9 +334,9 @@ I, A.B., hereby give you notice that in the coffin in which C.D. is brought for 
 
 Dated the day of , .
 
-(Signed.) A.B., Undertaker [or person in charge of funeral].
+(Signed) A.B., Undertaker [or person in charge of funeral]
 
-(Amended 8 of 2006 s. 18) _ Form 17
+(Amended 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 17
 
 [s. 19]
 
@@ -346,9 +346,9 @@ I, A.B., hereby give you notice that in the coffin in which C.D. is brought for 
 
 Dated the day of , .
 
-(Signed.) A.B., Undertaker [or person in charge of funeral].
+(Signed) A.B., Undertaker [or person in charge of funeral]
 
-(Amended 8 of 2006 s. 18)
+(Amended 8 of 2006 s. 18; E.R. 6 of 2019)
 
 _
 
@@ -558,6 +558,6 @@ Before me,
 
 (Signed)
 
-registrar.
+registrar
 
-(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18)
+(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18; E.R. 6 of 2019)

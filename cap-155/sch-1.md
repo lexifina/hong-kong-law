@@ -1,8 +1,10 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [ss. 2(1), 12(3), 14(1) & 135(1)]
 
-SPECIFIED PERIOD AND SPECIFIED SUMS
+Specified Period and Specified Sums
+
+(Format changes—E.R. 6 of 2019)
 
 - 1. 3 months.
 

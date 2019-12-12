@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 5]
 
-PROVISIONS TO BE TREATED AS PART OF THE LAW OF NATIONS
+Provisions to be Treated as Part of the Law of Nations
 
 - 1. Piracy consists of any of the following acts—
 

@@ -1,20 +1,18 @@
 # Schedule 1
 
-(Adaptation amendments retroactively made - 29 of 1998 s. 105)
-
 [s. 13] (Amended 57 of 1995 s. 10)
 
 - 1. Interpretation
 
   - (1) In this Schedule— (Amended 57 of 1995 s. 10)
 
-    - “party to a union of concubinage” (夫妾關係的一方) means a tsip or a male partner of such a union;
+    - party to a union of concubinage (夫妾關係的一方) means a tsip or a male partner of such a union;
 
-    - “tsip” (妾) means the female partner of a union of concubinage.
+    - tsip (妾) means the female partner of a union of concubinage.
 
   - (2) For the purposes of this Schedule—
 
-    - (a) “taking out representation” refers to the obtaining of the probate of a will or the grant of administration; and
+    - (a) taking out representation (取得承辦) refers to the obtaining of the probate of a will or the grant of administration; and (Amended E.R. 6 of 2019)
 
     - (b) in deciding when representation was first taken out, a grant limited to part only of the estate of the deceased shall be left out of account unless a grant limited to the remainder of the estate has previously been made or is made at the same time. (Added 57 of 1995 s. 10)
 
@@ -24,7 +22,7 @@
 
   - (1) A child of a union of concubinage shall be regarded for the purposes of section 3A as a person whose father and mother were married to each other at the time of his birth.
 
-  - (2) References in the Ordinance to “a child of any person” include—
+  - (2) References in the Ordinance to a child of any person (任何人的子女) include— (Amended E.R. 6 of 2019)
 
     - (a) if that person is the tsip of a union of concubinage, references to—
 
@@ -34,7 +32,7 @@
 
     - (b) if that person is the wife of the male partner of a union of concubinage, references to a child of that union of concubinage,
 
-  - and “issue” shall be construed accordingly.
+  - and issue (後嗣) shall be construed accordingly. (Amended E.R. 6 of 2019)
 
   - (3) A child of a union of concubinage and—
 

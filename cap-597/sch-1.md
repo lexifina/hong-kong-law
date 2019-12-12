@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 24]
 
-DESIGNATED COURTS
+Designated Courts
 
 - 1. The Supreme People’s Court
 

@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-DOCUMENTS TO BE AUTHENTICATED
+Documents to be Authenticated
 
-- PART 1
+- Part 1
 
   - 1. The submission described in paragraph 3(a) in Part 3 of Schedule 1 to the Ordinance as required under section 15 of the Ordinance.
 
@@ -14,7 +14,7 @@ DOCUMENTS TO BE AUTHENTICATED
 
   - 4. The submission described in paragraph 3(a) in Part 3 of Schedule 1 to the Ordinance as required under section 41(2) of the Ordinance.
 
-- PART 2
+- Part 2
 
   - 1. The auditor’s statement described in paragraph 2 of Part 1 or paragraph 3 of Part 2 of Schedule 1 to the Ordinance as required under section 15(e) of the Ordinance.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 8(1) & (2), 9(1), 13(1) & 18(1)]
 
-ACCOUNTS AND FUNDS SUBJECT TO AUDIT BY THE DIRECTOR
+Accounts and Funds subject to Audit by the Director
 
 Item | Accounts/Funds | Responsible public officer | Statutory provisions under which the account or fund is kept or operated or in which the account or fund is referred to
 
@@ -30,7 +30,7 @@ Item | Accounts/Funds | Responsible public officer | Statutory provisions under 
 
 12. | World Refugee Year Loan Fund | Director of Agriculture and Fisheries | Not applicable.
 
-13. | Official Receiver in Voluntary Arrangement Account | Official Receiver | Sections 2 (definition of “nominee”) and 20H(1)(a)(ii) of the Bankruptcy Ordinance (Cap. 6) and rules 122C(2)(i) and 122D(3) and (4) of the Bankruptcy Rules (Cap. 6 sub. leg. A). (Added L.N. 64 of 2001)
+13. | Official Receiver in Voluntary Arrangement Account | Official Receiver | Sections 2 (definition of nominee) and 20H(1)(a)(ii) of the Bankruptcy Ordinance (Cap. 6) and rules 122C(2)(i) and 122D(3) and (4) of the Bankruptcy Rules (Cap. 6 sub. leg. A). (Added L.N. 64 of 2001)
 
 14. | Competition Tribunal Suitors’ Funds | Registrar of the Competition Tribunal | Rule 5 of the Competition Tribunal Suitors’ Funds Rules (Cap. 619 sub. leg. F). (Added L.N. 60 of 2018)
 

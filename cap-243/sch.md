@@ -1,14 +1,14 @@
-# SCHEDULE
+# Schedule
 
 [ss. 15A(1)(a), 15C(6) & 19]
 
-Offences Relevant to Meaning of “Prohibited Person”
+Offences Relevant to Meaning of Prohibited Person
 
 Common law offences
 
-1. | Murder.
+1. | Murder (Amended E.R. 6 of 2019)
 
-2. | Manslaughter.
+2. | Manslaughter (Amended E.R. 6 of 2019)
 
 Statutory offences
 
@@ -24,9 +24,11 @@ section 6(1) | manufacturing a dangerous drug
 
 section 8(1) | possessing or consuming a dangerous drug
 
-4. | Affiliation Proceedings Ordinance (Cap. 183)
+4. | #Affiliation Proceedings Ordinance (Cap. 183)
 
 section 16(b) | ill-treating a child
+
+Editorial Note: # Cap. 183 was repealed by section 79 of the Law Reform (Miscellaneous Provisions and Minor Amendments) Ordinance 1997 (80 of 1997).
 
 5. | Crimes Ordinance (Cap. 200)
 

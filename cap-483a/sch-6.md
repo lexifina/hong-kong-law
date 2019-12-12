@@ -1,13 +1,13 @@
-# SCHEDULE 6
+# Schedule 6
 
 [Sch. 2]
 
-PARKING SIGNS
+Parking Signs
 
-FIGURE NO. 1 WARNING: PARKED VEHICLES WILL BE IMPOUNDED
+Figure No. 1 Warning: Parked Vehicles will be Impounded
 
-THIS SIGN INDICATES THAT EXCEPT WHEN AUTHORIZED BY THE AIRPORT AUTHORITY, NO VEHICLES MAY PARK WITHIN THE AREA. PARKED VEHICLES MAY BE IMPOUNDED WITHOUT NOTICE.
+This sign indicates that except when authorized by the Airport Authority, no vehicles may park within the area. Parked vehicles may be impounded without notice.
 
-FIGURE NO. 2 PARKING TIME LIMIT
+Figure No. 2 Parking Time Limit
 
-THIS SIGNAL INDICATES THAT VEHICLES MAY ONLY PARK IN THE ALLOCATED AREAS FOR A LIMIT OF 10 MINUTES. THE WORDING MAY BE CHANGED TO SPECIFY ANY PERIOD OF TIME THAT IS IN EFFECT AT THESE PARKING SPACES.
+This signal indicates that vehicles may only park in the allocated areas for a limit of 10 minutes. The wording may be changed to specify any period of time that is in effect at these parking spaces.

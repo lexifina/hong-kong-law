@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-RATES OF FARES
+Rates of Fares
 
 per trip
 
@@ -10,7 +10,9 @@ per trip
 
 2. | Person under 12 years (other than a person under 3 years accompanied by a person of 12 years or more) | $1.30
 
-3. | Person under 3 years and accompanied by a person of 12 years or more | Nil per ticket
+3. | Person under 3 years and accompanied by a person of 12 years or more | Nil
+
+per ticket
 
 4. | Monthly ticket (valid for current calendar month only) | $220
 

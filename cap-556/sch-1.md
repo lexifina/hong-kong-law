@@ -1,14 +1,14 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 52(2)(a)]
 
-SECTIONS 4 AND 9 OF THE REPEALED ORDINANCE
+Sections 4 and 9 of the Repealed Ordinance
 
 Sections 4 and 9 of the repealed Ordinance, as modified for the purposes of section 52(2)(a), are as follows—
 
 - “4. Board of MTRC
 
-  - (1) The Board of the Mass Transit Railway Corporation (“MTRC”) comprises—
+  - (1) The Board of the Mass Transit Railway Corporation (MTRC) comprises—
 
     - (a) a chairman appointed by the Chief Executive; and
 
@@ -26,7 +26,7 @@ Sections 4 and 9 of the repealed Ordinance, as modified for the purposes of sect
 
 - 9. Documents of MTRC
 
-  - (1) The Mass Transit Railway Corporation (“MTRC”) may make and execute all such documents as may be considered by the Board to be expedient for or conducive to the attainment of the objects of Part IX of the Mass Transit Railway Ordinance (Cap. 556) or to be reasonably incidental to or consequential upon the attainment of those objects.
+  - (1) The Mass Transit Railway Corporation (MTRC) may make and execute all such documents as may be considered by the Board to be expedient for or conducive to the attainment of the objects of Part IX of the Mass Transit Railway Ordinance (Cap. 556) or to be reasonably incidental to or consequential upon the attainment of those objects.
 
   - (2) A document made by MTRC is deemed to be duly executed—
 

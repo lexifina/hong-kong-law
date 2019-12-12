@@ -1,8 +1,10 @@
-# TWELFTH SCHEDULE
+# Twelfth Schedule
 
 [ss. 118D(1)(a) & 135(3)]
 
-GROUNDS FOR REVOCATION OF APPROVAL OF MONEY BROKER
+Grounds for Revocation of Approval of Money Broker
+
+(Twelfth Schedule added 4 of 1997 s. 26) (Format changes—E.R. 6 of 2019)
 
 - 1. The Monetary Authority is satisfied that, if the approved money broker were not approved and were to make an application under section 118B for approval, section 118C(2) would prohibit him from approving it.
 
@@ -18,4 +20,4 @@ GROUNDS FOR REVOCATION OF APPROVAL OF MONEY BROKER
 
 - 7. The approved money broker requests in writing the Monetary Authority to revoke its approval.
 
-- 8. The Monetary Authority is satisfied that the approved money broker engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre. (Twelfth Schedule added 4 of 1997 s. 26)
+- 8. The Monetary Authority is satisfied that the approved money broker engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre.

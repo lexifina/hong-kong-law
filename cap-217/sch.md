@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 17]
 
-PROHIBITED WEAPON
+Prohibited Weapon
 
 Chinese-style throwing dart
 

@@ -1,20 +1,22 @@
-# ELEVENTH SCHEDULE
+# Eleventh Schedule
 
 [ss. 118C(2) & (7) & 135(3)]
 
-MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
+Minimum Criteria for Approval as Money Broker
+
+(Eleventh Schedule added 4 of 1997 s. 26) (Format changes—E.R. 6 of 2019)
 
 - 1.
 
   - (1) In this Schedule—
 
-    - “adequate” (足夠), in relation to systems of control, includes operating effectively;
+    - adequate (足夠), in relation to systems of control, includes operating effectively;
 
-    - “controller” (控權人) includes a minority shareholder controller;
+    - controller (控權人) includes a minority shareholder controller;
 
-    - “net debit balance” (借方淨差額), in relation to a company, means the aggregate of the excess of accumulated losses over accumulated profits disclosed in the profit and loss account, and other reserves separately disclosed in the balance sheet, of the most recent audited accounts of the company;
+    - net debit balance (借方淨差額), in relation to a company, means the aggregate of the excess of accumulated losses over accumulated profits disclosed in the profit and loss account, and other reserves separately disclosed in the balance sheet, of the most recent audited accounts of the company;
 
-    - “systems of control” (管控制度) includes procedures.
+    - systems of control (管控制度) includes procedures.
 
   - (2) For the purpose of the calculation of the paid-up share capital of a company required by this Schedule, there shall be deducted from such share capital any net debit balance.
 
@@ -52,4 +54,4 @@ MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate accounting systems and adequate systems of control.
 
-- 7. The Monetary Authority is satisfied that the business of the company is presently, and will if it is approved continue to be, carried on with integrity, prudence and the appropriate degree of professional competence. (Eleventh Schedule added 4 of 1997 s. 26)
+- 7. The Monetary Authority is satisfied that the business of the company is presently, and will if it is approved continue to be, carried on with integrity, prudence and the appropriate degree of professional competence.

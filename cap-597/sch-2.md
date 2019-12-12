@@ -1,3 +1,3 @@
 # Schedule 2
 
-(Omitted as spent)
+(Omitted as spent—E.R. 6 of 2019)

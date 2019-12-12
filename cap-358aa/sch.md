@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [s. 1]
 
@@ -58,7 +58,7 @@ Human activity should not cause the natural ambient salinity level to change by 
 
 H. | SUSPENDED SOLIDS
 
-(a) | Human activity should neither cause the natural ambient level to be raised by more than 30 % nor give rise to accumulation of suspended solids which may adversely affect aquatic communities. | Marine waters
+(a) | Human activity should neither cause the natural ambient level to be raised by more than 30% nor give rise to accumulation of suspended solids which may adversely affect aquatic communities. | Marine waters
 
 (b) | Human activity should not cause the annual median of suspended solids to exceed 20 mg per litre. | Water Gathering Ground Subzones
 

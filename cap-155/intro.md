@@ -2,4 +2,6 @@ To regulate banking business and the business of taking deposits; to make provis
 
 (Amended 4 of 1997 s. 2)
 
+(Format changes—E.R. 6 of 2019)
+
 [1 September 1986] L.N. 199 of 1986

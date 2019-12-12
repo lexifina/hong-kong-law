@@ -1,18 +1,20 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [ss. 92(2)(c) & (7) & 135(3)] (Amended 32 of 2001 s. 26)
 
-REQUIREMENTS APPLICABLE TO PRESCRIBED ADVERTISEMENTS
+Requirements Applicable to Prescribed Advertisements
+
+(Format changes—E.R. 6 of 2019)
 
 - 1. Interpretation
 
   - (1) In this Schedule—
 
-    - “deposit-taker” (接受存款人), in relation to a prescribed advertisement, means the person with whom the deposits which are invited by the advertisement are to be made;
+    - deposit-taker (接受存款人), in relation to a prescribed advertisement, means the person with whom the deposits which are invited by the advertisement are to be made;
 
-    - “full name” (全名), in relation to a person, means the name under which that person carries on business and, if different and if that person is a body corporate, its corporate name;
+    - full name (全名), in relation to a person, means the name under which that person carries on business and, if different and if that person is a body corporate, its corporate name;
 
-    - “liabilities” (負債) includes provisions where such provisions have not been deducted from value of assets.
+    - liabilities (負債) includes provisions where such provisions have not been deducted from value of assets.
 
   - (2) A reference in this Schedule to the payment of interest in respect of a deposit includes a reference to the payment of any premium in respect of the deposit, and to the crediting of interest to the deposit so as to constitute an accretion to the principal.
 
@@ -26,7 +28,7 @@ REQUIREMENTS APPLICABLE TO PRESCRIBED ADVERTISEMENTS
 
   - (b) the country or territory in which the deposit-taker’s principal place of business is situated, described as such; and
 
-  - (c) if the deposit-taker is a body corporate, the country or territory in which it is incorporated, described as such, unless this is the same as the country or territory referred to in subparagraph (b).
+  - (c) if the deposit-taker is a body corporate, the country or territory in which it is incorporated, described as such, unless this is the same as the country or territory referred to in sub-subparagraph (b). (Amended E.R. 6 of 2019)
 
 - 4. Assets and liabilities
 

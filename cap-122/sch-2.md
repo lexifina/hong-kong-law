@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 10(4) & 18(2)]
 
-SPECIFIED PUBLIC OFFICER
+Specified Public Officer
 
 1. | Deputy Director of Audit
 

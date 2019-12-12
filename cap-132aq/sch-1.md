@@ -6,7 +6,7 @@ Methods of Heat-treatment
 
 - 1. Pasteurization—
 
-  - (a) by the “Holder Method”, namely, by retaining milk or a milk beverage for not less than 30 minutes at a temperature of not less than 63 nor more than 66°C and then immediately cooling it to a temperature of not more than 10°C; or
+  - (a) by the “Holder Method”, namely, by retaining milk or a milk beverage for not less than 30 minutes at a temperature of not less than 63°C nor more than 66°C and then immediately cooling it to a temperature of not more than 10°C; or (E.R. 6 of 2019)
 
   - (b) be the “High Temperature Short Time Method”, namely, by retaining milk or a milk beverage for a period of not less than 15 seconds at a temperature of not less than 72°C and then immediately cooling it to a temperature of not more than 10°C.
 

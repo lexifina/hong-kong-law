@@ -1,57 +1,59 @@
-# SCHEDULE 5
+# Schedule 5
 
 [Sch. 2]
 
-TRAFFIC SIGNS, ROAD MARKINGS (IF ANY) AND TRAFFIC LIGHT SIGNALS
+Traffic Signs, Road Markings (if any) and Traffic Light Signals
 
-FIGURE NO. 1 DROP OFF ONLY
+Figure No. 1 Drop Off Only
 
-NO PICK UP ALLOWED
+No Pick Up Allowed
 
-THIS SIGN INDICATES THAT USERS MAY NOT UTILIZE THE AREA FOR THE PICKING UP OF PERSONS, PROPERTY OR GOODS UNLESS AUTHORIZED BY THE AIRPORT AUTHORITY.
+This sign indicates that users may not utilize the area for the picking up of persons, property or goods unless authorized by the Airport Authority.
 
-FIGURE NO. 2 SUPPLEMENTARY PLATE
+Figure No. 2 Supplementary Plate
 
-THIS SUPPLEMENTARY PLATE EXEMPTS USERS HOLDING A VALID AIRPORT AUTHORITY ACCESS PERMIT FROM THE RESTRICTION OF THE ASSOCIATED SIGN.
+This supplementary plate exempts users holding a valid Airport Authority access permit from the restriction of the associated sign.
 
-FIGURE NO. 3 LANE SIGNAL
+Figure No. 3 Lane Signal
 
-THIS SIGNAL WHEN DISPLAYED CONVEYS THE PROHIBITION THAT TRAFFIC SHALL NOT PROCEED BENEATH OR BEYOND THE RED CROSS IN THE TRAFFIC LANE IN RELATION TO WHICH THE SIGNAL IS DISPLAYED.
+This signal when displayed conveys the prohibition that traffic shall not proceed beneath or beyond the red cross in the traffic lane in relation to which the signal is displayed.
 
-FIGURE NO. 4 LANE SIGNAL
+Figure No. 4 Lane Signal
 
-THIS SIGNAL WHEN DISPLAYED MEANS THAT TRAFFIC MAY PROCEED OR CONTINUE TO DO SO IN THE TRAFFIC LANE BENEATH OR BEYOND THE ARROW.
+This signal when displayed means that traffic may proceed or continue to do so in the traffic lane beneath or beyond the arrow.
 
-FIGURE NO. 5 PROCEED LEFT OR KEEP LEFT
+Figure No. 5 Proceed Left or Keep Left
 
-THIS SIGNAL INDICATES THAT VEHICLES MUST PROCEED TO THE LEFT-HAND LANE.
+This signal indicates that vehicles must proceed to the left-hand lane.
 
-FIGURE NO. 6 PROCEED RIGHT OR KEEP RIGHT
+Figure No. 6 Proceed Right or Keep Right
 
-THIS SIGNAL INDICATES THAT VEHICLES MUST PROCEED TO THE RIGHT-HAND LANE.
+This signal indicates that vehicles must proceed to the right-hand lane.
 
-FIGURE NO. 7 VARIABLE SPEED LIMIT SIGNAL—20 KM/H
+Figure No. 7 Variable Speed Limit Signal—20 km/h
 
-THIS SIGNAL INDICATES THAT A SPEED LIMIT OF 20 KM PER HOUR IS IMPOSED BEYOND THE SIGN.
+This signal indicates that a speed limit of 20 km per hour is imposed beyond the sign.
 
-FIGURE NO. 8 VARIABLE SPEED LIMIT SIGNAL—30 KM/H
+Figure No. 8 Variable Speed Limit Signal—30 km/h
 
-THIS SIGNAL INDICATES THAT A SPEED LIMIT OF 30 KM PER HOUR IS IMPOSED BEYOND THE SIGN.
+This signal indicates that a speed limit of 30 km per hour is imposed beyond the sign.
 
-FIGURE NO. 9 VARIABLE SPEED LIMIT SIGNAL—50 KM/H
+Figure No. 9 Variable Speed Limit Signal—50 km/h
 
-THIS SIGNAL INDICATES THAT A SPEED LIMIT OF 50 KM PER HOUR IS IMPOSED BEYOND THE SIGN.
+This signal indicates that a speed limit of 50 km per hour is imposed beyond the sign.
 
-FIGURE NO. 10 VARIABLE SPEED LIMIT SIGNAL—70 KM/H
+Figure No. 10 Variable Speed Limit Signal—70 km/h
 
-THIS SIGNAL INDICATES THAT A SPEED LIMIT OF 70 KM PER HOUR IS IMPOSED BEYOND THE SIGN.
+This signal indicates that a speed limit of 70 km per hour is imposed beyond the sign.
 
-FIGURE NO. 11 TAXI LANE CONTROL SIGNAL
+Figure No. 11
 
-THIS SIGNAL MAY BE PLACED IN A VERTICAL OR HORIZONTAL ORIENTATION AND INDICATES THE STATUS OF THE LANE IN THE TAXI STAGING AREA TO WHICH THE SIGNAL APPLIES. THE MEANING OF THE SIGNAL SHALL BE AS FOLLOWS—
+Taxi Lane Control Signal
 
-RED | WHEN A RED LIGHT IS DISPLAYED, VEHICLES IN THE LANE TO WHICH THE SIGNAL APPLIES MAY NOT PASS BEYOND THE SIGNAL
+This signal may be placed in a vertical or horizontal orientation and indicates the status of the lane in the taxi staging area to which the signal applies. The meaning of the signal shall be as follows—
 
-GREEN | WHEN A GREEN LIGHT IS DISPLAYED, VEHICLES PROCEEDING IN THE TRAFFIC LANE TO WHICH THE SIGNAL APPLIES MAY PROCEED BEYOND THE SIGNAL
+Red | When a red light is displayed, vehicles in the lane to which the signal applies may not pass beyond the signal
 
-RED CROSS | WHEN A RED CROSS IS DISPLAYED, THIS INDICATES THAT THE LANE TO WHICH THE SIGNAL APPLIED IS CLOSED
+Green | When a green light is displayed, vehicles proceeding in the traffic lane to which the signal applies may proceed beyond the signal
+
+Red Cross | When a red cross is displayed, this indicates that the lane to which the signal applied is closed

@@ -1,12 +1,14 @@
-# EIGHTH SCHEDULE
+# Eighth Schedule
 
 [ss. 22(1) & 135(1)]
 
-GROUNDS FOR REVOCATION OF AUTHORIZATION
+Grounds for Revocation of Authorization
+
+(Eighth Schedule added 49 of 1995 s. 52) (Format changes—E.R. 6 of 2019)
 
 - 1.
 
-  - In this Schedule, “controller” (控權人) includes a minority shareholder controller.
+  - In this Schedule, controller (控權人) includes a minority shareholder controller.
 
 - *2. The Monetary Authority is satisfied that, if the authorized institution were not authorized and were to make an application under section 15 for authorization in respect of the business referred to in that section presently being carried on by it, section 16(2) would prohibit him from so authorizing it (but excluding the criteria specified in paragraphs 2(b) and 13 of the Seventh Schedule).
 
@@ -56,7 +58,7 @@ GROUNDS FOR REVOCATION OF AUTHORIZATION
 
 - 20. The Monetary Authority is satisfied that the authorized institution engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre.
 
-- 21. The authorized institution has failed to comply with any requirement under the Deposit Protection Scheme Ordinance (Cap. 581) applicable to the institution. (Added 7 of 2004 s. 55) (Eighth Schedule added 49 of 1995 s. 52)
+- 21. The authorized institution has failed to comply with any requirement under the Deposit Protection Scheme Ordinance (Cap. 581) applicable to the institution. (Added 7 of 2004 s. 55)
 
 Editorial Note:
 

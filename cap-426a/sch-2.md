@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-DOCUMENTS TO BE CERTIFIED
+Documents to be Certified
 
 - 1. Copies of powers of attorney executed for the purpose of section 67(1B) of the Ordinance required to be submitted to the Registrar under section 7(2)(c)(ii) or 15(d) of the Ordinance. (L.N. 361 of 1998)
 

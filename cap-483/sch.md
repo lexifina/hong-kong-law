@@ -1,7 +1,7 @@
-# SCHEDULE
+# Schedule
 
 [s. 47]
 
-ENACTMENTS WHICH MAY BE AMENDED UNDER SECTION 47
+Enactments which may be Amended under Section 47
 
 - 1. Road Traffic Ordinance (Cap. 374)

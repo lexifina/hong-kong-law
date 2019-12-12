@@ -378,7 +378,7 @@ Transitional and Savings Provisions
 
       - (b) if the Court of First Instance decides to reverse or vary an order of an appeal board appointed under the repealed Ordinance, take appropriate actions (if required) to give effect to the decision.
 
-- Part 9 Others Matters
+- Part 9 Other Matters (Amended E.R. 6 of 2019)
 
   - 15. Display of use permits under section 39 or 69
 

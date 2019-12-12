@@ -1,14 +1,14 @@
-# SCHEDULE
+# Schedule
 
 [ss. 17AA, 26A & 26B]
 
-TERMS, COVENANTS AND CONDITIONS
+Terms, Covenants and Conditions
 
 - 1A. In this Schedule—
 
-  - “prescribed nominee” (訂明的被提名人) means a person referred to in paragraph 4(c)(B) of this Schedule;
+  - prescribed nominee (訂明的被提名人) means a person referred to in paragraph 4(c)(B) of this Schedule;
 
-  - “relevant land” (有關土地) means any land referred to in section 17AA(1)(a) or (b) of this Ordinance where the agreement for sale and purchase and the deed of assignment in relation to the land are subject to any of the terms, covenants and conditions mentioned in this Schedule. (Added L.N. 189 of 1997)
+  - relevant land (有關土地) means any land referred to in section 17AA(1)(a) or (b) of this Ordinance where the agreement for sale and purchase and the deed of assignment in relation to the land are subject to any of the terms, covenants and conditions mentioned in this Schedule. (Added L.N. 189 of 1997)
 
 - 1. Subject to paragraph 4 of this Schedule, the purchaser shall not at any time alienate, convey, charge or part with possession or purport to alienate, convey, charge or part with possession or enter into any agreement to alienate, convey, charge or part with possession of the land sold other than to the Authority, or such person as the Authority may nominate, unless—
 
@@ -32,11 +32,11 @@ TERMS, COVENANTS AND CONDITIONS
 
   - Where—
 
-    - “Premium” (補價) means the amount payable;
+    - Premium (補價) means the amount payable;
 
-    - “Prevailing Market Value” (現行市值) means, subject to paragraph 6 of this Schedule, the market value of the land assessed by the Director of Housing (the “Director”) as at the time when the purchaser pays the Premium;
+    - Prevailing Market Value (現行市值) means, subject to paragraph 6 of this Schedule, the market value of the land assessed by the Director of Housing (the Director) as at the time when the purchaser pays the Premium;
 
-    - “Initial Market Value” (最初市值) means the market value of the land assessed by the Director as at the time of purchase and as specified in the last assignment of the land—
+    - Initial Market Value (最初市值) means the market value of the land assessed by the Director as at the time of purchase and as specified in the last assignment of the land—
 
       - (a) from the Authority to any purchaser; or
 
@@ -44,7 +44,7 @@ TERMS, COVENANTS AND CONDITIONS
 
     - whichever is the later;
 
-    - “Purchase Price” (買價) means—
+    - Purchase Price (買價) means—
 
       - (a) if a list price is not specified in the assignment, the consideration stated in the assignment;
 
@@ -90,7 +90,7 @@ TERMS, COVENANTS AND CONDITIONS
 
     - Initial Market Value
 
-    - Where “Initial Market Value” (最初市值) and “Purchase Price” (買價) have the same meanings respectively assigned to them under paragraph 1(b) of this Schedule. (Replaced L.N. 63 of 1999)
+    - Where Initial Market Value (最初市值) and Purchase Price (買價) have the same meanings respectively assigned to them under paragraph 1(b) of this Schedule. (Replaced L.N. 63 of 1999)
 
 - 3. Against assignment of the land to the Authority, or a person nominated by the Authority (other than a prescribed nominee), the purchaser shall be entitled to receive the price as mentioned in paragraph 2(a) or (b) of this Schedule, less—
 
