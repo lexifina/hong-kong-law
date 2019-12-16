@@ -8,11 +8,15 @@ Specification of Instruments
 
 - Item | Instrument
 
-  - 1. Conveyance on sale chargeable with stamp duty under head 1(1), (1AA) or (1AAB) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the conveyance, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (14 of 2011 s. 17; 2 of 2014 s. 22)
+- 1. | Conveyance on sale chargeable with stamp duty under head 1(1), (1AA) or (1AAB) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the conveyance, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (14 of 2011 s. 17; 2 of 2014 s. 22)
 
-  - 2. Agreement for sale chargeable with stamp duty under head 1(1A), (1B) or (1C) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the agreement, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (14 of 2011 s. 17; 2 of 2014 s. 22)
+- 2. | Agreement for sale chargeable with stamp duty under head 1(1A), (1B) or (1C) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the agreement, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (14 of 2011 s. 17; 2 of 2014 s. 22)
 
-  - 3. Lease chargeable with stamp duty under head 1(2)(b) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the lease, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule
+- 3. | Lease chargeable with stamp duty under head 1(2)(b) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the lease, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule
+
+- 4. | Contract note of Hong Kong stock chargeable with stamp duty under head 2(1) or (2) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the note, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (L.N. 92 of 2019)
+
+- 5. | Instrument of transfer chargeable with stamp duty under head 2(3) or (4) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the instrument, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (L.N. 92 of 2019)
 
 - Part 2 Exceptions
 
