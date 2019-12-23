@@ -4,52 +4,48 @@
 
 LOCAL VESSELS TO WHICH PARTS 3 AND 4 OF THIS REGULATION DO NOT APPLY
 
-Parts 3 and 4 of this Regulation do not apply to—
+- Parts 3 and 4 of this Regulation do not apply to a Class II vessel or Class III vessel that complies with the requirements in Schedules 3 and 4 (as applicable) and meets the following descriptions— (L.N. 154 of 2019)
 
-- (a) a Class III vessel that—
+  - (a) for a Class III vessel, the vessel— (L.N. 154 of 2019)
 
-  - (i) is a Category B vessel;
+    - (i) is a Category B vessel;
 
-  - (ii) is an outboard open sampan;
+    - (ii) is an outboard open sampan;
 
-  - (iii) is of less than 10 m in length overall;
+    - (iii) is of less than 10 m in length overall;
 
-  - (iv) is fitted with a petrol outboard engine of a power not exceeding 12 kW;
+    - (iv) is fitted with a petrol outboard engine of a power not exceeding 12 kW;
 
-  - (v) carries no fare-paying passengers;
+    - (v) carries no fare-paying passengers;
 
-  - (vi) carries not more than 4 persons (including the crew);
+    - (vi) carries not more than 4 persons (including the crew); and (L.N. 154 of 2019)
 
-  - (vii) carries no fuel other than in a portable tank fitted with a fuel pipe line all of a type approved by the manufacturer of the engine; and
+    - (vii) carries no fuel other than in a portable tank fitted with a fuel pipe line all of a type approved by the manufacturer of the engine; or (L.N. 154 of 2019)
 
-  - (viii) is equipped with the following life-saving appliances and fire-fighting apparatus, all of which are in good and serviceable condition—
+    - (viii) (Repealed L.N. 154 of 2019)
 
-    - (A) at least 1 lifejacket for every person on board, or 1 lifebuoy for every 2 persons on board, or 1 lifebuoy for the first 2 persons on board plus 1 lifejacket for every additional person;
+  - (b) for a Class II vessel or Class III vessel, the vessel— (L.N. 154 of 2019)
 
-    - (B) at least 1 portable dry powder fire extinguisher that has a capacity of not less than 1.25 kg of dry powder; and
+    - (i) is not fitted with any propulsion engine;
 
-    - (C) at least 1 fire bucket that is fitted with a lanyard; or
+    - (ii) is not fitted with any internal combustion engine; and (L.N. 154 of 2019)
 
-- (b) a Class II vessel or Class III vessel that—
+    - (iii) (Repealed L.N. 154 of 2019)
 
-  - (i) is not fitted with any propulsion engine;
+    - (iv)
 
-  - (ii) is not fitted with any internal combustion engine;
+    - is of the type and description of vessel shown in the following table—
 
-  - (iii) complies with the requirements in Schedules 3 and 4 in so far as they are applicable; and
+  - Class | Types | Material of construction | Length overall × extreme breadth(note)
 
-  - (iv)
+  - II | transportation sampan | any material | not exceeding 25 m2
 
-  - is of the type and description of vessel shown in the following table—
+  - II | work boat | other than metal | not exceeding 25 m2
 
-  - Class | Types | Material of construction | Length overall × extreme breadth(note) | Minimum requirements for life-saving appliances and fire-fighting apparatus
+  - III | fishing sampan | other than metal | not exceeding 25 m2
 
-  - II | transportation sampan | any material | not exceeding 25 m2 | (a) 1 lifejacket for every person on board; (b) 1 lifebuoy; and (c) 1 fire bucket with lanyard
+  - (L.N. 154 of 2019)
 
-  - II | work boat | other than metal | not exceeding 25 m2 | (a) 1 lifebuoy; and (b) 1 fire bucket with lanyard
+- Note:
 
-  - III | fishing sampan | other than metal | not exceeding 25 m2 | (a) 1 lifebuoy; and (b) 1 fire bucket with lanyard
-
-  - Note:
-
-    - “extreme breadth” (最大寬度), in relation to a local vessel, means the athwartship distance between the extremity of the outermost permanent structure on the port side and the extremity of the outermost permanent structure on the starboard side of the vessel.
+  - “extreme breadth” (最大寬度), in relation to a local vessel, means the athwartship distance between the extremity of the outermost permanent structure on the port side and the extremity of the outermost permanent structure on the starboard side of the vessel.

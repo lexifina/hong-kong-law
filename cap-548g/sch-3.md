@@ -44,6 +44,98 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - (2) A lifebuoy may be fitted with a buoyant lifeline or self-igniting light, but not both.
 
+  - 5. Provision of lifejackets
+
+    - (1) A local vessel must carry on board the required quantity of lifejackets.
+
+    - (2) If there are any persons on board the vessel, the lifejackets carried on board (excluding infant lifejackets) must include at least 1 suitable lifejacket for each person on board, excluding a person for whom the suitable lifejacket is an infant lifejacket.
+
+    - (3) This section does not apply to—
+
+      - (a) a Class II vessel or Class III vessel that falls within paragraph (a) or (b) of Schedule 2, except a transportation sampan;
+
+      - (b) a Class II vessel that is licensed as—
+
+        - (i) a landing platform;
+
+        - (ii) a landing pontoon; or
+
+        - (iii) a stationary vessel that is a separation barge; or
+
+      - (c) a floating restaurant to which section 7 of this Schedule applies.
+
+    - (4) This section also does not apply to a local vessel if—
+
+      - (a) the operating licence of the vessel restricts it to plying within specified sheltered waters or a typhoon shelter;
+
+      - (b) the vessel carries on board a combination of lifejackets and lifebuoys that is adequate for the permitted number of persons;
+
+      - (c) each of the lifejackets is suitable for all persons, except a person for whom the suitable lifejacket is an infant lifejacket; and
+
+      - (d) the quantity of the lifejackets is not less than 50% of the permitted number of persons.
+
+    - (5) In this section—
+
+      - permitted number of persons (獲允許人數), in relation to a local vessel, means the total number of persons the vessel is permitted to carry under the conditions of its operating licence;
+
+      - required quantity of lifejackets (規定數量的救生衣), in relation to a local vessel, means a quantity of lifejackets (excluding infant lifejackets) that is not less than the permitted number of persons.
+
+  - (L.N. 154 of 2019)
+
+  - 6. Provision of infant lifejackets
+
+    - (1) This section applies to—
+
+      - (a) a Class I vessel, except a floating restaurant to which section 7 of this Schedule applies; or
+
+      - (b) a Class IV vessel that—
+
+        - (i) is let for hire or reward; and
+
+        - (ii) is permitted to carry more than 12 passengers under the conditions of its operating licence.
+
+    - (2) The vessel must carry on board a quantity of infant lifejackets that is not less than 2.5% of the permitted number of passengers.
+
+    - (3) In subsection (2)—
+
+      - permitted number of passengers (獲允許乘客人數), in relation to a Class I vessel or Class IV vessel, means the total number of passengers the vessel is permitted to carry under the conditions of its operating licence.
+
+  - (L.N. 154 of 2019)
+
+  - 7. Provision of lifejackets and infant lifejackets on floating restaurants
+
+    - (1) This section applies to a floating restaurant—
+
+      - (a) the operating licence of which restricts the floating restaurant to plying or operating within specified sheltered waters or a typhoon shelter; and
+
+      - (b) that—
+
+        - (i) is attached to the shore and is provided with adequate gangways; or
+
+        - (ii) is not attached to the shore but is provided with—
+
+          - (A) above-water flotation in the form of a steel embarkation pontoon moored alongside; or
+
+          - (B) steel tenders at both ends capable of being towed to a safe place away from the floating restaurant.
+
+    - (2) The floating restaurant must carry on board a quantity of lifejackets (excluding infant lifejackets) that is not less than 50% of the permitted number of persons.
+
+    - (3) However, the floating restaurant may, instead of complying with subsection (2), carry on board a combination of lifejackets and lifebuoys that is adequate for 50% of the permitted number of persons but only if—
+
+      - (a) each of the lifejackets is suitable for all persons, except a person for whom the suitable lifejacket is an infant lifejacket; and
+
+      - (b) the quantity of the lifejackets is not less than 25% of the permitted number of persons.
+
+    - (4) In addition to complying with subsection (2) or (3), the floating restaurant must also carry on board a quantity of infant lifejackets that is not less than 1.25% of the permitted number of passengers.
+
+    - (5) In this section—
+
+      - permitted number of passengers (獲允許乘客人數) has the meaning given by section 6(3) of this Schedule;
+
+      - permitted number of persons (獲允許人數) has the meaning given by section 5(5) of this Schedule.
+
+  - (L.N. 154 of 2019)
+
 - PART 2 SPECIFIC REQUIREMENTS
 
 - Table 1
@@ -54,11 +146,9 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (iii) Class IV vessels that are licensed to carry 13 to 60 passengers but are let for hire or reward
 
-  - Specified sheltered waters | Anywhere within waters of Hong Kong
+  - Operation area Life-saving appliances | Specified sheltered waters, a typhoon shelter or anywhere within waters of Hong Kong
 
-  - lifejacket | any number | } | Total 100%(1) and (2) | 100% adult lifejacket + 5% children lifejacket
-
-  - lifebuoy | minimum number per Table 2 | minimum number per Table 2
+  - lifebuoy | minimum number per Table 2
 
   - buoyant lifeline(3) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
 
@@ -66,19 +156,9 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - VHF (very high frequency) radio installation(5) | 1
 
-  - Notes:
+  - (L.N. 154 of 2019) Notes:
 
-  - (1) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
-
-  - (2) The scale for a floating restaurant may be reduced by 50% if it is—
-
-    - (a) attached to the shore and provided with adequate gangways; or
-
-    - (b) not attached to the shore, but provided with—
-
-      - (i) above-water flotation in the form of a steel embarkation pontoon moored alongside; or
-
-      - (ii) steel tenders at both ends capable of being towed to a safe place away from the floating restaurant.
+  - (1)-(2) (Repealed L.N. 154 of 2019)
 
   - (3) The minimum length of buoyant lifeline for a Class I vessel or Class IV vessel that is licensed to carry more than 60 passengers is 30 m. The minimum length of buoyant lifeline for a Class IV vessel that is licensed to carry not more than 60 passengers is. For (L)<21 m 18 m
 
@@ -108,37 +188,27 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (ii) Class IV vessels that are licensed to carry not more than 12 passengers but are let for hire or reward
 
-  - Specified sheltered waters | Anywhere within waters of Hong Kong
+  - Operation area Life-saving appliances | Specified sheltered waters, a typhoon shelter or anywhere within waters of Hong Kong
 
-  - lifejacket(1) | any number(2) | } | Total 100%(3) and (4) | 100% adult lifejacket + <5% children lifejacket>(3), (4) and (5)
+  - lifebuoy(1) and (4) | minimum number per Table 5
 
-  - lifebuoy(1) | any number | minimum number per Table 5
-
-  - buoyant lifeline(4) and (6) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
+  - buoyant lifeline(4), (6) and (7) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
 
   - <self-igniting light (for vessel (L)≥37 m)>(5) | 2
 
-  - Notes:
+  - (L.N. 154 of 2019) Notes:
 
   - (1)
 
-    - (a) For a transportation sampan that falls within paragraph (b) of Schedule 2, at least 1 lifejacket for every person on board and 1 lifebuoy are required.
+    - (a) For a transportation sampan that falls within paragraph (b) of Schedule 2, instead of the life-saving appliances stated in the Table, at least 1 lifebuoy is required.
 
-    - (b) For a work boat that falls within paragraph (b) of Schedule 2, at least 1 lifebuoy is required.
+    - (b) For a work boat that falls within paragraph (b) of Schedule 2, instead of the life-saving appliances stated in the Table, a quantity of suitable lifejackets or lifebuoys, or a combination of both, that is adequate for the total number of persons on board is required. (L.N. 154 of 2019)
 
-  - (2) Lifejacket is not required for—
-
-    - (a) a landing platform;
-
-    - (b) a landing pontoon; and
-
-    - (c) a stationary vessel that is a separation barge.
-
-  - (3) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
+  - (2)-(3) (Repealed L.N. 154 of 2019)
 
   - (4) Special requirements for a floating dock—
 
-    - (a) 100% lifejacket is required only when any of the tropical cyclone warning signals commonly referred to as No. 8NW, 8SW, 8NE, 8SE, 9 or 10 is in force and any person is staying on board;
+    - (a) (Repealed L.N. 154 of 2019)
 
     - (b) the total number of lifebuoy provided shall not be less than that required in Table 5, or 1 lifebuoy for every 26 m or part thereof of each of the side wall, whichever is the greater;
 
@@ -148,11 +218,11 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (5) Requirements in angle brackets (“< >”) are for new vessels only.
 
-  - (6) The minimum length of buoyant lifeline is 30 m. Table 4 Class II vessels that operate within river trade limits
+  - (6) The minimum length of buoyant lifeline is 30 m.
+
+  - (7) Buoyant lifeline is not required for a Class II vessel that falls within paragraph (b) of Schedule 2. (L.N. 154 of 2019) Table 4 Class II vessels that operate within river trade limits
 
   - Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
-
-  - lifejacket | 100%(1)
 
   - lifebuoy | minimum number per Table 5
 
@@ -172,7 +242,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - rocket parachute flare(4) | 6
 
-  - (L.N. 187 of 2016) Notes:
+  - (L.N. 187 of 2016; L.N. 154 of 2019) Notes:
 
   - (1) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
 
@@ -214,19 +284,17 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - Table 6 Class III vessels
 
-  - Life— saving appliances | Category of vessel | A | B
+  - Life-saving appliances | Category of vessel | A | B(1A)
 
-  - Vessel length (L) (m) | (L)<24 | 24≤(L)<45(1) | (L)<24 | 24≤(L)<45(1)
+  - Vessel length (L) (m) | (L)<24 | 24≤(L) <45(1) | (L)<24 | 24≤(L) <45(1)
 
-  - lifejacket | 100%(2) | 100%(2)
-
-  - lifebuoy | 2 | 4 | 2(3) and (4) | 2 or <4>(5)
+  - lifebuoy | 2 | 4 | 2(3) | 2 or <4>(5)
 
   - buoyant apparatus (for vessel (L)>30 m) | ─ | 100%(2) | ─
 
   - inflatable liferaft | 100%(2) (type, equipment, location and arrangement of liferaft shall be in accordance with the relevant plans approved under Part 3 of this Regulation) | ─
 
-  - buoyant lifeline(6) | 2 | 2(3)
+  - buoyant lifeline(6) | 2 | 2(2)
 
   - <self-activating smoke>(5) | 1(7) | 1(7)
 
@@ -238,7 +306,9 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - radiocommunications equipment | description, quantity, type, function and location of equipment shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─
 
-  - Notes:
+  - (L.N. 154 of 2019) Notes:
+
+  - (1A) For a Class III vessel that falls within paragraph (a) or (b) of Schedule 2, instead of the life-saving appliances stated in the Table, a quantity of suitable lifejackets or lifebuoys, or a combination of both, that is adequate for the total number of persons on board is required. (L.N. 154 of 2019)
 
   - (1) The requirement for a Class III vessel of 45 m or more in length shall be specified by the Director on a case-by-case basis.
 
@@ -264,7 +334,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
       - (ii) of less than 12 m in length.
 
-  - (4) For a fishing sampan that falls within paragraph (b) of Schedule 2, the minimum requirement for life-saving appliance is 1 lifebuoy.
+  - (4) (Repealed L.N. 154 of 2019)
 
   - (5) Requirements in angle brackets (“< >”) are for new vessels only.
 
@@ -284,8 +354,6 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - Life-saving appliances | Quantity
 
-    - lifejacket | 100%(1)
-
     - lifebuoy | Vessel length (L) (m) | Number
 
     - L<12 | 1
@@ -298,9 +366,11 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - buoyant lifeline(2) | 1
 
+    - (L.N. 154 of 2019)
+
   - Notes:
 
-  - (1) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
+  - (1) (Repealed L.N. 154 of 2019)
 
   - (2) The minimum length of buoyant lifeline is. For (L)<21 m 18 m
 
