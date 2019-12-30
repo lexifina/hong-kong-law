@@ -1,6 +1,8 @@
 # Schedule 1
 
-[regs. 10, 11A & 12] (L.N. 185 of 1988)
+[regs. 10, 11A, 12, 65
+
+& 66] (L.N. 185 of 1988; L.N. 113 of 2019)
 
 (Format changes—E.R. 2 of 2012)
 
