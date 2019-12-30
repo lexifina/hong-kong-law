@@ -52,21 +52,25 @@ $
 
   - 1. Fee The fee for a qualified examination of a specified vehicle is $0.
 
-  - 2. What is specified vehicle A vehicle is a specified vehicle if it falls within any of the following classes—
+  - 2. What is specified vehicle
 
-    - (a) taxi;
+    - (1) A vehicle is a specified vehicle if it falls within any of the following classes— (Amended L.N. 102 of 2019)
 
-    - (b) goods vehicle;
+      - (a) taxi;
 
-    - (c) special purpose vehicle;
+      - (b) goods vehicle;
 
-    - (d) light bus;
+      - (c) special purpose vehicle;
 
-    - (e) single-decked bus;
+      - (d) light bus;
 
-    - (f) double-decked bus;
+      - (e) single-decked bus;
 
-    - (g) trailer (other than a trailer towed by a private car).
+      - (f) double-decked bus;
+
+      - (g) trailer (other than a trailer towed by a private car).
+
+    - (2) For the purposes of an examination of a vehicle that takes place within the period from 30 December 2019 to 28 April 2021 (both dates inclusive), a private car in respect of which a hire car permit is in force is also a specified vehicle. (Added L.N. 102 of 2019)
 
   - 3. What is qualified examination
 
@@ -78,7 +82,11 @@ $
 
       - (b) the examination—
 
-        - (i) takes place on a date that falls within the period beginning on 13 July 2015 and ending at midnight on 11 November 2016; and
+        - (i) takes place on a date that falls within—
+
+          - (A) the period from 13 July 2015 to 11 November 2016 (both dates inclusive); or
+
+          - (B) the period from 30 December 2019 to 28 April 2021 (both dates inclusive); and (Replaced L.N. 102 of 2019)
 
         - (ii) is the first specified examination of the vehicle within that period.
 
@@ -86,6 +94,10 @@ $
 
     - (a) the examination is an examination required under section 78(1)(d) by notice given under section 78(1A)(b); and
 
-    - (b) the date for the examination is specified, under section 78(1A)(d), on a date that falls within the period beginning on 13 July 2015 and ending at midnight on 12 July 2016.
+    - (b) the date for the examination is specified, under section 78(1A)(d), on a date that falls within—
+
+      - (i) the period from 13 July 2015 to 12 July 2016 (both dates inclusive); or
+
+      - (ii) the period from 30 December 2019 to 29 December 2020 (both dates inclusive). (Replaced L.N. 102 of 2019)
 
   - (Part 3 added L.N. 89 of 2015) (Amended L.N. 33 of 1998; L.N. 145 of 1998)
