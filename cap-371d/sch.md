@@ -80,7 +80,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Yiu Tung Estate Bus Terminus, Shau Kei Wan (筲箕灣耀東邨巴士總站) | Located at Yiu Hing Road, Shau Kei Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-019V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- (L.N. 29 of 2012; L.N. 40 of 2017)
+- (L.N. 29 of 2012; L.N. 40 of 2017; L.N. 70 of 2018)
 
 - Part 2 Kowloon
 
@@ -156,8 +156,6 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Telford Plaza Transport Interchange, Kowloon Bay (九龍灣德福廣場公共運輸交匯處) | Located at Telford Gardens, 33 Wai Yip Street, Kowloon Bay, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C023V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
-- To Wah Road Bus Terminus, Yau Ma Tei (油麻地渡華路巴士總站) | Located at To Wah Road, Yau Ma Tei, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-177V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
-
 - Tsim Sha Tsui East (Mody Road) Bus Terminus (尖沙咀東(麼地道)巴士總站) | Located at Mody Road, Tsim Sha Tsui, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C042V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
 - Tsui Ping Road Bus Terminus, Kwun Tong (觀塘翠屏道巴士總站) | Located at Tsui Ping Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-055V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
@@ -166,11 +164,13 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Tsz Wan Shan (South) Public Transport Interchange (慈雲山(南)公共運輸交匯處) | Located at Yuk Wah Street, Tsz Wan Shan, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-070V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
+- West Kowloon Station Bus Terminus (西九龍站巴士總站) | Located at Jordan Road, Yau Ma Tei, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C115V1, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
+
 - Wong Tai Sin (Lower Wong Tai Sin Estate) Public Transport Interchange (黃大仙(黃大仙下邨)公共運輸交匯處) | Located at Lower Wong Tai Sin Estate, Wong Tai Sin Shopping Centre Multi-Storey Carpark Building, 108 Ching Tak Street, Wong Tai Sin, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C-035V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
 - Yue Man Square Temporary Bus Terminus, Kwun Tong (觀塘裕民坊臨時巴士總站) | Located at Yue Man Square, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-181V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
 
-- (L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018)
+- (L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 139 of 2019)
 
 - Part 3 New Territories
 
@@ -186,7 +186,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Cheung On Bus Terminus, Tsing Yi (青衣長安巴士總站) | Located at Cheung On Estate, Tam Kon Shan Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C071V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
-- Cheung Wang Public Transport Interchange, Tsing Yi (青衣長宏公共運輸交匯處) | Located at Liu To Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-162V2, signed by the Director of Health on 24 April 2018 and deposited in the Land Registry. (L.N. 70 of 2018)
+- Cheung Wang Public Transport Interchange, Tsing Yi (青衣長宏公共運輸交匯處) | Located at Liu To Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-162V3, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
 - Chevalier Garden Public Transport Interchange, Ma On Shan (馬鞍山富安花園公共運輸交匯處) | Located at Hang Shun Street, Ma On Shan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-077V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
@@ -196,6 +196,8 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Chun Shek Bus Terminus, Sha Tin (沙田秦石巴士總站) | Located at Fung Shek Street, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-078V2, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
 
+- Chung On Bus Terminus (頌安巴士總站) | Located at Chung On Shopping Centre, Chung On Estate, 632 Sai Sha Road, Ma On Shan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C048V1, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
+
 - City One Bus Terminus, Sha Tin (沙田第一城巴士總站) | Located at Ngan Shing Street, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-099V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
 
 - Clear Water Bay Second Beach Public Transport Interchange, Sai Kung (西貢清水灣第二灣泳灘公 共運輸交匯處) | Located at Clear Water Bay Road, Clear Water Bay, Sai Kung, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-100V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
@@ -204,7 +206,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Disneyland Resort Public Transport Interchange, Penny’s Bay (竹篙灣迪士尼樂園度假區 公共運輸交匯處) | Located at Hong Kong Disneyland Resort, Fantasy Road, Penny’s Bay, Lantau Island, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-170V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- Fo Tan (Shan Mei Street) Public Transport Interchange (火炭(山尾街)公共運輸交匯處) | Located at Shan Mei Street, Fo Tan, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-079V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+- Fo Tan (Shan Mei Street) Public Transport Interchange (火炭(山尾街)公共運輸交匯處) | Located at Shan Mei Street, Fo Tan, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-079V2, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
 - Fo Tan Station Public Transport Interchange (火炭站公共運輸交匯處) | Located at Au Pui Wan Street, Fo Tan, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-080V2, signed by the Director of Health on 24 April 2018 and deposited in the Land Registry. (L.N. 70 of 2018)
 
@@ -224,7 +226,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Hong Kong Science Park Public Transport Interchange (香港科學園公共運輸交匯處) | Located at Science Park West Avenue, Pak Shek Kok, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-175V1, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
 
-- Hong Sing Garden Public Transport Interchange, Tseung Kwan O (將軍澳康盛花園公共運輸交匯處) | Located at Lam Shing Road, Tseung Kwan O, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-103V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+- Hong Sing Garden Public Transport Interchange, Tseung Kwan O (將軍澳康盛花園公共運輸交匯處) | Located at Lam Shing Road, Tseung Kwan O, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-103V2, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
 - Hung Fuk Estate Public Transport Interchange, Hung Shui Kiu (洪水橋洪福邨公共運輸交匯處) | Located at Hung Shui Kiu Tin Sam Road, Hung Shui Kiu, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-184V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
 
@@ -291,6 +293,8 @@ Designated No Smoking Areas in Public Transport Facilities
 - Po Tin Bus Terminus, Tuen Mun (屯門寶田巴士總站) | Located at Po Tin Estate, Ming Kum Road, Tuen Mun, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C088V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
 - Riviera Gardens Public Transport Interchange, Tsuen Wan (荃灣海濱花園公共運輸交匯處) | Located at Riviera Gardens, 1–12 Yi Lok Street, Tsuen Wan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C098V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
+
+- Sai Kung (North) Public Transport Interchange (西貢(北)公共運輸交匯處) | Located at Mei Yu Street, Sai Kung, New Territories (near Sai Kung Police Station), and shown coloured orange and edged red on Plan No. DH/TCO/O-107V1, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
 - Sai Kung Public Transport Interchange (西貢公共運輸交匯處) | Located at Wai Man Road, Sai Kung, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-105V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -366,7 +370,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Tsing Yi Public Pier Public Transport Interchange (青衣公眾碼頭公共運輸交匯處) | Located at Fung Shue Wo Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-168V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
-- Tsing Yi Station Public Transport Interchange (青衣站公共運輸交匯處) | Located at Tsing King Road, Tsing Yi, New Territories, and shown— (a) coloured orange and edged red; (b) coloured yellow and edged red; (c) coloured orange stippled black and edged red; and (d) coloured orange hatched black and edged red, on Plan No. DH/TCO/O-169V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+- Tsing Yi Station Public Transport Interchange (青衣站公共運輸交匯處) | Located at Tsing King Road, Tsing Yi, New Territories, and shown— (a) coloured orange and edged red; and (b) coloured yellow and edged red, on Plan No. DH/TCO/O-169V2, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
 - Tsuen King Circuit (Allway Gardens) Bus Terminus, Tsuen Wan (荃灣荃景圍(荃威花園)巴士總站) | Located at Tsuen King Circuit, Tsuen Wan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-171V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
