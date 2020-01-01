@@ -1174,7 +1174,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (12) Except as provided in this section, no claim for compensation may be made against any deposit forfeited under section 52(2)(c) of the repealed Securities Ordinance or section 33(1)(c) of the repealed Commodities Trading Ordinance or against any security lodged under section 121K(1) of the repealed Securities Ordinance after the appointed day.
 
-    - (13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
+    - *(13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
 
     - (14) In this section—
 
@@ -1298,9 +1298,11 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
 - Editorial Note:
 
-- # 1 April 2003 was the date appointed under this subsection - see L.N. 14 of 2003.
+- # | 1 April 2003 was the date appointed under this subsection—see L.N. 14 of 2003.
 
-- @ 1 April 2003 was the date appointed under this subsection - see L.N. 15 of 2003.
+- @ | 1 April 2003 was the date appointed under this subsection—see L.N. 15 of 2003.
+
+- * | 1 January 2020 was the date appointed under this subsection—see L.N. 133 of 2019.
 
 - Part 2 (Omitted as spent—E.R. 2 of 2012)
 
