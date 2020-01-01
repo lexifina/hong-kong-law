@@ -88,7 +88,7 @@ Postponement and Adjournment of General Election and By-election
 
   - (4)
 
-    - In this section Returning Officer (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
+    - In this section, Returning Officer (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section. (E.R. 6 of 2019)
 
 - (L.N. 84 of 2004)
 

@@ -254,6 +254,7 @@ s-050H.md
 s-050I.md
 s-050J.md
 s-050K.md
+s-050L.md
 s-051.md
 s-051AA.md
 s-051A.md
