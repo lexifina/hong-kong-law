@@ -1,5 +1,5 @@
 SEWAGE SERVICES (TRADE EFFLUENT SURCHARGE) REGULATION
 
-(Cap. 463, section 12)
+(Cap. 463, section 12 and Cap. 1, section 29)
 
 [1 April 1995]
