@@ -1,12 +1,16 @@
 # Schedule 6
 
-[rr. 54, 57, 58, 59, 65, 68, 76, 77 & 80]
+[rr. 54, 57, 58, 59, 65, 68, 71, 77 & 80]
+
+(L.N. 84 of 2019)
+
+(Schedule 6 added L.N. 176 of 2017)
 
 Tables Related to NSFR and CFR
 
-(Schedule 6 added L.N. 176 of 2017) Table 1 ASF Factors for Determination of Weighted Amounts of Capital and On-balance Sheet Liabilities
+Table 1 ASF Factors for Determination of Weighted Amounts of ASF Items (L.N. 84 of 2019)
 
-Capital or on-balance sheet liability of a category 1 institution | Remaining term to maturity—ASF factor
+ASF item of a category 1 institution | Remaining term to maturity—ASF factor
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -56,9 +60,15 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 11. | Liabilities not covered by items 1 to 10 | 0% | 0% | 0% | 0%
 
-Table 2 RSF Factors for Determination of Weighted Amounts of On-balance Sheet Assets and Off-balance Sheet Obligations
+Note—
 
-On-balance sheet asset or off-balance sheet obligation of a category 1 institution | Remaining term to maturity—RSF factor
+See rule 59 for the interpretation of this Table. (L.N. 84 of 2019)
+
+(L.N. 84 of 2019)
+
+Table 2 RSF Factors for Determination of Weighted Amounts of RSF Items (L.N. 84 of 2019)
+
+RSF item of a category 1 institution | Remaining term to maturity—RSF factor
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -88,7 +98,7 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 (d) | debt securities not covered by sub-item (a), (b) or (c) | 50% | 50% | 85% | 85%
 
-(e) | listed equities | N/A | N/A | N/A | 85%
+(e) | listed equities not covered by sub-item (c) (L.N. 84 of 2019) | N/A | N/A | N/A | 85%
 
 4. | Physical traded commodities held by the institution | N/A | N/A | N/A | 85%
 
@@ -132,9 +142,15 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 (d) | guarantees and letters of credit unrelated to trade-related contingencies | 0% | 0% | 0% | 0%
 
-Table 3 ACF Factors for Determination of Weighted Amounts of Capital and On-balance Sheet Liabilities
+13. | Total derivative liabilities (before adjustments) (L.N. 84 of 2019) | N/A | N/A | N/A | 5%
 
-Capital or on-balance sheet liability of a category 2A institution | Remaining term to maturity—ACF factor
+Note—
+
+See rule 59 for the interpretation of this Table. (L.N. 84 of 2019)
+
+(L.N. 84 of 2019) Table 3 ACF Factors for Determination of Weighted Amounts of ACF Items (L.N. 84 of 2019)
+
+ACF item of a category 2A institution | Remaining term to maturity—ACF factor
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -164,9 +180,11 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 8. | Liabilities not covered by items 1 to 7 | 0% | 0% | 0% | 0%
 
-Table 4 RCF Factors for Determination of Weighted Amounts of On-balance Sheet Assets and Off-balance sheet Obligations
+(L.N. 84 of 2019)
 
-On-balance sheet asset or off-balance sheet obligation of a category 2A institution | Remaining term to maturity—RCF factor
+Table 4 RCF Factors for Determination of Weighted Amounts of RCF Items (L.N. 84 of 2019)
+
+RCF item of a category 2A institution | Remaining term to maturity—RCF factor
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -184,7 +202,9 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 (a) | securities or prescribed instruments mentioned in item 6 of Table A in section 2 of Schedule 5 | 0% | 0% | 0% | 0%
 
-(b) | securities or prescribed instruments not covered by sub-item (a) | 0% | 50% | 100% | 100%
+(ab) | listed ordinary shares that would fall within section 3(c) of Part 2 of Schedule 2 if the category 2A institution were a category 1 institution (L.N. 84 of 2019) | 0% | 0% | 0% | 0%
+
+(b) | securities or prescribed instruments not covered by sub-item (a) or (ab) (L.N. 84 of 2019) | 0% | 50% | 100% | 100%
 
 6. | Loans and funds provided by the institution to banks | 0% | 50% | 100% | 100%
 
@@ -213,3 +233,11 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 (c) | trade-related contingencies | 0% | 0% | 0% | 0%
 
 (d) | guarantees and letters of credit unrelated to trade-related contingencies | 0% | 0% | 0% | 0%
+
+12. | Total derivative liabilities (before adjustments) (L.N. 84 of 2019) | N/A | N/A | N/A | 5%
+
+Note—
+
+See rule 54 for the interpretation of this Schedule. (L.N. 84 of 2019)
+
+(L.N. 84 of 2019)

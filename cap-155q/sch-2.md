@@ -1,32 +1,52 @@
 # Schedule 2
 
-[rr. 2, 17 & 25 & Sch. 4A]
+[rr. 2, 17, 25 & 49 & Schs. 4A, 5 & 6]
 
-(L.N. 176 of 2017)
+(L.N. 176 of 2017; L.N. 84 of 2019)
 
 Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifying Criteria Applicable to those Classes
 
 - Part 1 Interpretation of Schedule 2
 
-  - 1. Interpretation of Schedule 2 In this Schedule—
+  - 1. Interpretation of Schedule 2
 
-    - associated entity (聯繫實體), in relation to a financial institution, is to be construed in accordance with section 97H(4) of the Ordinance as if the references to an authorized institution were the references to a financial institution;
+    - (1) In this Schedule— (L.N. 84 of 2019)
 
-    - covered bond (資產覆蓋債券) has the meaning given by rule 17;
+      - associated entity (聯繫實體), in relation to a financial institution, is to be construed in accordance with section 97H(4) of the Ordinance as if the references to an authorized institution were the references to a financial institution;
 
-    - credit risk (信用風險) has the meaning given by section 2(1) of the Capital Rules;
+      - covered bond (資產覆蓋債券) has the meaning given by rule 17;
 
-    - haircut (扣減) has the meaning given by rule 17;
+      - haircut (扣減) has the meaning given by rule 17;
 
-    - IRB approach (IRB計算法) has the meaning given by section 2(1) of the Capital Rules;
+      - probability of default (違責或然率) has the meaning given by section 139(1) of the Capital Rules;
 
-    - local currency (本地貨幣) has the meaning given by section 2(1) of the Capital Rules;
+      - PSE bank (公營單位銀行) means a bank that is a public sector entity; (L.N. 84 of 2019)
 
-    - probability of default (違責或然率) has the meaning given by section 139(1) of the Capital Rules;
+      - withdrawable central bank reserves (可提取央行儲備) has the meaning given by rule 17.
 
-    - standardized (credit risk) approach (標準(信用風險)計算法) has the meaning given by section 2(1) of the Capital Rules;
+    - (L.N. 84 of 2019)
 
-    - withdrawable central bank reserves (可提取央行儲備) has the meaning given by rule 17.
+    - (2) In this Schedule, an expression specified below has the meaning given by section 2(1) of the Capital Rules—
+
+        - central counterparty (中央交易對手方)
+
+        - credit risk (信用風險)
+
+        - Fitch Ratings (惠譽評級)
+
+        - IRB approach (IRB計算法)
+
+        - Japan Credit Rating Agency, Ltd. (日本格付研究所株式會社)
+
+        - local currency (本地貨幣)
+
+        - Moody’s Investors Service (穆迪投資者服務)
+
+        - Rating and Investment Information, Inc. (評級及投資資料有限公司)
+
+        - S&P Global Ratings (標普全球評級)
+
+        - standardized (credit risk) approach (標準(信用風險)計算法) (L.N. 84 of 2019)
 
 - Part 2 Classes of Assets which may be Included in HQLA for
 
@@ -58,9 +78,13 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
   - 3. Level 2B assets The following assets are level 2B assets for the purposes of these Rules—
 
-    - (a) subject to section 7 of Part 3 of this Schedule, marketable debt securities issued by corporates; and
+    - (a) subject to section 7 of Part 3 of this Schedule, marketable debt securities issued by a corporate, sovereign, central bank or public sector entity;
 
-    - (b) subject to sections 8 and 9 of Part 3 of this Schedule, RMBS.
+    - (b) subject to sections 8 and 9 of Part 3 of this Schedule, RMBS; and
+
+    - (c) subject to section 10 of Part 3 of this Schedule, listed ordinary shares. (L.N. 84 of 2019)
+
+  - (L.N. 84 of 2019)
 
 - Part 3 Qualifying Criteria Applicable to Classes of Assets which may be Included in HQLA for Calculating LCR
 
@@ -82,7 +106,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (c) it has a proven record as a reliable source of liquidity in those markets, even during a period of financial stress; and
 
-      - (d) it is not an obligation of a financial institution or an associated entity of a financial institution (except that the debt security is issued by a bank which is a public sector entity).
+      - (d) it is not an obligation of a financial institution, or an associated entity of a financial institution, that is not a PSE bank. (L.N. 84 of 2019)
 
     - (2) Section 56(2) of the Capital Rules must be disregarded for the purposes of calculating credit risk as specified in subsection (1)(a)(i).
 
@@ -120,7 +144,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (c) subject to subsection (3), it has a proven record as a reliable source of liquidity in those markets, even during a period of financial stress; and
 
-      - (d) it is not an obligation of a financial institution or an associated entity of a financial institution (except that the debt security is issued by a bank which is a public sector entity).
+      - (d) it is not an obligation of a financial institution, or an associated entity of a financial institution, that is not a PSE bank. (L.N. 84 of 2019)
 
     - (2) Section 56(2) of the Capital Rules must be disregarded for the purposes of calculating credit risk as specified in subsection (1)(a)(i).
 
@@ -182,31 +206,37 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
     - (1) A marketable debt security does not fall within section 3(a) of Part 2 of this Schedule unless—
 
-      - (a) subject to subsection (2), if the debt security is issued by a corporate incorporated outside India, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 2;
+      - (a) subject to subsection (2), if the debt security is issued by a corporate incorporated outside India, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3;
 
       - (b) subject to subsection (2), if the debt security is issued by a corporate incorporated in India, it has an ECAI issue specific rating that—
 
-        - (i) if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 2; and
+        - (i) if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3; and
 
-        - (ii) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) or Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 2 or 3;
+        - (ii) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) or Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4;
 
-      - (c) if the debt security does not have an ECAI issue specific rating and the category 1 institution holding the debt security has the Monetary Authority’s approval to use the IRB approach under section 8 of the Capital Rules (or, if the institution is incorporated outside Hong Kong, it has the approval of the relevant banking supervisory authority to use an internal ratings-based approach that reflects the standards issued by the Basel Committee for calculation of its regulatory capital for credit risk), it is internally rated by the institution as having a probability of default corresponding to the credit quality grade required under paragraph (a) or (b);
+      - (ba) subject to subsection (2), if the debt security is issued by a sovereign or central bank, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table A in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3; (L.N. 84 of 2019)
+
+      - (bb) subject to subsection (2), if the debt security is issued by a public sector entity, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table B or Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3; (L.N. 84 of 2019)
+
+      - (c) if the debt security does not have an ECAI issue specific rating and the category 1 institution holding the debt security has the Monetary Authority’s approval to use the IRB approach under section 8 of the Capital Rules (or, if the institution is incorporated outside Hong Kong, it has the approval of the relevant banking supervisory authority to use an internal ratings-based approach that reflects the standards issued by the Basel Committee for calculation of its regulatory capital for credit risk), it is internally rated by the institution as having a probability of default corresponding to the credit quality grade required under paragraph (a), (b), (ba) or (bb);
 
       - (d) it is traded in large, deep and active markets, characterized by a low level of concentration, and where debt securities of that type can be monetized through direct sale or repo-style transactions;
 
       - (e) subject to subsection (3), it has a proven record as a reliable source of liquidity in those markets, even during a period of financial stress;
 
-      - (f) it is not issued by a financial institution or any of its associated entities; and
+      - (f) it is not issued by a financial institution, or an associated entity of a financial institution, that is not a PSE bank; and (L.N. 84 of 2019)
 
       - (g) it is not a structured financial instrument or subordinated debt security.
 
-    - (2) If a marketable debt security has more than one ECAI issue specific rating, the category 1 institution holding the debt security must, for the purposes of subsection (1)(a) and (b), apply section 69(2) of the Capital Rules to determine the ECAI issue specific rating of the debt security.
+    - (2) If a marketable debt security has more than one ECAI issue specific rating, the category 1 institution holding the debt security must, for the purposes of subsection (1)(a), (b), (ba) and (bb), apply section 69(2) of the Capital Rules to determine the ECAI issue specific rating of the debt security.
 
     - (3) A marketable debt security, for meeting the criterion specified in subsection (1)(e), must not have experienced a decline of more than 20% of its market price, or (if it is used as collateral in a repo-style transaction) an increase in haircut of more than 20 percentage points, within—
 
       - (a) any period of 30 calendar days during a relevant period of significant liquidity stress since the debt security was issued; or
 
       - (b) (if no such relevant period of significant liquidity stress is applicable to the debt security) any period of 30 calendar days since the debt security was issued.
+
+    - (L.N. 84 of 2019)
 
   - 8. Qualifying criteria—RMBS (level 2B assets) under section 3(b) of Part 2 of this Schedule
 
@@ -222,7 +252,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (e) it does not have any of the following ECAI issue specific ratings in the case of Table B or Part 1 of Table C, as the case requires, in Schedule 6 to the Capital Rules—
 
-        - (i) Standard & Poor’s Ratings Services AA-;
+        - (i) S&P Global Ratings AA-; (L.N. 84 of 2019)
 
         - (ii) Moody’s Investors Service Aa3;
 
@@ -275,3 +305,35 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
       - (a) on the date specified in the notice; or
 
       - (b) when the event specified in the notice occurs.
+
+  - 10. Qualifying criteria—listed ordinary shares (level 2B assets) under section 3(c) of Part 2 of this Schedule
+
+    - (1) A listed ordinary share does not fall within section 3(c) of Part 2 of this Schedule unless—
+
+      - (a) it is not issued by a financial institution or an associated entity of a financial institution;
+
+      - (b) it is listed and traded on an exchange, and its trading is cleared by a central counterparty;
+
+      - (c) it is a constituent of—
+
+        - (i) the Hang Seng Index or MSCI Hong Kong Index; or
+
+        - (ii) a stock index specified by the relevant banking supervisory authority of a country outside Hong Kong, where the following conditions are met—
+
+          - (A) the category 1 institution holding the share is incorporated in that country or carries on a banking business through a branch or subsidiary in that country; and
+
+          - (B) the supervisory authority’s liquidity requirements on level 2B assets are consistent with, and no less stringent than, the relevant requirements referred to in paragraph 54(c) of the Basel III LCR document;
+
+      - (d) it is denominated in Hong Kong dollars or in the local currency of the country in which the category 1 institution holding the share is incorporated or carries on a banking business through a branch or subsidiary;
+
+      - (e) it is traded in large, deep and active markets, characterized by a low level of concentration, and where a share of that type can be monetized through direct sale or repo-style transactions; and
+
+      - (f) subject to subsection (2), it has a proven record as a reliable source of liquidity in those markets, even during a period of financial stress.
+
+    - (2) A listed ordinary share, for meeting the criterion specified in subsection (1)(f), must not have experienced a decline of more than 40% of its market price, or (if it is used as collateral in a repo-style transaction) an increase in haircut of more than 40 percentage points, within—
+
+      - (a) any period of 30 calendar days during a relevant period of significant liquidity stress since the share was listed; or
+
+      - (b) (if no such relevant period of significant liquidity stress is applicable to the share) any period of 30 calendar days since the share was listed.
+
+  - (L.N. 84 of 2019)

@@ -28,41 +28,83 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
     - (ii) (where the loan will not be so fully repaid) consisting only of that repayment insofar as it is not made by a corresponding reduction of the amount of the deposit or interest payable on the deposit, or both (but excluding any repayment in respect of residential mortgage loans referred to in item 7 of Table A in section 2 of this Schedule);
 
+  - investment-grade issue specific rating (投資級別特定債項評級)—see section 1B of this Schedule; (L.N. 84 of 2019)
+
+  - investment-grade issuer rating (投資級別發債人評級)—see section 1B of this Schedule; (L.N. 84 of 2019)
+
+  - investment-grade rating (投資級別評級)—see section 1B of this Schedule; (L.N. 84 of 2019)
+
   - LMR period (LMR涵蓋時期), in relation to a category 2 institution’s LMR, means the period of 1 calendar month immediately following the date of the position in relation to which the LMR is calculated;
 
   - net due from banks (存放銀行同業淨額) has the meaning given by rule 43;
 
   - one-month liability (一個月債務) has the meaning given by rule 43;
 
-  - qualifying ECAI issue specific rating (合資格ECAI特定債項評級), in relation to a marketable debt security or prescribed instrument, means—
+  - qualifying ECAI issue specific rating (合資格ECAI特定債項評級)—see section 1A of this Schedule; (L.N. 84 of 2019)
 
-    - (a) the ECAI issue specific rating of the debt security or instrument that—
+  - qualifying ECAI issuer rating (合資格ECAI發債人評級)—see section 1A of this Schedule; (L.N. 84 of 2019)
 
-      - (i) if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C (in the case of a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2; or
+  - qualifying ECAI rating (合資格ECAI評級)—see section 1A of this Schedule. (L.N. 84 of 2019)
 
-      - (ii) if mapped to the scale of credit quality grades in Part 1 of Table E (in the case of a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2; or
+- 1A. Qualifying ECAI issue specific rating, qualifying ECAI issuer rating and qualifying ECAI rating For the purposes of this Schedule—
 
-    - (b) without limiting paragraph (a), if the debt security or instrument is issued by a corporate incorporated in India, the ECAI issue specific rating of the debt security or instrument that—
+  - (a) a marketable debt security or prescribed instrument has a qualifying ECAI issue specific rating if any of the following conditions is met—
 
-      - (i) if mapped to the scale of credit quality grades in Part 2 of Table C (in the case of a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3; or
+    - (i) the ECAI issue specific rating of the debt security or instrument—
 
-      - (ii)
+      - (A) if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2; or
 
-      - if mapped to the scale of credit quality grades in Part 2 of Table E (in the case of a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3;
+      - (B) if mapped to the scale of credit quality grades in Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2;
 
-  - qualifying ECAI issuer rating (合資格ECAI發債人評級), in relation to the issuer or guarantor of a marketable debt security or prescribed instrument, means—
+    - (ii) without limiting subparagraph (i), for a debt security or instrument issued by a corporate incorporated in India, the ECAI issue specific rating of the debt security or instrument—
 
-    - (a) the ECAI issuer rating of the issuer or guarantor that, if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2; or
+      - (A) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3; or
 
-    - (b)
+      - (B) if mapped to the scale of credit quality grades in Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3;
 
-    - without limiting paragraph (a), if the issuer or guarantor of the debt security or instrument is a corporate incorporated in India, the ECAI issuer rating of the issuer or guarantor that, if mapped to the scale of credit quality grades in Part 2 of Table C in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3;
+  - (b) the issuer or guarantor of a marketable debt security or prescribed instrument has a qualifying ECAI issuer rating if any of the following conditions is met—
 
-  - qualifying ECAI rating (合資格ECAI評級), in relation to a marketable debt security or prescribed instrument, means—
+    - (i) the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 1 or 2;
 
-    - (a) a qualifying ECAI issue specific rating assigned to the debt security or instrument; or
+    - (ii) without limiting subparagraph (i), for an issuer or guarantor that is a corporate incorporated in India, the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Part 2 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 1, 2 or 3; and
 
-    - (b) a qualifying ECAI issuer rating assigned to the issuer or the guarantor of the debt security or instrument.
+  - (c) a marketable debt security or prescribed instrument has a qualifying ECAI rating if—
+
+    - (i) it has a qualifying ECAI issue specific rating; or
+
+    - (ii) its issuer or guarantor has a qualifying ECAI issuer rating.
+
+- (L.N. 84 of 2019)
+
+- 1B. Investment-grade issue specific rating, investment-grade issuer rating and investment-grade rating For the purposes of this Schedule—
+
+  - (a) a marketable debt security or prescribed instrument has an investment-grade issue specific rating if any of the following conditions is met—
+
+    - (i) the ECAI issue specific rating of the debt security or instrument—
+
+      - (A) if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 3; or
+
+      - (B) if mapped to the scale of credit quality grades in Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 3;
+
+    - (ii) without limiting subparagraph (i), for a debt security or instrument issued by a corporate incorporated in India, the ECAI issue specific rating of the debt security or instrument—
+
+      - (A) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 4; or
+
+      - (B) if mapped to the scale of credit quality grades in Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 4;
+
+  - (b) the issuer or guarantor of a marketable debt security or prescribed instrument has an investment-grade issuer rating if any of the following conditions is met—
+
+    - (i) the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 3;
+
+    - (ii) without limiting subparagraph (i), for an issuer or guarantor that is a corporate incorporated in India, the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Part 2 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 4; and
+
+  - (c) a marketable debt security or prescribed instrument has an investment-grade rating if—
+
+    - (i) it has an investment-grade issue specific rating; or
+
+    - (ii) its issuer or guarantor has an investment-grade issuer rating.
+
+- (L.N. 84 of 2019)
 
 - 2. Tables Table A
 
@@ -100,15 +142,15 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
 - (C) | more than one year; | 90%
 
-- (b) | issued or guaranteed by the central bank or central government of a country, a multilateral development bank, or a relevant international organization, where the debt security or instrument, or its issuer or guarantor, has a qualifying ECAI rating, with a remaining term to maturity of—
+- (b) | having a qualifying ECAI rating, issued or guaranteed by the central bank or central government of a country, a multilateral development bank, or a relevant international organization, with a remaining term to maturity of— (L.N. 84 of 2019)
 
 - (i) | not more than one year; | 100%
 
 - (ii) | more than one year; | 95%
 
-- (c) | with a qualifying ECAI issue specific rating, issued or guaranteed by—
+- (c) | having a qualifying ECAI issue specific rating, issued or guaranteed by— (L.N. 84 of 2019)
 
-- (i) | a bank, other than those included in paragraph (a)(ii), with a remaining term to maturity of—
+- (i) | a bank, other than those included in sub-item (a)(ii), with a remaining term to maturity of— (L.N. 84 of 2019)
 
 - (A) | not more than one month; | 100%
 
@@ -124,9 +166,9 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
 - (C) | more than 5 years; | 80%
 
-- (d) | without a qualifying ECAI issue specific rating, issued or guaranteed by—
+- (d) | not having a qualifying ECAI issue specific rating, issued or guaranteed by— (L.N. 84 of 2019)
 
-- (i) | a bank, other than those included in paragraph (a)(ii), if—
+- (i) | a bank, other than those included in sub-item (a)(ii), if— (L.N. 84 of 2019)
 
 - (A) | the debt security or instrument has a remaining term to maturity of not more than one month; or | 100%
 
@@ -138,7 +180,11 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
 - (f) | RMBS, other debt securities or instruments specifically approved for inclusion by the Monetary Authority; | 80%
 
-- (g) | not included elsewhere in this item with a remaining term to maturity of not more than one month | 80%
+- (g) | not included elsewhere in this item with a remaining term to maturity of not more than one month; (L.N. 84 of 2019) | 80%
+
+- (h) | having an investment-grade rating, that are not covered by sub-item (a), (b), (c), (d), (e), (f) or (g) (L.N. 84 of 2019) | 50%
+
+- 6A. | Listed ordinary shares that would fall within section 3(c) of Part 2 of Schedule 2 if the category 2 institution were a category 1 institution (L.N. 84 of 2019) | 50%
 
 - 7. | Residential mortgage loans in respect of which there has been issued by The Hong Kong Mortgage Corporation Limited an irrevocable commitment to purchase which is approved by the Monetary Authority | 90%
 

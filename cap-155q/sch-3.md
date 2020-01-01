@@ -12,9 +12,9 @@ Characteristic Requirements that Asset must Satisfy before it can be Included in
 
   - haircut (扣減) has the meaning given by rule 17;
 
-  - recognized exchange (認可交易所) has the meaning given by section 2(1) of the Capital Rules;
-
   - specific wrong-way risk (特定錯向風險) has the meaning given by section 226A of the Capital Rules.
+
+- (L.N. 84 of 2019)
 
 - 2. Principal characteristic Subject to section 3 of this Schedule, the asset must at all times be immediately monetizable with little or no loss of value.
 

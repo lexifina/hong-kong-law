@@ -2,9 +2,11 @@
 
 [rr. 17, 35, 38, 41 & 42]
 
+(Schedule 4A added L.N. 176 of 2017)
+
 Tables Related to LCR
 
-(Schedule 4A added L.N. 176 of 2017) Table 1 Post-haircut Factors
+Table 1 Post-haircut Factors
 
 Column 1 | Column 2
 
@@ -16,25 +18,27 @@ Asset class/asset subclass | Post-haircut factor
 
 (b) withdrawable central bank reserves | 100%
 
-(c) marketable debt securities mentioned in section 1(c) of Part 2 of Schedule 2 | 100%
+(c) marketable debt securities falling within section 1(c) of Part 2 of Schedule 2 | 100%
 
-(d) marketable debt securities mentioned in section 1(d) of Part 2 of Schedule 2 | 100%
+(d) marketable debt securities falling within section 1(d) of Part 2 of Schedule 2 | 100%
 
-(e) marketable debt securities mentioned in section 1(e) of Part 2 of Schedule 2 | 100%
+(e) marketable debt securities falling within section 1(e) of Part 2 of Schedule 2 (L.N. 84 of 2019) | 100%
 
 2. | Level 2A assets
 
-(a) marketable debt securities mentioned in section 2(a) of Part 2 of Schedule 2 | 85%
+(a) marketable debt securities falling within section 2(a) of Part 2 of Schedule 2 | 85%
 
-(b) marketable debt securities mentioned in section 2(b) of Part 2 of Schedule 2 | 85%
+(b) marketable debt securities falling within section 2(b) of Part 2 of Schedule 2 | 85%
 
-(c) covered bonds mentioned in section 2(c) of Part 2 of Schedule 2 | 85%
+(c) covered bonds falling within section 2(c) of Part 2 of Schedule 2 (L.N. 84 of 2019) | 85%
 
 3. | Level 2B assets
 
-(a) marketable debt securities mentioned in section 3(a) of Part 2 of Schedule 2 | 50%
+(a) marketable debt securities falling within section 3(a) of Part 2 of Schedule 2 (L.N. 84 of 2019) | 50%
 
 (b) approved RMBS | 75%
+
+(c) listed ordinary shares falling within section 3(c) of Part 2 of Schedule 2 (L.N. 84 of 2019) | 50%
 
 Table 2 Foreign Exchange Haircuts
 
@@ -99,3 +103,7 @@ Other contractual cash inflow to be received from—
 (b) | retail customers or small business customers | 50%
 
 (c) | sovereigns, public sector entities, multilateral development banks, wholesale customers (excluding small business customers), or any other persons not covered by paragraph (a) or (b) | 50%
+
+Note—
+
+See rule 17 for the interpretation of this Schedule. (L.N. 84 of 2019)
