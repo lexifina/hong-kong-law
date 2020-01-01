@@ -1,6 +1,8 @@
 # Schedule 17D
 
-[ss. 2(1), 50A(1) & (2), 50B(1), 50J, 80(2E) & 80D(1) & Sch. 17C]
+[ss. 2(1), 50A(1) & (2), 50B(1), 50J, 50L(4), 80(2E) & 80D(1) & Sch. 17C]
+
+(Amended 6 of 2019 s. 8)
 
 Due Diligence Requirements
 
@@ -9,6 +11,8 @@ Due Diligence Requirements
 - Part 1 Interpretation
 
   - 1. Interpretation In this Schedule—
+
+    - 2020-covered institution (2020年涵蓋機構) has the meaning given by section 50A; (Added 6 of 2019 s. 8)
 
     - account holder (帳户持有人) has the meaning given by section 50A;
 
@@ -50,7 +54,11 @@ Due Diligence Requirements
 
     - low value account (低值帳户) means a pre-existing individual account with an aggregate balance or value that does not exceed $7,800,000 as at 31 December of the second year before the reporting year;
 
-    - new account (新帳户) means a financial account opened and maintained by a reporting financial institution on or after 1 January 2017;
+    - new account (新帳户) means a financial account opened and maintained by a reporting financial institution on or after—
+
+      - (a) if the institution is not a 2020-covered institution—1 January 2017; or
+
+      - (b) if the institution is a 2020-covered institution—1 January 2020; (Replaced 6 of 2019 s. 8)
 
     - new entity account (新實體帳户) means a new account held by one or more entities;
 

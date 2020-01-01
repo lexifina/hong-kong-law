@@ -1,6 +1,8 @@
 # Schedule 17E
 
-[ss. 50A(1) & 50J]
+[ss. 50A(1), 50J & 50L(4)]
+
+(Amended 6 of 2019 s. 9)
 
 Reportable Jurisdictions and Participating Jurisdictions
 
@@ -12,23 +14,49 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Reportable jurisdiction | Reporting year
 
+- Albania, Republic of | 2021
+
+- Andorra, Principality of | 2021
+
+- Anguilla | 2021
+
 - Antigua and Barbuda | 2018
 
 - Argentina, Republic of | 2018
+
+- Armenia, Republic of | 2021
+
+- Aruba | 2021
 
 - Australia, Commonwealth of | 2018
 
 - Austria, Republic of | 2018
 
+- Azerbaijan, Republic of | 2021
+
 - Bahamas, Commonwealth of the | 2018
+
+- Bahrain, Kingdom of | 2021
+
+- Barbados | 2021
 
 - Belgium, Kingdom of | 2018
 
+- Belize | 2021
+
+- Bermuda | 2021
+
 - Brazil, Federative Republic of | 2018
+
+- British Virgin Islands | 2021
 
 - Brunei Darussalam | 2018
 
 - Bulgaria, Republic of | 2018
+
+- Burkina Faso | 2021
+
+- Cameroon, Republic of | 2021
 
 - Canada | 2018
 
@@ -39,6 +67,8 @@ Reportable Jurisdictions and Participating Jurisdictions
 - China, Mainland of | 2018
 
 - Colombia, Republic of | 2018
+
+- Cook Islands | 2021
 
 - Costa Rica, Republic of | 2018
 
@@ -52,6 +82,12 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Denmark, Kingdom of | 2018
 
+- Dominica, Commonwealth of | 2021
+
+- Dominican Republic | 2021
+
+- El Salvador, Republic of | 2021
+
 - Estonia, Republic of | 2018
 
 - Faroes | 2018
@@ -60,13 +96,21 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - French Republic | 2018
 
+- Gabonese Republic | 2021
+
+- Georgia | 2021
+
 - Germany, Federal Republic of | 2018
+
+- Ghana, Republic of | 2021
 
 - Gibraltar | 2018
 
 - Greenland | 2018
 
 - Grenada | 2018
+
+- Guatemala, Republic of | 2021
 
 - Guernsey | 2018
 
@@ -88,9 +132,15 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Italian Republic | 2018
 
+- Jamaica | 2021
+
 - Japan | 2018
 
 - Jersey | 2018
+
+- Kazakhstan, Republic of | 2021
+
+- Kenya, Republic of | 2021
 
 - Korea, Republic of | 2019
 
@@ -100,25 +150,57 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Lebanon, Republic of | 2018
 
+- Liberia, Republic of | 2021
+
 - Liechtenstein, Principality of | 2018
 
 - Lithuania, Republic of | 2018
 
 - Luxembourg, Grand Duchy of | 2018
 
+- Macao Special Administrative Region | 2021
+
+- Macedonia, Republic of | 2021
+
 - Malaysia | 2018
+
+- Maldives, Republic of | 2021
 
 - Malta | 2018
 
+- Marshall Islands, Republic of the | 2021
+
 - Mauritius, Republic of | 2018
 
+- Moldova, Republic of | 2021
+
+- Monaco, Principality of | 2021
+
 - Montserrat | 2018
+
+- Morocco, Kingdom of | 2021
+
+- Nauru, Republic of | 2021
 
 - Netherlands, Kingdom of the | 2018
 
 - New Zealand | 2018
 
+- Nigeria, Federal Republic of | 2021
+
+- Niue | 2021
+
 - Norway, Kingdom of | 2018
+
+- Pakistan, Islamic Republic of | 2021
+
+- Panama, Republic of | 2021
+
+- Paraguay, Republic of | 2021
+
+- Peru, Republic of | 2021
+
+- Philippines, Republic of the | 2021
 
 - Poland, Republic of | 2018
 
@@ -130,13 +212,25 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Russian Federation | 2018
 
+- Saint Kitts and Nevis, Federation of | 2021
+
+- Saint Lucia | 2021
+
 - Saint Vincent and the Grenadines | 2018
 
+- Samoa, Independent State of | 2021
+
+- San Marino, Republic of | 2021
+
 - Saudi Arabia, Kingdom of | 2018
+
+- Senegal, Republic of | 2021
 
 - Seychelles, Republic of | 2018
 
 - Singapore, Republic of | 2018
+
+- Sint Maarten | 2021
 
 - Slovak Republic | 2018
 
@@ -150,7 +244,17 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Swiss Confederation | 2018
 
+- Trinidad and Tobago, Republic of | 2021
+
+- Tunisia, Republic of | 2021
+
 - Turkey, Republic of | 2018
+
+- Turks and Caicos Islands | 2021
+
+- Uganda, Republic of | 2021
+
+- Ukraine | 2021
 
 - United Arab Emirates | 2018
 
@@ -161,6 +265,8 @@ Reportable Jurisdictions and Participating Jurisdictions
 - Uruguay, Oriental Republic of | 2018
 
 - Vanuatu, Republic of | 2018
+
+- (Replaced 6 of 2019 s. 9)
 
 - Note—
 

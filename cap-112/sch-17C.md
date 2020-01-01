@@ -1,6 +1,8 @@
 # Schedule 17C
 
-[ss. 2(1), 50A(1) & 50J]
+[ss. 2(1), 50A(1), 50J & 50L(4)]
+
+(Amended 6 of 2019 s. 7)
 
 Non-reporting Financial Institutions and Excluded Accounts
 
@@ -152,21 +154,7 @@ Non-reporting Financial Institutions and Excluded Accounts
 
     - (2) The Subsidized Schools Provident Fund maintained for teachers under the Subsidized Schools Provident Fund Rules (Cap. 279 sub. leg. D) is a non-reporting financial institution.
 
-  - 12. Mandatory provident fund schemes and occupational retirement schemes
-
-    - (1) A mandatory provident fund scheme registered under the Mandatory Provident Fund Schemes Ordinance (Cap. 485) (MPF scheme) is a non-reporting financial institution.
-
-    - (2) An occupational retirement scheme registered under the Occupational Retirement Schemes Ordinance (Cap. 426) (ORSO scheme) is a non-reporting financial institution.
-
-    - (3) A pooling agreement as defined by section 2(4) of the Occupational Retirement Schemes Ordinance (Cap. 426) that only applies to 2 or more participating ORSO schemes is a non-reporting financial institution.
-
-    - (4) An approved pooled investment fund as defined by section 2 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A), in which only either or both of the following schemes are invested, is a non-reporting financial institution—
-
-      - (a) MPF schemes;
-
-      - (b) ORSO schemes.
-
-  - 13. Credit union A credit union registered under the Credit Unions Ordinance (Cap. 119) is a non-reporting financial institution.
+  - 12-13. (Repealed 6 of 2019 s. 7)
 
 - Part 3 Excluded Accounts
 
