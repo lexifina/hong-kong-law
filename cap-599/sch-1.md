@@ -82,6 +82,8 @@ Scheduled Infectious Diseases
 
 - 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症)
 
+- 34AAA. Severe respiratory disease associated with a novel infectious agent (嚴重新型傳染性病原體呼吸系統病) (Added L.N. 3 of 2020)
+
 - 34AA. (Repealed L.N. 104 of 2013)
 
 - 34A. Shiga toxin-producing Escherichia coli infection (產志賀毒素大腸桿菌感染) (Added L.N. 101 of 2011)
