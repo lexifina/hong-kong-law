@@ -12,6 +12,14 @@ SPECIFIED PREMISES
 
 4. | InnoCentre | 72 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong (Replaced L.N. 175 of 2005)
 
-5. | Hong Kong Science Park | (a) Tai Po Town Lot No. 171, Pak Shek Kok, New Territories, Hong Kong (Phase 1); (Amended L.N. 166 of 2010) (b) Tai Po Town Lot No. 182, Pak Shek Kok, New Territories, Hong Kong (Phase 2); (Replaced L.N. 95 of 2004. Amended L.N. 166 of 2010; L.N. 34 of 2019) (c) Tai Po Town Lot No. 204, Pak Shek Kok, New Territories, Hong Kong (Phase 3); and (Added L.N. 166 of 2010. Amended L.N. 34 of 2019) (d) Tai Po Town Lot No. 245, Pak Shek Kok, New Territories, Hong Kong (InnoCell) (Added L.N. 34 of 2019)
+5. | Hong Kong Science Park | (a) | Tai Po Town Lot No. 171, Pak Shek Kok, New Territories, Hong Kong (Phase 1); (Amended L.N. 166 of 2010)
+
+(b) | Tai Po Town Lot No. 182, Pak Shek Kok, New Territories, Hong Kong (Phase 2); (Replaced L.N. 95 of 2004. Amended L.N. 166 of 2010; L.N. 34 of 2019)
+
+(c) | Tai Po Town Lot No. 204, Pak Shek Kok, New Territories, Hong Kong (Phase 3); and (Added L.N. 166 of 2010. Amended L.N. 34 of 2019)
+
+(d) | Tai Po Town Lot No. 245, Pak Shek Kok, New Territories, Hong Kong (InnoCell) (Added L.N. 34 of 2019)
 
 6-7. | (Repealed L.N. 95 of 2004)
+
+8. | HKSTPC Western District Hub | Suite Nos. 3, 5, 6, 7 and 8, 29th Floor, Pacific Plaza, 418 Des Voeux Road West, Hong Kong (Added L.N. 162 of 2019)
