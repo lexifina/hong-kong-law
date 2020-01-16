@@ -2,9 +2,9 @@
 
 [s. 50]
 
-QUARANTINE SINGALS
+Quarantine Signals
 
-Signals to be shown by cross-boundary vessels
+(Format changes—E.R. 1 of 2020) Signals to be Shown by Cross-boundary Vessels
 
 - 1. Every cross-boundary vessel that has not been granted free pratique shall show the following signals (whichever is appropriate)—
 

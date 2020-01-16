@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 1A, 63 & 88] (15 of 2016 s. 20)
 
-POSTPONEMENT AND ADJOURNMENT OF SUBSECTOR ELECTIONS
+Postponement and Adjournment of Subsector Elections
+
+(Format changes—E.R. 1 of 2020)
 
 - 1. Postponement of subsector election and adjournment of poll or counting of votes in respect of subsector election
 
@@ -70,7 +72,7 @@ POSTPONEMENT AND ADJOURNMENT OF SUBSECTOR ELECTIONS
 
   - (4)
 
-    - In this section, “Returning Officer” (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
+    - In this section, Returning Officer (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
 
 - 6. Appointment of date by Commission for subsector election, polling or counting after postponement or adjournment
 

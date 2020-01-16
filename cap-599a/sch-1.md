@@ -1,16 +1,18 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 17, 21, 46 & 47]
 
-FEES
+Fees
 
-- PART 1 ADMINISTRATION OF VACCINATION OR PROPHYLAXIS AGAINST A DESIGNATED DISEASE AND ISSUE OF A CERTIFICATE OF VACCINATION OR PROPHYLAXIS
+(Format changes—E.R. 1 of 2020)
+
+- Part 1 Administration of Vaccination or Prophylaxis against a Designated Disease and Issue of a Certificate of Vaccination or Prophylaxis
 
 Item | Designated disease | Amount $
 
 1. | Yellow fever | 200
 
-- PART 2 ISSUE OF SHIP SANITATION CERTIFCATES
+- Part 2 Issue of Ship Sanitation Certificates
 
 Item | Certificates | Amount $
 
