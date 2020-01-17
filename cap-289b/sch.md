@@ -348,4 +348,6 @@ Item | Periods | Rate of interest
 
 172. | On or after 6 August 2018 and before 5 November 2018 (L.N. 147 of 2018; L.N. 211 of 2018) | 0.0767% per annum
 
-173. | On or after 5 November 2018 (L.N. 211 of 2018) | 0.25% per annum
+173. | On or after 5 November 2018 and before 17 January 2020 (L.N. 211 of 2018; L.N. 160 of 2019) | 0.25% per annum
+
+174. | On or after 17 January 2020 (L.N. 160 of 2019) | 0.3667% per annum
