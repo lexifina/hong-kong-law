@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
@@ -662,7 +662,7 @@ criminal group
 
   - 2. Any dispute between two or more States Parties concerning the interpretation or application of this Convention that cannot be settled through negotiation within a reasonable time shall, at the request of one of those States Parties, be submitted to arbitration. If, six months after the date of the request for arbitration, those States Parties are unable to agree on the organization of the arbitration, any one of those States Parties may refer the dispute to the International Court of Justice by request in accordance with the Statute of the Court.
 
-  - 3. Each State Party may, at the time of signature, ratification, acceptance or approval of or accession to this Convention, declare that it does not consider itself bound by paragraph 2 of this article.The other States Parties shall not be bound by paragraph 2 of this article with respect to any State Party that has made such a reservation.
+  - 3. Each State Party may, at the time of signature, ratification, acceptance or approval of or accession to this Convention, declare that it does not consider itself bound by paragraph 2 of this article. The other States Parties shall not be bound by paragraph 2 of this article with respect to any State Party that has made such a reservation.
 
   - 4. Any State Party that has made a reservation in accordance with paragraph 3 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
 
