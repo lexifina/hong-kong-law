@@ -4,7 +4,7 @@
 
 7, 7A & 7B]
 
-- Part 1 Specified Edition of the Technical Instructions 2017–2018 Edition*
+- Part 1 Specified Edition of the Technical Instructions 2019–2020 Edition*
 
 - Part 2 Specified Provisions of the Technical Instructions
 
@@ -40,8 +40,8 @@ regulation 7B(1)(d) | Chapter 4.2 of Part 1.
 
 regulation 7B(1)(f) | Chapter 4.3 of Part 1.
 
-(L.N. 444 of 1990; L.N. 389 of 1992; L.N. 678 of 1994; L.N. 542 of 1996; L.N. 60 of 1999; L.N. 235 of 2001; L.N. 217 of 2003; L.N. 76 of 2006; L.N. 193 of 2007; L.N. 197 of 2007; L.N. 194 of 2009; L.N. 141 of 2011; L.N. 183 of 2013; L.N. 95 of 2016; L.N. 19 of 2018)
+(L.N. 444 of 1990; L.N. 389 of 1992; L.N. 678 of 1994; L.N. 542 of 1996; L.N. 60 of 1999; L.N. 235 of 2001; L.N. 217 of 2003; L.N. 76 of 2006; L.N. 193 of 2007; L.N. 197 of 2007; L.N. 194 of 2009; L.N. 141 of 2011; L.N. 183 of 2013; L.N. 95 of 2016; L.N. 19 of 2018; L.N. 178 of 2019)
 
 Editorial Note:
 
-* The English and Chinese texts of the 2017–2018 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
+* The text of the 2019–2020 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
