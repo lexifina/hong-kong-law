@@ -8,9 +8,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - 1. Replacement of life-saving appliances Where a life-saving appliance on a local vessel is marked with an expiry date, the appliance shall be replaced on or before that date.
 
-  - 2. Operational readiness and maintenance of
-
-  - life-saving appliances Whenever a local vessel is being used or operated, every life-saving appliance carried on board the vessel shall be—
+  - 2. Operational readiness and maintenance of life-saving appliances Whenever a local vessel is being used or operated, every life-saving appliance carried on board the vessel shall be—
 
     - (a) in working order;
 
@@ -154,19 +152,23 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - self-igniting light(4) | 2
 
-  - VHF (very high frequency) radio installation(5) | 1
+  - (L.N. 187 of 2016; L.N. 154 of 2019)
 
-  - (L.N. 154 of 2019) Notes:
+  - Notes:
 
   - (1)-(2) (Repealed L.N. 154 of 2019)
 
-  - (3) The minimum length of buoyant lifeline for a Class I vessel or Class IV vessel that is licensed to carry more than 60 passengers is 30 m. The minimum length of buoyant lifeline for a Class IV vessel that is licensed to carry not more than 60 passengers is. For (L)<21 m 18 m
+  - (3) The minimum length of buoyant lifeline for a Class I vessel or Class IV vessel that is licensed to carry more than 60 passengers is 30 m. The minimum length of buoyant lifeline for a Class IV vessel that is licensed to carry not more than 60 passengers is—
 
-  - For (L)≥21 m 27.3 m.
+  - For (L)<21 m | 18 m
+
+  - For (L)≥21 m | 27.3 m.
 
   - (4) Required for a Class I vessel or Class IV vessel that carries more than 100 passengers.
 
-  - (5) Required for a ferry vessel that plies outside the Victoria port. Table 2 Minimum number of lifebuoys as required in Table 1
+  - (5) (Repealed L.N. 187 of 2016)
+
+- Table 2 Minimum number of lifebuoys as required in Table 1
 
   - Vessel length (L) (m) | Number of lifebuoys
 
@@ -182,7 +184,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (L)≥24 | 12
 
-  - Table 3
+- Table 3
 
   - (i) Class II vessels that operate within waters of Hong Kong
 
@@ -220,9 +222,11 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (6) The minimum length of buoyant lifeline is 30 m.
 
-  - (7) Buoyant lifeline is not required for a Class II vessel that falls within paragraph (b) of Schedule 2. (L.N. 154 of 2019) Table 4 Class II vessels that operate within river trade limits
+  - (7) Buoyant lifeline is not required for a Class II vessel that falls within paragraph (b) of Schedule 2. (L.N. 154 of 2019)
 
-  - Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
+- Table 4 Class II vessels that operate within river trade limits
+
+  - Type of vessel Life-saving appliances | Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
 
   - lifebuoy | minimum number per Table 5
 
@@ -270,7 +274,9 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - (b) For an oil carrier of less than 37 m in length, such motor lifeboat may be substituted by an additional 100% inflatable liferaft.
 
-  - (7) The minimum length of buoyant lifeline is 30 m. Table 5 Minimum number of lifebuoys as required in Tables 3 and 4
+  - (7) The minimum length of buoyant lifeline is 30 m.
+
+- Table 5 Minimum number of lifebuoys as required in Tables 3 and 4
 
   - Vessel length (L) (m) | Number of lifebuoys
 
@@ -282,7 +288,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (L)≥37 | 6
 
-  - Table 6 Class III vessels
+- Table 6 Class III vessels
 
   - Life-saving appliances | Category of vessel | A | B(1A)
 
@@ -344,34 +350,38 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - (a) holds a valid port clearance; or
 
-    - (b) is exempted under section 69(1) of the Ordinance from complying with section 28(1) of the Ordinance. Table 7 Class IV vessels that are licensed to carry not
+    - (b) is exempted under section 69(1) of the Ordinance from complying with section 28(1) of the Ordinance.
 
-    - more than 60 passengers and are not let for
+- Table 7 Class IV vessels that are licensed to carry not
 
-    - hire or reward and operate within
+- more than 60 passengers and are not let for
 
-    - waters of Hong Kong
+- hire or reward and operate within
 
-    - Life-saving appliances | Quantity
+- waters of Hong Kong
 
-    - lifebuoy | Vessel length (L) (m) | Number
+  - Life-saving appliances | Quantity
 
-    - L<12 | 1
+  - lifebuoy | Vessel length (L) (m) | Number
 
-    - 12≤(L)<21 | 2
+  - L<12 | 1
 
-    - 21≤(L)<37 | 4
+  - 12≤(L)<21 | 2
 
-    - (L)≥37 | 6
+  - 21≤(L)<37 | 4
 
-    - buoyant lifeline(2) | 1
+  - (L)≥37 | 6
 
-    - (L.N. 154 of 2019)
+  - buoyant lifeline(2) | 1
+
+  - (L.N. 154 of 2019)
 
   - Notes:
 
   - (1) (Repealed L.N. 154 of 2019)
 
-  - (2) The minimum length of buoyant lifeline is. For (L)<21 m 18 m
+  - (2) The minimum length of buoyant lifeline is.
 
-  - For (L)≥21 m 27.3 m.
+  - For (L)<21 m | 18 m
+
+  - For (L)≥21 m | 27.3 m.
