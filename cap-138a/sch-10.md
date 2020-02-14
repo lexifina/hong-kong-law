@@ -846,6 +846,8 @@ Poisons List
 
     - Creosote obtained from wood
 
+    - Crisaborole; its salts
+
     - Crizotinib; its salts
 
     - Croton, oil of
@@ -1021,6 +1023,8 @@ Poisons List
     - Donepezil; its salts
 
     - Dopamine; its salts
+
+    - Doravirine; its salts
 
     - Dornase alfa
 
@@ -1309,6 +1313,8 @@ Poisons List
     - Gabapentin; its salts
 
     - Gadoxetic acid; its salts
+
+    - Galcanezumab
 
     - Gallamine; its salts; its quaternary compounds
 
@@ -1634,7 +1640,7 @@ Poisons List
 
     - Losartan; its salts
 
-    - Lovastatin
+    - Lovastatin when contained in pharmaceutical products
 
     - Loxapine; its salts
 
@@ -2602,6 +2608,8 @@ Poisons List
 
     - Recombinant human erythropoietin
 
+    - Regadenoson; its salts
+
     - Regorafenib; its salts
 
     - Remifentanil; its salts
@@ -2762,6 +2770,8 @@ Poisons List
 
     - Styramate
 
+    - Sucroferric oxyhydroxide
+
     - Sugammadex; its salts; its esters; their salts
 
     - Sulconazole; its salts
@@ -2799,6 +2809,8 @@ Poisons List
     - Tafamidis; its salts
 
     - Tafluprost
+
+    - Talazoparib; its salts
 
     - Tamoxifen; its salts
 
@@ -2899,6 +2911,8 @@ Poisons List
     - Tiratricol; its salts
 
     - Tirofiban; its salts
+
+    - Tisagenlecleucel
 
     - Tizanidine; its salts
 
@@ -3116,7 +3130,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020)
 
     - Division B
 
