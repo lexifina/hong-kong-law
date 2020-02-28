@@ -10,9 +10,9 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 1. | West New Territories (WENT) Landfill | Lung Kwu Tan Road, Nim Wan, Tuen Mun, N.T. | Drawing number WENT/GEN/102 Rev. B (Contract Document Vol. 3 of 12)
 
-2. | South East New Territories(SENT) Landfill | Shek Miu Wan, Tseung Kwan O, N.T. | Drawing number 90872/SP10/014B
+2. | South East New Territories (SENT) Landfill | Area 101 and Area 137, Tseung Kwan O, N.T. | Drawing number 90872/SP10/014 Rev. C (L.N. 188 of 2019)
 
-3. | North East New Territories(NENT) Landfill | Wo Keng Shan Road, Ta Kwu Ling, N.T. | Drawing number 90303/CON-01 TO 04
+3. | North East New Territories (NENT) Landfill | Wo Keng Shan Road, Ta Kwu Ling, N.T. | Drawing number 90303/CON-01 TO 04
 
 - PART 2 LANDFILL CHARGE
 
@@ -28,8 +28,8 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 - (L.N. 60 of 2016)
 
-- * In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b)—
+- * | In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b)—
 
-  - (i) any fraction of 0.1 tonne that is less than 0.05 tonne shall be disregarded; and
+- (i) | any fraction of 0.1 tonne that is less than 0.05 tonne shall be disregarded; and
 
-  - (ii) any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.
+- (ii) | any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.

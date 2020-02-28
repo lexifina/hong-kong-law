@@ -4,21 +4,19 @@
 
 CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT PUBLIC FILL RECEPTION FACILITIES
 
-(Italicized parts are not yet in operation.)
-
 - PART 1 PUBLIC FILL RECEPTION FACILITIES
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 
-1. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3-A (L.N. 50 of 2016)
+1. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3-B (L.N. 50 of 2016; L.N. 188 of 2019)
 
-2. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal,Tuen Mun, N.T. | Plan number P 20332-4
+2. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal, Tuen Mun, N.T. | Plan number P 20332-4
 
-[3. | Sai Ying Pun Temporary Public Filling Barging Point | Eastern Street North, Sai Ying Pun, Hong Kong. | Plan number P 20332-5]
+3. | Sai Ying Pun Temporary Public Filling Barging Point | Eastern Street North, Sai Ying Pun, Hong Kong. | Plan number P 20332-5
 
 4. | (Repealed L.N. 232 of 2008)
 
-[5. | Kai Tak Temporary Public Filling Barging Point | Middle of the Former Kai Tak Runway, adjacent to the Taxiway Bridge, Kowloon City, Kowloon. | Plan number P 20332-7]
+5. | Kai Tak Temporary Public Filling Barging Point | Middle of the Former Kai Tak Runway, adjacent to the Taxiway Bridge, Kowloon City, Kowloon. | Plan number P 20332-7
 
 6. | Mui Wo Temporary Public Fill Reception Facility | Mui Wo Ferry Pier Road, Mui Wo, Lantau, N.T. | Plan number P 20332-8
 
