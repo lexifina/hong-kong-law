@@ -8,7 +8,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 1. | West New Territories (WENT) Landfill | Lung Kwu Tan Road, Nim Wan, Tuen Mun, N.T. | Drawing number WENT/GEN/102 Rev. B (Contract Document Vol. 3 of 12)
 
-2. | South East New Territories (SENT) Landfill | Shek Miu Wan, Tseung Kwan O, N.T. | Drawing number 90872/SP10/014B
+2. | South East New Territories (SENT) Landfill | Area 101 and Area 137, Tseung Kwan O, N.T. | Drawing number 90872/SP10/014 Rev. C (L.N. 187 of 2019)
 
 3. | North East New Territories (NENT) Landfill | Wo Keng Shan Road, Ta Kwu Ling, N.T. | Drawing number 90303/CON-01 TO 04
 
@@ -16,7 +16,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 5. | Island East Transfer Station (IETS) | 10 Sun Yip Street, Chai Wan, Hong Kong. | Drawing number 7A/A/001 Rev. D
 
-6. | Kowloon Bay Transfer Station (KBTS) | 11 Cheung Yip Street, Kowloon Bay, Kowloon. | Drawing number T91211 Rev. A (L.N. 260 of 1998)
+6. | (Repealed L.N. 187 of 2019)
 
 7. | Shatin Transfer Station (STTS) | 2 On Hing Lane, Shatin, N.T. | Drawing number 7286/0001 Rev. C (L.N. 260 of 1998)
 
@@ -46,7 +46,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 20. | Tseung Kwan O Area 137 Temporary Construction Waste Sorting Facility | Southern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-2 (L.N. 165 of 2004)
 
-21. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3-A (L.N. 165 of 2004; L.N. 49 of 2016)
+21. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3-B (L.N. 165 of 2004; L.N. 49 of 2016; L.N. 187 of 2019)
 
 22. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal, Tuen Mun, N.T. | Plan number P 20332-4 (L.N. 165 of 2004)
 
