@@ -130,7 +130,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Bachelor of Arts
 
-      - Bachelor of Arts in Architectural Studies
+      - Bachelor of Arts and Sciences Bachelor of Arts and Sciences, in disciplines as determined by the Senate from time to time Bachelor of Arts in Architectural Studies
 
       - Bachelor of Arts in Conservation
 
@@ -162,9 +162,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Bachelor of Economics and Finance
 
-      - Bachelor of Education
-
-      - Bachelor of Education in Language Education
+      - Bachelor of Education Bachelor of Education in Early Childhood Education and Special Education Bachelor of Education in Language Education
 
       - Bachelor of Education in Primary Education
 
@@ -246,6 +244,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Architecture
 
+      - Master of Architecture (Design)
+
       - Master of Arts
 
       - Master of Arts in Applied Linguistics
@@ -255,6 +255,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
       - Master of Arts in Teaching English to Speakers of Other Languages
 
       - Master of Arts in Transport Policy and Planning
+
+      - Master of Buddhist Counselling
 
       - Master of Buddhist Studies
 
@@ -362,9 +364,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Science in Library and Information Management
 
-      - Master of Science in Marketing
-
-      - Master of Science in Real Estate
+      - Master of Science in Marketing Master of Science in Oral and Maxillofacial Radiology and Diagnostic Imaging Master of Science in Real Estate
 
       - Master of Science in Real Estate Development
 
@@ -424,7 +424,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Doctor of Social Sciences honoris causa
 
-    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018)
+    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018; L.N. 193 of 2019)
 
   - 2. The University may award any of the following diplomas and certificates—
 
