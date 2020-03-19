@@ -1,5 +1,7 @@
 Declaration of Geographical Constituencies (Legislative Council) Order 2019
 
-(Made by the Chief Executive in Council under sections 18 and 19 of the Legislative Council Ordinance (Cap. 542))
+(Cap. 542, sections 18 and 19)
+
+(Enacting provision omitted—E.R. 2 of 2020)
 
 [1 January 2020]

@@ -4,4 +4,6 @@ To provide for the registration of deeds, conveyances, judgments and other instr
 
 [28 February 1844]
 
-Preamble WHEREAS it is expedient to prevent secret and fraudulent conveyances, and to provide means whereby the title to real and immovable property may be easily traced and ascertained: (Amended 50 of 1911 s. 4)
+(Format changes—E.R. 2 of 2020)
+
+Preamble Whereas it is expedient to prevent secret and fraudulent conveyances, and to provide means whereby the title to real and immovable property may be easily traced and ascertained: (Amended 50 of 1911 s. 4)

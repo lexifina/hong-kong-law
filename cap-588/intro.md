@@ -2,6 +2,8 @@ An Ordinance to establish a Financial Reporting Council acting in the public int
 
 (Amended 3 of 2019 s. 3)
 
+(Format changes—E.R. 2 of 2020)
+
 [1 December 2006] L.N. 204 of 2006
 
 (Enacting provision omitted—E.R. 2 of 2014)

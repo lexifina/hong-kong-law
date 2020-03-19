@@ -1,5 +1,7 @@
 Declaration of Constituencies (District Councils) Order 2018
 
-(Made by the Chief Executive in Council under section 6 of the District Councils Ordinance (Cap. 547))
+(Cap. 547, section 6)
+
+(Enacting provision omitted—E.R. 2 of 2020)
 
 [1 March 2019]

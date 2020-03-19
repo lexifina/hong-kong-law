@@ -12,7 +12,7 @@ Form 1 Ballot Paper for Contested Election
 
 \# The relevant sequence number of the round of voting will be printed.
 
-(L.N. 209 of 2006)
+(L.N. 209 of 2006; E.R. 2 of 2020)
 
 Form 2
 

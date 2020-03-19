@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-SPECIFIED ELECTRONIC SERVICES PROVIDERS
+Specified Electronic Services Providers
 
 - 1. Tradelink Electronic Commerce Limited
 

@@ -2,4 +2,6 @@ An Ordinance to establish a Legislative Council Commission, and to provide for m
 
 [1 April 1994] L.N. 209 of 1994
 
+(Format changes—E.R. 2 of 2020)
+
 (Enacting provision omitted—E.R. 2 of 2014)

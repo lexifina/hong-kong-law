@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 2]
 
-SPECIFIED ELECTRONIC SERVICES AGENTS
+Specified Electronic Services Agents
 
 - 1. Tradelink Electronic Commerce Limited
 
@@ -16,7 +16,7 @@ SPECIFIED ELECTRONIC SERVICES AGENTS
 
 - 6. The Indian Chamber of Commerce Hong Kong (Added L.N. 72 of 2006)
 
-- 7. International Chamber of Commerce-Hong Kong, China (Added L.N. 72 of 2006)
+- 7. International Chamber of Commerce—Hong Kong, China (Added L.N. 72 of 2006)
 
 - 8. Global e-Trading Services Limited (Added L.N. 72 of 2006)
 

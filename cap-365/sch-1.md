@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-PROVISIONS REGARDING THE BOARD AND ITS MEMBERS
+Provisions regarding the Board and its Members
 
 Common seal
 

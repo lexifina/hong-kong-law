@@ -1,10 +1,12 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 41 & 61]
 
 (Amended 3 of 2019 s. 84)
 
-PROVISIONS RELATING TO REVIEW COMMITTEE AND ITS MEMBERS
+Provisions Relating to Review Committee and its Members
+
+(Format changes—E.R. 2 of 2020)
 
 - 1. Meetings and proceedings, etc. of Review Committee
 

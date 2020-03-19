@@ -1,16 +1,16 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 2 & 45A]
 
-PRESCRIBED MONTHLY AMOUNT, PRESCRIBED RELIEF PAYMENT AND PRESCRIBED SURCHARGE
+Prescribed Monthly Amount, Prescribed Relief Payment and Prescribed Surcharge
 
-- PART 1 PRESCRIBED MONTHLY AMOUNT $10,000
+- Part 1 Prescribed Monthly Amount $10,000
 
-- PART 2 PRESCRIBED MONTHLY AMOUNT (EXTRA) $10,000
+- Part 2 Prescribed Monthly Amount (Extra) $10,000
 
-- PART 3 PRESCRIBED RELIEF PAYMENT $1,500,000
+- Part 3 Prescribed Relief Payment $1,500,000
 
-- PART 4 PRESCRIBED SURCHARGE $10,000 where section 36A(3)(a) of this Ordinance is
+- Part 4 Prescribed Surcharge $10,000 where section 36A(3)(a) of this Ordinance is
 
 - applicable and $5,000 where section 36A(3)(b)
 

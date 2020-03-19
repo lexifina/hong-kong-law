@@ -1,8 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 22 & 61]
 
-PROVISIONS RELATING TO INVESTIGATION BOARD AND ITS MEMBERS
+Provisions Relating to Investigation Board and its Members
+
+(Format changes—E.R. 2 of 2020)
 
 - 1. Appointment of members
 

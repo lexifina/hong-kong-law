@@ -1,8 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 39 & 61]
 
-PROVISIONS RELATING TO REVIEW PANEL AND ITS MEMBERS
+Provisions Relating to Review Panel and its Members
+
+(Format changes—E.R. 2 of 2020)
 
 - 1. Tenure of members
 
