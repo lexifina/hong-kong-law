@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [para. (b)]
 
-SERVICES TO BE PROVIDED BY THE TRADING FUND
+Services to be Provided by the Trading Fund
 
 - 1. Administering and enforcing the provisions of the Companies Ordinance (Cap. 622) and the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), including facilitating the incorporation of new companies and maintaining registers of companies and charges. (28 of 2012 ss. 912 & 920)
 

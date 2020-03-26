@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [para. (c)]
 
-ASSETS
+Assets
 
 Item | Description | Terms
 

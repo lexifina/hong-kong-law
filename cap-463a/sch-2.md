@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 2(2)]
 
 (L.N. 45 of 2007)
 
-TRADE, BUSINESS OR MANUFACTURE
+Trade, Business or Manufacture
 
 1. | bleaching and dyeing of garments
 
