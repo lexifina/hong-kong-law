@@ -10,13 +10,21 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
   - 1. In the Court of First Instance or Court of Appeal, civil proceedings brought, by the person seeking legal aid (claimant), for damages in a claim arising from personal injuries to, or the death of, any person (including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Amended 40 of 1989 s. 10; 25 of 1998 s. 2; L.N. 112 of 2012)
 
-  - 2. In the District Court, civil proceedings brought, by the person seeking legal aid (claimant), for damages in a claim arising from personal injuries to, or the death of, any person where, in the opinion of the Director, the claim is likely to exceed $60,000 (including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Added 40 of 1989 s. 10. Amended L.N. 112 of 2012)
+  - 2. For a claim for damages arising from personal injuries to, or the death of, a person that, in the opinion of the Director, is likely to exceed the specified amount—
+
+    - (a) civil proceedings brought in the District Court for the claim by the person seeking legal aid (claimant), including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings; and
+
+    - (b) proceedings in a higher court that are related to the claim. (Replaced L.N. 231 of 2018)
 
   - 3. In the District Court, civil proceedings brought under the Employees’ Compensation Ordinance (Cap. 282) by the person seeking legal aid, in the capacity as an employee (including proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the civil proceedings. (Added 27 of 1991 s. 20. Amended L.N. 112 of 2012)
 
-  - 4. In the Court of First Instance, Court of Appeal or District Court, civil proceedings brought, by the person seeking legal aid, for damages for medical, dental or legal professional negligence where, in the opinion of the Director, the claim is likely to exceed $60,000 (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Added 43 of 1995 s. 14. Amended 25 of 1998 s. 2; L.N. 112 of 2012)
+  - 4. For a claim for damages for medical, dental or legal professional negligence that, in the opinion of the Director, is likely to exceed the specified amount—
 
-  - 5. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+    - (a) civil proceedings brought in the District Court, Court of First Instance or Court of Appeal for the claim by the person seeking legal aid, including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings; and
+
+    - (b) proceedings in a higher court that are related to the claim. (Replaced L.N. 231 of 2018)
+
+  - 5. Civil proceedings in the District Court, Court of First Instance or Court of Appeal that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim— (Amended L.N. 231 of 2018)
 
     - (a) the claim is made by the person in respect of the professional negligence of any of the following persons—
 
@@ -34,17 +42,21 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
       - (vii) an estate agent as defined by section 2 of the Estate Agents Ordinance (Cap. 511);
 
-      - (viii) a person registered as a registered landscape architect under the Landscape Architects Registration Ordinance (Cap. 516); and
+      - (viii) a person registered as a registered landscape architect under the Landscape Architects Registration Ordinance (Cap. 516); (Amended L.N. 231 of 2018)
 
-    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012)
+      - (ix) a licensed person (as defined by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571)) who is licensed for Type 1, Type 2 or Type 8 regulated activity within the meaning of that Ordinance; (Added L.N. 231 of 2018)
 
-  - 6. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+      - (x) a registered institution (as defined by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571)) that is registered for Type 1 or Type 2 regulated activity within the meaning of that Ordinance; and (Added L.N. 231 of 2018)
+
+    - (b) the claim is, in the opinion of the Director, likely to exceed the specified amount. (Added L.N. 112 of 2012. Amended L.N. 231 of 2018)
+
+  - 6. Civil proceedings in the District Court, Court of First Instance or Court of Appeal that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim— (Amended L.N. 231 of 2018)
 
     - (a) the claim is made by the person in respect of the negligence of an insurer which is authorized within the meaning of the Insurance Ordinance (Cap. 41) or a licensed insurance intermediary as defined by section 2(1) of that Ordinance, in the performance of their functions for the taking out of the personal insurance that is the subject of the claim; and (Amended 12 of 2015 s. 101)
 
-    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012)
+    - (b) the claim is, in the opinion of the Director, likely to exceed the specified amount. (Added L.N. 112 of 2012. Amended L.N. 231 of 2018)
 
-  - 7. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+  - 7. Civil proceedings in the District Court, Court of First Instance or Court of Appeal that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim— (Amended L.N. 231 of 2018)
 
     - (a) the claim is made by the person against the legal or beneficial owner of a residential property that is a first-hand property;
 
@@ -54,15 +66,21 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
       - (ii) a sale under the agreement described in sub-subparagraph (i); and
 
-    - (c) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012. Amended E.R. 1 of 2013)
+    - (c) the claim is, in the opinion of the Director, likely to exceed the specified amount. (Added L.N. 112 of 2012. Amended E.R. 1 of 2013; L.N. 231 of 2018)
 
   - 8. Civil proceedings in the Court of First Instance or Court of Appeal that are brought in respect of an appeal under the Labour Tribunal Ordinance (Cap. 25) relating to a claim to which the person seeking legal aid is a party in the capacity as an employee (including proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the appeal. (Added L.N. 112 of 2012)
+
+  - 9. Civil proceedings in the District Court, Court of First Instance or Court of Appeal that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+
+    - (a) the claim is made by the person in respect of derivatives of securities, currency futures or other futures contracts, on the basis that the person was induced to deal in those derivatives, futures or contracts by fraud, deception or misrepresentation; and
+
+    - (b) the claim is, in the opinion of the Director, likely to exceed the specified amount. (Added L.N. 231 of 2018)
 
 - Part 2 Excepted Proceedings
 
   - 1. (Repealed 43 of 1995 s. 14)
 
-  - 2. Claims in the Court of First Instance or District Court for damages for assault and battery. (Added 27 of 1991 s. 20. Amended 43 of 1995 s. 14; 25 of 1998 s. 2)
+  - 2. Claims in the District Court or Court of First Instance for damages for assault and battery. (Added 27 of 1991 s. 20. Amended 43 of 1995 s. 14; 25 of 1998 s. 2; L.N. 231 of 2018)
 
 - Part 3 Interpretation Provisions (Part 3 added L.N. 112 of 2012)
 
@@ -76,6 +94,20 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
     - company (公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
+    - derivatives of securities (證券衍生工具) means—
+
+      - (a) options to buy or sell interests in;
+
+      - (b) certificates of interest or participation in;
+
+      - (c) warrants to subscribe to; or
+
+      - (d) rights (other than shares) in,
+
+    - the capital of, or an instrument issued by, a company, government authority or other body; (Added L.N. 231 of 2018)
+
+    - futures contract (期貨合約) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added L.N. 231 of 2018)
+
     - holding company (控權公司) means a holding company within the meaning of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
     - personal insurance (個人保險) means an insurance that is taken out by an individual and under which an individual is the insured person, but does not include any such insurance the sole or predominant purpose of which is for any one or more of the following—
@@ -87,6 +119,8 @@ Proceedings for which Legal Aid may be Given under Section 5A
       - (c) investment;
 
     - residential property (住宅物業) means an immovable property (whether completed or uncompleted) constituting a separate unit constructed or intended to be constructed for residential use;
+
+    - specified amount (指明款額) means the monetary limit specified in paragraph 1 of the Schedule to the Small Claims Tribunal Ordinance (Cap. 338); (Added L.N. 231 of 2018)
 
     - specified body (指明團體) means a body corporate incorporated or established under an Ordinance;
 

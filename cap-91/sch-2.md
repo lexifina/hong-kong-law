@@ -42,7 +42,7 @@ Proceedings for which Legal Aid may be Given under Section 5
 
   - 4. Election petitions arising from Legislative Council and District Council elections, except where the petitioner claims that a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Covenant on Civil and Political Rights as applied to Hong Kong is an issue and the Director is satisfied that, having regard to the matters set out in section 10(3), the petitioner would be granted a legal aid certificate. (Replaced 43 of 1995 s. 13. Amended 8 of 1999 s. 89; 78 of 1999 s. 7)
 
-  - 5. In the Court of First Instance or District Court, in the case of a defendant, proceedings where the only question to be brought before the court is as to the time and mode of payment by him of debt (including liquidated damages) and costs. (Amended 43 of 1995 s. 13; 25 of 1998 s. 2)
+  - 5. In the District Court or Court of First Instance, in the case of a defendant, proceedings where the only question to be brought before the court is as to the time and mode of payment by him of debt (including liquidated damages) and costs. (Amended 43 of 1995 s. 13; 25 of 1998 s. 2; L.N. 231 of 2018)
 
   - 6. (Repealed 43 of 1995 s. 13)
 
@@ -68,6 +68,18 @@ Proceedings for which Legal Aid may be Given under Section 5
 
       - (e) proceedings for the taxation of costs, unless the person seeking legal aid was previously aided in the action for which an order for costs was made. (Amended L.N. 112 of 2012)
 
-    - For the purposes of this paragraph—
+    - In this paragraph—
 
-      - derivatives of securities (證券衍生工具) means options to buy or sell interests in, certificates of interest of participation in, warrants to subscribe to or rights (other than shares) in, the capital of, or an instrument issued by, a company, government authority or other body. (Added 43 of 1995 s. 13)
+      - derivatives of securities (證券衍生工具) means—
+
+        - (a) options to buy or sell interests in;
+
+        - (b) certificates of interest or participation in;
+
+        - (c) warrants to subscribe to; or
+
+        - (d) rights (other than shares) in,
+
+      - the capital of, or an instrument issued by, a company, government authority or other body;
+
+      - futures contract (期貨合約) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571). (Added 43 of 1995 s. 13. Amended L.N. 231 of 2018)
