@@ -1,119 +1,139 @@
-# FIRST SCHEDULE
+# First Schedule
 
-[s. 2]
+[ss. 2 & 4]
 
-THE INTERNATIONAL SYSTEM OF UNITS
+International System of Units
 
-- PART I The SI base units (See Note (1))
+- Part I SI Base Units
 
-Quantity | Name | Symbol | Definition
+- First Column | Second Column | Third Column | Fourth Column
 
-length | metre | m | the length of the path travelled by light in vacuum during a time interval of 1/299792458 of a second. (Amended L.N. 189 of 1987)
+- Quantity | Name | Symbol | Definition
 
-mass | kilogram | kg | the mass equal to the mass of the international prototype of the kilogram kept by the International Bureau of Weights and Measures.
+- 1. | time | second | s | It is defined by taking the fixed numerical value of the caesium frequency ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s-1.
 
-time | second | s | the duration of 9192631770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium-133 atom.
+- 2. | length | metre | m | It is defined by taking the fixed numerical value of the speed of light in vacuum c to be 299 792 458 when expressed in the unit m s-1, where the second is defined in terms of the caesium frequency ΔνCs.
 
-electric current | ampere | A | that constant current which if maintained in two straight parallel conductors of infinite length, of negligible circular cross section, and placed 1 metre apart in vacuum, would produce between these conductors a force equal to 2 x 10-7 newton per metre of length.
+- 3. | mass | kilogram | kg | It is defined by taking the fixed numerical value of the Planck constant h to be 6.626 070 15 × 10-34 when expressed in the unit J s, which is equal to kg m2 s-1, where the metre and the second are defined in terms of c and ΔνCs.
 
-thermo-dynamic temperature | kelvin | K | the fraction 1/273.16 of the thermodynamic temperature of the triple point of water.
+- 4. | electric current | ampere | A | It is defined by taking the fixed numerical value of the elementary charge e to be 1.602 176 634 × 10-19 when expressed in the unit C, which is equal to A s, where the second is defined in terms of ΔνCs.
 
-luminous intensity | candela | cd | the luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540 x 1012 hertz and has a radiant intensity in that direction of 1/683 of a watt per steradian. (Amended L.N. 189 of 1987)
+- 5. | thermodynamic temperature | kelvin | K | It is defined by taking the fixed numerical value of the Boltzmann constant k to be 1.380 649 × 10-23 when expressed in the unit J K-1, which is equal to kg m2 s-2 K-1, where the kilogram, metre and second are defined in terms of h, c and ΔνCs.
 
-amount of substance | mole | mol | the amount of substance of a system which contains as many elementary entities as there are atoms in 0.012 kilogram of carbon 12. Note: When the mole is used, the elementary entities must be specified and may be atoms, molecules, ions, electrons, other particles, or specified groups of such particles.
+- 6. | amount of substance | mole | mol | One mole contains exactly 6.022 140 76 × 1023 elementary entities. This number is the fixed numerical value of the Avogadro constant NA, when expressed in the unit mol-1 and is called the Avogadro number. The amount of substance, symbol n, of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.
 
-- PART II The SI supplementary units (See Note (2))
+- 7. | luminous intensity | candela | cd | It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency 540 × 1012 Hz, Kcd, to be 683 when expressed in the unit lm W-1, which is equal to cd sr W-1, or cd sr kg-1 m-2 s3, where the kilogram, metre and second are defined in terms of h, c and ΔνCs.
 
-Quantity | Name | Symbol | Definition
+  - Notes—
 
-Plane angle | radian | rad | the plane angle between two radii of a circle which cut off on the circumference an arc equal in length to the radius.
+    - 1. The SI derived units are defined as products of powers of the SI base units.
 
-solid angle | steradian | sr | the solid angle which, having its vertex in the centre of a sphere, cuts off an area of the surface of the sphere equal to that of a square with sides of length equal to the radius of the sphere.
+    - 2. The 7 SI base units in this Part and the 22 SI derived units with special names and symbols in Part III may be used in combination to express the units of other derived quantities. All other SI units are combinations of some of these 29 units.
 
-- PART III SI derived units having special names and symbols
+- Part II SI Supplementary Units
 
-- (See Notes (3) & (4))
+- Part III SI Derived Units Having Special Names and Symbols
 
-Quantity | Name | Symbol | Expression in terms of other SI units
+- First Column | Second Column | Third Column
 
-frequency | hertz | Hz | 1/s
+- Quantity | Special Name | Symbol (unit expressed in terms of base units)
 
-force | newton | N | m kg/s2
+- 1. | plane angle | radian | rad (= m/m)
 
-pressure stress | pascal | Pa | N/m2
+- 2. | solid angle | steradian | sr (= m2/m2)
 
-energy, work, quantity of heat | joule | J | N m
+- 3. | frequency | hertz | Hz (= s-1)
 
-power, radiant flux | watt | W | J/s
+- 4. | force | newton | N (= kg m s-2)
 
-quantity of electricity, electric charge | coulomb | C | A s
+- 5. | pressure, stress | pascal | Pa (= kg m-1 s-2)
 
-electric potential, potential difference, electromotive force | volt | V | W/A
+- 6. | energy, work, amount of heat | joule | J (= kg m2 s-2)
 
-capacitance | farad | F | C/V
+- 7. | power, radiant flux | watt | W (= kg m2 s-3)
 
-electric resistance | ohm | Ω | V/A
+- 8. | electric charge | coulomb | C (= A s)
 
-conductance | siemens | S | A/V
+- 9. | electric potential difference | volt | V (= kg m2 s-3 A-1)
 
-magnetic flux | weber | Wb | V s
+- 10. | capacitance | farad | F (= kg-1 m-2 s4 A2)
 
-magnetic flux density | tesla | T | Wb/m2
+- 11. | electric resistance | ohm | Ω (= kg m2 s-3 A-2)
 
-inductance | henry | H | Wb/A
+- 12. | electric conductance | siemens | S (= kg-1 m-2 s3 A2)
 
-luminous flux | lumen | lm | cd sr
+- 13. | magnetic flux | weber | Wb (= kg m2 s-2 A-1)
 
-illuminance | lux | lx | cd sr/m2
+- 14. | magnetic flux density | tesla | T (= kg s-2 A-1)
 
-radioactivity | becquerel | Bq | l/s
+- 15. | inductance | henry | H (= kg m2 s-2 A-2)
 
-amount of absorbed radiation | gray | Gy | J/kg
+- 16. | Celsius temperature | degree Celsius | °C (= K)
 
-- PART IV The SI Prefixes (See Note (5))
+- 17. | luminous flux | lumen | lm (= cd sr)
 
-Factor by which the unit is multiplied | Name | Symbol
+- 18. | illuminance | lux | lx (= cd sr m-2)
 
-1018 | exa | E
+- 19. | activity referred to a radionuclide | becquerel | Bq (= s-1)
 
-1015 | peta | P
+- 20. | absorbed dose, kerma | gray | Gy (= m2 s-2)
 
-1012 | tera | T
+- 21. | dose equivalent | sievert | Sv (= m2 s-2)
 
-109 | giga | G
+- 22. | catalytic activity | katal | kat (= mol s-1)
 
-106 | mega | M
+  - Notes—
 
-103 | kilo | k
+    - 1. The SI derived units are defined as products of powers of the SI base units.
 
-102 | hecto | h
+    - 2. The 7 SI base units in Part I and the 22 SI derived units with special names and symbols in this Part may be used in combination to express the units of other derived quantities. All other SI units are combinations of some of these 29 units.
 
-101 | deca | da
+- Part IV SI Prefixes
 
-10-1 | deci | d
+- First Column | Second Column | Third Column
 
-10-2 | centi | c
+- Factor by which the unit is multiplied | Name | Symbol
 
-10-3 | milli | m
+- 1024 | yotta | Y
 
-10-6 | micro | μ
+- 1021 | zetta | Z
 
-10-9 | nano | n
+- 1018 | exa | E
 
-10-12 | pico | p
+- 1015 | peta | P
 
-10-15 | femto | f
+- 1012 | tera | T
 
-10-18 | atto | a
+- 109 | giga | G
 
-Notes
+- 106 | mega | M
 
-- (1) An SI base unit is a unit recommended by the General Conference of Weights and Measures as a fundamental unit of SI. By convention the seven SI base units are regarded as dimensionally independent.
+- 103 | kilo | k
 
-- (2) An SI supplementary unit is a unit for the time being not classified by the General Conference of Weights and Measures as either an SI base or an SI derived unit.
+- 102 | hecto | h
 
-- (3) An SI derived unit is a unit which can be expressed algebraically in terms of the SI base units and/or the SI supplementary units.
+- 101 | deca | da
 
-- (4) The derived units in Part III have been given special names and symbols which may themselves be used to express other derived units.
+- 10-1 | deci | d
 
-- (5) The SI prefixes are used to form names and symbols of decimal multiples and submultiples of the SI units.
+- 10-2 | centi | c
+
+- 10-3 | milli | m
+
+- 10-6 | micro | µ
+
+- 10-9 | nano | n
+
+- 10-12 | pico | p
+
+- 10-15 | femto | f
+
+- 10-18 | atto | a
+
+- 10-21 | zepto | z
+
+- 10-24 | yocto | y
+
+  - Note— The SI prefixes are used to form names and symbols of decimal multiples and sub-multiples of the SI units.
+
+(First Schedule replaced L.N. 167 of 2019)
