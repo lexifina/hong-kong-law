@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 5]
 
-PERIODICAL AND ANNUAL SURVEYS
+Periodical and Annual Surveys
 
 (L.N. 34 of 2000) In general the scope of the periodical and annual surveys shall be as follows— (L.N. 34 of 2000)
 
@@ -18,7 +18,7 @@ PERIODICAL AND ANNUAL SURVEYS
 
 - 4. If any doubt arises as to the condition of the ship’s safety equipment further examination and testing shall be conducted as the surveyor deems necessary.
 
-SURVEY
+Survey
 
 - 1. Examination of ship’s certificates The examination of the ship’s certificates in general shall consist of checking—
 

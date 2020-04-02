@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 6]
 
-FEES FOR CARGO SHIP SAFETY EQUIPMENT CERTIFICATE SURVEYS
+Fees for Cargo Ship Safety Equipment Certificate Surveys
 
 (L.N. 90 of 1999 and 44 of 1999 s. 39)
 
