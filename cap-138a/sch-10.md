@@ -574,6 +574,8 @@ Poisons List
 
     - Bupropion; its salts
 
+    - Burosumab
+
     - Buserelin; its salts
 
     - Buspirone; its salts
@@ -1114,6 +1116,8 @@ Poisons List
 
     - Entecavir; its salts; its esters; their salts
 
+    - Entrectinib; its salts
+
     - Enzalutamide; its salts
 
     - Eplerenone
@@ -1614,6 +1618,8 @@ Poisons List
 
     - Liraglutide
 
+    - Lisdexamfetamine; its salts
+
     - Lisinopril; its salts
 
     - Lithium carbonate
@@ -1647,6 +1653,8 @@ Poisons List
     - Lumefantrine; its salts
 
     - Lurasidone; its salts
+
+    - Lutetium (177Lu) oxodotreotide; its salts
 
     - Lysergamide; its salts, simple or complex; its quaternary compounds
 
@@ -2442,6 +2450,8 @@ Poisons List
 
     - Podophyllum resin
 
+    - Polatuzumab vedotin
+
     - Polymethylenebistrimethylammonium salts
 
     - Pomalidomide; its salts
@@ -2459,6 +2469,8 @@ Poisons List
     - Pramipexole; its salts
 
     - Pramoxine; its salts
+
+    - Prasterone; its salts; when contained in pharmaceutical products
 
     - Prasugrel; its salts
 
@@ -3130,7 +3142,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020)
 
     - Division B
 
