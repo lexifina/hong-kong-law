@@ -1,15 +1,17 @@
+Editorial Note: * Commencement date : 3 March 2014.
+
 # Schedule 1
 
 [s. 17]
 
-Any offence involving—
+- Any offence involving—
 
-- (a) fraud;
+  - (a) fraud;
 
-- (b) dishonesty;
+  - (b) dishonesty;
 
-- (c) extortion;
+  - (c) extortion;
 
-- (d) membership of a triad society.
+  - (d) membership of a triad society.
 
-(Added 15 of 1971 s. 29)
+- (Added 15 of 1971 s. 29)

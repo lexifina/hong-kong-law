@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 18]
 
-MATTERS FOR WHICH PROVISION MUST BE MADE IN THE RULES OF EVERY REGISTERED TRADE UNION
+Matters for which Provision must be Made in the Rules of Every Registered Trade Union
 
 - The rules of every registered trade union shall—
 
