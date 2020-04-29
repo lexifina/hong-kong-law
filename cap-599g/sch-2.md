@@ -8,6 +8,22 @@ Fixed Penalty
 
   - 1. Interpretation In this Schedule—
 
+    - Authority (當局) means—
+
+      - (a) the Director;
+
+      - (b) the Commissioner of Police;
+
+      - (c) the Director of Agriculture, Fisheries and Conservation;
+
+      - (d) the Director of Food and Environmental Hygiene;
+
+      - (e) the Director of Home Affairs;
+
+      - (f) the Director of Housing; or
+
+      - (g) the Director of Leisure and Cultural Services; (L.N. 52 of 2020)
+
     - demand notice (繳款通知書) means a demand notice served under section 4(2) of this Schedule;
 
     - penalty notice (罰款通知書) means a penalty notice given under section 2(2) of this Schedule;
@@ -32,7 +48,7 @@ Fixed Penalty
 
     - (2) Subject to section 6 of this Schedule, the person is not liable to be prosecuted or convicted for the offence if the person has paid the fixed penalty within 21 days after the date on which the penalty notice is given.
 
-  - 4. Director may serve demand notice in case of failure to pay fixed penalty etc.
+  - 4. Authority may serve demand notice in case of failure to pay fixed penalty etc. (L.N. 52 of 2020)
 
     - (1) This section applies if—
 
@@ -44,11 +60,11 @@ Fixed Penalty
 
       - (b) a person refuses to accept a penalty notice intended to be given to the person in respect of the offence.
 
-    - (2) The Director may serve on the person a demand notice in the specified form—
+    - (2) The Authority may serve on the person a demand notice in the specified form— (L.N. 52 of 2020)
 
       - (a) demanding payment of the fixed penalty;
 
-      - (b) informing the person that the person must notify the Director in writing if the person wishes to dispute liability for the offence; and
+      - (b) informing the person that the person must notify the Authority in writing if the person wishes to dispute liability for the offence; and (L.N. 52 of 2020)
 
       - (c) stating that the payment or notification must be made within 10 days after the date on which the demand notice is served.
 
@@ -60,11 +76,11 @@ Fixed Penalty
 
     - (4) A demand notice may be served by sending it by post to the person’s address.
 
-    - (5) A certificate of posting in the specified form purporting to be signed by or for the Director is admissible in evidence in any proceedings under this Regulation.
+    - (5) A certificate of posting in the specified form purporting to be signed by or for the Authority is admissible in evidence in any proceedings under this Regulation. (L.N. 52 of 2020)
 
     - (6) Unless there is evidence to the contrary, it is presumed that—
 
-      - (a) the certificate was signed by or for the Director; and
+      - (a) the certificate was signed by or for the Authority; and (L.N. 52 of 2020)
 
       - (b) the demand notice to which the certificate relates was duly served.
 
@@ -76,7 +92,7 @@ Fixed Penalty
 
   - 6. Withdrawal of penalty notice or demand notice
 
-    - (1) The Director may withdraw a penalty notice given, or a demand notice served, in respect of an offence under section 6(1)(a)—
+    - (1) The Authority may withdraw a penalty notice given, or a demand notice served, in respect of an offence under section 6(1)(a)— (L.N. 52 of 2020)
 
       - (a) at any time before a recovery order is made; or
 
@@ -84,9 +100,9 @@ Fixed Penalty
 
     - (2) If a penalty notice or demand notice is withdrawn—
 
-      - (a) the Director must serve notice of the withdrawal on the person to whom, or on whom, the penalty notice or demand notice has been given or served; and
+      - (a) the Authority must serve notice of the withdrawal on the person to whom, or on whom, the penalty notice or demand notice has been given or served; and
 
-      - (b) on application by the person, the Director must refund, through the Director of Accounting Services, any amount paid for the fixed penalty.
+      - (b) on application by the person, the Authority must refund, through the Director of Accounting Services, any amount paid for the fixed penalty. (L.N. 52 of 2020)
 
     - (3) If a penalty notice or demand notice is withdrawn, proceedings for the offence may only be commenced where—
 
@@ -102,7 +118,7 @@ Fixed Penalty
 
       - (a) fails to pay the fixed penalty in accordance with the notice; and
 
-      - (b) fails to notify the Director in accordance with the notice that the person wishes to dispute liability for the offence.
+      - (b) fails to notify the Authority in accordance with the notice that the person wishes to dispute liability for the offence. (L.N. 52 of 2020)
 
     - (2) On application made in the name of the Secretary for Justice and production of the documents specified in subsection (3), a magistrate must order the person to pay, within 14 days after the date of service of notice of the order—
 
@@ -126,21 +142,21 @@ Fixed Penalty
 
   - 8. Evidentiary certificate
 
-    - (1) A certificate in the specified form stating the matters in subsection (2) and purporting to be signed by or for the Director is admissible in evidence in any proceedings under this Regulation.
+    - (1) A certificate in the specified form stating the matters in subsection (2) and purporting to be signed by or for the Authority is admissible in evidence in any proceedings under this Regulation.
 
     - (2) The matters are—
 
       - (a) that the person specified in the certificate had not, before the date of the certificate, paid the fixed penalty;
 
-      - (b) that the person specified in the certificate had not, before the date of the certificate, notified the Director that the person wished to dispute liability for the offence; and
+      - (b) that the person specified in the certificate had not, before the date of the certificate, notified the Authority that the person wished to dispute liability for the offence; and
 
       - (c) that the address specified in the certificate was, on the date specified in the certificate in relation to the address, the person’s address.
 
     - (3) Unless there is evidence to the contrary—
 
-      - (a) it is presumed that the certificate was signed by or for the Director; and
+      - (a) it is presumed that the certificate was signed by or for the Authority; and
 
-      - (b) the certificate is evidence of the facts stated in it.
+      - (b) the certificate is evidence of the facts stated in it. (L.N. 52 of 2020)
 
   - 9. Consequences of compliance with recovery order or failure to do so
 
@@ -160,7 +176,7 @@ Fixed Penalty
 
     - (2) An application must be made within 14 days after the date on which the recovery order first came to the personal notice of the applicant.
 
-    - (3) The applicant must give reasonable notice of the application to the Director.
+    - (3) The applicant must give reasonable notice of the application to the Authority. (L.N. 52 of 2020)
 
     - (4) An application may be made in person or by counsel or solicitor.
 
@@ -200,7 +216,7 @@ Fixed Penalty
 
     - (1) This section applies if—
 
-      - (a) a person has notified the Director in accordance with a demand notice that the person wishes to dispute liability for an offence under section 6(1)(a); or
+      - (a) a person has notified the Authority in accordance with a demand notice that the person wishes to dispute liability for an offence under section 6(1)(a); or (L.N. 52 of 2020)
 
       - (b) a person has been given leave under section 11(2) of this Schedule to dispute liability for an offence under section 6(1)(a).
 
@@ -228,7 +244,7 @@ Fixed Penalty
 
 - Part 5 General Provisions for Proceedings
 
-  - 13. Power to rescind order on application by Director At any time, a magistrate may for good cause, on application by the Director, rescind—
+  - 13. Power to rescind order on application by Authority (L.N. 52 of 2020) At any time, a magistrate may for good cause, on application by the Authority, rescind— (L.N. 52 of 2020)
 
     - (a) an order for the payment of the fixed penalty; and
 
