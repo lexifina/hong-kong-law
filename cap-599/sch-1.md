@@ -22,6 +22,8 @@ Scheduled Infectious Diseases
 
 - 8. Community-associated methicillin-resistant Staphylococcus aureus infection (社區型耐甲氧西林金黃葡萄球菌感染)
 
+- 8A. Coronavirus disease 2019 (COVID-19) (2019冠狀病毒病) (Added L.N. 46 of 2020)
+
 - 9. Creutzfeldt-Jakob disease (克雅二氏症)
 
 - 10. Dengue fever (登革熱)
@@ -82,7 +84,7 @@ Scheduled Infectious Diseases
 
 - 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症)
 
-- 34AAA. Severe respiratory disease associated with a novel infectious agent (嚴重新型傳染性病原體呼吸系統病) (Added L.N. 3 of 2020)
+- 34AAA. (Repealed L.N. 46 of 2020)
 
 - 34AA. (Repealed L.N. 104 of 2013)
 

@@ -60,6 +60,8 @@ Scheduled Infectious Agents
 
 26. | Severe Acute Respiratory Syndrome—coronavirus (嚴重急性呼吸系統綜合症——冠狀病毒)
 
+26A. | Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (嚴重急性呼吸系統綜合症冠狀病毒2) (Added L.N. 46 of 2020)
+
 27. | Tick-borne encephalitis virus (蜱傳腦炎病毒)
 
 28. | Variola virus (天花病毒)
