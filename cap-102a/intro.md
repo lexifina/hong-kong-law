@@ -1,6 +1,6 @@
 Waterworks Regulations
 
-(Cap. 102, section 37)
+(Cap. 102, section 37 and Cap. 1, section 29)
 
 [1 January 1975]
 
