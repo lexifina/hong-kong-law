@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 6]
 
-SYMBOLS DESIGNATING THE CLASSIFICATIONS OF FILMS UNDER SECTION 12 OF THE ORDINANCE
+Symbols Designating the Classifications of Films under Section 12 of the Ordinance
 
 Category I—Classification under section 12(1)(a)
 
@@ -10,7 +10,9 @@ Category IIA—Classification under section 12(1)(b) for films to be advertised 
 
 兒童不宜”
 
-Category IIB—Classification under section 12(1)(b) for films to be advertised as— “NOT SUITABLE FOR YOUNG PERSONS AND CHILDREN.
+Category IIB—Classification under section 12(1)(b) for films to be advertised as— “NOT SUITABLE FOR YOUNG
+
+PERSONS AND CHILDREN.
 
 青少年及兒童不宜”
 
