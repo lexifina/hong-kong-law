@@ -306,4 +306,6 @@ Item | Body
 
 162. | Youth Centre of The True Word Lutheran Church operated by The True Word Lutheran Church Limited (Added L.N. 159 of 2019)
 
+163. | MTR Academy (HK) Company Limited (Added L.N. 93 of 2020)
+
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
