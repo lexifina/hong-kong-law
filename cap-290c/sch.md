@@ -26,6 +26,8 @@ List of Contracting States
 
 - Belize | 1 April 2006
 
+- Benin, The Republic of | 1 October 2018
+
 - Bolivia, The Republic of | 25 January 2006
 
 - Brazil, The Federative Republic of | 25 January 2006
@@ -45,6 +47,8 @@ List of Contracting States
 - Colombia, The Republic of | 25 January 2006
 
 - Costa Rica, The Republic of | 25 January 2006
+
+- Côte d’Ivoire, The Republic of | 1 October 2015
 
 - Croatia, The Republic of | 1 April 2014
 
@@ -72,13 +76,19 @@ List of Contracting States
 
 - Germany, The Federal Republic of | 25 January 2006
 
+- Ghana, The Republic of | 1 January 2017
+
 - Guatemala, The Republic of | 25 January 2006
 
 - Guinea, The Republic of | 25 January 2006
 
+- Guyana, The Co-operative Republic of | 1 June 2019
+
 - Haiti, The Republic of | 1 April 2014
 
 - Hellenic Republic, The | 1 January 2010
+
+- Honduras, The Republic of | 1 July 2019
 
 - Hungary, The Republic of | 25 January 2006
 
@@ -95,6 +105,8 @@ List of Contracting States
 - Kazakhstan, The Republic of | 1 November 2010
 
 - Kenya, The Republic of | 1 June 2007
+
+- Kyrgyz Republic, The | 1 November 2016
 
 - Latvia, The Republic of | 25 January 2006
 
@@ -125,6 +137,8 @@ List of Contracting States
 - Mongolia | 25 January 2006
 
 - Montenegro | 1 July 2012
+
+- Namibia, The Republic of | 1 January 2016
 
 - New Zealand | 25 January 2006
 
@@ -184,7 +198,9 @@ List of Contracting States
 
 - Viet Nam, The Socialist Republic of | 1 February 2012
 
-- (L.N. 153 of 2014)
+- Zambia, The Republic of | 1 October 2015
+
+- (L.N. 153 of 2014; L.N. 90 of 2020)
 
 - Part 2
 
