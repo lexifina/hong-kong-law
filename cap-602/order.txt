@@ -23,6 +23,7 @@ s-021.md
 s-022.md
 s-023.md
 s-024.md
+s-024A.md
 s-025.md
 s-026.md
 s-027.md
@@ -46,6 +47,7 @@ s-044.md
 s-045.md
 s-046.md
 s-047.md
+s-047A.md
 s-048.md
 s-049.md
 s-050.md
@@ -110,3 +112,4 @@ sch-2.md
 sch-3.md
 sch-4.md
 sch-5.md
+sch-6.md
