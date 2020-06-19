@@ -54,15 +54,15 @@ Fee No. | Matter or proceeding | Amount
 
 23. | For supplying under rule 70(2) a certificate for the purposes of section 79(2) of the Ordinance | $200
 
-24. | Request for search of records under rule 72 (L.N. 25 of 2015) | (a) | $400 for the first class of goods or services set out in the specification; and
+24. | Request for Registrar’s advice on the matter referred to in section 72(1)(a) of the Ordinance (L.N. 25 of 2015; 3 of 2020 s. 26) | (a) | $400 for the first class of goods or services set out in the specification; and
 
-(b) | $200 for each additional class (if any) if there is no simultaneous request for Registrar’s preliminary advice under rule 73 in respect of the same additional class
+(b) | $200 for each additional class (if any) if there is no simultaneous request for Registrar’s advice on the matter referred to in section 72(1)(b) of the Ordinance in respect of the same additional class
 
-25. | Request for Registrar’s preliminary advice under rule 73 | (a) | $400 for the first class of goods or services set out in the specification; and
+25. | Request for Registrar’s advice on the matter referred to in section 72(1)(b) of the Ordinance (L.N. 25 of 2015; 3 of 2020 s. 26) | (a) | $400 for the first class of goods or services set out in the specification; and
 
-(b) | $200 for each additional class (if any) if there is no simultaneous request for search of records under rule 72 in respect of the same additional class (L.N. 25 of 2015)
+(b) | $200 for each additional class (if any) if there is no simultaneous request for Registrar’s advice on the matter referred to in section 72(1)(a) of the Ordinance in respect of the same additional class
 
-25A. | Simultaneous requests for search of records under rule 72 and for Registrar’s preliminary advice under rule 73 in respect of the same additional class of goods or services set out in the specification (L.N. 25 of 2015) | $200 for each additional class
+25A. | Simultaneous requests for Registrar’s advice on the matters referred to in section 72(1)(a) and (b) of the Ordinance in respect of the same additional class of goods or services set out in the specification (L.N. 25 of 2015; 3 of 2020 s. 26) | $200 for each additional class
 
 26. | Notice of intention to appear at hearing under rule 74(5) (other than hearing for extension of time) | $1,700
 

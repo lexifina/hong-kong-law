@@ -1,6 +1,8 @@
 # SCHEDULE 5
 
-[s. 97]
+[ss. 90A & 97]
+
+(Amended 3 of 2020 s. 17)
 
 TRANSITIONAL MATTERS
 
