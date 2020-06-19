@@ -28,9 +28,9 @@ Exempted Group Gatherings
 
 - 9. Group gathering during a funeral, or during any other occasion for mourning for or remembering a deceased who has yet to be buried or cremated (including any ritual or ceremony held in the vicinity of the place where the deceased died or suffered fatal injury to mourn for the death of the deceased)
 
-- 10. Group gathering of not more than 50 persons during a wedding ceremony at which no food or drink is served (except as part of a religious ritual) (L.N. 59 of 2020; L.N. 82 of 2020)
+- 10. (Repealed L.N. 125 of 2020)
 
-- 11. Group gathering during any of the following meetings at which no food or drink is served and, in the case of a group gathering of more than 50 persons, measures are in place for separating them in different rooms or partitioned areas, each accommodating not more than 50 persons—
+- 11. Group gathering during any of the following meetings at which no food or drink is served and measures are in place for separating the participants in the gathering in different rooms or partitioned areas, each accommodating not more than 50 persons— (L.N. 125 of 2020)
 
   - (a) a meeting of a body that must be held within a specified period in order to comply with any Ordinance or other regulatory instrument that governs the operation of the body or its business;
 
@@ -38,9 +38,9 @@ Exempted Group Gatherings
 
 - 12. Group gathering held for imparting information or skills, or handling supplies or items, that are conducive to the prevention and control of the specified disease
 
-- 13. Group gathering at any premises to which a direction issued under section 8 of the Prevention and Control of Disease (Requirements and Directions) (Business and Premises) Regulation (Cap. 599 sub. leg. F) applies, except premises that, according to the direction, must be closed (L.N. 59 of 2020)
+- 13. Group gathering at any premises to which a direction issued under section 6 or 8 of the Prevention and Control of Disease (Requirements and Directions) (Business and Premises) Regulation (Cap. 599 sub. leg. F) applies, except premises that, according to the direction, must be closed (L.N. 59 of 2020; L.N. 125 of 2020)
 
-- 14. Group gathering during a religious activity (other than a wedding ceremony)—
+- 14. Group gathering during a religious activity— (L.N. 125 of 2020)
 
   - (a) held at any premises constructed or regularly used as a place of worship (including a church, monastery or nunnery, mosque, synagogue or temple);
 
