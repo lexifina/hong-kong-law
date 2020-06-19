@@ -40,9 +40,7 @@ Poisons List
 
 - Table
 
-  - Part 1
-
-    - Division A
+  - Part 1 Division A
 
     - Abacavir; its salts
 
@@ -676,7 +674,7 @@ Poisons List
 
     - Chloroquine; its salts; its derivatives; their salts
 
-    - Chlorothiazide and other derivatives of benzo-1,2,4- thiadiazine-7-sulphonamide 1,1-dioxide, whether hydrogenated or not; their salts
+    - Chlorothiazide and other derivatives of benzo-1,2,4-thiadiazine-7-sulphonamide 1,1-dioxide, whether hydrogenated or not; their salts
 
     - Chlorphenoxamine; its salts
 
@@ -1128,6 +1126,8 @@ Poisons List
 
     - Eptifibatide; its salts
 
+    - Erdafitinib; its salts
+
     - Erenumab
 
     - Eribulin; its salts
@@ -1394,7 +1394,7 @@ Poisons List
 
     - Halofuginone; its salts
 
-    - Haloperidol and other 4-substituted derivatives of N-(3- para-fluorobenzoylpropyl) piperidine
+    - Haloperidol and other 4-substituted derivatives of N-(3-para-fluorobenzoylpropyl) piperidine
 
     - Hexamethylmelamine
 
@@ -2682,6 +2682,8 @@ Poisons List
 
     - Romiplostim
 
+    - Romosozumab
+
     - Ropinirole; its salts
 
     - Ropivacaine; its salts
@@ -2730,7 +2732,7 @@ Poisons List
 
     - Sevoflurane
 
-    - Sibutramine; its salts; any compound containing the chemical structure of 1-[1-(4-Chlorophenyl)cyclobutyl]-3- methylbutan-1-amine substituted to any degree or without substitution; its salts
+    - Sibutramine; its salts; any compound containing the chemical structure of 1-[1-(4-Chlorophenyl)cyclobutyl]-3-methylbutan-1-amine substituted to any degree or without substitution; its salts
 
     - Sildenafil; its salts; any compound containing the chemical structure of 5-(2-ethoxyphenyl)-1-methyl-3-propyl-1H-pyrazolo[4,3-d]pyrimidin-7(6H)-one substituted to any degree or without substitution; its salts
 
@@ -2814,9 +2816,7 @@ Poisons List
 
     - Tacrolimus
 
-    - Tadalafil; its salts; any compound containing the chemical structure of 6-(Benzo[1,3]dioxol-5-yl)-2,3,6,7,12,12a-hexahydropyrazino
-
-    - [1’,2’:1,6]pyrido[3,4-b]indole-1,4-dione substituted to any degree or without substitution; its salts
+    - Tadalafil; its salts; any compound containing the chemical structure of 6-(Benzo[1,3]dioxol-5-yl)-2,3,6,7,12,12a-hexahydropyrazino [1’,2’:1,6]pyrido[3,4-b]indole-1,4-dione substituted to any degree or without substitution; its salts
 
     - Tafamidis; its salts
 
@@ -3142,9 +3142,9 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020)
 
-    - Division B
+  - Division B
 
     - Alkali fluorides other than those specified in Part 2 of this List
 
@@ -3156,15 +3156,15 @@ Poisons List
 
     - Hexachlorophane, the following—
 
-      - (a) medicinal products for human use containing more than 0.1% hexachlorophane;
+        - (a) medicinal products for human use containing more than 0.1% hexachlorophane;
 
-      - (b) preparations for animal use—
+        - (b) preparations for animal use—
 
-        - (i) aerosols the contents of the container of which contain more than 0.1% hexachlorophane;
+          - (i) aerosols the contents of the container of which contain more than 0.1% hexachlorophane;
 
-        - (ii) soaps and shampoos containing more than 2% hexachlorophane;
+          - (ii) soaps and shampoos containing more than 2% hexachlorophane;
 
-        - (iii) other medicinal products (except those for oral administration to sheep or cattle for liver fluke disease) containing more than 0.75% hexachlorophane
+          - (iii) other medicinal products (except those for oral administration to sheep or cattle for liver fluke disease) containing more than 0.75% hexachlorophane
 
     - meta-Nitrophenol; ortho-nitrophenol; para-nitrophenol
 
@@ -3174,9 +3174,7 @@ Poisons List
 
     - Sulphuric acid, except substances containing not more than 70%, weight in weight, of sulphuric acid
 
-  - Part 2
-
-    - Division A
+  - Part 2 Division A
 
     - Antihistamine substances not included in Part 1 of this List; their salts; their compounds with any other substance
 
@@ -3210,7 +3208,7 @@ Poisons List
 
     - (L.N. 234 of 2015; L.N. 235 of 2015)
 
-    - Division B
+  - Division B
 
     - Ammonia
 
