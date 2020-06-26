@@ -18,6 +18,8 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
     - (b) whether or not in his opinion the domicile of the scheme (including any trust established under or for the purposes of the scheme) is Hong Kong;
 
+    - (ba) that the scheme by its terms limits membership of the scheme to eligible persons; (Added 9 of 2020 s. 52)
+
     - (c) that the terms of the scheme do not permit its assets to be used to indemnify any person who manages the scheme or any trustee thereof against any fraud, misfeasance or breach of trust;
 
     - (d) that the terms of the scheme—
@@ -33,6 +35,14 @@ DOCUMENTS REQUIRED FOR REGISTRATION
       - (i) another authorized insurer for the purposes of another insurance arrangement to which that scheme will be subject to or regulated by; or
 
       - (ii) a person who will hold that sum on trust as an asset of that scheme in accordance with the provisions of section 25. (Added 59 of 1993 s. 24)
+
+  - 1A. For an occupational retirement scheme in respect of which there is an application for registration—a statement by an auditor stating, as at a date within 3 months before the date of application—
+
+    - (a) whether or not, in the auditor’s opinion, all members of the scheme are eligible persons in all material respects; and
+
+    - (b) if not, the extent to which the requirement is, in the auditor’s opinion, not complied with.
+
+  - (Added 9 of 2020 s. 52)
 
   - 2. (Where the occupational retirement scheme to which the application relates is an existing scheme) a statement by an auditor stating, in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme)—
 
@@ -62,7 +72,9 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
   - (Amended 59 of 1993 s. 24)
 
-  - 3. A statement by the applicant stating whether or not the requirement of section 25(2) (where the scheme is an existing scheme governed by a trust) has been complied with in relation to the scheme as if it was a registered scheme or (where the scheme is a proposed scheme which will be governed by a trust) will be complied with in relation to the scheme.
+  - 2A. A statement by the applicant stating that all members of the scheme are eligible persons. (Added 9 of 2020 s. 52)
+
+  - 3. A statement by the applicant stating whether or not the requirements of section 25(2) and (5) (if the scheme is an existing scheme governed by a trust) have been complied with in relation to the scheme as if it was a registered scheme or (where the scheme is a proposed scheme which will be governed by a trust) will be complied with in relation to the scheme. (Amended 9 of 2020 s. 52)
 
   - 4. (Where the occupational retirement scheme to which the application relates is an existing scheme) a set of audited accounts (if any) prepared in respect of the scheme in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme).
 
@@ -72,7 +84,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
     - (a) stating that the pooling agreement of which he is the administrator applies to the occupational retirement scheme to which the application relates; and
 
-    - (b) stating whether or not the requirement of section 25(2) (where the scheme is an existing scheme governed by a trust) has been complied with in relation to the scheme as if it was a registered scheme or (where the scheme is a proposed scheme which will be governed by a trust) will be complied with in relation to the scheme.
+    - (b) stating whether or not the requirements of section 25(2) and (5) (if the scheme is an existing scheme governed by a trust) have been complied with in relation to the scheme as if it was a registered scheme or (where the scheme is a proposed scheme which will be governed by a trust) will be complied with in relation to the scheme. (Amended 9 of 2020 s. 52)
 
   - 2. A statement by a solicitor stating—
 
@@ -88,6 +100,8 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
     - (d) that the terms of the pooling agreement do not permit the assets of its participating schemes to be used to indemnify the administrator of the agreement against any fraud, misfeasance or breach of trust;
 
+    - (da) that the scheme by its terms limits membership of the scheme to eligible persons; (Added 9 of 2020 s. 52)
+
     - (e) that the terms of the scheme—
 
       - (i) do not enable any person, without the consent of the scheme’s member concerned, to alter to the member’s detriment either his accrued rights under the scheme or his vested benefits, unless such alteration is consequential upon an amendment to the terms of the scheme consented to by not less than 90% of the members of the scheme; and
@@ -101,6 +115,14 @@ DOCUMENTS REQUIRED FOR REGISTRATION
       - (i) another authorized insurer for the purposes of another insurance arrangement to which that scheme will be subject to or regulated by; or
 
       - (ii) a person who will hold that sum on trust as an asset of that scheme in accordance with the provisions of section 25. (Added 59 of 1993 s. 24)
+
+  - 2A. For an occupational retirement scheme in respect of which there is an application for registration—a statement by an auditor stating, as at a date within 3 months before the date of application—
+
+    - (a) whether or not, in the auditor’s opinion, all members of the scheme are eligible persons in all material respects; and
+
+    - (b) if not, the extent to which the requirement is, in the auditor’s opinion, not complied with.
+
+  - (Added 9 of 2020 s. 52)
 
   - 3. (Where the occupational retirement scheme to which the application relates is an existing scheme) a statement by an auditor stating, in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme),—
 
@@ -131,6 +153,8 @@ DOCUMENTS REQUIRED FOR REGISTRATION
         - (B) (where such review has been conducted) whether or not in his opinion contributions have been made in accordance with the actuarial recommendations (if any) made by the actuary as regards the contributions to be made during the financial year, following the last actuarial review conducted as regards the scheme.
 
   - (Amended 59 of 1993 s. 24)
+
+  - 3A. A statement by the applicant stating that all members of the scheme are eligible persons. (Added 9 of 2020 s. 52)
 
   - 4. (Where the occupational retirement scheme to which the application relates is an existing scheme) a set of audited accounts (if any) prepared in respect of the scheme in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme).
 
@@ -168,7 +192,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
         - (C) on the expiration of a period, where necessary, specified in the certificate, the scheme’s assets would be sufficient to meet the scheme’s aggregate past service liability.
 
-  - 2. Where the scheme to which the application relates is an existing defined benefit scheme A certificate issued by an actuary relating to the last actuarial review conducted as regards the scheme as at a date which shall not be more than 9 months before the date of the application for registration of the scheme, which certificate shall either be—
+  - 2. Where the scheme to which the application relates is a defined benefit scheme existing at the time of application (Amended 9 of 2020 s. 52) A certificate issued by an actuary relating to the last actuarial review conducted as regards the scheme as at a date which shall not be more than 9 months before the date of the application for registration of the scheme, which certificate shall either be—
 
     - (a) a full certificate certifying that—
 
@@ -190,7 +214,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
         - (B) on the expiration of a period, where necessary, specified in the certificate, the scheme’s assets would be sufficient to meet the scheme’s aggregate past service liability; or
 
-    - (b) a qualified certificate certifying—
+    - (b) (for a scheme existing immediately before 15 October 1993) a qualified certificate certifying— (Amended 9 of 2020 s. 52)
 
       - (i) that an actuarial review has been conducted as regards the scheme as of the date specified in the certificate;
 
