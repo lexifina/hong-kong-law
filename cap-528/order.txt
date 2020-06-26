@@ -44,6 +44,9 @@ s-040.md
 s-040A.md
 s-040B.md
 s-040C.md
+s-040CA.md
+s-040CB.md
+s-040CC.md
 s-040D.md
 s-040E.md
 s-040F.md
