@@ -466,6 +466,14 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (k) | to amend the conditions of a licence under section 37(1). (Added 34 of 2018 s. 141 and E.R. 5 of 2018)
 
+76. | Conservation of Antarctic Marine Living Resources (Toothfish Catch Documentation Scheme) Regulation | A decision of the Director of Agriculture, Fisheries and Conservation—
+
+(a) | to attach a condition to a licence under section 14(1);
+
+(b) | to refuse an application for a licence under section 15(1); or
+
+(c) | to cancel a licence under section 16(1)(b), (c), (d) or (e). (Added L.N. 152 of 2019)
+
 (Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
 Note:
