@@ -46,9 +46,7 @@ TOLLS AND FEES
 
 - 2. | Taxis— | $15
 
-- (a) | in which no passenger is carried when using the tunnel; and
-
-- (b) | in respect of which the tolls for the use of the tunnel are settled at toll booths other than autotoll booths
+- (a) in which no passenger is carried when using the tunnel; and (b) in respect of which the tolls for the use of the tunnel are settled at toll booths other than autotoll booths
 
 - 3. | Taxis other than those specified in item 2 and private cars | $25
 
@@ -138,6 +136,8 @@ TOLLS AND FEES
 
   - Tseung Kwan O Tunnel (將軍澳隧道) | $140 | $175 | $215
 
+  - Tuen Mun-Chek Lap Kok Tunnel (屯門-赤鱲角隧道) (L.N. 35 of 2020) | $140 | $175 | $215
+
 - (7 of 2016 s. 18; L.N. 72 of 2018)
 
 - Part 5 Permit Fee
@@ -172,6 +172,8 @@ TOLLS AND FEES
 
 - Tseung Kwan O Tunnel (將軍澳隧道) | $82
 
+- Tuen Mun-Chek Lap Kok Tunnel (屯門-赤鱲角隧道) (L.N. 35 of 2020) | $82
+
 - (7 of 2016 s. 18; L.N. 72 of 2018)
 
-(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35; 49 of 1999 s. 15; L.N. 33 of 2006; L.N. 96 of 2009)
+(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999; 44 of 1999 s. 35; 49 of 1999 s. 15; L.N. 33 of 2006; L.N. 96 of 2009; 7 of 2016 s. 18)
