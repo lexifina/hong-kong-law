@@ -1,8 +1,8 @@
 # Schedule 9
 
-[regs. 24A, 26, 29, 30D, 30E,
+[regs. 24A, 26, 29, 30D, 30E, 36,
 
-36, 36B, 36D & 41]
+36B, 36D & 41]
 
 (2 of 2015 s. 70)
 
@@ -12,7 +12,7 @@ Item | Particular | Fee $
 
 1. | Examination in each subject prescribed by the Board (L.N. 60 of 2001) | 1,110
 
-2. | Issue of a certificate of registration as a pharmacist (L.N. 60 of 2001) | 790
+2. | Issue of a certificate of registration as a pharmacist (L.N. 60 of 2001) | 790 | *
 
 3. | Issue of a duplicate certificate of registration as a pharmacist | 395
 
@@ -46,7 +46,7 @@ Item | Particular | Fee $
 
 16. | Certificate and Interim Certificate for Manufacturer | 2,020
 
-17. | Annual practising certificate for a registered pharmacist (34 of 1995 s. 43; L.N. 60 of 2001) | 520
+17. | Annual practising certificate for a registered pharmacist (34 of 1995 s. 43; L.N. 60 of 2001) | 520 | #
 
 18. | Application for a clinical trial or medicinal test | 1,420
 
@@ -59,3 +59,9 @@ Item | Particular | Fee $
 22. | Issue of a certificate of good standing (L.N. 60 of 2001) | 415
 
 (L.N. 597 of 1994; L.N. 214 of 1997; L.N. 126 of 2006)
+
+Editorial Note:
+
+* | For reduction of fees for certificates of registration during the concession period from 1 July 2020 to 30 June 2023 (both dates inclusive)—see section 3 of L.N. 111 of 2020.
+
+\# | For reduction of fees for practising certificates during the concession period from 1 July 2020 to 30 June 2023 (both dates inclusive)—see section 4 of L.N. 111 of 2020.
