@@ -46,4 +46,4 @@ Exempted Group Gatherings
 
   - (b) in which no food or drink is served (except as part of a religious ritual); and
 
-  - (c) in which measures are in place for restricting the number of participants in the activity to not more than 50% of the number of persons that may normally be accommodated on the premises as a place of worship (L.N. 82 of 2020)
+  - (c) in which measures are in place for restricting the number of participants in the activity to not more than 80% of the number of persons that may normally be accommodated on the premises as a place of worship (L.N. 82 of 2020; L.N. 138 of 2020)
