@@ -18,7 +18,7 @@ Taxi | 3.0 tonnes
 
 Invalid Carriage | 3.0 tonnes
 
-Light Bus | 5.5 tonnes
+Light Bus | 8.5 tonnes
 
 Bus | 24 tonnes
 
@@ -34,7 +34,7 @@ Motor Tricycle | 600 kilograms
 
 Trailer | 38 tonnes
 
-(L.N. 146 of 1990; 19 of 2004 s. 5)
+(L.N. 146 of 1990; 19 of 2004 s. 5; L.N. 39 of 2020)
 
 PART II MAXIMUM WEIGHTS FOR RIGID VEHICLES
 

@@ -14,7 +14,7 @@ Taxi | 6.3 metres | 2.3 metres | 2.0 metres
 
 Invalid Carriage | 6.3 metres | 2.3 metres | 2.0 metres
 
-Light Bus | 7.0 metres | 2.3 metres | 3.0 metres
+Light Bus | 7.5 metres | 2.3 metres | 3.0 metres
 
 Bus
 
@@ -41,3 +41,5 @@ Tricycle | - | 1.1 metres | -
 Trailer | 13.5 metres | 2.5 metres | 4.6 metres
 
 Pedestrian-controlled Vehicle | 4.3 metres | 1.6 metres | -
+
+(L.N. 39 of 2020)
