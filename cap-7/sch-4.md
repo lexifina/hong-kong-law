@@ -1,4 +1,4 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [s. 80]
 

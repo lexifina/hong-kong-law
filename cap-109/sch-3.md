@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 47A]
 
-COMPOUNDING OF OFFENCES
+Compounding of Offences
 
-Dutiable Commodities Ordinance
+Dutiable Commodities Ordinance (Cap. 109) (Amended E.R. 4 of 2020)
 
 Column 1 | Column 2 | Column 3 | Column 4
 
@@ -20,7 +20,7 @@ Section | Offence | When compoundable | Penalty
 
 34A | Failing to declare or making a false or incomplete declaration for the purpose of section 34A(1) or (2) | in circumstance as prescribed under section 34A(1) and (2) | a fine at level 1
 
-Dutiable Commodities Regulations
+Dutiable Commodities Regulations (Cap. 109 sub. leg. A) (Amended E.R. 4 of 2020)
 
 Column 1 | Column 2 | Column 3 | Column 4
 

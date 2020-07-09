@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3 & 4]
 
 (L.N. 110 of 2019)
 
-FEES
+Fees
 
 Item | Matter | Fee $
 

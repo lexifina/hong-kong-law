@@ -1,6 +1,6 @@
 # Schedule
 
-[ss. 5, 6, 8, 10 & 19]
+[ss. 5, 6, 8 & 10] (Amended E.R. 4 of 2020)
 
 Jurisdiction of the Minor Employment Claims Adjudication Board
 

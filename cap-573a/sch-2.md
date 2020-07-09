@@ -1,14 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-REQUIREMENTS REGARDING STRUCTURAL SUITABILITY, MEANS OF ESCAPE, MEANS OF ACCESS FOR FIREFIGHTING AND RESCUE AND FIRE RESISTING CONSTRUCTION
+Requirements regarding Structural Suitability, Means of Escape, Means of Access for Firefighting and Rescue and Fire Resisting Construction
 
 - 1. Structural suitability A karaoke establishment shall be structurally capable of withstanding an imposed load of not less than 5 kPa and be in sound structural condition.
 
-- 2. Compliance with codes of practice concerning
-
-- provision of means of escape, etc.
+- 2. Compliance with codes of practice concerning provision of means of escape, etc.
 
   - (1) The requirements set out in—
 
@@ -34,13 +32,11 @@ REQUIREMENTS REGARDING STRUCTURAL SUITABILITY, MEANS OF ESCAPE, MEANS OF ACCESS 
 
 - 4. Vision panels Every room intended to be used by customers, except toilets, in a karaoke establishment shall have a vision panel that provides a clear view of things on the other side of the panel both from inside and outside the room. The vision panel shall be of a size not less than 0.04 m2 installed either on the wall facing the internal corridors or on the access door of the room.
 
-- 5. Compliance with code of practice concerning
-
-- fire resisting construction The requirements set out in the Code of Practice for Fire Resisting Construction as published from time to time by the Director of Buildings shall be complied with.
+- 5. Compliance with code of practice concerning fire resisting construction The requirements set out in the Code of Practice for Fire Resisting Construction as published from time to time by the Director of Buildings shall be complied with.
 
 - 6. Internal corridors
 
-  - (1) Every internal corridor within a karaoke establishment shall be separated from other areas by a wall having a fire resistance period of not less than one hour (“fire resisting wall”) and the doors in the corridor shall be self-closing and have a fire resistance period of not less than 1/2 hour.
+  - (1) Every internal corridor within a karaoke establishment shall be separated from other areas by a wall having a fire resistance period of not less than one hour (fire resisting wall) and the doors in the corridor shall be self-closing and have a fire resistance period of not less than 1/2 hour.
 
   - (2) Every opening for the passage of air-conditioning ducts, ventilation ducts, electrical trunking, conduits, pipes and wires through a fire resisting wall and every hole in the wall left after construction shall be protected with fire dampers or other form of fire stop that is considered suitable by the licensing authority to maintain the required fire resistance period of the wall. If any such ducts, trunking, conduits, pipes, wires or insulation passing through the wall consist of combustible material, the material shall be contained within an enclosure having a fire resistance period of not less than one hour. Every access opening provided to the enclosure shall be provided with a door having a fire resistance period of not less than 1/2 hour.
 

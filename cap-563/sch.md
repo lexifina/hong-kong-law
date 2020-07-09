@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 4]
 
-PROVISIONS WITH RESPECT TO BOARD OF AUTHORITY AND ITS MEMBERS
+Provisions with respect to Board of Authority and its Members
 
 - 1. Terms and conditions of appointment and dismissal
 

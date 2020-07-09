@@ -130,7 +130,7 @@ Micro-organisms
 
   - (6) An undertaking given pursuant to subparagraph (3) may be varied by way of derogation by agreement between the applicant or proprietor and the person by whom it is given.
 
-  - (7) Where, in respect of a patent to which the undertaking set out in subparagraph 3(a) has effect, a compulsory licence is granted under section 64 of the Ordinance, that undertaking shall not have effect to the extent necessary for effect to be given to any such licence.
+  - (7) Where, in respect of a patent to which the undertaking set out in subparagraph (3)(a) has effect, a compulsory licence is granted under section 64 of the Ordinance, that undertaking shall not have effect to the extent necessary for effect to be given to any such licence. (E.R. 4 of 2020)
 
 - 2A. Making cultures available only to experts
 
@@ -310,9 +310,11 @@ Micro-organisms
 
   - (1) In this Schedule—
 
-    - the Budapest Treaty (《布達佩斯條約》) means the Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest in 1977 as revised or amended from time to time; and (L.N. 35 of 2019)
+    - international depositary authority (國際寄存主管當局) means an institution which has acquired the status of international depositary authority as provided in Article 7 of the Budapest Treaty; (L.N. 35 of 2019; E.R. 4 of 2020)
 
-    - international depositary authority (國際寄存主管當局) means an institution which has acquired the status of international depositary authority as provided in Article 7 of the Budapest Treaty. (L.N. 35 of 2019)
+    - the Budapest Treaty (《布達佩斯條約》) means the Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest in 1977 as revised or amended from time to time. (L.N. 35 of 2019; E.R. 4 of 2020)
+
+  - (E.R. 4 of 2020)
 
   - (2) For the purposes of this Schedule a depositary institution is— (L.N. 35 of 2019)
 

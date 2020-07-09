@@ -1,8 +1,8 @@
-# SCHEDULE 1B
+# Schedule 1B
 
 [s. 2]
 
-SPECIFIED ELIGIBLE AGENTS
+Specified Eligible Agents
 
 - 1. Tradelink Electronic Commerce Limited
 

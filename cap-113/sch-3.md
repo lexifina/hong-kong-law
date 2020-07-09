@@ -1,16 +1,16 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 3(5), 6(2)(c), 13(3) & (4), 14(b) & 20]
 
-PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
+Provisions with respect to the Authority and Committees and their Members
 
 - 1. Interpretation In this Schedule—
 
-  - “Director of Operations” (執行總監) means the principal officer appointed by the Authority to be the Director of Operations for the Authority;
+    - Director of Operations (執行總監) means the principal officer appointed by the Authority to be the Director of Operations for the Authority;
 
-  - “Hospital Chief Executive” (醫院行政總監), in relation to a public hospital, means the person appointed by the Authority to be the Hospital Chief Executive for the public hospital;
+    - Hospital Chief Executive (醫院行政總監), in relation to a public hospital, means the person appointed by the Authority to be the Hospital Chief Executive for the public hospital;
 
-  - “teaching hospital” (敎學醫院) means the Prince of Wales Hospital or the Queen Mary Hospital where such hospital is a public hospital.
+    - teaching hospital (敎學醫院) means the Prince of Wales Hospital or the Queen Mary Hospital where such hospital is a public hospital.
 
 - 2. Terms and conditions of appointment of Chairman The Chief Executive shall determine the terms and conditions of appointment of the Chairman. (Amended 60 of 2000 s. 3)
 
@@ -98,9 +98,9 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
     - (b) provide other benefits for the welfare of employees and their dependants;
 
-    - (c) authorize payments, whether or not legally due, to the personal representatives of a deceased employee or to any person who was dependent on such employee at his death; and (Amended 4 of 1992 s. 7)
+    - (c) authorize payments, whether or not legally due, to the personal representatives of a deceased employee or to any person who was dependent on such employee at his death; and
 
-    - (d) pay to the Government amounts representing the cost of pensions, allowances, gratuities, or pension benefits payable by the Government pursuant to section 5 of the Pensions (Special Provisions) (Hospital Authority) Ordinance (Cap. 80) in respect of service under the Authority rendered by persons transferred from service under the Government to service under the Authority. (Added 4 of 1992 s. 7)
+    - (d) pay to the Government amounts representing the cost of pensions, allowances, gratuities, or pension benefits payable by the Government pursuant to section 5 of the Pensions (Special Provisions) (Hospital Authority) Ordinance (Cap. 80) in respect of service under the Authority rendered by persons transferred from service under the Government to service under the Authority. (Amended 4 of 1992 s. 7)
 
   - (4) The Authority may—
 
@@ -114,7 +114,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (6)
 
-    - In this paragraph “employees” (僱員) includes any class of employee which the Authority specifies and in subparagraph (3) includes former employees.
+    - In this paragraph, employees (僱員) includes any class of employee which the Authority specifies and in subparagraph (3) includes former employees. (Amended E.R. 4 of 2020)
 
 - 11. Members of Regional Advisory Committee The Authority shall appoint to a Regional Advisory Committee established for a region—
 
@@ -208,7 +208,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (2) The committee shall record the disclosure in the minutes of the meeting of the committee.
 
-  - (3) A member who has an interest in a contract referred to subparagraph (1)—
+  - (3) A member who has an interest in a contract referred to in subparagraph (1)— (Amended E.R. 4 of 2020)
 
     - (a) shall not without the permission of the chairman of the committee or other member presiding take any part in any deliberation of the committee with respect to that contract; and
 

@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 46]
 
-OFFENCES AND PENALTIES
+Offences and Penalties
 
 Section | Fine | Imprisonment
 

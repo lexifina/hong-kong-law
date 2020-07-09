@@ -1,3 +1,3 @@
 # Schedule 4
 
-(Omitted as spent)
+(Omitted as spent—E.R. 4 of 2020)

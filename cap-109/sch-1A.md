@@ -6,11 +6,11 @@
 
 (Repealed 32 of 1993 s. 4)
 
-# SCHEDULE 1A
+# Schedule 1A
 
 [s. 2]
 
-SPECIFIED ELECTRONIC SERVICE PROVIDERS
+Specified Electronic Service Providers
 
 - 1. Tradelink Electronic Commerce Limited
 

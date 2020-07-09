@@ -462,14 +462,14 @@ Item | Body
 
 228. | Hong Kong Taxi Association (Added 14 of 2015 s. 11)
 
-229. | Chung Shing Taxi Limited. (Added 11 of 2019 s. 8)
+229. | Chung Shing Taxi Limited (Added 11 of 2019 s. 8. Amended E.R. 4 of 2020)
 
-230. | Hong Kong Air Cargo Carrier Limited. (Added 11 of 2019 s. 8)
+230. | Hong Kong Air Cargo Carrier Limited (Added 11 of 2019 s. 8. Amended E.R. 4 of 2020)
 
-231. | Hong Kong Dumper Truck Drivers Association. (Added 11 of 2019 s. 8)
+231. | Hong Kong Dumper Truck Drivers Association (Added 11 of 2019 s. 8. Amended E.R. 4 of 2020)
 
-232. | Shun Fung Motors Investment Management Company Limited. (Added 11 of 2019 s. 8)
+232. | Shun Fung Motors Investment Management Company Limited (Added 11 of 2019 s. 8. Amended E.R. 4 of 2020)
 
-233. | Taxi Drivers and Operators Association. (Added 11 of 2019 s. 8)
+233. | Taxi Drivers and Operators Association (Added 11 of 2019 s. 8. Amended E.R. 4 of 2020)
 
 (Added 48 of 1999 s. 43. Amended E.R. 5 of 2019)

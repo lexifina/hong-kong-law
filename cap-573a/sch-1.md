@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-FIRE SERVICE REQUIREMENTS FOR KARAOKE ESTABLISHMENT
+Fire Service Requirements for Karaoke Establishment
 
 - 1. Restrictions on location Karaoke establishments shall not be located—
 

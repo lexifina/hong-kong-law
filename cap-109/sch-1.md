@@ -2,7 +2,7 @@
 
 [ss. 3AA & 4] (Amended 46 of 1996 s. 32; 16 of 2008 s. 5)
 
-- PART I DUTY ON LIQUOR
+- Part I Duty on Liquor
 
   - 1. Duty shall be payable on the following types of liquor at the rates, expressed as a percentage of the value (calculated in accordance with section 26A), set out opposite each type of liquor— (Amended L.N. 204 of 1999; 57 of 2000 s. 9)
 
@@ -18,9 +18,11 @@
 
   - 2. Where there is no or insufficient information available from which the Commissioner (or any officer authorized by him in that behalf) is able to determine the value of any quantity of liquor of less than 12 litres, imported at any time in one consignment, he may assess the duty payable on such liquor at the rate of $160 per litre.
 
-  - 3. (Repealed 57 of 2000 s. 9) (Part I replaced 45 of 1994 s. 4)
+  - 3. (Repealed 57 of 2000 s. 9)
 
-- PART II DUTY ON TOBACCO
+- (Part I replaced 45 of 1994 s. 4)
+
+- Part II Duty on Tobacco
 
   - 1. Duty shall be payable on tobacco at the following rates— (Amended L.N. 204 of 1999; 57 of 2000 s. 9)
 
@@ -38,9 +40,11 @@
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette.
 
-  - 3. (Repealed 57 of 2000 s. 9) (Part II replaced 10 of 1988 s. 3)
+  - 3. (Repealed 57 of 2000 s. 9)
 
-- PART III DUTY ON HYDROCARBON OIL
+- (Part II replaced 10 of 1988 s. 3)
+
+- Part III Duty on Hydrocarbon Oil
 
   - 1. Duty shall be payable on hydrocarbon oil (other than ultra low sulphur diesel and Euro V diesel) at the following rates per litre— (Amended L.N. 233 of 2000; L.N. 220 of 2007)
 
@@ -90,7 +94,7 @@
 
   - (Replaced 32 of 1993 s. 5)
 
-  - 5. For the purposes of paragraph 1A, “ultra low sulphur diesel” (超低含硫量柴油) means a light diesel oil which—
+  - 5. For the purposes of paragraph 1A, ultra low sulphur diesel (超低含硫量柴油) means a light diesel oil which—
 
     - (a) contains not more than 0.005% by weight of sulphur as determined by ISO 14596;
 
@@ -106,7 +110,7 @@
 
   - (Added L.N. 233 of 2000. Amended L.N. 220 of 2007)
 
-  - 6. For the purposes of paragraph 1B, “Euro V diesel” (歐盟V期柴油) means a light diesel oil which—
+  - 6. For the purposes of paragraph 1B, Euro V diesel (歐盟V期柴油) means a light diesel oil which—
 
     - (a) contains not more than 10.0 mg/kg of sulphur as determined by ISO 20884;
 
@@ -130,7 +134,7 @@
 
     - (k) contains not more than 0.30% by mass of carbon residue (on 10% distillation residue) as determined by ISO 10370;
 
-    - (l) contains not more than 0.01% by mass of ash as deterimined by ISO 6245;
+    - (l) contains not more than 0.01% by mass of ash as determined by ISO 6245; (Amended E.R. 4 of 2020)
 
     - (m) contains not more than 200 mg/kg of water as determined by ISO 12937;
 
@@ -144,18 +148,18 @@
 
   - Note: In this Part—
 
-    - “IP” followed by a numerical symbol (“IP number”) means the test procedures of the Institute of Petroleum commonly known by that IP number;
+    - IP followed by a numerical symbol (IP number) means the test procedures of the Institute of Petroleum commonly known by that IP number;
 
-    - “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number;
+    - ISO followed by a numerical symbol (ISO number) means the test procedures of the International Organization for Standardization commonly known by that ISO number;
 
-    - “viscosity” (黏度) means the viscosity of diesel as determined by ISO 3104.
+    - viscosity (黏度) means the viscosity of diesel as determined by ISO 3104.
 
   - (Added L.N. 220 of 2007)
 
-- PART IV DUTY ON METHYL ALCOHOL
+- Part IV Duty on Methyl Alcohol
 
   - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $840 per hectolitre measured at a temperature of 20°C and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $28.10 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3; 21 of 1998 s. 2)
 
-- PART V (Repealed 35 of 1992 s. 6)
+- Part V (Repealed 35 of 1992 s. 6)
 
-- PART VI (Repealed 32 of 1993 s. 5)
+- Part VI (Repealed 32 of 1993 s. 5)

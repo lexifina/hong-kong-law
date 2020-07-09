@@ -172,9 +172,9 @@ Item | Body
 
 83. | Aberdeen Fisherwomen Association (Added 25 of 2003 s. 43)
 
-84. | 香港新界本地農協會＋. (Added 11 of 2019 s. 7)
+84. | 香港新界本地農協會＋ (Added 11 of 2019 s. 7. Amended E.R. 4 of 2020)
 
-85. | The Hong Kong Veterinary Association Limited. (Added 11 of 2019 s. 7)
+85. | The Hong Kong Veterinary Association Limited (Added 11 of 2019 s. 7. Amended E.R. 4 of 2020)
 
 (Replaced 48 of 1999 s. 43. Amended E.R. 5 of 2019)
 

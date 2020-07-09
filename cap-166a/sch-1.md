@@ -1,6 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
-FORM 1 | [reg. 3(1)]
+Form 1
+
+[reg. 3(1)]
 
 Application No. .
 
@@ -112,7 +114,7 @@ Dated this day of 19 .
 
 Signed
 
-Applicant.
+Applicant
 
 Note | 1. | You are advised to read the Pawnbrokers Ordinance and the Pawnbrokers Regulations which make provision for the manner in which the business of a pawnbroker is to be carried on. In particular, you should refer to regulation 9 of the Regulations which sets out the conditions to which all licences are subject.
 
@@ -122,11 +124,13 @@ Note | 1. | You are advised to read the Pawnbrokers Ordinance and the Pawnbroker
 
 4. | (Repealed 10 of 2008 s. 65)
 
-(L.N. 222 of 1995)
+(L.N. 222 of 1995; E.R. 4 of 2020)
 
 _
 
-FORM 2 | [reg. 3(3)]
+Form 2
+
+[reg. 3(3)]
 
 Licence No. .
 
@@ -150,15 +154,17 @@ THIS LICENCE shall, unless it is earlier cancelled, cease to have effect on . 19
 
 .
 
-Commissioner of Police.
+Commissioner of Police
 
-(L.N. 222 of 1995)
+(L.N. 222 of 1995; E.R. 4 of 2020)
 
 _
 
-Pawnbrokers Ordinance | [reg. 4]
+Form 3
 
-(Chapter 166) GENERAL BOOK KEPT UNDER SECTION 12 FORM 3 ENTRY IN GENERAL BOOK
+[reg. 4]
+
+Pawnbrokers Ordinance (Chapter 166) GENERAL BOOK KEPT UNDER SECTION 12 ENTRY IN GENERAL BOOK
 
 The . day of . moon of the . year, 19 .
 
@@ -168,9 +174,11 @@ No. of Loan | Date of advancing money on loan | Name of borrower | Number and ty
 
 _
 
-Pawnbrokers Ordinance | [reg. 5]
+Form 4
 
-(Chapter 166) TICKET DELIVERED UNDER SECTION 13(1) FORM 4 Pawn Ticket
+[reg. 5]
+
+Pawnbrokers Ordinance (Chapter 166) TICKET DELIVERED UNDER SECTION 13(1) Pawn Ticket
 
 No. .
 
@@ -204,11 +212,13 @@ No. of Loan | Date of advancing money on loan | Name of borrower | Number and ty
 
 _
 
-FORM 5 | [reg. 6]
+Form 5
+
+[reg. 6]
 
 Pawnbrokers Ordinance (Section 14) (Chapter 166) PAWNBROKERS REGULATIONS Statutory Declaration as to Lost Ticket
 
-To
+To:
 
 (Name of pawnbroker)
 
@@ -240,7 +250,7 @@ Before me .
 
 .
 
-Pawnbroker.
+Pawnbroker
 
 *(delete as required)
 
@@ -248,4 +258,4 @@ Directions to pawnbroker
 
 In taking this declaration you should ask the person so declaring to confirm that he is the person named and described in the declaration, that the contents of the declaration are true and that the signature is his signature.
 
-(L.N. 222 of 1995)
+(L.N. 222 of 1995; E.R. 4 of 2020)
