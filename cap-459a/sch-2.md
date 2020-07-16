@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 22]
 
-MINIMUM AREA OF FLOOR SPACE FOR EACH RESIDENT
+Minimum Area of Floor Space for Each Resident
 
 Item | Type of residential care home | Minimum area per resident
 

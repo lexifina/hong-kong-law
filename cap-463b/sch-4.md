@@ -1,15 +1,15 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 4 & 8]
 
-- PART I TRADE EFFLUENT SURCHARGE RATE MATRIX FOR BILLING PERIOD BEGINNING ON A DATE BETWEEN 1 AUGUST 2008 AND 31 JULY 2009 (BOTH DAYS INCLUSIVE) COD(s)
+- Part I Trade Effluent Surcharge Rate Matrix for Billing Period Beginning on a Date between 1 August 2008 and 31 July 2009 (Both Days Inclusive) COD(s)
 
 - (g/m3) COD(t-s) (g/m3)
 
-- PART II TRADE EFFLUENT SURCHARGE RATE MATRIX FOR BILLING PERIOD BEGINNING ON A DATE BETWEEN 1 AUGUST 2009 AND 31 JULY 2010 (BOTH DAYS INCLUSIVE) COD(s)
+- Part II Trade Effluent Surcharge Rate Matrix for Billing Period Beginning on a Date between 1 August 2009 and 31 July 2010 (Both Days Inclusive) COD(s)
 
 - (g/m3) COD(t-s) (g/m3)
 
-- PART III TRADE EFFLUENT SURCHARGE RATE MATRIX FOR BILLING PERIOD BEGINNING ON OR AFTER 1 AUGUST 2010 COD(s)
+- Part III Trade Effluent Surcharge Rate Matrix for Billing Period Beginning on or after 1 August 2010 COD(s)
 
 - (g/m3) COD(t-s) (g/m3) (Schedule 4 replaced L.N. 106 of 2008 and L.N. 199 of 2008)

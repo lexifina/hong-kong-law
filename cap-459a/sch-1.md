@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 11]
 
-EMPLOYMENT OF STAFF
+Employment of Staff
 
 Type of residential care home
 

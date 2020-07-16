@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 3]
 
-TRADE, BUSINESS OR MANUFACTURE
+Trade, Business or Manufacture
 
 - 1. (Repealed L.N. 106 of 2008)
 

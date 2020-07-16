@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4 & 8]
 
-COD VALUES
+COD Values
 
 Item | Trade, business or manufacture | CODt | CODs
 

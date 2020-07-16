@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3 & Sch. 5] (L.N. 199 of 2008)
 
-TRADE EFFLUENT SURCHARGE RATES
+Trade Effluent Surcharge Rates
 
 Item | Trade, business or manufacture | Rate for billing period beginning on a date between 1 August 2008 and 31 July 2009 (both days inclusive) and ending on a date before 1 August 2009 | Rate for billing period beginning on or after 1 August 2009 and ending before 1 January 2020, or beginning on or after 1 January 2021
 
@@ -62,4 +62,4 @@ $/m3 | $/m3
 
 27. | restaurants | 3.05 | 3.05
 
-(Schedule 1 replaced L.N. 106 of 2008. L.N. 199 of 2008, L.N. 105 of 2019)
+(Schedule 1 replaced L.N. 106 of 2008. L.N. 199 of 2008; L.N. 105 of 2019)
