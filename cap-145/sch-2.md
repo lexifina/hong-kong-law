@@ -46,4 +46,10 @@ Item | Substance
 
 20. | N-phenethyl-4-piperidone (N-苯乙基-4-哌啶酮) (*) (Added L.N. 75 of 2018)
 
+21. | Alpha-phenylacetoacetamide (α-乙酰乙酰苯胺) (*) (Added L.N. 91 of 2020)
+
+22. | 3,4-MDP-2-P methyl glycidate (3,4-亞甲基二氧苯基-2-丙酮甲基縮水甘油) (*) (Added L.N. 91 of 2020)
+
+23. | 3,4-MDP-2-P methyl glycidic acid (3,4-亞甲基二氧苯基-2-丙酮甲基縮水甘油酸) (*) (Added L.N. 91 of 2020)
+
 (*) | Including the salts of these substances whenever the existence of such salts is possible.
