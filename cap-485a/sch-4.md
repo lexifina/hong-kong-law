@@ -42,6 +42,8 @@ Financial Penalties
 
 - 4 | 22B | Approved trustee to pay annual registration fee | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
+- 4AA | 22C | Approved trustee to ensure that no fee is charged to registered schemes, constituent funds or scheme members for annual registration fees payable under section 22B of the Ordinance (16 of 2020 s. 11) | $5,000 or 10% of the amount of the fee charged, whichever is the greater
+
 - 4A | 27(2A) | Approved trustee to invest accrued benefits according to selection of scheme member as permitted under the governing rules (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
 - 4B | 34DB(1)(a) | Approved trustee to provide in the governing rules a default investment strategy that complies with Part 2 of Schedule 10 to the Ordinance (9 of 2016 s. 26) | if approved trustee fails to provide in the governing rules of a registered scheme a default investment strategy that complies with Part 2 of Schedule 10 to the Ordinance— (a) in the case of the first occasion on which the trustee fails to do so, a daily penalty of $10,000 for each day on which the failure continues; (b) in the case of the second occasion on which the trustee fails to do so, a daily penalty of $20,000 for each day on which the failure continues; and (c) in the case of the third or subsequent occasion on which the trustee fails to do so, a daily penalty of $50,000 for each day on which the failure continues

@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 2 & 3] (L.N. 109 of 2017)
+[ss. 1A, 2 & 3] (16 of 2020 s. 13)
 
 Fees Prescribed for the Purposes of the Mandatory Provident Fund Schemes Ordinance (Cap. 485)
 
@@ -14,7 +14,11 @@ Item | Relevant section of the Ordinance | Description | Amount
 
 3. | 21A | Fee payable when an application is lodged with the Authority for registration of a provident fund scheme as an industry scheme | $40,000
 
-4. | 22B | Annual registration fee payable in respect of a registered scheme | An amount equal to 0% of the net asset value of the scheme as at the end of the immediately preceding financial period
+4. | 22B | Annual registration fee payable in respect of a registered scheme | An amount equal to—
+
+(a) | if the immediately preceding financial period of the scheme ends before 1 October 2020—0% of the net asset value of the scheme as at the end of that period; or
+
+(b) | if the immediately preceding financial period of the scheme ends on or after 1 October 2020—0.03% of the net asset value of the scheme as at the end of that period (16 of 2020 s. 13)
 
 5. | 34 | Fee payable when an application is lodged with the Authority in respect of the voluntary winding up of an employer sponsored scheme | Nil
 

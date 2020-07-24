@@ -10,6 +10,7 @@ s-006A.md
 s-006B.md
 s-006C.md
 s-006D.md
+s-006DA.md
 s-006E.md
 s-006F.md
 s-006G.md
@@ -80,6 +81,7 @@ s-021C.md
 s-022.md
 s-022A.md
 s-022B.md
+s-022C.md
 s-023.md
 s-024.md
 s-025.md
