@@ -34,6 +34,10 @@ Scheduled Premises
 
 - 12. | Massage establishment (L.N. 33 of 2020)
 
+- 13. | Sports premises (L.N. 150 of 2020)
+
+- 14. | Swimming pool (L.N. 150 of 2020)
+
 - Part 2 Interpretation
 
   - 1. In this Schedule—
@@ -90,4 +94,38 @@ Scheduled Premises
 
       - (c) a public skating rink within the meaning of that section;
 
-    - place of public entertainment (公眾娛樂場所) has the meaning given by section 2 of the Places of Public Entertainment Ordinance (Cap. 172).
+    - place of public entertainment (公眾娛樂場所) has the meaning given by section 2 of the Places of Public Entertainment Ordinance (Cap. 172); (L.N. 150 of 2020)
+
+    - sports premises (體育處所)—
+
+      - (a) means any premises (other than a fitness centre, a place of amusement and a swimming pool) designed for indoor or outdoor sporting activities (whether on land or not)—
+
+        - (i) to which the public have access (whether on payment or otherwise); or
+
+        - (ii) that are operated by any club, institution, association or other organization; and
+
+      - (b) includes the following land and structures within the premises—
+
+        - (i) any pitch;
+
+        - (ii) any running track;
+
+        - (iii) any sidewalk immediately adjacent to the pitch or running track; and
+
+        - (iv) any spectator stand; (L.N. 150 of 2020)
+
+    - swimming pool (泳池)—
+
+      - (a) means any artificially constructed pool used for swimming or bathing (other than a pool specifically designed for use for hydrotherapy or other treatment purpose and a bathhouse)—
+
+        - (i) to which the public have access (whether on payment or otherwise); or
+
+        - (ii) that is operated by any club, institution, association or other organization; and
+
+      - (b) includes—
+
+        - (i) any sidewalk immediately adjacent to the pool;
+
+        - (ii) any facility adjoining the pool; and
+
+        - (iii) any spectator stand of the pool. (L.N. 150 of 2020)
