@@ -1,145 +1,173 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3, 6, 7 & 11]
 
-FORM 1 | [s. 3]
+- Form 1
 
-BEDSPACE APARTMENTS ORDINANCE
+- [s. 3]
 
-(Chapter 447) Notice of Appeal under section 26
+- BEDSPACE APARTMENTS ORDINANCE
 
-Before completing this form read the note below.
+- (Chapter 447)
 
-To: | Chairman of the Appeal Board
+- Notice of Appeal under section 26
 
-1. | Full name of Appellant:
+- Before completing this form read the note below.
 
-2. | Address of Appellant:
+- To: | Chairman of the Appeal Board
 
-Telephone No.:
+- 1. | Full name of Appellant:
 
-3. | Address of Appellant or name and address of duly authorized representative for service if different from the above:
+- 2. | Address of Appellant:
 
-4. | Details of decision appealed against: (Attach copy of decision and indicate the particular aspect which is the subject of the appeal)
+- Telephone No.:
 
-5. | Grounds of appeal:
+- 3. | Address of Appellant or name and address of duly authorized representative for service if different from the above:
 
-6. | Evidence to be adduced:
+- 4. | Details of decision appealed against: (Attach copy of decision and indicate the particular aspect which is the subject of the appeal)
 
-7. | Names of witnesses:
+- 5. | Grounds of appeal:
 
-8. | Documents to be produced:
+- 6. | Evidence to be adduced:
 
-Dated this . day of . 19 .
+- 7. | Names of witnesses:
 
-Appellant.
+- 8. | Documents to be produced:
 
-Please note:
+- Dated this . day of . 19 .
 
-1. | This form is to be used by a person who is aggrieved by a decision of the Authority under section 8, 9, 10, 12, 13, 14, 15 or 21 of the Ordinance.
+- Appellant
 
-2. | This form must be completed in accordance with the directions in the form and served on the Chairman of the Appeal Board at the office of the Home Affairs Bureau not more than 28 days after you received notice from the Authority of the decision you wish to appeal against.
+- Please note:
 
-3. | At the same time, you are required to serve a copy of this notice on the Authority either personally or by registered post addressed to the last known address of the Authority.
+- 1. | This form is to be used by a person who is aggrieved by a decision of the Authority under section 8, 9, 10, 12, 13, 14, 15 or 21 of the Ordinance.
 
-4. | The particulars set out in paragraphs 5 to 8 of the form should be sufficient to fully inform the Chairman and the Authority of the nature of the appeal. However, you may also be required to furnish further particulars or produce documents for the inspection of the Authority.
+- 2. | This form must be completed in accordance with the directions in the form and served on the Chairman of the Appeal Board at the office of the Home Affairs Bureau not more than 28 days after you received notice from the Authority of the decision you wish to appeal against.
 
-5. | You are advised to read the Bedspace Apartments Ordinance and the Bedspace Apartments (Appeal Board) Regulation before serving this notice of appeal.
+- 3. | At the same time, you are required to serve a copy of this notice on the Authority either personally or by registered post addressed to the last known address of the Authority.
 
-(L.N. 362 of 1997)
+- 4. | The particulars set out in paragraphs 5 to 8 of the form should be sufficient to fully inform the Chairman and the Authority of the nature of the appeal. However, you may also be required to furnish further particulars or produce documents for the inspection of the Authority.
 
-_
+- 5. | You are advised to read the Bedspace Apartments Ordinance and the Bedspace Apartments (Appeal Board) Regulation before serving this notice of appeal.
 
-FORM 2 | [ss. 6 & 11]
-
-BEDSPACE APARTMENTS ORDINANCE (Chapter 447) Notice of Date, Time and Place Fixed
-
-for Hearing of an Appeal
-
-Appeal No.: . of 19 .
-
-In the matter of the Appeal lodged by
-
-(Appellant) against
-
-To: . (Appellant)
-
-And to the Bedspace Apartments Authority:
-
-TAKE NOTICE that the above appeal will be heard at
-
-. on the . day of .19 . at
-
-To the Appellant: TAKE NOTICE that if you do not attend at the place and time mentioned, either in person or by a barrister or solicitor duly authorized to appear on your behalf, the appeal may be postponed or adjourned for reasonable cause or may be dismissed or heard in your absence.
-
-Dated this . day of . 19 .
-
-Chairman of the Appeal Board.
-
-This notice was served by me on
-
-at
-
-on the . day of . 19 .
-
-Recipient of notice. | Process server.
+- (L.N. 362 of 1997; E.R. 4 of 2020)
 
 _
 
-FORM 3 | [s. 7]
+- Form 2
 
-BEDSPACE APARTMENTS ORDINANCE (Chapter 447) Application for Summons to a Witness
+- [ss. 6 & 11]
 
-Appeal No.: . of 19 .
+- BEDSPACE APARTMENTS ORDINANCE
 
-To: Chairman of the Appeal Board
+- (Chapter 447)
 
-Whereas | of
+- Notice of Date, Time and Place Fixed for Hearing of an Appeal
 
-is likely to give material evidence in respect of the above appeal, I
+- Appeal No.: . of 19 .
 
-. apply for a summons to be issued to the said
+- In the matter of the Appeal lodged by
 
-.requiring him to attend the hearing of the appeal for that purpose./*and to bring with him and produce the following documents:
+- (Appellant) against
 
-Documents required to be produced
+- To: | (Appellant)
 
-Dated this . day of . 19 .
+- And to the Bedspace Apartments Authority:
 
-*Appellant/Authority.
+- TAKE NOTICE that the above appeal will be heard at
 
-*Delete as necessary.
+- . on the . day of .19 . at
+
+- To the Appellant:
+
+- TAKE NOTICE that if you do not attend at the place and time mentioned, either in person or by a barrister or solicitor duly authorized to appear on your behalf, the appeal may be postponed or adjourned for reasonable cause or may be dismissed or heard in your absence.
+
+- Dated this . day of . 19 .
+
+- Chairman of the Appeal Board
+
+- This notice was served by me on
+
+- at
+
+- on the . day of . 19 .
+
+- Recipient of notice | Process server
+
+- (E.R. 4 of 2020)
 
 _
 
-FORM 4 | [s. 7]
+- Form 3
 
-BEDSPACE APARTMENTS ORDINANCE (Chapter 447) Summons to a Witness
+- [s. 7]
 
-Appeal No.: . of 19 .
+- BEDSPACE APARTMENTS ORDINANCE
 
-In the matter of the Appeal lodged by
+- (Chapter 447)
 
-(Appellant) against
+- Application for Summons to a Witness
 
-To:
+- Appeal No.: . of 19 .
 
-YOU ARE SUMMONED to attend at
+- To: Chairman of the Appeal Board
 
-on the . day of . 19 . at . and from day to day, until the proceedings are heard, to give evidence in the above appeal and also to bring with you and produce the following documents:
+- Whereas | of
 
-Documents required to be produced
+- is likely to give material evidence in respect of the above appeal, I
 
-This summons was issued on behalf of
+- . apply for a summons to be issued to the said
 
-Dated this . day of . 19 .
+- .requiring him to attend the hearing of the appeal for that purpose./*and to bring with him and produce the following documents:
 
-Chairman of the Appeal Board.
+- Documents required to be produced
 
-This notice was served by me on
+- Dated this . day of . 19 .
 
-at
+- *Appellant/Authority
 
-on the . day of . 19 .
+- *Delete as necessary.
 
-Recipient of notice. | Process server.
+- (E.R. 4 of 2020)
+
+_
+
+- Form 4
+
+- [s. 7]
+
+- BEDSPACE APARTMENTS ORDINANCE
+
+- (Chapter 447)
+
+- Summons to a Witness
+
+- Appeal No.: . of 19 .
+
+- In the matter of the Appeal lodged by
+
+- (Appellant) against
+
+- To:
+
+- YOU ARE SUMMONED to attend at
+
+- on the . day of . 19 . at . and from day to day, until the proceedings are heard, to give evidence in the above appeal and also to bring with you and produce the following documents:
+
+- Documents required to be produced
+
+- This summons was issued on behalf of
+
+- Dated this . day of . 19 .
+
+- Chairman of the Appeal Board
+
+- This notice was served by me on
+
+- at
+
+- on the . day of . 19 .
+
+- Recipient of notice | Process server
+
+- (E.R. 4 of 2020)
