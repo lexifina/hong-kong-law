@@ -74,9 +74,9 @@ FREEBOARD ASSIGNMENT
 
   - RTL | not permitted | ─ | not permitted | ─
 
-  - special purpose vessel | HKW | HKLLC | HKLLC | HKLLC | HKLLC
+  - special purpose vessel | HKW | HKLLC | HKLLC | FAC | FAC
 
-  - RTL | HKLLC | HKLLC | HKLLC | HKLLC
+  - RTL | HKLLC | HKLLC | not permitted | not permitted
 
   - stationary vessel | HKW | ─ | (2) | ─ | (2)
 
@@ -101,6 +101,8 @@ FREEBOARD ASSIGNMENT
   - work boat | HKW | (2) | (2) | (2) | (2)
 
   - RTL | not permitted | not permitted | not permitted | not permitted
+
+  - (L.N. 70 of 2020)
 
   - Abbreviations:
 
@@ -132,17 +134,19 @@ FREEBOARD ASSIGNMENT
 
   - (L)≤30 | 380 | 530
 
-  - (L)≤40 | 500 | 650
+  - (L)=40 | 500 | 650
 
-  - (L)≤50 | 660 | 710
+  - (L)=50 | 660 | 810
 
-  - (L)≤60 | 850 | 1 000
+  - (L)=60 | 850 | 1 000
 
-  - (L)≤70 | 1 080 | 1 230
+  - (L)=70 | 1 080 | 1 230
 
-  - (L)≤80 | 1 330 | 1 480
+  - (L)=80 | 1 330 | 1 480
 
-  - (L)≤90 | 1 600 | 1 750
+  - (L)=90 | 1 600 | 1 750
+
+  - (L.N. 70 of 2020)
 
   - Freeboard of intermediate lengths shall be obtained by interpolation.
 

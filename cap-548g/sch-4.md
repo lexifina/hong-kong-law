@@ -74,7 +74,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - engine control room | 1
 
-  - engine room | 3 | 4 | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 3 and not more than 6 in each room
+  - engine room | 3 | 4 | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 4 and not more than 6 in each room
 
   - machinery space | 1 within each space
 
@@ -90,11 +90,11 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - manual
 
-  - fire main + hose + hydrant + jet nozzle | 1 set | 1 set to be provided for each pump(6)
+  - fire main + hose + hydrant + jet nozzle | ─ | 1 set | 1 set to be provided for each pump(6)
 
   - fireman’s axe | ─ | 1
 
-  - Notes:
+  - (L.N. 70 of 2020) Notes:
 
   - (1) The requirement for a local vessel of 75 m or more in length shall be specified by the Director on a case-by-case basis.
 
@@ -190,7 +190,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - Vessel length (L) (m) Fire-fighting apparatus | (L)<12 | 12≤(L)<24 | 24≤(L)<75(2)
 
-  - For both Category A vessels and Category B vessels
+  - For Class II Category A or B vessels(3) and Class IV vessels
 
   - portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
 
@@ -206,7 +206,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - fire bucket with lanyard(4) | 1 | 2 | 3
 
-  - For Category A vessels only
+  - For Class II Category A vessels only
 
   - main fire | power | 1(5) | 1(5) | 1(6)
 
@@ -218,7 +218,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8)
 
-  - (L.N. 154 of 2019) Notes:
+  - (L.N. 154 of 2019; L.N. 70 of 2020) Notes:
 
   - (1)
 
@@ -230,7 +230,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (3) For a Class II vessel that falls within paragraph (b) of Schedule 2, instead of the fire-fighting apparatus stated in the Table, at least 1 fire bucket with lanyard is required. (L.N. 154 of 2019)
 
-  - (4) Applicable to Category B vessels only. If a fire main is provided, then no fire bucket is required.
+  - (4) For Class II Category B vessels and Class IV vessels, if a fire main is provided, then no fire bucket is required. (L.N. 70 of 2020)
 
   - (5) The fire pump and its sea suction shall be situated outside the engine room.
 
@@ -254,7 +254,9 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - service space | 1 within each space
 
-  - workshop | 1 within not more than 10 m walking distance, but at least 2 on each deck, and not less than half shall be foam/CO2 fire extinguishers
+  - galley | 1 within not more than 10 m walking distance, but at least 2 on each deck, and not less than half must be foam/CO2 fire extinguishers
+
+  - workshop
 
   - portable fire extinguisher | engine control room | at least 2 and not more than 6 in each room
 
@@ -290,7 +292,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - international shore connection device | 1 for each wing | ─ | ─
 
-  - Notes:
+  - (L.N. 70 of 2020) Notes:
 
   - (1) Requirements in angle brackets (“< >”) are for new vessels only.
 
@@ -332,7 +334,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - hydrant | engine room | ─ | 1 | 1 | 1 | 2
 
-  - spray nozzle | ─ | 1 on each deck 1 in each engine room | 1 on each deck 1 in each engine room | 2 on each deck 1 in each engine room | 2 on each deck 1 in each engine room
+  - spray nozzle | ─ | 1 on each deck 1 in each engine room | 1 on each deck 1 in each engine room | 2 on each deck 1 in each engine room | 2 on each deck 2 in each engine room
 
   - foam applicator + 2 × 20 L mobile foam | ─ | ─ | ─ | ─ | 1
 
@@ -406,11 +408,63 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (4) The fire pump and its sea suction shall be situated outside the engine room.
 
-- Table 7 Class III vessels
+- Table 6A Class II vessels—oil carriers that operate within waters of Hong Kong
+
+  - Vessel length (L) (m) Fire-fighting Apparatus | (L) <24 | 24≤(L) <37 | 37≤(L) <50 | 50≤(L) <60 | 60≤(L) <75(1)
+
+  - portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
+
+  - wheel house | 1
+
+  - galley | 1
+
+  - engine control rooms | 1
+
+  - engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
+
+  - machinery space | 1 within each space
+
+  - non-portable fire extinguisher | engine room | — | — | 1 | 1 | 1
+
+  - fixed CO2 fire extinguishing system(2) | engine room | gas quantity, storage, piping, nozzle, alarm, location and arrangement must be in accordance with the relevant plans approved under Part 3 of this Regulation
+
+  - cargo pump room
+
+  - main fire pump | power | 1(3) | 1 | 1 | 1 | 2
+
+  - emergency fire pump | power | 1(4) | 1(4) | 1(4) | 1(4) | 1(4)
+
+  - manual | — | —
+
+  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement must be in accordance with the relevant plans approved under Part 3 of this Regulation
+
+  - hydrant | engine room | — | 1 | 1 | 1 | 2
+
+  - spray nozzle | 1 on each deck | 1 on each deck 2 in each engine room | 1 on each deck 2 in each engine room | 2 on each deck 2 in each engine room | 3 on each deck 2 in each engine room
+
+  - foam applicator + 2 × 20 L mobile foam | engine room | — | 1 | 1 | 1 | 1
+
+  - cargo manifold area | — | 1 | 1 | 1 | 1
+
+  - fire control plan | <1>(5) | 1
+
+  - Notes:
+
+  - (1) The requirement for a Class II vessel of 75 m or more in length is to be specified by the Director on a case-by-case basis.
+
+  - (2) In vessels having cargoes with flash point exceeding 60℃ (closed cup test), such system may be substituted by a non-portable fire extinguisher if it can be satisfactorily demonstrated that the jet of the fire extinguishing media can reach any part of the engine room and cargo pump room.
+
+  - (3) The fire pump may be propulsion engine driven, provided that it can be readily engaged to the engine.
+
+  - (4) The emergency fire pump and its sea suction must be situated outside the engine room.
+
+  - (5) Requirement in pair of angle brackets (“< >”) is applicable to new vessels only.
+
+- (L.N. 70 of 2020) Table 7 Class III vessels
 
   - Fire-fighting apparatus | Category of vessel | A | B(1), (1A) and (1B)
 
-  - Vessel length (L) (M) | (L)<30 | 30≤(L)<45(2) | (L)<10 | (L)≥10
+  - Vessel length (L) (M) | (L)<30 | 30≤(L)<45(2) | (L)<10 | (L)≥10(2)
 
   - portable fire extinguisher | accommodation space | 1 | 2 | 1 | 1 within not more than 10 m walking distance, but at least 2 and not more than 4 within each space
 
@@ -418,7 +472,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - engine room | 2 | 4
 
-  - machinery space | 2 | 4
+  - machinery space | 1 | 1
 
   - non-portable fire extinguisher | engine room | ─ | 1 | ─ | ─
 
@@ -428,7 +482,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - fire pump | manual
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─ | <1>(5) and (6)
+  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─ | <1 set>(5) and (6)
 
   - hydrant | engine room | 1 | 1 | ─ | ─
 
@@ -440,7 +494,7 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - <fire detection and alarm system>(6) | engine room | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | ─ | ─
 
-  - (L.N. 154 of 2019) Notes:
+  - (L.N. 154 of 2019; L.N. 70 of 2020) Notes:
 
   - (1) For a fishing sampan made of glass reinforced plastic, only the following fire-fighting apparatus are required—
 

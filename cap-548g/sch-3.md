@@ -16,25 +16,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - (c) placed in a position easily accessible.
 
-  - 3. Plans to be kept on board the vessel
-
-    - (1) There shall be kept at all times on board a local vessel to which Part 3 of this Regulation applies one set of plans that contain the following information in so far as such information is applicable to the vessel—
-
-      - (a) the general arrangements of the vessel;
-
-      - (b) if the vessel is involved in the carriage of passengers, the seating arrangements and escape routes;
-
-      - (c) the types and dispositions of life-saving appliances, fire-fighting apparatus and lights and sound signals; and
-
-      - (d) its stability information.
-
-    - (2) Without prejudice to subsection (1)—
-
-      - (a) the set of plans containing information referred to in subsection (1)(a), (b) and (c); and
-
-      - (b) instructions to be followed in the case of an emergency,
-
-    - shall be displayed at all times in conspicuous places throughout every Class I vessel or Class IV vessel that is licensed to carry more than 100 passengers.
+  - 3. (Repealed L.N. 70 of 2020)
 
   - 4. Provision of lifebuoys
 
@@ -234,7 +216,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - buoyant apparatus | 100%(1), (3) and (4)
 
-  - inflatable liferaft | 100%(1) | 100%(1) and (3)
+  - inflatable liferaft | 100%(1) | 100%(1), (3) and (4)
 
   - <motor lifeboat>(5) | 100%(1) and (6)
 
@@ -246,7 +228,7 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - rocket parachute flare(4) | 6
 
-  - (L.N. 187 of 2016; L.N. 154 of 2019) Notes:
+  - (L.N. 187 of 2016; L.N. 154 of 2019; L.N. 70 of 2020) Notes:
 
   - (1) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
 
