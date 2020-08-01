@@ -4,6 +4,4 @@
 
 Maximum Amount of Penalty
 
-(Not yet in operation)
-
 $300,000

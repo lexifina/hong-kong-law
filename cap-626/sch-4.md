@@ -4,8 +4,6 @@
 
 Transitional Provisions
 
-(Not yet in operation)
-
 - 1. Provisional PMP licences
 
   - (1) The Authority may, on application, issue—

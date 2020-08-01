@@ -4,8 +4,6 @@
 
 Property Management Services
 
-(Not yet in operation)
-
 Column 1 | Column 2
 
 Item | Category of services
