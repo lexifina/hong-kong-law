@@ -364,6 +364,8 @@ Director of Marine | Merchant Shipping (Prevention of Pollution by Garbage) Regu
 
 Director of Marine | Merchant Shipping (Prevention of Air Pollution) Regulation (Cap. 413 sub. leg. P), section 99. (L.N. 9 of 2020)
 
+Director of Marine | Merchant Shipping (Control of Ballast Water and Sediments) Regulation (Cap. 413 sub. leg. Q), section 40. (L.N. 9 of 2020)
+
 Director of Marine | Merchant Shipping (Seafarers) (Health and Safety: General Duties) Regulation (Cap. 478 sub. leg. C), section 7A. (L.N. 9 of 2020)
 
 Director of Marine | Merchant Shipping (Seafarers) (Hours of Rest) Regulation (Cap. 478 sub. leg. D), section 3(2). (L.N. 9 of 2020)
