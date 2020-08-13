@@ -17,3 +17,5 @@ Specified Services
 - 6. An initial survey, renewal survey, intermediate survey, annual survey or additional survey within the meaning of the Merchant Shipping (BCH Code) Regulations (Cap. 413 sub. leg. D). (L.N. 90 of 2018)
 
 - 7. An initial survey, renewal survey, intermediate survey, annual survey or additional survey within the meaning of the Merchant Shipping (IBC Code) Regulations (Cap. 413 sub. leg. E). (L.N. 90 of 2018)
+
+- 8. An initial survey, renewal survey, intermediate survey, annual survey or additional survey within the meaning of the Merchant Shipping (Control of Ballast Water and Sediments) Regulation. (L.N. 90 of 2018)
