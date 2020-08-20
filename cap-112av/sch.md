@@ -1,8 +1,10 @@
-# SCHEDULE
+* The Agreement between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of the Hashemite Kingdom of Jordan concerning Air Services was established in a single original in the English and Arabic languages. Both the English and Arabic language texts of the Agreement are available for inspection at the Transport and Housing Bureau of the Government of the HKSAR. (L.N. 130 of 2007)
+
+# Schedule
 
 [s. 2]
 
-ARTICLE 9 OF THE AGREEMENT BETWEEN THE GOVERNMENT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE’S REPUBLIC OF CHINA AND THE GOVERNMENT OF THE HASHEMITE KINGDOM OF JORDAN CONCERNING AIR SERVICES
+Article 9 of the Agreement between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of the Hashemite Kingdom of Jordan concerning Air Services
 
 - Article 9 Avoidance of Double Taxation
 
