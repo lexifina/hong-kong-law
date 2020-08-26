@@ -47,3 +47,5 @@
 - 30. The area within the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port that is set aside as detention quarters for use by the Immigration Department. (L.N. 153 of 2017)
 
 - 31. The area within the West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) that is set aside as detention quarters for use by the Immigration Department. (L.N. 109 of 2018)
+
+- 32. The area within the Passenger Terminal Building at Heung Yuen Wai Boundary Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 162 of 2018)
