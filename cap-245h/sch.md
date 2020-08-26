@@ -26,6 +26,8 @@
 
 - 2F. | The following persons— (a) the drivers of road vehicles— (i) who enter the Frontier Closed Area for the sole purpose of allowing road vehicles to be weighed in compliance with a requirement under section 65 of the Road Traffic Ordinance (Cap. 374); or (ii) who leave that Area after allowing road vehicles to be so weighed; or (b) the passengers on those road vehicles. | At any time | (a) The driver under paragraph (a)(ii) in the second column, must leave that Area without undue delay. (b) The driver or passenger must not leave the immediate vicinity of the vehicle. (L.N. 218 of 2015)
 
+- 2G. | The following persons— (a) the drivers of road vehicles to or from the Mainland of China, leaving or entering Hong Kong via Heung Yuen Wai Boundary Control Point; (b) the cross-boundary passengers on road vehicles to or from the Mainland of China, leaving or entering Hong Kong via Heung Yuen Wai Boundary Control Point; (c) the persons who leave or enter Hong Kong via the Heung Yuen Wai Passenger Terminal Building (other than the passengers described in paragraph (b)). | At any time | The driver— (a) must not leave the immediate vicinity of the vehicle; and (b) must leave the Frontier Closed Area without undue delay. The passenger— (a) must not leave the immediate vicinity of the vehicle; and (b) must leave the Frontier Closed Area without undue delay. The person must leave the Frontier Closed Area without undue delay. (L.N. 161 of 2018)
+
 - Part 2
 
 - Item | Persons permitted to enter or leave | Times
