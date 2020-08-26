@@ -33,3 +33,5 @@ Specified Control Points
 14. | West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) (Added L.N. 111 of 2018)
 
 15. | Hong Kong-Zhuhai-Macao Bridge Hong Kong Port (Added L.N. 199 of 2018)
+
+16. | Heung Yuen Wai Boundary Control Point (Added L.N. 156 of 2020)
