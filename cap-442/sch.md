@@ -474,6 +474,8 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (c) | to cancel a licence under section 16(1)(b), (c), (d) or (e). (Added L.N. 152 of 2019)
 
+77. | Limited Partnership Fund Ordinance (14 of 2020) | A direction of the Registrar of Companies to change the name of a limited partnership fund under section 42 or 43. (Added 14 of 2020 s. 121)
+
 (Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
 Note:

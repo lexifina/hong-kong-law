@@ -484,6 +484,8 @@ Registrar of Companies | Registered Trustees Incorporation Ordinance (Cap. 306).
 
 Registrar of Companies | Companies Ordinance (Cap. 622).
 
+Registrar of Companies | Limited Partnership Fund Ordinance (14 of 2020). (14 of 2020 s. 101)
+
 Registrar of Co-operative Societies | Co-operative Societies Ordinance (Cap. 33).
 
 Registrar of Co-operative Societies | J. E. Joseph Trust Fund Ordinance (Cap. 1067), sections 3, 4, 5, 6 and 7.

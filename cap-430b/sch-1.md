@@ -16,6 +16,8 @@ Services to be Provided by the Trading Fund
 
 - 4A. Administering and enforcing the provisions of the Securities and Futures Ordinance (Cap. 571) relating to open-ended fund companies, including facilitating the incorporation of open-ended fund companies and maintaining a register of open-ended fund companies. (16 of 2016 s. 45)
 
+- 4B. Administering and enforcing the provisions of the Limited Partnership Fund Ordinance (14 of 2020) relating to limited partnership funds, including facilitating the registration of limited partnership funds and maintaining a register of limited partnership funds. (14 of 2020 s. 120)
+
 - 5. Making available, where the Registrar of Companies is so required or permitted by law, information registered or filed with the Registrar.
 
 - 6. Monitoring the adequacy of the regulatory framework embodied in any Ordinance referred to in this Schedule and in other Ordinances where the Registrar of Companies has been specified, and advising the Government on any need for change.
