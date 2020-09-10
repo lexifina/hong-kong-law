@@ -1,40 +1,42 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [reg. 72]
 
-PERSONS WITH A DISABILITY
+Persons with a Disability
 
-- PART 1 PRELIMINARY
+(Format changes—E.R. 5 of 2020)
+
+- Part 1 Preliminary
 
   - 1. Interpretation For the purposes of this Schedule, unless the context otherwise requires—
 
-    - “access” (通道) means any means that enable persons with a disability to approach, enter and leave the building and to use the facilities in the building without assistance or undue difficulties;
+    - access (通道) means any means that enable persons with a disability to approach, enter and leave the building and to use the facilities in the building without assistance or undue difficulties;
 
-    - “accessible” (暢通易達), in relation to a site, building or facility or a portion of it, means the site, building, facility or portion—
+    - accessible (暢通易達), in relation to a site, building or facility or a portion of it, means the site, building, facility or portion—
 
       - (a) can be approached, entered and used conveniently by persons with a disability; and
 
       - (b) complies with this Schedule;
 
-    - “accessible lift” (暢通易達升降機) means a lift that complies with the requirements set out in Division 19 of Part 2;
+    - accessible lift (暢通易達升降機) means a lift that complies with the requirements set out in Division 19 of Part 2;
 
-    - “assistive listening system” (聆聽輔助系統) means a system that enables sound signs that are amplified in both volume and signal to be transmitted to persons with hearing impairment without interference from background noise or excessive reverberation;
+    - assistive listening system (聆聽輔助系統) means a system that enables sound signs that are amplified in both volume and signal to be transmitted to persons with hearing impairment without interference from background noise or excessive reverberation;
 
-    - “common areas” (公用地方), in relation to a building, means areas open to, and available for the common use and enjoyment of, all occupiers of the building;
+    - common areas (公用地方), in relation to a building, means areas open to, and available for the common use and enjoyment of, all occupiers of the building;
 
-    - “door” (門) includes one leaf of a pair of double doors;
+    - door (門) includes one leaf of a pair of double doors;
 
-    - “persons with ambulant disabilities” (行動困難的殘疾人士) means persons with ambulant impairment who require the aid of devices such as prostheses, orthoses, sticks or crutches for walking;
+    - persons with ambulant disabilities (行動困難的殘疾人士) means persons with ambulant impairment who require the aid of devices such as prostheses, orthoses, sticks or crutches for walking;
 
-    - “required staircase” (規定的樓梯) means an access staircase in a firefighting and rescue stairway or a staircase which provides means of escape in case of fire;
+    - required staircase (規定的樓梯) means an access staircase in a firefighting and rescue stairway or a staircase which provides means of escape in case of fire;
 
-    - “tactile guide path” (觸覺引路帶) means a standardized pattern applied to or built onto walking surfaces through the combined use of tactile directional tiles or blocks, positional tiles or blocks and tactile hazard warning tiles or blocks, as set out in Figure No. 1 and Figure No. 2 in Part 3 of this Schedule, for way finding and orientation for persons with visual impairment;
+    - tactile guide path (觸覺引路帶) means a standardized pattern applied to or built onto walking surfaces through the combined use of tactile directional tiles or blocks, positional tiles or blocks and tactile hazard warning tiles or blocks, as set out in Figure No. 1 and Figure No. 2 in Part 3 of this Schedule, for way finding and orientation for persons with visual impairment;
 
-    - “tactile warning strip” (觸覺警示帶) means a standardized pattern applied to or built onto walking surfaces through the use of tactile hazard warning tiles or blocks, as set out in Figure No. 2 in Part 3 of this Schedule, to warn persons with visual impairment of certain construction features;
+    - tactile warning strip (觸覺警示帶) means a standardized pattern applied to or built onto walking surfaces through the use of tactile hazard warning tiles or blocks, as set out in Figure No. 2 in Part 3 of this Schedule, to warn persons with visual impairment of certain construction features;
 
-    - “wheelchair users” (坐輪椅人士) means persons who depend on wheelchairs for mobility.
+    - wheelchair users (坐輪椅人士) means persons who depend on wheelchairs for mobility.
 
-- PART 2 DESIGN REQUIREMENTS
+- Part 2 Design Requirements
 
   - Division 1 Auditorium and Related Facilities
 
@@ -54,7 +56,7 @@ PERSONS WITH A DISABILITY
 
       - (g) conference halls.
 
-    - 3. Interpretation: Division 1, Part 2 In this Division, “relevant activity” (有關活動) means the activity for the purpose of which the audience in the premises attend the premises.
+    - 3. Interpretation: Division 1, Part 2 In this Division, relevant activity (有關活動) means the activity for the purpose of which the audience in the premises attend the premises.
 
     - 4. Wheelchair spaces
 
@@ -68,9 +70,9 @@ PERSONS WITH A DISABILITY
 
       - (5) A wheelchair space shall have unobstructed view of the spot at which the relevant activity takes place.
 
-      - (6) The side of a wheelchair space facing the spot at which the relevant activity takes place shall be not less than 800 mm and the other side shall be not less than 1300 mm.
+      - (6) The side of a wheelchair space facing the spot at which the relevant activity takes place shall be not less than 800 mm and the other side shall be not less than 1 300 mm.
 
-      - (7) A passage leading to a wheelchair space from an accessible entrance of an auditorium shall be not less than 1500 mm in width.
+      - (7) A passage leading to a wheelchair space from an accessible entrance of an auditorium shall be not less than 1 500 mm in width.
 
       - (8) Nothing in this section prohibits the installation of readily removable seats in the wheelchair spaces when the spaces are not occupied by wheelchair users.
 
@@ -92,7 +94,7 @@ PERSONS WITH A DISABILITY
 
       - (1)
 
-        - For the purposes of this section, “an accessible guest room” (暢通易達客房) means a room—
+        - For the purposes of this section, an accessible guest room (暢通易達客房) means a room—
 
           - (a) that is at an accessible location; and
 
@@ -106,7 +108,7 @@ PERSONS WITH A DISABILITY
 
       - (1) Accessible parking spaces shall be provided in every carpark.
 
-      - (2) The number of accessible parking spaces provided under subsection (1) shall conform to the table below. TABLE
+      - (2) The number of accessible parking spaces provided under subsection (1) shall conform to the table below. Table
 
       - Total number of parking spaces | Minimum number of accessible parking spaces
 
@@ -126,13 +128,13 @@ PERSONS WITH A DISABILITY
 
       - (1) An accessible route between the accessible parking spaces and the lobby with an accessible lift or entrance shall be provided.
 
-      - (2) Subject to subsection (3), an accessible parking space shall be not less than 3500 mm in width.
+      - (2) Subject to subsection (3), an accessible parking space shall be not less than 3 500 mm in width.
 
-      - (3) Where a loading or unloading area which complies with subsection (4) is provided between 2 accessible parking spaces, such parking spaces shall be not less than 2500 mm in width.
+      - (3) Where a loading or unloading area which complies with subsection (4) is provided between 2 accessible parking spaces, such parking spaces shall be not less than 2 500 mm in width.
 
       - (4) For the purposes of subsection (3), a loading or unloading area shall—
 
-        - (a) be not less than 1200 mm in width; and
+        - (a) be not less than 1 200 mm in width; and
 
         - (b) be marked with yellow hatched markings.
 
@@ -140,7 +142,7 @@ PERSONS WITH A DISABILITY
 
       - (a) a number assigned to the parking space; and
 
-      - (b) the international symbol of accessibility as set out in Figure No. 3 in Part 3 of this Schedule, the size of which shall be not less than 1500 mm × 1500 mm.
+      - (b) the international symbol of accessibility as set out in Figure No. 3 in Part 3 of this Schedule, the size of which shall be not less than 1 500 mm × 1 500 mm.
 
   - Division 4 Access Route
 
@@ -168,7 +170,7 @@ PERSONS WITH A DISABILITY
 
     - 12. Requirements for access route
 
-      - (1) The clear width of an access route shall be not less than 1050 mm.
+      - (1) The clear width of an access route shall be not less than 1 050 mm.
 
       - (2) An access route shall be free from—
 
@@ -190,21 +192,21 @@ PERSONS WITH A DISABILITY
 
     - 14. Ramps to be provided Ramps shall be provided at all changes in level other than those served by an accessible lift or accessible lifting mechanism accommodating the specific requirements of persons with a disability.
 
-    - 15. Width of ramps Ramps shall be not less than 1050 mm in width.
+    - 15. Width of ramps Ramps shall be not less than 1 050 mm in width.
 
     - 16. Landing
 
-      - (1) A clear level space of not less than 1500 mm in width and in depth shall be provided at the head and foot of every ramp.
+      - (1) A clear level space of not less than 1 500 mm in width and in depth shall be provided at the head and foot of every ramp.
 
       - (2) Door swings and similar objects shall not be allowed to swing into such landing space.
 
     - 17. Running slope and length No ramp shall be steeper than 1 in 12 gradient except a single minor rise that conforms to the measurements set out in the table below.
 
-    - TABLE
+    - Table
 
     - Maximum slope | Maximum Length | Maximum rise
 
-    - 1:10 i.e., 10% | 1500 mm | 150 mm
+    - 1:10 i.e., 10% | 1 500 mm | 150 mm
 
     - 1:8 i.e., 12.5% | 600 mm | 75 mm
 
@@ -212,7 +214,7 @@ PERSONS WITH A DISABILITY
 
       - (1) Subject to subsection (2), where the gradient of a ramp is 1 in 20 or steeper, the ramp shall be provided—
 
-        - (a) with a landing of not less than 1200 mm in length for each 10 m length of horizontal run or part thereof;
+        - (a) with a landing of not less than 1 200 mm in length for each 10 m length of horizontal run or part thereof;
 
         - (b) on both sides with handrails that comply with Division 8; and
 
@@ -232,13 +234,13 @@ PERSONS WITH A DISABILITY
 
         - (b) leading down towards an area where there may be vehicular traffic,
 
-      - shall have a railing or barrier at a distance of not less than 1500 mm from the foot of the ramp across the full width of the lower end of the ramp.
+      - shall have a railing or barrier at a distance of not less than 1 500 mm from the foot of the ramp across the full width of the lower end of the ramp.
 
       - (2) On the surface of a ramp, raised traction strips shall be avoided.
 
       - (3) A kerb of not less than 100 mm in height, or a rail 200 mm above ramp level, shall be provided on both sides to prevent a wheelchair from slipping over the edge.
 
-      - (4) There shall be no appliances, fixtures or fittings projecting beyond 90 mm from the surface of any wall adjacent to a ramp below a level of 2000 mm above the ramp level unless such appliances, fixtures or fittings are unavoidable on reasonable ground.
+      - (4) There shall be no appliances, fixtures or fittings projecting beyond 90 mm from the surface of any wall adjacent to a ramp below a level of 2 000 mm above the ramp level unless such appliances, fixtures or fittings are unavoidable on reasonable ground.
 
       - (5) Appliances, fixtures and fittings that are unavoidable on reasonable ground shall be—
 
@@ -258,7 +260,7 @@ PERSONS WITH A DISABILITY
 
     - 21. Requirements for dropped kerbs Dropped kerbs shall be—
 
-      - (a) not less than 1200 mm in length and 1200 mm in width;
+      - (a) not less than 1 200 mm in length and 1 200 mm in width;
 
       - (b) provided with a clearance not less than 800 mm in length at the back of the footway;
 
@@ -328,7 +330,7 @@ PERSONS WITH A DISABILITY
 
     - 27. Avoidance of projection
 
-      - (1) There shall be no appliances, fixtures or fittings projecting beyond 90 mm from the surface of any wall adjacent to a staircase below a level of 2000 mm above the treads of the staircase unless such appliances, fixtures or fittings are unavoidable on reasonable ground.
+      - (1) There shall be no appliances, fixtures or fittings projecting beyond 90 mm from the surface of any wall adjacent to a staircase below a level of 2 000 mm above the treads of the staircase unless such appliances, fixtures or fittings are unavoidable on reasonable ground.
 
       - (2) Appliances, fixtures and fittings that are unavoidable on reasonable ground shall be extended downwards to the level of the treads.
 
@@ -372,13 +374,13 @@ PERSONS WITH A DISABILITY
 
     - 31. Manoeuvring space
 
-      - (1) A corridor, lobby, path or similar space shall have a clear width of not less than 1050 mm.
+      - (1) A corridor, lobby, path or similar space shall have a clear width of not less than 1 050 mm.
 
-      - (2) A space of not less than 1500 mm in width and in depth shall be provided within 3500 mm of a corridor, lobby or path where the means of exit for persons with a disability is in one direction only.
+      - (2) A space of not less than 1 500 mm in width and in depth shall be provided within 3 500 mm of a corridor, lobby or path where the means of exit for persons with a disability is in one direction only.
 
-      - (3) A lobby in a corridor shall be not less than 1200 mm in length (excluding space for door swings).
+      - (3) A lobby in a corridor shall be not less than 1 200 mm in length (excluding space for door swings).
 
-      - (4) A level area extending not less than 1200 mm beyond the swings of the doors and not less than 1500 mm in width shall be provided on both sides of every entrance of a building.
+      - (4) A level area extending not less than 1 200 mm beyond the swings of the doors and not less than 1 500 mm in width shall be provided on both sides of every entrance of a building.
 
       - (5) This section does not apply to lobbies which lead to staircases only.
 
@@ -396,7 +398,7 @@ PERSONS WITH A DISABILITY
 
     - 34. Protrusion
 
-      - (1) There shall be no appliances, fixtures or fittings projecting beyond 90 mm from the surface of any wall adjacent to corridors, lobbies or paths below a level of 2000 mm above the finished floor level unless such appliances, fixtures or fittings are unavoidable on reasonable ground.
+      - (1) There shall be no appliances, fixtures or fittings projecting beyond 90 mm from the surface of any wall adjacent to corridors, lobbies or paths below a level of 2 000 mm above the finished floor level unless such appliances, fixtures or fittings are unavoidable on reasonable ground.
 
       - (2) Appliances, fixtures and fittings that are unavoidable on reasonable ground shall be—
 
@@ -408,7 +410,7 @@ PERSONS WITH A DISABILITY
 
       - (1)
 
-        - In this section, “controlled passage” (受管制通道) means—
+        - In this section, controlled passage (受管制通道) means—
 
           - (a) a cashier counter at a shop;
 
@@ -428,7 +430,7 @@ PERSONS WITH A DISABILITY
 
     - 36. Headroom
 
-      - (1) Where a headroom does not exceed 2000 mm from the finished floor level, a warning guardrail or other barrier shall be provided for detection.
+      - (1) Where a headroom does not exceed 2 000 mm from the finished floor level, a warning guardrail or other barrier shall be provided for detection.
 
       - (2) The leading edge of a warning guardrail or barrier shall be at or below 680 mm above the finished floor level.
 
@@ -458,9 +460,9 @@ PERSONS WITH A DISABILITY
 
       - (a) a check mechanism that is designed to prevent the door swinging beyond the closed position; and
 
-      - (b) a transparent vision-panel with a bottom edge not more than 1000 mm above the finished floor level and a top edge not less than 1500 mm above the finished floor level.
+      - (b) a transparent vision-panel with a bottom edge not more than 1 000 mm above the finished floor level and a top edge not less than 1 500 mm above the finished floor level.
 
-    - 41. Handles A door handle shall be not less than 950 mm and not more than 1050 mm above the finished floor level, measured from the top surface of the grip.
+    - 41. Handles A door handle shall be not less than 950 mm and not more than 1 050 mm above the finished floor level, measured from the top surface of the grip.
 
     - 42. Door thresholds A door threshold shall be—
 
@@ -472,7 +474,7 @@ PERSONS WITH A DISABILITY
 
       - (1)
 
-        - For the purposes of this section, “a door closing device” (關門機掣) includes a door closer, spring hinge and floor hinge.
+        - For the purposes of this section, a door closing device (關門機掣) includes a door closer, spring hinge and floor hinge.
 
       - (2) A door closing device shall be so designed as to allow the door to be opened with—
 
@@ -488,7 +490,7 @@ PERSONS WITH A DISABILITY
 
       - (1) A frameless glass door and the glass panel adjacent to it (if any) shall be prominently marked so as to make them conspicuous.
 
-      - (2) At least a portion of the marking shall be placed not less than 900 mm and not more than 1500 mm above the finished floor level.
+      - (2) At least a portion of the marking shall be placed not less than 900 mm and not more than 1 500 mm above the finished floor level.
 
     - 45. Automatic main entrance doors
 
@@ -544,7 +546,7 @@ PERSONS WITH A DISABILITY
 
       - (3) If an accessible water closet cubicle provided on a floor is provided in a toilet with multiple cubicles, subsection (2) has effect as if a reference to a floor in that subsection was a reference to a toilet with multiple cubicles.
 
-      - (4) For the purposes of subsection (2), “floor” (樓層) includes a part of a floor designed for access by persons with a disability.
+      - (4) For the purposes of subsection (2), floor (樓層) includes a part of a floor designed for access by persons with a disability.
 
     - 47. Accessible unisex toilet
 
@@ -556,7 +558,7 @@ PERSONS WITH A DISABILITY
 
       - (1) An accessible water closet cubicle provided in a toilet with multiple cubicles shall be accessible—
 
-        - (a) through a clear space of not less than 1500 mm in width and in depth immediately in front of the cubicle; or
+        - (a) through a clear space of not less than 1 500 mm in width and in depth immediately in front of the cubicle; or
 
         - (b) by direct approach where no turning of the wheelchair is necessary.
 
@@ -564,9 +566,9 @@ PERSONS WITH A DISABILITY
 
     - 49. Design of accessible water closet cubicle
 
-      - (1) The internal area of an accessible water closet cubicle shall be not less than 1500 mm × 1750 mm.
+      - (1) The internal area of an accessible water closet cubicle shall be not less than 1 500 mm × 1 750 mm.
 
-      - (2) The clear manoeuvring space within an accessible water closet cubicle shall be not less than 1500 mm × 1500 mm in area measured at 350 mm above the finished floor level.
+      - (2) The clear manoeuvring space within an accessible water closet cubicle shall be not less than 1 500 mm × 1 500 mm in area measured at 350 mm above the finished floor level.
 
       - (3) An accessible water closet cubicle shall have in it a water closet—
 
@@ -582,7 +584,7 @@ PERSONS WITH A DISABILITY
 
       - (2) A flushing control shall be—
 
-        - (a) mounted on the wide side of the cubicle at a height of not less than 600 mm and not more than 1050 mm above the finished floor level; and
+        - (a) mounted on the wide side of the cubicle at a height of not less than 600 mm and not more than 1 050 mm above the finished floor level; and
 
         - (b) hand-operated or automatic.
 
@@ -632,7 +634,7 @@ PERSONS WITH A DISABILITY
 
         - (b) one folding grab rail fixed on the wall at the back of the water closet which can be lowered to provide support on the other side of the water closet.
 
-      - (2) The requirement of subsection (1)(a) is to be regarded as being satisfied if an L-shaped grab rail which is not less than 1200 mm in length is fixed on the wall facing the side of the water closet.
+      - (2) The requirement of subsection (1)(a) is to be regarded as being satisfied if an L-shaped grab rail which is not less than 1 200 mm in length is fixed on the wall facing the side of the water closet.
 
       - (3) A folding grab rail shall be so fixed that it is at a height of not less than 725 mm and not more than 750 mm above the finished floor level when lowered from the wall.
 
@@ -664,7 +666,7 @@ PERSONS WITH A DISABILITY
 
       - (1) If more than one urinal is provided, at least one urinal shall—
 
-        - (a) have a clear levelled space of not less than 800 mm in width and not less than 1500 mm in depth in front of the urinal; and
+        - (a) have a clear levelled space of not less than 800 mm in width and not less than 1 500 mm in depth in front of the urinal; and
 
         - (b) be wall hung urinal with a front rim at a height of not more than 400 mm above the finished floor level.
 
@@ -676,7 +678,7 @@ PERSONS WITH A DISABILITY
 
         - (b) be not less than 600 mm in length; and
 
-        - (c) be at a height of 1200 mm above the finished floor level.
+        - (c) be at a height of 1 200 mm above the finished floor level.
 
   - Division 12 —Bathrooms and Shower Compartments in Accessible Guest Rooms (L.N. 205 of 2008)
 
@@ -684,7 +686,7 @@ PERSONS WITH A DISABILITY
 
     - 56. Bathtubs in accessible bathrooms
 
-      - (1) There shall be a clear floor space of not less than 1500 mm in width and 800 mm in depth in front of the bathtub in an accessible bathroom.
+      - (1) There shall be a clear floor space of not less than 1 500 mm in width and 800 mm in depth in front of the bathtub in an accessible bathroom.
 
       - (2) A bathtub shall be provided with a seat of not less than 250 mm in width.
 
@@ -728,7 +730,7 @@ PERSONS WITH A DISABILITY
 
         - (a) of the hand-held type;
 
-        - (b) provided with a hose not less than 1500 mm in length; and
+        - (b) provided with a hose not less than 1 500 mm in length; and
 
         - (c) provided with a bracket mounted on the wall to allow use in a fixed position.
 
@@ -742,9 +744,9 @@ PERSONS WITH A DISABILITY
 
     - 60. Shower compartments
 
-      - (1) An accessible shower compartment shall have internal dimensions of not less than 1500 mm in width and not less than 900 mm in depth.
+      - (1) An accessible shower compartment shall have internal dimensions of not less than 1 500 mm in width and not less than 900 mm in depth.
 
-      - (2) A clear floor space of not less than 1500 mm x 800 mm with the dimension parallel to the shower entrance being not less than 1500 mm shall be provided in front of the entrance of the compartment.
+      - (2) A clear floor space of not less than 1 500 mm × 800 mm with the dimension parallel to the shower entrance being not less than 1 500 mm shall be provided in front of the entrance of the compartment.
 
     - 61. Grab rails for shower compartments
 
@@ -820,15 +822,15 @@ PERSONS WITH A DISABILITY
 
       - (1) Braille and tactile signs shall be fixed on adjacent walls or doors of a public toilet to indicate whether the toilet is for male, female or unisex.
 
-      - (2) Such signs shall be placed at a height of not less than 900 mm and not more than 1500 mm above the finished floor level.
+      - (2) Such signs shall be placed at a height of not less than 900 mm and not more than 1 500 mm above the finished floor level.
 
       - (3) If a public toilet has no door, such signs shall be fixed on the toilet front wall.
 
       - (4) A Braille and tactile fire exit map shall be provided directly above the call button of the accessible lift in the lobby of that lift in a building if a fire exit map for the use of the public is provided.
 
-      - (5) Such map shall be placed at a height of not less than 800 mm and not more than 1200 mm above the finished floor level.
+      - (5) Such map shall be placed at a height of not less than 800 mm and not more than 1 200 mm above the finished floor level.
 
-  - Division 14 Special Design Requirements to assist Persons with Visual or Hearing Impairment
+  - Division 14 Special Design Requirements to Assist Persons with Visual or Hearing Impairment
 
     - 69. Special design requirements to assist persons with visual or hearing impairment
 
@@ -926,7 +928,7 @@ PERSONS WITH A DISABILITY
 
       - (1) Subject to subsection (2), every floor of a building shall be accessible by at least one passenger lift which—
 
-        - (a) has internal car dimensions of not less than 1100 mm in width and not less than 1200 mm in depth;
+        - (a) has internal car dimensions of not less than 1 100 mm in width and not less than 1 200 mm in depth;
 
         - (b) has a clear entrance of not less than 850 mm in width; and
 
@@ -940,7 +942,7 @@ PERSONS WITH A DISABILITY
 
       - (2) Where there are more than 3 lifts in a building, access shall be provided to every floor by at least one lift which—
 
-        - (a) has internal car dimensions of not less than 1500 mm ×1400 mm (in either width or depth); and
+        - (a) has internal car dimensions of not less than 1 500 mm × 1 400 mm (in either width or depth); and
 
         - (b) has a clear entrance of not less than 850 mm in width.
 
@@ -964,9 +966,9 @@ PERSONS WITH A DISABILITY
 
         - (c) door opening push buttons,
 
-      - in a lift car shall be not less than 900 mm and not more than 1200 mm above the floor of the car.
+      - in a lift car shall be not less than 900 mm and not more than 1 200 mm above the floor of the car.
 
-      - (2) The lift call buttons at a lift lobby shall be not less than 900 mm and not more than 1200 mm above the finished floor level of the lobby.
+      - (2) The lift call buttons at a lift lobby shall be not less than 900 mm and not more than 1 200 mm above the finished floor level of the lobby.
 
       - (3) Subsections (1) and (2) do not apply to secondary control panels for over-spilled floor numbering buttons.
 
@@ -1014,7 +1016,7 @@ PERSONS WITH A DISABILITY
 
         - (b) raised 1 mm; and
 
-        - (c) at 1200 mm above the finished floor level of the lift lobby.
+        - (c) at 1 200 mm above the finished floor level of the lift lobby.
 
     - 82. Indication in accessible lift cars
 
@@ -1060,7 +1062,7 @@ PERSONS WITH A DISABILITY
 
     - 3. | Place for worship | Applicable | Not applicable | Not applicable | Applicable | Not applicable
 
-    - 4. | Cinema, theatre, concert hall, stadium, museum, theme park and purpose—built family amusement centre | Applicable | Applicable | Applicable | Applicable | Applicable
+    - 4. | Cinema, theatre, concert hall, stadium, museum, theme park and purpose-built family amusement centre | Applicable | Applicable | Applicable | Applicable | Applicable
 
     - 5. | School, college, university and public library | Applicable | Applicable | Not applicable | Applicable | Not applicable
 
@@ -1072,7 +1074,7 @@ PERSONS WITH A DISABILITY
 
     - 9. | Indoor market and supermarket | Applicable | Not applicable | Not applicable | Not applicable | Not applicable
 
-    - 10. | Hospital and purpose—built clinic | Applicable | Applicable | Applicable | Applicable | Applicable
+    - 10. | Hospital and purpose-built clinic | Applicable | Applicable | Applicable | Applicable | Applicable
 
     - 11. | Residential home for the elderly and welfare centre | Applicable | Applicable | Not applicable | Applicable | Not applicable
 
@@ -1084,27 +1086,43 @@ PERSONS WITH A DISABILITY
 
     - (L.N. 205 of 2008)
 
-- PART 3
+- Part 3
 
-- FIGURE NO. 1
+- Figure No. 1
 
-- FIGURE NO. 2
+- Typical tactile guide path junction.
 
-- FIGURE NO. 3
+- Figure No. 2
 
-- FIGURE NO. 4
+- The figure shows the three kinds of tactile tiles or blocks commonly used in constructing a tactile guide path. Directional tile or block has parallel raised bars for guiding the users along an intended safe path. Hazard warning tile or block has raised big dots (35 mm in diameter) arranged in square grid parallel to the sides of the slab for indication of potential hazards ahead. This type of tile or block can be used alone to form tactile warning strips at the top and bottom ends of staircase or ramps, and at dropped kerb. Positional tile or block has raised small dots (23 mm in diameter) placed in staggered positions for indication of possible change in walking directions.
 
-- FIGURE NO. 5
+- Figure No. 3
 
-- FIGURE NO. 6
+- International symbol of accessibility.
 
-- FIGURE NO. 7
+- Figure No. 4
 
-- FIGURE NO. 8
+- Tactile guide paths on access routes.
 
-- PART 4 BUILDING WHERE LIMITED FACILITIES FOR PERSONS WITH A
+- Figure No. 5
 
-- DISABILITY ARE TO BE PROVIDED
+- Tactile warning strips for ramps.
+
+- Figure No. 6
+
+- Tactile warning strips for staircases.
+
+- Figure No. 7
+
+- International symbol for access for hearing loss.
+
+- Figure No. 8
+
+- Tactile warning strips for escalators or passenger conveyors.
+
+- Part 4 Building where Limited Facilities for Persons with a
+
+- Disability are to be Provided
 
 - Category of Buildings | Extent of application of regulation 72
 
@@ -1232,4 +1250,4 @@ PERSONS WITH A DISABILITY
 
 - (e) | All guest rooms required under section 7. (L.N. 205 of 2008)
 
-(Third Schedule replaced L.N. 124 of 2008)
+- (Third Schedule replaced L.N. 124 of 2008)

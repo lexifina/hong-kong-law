@@ -1,8 +1,12 @@
-# FIRST SCHEDULE
+# First Schedule
 
-[regs. 18A, 20 & 21] (L.N. 110 of 2005)
+[regs. 18A, 20 & 21]
 
-PERCENTAGE SITE COVERAGES AND PLOT RATIOS
+(L.N. 110 of 2005)
+
+(Format changes—E.R. 5 of 2020)
+
+Percentage Site Coverages and Plot Ratios
 
 Height of building in metres | Domestic buildings | Non-domestic buildings
 

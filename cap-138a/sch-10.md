@@ -2178,7 +2178,7 @@ Poisons List
 
     - Anti-D (rho) immunoglobulins
 
-    - Anti-histamine substances
+    - Antihistamine substances
 
     - Atropine
 
@@ -3142,7 +3142,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020)
 
   - Division B
 
@@ -3198,7 +3198,7 @@ Poisons List
 
     - except pharmaceutical products containing any poison—
 
-      - (d) included in the Schedule 3; or
+      - (d) included in Schedule 3; or (E.R. 5 of 2020)
 
       - (e) in the following list— Acetyldihydrocodeine; its salts Alkaloids of belladonna; their salts Alkaloids of ephedra; their salts Atropine; its salts Bambuterol; its salts Benzydamine; its salts Butropium; its salts Codeine; its salts Dextromethorphan; its salts Diclofenac; its salts Dihydrocodeine; its salts Ethylmorphine; its salts Fenoterol; its salts Formoterol; its salts Homatropine; its salts Hyoscine; its salts Hyoscyamine; its salts Ipratropium; its salts Methylaminoheptane; its salts Morphine; its salts Nicocodine; its salts Nicotine (except when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy) Norcodeine; its salts Orciprenaline; its salts Papaverine; its salts Phenylpropanolamine; its salts Pholcodine; its salts Procaterol; its salts Salmeterol; its salts Terbutaline; its salts Tretoquinol; its salts
 
@@ -3242,4 +3242,4 @@ Poisons List
 
     - Sodium nitrite
 
-    - (Schedule 10 added 2 of 2015 s. 71. Amended E.R. 3 of 2015)
+    - (Schedule 10 added 2 of 2015 s. 71. E.R. 3 of 2015)

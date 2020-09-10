@@ -14,7 +14,7 @@ Texts Prescribed by Regulation 15 for Purposes of Section 27(c) or (ca)
 
 - 2. To be labelled with the text “Caution. It is dangerous to exceed the stated dose.” 「注意：服食過量有危險。」——
 
-  - Medicines (other than medicines containing insulin and medicines mentioned in paragraph 8 of this Schedule) made up ready for the internal treatment of human ailments except in the case of a substance included in the Schedule 1 (E.R. 3 of 2015)
+  - Medicines (other than medicines containing insulin and medicines mentioned in paragraph 8 of this Schedule) made up ready for the internal treatment of human ailments except in the case of a substance included in Schedule 1 (E.R. 3 of 2015; E.R. 5 of 2020)
 
 - 3. To be labelled with the text “Poison. For animal treatment only.” 「毒藥：祇限醫治禽畜用。」——
 

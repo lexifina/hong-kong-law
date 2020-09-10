@@ -2,4 +2,4 @@ An Ordinance to provide for the implementation of the Convention on the Conserva
 
 [1 July 2020] L.N. 153 of 2019
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 5 of 2020)

@@ -20,4 +20,4 @@ Specified Certificates etc.
 
 - 7. An International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk issued under regulation 5 of the Merchant Shipping (IBC Code) Regulations (Cap. 413 sub. leg. E). (L.N. 90 of 2018)
 
-- 8. An IBWM Certificate within the meaning of the Merchant Shipping (Control of Ballast Water and Sediments) Regulation. (L.N. 90 of 2018)
+- 8. An IBWM Certificate within the meaning of the Merchant Shipping (Control of Ballast Water and Sediments) Regulation (Cap. 413 sub. leg. Q). (L.N. 90 of 2018; E.R. 5 of 2020)

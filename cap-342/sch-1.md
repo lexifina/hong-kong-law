@@ -1,29 +1,13 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 5 & 24]
 
-OFFICES IN THE CUSTOMS AND EXCISE SERVICE
+Offices in the Customs and Excise Service
 
-- PART I Commissioner
+- Part I Commissioner Deputy Commissioner Assistant Commissioner
 
-- Deputy Commissioner
+- Part II Chief Superintendent Senior Superintendent Superintendent Assistant Superintendent
 
-- Assistant Commissioner
+- Part III Senior Inspector Inspector
 
-- PART II Chief Superintendent (Added L.N. 317 of 1993)
-
-- Senior Superintendent
-
-- Superintendent
-
-- Assistant Superintendent
-
-- PART III Senior Inspector
-
-- Inspector
-
-- PART IV Chief Customs Officer
-
-- Senior Customs Officer
-
-- Customs Officer (Replaced 46 of 1977 s. 14. Amended L.N. 203 of 1977)
+- Part IV Chief Customs Officer Senior Customs Officer Customs Officer (Replaced 46 of 1977 s. 14. Amended L.N. 203 of 1977; L.N. 317 of 1993)

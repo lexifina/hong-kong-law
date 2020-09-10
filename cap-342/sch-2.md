@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 17 & 17A]
 
-ORDINANCES REFERRED TO IN SECTIONS 17 AND 17A
+Ordinances referred to in Sections 17 and 17A
 
 - Import and Export Ordinance (Cap. 60)
 

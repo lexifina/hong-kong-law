@@ -2,7 +2,9 @@
 
 [ss. 4 & 17]
 
-List of Items for Prescribed Inspection in respect of Common Parts (Other than External Walls) of Buildings
+List of Items for Prescribed Inspection in respect of Common Parts (other than External Walls) of Buildings
+
+(E.R. 5 of 2020)
 
 - 1. Building structures including transfer structures, cantilevered structures and exposed pile caps.
 

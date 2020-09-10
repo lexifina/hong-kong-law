@@ -1,14 +1,14 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 63] (Amended 67 of 1999 s. 3)
 
-- PART I Rules as to payment of debts where estate is insolvent
+- Part I Rules as to payment of debts where estate is insolvent
 
   - 1. Subject to the provisions of section 14, the funeral, testamentary, and administration expenses have priority.
 
   - 2. Subject as aforesaid, the same rules shall prevail and be observed as to the respective rights of secured and unsecured creditors and as to debts and liabilities provable and as to the valuation of annuities and future and contingent liabilities respectively, and as to the priorities of debts and liabilities, as may be in force for the time being under the law of bankruptcy with respect to the assets of persons adjudged bankrupt.
 
-- PART II Order of application of assets where the estate is solvent
+- Part II Order of application of assets where the estate is solvent
 
   - 1. Property of the deceased undisposed of by will, subject to the retention thereout of a fund sufficient to meet any pecuniary legacies.
 

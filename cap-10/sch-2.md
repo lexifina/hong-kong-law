@@ -1,7 +1,7 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 48 & 49A]
 
-DESIGNATED COUNTRY OR PLACE
+Designated Country or Place
 
-The Australian States of Tasmania, Victoria and South Australia and the Northern Territory of Australia (Replaced L.N. 98 of 2000) New Zealand (Added L.N. 52 of 2003) Singapore Sri Lanka United Kingdom (Schedule 2 added 67 of 1999 s. 3)
+New Zealand (Added L.N. 52 of 2003) Singapore Sri Lanka The Australian States of Tasmania, Victoria and South Australia and the Northern Territory of Australia (Replaced L.N. 98 of 2000) United Kingdom (Amended E.R. 5 of 2020) (Schedule 2 added 67 of 1999 s. 3)

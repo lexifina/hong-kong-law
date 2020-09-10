@@ -1,7 +1,7 @@
-# SCHEDULE
+# Schedule
 
 [s. 1]
 
-DETENTION FACILITIES
+Detention Facilities
 
 The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon.
