@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 [rr. 3, 4, 14, 17, 20, 46 & 48]
 
@@ -46,9 +46,9 @@ TO: | The Respondent [Here give the name of the Respondent, and the name of his 
 
 AND TO: The Registrar of the Court of Final Appeal
 
-Estimated length of hearing
+Estimated length of hearing:
 
-(L.N. 13 of 1999) Form C Notice of Appeal (Rule 14) IN THE COURT OF FINAL APPEAL OF THE HONG
+(L.N. 13 of 1999; E.R. 5 of 2020) Form C Notice of Appeal (Rule 14) IN THE COURT OF FINAL APPEAL OF THE HONG
 
 KONG SPECIAL ADMINISTRATIVE REGION CIVIL/CRIMINAL APPEAL NO. OF (ON APPEAL FROM OF )
 
@@ -64,7 +64,7 @@ A copy of the judgment is annexed to this notice. [If the appeal is against part
 
 The Appellant asks the Court of Final Appeal to reverse, vary or alter the said judgment [if partly appealed against, insert the words: so far as aforesaid] (and that [if specific relief is asked for, it must be stated]) or that the Appellant may have such other relief as the Court of Final Appeal shall determine.
 
-[Either] Leave to appeal to the Court of Final Appeal was granted by the Court of Appeal by an order dated
+[Either] Leave to appeal to the Court of Final Appeal was granted by the Court of Appeal by an order dated .
 
 [Or] The Court of Final Appeal gave leave to appeal on .
 
@@ -146,9 +146,9 @@ TO: | The Appellant/Applicant/Respondent [Here state the name of the Appellant/ 
 
 AND TO: The Registrar of the Court of Final Appeal
 
-Estimated time .
+Estimated time: .
 
-(L.N. 13 of 1999) Form G Notice of Motion IN THE COURT OF FINAL APPEAL OF THE HONG
+(L.N. 13 of 1999; E.R. 5 of 2020) Form G Notice of Motion IN THE COURT OF FINAL APPEAL OF THE HONG
 
 KONG SPECIAL ADMINISTRATIVE REGION CIVIL/CRIMINAL APPEAL NO. OF (ON APPEAL FROM OF )
 
@@ -166,6 +166,6 @@ TO: | The Appellant/Respondent [Here state the name of the Appellant/Respondent 
 
 AND TO: The Registrar of the Court of Final Appeal
 
-Estimated time .
+Estimated time: .
 
-(L.N. 13 of 1999)
+(L.N. 13 of 1999; E.R. 5 of 2020)

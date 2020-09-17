@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [rr. 27, 30, 31 & 33]
 
 Rules as to Preparation of Record and Case
 
-- PART I VOLUMES
+- Part I Volumes
 
   - 1. Volumes of the Record shall be bound or enclosed in lever arch or “D” ring files of a quality satisfactory to the Registrar, or in a manner satisfactory to the Registrar.
 
@@ -12,11 +12,11 @@ Rules as to Preparation of Record and Case
 
   - 3. The title and number of the appeal and a brief description of the contents of the volume shall be printed on the front cover of each volume of the Record and Case.
 
-- PART II RECORD
+- Part II Record
 
   - 4. The Record shall be divided into 2 Parts, Part A and Part B.
 
-- PART A
+- Part A
 
   - 5. The documents included in Part A shall, as far as practicable, be included in 1 volume.
 
@@ -26,7 +26,7 @@ Rules as to Preparation of Record and Case
 
   - 8. Where more than 1 volume is used, pagination shall be continuous and a complete index of the contents of all the volumes shall be included in each volume.
 
-- PART B
+- Part B
 
   - 9. The documents included in Part B shall, as far as practicable, be included in 1 volume.
 
