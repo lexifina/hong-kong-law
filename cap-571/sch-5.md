@@ -446,7 +446,7 @@ Regulated Activities
 
       - (B) a limited partnership registered under the Limited Partnerships Ordinance (Cap. 37); or
 
-      - (C) a limited partnership fund registered under the Limited Partnership Fund Ordinance (14 of 2020); (Added 14 of 2020 s. 122)
+      - (C) a limited partnership fund registered under the Limited Partnership Fund Ordinance (Cap. 637); (Added 14 of 2020 s. 122. Amended E.R. 5 of 2020)
 
     - (v) that is a transaction executed solely for the purpose of its insurance business by an insurer authorized under section 8 of the Insurance Ordinance (Cap. 41) (Cap. 41) to carry on insurance business, or deemed to be so authorized under section 61(1) or (2) of Cap. 41 as in force immediately before the commencement date of section 10 of the Insurance Companies (Amendment) Ordinance 2015 (12 of 2015) having continuing effect by the operation of section 2(7) of Schedule 11 to Cap. 41; (Amended 12 of 2015 s. 145)
 
