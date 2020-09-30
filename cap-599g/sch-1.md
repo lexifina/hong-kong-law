@@ -40,6 +40,10 @@ Exempted Group Gatherings
 
 - 12. Group gathering held for imparting information or skills, or handling supplies or items, that are conducive to the prevention and control of the specified disease
 
-- 13. Group gathering at any premises to which a direction issued under section 6 or 8 of the Prevention and Control of Disease (Requirements and Directions) (Business and Premises) Regulation (Cap. 599 sub. leg. F) applies, except premises that, according to the direction, must be closed (L.N. 59 of 2020; L.N. 125 of 2020)
+- 13. Group gathering—
+
+  - (a) that takes place at any premises in relation to which a Cap. 599F direction is in force, except premises that, according to the direction, must be closed; and
+
+  - (b) during which all requirements and restrictions in relation to a group gathering at the premises that are specified in the direction are complied with (L.N. 201 of 2020)
 
 - 14. (Repealed L.N. 141 of 2020)
