@@ -12,4 +12,4 @@ Permitted Fishing with Use or Aid of Vessels other than Non-Local Fishing Vessel
 
 - 3. Fishing without the use or aid of any fishing gear.
 
-- 4. Fishing, whether with or without the use or aid of any hand net, spear gun or hook, during diving supported by self contained underwater breathing apparatus but not by the supply of compressed air to the diver through a hose from a support vessel for the diver to breathe in and out through a regulator.
+- 4. Fishing, whether with or without the use or aid of any hand net, spear gun or hook, during diving supported by self-contained underwater breathing apparatus but not by the supply of compressed air to the diver through a hose from a support vessel for the diver to breathe in and out through a regulator. (Amended E.R. 5 of 2020)
