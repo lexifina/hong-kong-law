@@ -98,7 +98,7 @@ Scheduled Premises
 
     - sports premises (體育處所)—
 
-      - (a) means any premises (other than a fitness centre, a place of amusement and a swimming pool) designed for indoor or outdoor sporting activities (whether on land or not)—
+      - (a) means any premises (other than a fitness centre, a place of amusement and a swimming pool) designed, and for the time being used, for indoor or outdoor sporting activities (whether on land or not)— (L.N. 200 of 2020)
 
         - (i) to which the public have access (whether on payment or otherwise); or
 
