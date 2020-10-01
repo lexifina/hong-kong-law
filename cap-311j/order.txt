@@ -15,6 +15,7 @@ s-007E.md
 s-007F.md
 s-007G.md
 s-007H.md
+s-007I.md
 s-008.md
 s-009.md
 s-010.md
@@ -46,3 +47,4 @@ sch-16.md
 sch-17.md
 sch-18.md
 sch-19.md
+sch-20.md
