@@ -4,6 +4,8 @@
 
 Toy Standards
 
+(Format changes—E.R. 2 of 2012)
+
 Standards
 
 1. | International Standard The International Standard is established by the International Organization for Standardization and the International Electrotechnical Commission, and the requirements contained in the Standard are specified in—
@@ -12,9 +14,9 @@ Standards
 
 (b) | ISO 8124-2:2014 “Safety of toys—Part 2: Flammability”
 
-(c) | ISO 8124-3:2010 (incorporating Amendment 1:2014) “Safety of toys—Part 3: Migration of certain elements”
+(c) | ISO 8124-3:2010 (incorporating Amendment 2:2018) “Safety of toys—Part 3: Migration of certain elements”
 
-(ca) | ISO 8124-4:2014 (incorporating Amendment 1:2017) “Safety of toys—Part 4: Swings, slides and similar activity toys for indoor and outdoor family domestic use” (Replaced L.N. 17 of 2015)
+(ca) | ISO 8124-4:2014 (incorporating Amendment 2:2019) “Safety of toys—Part 4: Swings, slides and similar activity toys for indoor and outdoor family domestic use” (Replaced L.N. 17 of 2015)
 
 (cb) | ISO 8124-5:2015 “Safety of toys—Part 5: Determination of total concentration of certain elements in toys” (Added L.N. 7 of 2016)
 
@@ -24,11 +26,11 @@ Standards
 
 2. | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
 
-(a) | BS EN 71-1:2014 “Safety of toys—Part 1: Mechanical and physical properties”
+(a) | BS EN 71-1:2014 + A1:2018 “Safety of toys—Part 1: Mechanical and physical properties”
 
 (b) | BS EN 71-2:2011 + A1:2014 “Safety of toys—Part 2: Flammability”
 
-(c) | BS EN 71-3:2013 + A3:2018 “Safety of toys—Part 3: Migration of certain elements”
+(c) | BS EN 71-3:2019 “Safety of toys—Part 3: Migration of certain elements”
 
 (d) | BS EN 71-4:2013 “Safety of toys—Part 4: Experimental sets for chemistry and related activities”
 
@@ -44,7 +46,7 @@ Standards
 
 (hab) | BS EN 71-13:2014 “Safety of toys—Part 13: Olfactory board games, cosmetic kits and gustative games” (Added L.N. 102 of 2017)
 
-(hb) | BS EN 71-14:2014 + A1:2017 “Safety of toys—Part 14: Trampolines for domestic use” (Added L.N. 7 of 2016)
+(hb) | BS EN 71-14:2018 “Safety of toys—Part 14: Trampolines for domestic use” (Added L.N. 7 of 2016)
 
 (i) | BS EN 62115:2005 + A12:2015 “Electric toys—Safety”
 
@@ -52,4 +54,4 @@ Standards
 
 ASTM F963-17 “Standard consumer safety specification for toy safety”
 
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019) (Format changes—E.R. 2 of 2012)
+(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020)
