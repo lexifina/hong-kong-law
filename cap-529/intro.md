@@ -5,3 +5,7 @@ An Ordinance to provide for the regulation of the practice of veterinary surgery
 (Enacting provision omitted—E.R. 2 of 2012)
 
 (Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+For savings and transitional provisions in the Veterinary Surgeons Registration (Amendment) Ordinance 2015 (6 of 2015), see Part 3 (sections 17 to 21) of that Ordinance.
