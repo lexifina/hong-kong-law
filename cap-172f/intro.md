@@ -1,4 +1,6 @@
-Places of Public Entertainment (Fee Concessions) Regulation 2019
+Places of Public Entertainment (Fee Concessions) Regulation
+
+(L.N. 196 of 2020)
 
 (Cap. 172, section 7(1)(ad))
 
