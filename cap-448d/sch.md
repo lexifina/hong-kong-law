@@ -1,3 +1,5 @@
+(L.N. 173 of 2020)
+
 # Schedule
 
 [regs. 3, 4, 4A & 6] (L.N. 159 of 2011)
@@ -68,7 +70,15 @@ Air Operator’s Certificate (Article 6(2) of the Order)
 
       - (iii) $147 for each 1 000 freight tonne kilometres (or part thereof).
 
-    - (L.N. 159 of 2011; L.N. 114 of 2017)
+  - (3) Despite subparagraph (1), if—
+
+    - (a) the holder of an air operator’s certificate applies for the grant of a subsequent air operator’s certificate (subsequent certificate); and
+
+    - (b) the subsequent certificate takes effect during the concession period,
+
+  - the fee payable for the grant of the subsequent certificate is $0. (L.N. 173 of 2020)
+
+- (L.N. 159 of 2011; L.N. 114 of 2017)
 
 Permit for an aircraft to fly without a Certificate of Airworthiness
 
@@ -95,6 +105,8 @@ Issue of Certificate of Airworthiness (Article 8(1) of the Order)
   - (a) | in the case of a glider or balloon | $6,300
 
     - (b) in the case of any other aircraft an amount equal to the cost of the investigations required by the Chief Executive, but not exceeding $16,900 per 500 kg, or part thereof, of the maximum total weight authorized of the aircraft. (36 of 1999 s. 3)
+
+  - (3) Despite subparagraphs (1) and (2), if a certificate of airworthiness takes effect during the concession period, the fee payable for the issue of the certificate is $0. (L.N. 173 of 2020)
 
 - (L.N. 159 of 2011; L.N. 114 of 2017)
 
@@ -123,6 +135,10 @@ Renewal of Certificate of Airworthiness (Article 8(6) of the Order)
 - (c) | in any other case, in respect of each 500 kg or part thereof | $350
 
 - (L.N. 159 of 2011; L.N. 114 of 2017)
+
+- 6A. Despite paragraph 6, if a certificate of airworthiness takes effect during the concession period, the fee payable for the renewal of the certificate is $0.
+
+(L.N. 173 of 2020)
 
 Validation or Renewal of Validation of Certificate of Airworthiness
 
@@ -161,6 +177,18 @@ Approval of Persons (Articles 8(8) and 11(6)(c) of the Order) (L.N. 159 of 2011)
     - (a) in respect of the initial period (or part of it) during which the approval remains in force—an amount equal to the cost of making those investigations but not exceeding $402,500; and
 
     - (b) in respect of each subsequent financial year (or part of it) during which the approval remains in force—an amount equal to the cost of making those investigations but not exceeding $402,500. (L.N. 114 of 2017)
+
+  - (5A) Despite subparagraph (1), subparagraph (5B) applies to an approval under Article 11(6)(c) of the Order. (L.N. 173 of 2020)
+
+  - (5B) Despite subparagraph (5), if—
+
+    - (a) a person is granted an approval (specified approval) at a time when the person holds another approval;
+
+    - (b) the specified approval is in force at any time during the concession period; and
+
+    - (c) investigations mentioned in subparagraph (5) are made during the period from 1 April 2019 to 31 March 2021 (both dates inclusive) in respect of any approval held by the person,
+
+  - the fee payable for making the investigations is $0. (L.N. 173 of 2020)
 
   - (6) In this paragraph—
 

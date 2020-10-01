@@ -1,6 +1,6 @@
 Hong Kong Air Navigation (Fees) Regulations
 
-(Cap. 448 sub. leg. C, Article 97)*
+(Cap. 448 sub. leg. C, Article 97 and Cap. 1, section 29)*
 
 [1 August 1980]
 
