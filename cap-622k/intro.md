@@ -1,6 +1,6 @@
 Companies (Fees) Regulation
 
-( Cap. 622, sections 26 and 909)
+( Cap. 622, sections 26 and 909 and Cap. 1, section 29)
 
 (Enacting provision omitted—E.R. 1 of 2014)
 
