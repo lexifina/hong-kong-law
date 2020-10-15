@@ -1,20 +1,36 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-EXEMPTION FROM HEIGHT RESTRICTION
+Exemption from Height Restriction
 
 Item | Land | Height
 
-1. | All those portions of Lot No. 35 in D.D. 228 shown— stippled black coloured red stippled black on Plan No. SKM 4978-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry. | 605.345 m 605.715 m
+1. | All those portions of Lot No. 35 in D.D. 228 shown—
+
+stippled black | 605.345 m
+
+coloured red stippled black | 605.715 m
+
+on Plan No. SKM 4978-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry.
+
+(20 of 2002 s. 5)
 
 2. | All that portion of land held under Government Land Licence No. TW 9546 shown coloured pink on Plan No. TWM 2883-AHEa signed by the Secretary for Planning and Lands and deposited at the Land Registry. | 636 m
 
+(20 of 2002 s. 5)
+
 3. | All that portion of land shown coloured pink on Plan No. TWM 2959-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry. | 491 m
 
-(L.N. 49 of 2002)
+(L.N. 49 of 2002; 20 of 2002 s. 5)
 
-4. | All those portions of land shown coloured pink and marked with A, B and C on Plan No. TWM 2996-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry— (20 of 2002 s. 5) Portion A Portion B Portion C | 645 m 637 m 646 m
+4. | All those portions of land shown coloured pink and marked with A, B and C on Plan No. TWM 2996-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry— (20 of 2002 s. 5)
+
+Portion A | 645 m
+
+Portion B | 637 m
+
+Portion C | 646 m
 
 (L.N. 49 of 2002)
 
@@ -45,5 +61,3 @@ Item | Land | Height
 11. | All that portion of land held under Short Term Tenancy No. CX1824 and shown coloured pink on Plan No. ISM1637c signed by the Secretary for Development and deposited at the Land Registry. | 276.5 m
 
 (L.N. 62 of 2011)
-
-(20 of 2002 s. 5)
