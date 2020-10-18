@@ -1622,6 +1622,10 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Niflumic acid; its salts
 
+- Nifuratel; its salts
+
+- Nifuroxazide; its salts
+
 - Nilotinib; its salts
 
 - Nilvadipine
@@ -1638,7 +1642,13 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Nitrendipine
 
+- Nitrofural; its salts
+
+- Nitrofurantoin; its salts
+
 - Nitromethaqualone; its salts
+
+- Nitroxoline; its salts
 
 - Nivolumab
 
@@ -1956,8 +1966,6 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Phenylephrine
 
-- Piracetam
-
 - Procaine
 
 - Protamine
@@ -2049,6 +2057,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Pipemidic acid
 
 - Pipobroman
+
+- Piracetam; its salts
 
 - Pirfenidone; its salts
 

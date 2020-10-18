@@ -1954,6 +1954,10 @@ Poisons List
 
     - Niflumic acid; its salts
 
+    - Nifuratel; its salts
+
+    - Nifuroxazide; its salts
+
     - Nilotinib; its salts
 
     - Nilvadipine
@@ -1970,7 +1974,13 @@ Poisons List
 
     - Nitrendipine
 
+    - Nitrofural; its salts
+
+    - Nitrofurantoin; its salts
+
     - Nitromethaqualone; its salts
+
+    - Nitroxoline; its salts
 
     - Nivolumab
 
@@ -2318,8 +2328,6 @@ Poisons List
 
     - Phenylephrine
 
-    - Piracetam
-
     - Procaine
 
     - Protamine
@@ -2431,6 +2439,8 @@ Poisons List
     - Pipemidic acid
 
     - Pipobroman
+
+    - Piracetam; its salts
 
     - Pirfenidone; its salts
 

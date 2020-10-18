@@ -1742,6 +1742,10 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Niflumic acid; its salts
 
+- Nifuratel; its salts
+
+- Nifuroxazide; its salts
+
 - Nilotinib; its salts
 
 - Nilvadipine
@@ -1758,7 +1762,13 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Nitrendipine
 
+- Nitrofural; its salts
+
+- Nitrofurantoin; its salts
+
 - Nitromethaqualone; its salts
+
+- Nitroxoline; its salts
 
 - Nivolumab
 
@@ -2090,8 +2100,6 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Phenylephrine
 
-- Piracetam
-
 - Procaine
 
 - Protamine
@@ -2199,6 +2207,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Pipemidic acid
 
 - Pipobroman
+
+- Piracetam; its salts
 
 - Pirfenidone; its salts
 
