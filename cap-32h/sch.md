@@ -2,7 +2,9 @@
 
 [r. 210A]
 
-Transitional and Saving Provisions Relating to Companies (Winding Up and Miscellaneous Provisions) (Amendment) Ordinance 2016
+Transitional and Saving Provisions relating to Companies (Winding Up and Miscellaneous Provisions) (Amendment) Ordinance 2016
+
+(Schedule added 14 of 2016 s. 179)
 
 - 1. Interpretation In this Schedule—
 
@@ -55,5 +57,3 @@ Transitional and Saving Provisions Relating to Companies (Winding Up and Miscell
 - 9. Requirements under former rule 200 with regard to applications under section 204 of the Ordinance If the winding up of a company has commenced before the commencement date, the former rule 200 continues to apply in relation to an application made under section 204 of the Ordinance in respect of that winding up.
 
 - 10. Giving notice to creditors and contributories of intention to apply for release by Form 98 In relation to an application for release under the former rule 189 by a liquidator appointed before the commencement date, the former Form 98 continues to apply.
-
-(Schedule added 14 of 2016 s. 179)

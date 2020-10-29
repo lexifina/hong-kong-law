@@ -1,4 +1,4 @@
-APPENDIX FORMS
+Appendix Forms
 
 Form 1 | [rule 7]
 
@@ -8,7 +8,9 @@ Let (a) attend at on the day of 19 , at o’clock in the noon on the hearing of 
 
 NOTE—If you do not attend, either in person or by your solicitor, at the time and place above-mentioned, such order will be made, and proceedings taken as the court may think just and expedient.
 
-(L.N. 50 of 1964) _
+(L.N. 50 of 1964)
+
+_
 
 Form 1A | [rule 3B]
 
@@ -42,9 +44,7 @@ When incurred (See Note 1) | Description of debt (See Notes 2, 3 & 5) | Amount d
 
 Amount of Debt $
 
-The creditor demands that the company do pay the above debt or secure or compound for it to the creditor’s satisfaction.
-
-5. | Any other charge accruing from time to time may be claimed. The amount or rate of the charge must be identified and the grounds on which it is claimed must be stated.
+The creditor demands that the company do pay the above debt or secure or compound for it to the creditor’s satisfaction. | 5. | Any other charge accruing from time to time may be claimed. The amount or rate of the charge must be identified and the grounds on which it is claimed must be stated.
 
 6. | The amount of the debt claimed must be limited to that which has accrued due as at the date of this statutory demand.
 
@@ -108,7 +108,9 @@ If the company disputes this statutory demand in whole or in part, it should—
 
 Remember: The company has only 3 weeks after service of this statutory demand to pay the debt. After the expiry of the 3-week period, the creditor may present a winding-up petition against the company.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 2 | [rule 22]
 
@@ -120,7 +122,7 @@ To the High Court of Hong Kong.
 
 The humble petition of (a) showeth as follows— | (a) Insert full name, title, etc., of petitioner.
 
-1. The Company, Limited (hereinafter called the company), was in the month of , incorporated under the *Companies Ordinance 1865 (1 of 1865)/*Companies Ordinance 1911 (58 of 1911)/*Companies Ordinance (Chapter 32)/*Companies Ordinance (Cap. 622). (*delete the inapplicable words)
+1. The Company, Limited (hereinafter called the company), was in the month of , incorporated under the *Companies Ordinance 1865 (1 of 1865)/*Companies Ordinance 1911 (58 of 1911)/*Companies Ordinance (Cap. 32)/*Companies Ordinance (Cap. 622). (*delete the inapplicable words)
 
 2. The registered office of the company is at (b) | (b) State the full address of the registered office so as sufficiently to show where it is situate.
 
@@ -128,7 +130,7 @@ The humble petition of (a) showeth as follows— | (a) Insert full name, title, 
 
 4. The objects for which the company was established are as follows—
 
-To and other objects set forth in the articles of association thereof. [Here set out in paragraphs the facts on which the petitioner relies, and conclude as follows]︰— Your petitioner therefore humbly prays as follows—
+To and other objects set forth in the articles of association thereof. [Here set out in paragraphs the facts on which the petitioner relies, and conclude as follows]:— Your petitioner therefore humbly prays as follows—
 
 (1) That the Company, Limited, may be wound up by the court under the provisions of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32).
 
@@ -136,11 +138,13 @@ To and other objects set forth in the articles of association thereof. [Here set
 
 NOTE—(d) It is intended to serve this petition on. | (d) This note will be unnecessary if the Company is petitioner.
 
-(L.N. 201 of 1984; 25 of 1998 s. 2; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014; E.R. 1 of 2015) _
+(L.N. 201 of 1984; 25 of 1998 s. 2; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014; E.R. 1 of 2015; E.R. 6 of 2020)
+
+_
 
 Form 3 | [rule 22]
 
-Petition by unpaid Creditor on Simple Contract (Title)
+Petition by Unpaid Creditor on Simple Contract (Title)
 
 Paragraphs 1, 2, 3, and 4 as in Form 2.
 
@@ -152,7 +156,9 @@ Your petitioner, therefore, &c. [as in Form 2].
 
 _
 
-Form 3A (Repealed 28 of 2012 ss. 912 & 920) _
+Form 3A (Repealed 28 of 2012 ss. 912 & 920)
+
+_
 
 Form 4 | [rule 24]
 
@@ -168,7 +174,9 @@ NOTE—Any person who intends to appear on the hearing of the said petition must
 
 _
 
-Form 4A (Repealed 28 of 2012 ss. 912 & 920) _
+Form 4A (Repealed 28 of 2012 ss. 912 & 920)
+
+_
 
 Form 5 | [rule 25]
 
@@ -224,17 +232,21 @@ I, A.B., of, &c., make oath and say as follows—
 
 2. That such of the statements in the petition now produced and shown to me marked with the letter “A”, as relate to the acts and deeds of the said petitioner or to my own acts and deeds, are true, and such of the statements in the said petition as relate to the acts and deeds of any other corporation, person or persons, I believe to be true. Sworn, &c.
 
-(28 of 2012 ss. 912 & 920) _
+(28 of 2012 ss. 912 & 920)
+
+_
 
 Form 9 | [rule 28]
 
-Order appointing a Provisional Liquidator after Presentation of Petition, and before Order to Wind up the day of , 20 . (Title)
+Order Appointing a Provisional Liquidator after Presentation of Petition, and before Order to Wind Up the day of , 20 . (Title)
 
 Upon the application, &c., and upon reading, &c., the court doth hereby appoint the Official Receiver (or as may be) to be provisional liquidator of the above-named company. And the court doth hereby limit and restrict the powers of the said provisional liquidator to the following acts, that is to say [describe the acts which the provisional liquidator is to be authorized to do and the property of which he is to take possession].
 
 Note—As the Official Receiver or provisional liquidator (interviewer) may require, it is the duty of a person who is or may be liable to make the statement of affairs of the company, or a supplementary affidavit in relation to that statement, to attend on the interviewer according to the day, time and place the interviewer appoints and to give the interviewer all information that the interviewer requires.
 
-(46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 173) _
+(46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 173)
+
+_
 
 Form 10 | [rule 30]
 
@@ -252,11 +264,11 @@ _
 
 Form 11 | [rule 31]
 
-List of Parties attending the hearing of a Petition (Title)
+List of Parties Attending the Hearing of a Petition (Title)
 
 The following are the names of those who have given notice of their intention to attend the hearing of the petition herein, on the day of , 19 .
 
-Name | Address | Name and address of solicitor of party who has given notice | Creditors. Amount of debt | Contributories. Number of shares | Opposing | Support-ing
+Name | Address | Name and address of solicitor of party who has given notice | Creditors. Amount of debt | Contributories. Number of shares | Opposing | Supporting
 
 _
 
@@ -264,15 +276,17 @@ Form 12 | [rule 34]
 
 Notification to Official Receiver of Winding-up Order (Title) To the Official Receiver (Address)
 
-Order pronounced this day by [or, as the case may be] for winding up the under-mentioned company under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32).
+Order pronounced this day by [or, as the case may be] for winding up the under-mentioned company under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32).
 
 Name of company | Registered office of company | Petitioner’s solicitor | Date of presentation of petition
 
-(28 of 2012 ss. 912 & 920) _
+(28 of 2012 ss. 912 & 920; E.R. 6 of 2020)
+
+_
 
 Form 13 | [rule 34]
 
-Notification to Official Receiver of Order pronounced for appointment of Provisional Liquidator prior to Winding-up Order being made (Title) To the Official Receiver (Address)
+Notification to Official Receiver of Order Pronounced for Appointment of Provisional Liquidator prior to Winding-up Order being Made (Title) To the Official Receiver (Address)
 
 Order pronounced this day by [or, as the case may be] for the appointment of the Official Receiver (or, as the case may be, the name, address and description of the person appointed) as provisional liquidator prior to any winding-up order being made.
 
@@ -282,23 +296,25 @@ _
 
 Form 14 | [rule 35]
 
-Order for Winding up by the Court day of , 20 . (Title)
+Order for Winding Up by the Court day of , 20 . (Title)
 
-Upon the petition of the above-named company (or A.B., of &c., a creditor (or contributory) of the above-named company), on the day of , 20 , preferred unto the court, and upon hearing for the petitioner, and for and upon reading the said petition, an affidavit of (the said petitioner), filed, &c., verifying the said petition, an affidavit of L.M., filed the day of , 20 , the Gazette of the day of , 20 , the newspaper of the day of (enter any other papers), each containing an advertisement of the said petition (enter any other evidence), this court doth order that the said company be wound up by this court under the provisions of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32).
+Upon the petition of the above-named company (or A.B., of &c., a creditor (or contributory) of the above-named company), on the day of , 20 , preferred unto the court, and upon hearing for the petitioner, and for and upon reading the said petition, an affidavit of (the said petitioner), filed, &c., verifying the said petition, an affidavit of L.M., filed the day of , 20 , the Gazette of the day of , 20 , the newspaper of the day of (enter any other papers), each containing an advertisement of the said petition (enter any other evidence), this court doth order that the said company be wound up by this court under the provisions of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32).
 
 And it is ordered that the costs of of the said petition be taxed and paid out of the assets of the said company.
 
 Note—As the Official Receiver, provisional liquidator or liquidator (interviewer) may require, it is the duty of a person who is or may be liable to make the statement of affairs of the company, or a supplementary affidavit in relation to that statement, to attend on the interviewer according to the day, time and place the interviewer appoints and to give the interviewer all information that the interviewer requires.
 
-(L.N. 201 of 1984; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 173)
+(L.N. 201 of 1984; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 173; E.R. 6 of 2020)
 
 _
 
-Form 15 (Repealed L.N. 201 of 1984) _
+Form 15 (Repealed L.N. 201 of 1984)
+
+_
 
 Form 16 | [rule 36(1)]
 
-Notice of Order to Wind up (For Newspaper) Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32)
+Notice of Order to Wind Up (for Newspaper) Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32)
 
 In the matter of | , Limited.
 
@@ -312,11 +328,13 @@ Contributories | , 19 | , at
 
 Official Receiver and Provisional Liquidator
 
-(28 of 2012 ss. 912 & 920) _
+(28 of 2012 ss. 912 & 920; E.R. 6 of 2020)
+
+_
 
 Form 17 | [rule 38]
 
-Affidavit by Special Manager verifying Account (Title)
+Affidavit by Special Manager Verifying Account (Title)
 
 I, , of make oath and say as follows—
 
@@ -326,7 +344,9 @@ I, , of make oath and say as follows—
 
 3. The said account is just and true in all and every items and particulars therein contained, according to the best of my knowledge and belief. Sworn, &c.
 
-(L.N. 587 of 1995) _
+(L.N. 587 of 1995)
+
+_
 
 Form 18 | [rule 109]
 
@@ -348,7 +368,9 @@ Note
 
 At the first meetings of the creditors and contributories they may amongst other things— 1. By resolution determine whether or not an application is to be made to the court to appoint a liquidator in place of the provisional liquidator. 2. By resolution determine whether or not an application shall be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed.
 
-(46 of 2000 s. 40; 14 of 2016 s. 173) _
+(46 of 2000 s. 40; 14 of 2016 s. 173)
+
+_
 
 Form 19 | [rule 109]
 
@@ -362,17 +384,19 @@ Dated this day of , 20 .
 
 Address
 
-(The company’s statement of affairs (a) | ) | (a) Here insert “has not been lodged” or “has been lodged, and summary of the statement of affairs and any supplementary affidavit in relation to that statement is enclosed”.
+(The company’s statement of affairs (a) | ). | (a) Here insert “has not been lodged” or “has been lodged, and summary of the statement of affairs and any supplementary affidavit in relation to that statement is enclosed”.
 
 Note
 
 At the first meetings of creditors and contributories they may amongst other things— 1. By resolution determine whether or not an application shall be made to the court to appoint a liquidator in place of the provisional liquidator. 2. By resolution determine whether or not an application shall be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed.
 
-(46 of 2000 s. 40; 14 of 2016 s. 173) _
+(46 of 2000 s. 40; 14 of 2016 s. 173)
+
+_
 
 Form 20 | [rule 110]
 
-Notice to Directors and Officers of Company to attend First Meeting of Creditors or Contributories (Title)
+Notice to Directors and Officers of Company to Attend First Meeting of Creditors or Contributories (Title)
 
 Take notice that the first meeting of creditors [or contributories] will be held on the day of , 19 , at o’clock at (a) and that you are required to attend thereat, and give such information as the meeting may require. | (a) Here insert place where meeting will be held.
 
@@ -382,7 +406,9 @@ To (b) | (b) Insert name of person required to attend.
 
 NOTE—The failure of any director or officer to attend will be reported to the court.
 
-(46 of 2000 s. 40) _
+(46 of 2000 s. 40)
+
+_
 
 Form 21 | [rule 123(2)]
 
@@ -398,7 +424,7 @@ _
 
 Form 22 | [rule 130]
 
-List if Creditors(a) present to be used at every Meeting (Title) | (a) “or contributories”.
+List of Creditors(a) Present to be Used at Every Meeting (Title) | (a) “or contributories”.
 
 Meeting held at this day of , 19 .
 
@@ -424,13 +450,13 @@ $ | ￠
 
 _
 
-Page 1 FORM 23 Rule 39 of the Companies (Winding-up) Rules (Cap. 32 sub. leg. H) IN THE HIGH COURT OF HONG KONG COMPANIES (WINDING-UP) NO. of 19
+Page 1 Form 23 Rule 39 of the Companies (Winding-up) Rules (Cap. 32 sub. leg. H) IN THE HIGH COURT OF HONG KONG COMPANIES (WINDING-UP) NO. of 19
 
 In the matter of _________________________________________
 
 and
 
-In the matter of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32).
+In the matter of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32).
 
 STATEMENT OF AFFAIRS on the ___________________ day of _____________________ 19 _____ , the date of the Winding-up Order (or such other date as the liquidator has for special reasons directed).
 
@@ -518,7 +544,7 @@ Notes: | (1) | The Commissioner is particularly requested, before swearing the A
 
 I/We, ______________________________, of _____________________________
 
-*make oath and say | that the foregoing Statement and the several Lists
+* make oath and say | that the foregoing Statement and the several Lists
 
 *solemnly and sincerely affirm
 
@@ -595,6 +621,8 @@ $ | $
 12.
 
 13.
+
+14.
 
 15.
 
@@ -826,11 +854,11 @@ No. | Name of creditor or claimant | Address | Amount $ | Date when contracted |
 
 Dated this day of 19 . | (Signature)
 
-Notes: | (1) | If any creditor is also indebted to the company, please specify in column (iii) both the amount due to the creditor and the amount owed by the creditor. The net amount due by the company to the creditors should be inserted in column (iv). If however, the amount owed to the company by the “creditor” is more than the amount that the company owes the creditor, do not insert any amount in this list but use List B for the purpose.
+Notes: | (1) If any creditor is also indebted to the company, please specify in column (iii) both the amount due to the creditor and the amount owed by the creditor. The net amount due by the company to the creditors should be inserted in column (iv). If however, the amount owed to the company by the “creditor” is more than the amount that the company owes the creditor, do not insert any amount in this list but use List B for the purpose.
 
-(2) | The particulars of any bills of exchange and promissory notes held by a creditor should be inserted immediately below the name of such creditor.
+(2) The particulars of any bills of exchange and promissory notes held by a creditor should be inserted immediately below the name of such creditor.
 
-(3) | The names of any creditors who are also contributories, or alleged to be contributories, of the company must be shown separately and described as such at the end of the list.
+(3) The names of any creditors who are also contributories, or alleged to be contributories, of the company must be shown separately and described as such at the end of the list.
 
 LIST G (CONTINUED) UNSECURED CREDITORS AND OTHER LIABILITIES
 
@@ -930,7 +958,7 @@ Totals (show the totals of column (vii) under “Capital Issued and Allotted” 
 
 Dated this day of 19 . | (Signature)
 
-Notes: | Separate list(s) should be used to provide a list of shareholders for each type of share capital, i.e. use separate list(s) for ordinary shareholders, preference shareholders, etc.
+Note: | Separate list(s) should be used to provide a list of shareholders for each type of share capital, i.e. use separate list(s) for ordinary shareholders, preference shareholders, etc.
 
 Page 1
 
@@ -1022,6 +1050,8 @@ $
 
 (12) | Losses and depreciation not written off in company’s books, now written off in the Statement of Affairs (see note):—
 
+$
+
 (a) | Bad debts
 
 (b) | Losses on investments
@@ -1042,7 +1072,9 @@ Note: Where particulars are numerous they should be inserted in a separate sched
 
 Dated this day of 19 . | (Signature)
 
-(L.N. 24 of 1995; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920 and E.R. 1 of 2014) _
+(L.N. 24 of 1995; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920 and E.R. 1 of 2014; E.R. 6 of 2020)
+
+_
 
 Form 24 | [rule 45]
 
@@ -1092,11 +1124,13 @@ And it is ordered that the said liquidator do within 7 days from the date of thi
 
 And notice of this order is to be gazetted and advertised in the (c). | (c) State name of newspaper (if any).
 
-(L.N. 286 of 1997; 46 of 2000 s. 40; E.R. 1 of 2014) _
+(L.N. 286 of 1997; 46 of 2000 s. 40; E.R. 1 of 2014)
+
+_
 
 Form 26 | [rule 47]
 
-Certificate that Liquidator or Special Manager has given Security (Title)
+Certificate that Liquidator or Special Manager has Given Security (Title)
 
 This is to certify that A.B., of , who was on the day of , 19 , appointed liquidator [or special manager] of the above-named company, has duly given security to the satisfaction of the Official Receiver.
 
@@ -1120,7 +1154,9 @@ Dated this day of , 19 .
 
 _
 
-Form 28 (Repealed 28 of 2003 s. 126) _
+Form 28 (Repealed 28 of 2003 s. 126)
+
+_
 
 Form 29 | [rule 52]
 
@@ -1142,7 +1178,9 @@ The Schedule referred to
 
 Name | Address | Connexion with the company
 
-(46 of 2000 s. 40; 14 of 2016 s. 173) _
+(46 of 2000 s. 40; 14 of 2016 s. 173)
+
+_
 
 Form 30 | [rule 54]
 
@@ -1158,7 +1196,9 @@ Dated this day of , 20 . * Delete where not applicable.
 
 Note to the above-named —Notice is hereby given that if you fail, without reasonable excuse, to attend before the court according to the above-mentioned day, time and place, or at any adjournment of the examination, you will be liable to be committed to prison without further notice. In addition, if you commit perjury during your examination, you will be liable on conviction to a fine and imprisonment for 7 years.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 31 | [rule 54]
 
@@ -1186,11 +1226,13 @@ Official Receiver/liquidator*
 
 * Delete where not applicable.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 32 | [rule 60]
 
-Application for Appointment of Shorthand Writer to take down notes of Public Examination and Order thereon (Title)
+Application for Appointment of Shorthand Writer to Take down Notes of Public Examination and Order thereon (Title)
 
 Ex parte the Official Receiver or liquidator, as the case may be.
 
@@ -1204,7 +1246,9 @@ Before Upon the application of the Official Receiver or liquidator, as the case 
 
 Dated this day of , 19 .
 
-(46 of 2000 s. 40; E.R. 1 of 2014) _
+(46 of 2000 s. 40; E.R. 1 of 2014)
+
+_
 
 Form 33 | [rule 60]
 
@@ -1220,7 +1264,7 @@ _
 
 Form 34 | [rule 57]
 
-Notes of Public Examination where a Shorthand Writer is appointed (Title)
+Notes of Public Examination where a Shorthand Writer is Appointed (Title)
 
 Public examination of (a) | (a) Mr. an officer [or as the case may be] of the above-named company.
 
@@ -1234,7 +1278,7 @@ _
 
 Form 35 | [rule 57]
 
-Notes of Public Examination where a Shorthand Writer is not appointed (Title)
+Notes of Public Examination where a Shorthand Writer is not Appointed (Title)
 
 Public examination of (a) | (a) Mr. an officer [or as the case may be] of the above-named company.
 
@@ -1248,7 +1292,7 @@ _
 
 Form 36 | [rule 61]
 
-Report to the Court where Person examined refuses to answer to satisfaction of Registrar or Officer (Title)
+Report to the Court where Person Examined Refuses to Answer to Satisfaction of Registrar or Officer (Title)
 
 At the examination of (a) held before me this day of , 19 , the following question was [allowed by me to be] put to the said [ ]. | (a) e.g. A.B., a person ordered to attend for examination.
 
@@ -1266,11 +1310,13 @@ Registrar [or as the case may be]
 
 _
 
-Form 37 (Repealed 14 of 2016 s. 173) _
+Form 37 (Repealed 14 of 2016 s. 173)
+
+_
 
 Form 38 | [rule 56]
 
-Warrant against Person who fails to attend examination (Title)
+Warrant against Person who Fails to Attend Examination (Title)
 
 To the bailiff of our said court, and to each and all the police officers of Hong Kong and to the Commissioner of Correctional Services.
 
@@ -1278,7 +1324,7 @@ WHEREAS by an order of this court, made on the day of , 20 , (a) was ordered to 
 
 AND WHEREAS by evidence taken upon oath, it hath been made to appear to the satisfaction of the court that the day of , 20 , at a.m./p.m. at the High Court of Hong Kong was appointed as the day, time and place for holding the said examination, and that notice of the said order and of the said day, time and place so appointed was duly served upon the said (a)
 
-(AND WHEREAS the said (a) did without good cause fail to attend on the said day of , 20 , for the purpose of being examined, according to the requirements of the said order of this court made on the day of , 20 , directing him so to attend.) (or, and that the said (a) has absconded (or, and that there is good reason to believe that the said (a) is about to abscond) with a view to avoiding examination under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32)).
+(AND WHEREAS the said (a) did without good cause fail to attend on the said day of , 20 , for the purpose of being examined, according to the requirements of the said order of this court made on the day of , 20 , directing him so to attend.) (or, and that the said (a) has absconded (or, and that there is good reason to believe that the said (a) is about to abscond) with a view to avoiding examination under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32)).
 
 THESE ARE THEREFORE to require you the said bailiff and police officers to take the said (a) and to deliver him to the Commissioner of Correctional Services, and you the said Commissioner of Correctional Services to receive the said (a) and him safely keep in prison until such time as this Court may order.
 
@@ -1286,11 +1332,13 @@ Dated the day of , 20 .
 
 Registrar
 
-(L.N. 201 of 1984; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 173) _
+(L.N. 201 of 1984; 28 of 2012 ss. 912 & 920; 14 of 2016 s. 173; E.R. 6 of 2020)
+
+_
 
 Form 38A | [rule 56]
 
-Order for Warrant of Arrest of person who has failed to attend Public Examination (Title)
+Order for Warrant of Arrest of Person who has Failed to Attend Public Examination (Title)
 
 Upon the application of S.W. the Official Receiver or Liquidator of the above-named company, as the case may be by summons dated the day of , 20 , and upon hearing the applicant in person and upon reading the order to wind up the said company dated the order dated . and the affidavit of C.D. filed . and the exhibits therein referred to and by which said affidavit it has been made to appear to the court that by the said order dated A.B. was directed to attend before the court, on a day and at a place to be appointed, and be publicly examined as to the matters referred to in the said order and that the . day of ., at . a.m./p.m. at the High Court of Hong Kong, were appointed as the day, time and place for holding the said examination and it has also been duly proved by the said affidavit of C.D. that the said order dated the . and the notice to attend such examination on the . at . a.m./p.m. respectively had been duly served upon the said A.B. and it appearing that the said A.B. without good cause failed to attend on the . in pursuance of the said order of the (date). IT IS ORDERED that a warrant do issue for the arrest of the said A.B.
 
@@ -1298,7 +1346,9 @@ Dated the day of , 20 .
 
 Registrar
 
-(25 of 1998 s. 2; 46 of 2000 s. 40; 14 of 2016 s. 173) _
+(25 of 1998 s. 2; 46 of 2000 s. 40; 14 of 2016 s. 173)
+
+_
 
 Form 38B | [rule 58B(1)]
 
@@ -1318,7 +1368,9 @@ Dated this day of , 20 .
 
 Note to the above-named —Notice is hereby given that if you fail, without lawful impediment, to attend before the court according to the above-mentioned day, time and place, or at any adjournment of the examination, the court may, by warrant, cause you to be apprehended and brought before the court. In addition, if you commit perjury during your examination, you will be liable on conviction to a fine and imprisonment for 7 years. The Schedule above referred to
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 38C | [rule 58B(3)(a)]
 
@@ -1338,7 +1390,9 @@ Official Receiver/provisional liquidator/liquidator*
 
 * Delete where not applicable. # Delete if day, time and place already specified above.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 39 | [rule 63]
 
@@ -1368,7 +1422,9 @@ To
 
 (address)
 
-(8 of 1993 s. 30; 14 of 2016 s. 173) _
+(8 of 1993 s. 30; 14 of 2016 s. 173)
+
+_
 
 Form 41 | [rule 67]
 
@@ -1410,7 +1466,9 @@ $ | $
 
 (a) At date of commencement of winding up.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 43 | [rule 69(4)]
 
@@ -1446,7 +1504,9 @@ $ | $
 
 (a) At date of commencement of winding up.
 
-(28 of 2012 ss. 912 & 920; 14 of 2016 s. 173) _
+(28 of 2012 ss. 912 & 920; 14 of 2016 s. 173)
+
+_
 
 Form 44 | [rule 69(5)]
 
@@ -1466,7 +1526,9 @@ name and description of deponent], make oath and say as follows—
 
 Sworn, &c.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 45 | [rule 70(3)]
 
@@ -1530,11 +1592,13 @@ In the matter of Limited. The SECOND SCHEDULE above referred to
 
 No. in List | Name | Address | Description | In what character proposed to be included | Number of shares [or extent of interest] | Date when excluded from the List
 
-(28 of 2012 ss. 912 & 920; 14 of 2016 s. 173) _
+(28 of 2012 ss. 912 & 920; 14 of 2016 s. 173)
+
+_
 
 Form 46 | [rule 71(3)]
 
-Notice to Contributory of Final Settlement of List of Contributories and that the Contributory is included (Title)
+Notice to Contributory of Final Settlement of List of Contributories and that the Contributory is Included (Title)
 
 Take notice that I, , the liquidator of the above-named company, have, by certificate, dated the day of , 20 , under my hand, finally settled the list of contributories of the company pursuant to the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) and the rules made under it, and that you are included in the settled list. The character in which, and the number of shares [or extent of interest] for which, you are included, and the amount called up and the amount paid up in respect of such shares (or interest), are stated below.
 
@@ -1554,13 +1618,15 @@ $ | $
 
 (a) At date of commencement of winding up.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 47 | [rule 73]
 
 Supplemental List of Contributories (Title)
 
-1. The following is a supplemental list of persons who, since making the list of contributories of the above-named company, dated the day of ,20 , I have ascertained are, or have been, holders of shares in [or members of] the company, and to the best of my judgment are contributories of the company.
+1. The following is a supplemental list of persons who, since making the list of contributories of the above-named company, dated the day of , 20 , I have ascertained are, or have been, holders of shares in [or members of] the company, and to the best of my judgment are contributories of the company.
 
 2. The supplemental list contains the names of such persons together with their respective addresses and the number of shares [or extent of interest] and the amount called up at the commencement of the winding up and the amount paid at such date in respect of the shares (or interest) to be attributed to each.
 
@@ -1568,7 +1634,9 @@ Supplemental List of Contributories (Title)
 
 4. In the second part of the list, the persons who are contributories as being representatives of, or liable for the debts of, others are identified. [The supplemental list is to be made in the same form as the original list.]
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 48 | [rule 71(4)]
 
@@ -1586,19 +1654,23 @@ name and description of deponent], make oath and say as follows—
 
 2. That I served the notices on each of the persons included in the list of contributories by duly addressing the notices to the persons according to their respective names and addresses appearing in the above-mentioned Schedule and placing the notices prepaid into the post office at before a.m./p.m. on the day of , 20 . Sworn, &c.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 49 | [rule 72]
 
-Order on Application to vary List of Contributories (Title)
+Order on Application to Vary List of Contributories (Title)
 
 Upon the application of W.N., by summons dated the day of , 20 , for an order that the list of contributories of the company and the liquidator’s certificate finally settling the same be varied by excluding the applicant [or as the case may be], and upon hearing, &c., and upon reading &c., it is ordered, that the list of contributories of the company and the liquidator’s certificate finally settling the same be varied by excluding the said W.N. from the said list of contributories, or by including the said W.N. as a contributory in the said list for shares, [or as the case may be] [or the court does not think fit to make any order on the said application, except that the said W.N. do pay to the liquidator of the said company his costs of this application, to be taxed in case the parties differ].
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 50 | [rule 74(a)]
 
-Notice to each member of Committee of Inspection of Meeting for Sanction to proposed Call (Title)
+Notice to Each Member of Committee of Inspection of Meeting for Sanction to Proposed Call (Title)
 
 Take notice that a meeting of the committee of inspection of the above company will be held at on the (a) day of , 19 , at o’clock in the noon, for the purpose of considering and obtaining the sanction of the committee to a call of $ per share proposed to be made by the liquidator on the contributories. Annexed hereto is a statement showing the necessity for the proposed call and the amount required. Dated this day of , 19 . | (a) To be a date not less than seven days from the date when the notice will in course of post reach the person to whom it is addressed.
 
@@ -1624,7 +1696,7 @@ _
 
 Form 51 | [rule 74(b)]
 
-Advertisement of Meeting of Committee of Inspection to Sanction proposed Call (Title)
+Advertisement of Meeting of Committee of Inspection to Sanction Proposed Call (Title)
 
 Notice is hereby given that the undersigned liquidator of the above-named company proposes that a call should be made “on all the contributories of the said company”, or, as the case may be, of $ per share, and that he has summoned a meeting of the committee of inspection of the company, to be held at on the day of , 19 , at o’clock in the noon, to obtain their sanction to the proposed call.
 
@@ -1638,9 +1710,9 @@ _
 
 Form 52 | [rule 74(d)]
 
-Resolution of Committee of Inspection sanctioning Call (Title)
+Resolution of Committee of Inspection Sanctioning Call (Title)
 
-Resolved, that a call of $ per share be made by the liquidator on all the contributories of the company [or, as the case may be]. (signed)
+Resolved, that a call of $ per share be made by the liquidator on all the contributories of the company [or, as the case may be]. (Signed)
 
 Members of the Committee of Inspection
 
@@ -1650,7 +1722,7 @@ _
 
 Form 53 | [rule 77]
 
-Notice of Call sanctioned by Committee of Inspection to be sent to contributory (Title)
+Notice of Call Sanctioned by Committee of Inspection to be Sent to Contributory (Title)
 
 Take notice that the committee of inspection in the winding up of this company have sanctioned a call of per share on all the contributories of the company.
 
@@ -1666,7 +1738,7 @@ _
 
 Form 54 | [rule 75]
 
-Summer for Leave to make a call (Title)
+Summons for Leave to Make a Call (Title)
 
 Let the several persons whose names and addresses are set forth in the second column of the schedule hereto, being contributories of the above-named company, as shown in the third column of the said schedule, attend at on the day of , 19 , at o’clock in the noon, on the hearing of an application on the part of the [Official Receiver and] liquidator of the company for an order that he may be at liberty to make a call to the amount of per share on all the contributories [or as the case may be] of the said company.
 
@@ -1684,7 +1756,7 @@ _
 
 Form 55 | [rule 75]
 
-Affidavit of Liquidator in support of Proposal for Call (Title)
+Affidavit of Liquidator in Support of Proposal for Call (Title)
 
 I, of, &c., the liquidator of the above-named company, make oath and say as follows—
 
@@ -1702,7 +1774,7 @@ _
 
 Form 56 | [rule 75]
 
-Advertisement of Application for leave to make a Call
+Advertisement of Application for Leave to Make a Call
 
 In the matter of
 
@@ -1712,11 +1784,13 @@ Dated this day of , 20 .
 
 Liquidator
 
-(25 of 1998 s. 2; 14 of 2016 s. 173) _
+(25 of 1998 s. 2; 14 of 2016 s. 173)
+
+_
 
 Form 57 | [rule 75]
 
-The day of 19 . Order giving Leave to make a call The day of 19 . (Title)
+The day of 19 . Order Giving Leave to Make a Call The day of 19 . (Title)
 
 Upon the application of the [Official Receiver and] liquidator of the above-named company, the order to wind up the above-named company, the list of contributories of the said company and the liquidator’s certificate of the final settlement of the same, and the affidavit of the said [Official Receiver and] liquidator, filed the day of 19 , and the exhibit marked “A” therein referred to, and an affidavit of filed the day of 19 .
 
@@ -1728,21 +1802,25 @@ _
 
 Form 58 | [rule 76]
 
-DOCUMENT MAKING A CALL (Title)
+Document Making a Call (Title)
 
 I, the [Official Receiver and] liquidator of the above-named company, in pursuance of (a) made (or passed) this day of 19 , hereby make a call of per share on all the contributories of the company, which sum is to be paid at my office (b) on the day of 19 . | (a) An order of court, or resolution of the committee of inspection. (b) Insert address.
 
 Dated this day of , 19 .
 
-(L.N. 587 of 1995) _
+(L.N. 587 of 1995)
+
+_
 
 Form 59 | [rule 77]
 
-Notice to be served with the Order sanctioning a Call (Title)
+Notice to be Served with the Order Sanctioning a Call (Title)
 
 The amount due from you, A.B., in respect of the call made pursuant to leave given by the above [or within] order is the sum of $ , which sum is to be paid by you to me as the liquidator of the said company at my office, (a). | (a) Insert address.
 
-In default of payment interest at the rate of 8 per cent per annum will be charged upon the amount unpaid from the day of until payment. Dated this day of , 19 . To Mr. A.B.
+In default of payment interest at the rate of 8 per cent per annum will be charged upon the amount unpaid from the day of until payment.
+
+Dated this day of , 19 . To Mr. A.B.
 
 Liquidator
 
@@ -1750,11 +1828,11 @@ _
 
 Form 60 | [rule 78]
 
-Affidavit in support of application for order for Payment of Call (Title)
+Affidavit in Support of Application for Order for Payment of Call (Title)
 
 I, of, &c., the liquidator of the above-named company, make oath and say as follows:—
 
-1. None of the contributories of the said company, whose names are set forth in the schedule hereto annexed, marked “A”, have paid or caused to be paid the sums set opposite their respective names in the said schedule, which sums are the amounts now due from them respectively under the call of per share, duly made under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32) dated the day of 19 .
+1. None of the contributories of the said company, whose names are set forth in the schedule hereto annexed, marked “A”, have paid or caused to be paid the sums set opposite their respective names in the said schedule, which sums are the amounts now due from them respectively under the call of per share, duly made under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) dated the day of 19 .
 
 2. The respective amount or sums set opposite the names of such contributories respectively in such schedule are the true amounts due and owing by such contributories respectively in respect of the said call.
 
@@ -1768,11 +1846,13 @@ Sworn, &c.
 
 NOTE—In addition to the above affidavit, an affidavit of the service of the application for the call will be required in cases in which the committee of inspection of the court has authorized a call to be made.
 
-(28 of 2012 ss. 912 & 920) _
+(28 of 2012 ss. 912 & 920; E.R. 6 of 2020)
+
+_
 
 Form 61 | [rule 78]
 
-Order for Payment of Call due from a Contributory The day of , 19 . (Title)
+Order for Payment of Call Due from a Contributory The day of , 19 . (Title)
 
 Upon the application of the liquidator of the above-named company, and upon reading an affidavit of filed the day of , 19 , and an affidavit of the liquidator filed the day of , 19 , it is ordered that C.D., of, &c., [or E.F., of, &c., the legal personal representative of L.M., late of, &c., deceased], one of the contributories of the said company [or, if against several contributories, the several persons named in the second column of the schedule to this order, being respectively contributories of the said company], do, on or before the day of , 19 , or within 4 days after service of this order, pay to A.B., the liquidator of the said company at his office, (a) , the sum of $ [if against a legal personal representative add, out of the assets of the said L.M. deceased, in his hands as such legal personal representative as aforesaid, to be administered in due course of administration, if the said E.F. has in his hands so much to be administered, or, if against several contributories, the several sums of money set opposite to the respective names in the sixth column of the said schedule hereto], such sum [or sums] being the amount [or amounts] due from the said C.D. [or L.M.], [or the said several persons respectively], in respect of the call of $ per share duly made, dated the day of , 19 . | (a) Insert address.
 
@@ -1790,7 +1870,9 @@ $ | ￠
 
 NOTE—The copy for service of the above order must be endorsed as follows— “If you, the undermentioned A.B., neglect to obey this order by the time mentioned therein you will be liable to process of execution, for the purpose of compelling you to obey the same.”
 
-(L.N. 286 of 1997) _
+(L.N. 286 of 1997)
+
+_
 
 Form 62 | [rule 78]
 
@@ -1806,7 +1888,7 @@ _
 
 Form 63A | [rule 80]
 
-PROOF OF DEBT—GENERAL FORM IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19
+Proof of Debt—General Form IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19
 
 Except in the case of claims for wages or salary, where the debt proved for exceeds $250 a fee of $15 must be paid hereon otherwise the proof cannot be admitted. | IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) and IN THE MATTER of _
 
@@ -1846,11 +1928,13 @@ To be returned to the provisional liquidator or, if a liquidator has been appoin
 
 Note: | The proof cannot be admitted for voting at the first meeting unless it is properly completed and lodged with the liquidator not later than 24 hours before the time specified in the notice convening the meeting.
 
-(L.N. 225 of 1992; L.N. 306 of 1996; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014) _
+(L.N. 225 of 1992; L.N. 306 of 1996; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014)
+
+_
 
 Form 63B | [rule 83]
 
-AFFIDAVIT OF DEBT IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19 IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) and
+Affidavit of Debt IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19 IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) and
 
 IN THE MATTER of
 
@@ -1882,7 +1966,9 @@ Warning: | A person convicted of making a false statement in respect of a proof 
 
 To be returned to the provisional liquidator or, if a liquidator has been appointed, to the liquidator.
 
-(L.N. 225 of 1992; L.N. 306 of 1996; 47 of 1997 s. 10; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014) _
+(L.N. 225 of 1992; L.N. 306 of 1996; 47 of 1997 s. 10; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014)
+
+_
 
 Form 64 | [rule 90]
 
@@ -1898,7 +1984,7 @@ Sworn at in Hong Kong this day of 19 | ｝ | Deponent’s Signature.
 
 Before me
 
-SCHEDULE referred to on the other side
+Schedule referred to on the other side
 
 1 | 2 | 3 | 4 | 5 | 6
 
@@ -1908,7 +1994,9 @@ $ | ￠
 
 Signature of Deponent.
 
-(L.N. 201 of 1984) _
+(L.N. 201 of 1984)
+
+_
 
 Form 65 | [rule 94]
 
@@ -1946,11 +2034,13 @@ Liquidator
 
 To | [Address]
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 68 | [rule 142(5)]
 
-Certified List of Proofs of rule 142(5) Companies (Winding-Up) Rules (Cap. 32 sub. leg. H), and Application for issue of Cheques for Dividend on Companies Liquidation Account
+Certified List of Proofs under Rule 142(5) Companies (Winding-up) Rules (Cap. 32 sub. leg. H), and Application for issue of Cheques for Dividend on Companies Liquidation Account
 
 Companies Liquidation Account. Ledger Folio
 
@@ -1978,11 +2068,13 @@ Sums under $20 | Sums of $20 and above
 
 $ | ￠ | $ | ￠ | $ | ￠
 
-(E.R. 1 of 2014) _
+(E.R. 1 of 2014)
+
+_
 
 Form 69 | [rule 142(5)]
 
-Certified List of Proofs filed under Rule 142(5) Companies (Winding-up) Rules (Cap. 32 sub. leg. H), Special Bank Case (Title)
+Certified List of Proofs Filed under Rule 142(5) Companies (Winding-up) Rules (Cap. 32 sub. leg. H), Special Bank Case (Title)
 
 I hereby certify that the following list has been compared with the proofs filed, and that the names of the creditors and the amounts for which the proofs are admitted are correctly stated.
 
@@ -1998,15 +2090,17 @@ Surname | Christian name | Amount of proof | Amount of dividend
 
 $ | ￠ | $ | ￠
 
-(E.R. 1 of 2014) _
+(E.R. 1 of 2014)
+
+_
 
 Form 70 | [rule 142(1)]
 
-Notice to Persons claiming to be Creditors of Intention to declare Final Dividend (Title)
+Notice to Persons Claiming to be Creditors of Intention to Declare Final Dividend (Title)
 
 Take notice that a final dividend is intended to be declared in the above matter, and that if you do not establish your claim to the satisfaction of the court on or before the day of , 19 , or such later day as the court may fix, your claim will be expunged, and I shall proceed to make a final dividend without regard to such claim.
 
-Dated the day of , 19 .
+Dated this day of , 19 .
 
 Liquidator
 
@@ -2064,7 +2158,9 @@ Notes: | (a) | This is an authority only to deliver the cheque or money order, N
 
 (b) | Strike out words inapplicable. If not to be sent by post strike out words in italics and insert the name of the person who is to receive the cheque or money order.
 
-(L.N. 50 of 1964) _
+(L.N. 50 of 1964)
+
+_
 
 Form 72 | [rule 142(7)]
 
@@ -2110,7 +2206,7 @@ Notice of Return to Contributories Cheques are cancelled at the expiration of 6 
 
 Notice is hereby given that a return of per share has been declared in this matter, and that the same may be received at my office, as above, on the day of , 19 , or on any subsequent day, except Saturday, between the hours of
 
-Upon applying for payment this notice must be produced entire, together with the share certificate. If you do not attend personally you must forward the share certificate and fill up and sign the subjoined forms of RECEIPT and authority to deliver, when a cheque or money order payable to your order will be delivered in accordance with the authority.
+Upon applying for payment this notice must be produced entire, together with the share certificate. If you do not attend personally you must forward the share certificate and fill up and sign the subjoined forms of receipt and authority to deliver, when a cheque or money order payable to your order will be delivered in accordance with the authority.
 
 (Signed)
 
@@ -2182,7 +2278,9 @@ I, a (a) , make oath and say as follows:— | (a) State the description of the d
 
 2. That the notices for creditors were addressed to the said creditors respectively, according to their respective names and addresses appearing in the statement of affairs of the company or a supplementary affidavit in relation to that statement or the last known addresses of such creditors. 3. That the notices for contributories were addressed to the contributories respectively according to their respective names and registered or last known addresses appearing in the register of the company. 4. That I sent the said notices by putting the same prepaid into the post office at before the hour of o’clock in the noon on the said day. Sworn, &c.
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 77 | [rule 115]
 
@@ -2198,7 +2296,9 @@ Signature
 
 Dated this day of , 20 .
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 78 | [rule 122]
 
@@ -2212,7 +2312,7 @@ _
 
 Form 79 | [rule 118]
 
-Authority to Deputy to act as Chairman of Meeting and use Proxies (Title)
+Authority to Deputy to Act as Chairman of Meeting and Use Proxies (Title)
 
 I, the Official Receiver [or the liquidator] do hereby nominate Mr. of to be chairman of the meeting of creditors [or contributories] in the above matter, appointed to be held at on the day of , 19 , [and I depute him (a) to attend such meeting and use, on my behalf, any proxy or proxies held by me in this matter]. Dated this day of , 19 . | (a) Where authority given by the Official Receiver. Here insert “being a person under my official control”.
 
@@ -2240,13 +2340,15 @@ Notes—(1) The person appointed general proxy may be the Official Receiver, the
 
 In a voluntary winding up the liquidator or if there is no liquidator the chairman of a meeting may but the Official Receiver may not be appointed proxy. The proxy form will be altered accordingly.
 
-(L.N. 286 of 1997) _
+(L.N. 286 of 1997)
+
+_
 
 Form 81 | [rule 132]
 
 Special Proxy (Title)
 
-I/We, | of
+I/We, | of | (a) Here insert the word “for” or the word “against” as the case may require, and specify the particular resolution.
 
 ,
 
@@ -2256,7 +2358,7 @@ Dated this day of , .
 
 (Signed) (2)
 
-Notes—(1) The person appointed proxy may be the Official Receiver, the liquidator, or such other person as the creditor (or contributory) may approve, and the proxy form when signed must be lodged by the time and at the address named for that purpose in the notice convening the meeting at which it is to be used. A creditor (or contributory) may give a special proxy to any person to vote at any specified meeting or adjournment thereof on all or any of the following matters— | (a) Here insert the word “for” or the word “against” as the case may require, and specify the particular resolution.
+Notes—(1) The person appointed proxy may be the Official Receiver, the liquidator, or such other person as the creditor (or contributory) may approve, and the proxy form when signed must be lodged by the time and at the address named for that purpose in the notice convening the meeting at which it is to be used. A creditor (or contributory) may give a special proxy to any person to vote at any specified meeting or adjournment thereof on all or any of the following matters—
 
 (a) | for or against the appointment or continuance in office of any specified person as liquidator or as member of the committee of inspection;
 
@@ -2270,11 +2372,13 @@ In a voluntary winding up the liquidator or if there is no liquidator the chairm
 
 _
 
-Forms 82—83 (Repealed 30 of 1999 s. 44)
+Forms 82-83 (Repealed 30 of 1999 s. 44)
 
 _
 
-Forms 84—85 (Repealed L.N. 247 of 1994) _
+Forms 84-85 (Repealed L.N. 247 of 1994)
+
+_
 
 Form 86 | [rule 161]
 
@@ -2286,7 +2390,9 @@ We, the undersigned, members of the committee of inspection in the winding up of
 
 _
 
-Form 87 (Repealed L.N. 247 of 1994) _
+Form 87 (Repealed L.N. 247 of 1994)
+
+_
 
 Form 88 | [rule 163]
 
@@ -2306,15 +2412,19 @@ Committee of Inspection [or member of the Committee of Inspection]
 
 _
 
-Form 89 (Repealed L.N. 247 of 1994) _
+Form 89 (Repealed L.N. 247 of 1994)
+
+_
 
 Form 90 | [rule 169]
 
 Request to Deliver Bill for Taxation (Title)
 
-I hereby request that you will, within days of this date, or such further time as the court may allow, deliver to me for taxation by the proper officer your bill of costs [or charges] as (a) failing which, I shall, in pursuance of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32) and rules proceed to declare and distribute a dividend without regard to any claim which you may have against the assets of the company, and your claim against the assets of the company will be liable to be forfeited. Dated this day of , 19 . | (a) Here state nature of employment.
+I hereby request that you will, within days of this date, or such further time as the court may allow, deliver to me for taxation by the proper officer your bill of costs [or charges] as (a) failing which, I shall, in pursuance of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) and rules proceed to declare and distribute a dividend without regard to any claim which you may have against the assets of the company, and your claim against the assets of the company will be liable to be forfeited. Dated this day of , 19 . | (a) Here state nature of employment.
 
-(28 of 2012 ss. 912 & 920) _
+(28 of 2012 ss. 912 & 920; E.R. 6 of 2020)
+
+_
 
 Form 91 | [rule 174]
 
@@ -2334,9 +2444,9 @@ Form 92 | [rules 181 and 182]
 
 Statement of Receipts and Payments and General Directions as to Statements (Name of company)
 
-(1) Every statement must be on sheets 210 x 297 mm in size. | Size of sheets.
+(1) Every statement must be on sheets 210 × 297 mm in size. | Size of sheets.
 
-(2) Every statement must contain a detailed account of all the liquidator’s realizations and disbursements in respect of the company. The statement of realizations should contain a record of all receipts derived from assets existing at the date of the winding-up order or resolution and subsequently realized, including balance in bank, book debts and calls collected, property sold, &c.; and the account of disbursements should contain all payments for costs and charges, or to creditors, or contributories. Where property has been realized, the gross proceeds of sale must be entered under realizations, and the necessary payments incidental to sales must be entered as disbursements. These accounts should not contain payments into the companies liquidation account (except unclaimed dividend-see para. 5) or payments into or out of bank, or temporary investments by the liquidator, or the proceeds of such investments when realized, which should be shown separately— | Form and contents of statement.
+(2) Every statement must contain a detailed account of all the liquidator’s realizations and disbursements in respect of the company. The statement of realizations should contain a record of all receipts derived from assets existing at the date of the winding-up order or resolution and subsequently realized, including balance in bank, book debts and calls collected, property sold, &c.; and the account of disbursements should contain all payments for costs and charges, or to creditors, or contributories. Where property has been realized, the gross proceeds of sale must be entered under realizations, and the necessary payments incidental to sales must be entered as disbursements. These accounts should not contain payments into the companies liquidation account (except unclaimed dividend—see para. 5) or payments into or out of bank, or temporary investments by the liquidator, or the proceeds of such investments when realized, which should be shown separately— | Form and contents of statement.
 
 (a) | by means of the bank pass book;
 
@@ -2346,13 +2456,13 @@ Interest allowed or charged by the bank, bank commission, &c., and profit or los
 
 (3) When the liquidator carries on a business, a trading account must be forwarded as a distinct account, and the totals of receipts and payments on the trading account must alone be set out in the statement. | Trading account.
 
-(4) When dividends or instalments of compositions are paid to creditors, or a return of surplus assets is made to contributories, the total amount of each dividend, or instalment of composition, or return to contributories, actually paid, must be entered in the statement of disbursements as one sum; and the liquidator must forward separate accounts showing in lists the amount of the claim of each creditor, and the amount of dividend or composition payable to each creditor, and of surplus assets payable to each contributory, distinguishing in each list the dividends or instalments of composition and shares of surplus assets actually paid and those remaining unclaimed. Each list must be on sheets 210 x 297 mm in size. | Dividends, etc.
+(4) When dividends or instalments of compositions are paid to creditors, or a return of surplus assets is made to contributories, the total amount of each dividend, or instalment of composition, or return to contributories, actually paid, must be entered in the statement of disbursements as one sum; and the liquidator must forward separate accounts showing in lists the amount of the claim of each creditor, and the amount of dividend or composition payable to each creditor, and of surplus assets payable to each contributory, distinguishing in each list the dividends or instalments of composition and shares of surplus assets actually paid and those remaining unclaimed. Each list must be on sheets 210 × 297 mm in size. | Dividends, etc.
 
 (5) When unclaimed dividends, instalments of compositions or returns of surplus assets are paid into the companies liquidation account, the total amount so paid in should be entered in the statement of disbursements as one sum.
 
 (6) Credit should not be taken in the statement of disbursements for any amount in respect of liquidator’s remuneration unless it has been duly allowed by resolution of the committee of inspection or of the creditors or of the company in general meeting, or by order of court as the case may require.
 
-Liquidator’s Statement of Account Pursuant to section 284 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32) Name of company.
+Liquidator’s Statement of Account Pursuant to section 284 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) Name of company.
 
 Nature of proceedings (whether wound up by the court, or under the supervision of the court, or voluntarily). | ｝
 
@@ -2362,7 +2472,7 @@ Date of which statement is brought down.
 
 Name and address of liquidator.
 
-Liquidator’s Statement of Account Pursuant to Section 284 of The Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32)
+Liquidator’s Statement of Account pursuant to section 284 of The Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32)
 
 REALIZATIONS | DISBURSEMENTS
 
@@ -2380,7 +2490,7 @@ Carried | Carried
 
 forward | forward
 
-* NOTE—No balance should be shown on this account, but only the total realizations and disbursements, which should be carried forward to the next account.
+* NOTE— | No balance should be shown on this account, but only the total realizations and disbursements, which should be carried forward to the next account.
 
 Analysis of Balance
 
@@ -2440,7 +2550,9 @@ for cash | $
 
 (5) | The period within which the winding up may probably be completed. | ｝
 
-(L.N. 397 of 1984; L.N. 247 of 1994; 28 of 2012 ss. 912 & 920) _
+(L.N. 397 of 1984; L.N. 247 of 1994; 28 of 2012 ss. 912 & 920; E.R. 6 of 2020)
+
+_
 
 Form 93 | [rule 185]
 
@@ -2458,7 +2570,9 @@ Sworn at | ｝
 
 * NOTE—If no receipts or payments, strike out the words in italics.
 
-(L.N. 247 of 1994) _
+(L.N. 247 of 1994)
+
+_
 
 Form 94 | [rules 181 and 185]
 
@@ -2506,7 +2620,9 @@ I hereby certify that a return of surplus assets was declared payable to contrib
 
 Liquidator
 
-Dated the day of , 19 . To the Official Receiver.
+Dated the day of , 19 .
+
+To the Official Receiver.
 
 Surname | Christian name | No. of shares | Amount returned on shares
 
@@ -2520,7 +2636,7 @@ _
 
 Form 97 | [rule 184]
 
-Affidavit verifying Account of Unclaimed and Undistributed Funds (Title)
+Affidavit Verifying Account of Unclaimed and Undistributed Funds (Title)
 
 I, of make oath and say that the particulars entered in the statement hereunto annexed, marked “A”, are correct, and truly set forth all money in my hands or under my control, representing unclaimed or undistributed assets of the above company, and that the amount due by me to the companies liquidation account in respect of unclaimed dividends and undistributed funds is $
 
@@ -2532,7 +2648,7 @@ _
 
 Form 98 | [rule 189]
 
-Notice to Creditors and Contributories of intention to apply for Release (Title)
+Notice to Creditors and Contributories of Intention to Apply for Release (Title)
 
 Take notice that I, the undersigned liquidator of the above-named company, intend to apply to the court for my release, and further take notice that any objection you may have to the granting of my release must be notified to the court within 21 days of the date hereof.
 
@@ -2544,13 +2660,15 @@ Liquidator
 
 To
 
-Note—Section 205(3) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32), enacts that “An order of the court releasing the liquidator shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the company, or otherwise in relation to his conduct as liquidator, but any such order—
+Note—Section 205(3) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), enacts that “An order of the court releasing the liquidator shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the company, or otherwise in relation to his conduct as liquidator, but any such order—
 
 (a) | does not prevent the exercise of the court’s powers under section 276; and
 
 (b) | may be revoked on proof that it was obtained by fraud or by suppression or concealment of any material fact.”
 
-(28 of 2012 ss. 912 & 920; 14 of 2016 s. 173) _
+(28 of 2012 ss. 912 & 920; 14 of 2016 s. 173; E.R. 6 of 2020)
+
+_
 
 Form 99 | [rule 189]
 
@@ -2564,11 +2682,13 @@ I , the liquidator of the above-named company, do hereby report to this Honourab
 
 Liquidator
 
-(L.N. 50 of 1964) _
+(L.N. 50 of 1964)
+
+_
 
 Form 100 | [rule 189]
 
-Statement to accompany Notice of Application for Release (Title) Statement showing position of company at date of application for release
+Statement to Accompany Notice of Application for Release (Title) Statement showing position of company at date of application for release
 
 Dr. | Cr.
 
@@ -2648,11 +2768,13 @@ Dated this day of , 20 .
 
 (Address)
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 101 | [rule 201]
 
-Register of Winding-up Orders to be kept in the Court
+Register of Winding-up Orders to be Kept in the Court
 
 Number of Winding-up Order | Number of Petition | Date of Petition | Date of Winding-up Order | Dates of Public Examinations (if any) | Liquidator
 
@@ -2726,7 +2848,9 @@ Name of company Number of matter Liquidator’s address | Address of registered 
 
 Name of company Number of matter Liquidator’s address | Address of registered office Liquidator’s name Date of release
 
-(14 of 2016 s. 173) _
+(14 of 2016 s. 173)
+
+_
 
 Form 104 | [rule 203]
 
@@ -2740,7 +2864,7 @@ _
 
 Form 105 | [rule 183(4) and section 285(1)]
 
-Certificate of Receipt for money paid into Companies Liquidation Account (Title)
+Certificate of Receipt for Money Paid into Companies Liquidation Account (Title)
 
 This is to certify that Mr. , liquidator of the above-named company has this day paid into the companies liquidation account through me the sum of representing unclaimed or undistributed assets of the above-named company or money held by the company in trust in respect of dividends or other sums due to members of the company.
 
