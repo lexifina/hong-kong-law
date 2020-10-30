@@ -52,6 +52,8 @@ Poisons List
 
     - Abiraterone; its salts
 
+    - Acalabrutinib; its salts
+
     - Acamprosate; its salts
 
     - Acarbose; its salts
@@ -93,6 +95,8 @@ Poisons List
     - Aflibercept
 
     - Afoxolaner; its salts
+
+    - Agalsidase alfa
 
     - Agalsidase beta
 
@@ -213,6 +217,8 @@ Poisons List
     - Almitrine; its salts
 
     - Alogliptin; its salts
+
+    - Alpelisib; its salts
 
     - Alphadolone; its esters
 
@@ -632,6 +638,8 @@ Poisons List
 
     - Carfilzomib; its salts
 
+    - Carglumic acid; its salts; its esters; their salts
+
     - Carisoprodol
 
     - Carmustine
@@ -896,6 +904,8 @@ Poisons List
 
     - Darifenacin; its salts
 
+    - Darolutamide; its salts
+
     - Darunavir; its salts
 
     - Dasabuvir; its salts
@@ -991,6 +1001,8 @@ Poisons List
     - Dimepheptanol; its salts; its esters and ethers; their salts
 
     - Dimethyl fumarate when contained in pharmaceutical products
+
+    - Dinutuximab beta
 
     - Dioxaphetyl butyrate; its salts
 
@@ -1402,6 +1414,8 @@ Poisons List
 
     - Hexobendine; its salts
 
+    - Human cytomegalovirus immunoglobulin
+
     - Hydralazine; its salts
 
     - Hydrazines, the following and their alpha-methyl derivatives—
@@ -1653,6 +1667,8 @@ Poisons List
     - Lumefantrine; its salts
 
     - Lurasidone; its salts
+
+    - Lutetium-177; its salts; when contained in pharmaceutical products
 
     - Lutetium (177Lu) oxodotreotide; its salts
 
@@ -2131,6 +2147,8 @@ Poisons List
     - Pefloxacin; its salts; its esters
 
     - Pegaptanib; its salts
+
+    - Pegaspargase
 
     - Pegfilgrastim
 
@@ -2634,6 +2652,8 @@ Poisons List
 
     - Regorafenib; its salts
 
+    - Remdesivir; its salts
+
     - Remifentanil; its salts
 
     - Remoxipride; its salts
@@ -2753,6 +2773,8 @@ Poisons List
     - Simeprevir; its salts
 
     - Simvastatin
+
+    - Siponimod; its salts; its esters; their salts
 
     - Sirolimus; its salts
 
@@ -3038,6 +3060,8 @@ Poisons List
 
     - Umeclidinium; its salts
 
+    - Upadacitinib; its salts
+
     - Urapidil; its salts
 
     - Urethane
@@ -3152,7 +3176,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020)
 
   - Division B
 
