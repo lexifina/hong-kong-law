@@ -392,11 +392,15 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 72. | Fisheries Protection Ordinance (Cap. 171) | A decision of the Director of Agriculture, Fisheries and Conservation—
 
-(a) | to refuse to register a vessel on application made under section 14, 19 or 21;
+(a) | to refuse to register a vessel on application made under section 14(1), 14A(2), 14B(8), 19(1), 21(1) or 21A(8); (Amended 22 of 2020 s. 14)
+
+(ab) | to refuse to issue a provisional approval under section 14B(2); (Added 22 of 2020 s. 14)
 
 (b) | to impose conditions under section 16;
 
 (c) | to add, remove or amend any conditions or refuse to do so under section 17;
+
+(ca) | to refuse to issue a certificate of eligibility under section 21A(2); (Added 22 of 2020 s. 14)
 
 (d) | to cancel a registration under section 24;
 

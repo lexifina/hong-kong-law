@@ -8,7 +8,7 @@ Fees
 
 Item | Particular | When payable | Fee $
 
-1. | Application for registration of a local fishing vessel under section 14, 19 or 21 | On making application | 195
+1. | Application for registration of a local fishing vessel under section 14(1), 14A(2), 14B(8), 19(1), 21(1) or 21A(8) (Amended 22 of 2020 s. 13) | On making application | 195
 
 2. | Issue of certificate of registration under section 20 or 30 | On issue of the certificate | 165
 
