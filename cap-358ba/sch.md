@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [s. 1]
 
@@ -28,11 +28,11 @@ Waste discharges should not cause the level of dissolved oxygen to fall below 4 
 
 D. | pH
 
-Waste discharges should not cause the natural pH range of the water to be extended by more than 0.2 unit. In addition, the pH of the water should be in the range of 6.5-8.5 units. | Whole zone
+Waste discharges should not cause the natural pH range of the water to be extended by more than 0.2 unit. In addition, the pH of the water should be in the range of 6.5‒8.5 units. | Whole zone
 
 E. | TEMPERATURE
 
-Waste discharges should not cause the natural daily temperature range to change by more than 2.00C. | Whole zone
+Waste discharges should not cause the natural daily temperature range to change by more than 2.0oC. | Whole zone
 
 F. | SALINITY
 
