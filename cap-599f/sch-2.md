@@ -38,6 +38,8 @@ Scheduled Premises
 
 - 14. | Swimming pool (L.N. 150 of 2020)
 
+- 15. | Hotel or guesthouse (except the premises specified in the Schedule to the Hotel and Guesthouse Accommodation (Exclusion) Order (Cap. 349 sub. leg. C)) (L.N. 222 of 2020)
+
 - Part 2 Interpretation
 
   - 1. In this Schedule—
@@ -75,6 +77,10 @@ Scheduled Premises
         - (iii) yoga, pilates or body stretching; and
 
         - (iv) martial arts;
+
+    - guesthouse (旅館) has the meaning given by section 2(1) of the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (L.N. 222 of 2020)
+
+    - hotel (旅館) has the meaning given by section 2(1) of the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (L.N. 222 of 2020)
 
     - karaoke establishment (卡拉OK場所) means—
 
