@@ -1,7 +1,3 @@
-Editorial Note:
-
-* Date of publication in the Gazette: 20 April 2018.
-
 # First Schedule
 
 [ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71, 72 & 73 & 2nd Sch. & Schs. 7, 8, 9 & 10]
@@ -26,33 +22,7 @@ Part 1 (Added 2 of 2018 s. 11) | (A) | 15% of the amount or value of the conside
 
 (C) | All parties, and all other persons executing; but see Notes 2 and 7 to this sub-head
 
-Part 2 (Added 2 of 2018 s. 11)
-
-(a) | if the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A) | (a) | 1.5% of the amount or value of the consideration
-
-(b) | if the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,470 and the instrument is certified in accordance with section 29 at $2,176,470 | (b) | $30,000 plus 20% of the amount by which the amount or value of the consideration exceeds $2,000,000
-
-(c) | if the amount or value of the consideration exceeds $2,176,470 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (c) | 3% of the amount or value of the consideration
-
-(d) | if the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,290,330 and the instrument is certified in accordance with section 29 at $3,290,330 | (d) | $90,000 plus 20% of the amount by which the amount or value of the consideration exceeds $3,000,000
-
-(e) | if the amount or value of the consideration exceeds $3,290,330 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29 at $4,000,000 | (e) | 4.5% of the amount or value of the consideration
-
-(f) | if the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,580 and the instrument is certified in accordance with section 29 at $4,428,580 | (f) | $180,000 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000
-
-(g) | if the amount or value of the consideration exceeds $4,428,580 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29 at $6,000,000 | (g) | 6% of the amount or value of the consideration
-
-(h) | if the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29 at $6,720,000 | (h) | $360,000 plus 20% of the amount by which the amount or value of the consideration exceeds $6,000,000
-
-(i) | if the amount or value of the consideration exceeds $6,720,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29 at $20,000,000 | (i) | 7.5% of the amount or value of the consideration
-
-(j) | if the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,130 and the instrument is certified in accordance with section 29 at $21,739,130 | (j) | $1,500,000 plus 20% of the amount by which the amount or value of the consideration exceeds $20,000,000
-
-(k) | in any other case (Added 14 of 2014 s. 28) | (k) | 8.5% of the amount or value of the consideration
-
-(B) | 30 days after the execution; but see Note 2 to this sub-head
-
-(C) | All parties, and all other persons executing; but see Notes 2 and 7 to this sub-head
+Part 2 (Repealed L.N. 231 of 2020 and 2 of 2021 s. 10)
 
 SCALE 2— (Added 14 of 2014 s. 28)
 
@@ -188,33 +158,7 @@ Part 1 (Added 2 of 2018 s. 11) | (A) | 15% of the amount or value of the conside
 
 (C) | All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects that party, and all other persons executing; but see Note 7 to this sub-head
 
-Part 2 (Added 2 of 2018 s. 11)
-
-(a) | if the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A) | (a) | 1.5% of the amount or value of the consideration
-
-(b) | if the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,470 and the instrument is certified in accordance with section 29G at $2,176,470 | (b) | $30,000 plus 20% of the amount by which the amount or value of the consideration exceeds $2,000,000
-
-(c) | if the amount or value of the consideration exceeds $2,176,470 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (c) | 3% of the amount or value of the consideration
-
-(d) | if the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,290,330 and the instrument is certified in accordance with section 29G at $3,290,330 | (d) | $90,000 plus 20% of the amount by which the amount or value of the consideration exceeds $3,000,000
-
-(e) | if the amount or value of the consideration exceeds $3,290,330 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29G at $4,000,000 | (e) | 4.5% of the amount or value of the consideration
-
-(f) | if the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,580 and the instrument is certified in accordance with section 29G at $4,428,580 | (f) | $180,000 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000
-
-(g) | if the amount or value of the consideration exceeds $4,428,580 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29G at $6,000,000 | (g) | 6% of the amount or value of the consideration
-
-(h) | if the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29G at $6,720,000 | (h) | $360,000 plus 20% of the amount by which the amount or value of the consideration exceeds $6,000,000
-
-(i) | if the amount or value of the consideration exceeds $6,720,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29G at $20,000,000 | (i) | 7.5% of the amount or value of the consideration
-
-(j) | if the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,130 and the instrument is certified in accordance with section 29G at $21,739,130 | (j) | $1,500,000 plus 20% of the amount by which the amount or value of the consideration exceeds $20,000,000
-
-(k) | in any other case (Added 14 of 2014 s. 28) | (k) | 8.5% of the amount or value of the consideration
-
-(B) | 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head
-
-(C) | All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects that party, and all other persons executing; but see Note 7 to this sub-head
+Part 2 (Repealed L.N. 231 of 2020 and 2 of 2021 s. 10)
 
 SCALE 2— (Added 14 of 2014 s. 28)
 
