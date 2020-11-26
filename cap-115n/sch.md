@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [s. 2] (L.N. 178 of 1994)
 
