@@ -46,7 +46,7 @@ section 118C | homosexual buggery with or by a man under 16 (Amended 18 of 2014 
 
 section 118D | buggery with a girl under 21
 
-section 118E | buggery with a defective
+section 118E | buggery with a mentally incapacitated person (Amended 21 of 2020 s. 63)
 
 section 118F | (Repealed 18 of 2014 s. 10)
 
@@ -54,7 +54,7 @@ section 118G | procuring others to commit homosexual buggery
 
 section 118H | gross indecency with or by a man under 16 (Amended 18 of 2014 s. 10)
 
-section 118I | gross indecency by a man with a male defective
+section 118I | gross indecency by a man with a male mentally incapacitated person (Amended 21 of 2020 s. 63)
 
 section 118J | gross indecency by a man with another man otherwise than in private
 
@@ -74,13 +74,13 @@ section 123 | sexual intercourse with a girl under 13
 
 section 124 | sexual intercourse with a girl under 16
 
-section 125 | sexual intercourse with a woman who is a defective
+section 125 | sexual intercourse with a woman who is a mentally incapacitated person (Amended 21 of 2020 s. 63)
 
 section 126 | abduction of an unmarried girl under 16
 
 section 127 | abduction of an unmarried girl under 18 for sexual intercourse
 
-section 128 | abduction of a defective for an unlawful sexual act
+section 128 | abduction of a mentally incapacitated person for an unlawful sexual act (Amended 21 of 2020 s. 63)
 
 section 129 | trafficking in persons for the purpose of prostitution
 
@@ -90,13 +90,13 @@ section 131 | causing prostitution
 
 section 132 | procurement of a girl under 21 to have unlawful sexual intercourse
 
-section 133 | procurement of a woman who is a defective to have sexual intercourse
+section 133 | procurement of a woman who is a mentally incapacitated person to have sexual intercourse (Amended 21 of 2020 s. 63)
 
 section 134 | detention of a person for an unlawful sexual act or in a vice establishment
 
 section 135 | causing or encouraging the prostitution of, an unlawful sexual act with, or indecent assault on a girl or boy under 16
 
-section 136 | causing or encouraging the prostitution of a defective
+section 136 | causing or encouraging the prostitution of a mentally incapacitated person (Amended 21 of 2020 s. 63)
 
 section 137 | living on earnings of prostitution of others
 
@@ -108,7 +108,7 @@ section 140 | permitting a girl or boy under 13 to resort to or be on premises f
 
 section 141 | permitting a young person to resort to or be on premises for the purpose of prostitution, sexual intercourse or a homosexual act
 
-section 142 | permitting defective to resort to or be on premises or vessel for intercourse, prostitution or homosexual act
+section 142 | permitting mentally incapacitated person to resort to or be on premises or vessel for intercourse, prostitution or homosexual act (Amended 21 of 2020 s. 63)
 
 section 146 | indecent conduct towards a child under 16
 

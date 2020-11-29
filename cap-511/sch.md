@@ -1,6 +1,8 @@
 # Schedule
 
-[ss. 2 & 4(3)]
+[s. 4]
+
+(Amended 21 of 2020 s. 75)
 
 Constitution, etc. of the Authority
 

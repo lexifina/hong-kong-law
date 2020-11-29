@@ -1,6 +1,8 @@
 # Schedule 1
 
-[s. 4(1)(a)]
+[ss. 4 & 9]
+
+(Replaced 21 of 2020 s. 66)
 
 Transaction Note
 

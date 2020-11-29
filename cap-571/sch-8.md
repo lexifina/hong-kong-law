@@ -454,13 +454,13 @@ Securities and Futures Appeals Tribunal
 
 - 2B. | A specified decision set out in item 4F of Division 1 of Part 2. | Section 101J(8) of this Ordinance. (Added 6 of 2014 s. 54)
 
-- 2A. | A specified decision set out in item 15D of Division 1 of Part 2. | Section 112ZF(4) of this Ordinance. (Added 16 of 2016 s. 22)
+- 2C. | A specified decision set out in item 15D of Division 1 of Part 2. | Section 112ZF(4) of this Ordinance. (Replaced 21 of 2020 s. 124)
 
-- 2B. | A specified decision set out in item 15E of Division 1 of Part 2. | Section 112ZF(4) of this Ordinance. (Added 16 of 2016 s. 22)
+- 2D. | A specified decision set out in item 15E of Division 1 of Part 2. | Section 112ZF(4) of this Ordinance. (Replaced 21 of 2020 s. 124)
 
-- 2C. | A specified decision set out in item 15L of Division 1 of Part 2. | Section 112ZJ(5) of this Ordinance. (Added 16 of 2016 s. 22)
+- 2E | A specified decision set out in item 15L of Division 1 of Part 2. | Section 112ZJ(5) of this Ordinance. (Added 21 of 2020 s. 124)
 
-- 2D. | A specified decision set out in item 15M of Division 1 of Part 2. | Section 112ZJ(7) of this Ordinance. (Added 16 of 2016 s. 22)
+- 2F. | A specified decision set out in item 15M of Division 1 of Part 2. | Section 112ZJ(7) of this Ordinance. (Added 21 of 2020 s. 124)
 
 - 3. | A specified decision set out in item 17 of Division 1 of Part 2. | Section 116(7) of this Ordinance.
 
@@ -493,3 +493,5 @@ Securities and Futures Appeals Tribunal
 - 16. | A specified decision set out in item 73 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
 
 - 17. | A specified decision set out in item 74 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
+
+- (Amended 21 of 2020 s. 124)

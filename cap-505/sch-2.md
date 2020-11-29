@@ -32,7 +32,7 @@ Description of Offences which Disentitle Persons from Being or Continuing to be 
 
 - 118D | buggery with a girl under 21
 
-- 118E | buggery with a defective
+- 118E | buggery with a mentally incapacitated person (Amended 21 of 2020 s. 65)
 
 - 118F | (Repealed 18 of 2014 s. 12)
 
@@ -40,7 +40,7 @@ Description of Offences which Disentitle Persons from Being or Continuing to be 
 
 - 118H | gross indecency with or by a man under 16 (Amended 18 of 2014 s. 12)
 
-- 118I | gross indecency by a man with a male defective
+- 118I | gross indecency by a man with a male mentally incapacitated person (Amended 21 of 2020 s. 65)
 
 - 118J | gross indecency by a man with another man otherwise than in private
 
@@ -60,13 +60,13 @@ Description of Offences which Disentitle Persons from Being or Continuing to be 
 
 - 124 | sexual intercourse with a girl under 16 (if, but only if, the offender was more than 18 years of age at the time of the offence)
 
-- 125 | sexual intercourse with a woman who is a defective
+- 125 | sexual intercourse with a woman who is a mentally incapacitated person (Amended 21 of 2020 s. 65)
 
 - 126 | abduction of an unmarried girl under 16
 
 - 127 | abduction of an unmarried girl under 18 for sexual intercourse
 
-- 128 | abduction of a defective for an unlawful sexual act
+- 128 | abduction of a mentally incapacitated person for an unlawful sexual act (Amended 21 of 2020 s. 65)
 
 - 129 | trafficking in persons for the purpose of prostitution
 
@@ -76,13 +76,13 @@ Description of Offences which Disentitle Persons from Being or Continuing to be 
 
 - 132 | procurement of a girl under 21 to have sexual intercourse
 
-- 133 | procurement of a woman who is a defective to have sexual intercourse
+- 133 | procurement of a woman who is a mentally incapacitated person to have sexual intercourse (Amended 21 of 2020 s. 65)
 
 - 134 | detention of a person for an unlawful sexual act or in a vice establishment
 
 - 135 | causing or encouraging the prostitution of, an unlawful sexual act with, or indecent assault on a girl or boy under 16
 
-- 136 | causing or encouraging the prostitution of a defective
+- 136 | causing or encouraging the prostitution of a mentally incapacitated person (Amended 21 of 2020 s. 65)
 
 - 137 | living on earnings of prostitution of others
 
@@ -94,7 +94,7 @@ Description of Offences which Disentitle Persons from Being or Continuing to be 
 
 - 141 | permitting a young person to resort to or be on premises or vessel for the purpose of sexual intercourse, prostitution, buggery or a homosexual act
 
-- 142 | permitting defective to resort to or be on premises or vessel for intercourse, prostitution or homosexual act
+- 142 | permitting mentally incapacitated person to resort to or be on premises or vessel for intercourse, prostitution or homosexual act (Amended 21 of 2020 s. 65)
 
 - 146 | indecent conduct towards a child under 16
 

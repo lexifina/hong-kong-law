@@ -14,9 +14,9 @@ on the day of , 19 , at the hour of o’clock in the noon, and there to attend f
 
 (Signed) C.D., Registrar.
 
-N.B.—The penalty for disobedience hereto is a fine not exceeding $3,000.
+N.B.—The penalty for disobedience hereto is a fine not exceeding level 2.
 
-(Amended 37 of 1988 s. 14; 13 of 1995 s. 17; 25 of 1998 s. 2)
+(Amended 37 of 1988 s. 14; 13 of 1995 s. 17; 25 of 1998 s. 2; 21 of 2020 s. 79)
 
 Form 2
 

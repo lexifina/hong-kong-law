@@ -60,7 +60,7 @@ section 118C | homosexual buggery with or by a man under 16 (18 of 2014 s. 11)
 
 section 118D | buggery with a girl under 21
 
-section 118E | buggery with a defective (L.N. 495 of 1996)
+section 118E | buggery with a mentally incapacitated person (L.N. 495 of 1996; 21 of 2020 s. 64)
 
 section 118F | (Repealed 18 of 2014 s. 11)
 
@@ -76,7 +76,7 @@ section 123 | unlawful intercourse with a girl under 13
 
 section 124 | unlawful intercourse with a girl under 16
 
-section 125 | unlawful intercourse with a female defective
+section 125 | unlawful intercourse with a female mentally incapacitated person (21 of 2020 s. 64)
 
 section 135 | causing or encouraging prostitution of, etc., a girl or boy under 16
 

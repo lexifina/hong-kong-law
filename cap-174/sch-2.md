@@ -392,7 +392,7 @@ due to (or as a consequence of)
 
 Other significant conditions
 
-│ │ │ │ │ │ │ │ │ │ │ | Deceased’s nationality Dated, the.day of ” profession Signature ” address Registered qualification ” place of birth Residence N.B.—THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE REGISTRAR to whom it should be delivered by the person giving information to him of the particulars required by law to be registered concerning the death. Fine of $1,000 or 6 months’ imprisonment for neglect of informant to deliver this certificate to the registrar or a district registrar. The Registrar of Births and Deaths cautions all persons against accepting or using this certificate for any purpose whatever except that of delivering it to himself or a district registrar.
+│ │ │ │ │ │ │ │ │ │ │ | Deceased’s nationality Dated, the.day of ” profession Signature ” address Registered qualification ” place of birth Residence N.B.—THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE REGISTRAR to whom it should be delivered by the person giving information to him of the particulars required by law to be registered concerning the death. Fine at level 1 or 6 months’ imprisonment for neglect of informant to deliver this certificate to the registrar or a district registrar. The Registrar of Births and Deaths cautions all persons against accepting or using this certificate for any purpose whatever except that of delivering it to himself or a district registrar.
 
 Signed
 
@@ -422,7 +422,7 @@ Persons qualified to be informants for the registration of the death, and to who
 
 7. | The person causing the body of the deceased to be buried.
 
-Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the General Holidays Ordinance (Chapter 149) shall not be included) next following death is $1,000 fine or 6 months’ imprisonment.
+Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the General Holidays Ordinance (Chapter 149) shall not be included) next following death is fine at level 1 or 6 months’ imprisonment.
 
 Informants must be prepared to state accurately to the registrar or a district registrar the following particulars—
 
@@ -528,7 +528,7 @@ comes under a duty to make a report of that death to the coroner as soon as is r
 
 3. | Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43) _ Form 19
+(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 21 of 2020 s. 83) _ Form 19
 
 [s. 27(c)]
 

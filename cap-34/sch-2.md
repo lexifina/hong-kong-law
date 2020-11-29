@@ -1,6 +1,8 @@
 # Schedule 2
 
-[s. 4(3)]
+[ss. 4 & 9]
+
+(Replaced 21 of 2020 s. 67)
 
 Permitted Statements
 

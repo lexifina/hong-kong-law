@@ -1,6 +1,8 @@
 # Schedule 3
 
-[ss. 6(1) & 7(1)]
+[ss. 6, 7 & 9]
+
+(Replaced 21 of 2020 s. 68)
 
 Prescribed Currencies
 

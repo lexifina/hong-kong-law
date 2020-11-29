@@ -248,9 +248,9 @@ Acts infringing copyright
 
   - (3) Subsection (1)(b)(ii) of the sections (assumption as to death of author) applies only—
 
-    - (a) where paragraph 11(3)(b) applies (unpublished anonymous or pseudonymous works), after the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force; or
+    - (a) where paragraph 13(3)(b) applies (unpublished anonymous or pseudonymous works), after the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force; or
 
-    - (b) where paragraph 11(6) applies (cases in which the duration of copyright is the same under the new copyright provisions as under the previous law).
+    - (b) where paragraph 13(6) applies (cases in which the duration of copyright is the same under the new copyright provisions as under the previous law). (Amended 21 of 2020 s. 76)
 
     - [cf. 1988 c. 48 Sch. 1 para. 15 U.K.]
 

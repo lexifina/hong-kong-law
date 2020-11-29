@@ -66,7 +66,7 @@ Ordinance | Sections (with general indication of contents shown in brackets)
 
 43 | (stealing or harbouring child under 14 years)
 
-4. | Protection of Women and Juveniles Ordinance (Cap. 213) | 26 | (abduction of female infant or any young person or child)
+4. | Protection of Children and Juveniles Ordinance (Cap. 213) (Amended 21 of 2020 s. 57) | 26 | (abduction of child or juvenile) (Amended 21 of 2020 s. 57)
 
 5. | Summary Offences Ordinance (Cap. 228) | 17 | (possession of offensive weapon, etc., with intent)
 
