@@ -78,9 +78,7 @@ Scheduled Premises
 
         - (iv) martial arts;
 
-    - guesthouse (旅館) has the meaning given by section 2(1) of the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (L.N. 222 of 2020)
-
-    - hotel (旅館) has the meaning given by section 2(1) of the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (L.N. 222 of 2020)
+    - hotel or guesthouse (酒店或賓館) has the meaning given by section 2A of the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (L.N. 222 of 2020)
 
     - karaoke establishment (卡拉OK場所) means—
 
@@ -135,3 +133,5 @@ Scheduled Premises
         - (ii) any facility adjoining the pool; and
 
         - (iii) any spectator stand of the pool. (L.N. 150 of 2020)
+
+  - (L.N. 222 of 2020)
