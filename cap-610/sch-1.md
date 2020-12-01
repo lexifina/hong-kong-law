@@ -10,7 +10,7 @@ Buildings that Require Certificate of Compliance Registration and Form of Compli
 
 - 2. A portion of a composite building that is not for residential or industrial use.
 
-- 3. Hotel and guesthouse.
+- 3. Hotel or guesthouse. (Amended 6 of 2020 s. 55)
 
 - 4. Common area of a residential building.
 

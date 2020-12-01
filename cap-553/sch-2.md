@@ -56,7 +56,7 @@ Proceedings in Relation to which Sections 5, 5A, 6, 7 and 8 of this Ordinance do
 
   - (s) the panel and a tribunal established under the Housing Ordinance (Cap. 283); (Added L.N. 59 of 2000)
 
-  - (t) the Appeal Board established under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (Added L.N. 59 of 2000)
+  - (t) an appeal board constituted or formed under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (Replaced 6 of 2020 s. 52)
 
   - (u) the Appeal Board established under the Clubs (Safety of Premises) Ordinance (Cap. 376); (Added L.N. 59 of 2000)
 

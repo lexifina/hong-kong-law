@@ -174,7 +174,7 @@ Designated No Smoking Areas and Exempt Areas
 
 - 5. | A room or suite of rooms in a hotel or guesthouse if—
 
-- (a) | a licence or certificate of exemption issued under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349) is in force in respect of the hotel or guesthouse; and
+- (a) | a licence issued under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349) is in force in respect of the hotel or guesthouse; and (Amended 6 of 2020 s. 50)
 
 - (b) | the room or suite of rooms is being hired for use as sleeping accommodation.
 

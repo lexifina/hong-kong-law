@@ -510,7 +510,7 @@ Secretary for Home Affairs | New Territories Ordinance (Cap. 97), sections 15, 1
 
 Secretary for Home Affairs | Books Registration Ordinance (Cap. 142).
 
-Secretary for Home Affairs | Hotel and Guesthouse Accommodation Ordinance (Cap. 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4).
+Secretary for Home Affairs | Hotel and Guesthouse Accommodation Ordinance (Cap. 349), sections 19(1) and 20(1), (2), (4)(b)(ii) and (5). (6 of 2020 s. 43)
 
 Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Cap. 376).
 

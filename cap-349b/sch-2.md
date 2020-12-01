@@ -1,8 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
-[ss. 3(b) & 4(c)]
+[regs. 3 & 4]
 
-FEE PAYABLE UPON RENEWAL OF LICENCE UNDER SECTION 9 OF THE ORDINANCE
+(6 of 2020 s. 42)
+
+Fee Payable for Renewal of Licence under Section 12C of Ordinance
+
+(6 of 2020 s. 42)
 
 Number of rooms in which accommodation is available | Fee for 12 months | Fee for 24 months | Fee for 36 months | Fee for 48 months | Fee for 60 months | Fee for 72 months | Fee for 84 months
 
