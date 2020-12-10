@@ -24,6 +24,10 @@ Transitional and Savings Provisions for Medical Registration (Amendment) Ordinan
 
     - pre-amended Ordinance (《原有條例》) means this Ordinance as in force immediately before the commencement.
 
+  - Editorial Note:
+
+  - * Commencement date: 6 April 2018.
+
 - Part 2 Certain Council Members and Assessors
 
   - 2. Filling vacancy in office of member of Council under section 3(5B)(b) of pre-amended Ordinance If, immediately before the commencement, the Secretary has sent an invitation under section 8 of the pre-amended Electoral Regulation, then section 3(5B)(b) of the pre-amended Ordinance and section 8 of that Regulation continue to apply in relation to a nomination of candidate made pursuant to the invitation.
@@ -193,7 +197,3 @@ Transitional and Savings Provisions for Medical Registration (Amendment) Ordinan
     - (3) On and after the commencement, the provisions of this Ordinance apply for all purposes in relation to the further conduct (including any appeal or remittal) of the case referred to in subsection (1) or (2).
 
 (Schedule 6 added 15 of 2018 s. 34)
-
-Editorial Note:
-
-*Commencement date: 6 April 2018.

@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 29]
 
-ILLEGAL PRACTICES
+Illegal Practices
 
 An act prohibited by any of the following provisions is an illegal practice within the meaning of section 29(2) of this Regulation—
 

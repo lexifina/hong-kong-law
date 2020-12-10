@@ -1,12 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4 & 92]
 
-DETERMINATION OF WELL-KNOWN TRADE MARKS
+Determination of Well-known Trade Marks
 
 - 1. Factors for consideration
 
-  - (1) In determining for the purposes of section 4 (meaning of “well-known trade mark”) whether a trade mark is well known in Hong Kong, the Registrar or the court shall take into account any factors from which it may be inferred that the trade mark is well known in Hong Kong.
+  - (1) In determining for the purposes of section 4 (meaning of well-known trade mark) whether a trade mark is well known in Hong Kong, the Registrar or the court shall take into account any factors from which it may be inferred that the trade mark is well known in Hong Kong.
 
   - (2) In particular, the Registrar or the court shall consider any information submitted to the Registrar or the court from which it may be inferred that the trade mark is, or is not, well known in Hong Kong, including, but not limited to, information concerning the following—
 
@@ -26,7 +26,7 @@ DETERMINATION OF WELL-KNOWN TRADE MARKS
 
   - (4)
 
-    - For the purpose of subsection (2)(a), “relevant sectors of the public” (有關的公眾界別) includes, but is not limited to—
+    - For the purpose of subsection (2)(a), relevant sectors of the public (有關的公眾界別) includes, but is not limited to—
 
       - (a) actual or potential consumers of the type of goods or services to which the trade mark applies;
 
@@ -38,7 +38,7 @@ DETERMINATION OF WELL-KNOWN TRADE MARKS
 
   - (6)
 
-    - For the purpose of subsection (2)(e), “competent authorities in foreign jurisdictions” (外地主管當局) means administrative, judicial or quasi-judicial authorities in jurisdictions other than Hong Kong that are competent to determine whether a trade mark is a well-known trade mark, or in enforcing the protection of well-known trade marks, in their respective jurisdictions.
+    - For the purpose of subsection (2)(e), competent authorities in foreign jurisdictions (外地主管當局) means administrative, judicial or quasi-judicial authorities in jurisdictions other than Hong Kong that are competent to determine whether a trade mark is a well-known trade mark, or in enforcing the protection of well-known trade marks, in their respective jurisdictions.
 
 - 2. Factors not required to be established For the purpose of determining whether a trade mark is well known in Hong Kong, it is not necessary to establish—
 

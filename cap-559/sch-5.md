@@ -1,10 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 90A & 97]
 
 (Amended 3 of 2020 s. 17)
 
-TRANSITIONAL MATTERS
+Transitional Matters
 
 Preliminary
 
@@ -12,23 +12,23 @@ Preliminary
 
   - (1) In this Schedule—
 
-    - “commencement date” (生效日期) means the date on which this Schedule comes into operation;
+    - commencement date* (生效日期) means the date on which this Schedule comes into operation;
 
-    - “existing registered mark” (現有註冊標記) means a mark that, immediately before the commencement date, constituted a registered trade mark, certification trade mark or defensive trade mark under the repealed Ordinance;
+    - existing registered mark (現有註冊標記) means a mark that, immediately before the commencement date, constituted a registered trade mark, certification trade mark or defensive trade mark under the repealed Ordinance;
 
-    - “new register” (新註冊紀錄冊) means the register of trade marks kept under section 67 of this Ordinance (register to be kept);
+    - new register (新註冊紀錄冊) means the register of trade marks kept under section 67 of this Ordinance (register to be kept);
 
-    - “old law” (舊有法律) means—
+    - old law (舊有法律) means—
 
       - (a) the repealed Ordinance and the repealed Rules; and
 
       - (b) any other enactment or rule of law applying to existing registered marks immediately before the commencement date;
 
-    - “old register” (舊有註冊紀錄冊) means the register of trade marks kept under the repealed Ordinance;
+    - old register (舊有註冊紀錄冊) means the register of trade marks kept under the repealed Ordinance;
 
-    - “the repealed Ordinance” (被廢除條例) means the Trade Marks Ordinance (Cap. 43), as in operation immediately before its repeal by this Ordinance;
+    - the repealed Ordinance (被廢除條例) means the Trade Marks Ordinance (Cap. 43), as in operation immediately before its repeal by this Ordinance;
 
-    - “the repealed Rules” (被廢除規則) means the Trade Marks Rules (Cap. 43 sub. leg. A), as in operation immediately before their repeal by this Ordinance.
+    - the repealed Rules (被廢除規則) means the Trade Marks Rules (Cap. 43 sub. leg. A), as in operation immediately before their repeal by this Ordinance.
 
   - (2) Unless the context otherwise requires, all words and expressions used in this Schedule and defined in section 2(1) of the repealed Ordinance have the same meaning as in the repealed Ordinance.
 
@@ -45,6 +45,10 @@ Preliminary
     - (d) the matter was the subject of an order made by a court before the commencement date but the order was subject to appeal under the old law and the period for commencing the appeal had not yet expired.
 
   - (5) For ease of reference, provisions of the repealed Ordinance referred to in this Schedule, and other relevant provisions of the repealed Ordinance, are set out in the Annex to this Schedule.
+
+- Editorial Note:
+
+- * Commencement date: 4 April 2003.
 
 Existing registered marks
 
@@ -226,7 +230,11 @@ Certificate of validity of contested registration
 
 - 19. A certificate given under section 75 of the repealed Ordinance (certificate of validity) shall have effect as if given under section 81(1) of this Ordinance (certificate of validity of contested registration).
 
-- ANNEX [section 1(5) of Schedule 5] PROVISIONS OF THE REPEALED TRADE MARKS ORDINANCE (CAP. 43)REFERRED TO IN SCHEDULE 5 (TRANSITIONAL MATTERS) ANDOTHER RELEVANT PROVISIONS OF THE REPEALED ORDINANCE(AS IN OPERATION IMMEDIATELY BEFORE ITS REPEALBY SECTION 99 OF THIS ORDINANCE)
+Annex
+
+[s. 1(5) of Sch. 5]
+
+Provisions of the Repealed Trade Marks Ordinance (Cap. 43) referred to in Schedule 5 (Transitional Matters) and Other Relevant Provisions of the Repealed Ordinance (as in Operation Immediately before its Repeal by Section 99 of this Ordinance)
 
 - 2. Interpretation
 
@@ -236,13 +244,17 @@ Certificate of validity of contested registration
 
   - .
 
-    - “mark” (標記) means any sign that is visually perceptible and capable of being represented graphically and may, in particular, consist of words, personal names, letters, numerals, figurative elements or combination of colours, and includes any combination of such signs; .
+    - mark (標記) means any sign that is visually perceptible and capable of being represented graphically and may, in particular, consist of words, personal names, letters, numerals, figurative elements or combination of colours, and includes any combination of such signs;
 
-    - “trade mark” (商標) means (except in the expressions “trade mark relating to goods”, “trade mark relating to services”, “defensive trade mark” and “certification trade mark”) a trade mark relating to goods or a trade mark relating to services;
+    - .
 
-    - “trade mark relating to goods” (貨品商標) means a mark used or proposed to be used in relation to goods for the purpose of indicating, or so as to indicate, a connection in the course of trade between the goods and some person having the right either as proprietor or as registered user to use the mark, whether with or without any indication of the identity of that person;
+    - trade mark (商標) means (except in the expressions trade mark relating to goods, trade mark relating to services, defensive trade mark and certification trade mark) a trade mark relating to goods or a trade mark relating to services;
 
-    - “trade mark relating to services” (服務商標) means a mark used or proposed to be used in relation to services for the purpose of indicating, or so as to indicate, that a particular person is connected, in the course of business, with the provision of those services, whether with or without any indication of the identity of that person; .
+    - trade mark relating to goods (貨品商標) means a mark used or proposed to be used in relation to goods for the purpose of indicating, or so as to indicate, a connection in the course of trade between the goods and some person having the right either as proprietor or as registered user to use the mark, whether with or without any indication of the identity of that person;
+
+    - trade mark relating to services (服務商標) means a mark used or proposed to be used in relation to services for the purpose of indicating, or so as to indicate, that a particular person is connected, in the course of business, with the provision of those services, whether with or without any indication of the identity of that person;
+
+    - .
 
   - (2) References in this Ordinance to—
 
@@ -274,7 +286,7 @@ Certificate of validity of contested registration
 
   - (2)
 
-    - For the purposes of this section, “distinctive” (顯著) means—
+    - For the purposes of this section, distinctive (顯著) means—
 
       - (a) in the case of a trade mark relating to goods, adapted in relation to the goods in respect of which the trade mark is registered or proposed to be registered, to distinguish goods with which the proprietor of the trade mark is or may be connected, in the course of trade, from goods in the case of which no such connection subsists; or
 
@@ -420,9 +432,7 @@ Certificate of validity of contested registration
 
   - (2) All trade marks so registered shall be deemed to be, and shall be registered as, associated trade marks.
 
-- 37. Removal from register and imposition of
-
-- limitations on ground of non-use
+- 37. Removal from register and imposition of limitations on ground of non-use
 
   - (1) Subject to the provisions of sections 55(1), 55A(1) and 57(1), a registered trade mark may be taken off the register in respect of any of the goods or services in respect of which it is registered on application by any person aggrieved to the Court, or, at the option of the applicant and subject to the provisions of section 80, to the Registrar, on the ground either—
 
@@ -494,9 +504,7 @@ Certificate of validity of contested registration
 
   - (2) The power to rectify the register conferred by this section shall include power to remove a registration in Part A of the register to Part B.
 
-- 49. Power to expunge or vary registration
-
-- for breach of condition On application by any person aggrieved to the Court, or, at the option of the applicant and subject to the provisions of section 80, to the Registrar, or on application by the Registrar to the Court, the tribunal may make such order as the tribunal may think fit for expunging or varying the registration of a trade mark on the ground of any contravention of, or failure to observe, a condition entered on the register in relation thereto.
+- 49. Power to expunge or vary registration for breach of condition On application by any person aggrieved to the Court, or, at the option of the applicant and subject to the provisions of section 80, to the Registrar, or on application by the Registrar to the Court, the tribunal may make such order as the tribunal may think fit for expunging or varying the registration of a trade mark on the ground of any contravention of, or failure to observe, a condition entered on the register in relation thereto.
 
 - 50. Correction of register
 
@@ -526,13 +534,9 @@ Certificate of validity of contested registration
 
   - (4) Where leave as aforesaid is granted, the trade mark as altered shall be advertised in the prescribed manner, unless it has already been advertised, in the form to which it has been altered, in an advertisement under subsection (2).
 
-- 56. Defensive trade marks to be registered as
+- 56. Defensive trade marks to be registered as associated trade marks A trade mark registered as a defensive trade mark and that trade mark as otherwise registered in the name of the same proprietor shall, notwithstanding that the respective registrations are in respect of different goods or services, be deemed to be, and shall be registered as, associated trade marks.
 
-- associated trade marks A trade mark registered as a defensive trade mark and that trade mark as otherwise registered in the name of the same proprietor shall, notwithstanding that the respective registrations are in respect of different goods or services, be deemed to be, and shall be registered as, associated trade marks.
-
-- 58. Registration as a registered user.
-
-- Meaning of “permitted use”
+- 58. Registration as a registered user. Meaning of permitted use
 
   - (1)
 
@@ -544,13 +548,13 @@ Certificate of validity of contested registration
 
       - (ii) services with the provision of which he is connected in the course of business,
 
-    - and in respect of which for the time being the trade mark remains registered and he is registered as a registered user, being use such as to comply with any conditions or restrictions to which his registration is subject, is in this Ordinance referred to as the “permitted use” of the trade mark.
+    - and in respect of which for the time being the trade mark remains registered and he is registered as a registered user, being use such as to comply with any conditions or restrictions to which his registration is subject, is in this Ordinance referred to as the permitted use of the trade mark.
 
   - (2)
 
     - (a) The permitted use of a trade mark shall be deemed to be use by the proprietor thereof, and shall be deemed not to be use by a person other than the proprietor, for the purposes of section 37 and for any other purpose for which such use is material under this Ordinance or at common law.
 
-    - (b) Where a person is registered as a registered user of a trade mark relating to goods on an application made within one year from the commencement of this Ordinance, this subsection shall have effect in relation to any previous use (whether before or after the commencement of this Ordinance) of the trade mark by that person, being use in relation to the goods in respect of which he is registered and, where he is registered subject to conditions or restrictions, being use such as to comply substantially therewith, as if such previous use had been permitted use.
+    - (b) Where a person is registered as a registered user of a trade mark relating to goods on an application made within one year from the commencement* of this Ordinance, this subsection shall have effect in relation to any previous use (whether before or after the commencement* of this Ordinance) of the trade mark by that person, being use in relation to the goods in respect of which he is registered and, where he is registered subject to conditions or restrictions, being use such as to comply substantially therewith, as if such previous use had been permitted use.
 
   - (3) Where it is proposed that a person should be registered as a registered user of a trade mark, the proprietor and the proposed registered user must apply in writing to the Registrar in the prescribed manner, and must furnish him with a statutory declaration made by the proprietor, or by some person authorized to act on his behalf and approved by the Registrar—
 
@@ -574,15 +578,17 @@ Certificate of validity of contested registration
 
     - (b) in the case of an application for registration in respect of services, to rivals in the business.
 
+- Editorial Note:
+
+- * Commencement date: 1 January 1955.
+
 - 59. Proceedings for infringement
 
   - (1) Subject to any agreement subsisting between the parties, a registered user of a trade mark shall be entitled to call upon the proprietor thereof to take proceedings to prevent infringement thereof, and, if the proprietor refuses or neglects to do so within 2 months after being so called upon, the registered user may institute proceedings for infringement in his own name as if he were the proprietor, making the proprietor a defendant.
 
   - (2) A proprietor so added as defendant shall not be liable for any costs unless he enters an appearance and takes part in the proceedings.
 
-- 60. Variation or cancellation of registration
-
-- as a registered user
+- 60. Variation or cancellation of registration as a registered user
 
   - (1) Without prejudice to the provisions of section 48, the registration of a person as a registered user—
 
@@ -624,9 +630,7 @@ Certificate of validity of contested registration
 
   - (4) Nothing in this Ordinance shall entitle the proprietor of a certification trade mark that consists of signs or indications described in subsection (3) to interfere with or restrain the use by any person of any signs or indications the use of which is in accordance with honest practices in industrial or commercial matters (in particular, by a person who is entitled to use a geographical name).
 
-- 65. Application for registration as
-
-- certification trade mark
+- 65. Application for registration as certification trade mark
 
   - (1) An application for the registration of a mark under section 64 shall be made to the Registrar in writing in the prescribed manner by the person proposed to be registered as the proprietor thereof.
 
@@ -664,23 +668,19 @@ Certificate of validity of contested registration
 
   - (2) In any action relating to a trade mark relating to services or business name, the tribunal shall admit evidence of business usages in the provision of services in question and of any relevant trade mark relating to services or business name or get-up legitimately used by other persons.
 
-- 92. Transitional provisions relating to the Intellectual
-
-- Property (World Trade Organization
-
-- Amendments) Ordinance 1996
+- 92. Transitional provisions relating to the Intellectual Property (World Trade Organization Amendments) Ordinance 1996
 
   - (1) In this section—
 
-    - “existing registered trade mark” (現行註冊商標) means a trade mark, certification trade mark or defensive trade mark that is registered under this Ordinance before the commencement of the new law;
+    - existing registered trade mark (現行註冊商標) means a trade mark, certification trade mark or defensive trade mark that is registered under this Ordinance before the commencement* of the new law;
 
-    - “new law” (新法律) means sections 18 to 25 of the Intellectual Property (World Trade Organization Amendments) Ordinance 1996 (11 of 1996);
+    - new law (新法律) means sections 18 to 25 of the Intellectual Property (World Trade Organization Amendments) Ordinance 1996 (11 of 1996);
 
-    - “old law” (舊法律) means this Ordinance and any other enactment or rule of law applying to existing registered trade marks immediately before the commencement of the new law.
+    - old law (舊法律) means this Ordinance and any other enactment or rule of law applying to existing registered trade marks immediately before the commencement* of the new law.
 
-  - (2) An application for the registration of a trade mark (including certification trade marks and defensive trade marks), as defined in this Ordinance before the commencement of the new law, shall be treated as pending on the commencement of the new law if the application had been made but had not been finally determined before that commencement.
+  - (2) An application for the registration of a trade mark (including certification trade marks and defensive trade marks), as defined in this Ordinance before the commencement* of the new law, shall be treated as pending on the commencement* of the new law if the application had been made but had not been finally determined before that commencement*.
 
-  - (3) Sections 27(1), 27A(1), 67(1) and 67A(1), as amended by the new law, shall apply in relation to an existing registered trade mark as from the commencement of the new law but only in so far as those sections relate to an infringement of an existing registered trade mark that is committed on or after the commencement of the new law; and the old law shall continue to apply in relation to an infringement that is committed before the commencement of the new law.
+  - (3) Sections 27(1), 27A(1), 67(1) and 67A(1), as amended by the new law, shall apply in relation to an existing registered trade mark as from the commencement* of the new law but only in so far as those sections relate to an infringement of an existing registered trade mark that is committed on or after the commencement* of the new law; and the old law shall continue to apply in relation to an infringement that is committed before the commencement* of the new law.
 
   - (4) Despite subsection (3), it is not an infringement of—
 
@@ -688,14 +688,18 @@ Certificate of validity of contested registration
 
     - (b) a registered trade mark of which the distinctive elements are the same or substantially the same as those of an existing registered trade mark and which is registered for the same goods or services,
 
-  - to continue on or after the commencement of the new law any use that did not, under the old law, constitute an infringement of the existing registered trade mark.
+  - to continue on or after the commencement* of the new law any use that did not, under the old law, constitute an infringement of the existing registered trade mark.
 
-  - (5) Subject to subsection (6), an application for the registration of a trade mark that is pending on the commencement of the new law shall be dealt with under the old law but, if the trade mark is registered, it shall be treated for the purposes of subsections (1) to (4) as an existing registered trade mark.
+  - (5) Subject to subsection (6), an application for the registration of a trade mark that is pending on the commencement* of the new law shall be dealt with under the old law but, if the trade mark is registered, it shall be treated for the purposes of subsections (1) to (4) as an existing registered trade mark.
 
-  - (6) If an application for the registration of a trade mark that is pending on the commencement of the new law has not been advertised under section 14 before its commencement, the applicant may give notice to the Registrar electing to have the registrability of the mark determined in accordance with this Ordinance, as amended by the new law.
+  - (6) If an application for the registration of a trade mark that is pending on the commencement* of the new law has not been advertised under section 14 before its commencement*, the applicant may give notice to the Registrar electing to have the registrability of the mark determined in accordance with this Ordinance, as amended by the new law.
 
-  - (7) A notice under subsection (6) must be in the prescribed form, be accompanied by the appropriate fee and be given to the Registrar not later than 6 months after the commencement of the new law.
+  - (7) A notice under subsection (6) must be in the prescribed form, be accompanied by the appropriate fee and be given to the Registrar not later than 6 months after the commencement* of the new law.
 
-  - (8) A notice given under subsection (6) is irrevocable and has the effect that the application shall be treated as if it had been made after the commencement of the new law.
+  - (8) A notice given under subsection (6) is irrevocable and has the effect that the application shall be treated as if it had been made after the commencement* of the new law.
 
-  - (9) An application made under section 48 that is pending on the commencement of the new law shall be dealt with in accordance with the old law.
+  - (9) An application made under section 48 that is pending on the commencement* of the new law shall be dealt with in accordance with the old law.
+
+- Editorial Note:
+
+- * Commencement date: 20 December 1996.

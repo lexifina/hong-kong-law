@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [regs. 2 & 4] (L.N. 134 of 1994)
 

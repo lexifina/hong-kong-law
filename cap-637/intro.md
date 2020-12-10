@@ -2,4 +2,4 @@ An Ordinance to provide for the registration of funds as limited partnership fun
 
 [31 August 2020]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 7 of 2020)

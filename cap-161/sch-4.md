@@ -1,67 +1,91 @@
-# SCHEDULE 4 RECOGNISED COMMONWEALTH INSTITUTIONS OR BODIES
+# Schedule 4 Recognised Commonwealth Institutions or Bodies
 
-The United Kingdom University of Birmingham
+- The United Kingdom
 
-University of Bristol
+- University of Birmingham
 
-University of Cambridge
+- University of Bristol
 
-University of Durham
+- University of Cambridge
 
-University of Leeds
+- University of Durham
 
-University of Leicester
+- University of Leeds
 
-University of Liverpool
+- University of Leicester
 
-University of London
+- University of Liverpool
 
-University of Manchester
+- University of London
 
-University of Newcastle upon Tyne
+- University of Manchester
 
-University of Nottingham
+- University of Newcastle upon Tyne
 
-University of Oxford
+- University of Nottingham
 
-University of Sheffield
+- University of Oxford
 
-University of Southampton
+- University of Sheffield
 
-University of Wales
+- University of Southampton
 
-University of Aberdeen
+- University of Wales
 
-University of Dundee
+- University of Aberdeen
 
-University of Edinburgh
+- University of Dundee
 
-University of Glasgow
+- University of Edinburgh
 
-University of St. Andrews
+- University of Glasgow
 
-Queen’s University of Belfast Ireland University of Dublin
+- University of St. Andrews
 
-National University of Ireland Australia University of Newcastle, New South Wales
+- Queen’s University of Belfast
 
-University of New South Wales
+- Ireland
 
-University of Sydney
+- University of Dublin
 
-University of Queensland
+- National University of Ireland
 
-University of Adelaide
+- Australia
 
-Flinders University of South Australia
+- University of Newcastle, New South Wales
 
-University of Tasmania
+- University of New South Wales
 
-University of Melbourne
+- University of Sydney
 
-Monash University, Victoria
+- University of Queensland
 
-University of Western Australia New Zealand University of Auckland
+- University of Adelaide
 
-University of Otago
+- Flinders University of South Australia
 
-University of New Zealand Singapore National University of Singapore West Indies University of the West Indies (Schedule 4 added 25 of 1997 s. 6)
+- University of Tasmania
+
+- University of Melbourne
+
+- Monash University, Victoria
+
+- University of Western Australia
+
+- New Zealand
+
+- University of Auckland
+
+- University of Otago
+
+- University of New Zealand
+
+- Singapore
+
+- National University of Singapore
+
+- West Indies
+
+- University of the West Indies
+
+(Schedule 4 added 25 of 1997 s. 6)

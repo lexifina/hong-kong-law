@@ -4,7 +4,9 @@
 
 (L.N. 222 of 2018)
 
-Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 2012
+Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 2012 (L.N. 156 of 2012)
+
+(E.R. 7 of 2020)
 
 - 1. Interpretation of Schedule 4H In this Schedule—
 

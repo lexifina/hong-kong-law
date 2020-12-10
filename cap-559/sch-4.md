@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 62 & 92 & Sch. 5]
 
-CERTIFICATION MARKS
+Certification Marks
 
 General
 
@@ -10,7 +10,7 @@ General
 
 Signs of which a certification mark may consist
 
-- 2. In relation to a certification mark, the reference in section 3(1) of this Ordinance (meaning of “trade mark”) to distinguishing goods or services of one undertaking from those of other undertakings shall be construed as a reference to distinguishing goods or services which are certified from those which are not.
+- 2. In relation to a certification mark, the reference in section 3(1) of this Ordinance (meaning of trade mark) to distinguishing goods or services of one undertaking from those of other undertakings shall be construed as a reference to distinguishing goods or services which are certified from those which are not.
 
 Indication of geographical origin
 
@@ -24,9 +24,7 @@ Nature of owner’s trade or business
 
 - 4. A certification mark shall not be registered if the owner carries on a trade or business involving the supply of goods or services of the kind certified.
 
-Mark not to be misleading as to
-
-character or significance
+Mark not to be misleading as to character or significance
 
 - 5.
 
@@ -102,9 +100,7 @@ Amendment of regulations
 
   - (3) If notice of the amendment is published in the official journal, notice of opposition may be given relating to the matters mentioned in section 7(1) and (2) of this Schedule.
 
-Consent to assignment of registered
-
-certification mark
+Consent to assignment of registered certification mark
 
 - 12. The assignment or other transmission of a registered certification mark is not effective without the consent of the Registrar.
 

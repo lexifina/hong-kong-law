@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 29]
 
-CORRUPT PRACTICES
+Corrupt Practices
 
 An act prohibited by any of the following provisions is a corrupt practice within the meaning of section 29(2) of this Regulation—
 
@@ -22,7 +22,7 @@ An act prohibited by any of the following provisions is a corrupt practice withi
 
     - (a)
 
-      - “advantage” (利益) has the same meaning as in section 2(1) of the Prevention of Bribery Ordinance (Cap. 201);
+      - advantage (利益) has the same meaning as in section 2(1) of the Prevention of Bribery Ordinance (Cap. 201);
 
     - (b) a person offers, solicits or accepts an advantage if he does any of the activities specified in section 2(2) of that Ordinance.
 

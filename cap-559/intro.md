@@ -3,3 +3,7 @@ An Ordinance to make provision for the registration of trade marks, to give effe
 (Amended 3 of 2020 s. 3)
 
 [4 April 2003] L.N. 31 of 2003
+
+(Format changes—E.R. 7 of 2020)
+
+(Enacting provision omitted—E.R. 7 of 2020)

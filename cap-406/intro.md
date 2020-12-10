@@ -3,3 +3,7 @@ An Ordinance to repeal and replace the Electricity Supply Ordinance, to provide 
 (Amended 69 of 1999 s. 2)
 
 [2 November 1990] L.N. 342 of 1990
+
+(Format changes—E.R. 7 of 2020)
+
+(Enacting provision omitted—E.R. 7 of 2020)

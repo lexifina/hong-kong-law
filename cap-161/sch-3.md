@@ -1,28 +1,26 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2 & 35]
 
-THE ORIGINAL PROVISIONS
+The Original Provisions
 
-- 2. Interpretation
+- 2. Interpretation In this Ordinance, unless the context otherwise requires—
 
-- In this Ordinance, unless the context otherwise requires—
+  - diploma (文憑) means any diploma, degree, fellowship, membership, licence, authority to practise, letters testimonial, certificate or other status or document granted by any university, corporation, college, or other body, or by any departments of or persons acting under the authority of the government of any country or place within or without Her Majesty’s dominions;
 
-  - “diploma” (文憑) means any diploma, degree, fellowship, membership, licence, authority to practise, letters testimonial, certificate or other status or document granted by any university, corporation, college, or other body, or by any departments of or persons acting under the authority of the government of any country or place within or without Her Majesty’s dominions;
+  - General Medical Council (醫學總會) means the statutory body of that name incorporated in the United Kingdom;
 
-  - “General Medical Council” (醫學總會) means the statutory body of that name incorporated in the United Kingdom;
+  - qualifying diploma (資格檢定文憑) means a diploma conferring, subject to compliance with the provisions of this Ordinance, entitlement to registration under section 7;
 
-  - “qualifying diploma” (資格檢定文憑) means a diploma conferring, subject to compliance with the provisions of this Ordinance, entitlement to registration under section 7;
+  - qualifying examination (資格檢定試) means an examination which has to be passed to qualify for a qualifying diploma;
 
-  - “qualifying examination” (資格檢定試) means an examination which has to be passed to qualify for a qualifying diploma;
-
-  - “recognized Commonwealth diploma” (獲承認的英聯邦文憑) means a diploma—
+  - recognized Commonwealth diploma (獲承認的英聯邦文憑) means a diploma—
 
     - (a) which is granted within the Commonwealth other than in the United Kingdom or in Hong Kong; and
 
     - (b) which is for the time being recognized by the General Medical Council as being a qualification that makes the holder thereof eligible to be registered in the United Kingdom as a fully registered medical practitioner;
 
-  - “United Kingdom or Irish diploma” (聯合王國或愛爾蘭文憑) means any qualification specified in the second column of the Schedule which is granted by a body specified in relation to that qualification in the first column of the Schedule, or any combination of those qualifications, which makes the holder thereof eligible (or would make the holder thereof eligible if a national of a member state of the European Economic Community) to be registered in the United Kingdom as a fully registered medical practitioner.
+  - United Kingdom or Irish diploma (聯合王國或愛爾蘭文憑) means any qualification specified in the second column of the Schedule which is granted by a body specified in relation to that qualification in the first column of the Schedule, or any combination of those qualifications, which makes the holder thereof eligible (or would make the holder thereof eligible if a national of a member state of the European Economic Community) to be registered in the United Kingdom as a fully registered medical practitioner.
 
 - 7. Qualifications for registration
 
@@ -56,7 +54,7 @@ THE ORIGINAL PROVISIONS
 
     - (a)
 
-      - “approved” (認可), in relation to a hospital or institution, means approved for the time being by the University of Hong Kong or The Chinese University of Hong Kong for the purposes of this section;
+      - approved (認可), in relation to a hospital or institution, means approved for the time being by the University of Hong Kong or The Chinese University of Hong Kong for the purposes of this section;
 
     - (b) reference to employment in a resident medical capacity shall be construed as reference to employment in the practice of medicine, surgery or midwifery, where the person in question is resident in the hospital or institution where he is employed or conveniently near thereto, and by the terms of his employment is required to be so resident.
 
@@ -66,28 +64,30 @@ THE ORIGINAL PROVISIONS
 
   - (b) that such person has rendered satisfactory service in an appointment (whether within or outside Her Majesty’s dominions) such as in the opinion of the Council confers experience of the practice of medicine and surgery, or medicine, surgery and midwifery, not less extensive than that required for a certificate under section 9; or
 
-  - (c) that such person has otherwise acquired such experience as aforesaid. SCHEDULE UNITED KINGDOM OR IRISH DIPLOMA QUALIFICATIONS
+  - (c) that such person has otherwise acquired such experience as aforesaid.
 
-  - Body granting qualification | Qualification
+Schedule United Kingdom or Irish Diploma Qualifications
 
-  - Any university in England, Wales, Scotland, Northern Ireland or the Republic of Ireland. | Degree of bachelor of medicine licence or licentiate in medicine, degree of bachelor of surgery.
+Body granting qualification | Qualification
 
-  - Royal College of Physicians of London. | Licentiate.
+Any university in England, Wales, Scotland, Northern Ireland or the Republic of Ireland | Degree of bachelor of medicine licence or licentiate in medicine, degree of bachelor of surgery
 
-  - Royal College of Surgeons of England. | Membership.
+Royal College of Physicians of London | Licentiate
 
-  - Society of Apothecaries of London. | Licentiate in medicine and surgery.
+Royal College of Surgeons of England | Membership
 
-  - Royal College of Physicians of Edinburgh. | Licentiate.
+Society of Apothecaries of London | Licentiate in medicine and surgery
 
-  - Royal College of Surgeons of Edinburgh. | Licentiate.
+Royal College of Physicians of Edinburgh | Licentiate
 
-  - Royal College (formerly Royal Faculty) of Physicians and Surgeons of Glasgow. | Licentiate.
+Royal College of Surgeons of Edinburgh | Licentiate
 
-  - Royal College of Physicians of Ireland. | Licentiate and Licentiate in Midwifery.
+Royal College (formerly Royal Faculty) of Physicians and Surgeons of Glasgow | Licentiate
 
-  - Royal College of Surgeons in Ireland. | Licentiate and Licentiate in Midwifery.
+Royal College of Physicians of Ireland | Licentiate and Licentiate in Midwifery
 
-  - Apothecaries’ Hall, Dublin. | Licentiate.
+Royal College of Surgeons in Ireland | Licentiate and Licentiate in Midwifery
 
-- (Schedule 3 added 25 of 1997 s. 6)
+Apothecaries’ Hall, Dublin | Licentiate
+
+(Schedule 3 added 25 of 1997 s. 6. Amended E.R. 7 of 2020)

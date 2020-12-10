@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 61 & 92]
 
-COLLECTIVE MARKS
+Collective Marks
 
 General
 
@@ -10,7 +10,7 @@ General
 
 Signs of which a collective mark may consist
 
-- 2. In relation to a collective mark, the reference in section 3(1) of this Ordinance (meaning of “trade mark”) to distinguishing goods or services of one undertaking from those of other undertakings shall be construed as a reference to distinguishing goods or services of members of the association which is the owner of the collective mark from those of other undertakings.
+- 2. In relation to a collective mark, the reference in section 3(1) of this Ordinance (meaning of trade mark) to distinguishing goods or services of one undertaking from those of other undertakings shall be construed as a reference to distinguishing goods or services of members of the association which is the owner of the collective mark from those of other undertakings.
 
 Indication of geographical origin
 
@@ -20,9 +20,7 @@ Indication of geographical origin
 
   - (2) However, the owner of such a collective mark is not entitled to prohibit the use of the sign in accordance with honest practices in industrial or commercial matters, in particular, by a person who is entitled to use a geographical name.
 
-Mark not to be misleading as to
-
-character or significance
+Mark not to be misleading as to character or significance
 
 - 4.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 20BA]
 
-PROVISIONS WITH RESPECT TO COMMITTEES AND SUB-COMMITTEES ESTABLISHED UNDER SECTION 20BA OF THIS ORDINANCE
+Provisions with respect to Committees and Sub-committees Established under Section 20BA of this Ordinance
 
 - 1. Provision in Ordinance overrides provision in this Schedule Where a provision in this Ordinance about a particular committee or sub-committee is inconsistent with a provision in this Schedule, the provision in this Ordinance overrides the provision in this Schedule with regard to that committee or sub-committee.
 
