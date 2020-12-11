@@ -130,6 +130,7 @@ s-032PC.md
 s-032Q.md
 s-032.md
 s-033.md
+s-033A.md
 s-034.md
 s-035.md
 s-035A.md
@@ -218,7 +219,9 @@ s-074.md
 s-075.md
 s-076.md
 s-077.md
+s-078.md
 sch-1.md
+sch-1A.md
 sch-2.md
 sch-3.md
 sch-4.md
@@ -227,3 +230,4 @@ sch-6.md
 sch-7.md
 sch-8.md
 sch-9.md
+sch-10.md
