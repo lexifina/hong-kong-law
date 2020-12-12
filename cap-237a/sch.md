@@ -158,17 +158,17 @@ LIST OF CONTRAVENTIONS
 
 (13) | 在違反“不准停泊車輛”的交通標誌或道路標記的情況下停泊(條例第9條)。 Parked in contravention of no parking traffic sign or road marking (section 9).
 
-(14) | 停泊在設有硬幣停車收費錶的泊車位，但沒有在泊車後盡快將適當硬幣投入收費錶內(條例第10(1)(a)(i)條)。 Parked in a parking space in respect of which there is a coin operated parking meter without as soon as possible after parking inserting an appropriate coin in the meter (section 10(1)(a)(i)).
+(14) | (Repealed 25 of 2020 s. 25)
 
-(15) | 停泊在設有儲值卡停車收費錶的泊車位，但沒有在泊車後盡快使用泊車儲值卡或(如適用的話)認可卡繳付泊車費(條例第10(1)(a)(ii)條)。 Parked in a parking space in respect of which there is a card operated parking meter without as soon as possible after parking using a parking card or where applicable an approved card for the payment of the parking fee (section 10(1)(a)(ii)).
+(15) | 停泊在設有停車收費錶的泊車位，但沒有在泊車後盡快使用認可繳費媒介繳付泊車費(條例第10(1)(a)條)。 Parked in a parking space in respect of which there is a parking meter without as soon as possible after parking using an approved payment means for the payment of the parking fee (section 10(1)(a)). (25 of 2020 s. 25)
 
 (16) | 停泊在憑票泊車車位，但沒有在泊車後盡快將泊車票放在擋風玻璃內向外展示，使該泊車票得以顯示已獲繳付的泊車費、有關的泊車位、繳款日期和已繳費的有效時限(條例第10(1)(b)(i)條)。 Parked in a pay and display parking space without as soon as possible after parking displaying a display ticket on the inside of the windscreen so that the ticket shows the payment of the parking fee, the relevant parking space, the date on and the time until which payment is made (section 10(1)(b)(i)).
 
 (17) | 停泊在憑票泊車車位，但停泊時間已超逾車內展示的泊車票註明已繳費用的時限，或車內展示的泊車票並沒有註明使用該車位或在該日使用該車位所需費用已獲繳付(條例第10(1)(b)(ii)條)。 Parked in a pay and display parking space beyond the time indicated on the display ticket as the time until which payment is made or when the display ticket does not indicate payment for the use of that parking space or for that date (section 10(1)(b)(ii)).
 
-(18) | 停泊在設有硬幣停車收費錶的泊車位時佔用超過1個泊車位，但沒有將適當硬幣投入每個泊車位的收費錶內(條例第10(4)條)。 Parked in more than one parking space in respect of which there is a coin operated parking meter without inserting an appropriate coin in each meter (section 10(4)).
+(18) | (Repealed 25 of 2020 s. 25)
 
-(19) | 停泊在設有儲值卡停車收費錶的泊車位時佔用超過1個泊車位，但沒有把泊車儲值卡或(如適用的話)認可卡插進每個泊車位的收費錶內(條例第10(4)條)。 Parked in more than one parking space in respect of which there is a card operated parking meter without inserting a parking card or where applicable an approved card in each meter (section 10(4)).
+(19) | 停泊在設有停車收費錶的泊車位時佔用超過1個泊車位，但沒有使用認可繳費媒介，就每個泊車位繳付泊車費(條例第10(4)條)。 Parked in more than one parking space in respect of which there is a parking meter without using an approved payment means for payment of the parking fee for each parking space (section 10(4)). (25 of 2020 s. 25)
 
 (20) | 停泊在憑票泊車車位時佔用超過1個車位，但沒有把適當數目的泊車票展示出來(條例第10(4)條)。 Parked in more than one pay and display parking space without displaying the appropriate number of display tickets (section 10(4)).
 

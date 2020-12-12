@@ -2,24 +2,22 @@
 
 [reg. 11]
 
-- Part 1 Maximum Fees for Use of Metered Parking Spaces
+Parking Fees
 
-- Item | Fee | Parking Apparatus | Period
+- Part 1 Maximum Fee for Use of Metered Parking Space
 
-- 1. | $2.00 | 1/2 hour parking meter | each 15 minutes
+- Column 1 | Column 2
 
-- 2. | $2.00 | 1 hour parking meter | each 15 minutes
+- Fee | Period
 
-- 3. | $2.00 | 2 hour parking meter | each 15 minutes
+- $2 | each 15 minutes
 
-- Part 2 Maximum Fees for Use of Pay and Display Parking Spaces
+- Part 2 Maximum Fee for Use of Pay and Display Parking Space
 
-- Item | Fee | Parking Apparatus | Period
+- Column 1 | Column 2
 
-- 1. | $2.00 | 1/2 hour pay and display machine | each 15 minutes
+- Fee | Period
 
-- 2. | $2.00 | 1 hour pay and display machine | each 15 minutes
+- $2 | each 15 minutes
 
-- 3. | $2.00 | 2 hour pay and display machine | each 15 minutes
-
-(L.N. 252 of 1991; L.N. 514 of 1994; L.N. 90 of 1999 and 44 of 1999 s. 41)
+(25 of 2020 s. 17)
