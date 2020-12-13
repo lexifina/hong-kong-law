@@ -2186,6 +2186,8 @@ Poisons List
 
     - Pentolinium; its salts
 
+    - Pentoxifylline; its salts
+
     - Perampanel
 
     - Pergolide; its salts
@@ -2347,8 +2349,6 @@ Poisons List
     - Patent blue V
 
     - Pentetic acid
-
-    - Pentoxifylline
 
     - Phenol
 

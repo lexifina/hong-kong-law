@@ -1822,6 +1822,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Pentolinium; its salts
 
+- Pentoxifylline; its salts
+
 - Perampanel
 
 - Pergolide; its salts
@@ -1985,8 +1987,6 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Patent blue V
 
 - Pentetic acid
-
-- Pentoxifylline
 
 - Phenol
 

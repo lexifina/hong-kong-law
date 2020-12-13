@@ -1956,6 +1956,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Pentolinium; its salts
 
+- Pentoxifylline; its salts
+
 - Perampanel
 
 - Pergolide; its salts
@@ -2119,8 +2121,6 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Patent blue V
 
 - Pentetic acid
-
-- Pentoxifylline
 
 - Phenol
 
