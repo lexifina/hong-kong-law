@@ -1,14 +1,16 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3, 10, 11 & 16]
 
-FORMS FOR NOTICES AND ORDERS UNDER THIS REGULATION
+Forms for Notices and Orders under this Regulation
 
-FORM 1 | [s. 3]
+Form 1
 
-FIRE SERVICES (FIRE HAZARD ABATEMENT) REGULATION (Section 3) Fire Hazard Abatement Notice
+[s. 3]
 
-TO
+Fire Services (Fire Hazard Abatement) Regulation (Section 3) Fire Hazard Abatement Notice
+
+TO:
 
 (name and address of person by reason of whose own or whose servant’s or agent’s act, default or sufferance the fire hazard arose or continues, or owner, tenant, occupier or person in charge of the premises at which the fire hazard exists, as the case may be).
 
@@ -30,17 +32,27 @@ Dated this . day of ., .
 
 Director of Fire Services
 
-FORM 2 | [s. 10]
+(E.R. 7 of 2020) _
 
-FIRE SERVICES (FIRE HAZARD ABATEMENT) REGULATION (Section 10) Fire Hazard Order
+Form 2
 
-To A.B. of . (or to the owner, tenant, occupier or person in charge of) (describe premises) situated at .(insert such description of the situation as may be sufficient to identify the premises).
+[s. 10]
 
-WHEREAS the said A.B. (or, the owner, tenant, occupier or person in charge of the said premises, namely . ) has this day appeared before me/us, . (describe the court), to answer the matter of a complaint made by . etc. that at . etc. (follow the words of complaint in summons):
+Fire Services (Fire Hazard Abatement) Regulation (Section 10) Fire Hazard Order
+
+TO: A.B. of . (or to the owner, tenant, occupier or person in charge of) (describe premises) situated at .(insert such description of the situation as may be sufficient to identify the premises).
+
+WHEREAS the said A.B. (or, the owner, tenant, occupier or person in charge of the said premises, namely . ) has this day appeared before me/us, . (describe the court), to answer the matter of a complaint made by . etc. that at
+
+etc. (follow the words of complaint in summons):
 
 [(or, in the case where the party charged does not appear, say, in place of the foregoing).
 
-WHEREAS it has been now proved to my/our satisfaction that a summons has been duly served requiring the said A.B. (or, the owner, tenant, occupier or person in charge of the said premises) to appear this day before me/us to answer the matter of a complaint made by . etc. that at . etc. (following the words of complaint in summons):]
+WHEREAS it has been now proved to my/our satisfaction that a summons has been duly served requiring the said A.B. (or, the owner, tenant, occupier or person in charge of the said premises) to appear this day before me/us to answer the matter of a complaint made by .
+
+.etc. that at
+
+.etc. (following the words of complaint in summons):]
 
 (Any of the following orders may be made or a combination of any of them, as the case seems to require.)
 
@@ -56,13 +68,17 @@ Dated this . day of ., .
 
 Magistrate
 
-(L.N. 185 of 2003)
+(L.N. 185 of 2003; E.R. 7 of 2020)
 
-FORM 3 | [s. 11]
+_
 
-FIRE SERVICES (FIRE HAZARD ABATEMENT) REGULATION (Section 11) Prohibition Order
+Form 3
 
-TO . (name and address of person served with a fire hazard abatement notice under section 3 of the Fire Services (Fire Hazard Abatement) Regulation) being a person upon whom a fire hazard abatement notice under section 3 of the Regulation was served on . (date of service) in respect of premises situated at .(insert such description of the situation as may be sufficient to identify the premises).
+[s. 11]
+
+Fire Services (Fire Hazard Abatement) Regulation (Section 11) Prohibition Order
+
+TO: . (name and address of person served with a fire hazard abatement notice under section 3 of the Fire Services (Fire Hazard Abatement) Regulation) being a person upon whom a fire hazard abatement notice under section 3 of the Regulation was served on . (date of service) in respect of premises situated at .(insert such description of the situation as may be sufficient to identify the premises).
 
 TAKE NOTICE that the Director of Fire Services has this day appeared before me/us and by information sworn on oath has proved to my/our satisfaction that—
 
@@ -82,11 +98,15 @@ Dated this . day of ., .
 
 Magistrate
 
-FORM 4 | [s. 16]
+(E.R. 7 of 2020) _
 
-FIRE SERVICES (FIRE HAZARD ABATEMENT) REGULATION (Section 16) Removal Order
+Form 4
 
-TO . (name and address) being the owner, tenant, occupier or person in charge of premises situated at . (insert such description of the situation as may be sufficient to identify the premises) having been convicted of the offence of . (describe offence) under section . (14 OR 15) of the Fire Services (Fire Hazard Abatement) Regulation on . (date of conviction) at . Court.
+[s. 16]
+
+Fire Services (Fire Hazard Abatement) Regulation (Section 16) Removal Order
+
+TO: . (name and address) being the owner, tenant, occupier or person in charge of premises situated at . (insert such description of the situation as may be sufficient to identify the premises) having been convicted of the offence of . (describe offence) under section . (14 OR 15) of the Fire Services (Fire Hazard Abatement) Regulation on . (date of conviction) at . Court.
 
 TAKE NOTICE that under section 16 of the Fire Services (Fire Hazard Abatement) Regulation I/we do require you within . (specify time) from the service of this order to remove . (the articles or things to which that offence relates OR the lock or other device to which that offence relates).
 
@@ -97,3 +117,5 @@ Dated this . day of ., .
 (Signed)
 
 Magistrate
+
+(E.R. 7 of 2020)

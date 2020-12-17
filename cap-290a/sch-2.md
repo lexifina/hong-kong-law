@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [rule 13] (L.N. 230 of 2005)
 
-ADDITIONAL MATTERS SUBJECT TO INVESTIGATION AND REPORT BY GUARDIAN AD LITEM
+Additional Matters Subject to Investigation and Report by Guardian Ad Litem
 
-- PART I THE APPLICANT
+- Part I The Applicant
 
   - 1. In the case of a joint application, how long the applicants have been married.
 
@@ -28,13 +28,13 @@ ADDITIONAL MATTERS SUBJECT TO INVESTIGATION AND REPORT BY GUARDIAN AD LITEM
 
   - 9. Whether the applicant understands that an adoption order is irrevocable and that the order if made will render him or her responsible for the maintenance and upbringing of the infant.
 
-- PART II THE INFANT
+- Part II The Infant
 
   - 10. Whether the infant has any right to or interest in any property.
 
   - 11. Whether the infant (if of an age to understand the effect of an adoption order) wishes the order to be made.
 
-- PART III THE PARENTS
+- Part III The Parents
 
   - 12. Whether the mother consents to the adoption and identifies the birth certificate (if any) attached to the applicant’s statement as the birth certificate of the infant.
 

@@ -292,7 +292,7 @@ Yes / No
 
 If “Yes”, how much $
 
-5. | Will employees of the house on some occasions act as player?
+5. | Will employees of the house on some occasions act as players?
 
 Yes / No
 
@@ -320,7 +320,7 @@ Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and 
 
 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. 4. If the public officer decides to grant a licence, a fee of $1,145 per table will be payable to the public officer.
 
-(L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28)
+(L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28; E.R. 7 of 2020)
 
 _
 
@@ -330,21 +330,21 @@ Form 6
 
 BEFORE completing this form READ the Note below.
 
-1. | Name of applicant
+1. | Name of Applicant:
 
-2. | Identity Card number
+2. | Identity Card Number:
 
-3. | Business Registration or Commercial Code number
+3. | Business Registration or Commercial Code Number:
 
-4. | Telephone Number
+4. | Telephone Number:
 
-5. | Residential Address
+5. | Residential Address:
 
-6. | Date of Birth
+6. | Date of Birth:
 
-7. | Place of Birth
+7. | Place of Birth:
 
-8. | Nationality
+8. | Nationality:
 
 9. | Give details of any other licences under the Gambling Ordinance for which application has previously been made
 
@@ -366,7 +366,7 @@ I certify that the information supplied by me in this form is to the best of my 
 
 Note: | 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies. 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-(L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28; E.R. 7 of 2020)
 
 _
 

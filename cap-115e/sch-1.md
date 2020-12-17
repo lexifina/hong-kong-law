@@ -1,22 +1,22 @@
-# SCHEDULE 1
+# Schedule 1
 
 [para. 2] (L.N. 82 of 1981)
 
-RULES
+Rules
 
 - 1. Interpretation In these rules, unless the context otherwise requires—
 
-  - “arrest/detention sheet” (逮捕╱羈留紀錄表) means the sheet or record maintained in respect of a detainee under rule 4A; (L.N. 15 of 2010 and L.N. 41 of 2010)
+  - arrest/detention sheet (逮捕╱羈留紀錄表) means the sheet or record maintained in respect of a detainee under rule 4A; (L.N. 15 of 2010 and L.N. 41 of 2010)
 
-  - “auxiliary officer” (輔助人員) means a member of the Auxiliary Medical Service raised under the Auxiliary Medical Service Ordinance (Cap. 517) or of the Civil Aid Service raised under the Civil Aid Service Ordinance (Cap. 518); (57 of 1997 s. 34; 58 of 1997 s. 34)
+  - auxiliary officer (輔助人員) means a member of the Auxiliary Medical Service raised under the Auxiliary Medical Service Ordinance (Cap. 517) or of the Civil Aid Service raised under the Civil Aid Service Ordinance (Cap. 518); (57 of 1997 s. 34; 58 of 1997 s. 34)
 
-  - “Centre” (中心) means any place specified in Schedule 2; (L.N. 82 of 1981)
+  - Centre (中心) means any place specified in Schedule 2; (L.N. 82 of 1981)
 
-  - “detainee” (被羈留者) means a person detained in the Centre under the Ordinance;
+  - detainee (被羈留者) means a person detained in the Centre under the Ordinance;
 
-  - “officer” (中心人員) means an auxiliary officer and a public officer attached to or directed by the Government to work at the Centre;
+  - officer (中心人員) means an auxiliary officer and a public officer attached to or directed by the Government to work at the Centre;
 
-  - “Superintendent” (監督) means the officer in charge of the Centre.
+  - Superintendent (監督) means the officer in charge of the Centre.
 
 - 1A. Notification to relatives, etc. Immediately after the detention of a detainee, or so soon after the detention as may be practicable, an officer must—
 
@@ -194,7 +194,7 @@ RULES
 
 - 16. Visits by justices
 
-  - (1) The Superintendent must provide facilities to justices of the peace appointed by the Chief Executive for that purpose (the “visiting justices”) to enable them to visit detainees and satisfy themselves that detainees are held in accordance with this Order and any other law.
+  - (1) The Superintendent must provide facilities to justices of the peace appointed by the Chief Executive for that purpose (the visiting justices) to enable them to visit detainees and satisfy themselves that detainees are held in accordance with this Order and any other law.
 
   - (2) For the purposes of subrule (1), visiting justices must be permitted to visit detainees at all reasonable times and for reasonable periods.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 2]
 
-SCHEDULED MEMBERS
+Scheduled Members
 
 Director of Fire Services
 

@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [para. 2]
 
-CENTRES
+Centres
 
 - 1. (Repealed L.N. 138 of 1992)
 
@@ -10,4 +10,4 @@ CENTRES
 
 - 4-10. (Repealed L.N. 15 of 2010)
 
-- 11. Castle Peak Bay Immigration Centre at 84 Castle Peak Road, Tuen Mun. (L.N. 15 of 2010)
+- 11. Castle Peak Bay Immigration Centre at 84 Castle Peak Road, Tuen Mun (L.N. 15 of 2010; E.R. 7 of 2020)

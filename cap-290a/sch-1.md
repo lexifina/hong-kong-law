@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [rule 2] (L.N. 230 of 2005)
 
-Form1
+Form 1
 
 [rule 3]
 
@@ -24,7 +24,7 @@ Notes:
 
 (L.N. 526 of 1994; 28 of 2004 s. 35) _
 
-ANNEX TO FORM 1 Authorization for Criminal Record Check
+Annex to Form 1 Authorization for Criminal Record Check
 
 To: Commissioner of Police
 
@@ -104,11 +104,15 @@ Form 3
 
 Statement in support of application for an Adoption Order(1) [Heading as in Form 1]
 
-1. I, the undersigned, C.D./We, the undersigned, C.D. and E.D. desire to adopt A.B.(2) an infant, under the Adoption Ordinance. 2. I am/We are resident in Hong Kong. 3. I am unmarried/a widow/widower/I am married to E.D. of ............................................................../We are married to each other and are the persons to whom the attached marriage certificate (or other evidence of marriage) relates. 4. The infant is of the ................................ sex and unmarried. He/She was born on the ................................................... and is the person to whom the attached birth certificate(3) relates/was born on or about the ..............................................., in ............................................................................. .......................................................(4). 5. The infant is the child/adopted child of(3) F.B. of .............................................................../whose last known address was ...................................................../deceased [and G.B. of ............................................................../whose last known address was ...................................................../deceased](5). [6. The guardian of the infant is H.K. of ................................... /The guardians of the infant are H.K. of ........................................................ and J.B. of ..................................................................................................](6).
+1. I, the undersigned, C.D./We, the undersigned, C.D. and E.D. desire to adopt A.B.(2) an infant, under the Adoption Ordinance. 2. I am/We are resident in Hong Kong. 3. I am unmarried/a widow/widower/I am married to E.D. of ............................................................../We are married to each other and are the persons to whom the attached marriage certificate (or other evidence of marriage) relates.
 
-[7. L.M. of .............................................................. is liable by virtue of an order or agreement to contribute to the maintenance of the infant](7). 8. I/We attach a document/documents signifying the consent of the said ..........................................(8) to the making of an adoption order upon my/our application. [9. I/We request the judge to dispense with the consent of the said .....................................................................................(9) on the following grounds ..............................................................................................] 10. The infant was received into my/our actual custody on the ......................................................., from ................................................. of ........................................... and has been continuously in my/our actual custody since that date. 11. I/We lodged with the Director of Social Welfare on the .............................. day of ....................................................., notice of my/our intention to apply for an Adoption Order in respect of the infant. [12. A certificate as to physical and mental health of the infant, signed by a registered medical practitioner on the ........................................................... is attached](10). 13. I/We have not received or agreed to receive, and no person has made or given or agreed to make or give to me/us, any payment or other reward in consideration of the adoption [except as follows: .......................................................................................................................] 14. I have not made/Neither of us has made a previous application for the adoption of the same infant or any other infant in Hong Kong or elsewhere [except an application made to the ................ at ............................................... on the ..........................................................., which was dealt with as follows: .......................................................................................................................] [15. For the purposes of my/our application reference may be made to N.O. of ..............................................................................................](11). [16. I/We desire that my/our identity should be kept confidential, and the serial number of this application is .................................................](12), or [I/We do not desire that my/our identity should be kept confidential]. 17. Further particulars of myself/ourselves are set out in the annex to this statement. 18. If an adoption order is made in pursuance of my/our application, it is proposed that the infant should be known as .......................................... Dated this ............. day of .........................................
+4. The infant is of the ................................ sex and unmarried. He/She was born on the ................................................... and is the person to whom the attached birth certificate(3) relates/was born on or about the ..............................................., in ............................................................................. .......................................................(4).
 
-.................................................................. .................................................................. (Usual signature of applicant/applicants).
+5. The infant is the child/adopted child of(3) F.B. of .............................................................../whose last known address was ...................................................../deceased [and G.B. of ............................................................../whose last known address was ...................................................../deceased](5). [6. The guardian of the infant is H.K. of ................................... /The guardians of the infant are H.K. of ........................................................ and J.B. of ..................................................................................................](6). [7. L.M. of .............................................................. is liable by virtue of an order or agreement to contribute to the maintenance of the infant](7). 8. I/We attach a document/documents signifying the consent of the said ..........................................(8) to the making of an adoption order upon my/our application.
+
+[9. I/We request the judge to dispense with the consent of the said .....................................................................................(9) on the following grounds ..............................................................................................] 10. The infant was received into my/our actual custody on the ......................................................., from ................................................. of ........................................... and has been continuously in my/our actual custody since that date. 11. I/We lodged with the Director of Social Welfare on the .............................. day of ....................................................., notice of my/our intention to apply for an Adoption Order in respect of the infant. [12. A certificate as to physical and mental health of the infant, signed by a registered medical practitioner on the ........................................................... is attached](10). 13. I/We have not received or agreed to receive, and no person has made or given or agreed to make or give to me/us, any payment or other reward in consideration of the adoption [except as follows: .......................................................................................................................] 14. I have not made/Neither of us has made a previous application for the adoption of the same infant or any other infant in Hong Kong or elsewhere [except an application made to the ................ at ............................................... on the ..........................................................., which was dealt with as follows: .......................................................................................................................] [15. For the purposes of my/our application reference may be made to N.O. of ..............................................................................................](11). [16. I/We desire that my/our identity should be kept confidential, and the serial number of this application is .................................................](12), or [I/We do not desire that my/our identity should be kept confidential]. 17. Further particulars of myself/ourselves are set out in the annex to this statement. 18. If an adoption order is made in pursuance of my/our application, it is proposed that the infant should be known as .......................................... Dated this ............. day of .........................................
+
+.................................................................. .................................................................. (Usual signature of applicant/applicants)
 
 _
 
@@ -164,7 +168,7 @@ Notes:
 
 (12) | If the applicant wishes his name to be kept confidential, insert serial number obtained in pursuance of rule 6 of the Adoption Rules.
 
-(L.N. 337 of 1982; L.N. 526 of 1994; 28 of 2004 s. 35; L.N. 230 of 2005) _
+(L.N. 337 of 1982; L.N. 526 of 1994; 28 of 2004 s. 35; L.N. 230 of 2005; E.R. 7 of 2020) _
 
 Form 4
 
@@ -320,7 +324,7 @@ Notes:
 
 — — — — — — — — — —Perforation — — — — — — — — — —
 
-To: The Director of Social Welfare, Hong Kong. (If the Director of Social Welfare is not the guardian ad litem, the appropriate address should be substituted). I have received notice of the hearing of the application for an adoption order in respect of A.B. an infant.
+To: The Director of Social Welfare, Hong Kong (If the Director of Social Welfare is not the guardian ad litem, the appropriate address should be substituted). I have received notice of the hearing of the application for an adoption order in respect of A.B. an infant.
 
 (a) I consent to the making of this order. or
 
@@ -330,7 +334,7 @@ Delete (a) or (b). | (b) I do not consent to the making of this order and I wish
 
 ...................................................... (Date) | ....................................................... (Address)
 
-(L.N. 337 of 1982; L.N. 526 of 1994; 28 of 2004 s. 35; L.N. 230 of 2005) _
+(L.N. 337 of 1982; L.N. 526 of 1994; 28 of 2004 s. 35; L.N. 230 of 2005; E.R. 7 of 2020) _
 
 Form 7
 
@@ -344,7 +348,7 @@ Application having been made by C.D., by occupation ............................
 
 ..................................................................
 
-Registrar, District Court/High Court.
+Registrar, District Court/High Court
 
 SCHEDULE
 
@@ -376,7 +380,7 @@ Notes:
 
 (6) | Where there is a change, enter only the name by which the infant is to be known.
 
-(L.N. 337 of 1982; 80 of 1997 s. 121; 28 of 2004 s. 35; L.N. 230 of 2005) _
+(L.N. 337 of 1982; 80 of 1997 s. 121; 28 of 2004 s. 35; L.N. 230 of 2005; E.R. 7 of 2020) _
 
 Form 8
 
@@ -402,9 +406,9 @@ It is ordered that the determination of the application be postponed, and the cu
 
 [And as regards costs it is ordered that .................................................. ........................................................................................................................] Dated the .................... day of .........................................
 
-.................................................................. Registrar, District Court/High Court.
+.................................................................. Registrar, District Court/High Court
 
-(L.N. 337 of 1982; 28 of 2004 s. 35; L.N. 230 of 2005) _
+(L.N. 337 of 1982; 28 of 2004 s. 35; L.N. 230 of 2005; E.R. 7 of 2020) _
 
 Form 9
 
@@ -412,7 +416,9 @@ Form 9
 
 Notice of further hearing of application for an adoption order in respect of an infant named A.B.(1)
 
-To .................................................... of .............................................. Whereas an application has been made [by C.D./C.D. and E.D.](2) or [under the serial number ......................................................................]; And whereas I, ........................................... of ................................... ..................................... am the guardian ad litem of the said infant; And whereas the determination of the said application was postponed and an interim order was made by His Honour Judge/the Hon. Mr. Justice ................................. on the .............................................
+To .................................................... of ..............................................
+
+Whereas an application has been made [by C.D./C.D. and E.D.](2) or [under the serial number ......................................................................]; And whereas I, ........................................... of ................................... ..................................... am the guardian ad litem of the said infant; And whereas the determination of the said application was postponed and an interim order was made by His Honour Judge/the Hon. Mr. Justice ................................. on the .............................................
 
 Take notice: A.(3) [That the said application will be further heard before the judge at the District Court/Court of First Instance, Hong Kong, on the ............................. at the hour of .................................................................. ........................ in the ........................ noon and that you may appear to show cause why the adoption order should not be made]. B.(3) [That if you do not consent to the making of the order, you should notify me on or before ........................................................, in order that a date and time may be fixed for you to attend and show cause why the adoption order should not be made. The form below may be detached and used for this purpose].
 
@@ -430,7 +436,7 @@ Notes:
 
 — — — — — — — — — —Perforation — — — — — — — — — —
 
-To: The Director of Social Welfare, Hong Kong.
+To: The Director of Social Welfare, Hong Kong
 
 (If the Director of Social Welfare is not the guardian ad litem, the appropriate address should be substituted).
 
@@ -446,6 +452,6 @@ Delete (a) or (b). | (a) I consent to the making of this order.
 
 ...................................................... (Date)
 
-(L.N. 337 of 1982; L.N. 526 of 1994; 28 of 2004 s. 35; L.N. 230 of 2005)
+(L.N. 337 of 1982; L.N. 526 of 1994; 28 of 2004 s. 35; L.N. 230 of 2005; E.R. 7 of 2020)
 
 (First Schedule replaced G.N.A. 76 of 1960)

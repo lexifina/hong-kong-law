@@ -1,9 +1,9 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-ANIMALS
+Animals
 
-- PART I All members of the class Mammalia (mammals), except human beings.
+- Part I All members of the class Mammalia (mammals), except human beings (Amended E.R. 7 of 2020)
 
-- PART II Dogs.
+- Part II Dogs (Amended E.R. 7 of 2020)
