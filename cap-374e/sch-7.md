@@ -242,6 +242,16 @@ Permitted Areas for New Territories and Lantau Taxis
 
   - (k) All roads in the Shenzhen Bay Port Hong Kong Port Area. (L.N. 68 of 2007)
 
+  - (l) The following roads in the Islands District and Tuen Mun District, as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
+
+    - (i) all roads directly joining Lung Mun Road and Shun Long Road;
+
+    - (ii) all roads directly joining Lung Fu Road and Shun Long Road;
+
+    - (iii) all roads directly joining Lung Mun Road and Chek Lap Kok Road; and
+
+    - (iv) all roads directly joining Lung Fu Road and Chek Lap Kok Road. (L.N. 62 of 2017)
+
 - 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau—
 
   - (a) All roads in Lantau. (L.N. 62 of 2017)
