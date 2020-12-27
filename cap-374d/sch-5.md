@@ -66,39 +66,15 @@ Taxi Fares
 
 (v) | (Repealed L.N. 83 of 2005)
 
-(vi) | For every hiring involving the use of the Lantau Link (L.N. 136 of 1997; L.N. 61 of 2017) | The toll charge paid by the driver of the taxi during the hiring for the use of the Lantau Link.
+(vi) | (Repealed L.N. 36 of 2020)
 
-(via) | For every hiring that—
+(via) | (Repealed L.N. 36 of 2020)
 
-(a) | begins outside Lantau, Chek Lap Kok and Ma Wan;
+(viab) | (Repealed L.N. 36 of 2020)
 
-(b) | is for a destination in Lantau, Chek Lap Kok or Ma Wan; and
+(viac) | (Repealed L.N. 36 of 2020)
 
-(c) | involves the use of the Lantau Link (L.N. 61 of 2017) | $15.00
-
-(viab) | For every hiring that—
-
-(a) | begins from Lantau, Chek Lap Kok or Ma Wan;
-
-(b) | is for a destination outside Lantau, Chek Lap Kok and Ma Wan; and
-
-(c) | involves the use of the Lantau Link (L.N. 61 of 2017) | $15.00
-
-(viac) | For every hiring that—
-
-(a) | begins from Lantau or Chek Lap Kok;
-
-(b) | is for a destination in Ma Wan; and
-
-(c) | involves the use of the Lantau Link (L.N. 61 of 2017) | $30.00
-
-(viad) | For every hiring that—
-
-(a) | begins from Ma Wan;
-
-(b) | is for a destination in Lantau or Chek Lap Kok; and
-
-(c) | involves the use of the Lantau Link (L.N. 61 of 2017) | $30.00
+(viad) | (Repealed L.N. 36 of 2020)
 
 (vib) | For every hiring involving the use of the toll area within the meaning of the Tsing Sha Control Area Ordinance (Cap. 594) (16 of 2007 s. 31) | The toll paid by the driver of the taxi during the hiring for the use of the toll area.
 
