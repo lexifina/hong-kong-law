@@ -4,7 +4,7 @@
 
 - 1. The ground floor, second to sixth floors, and eighth to eleventh floors (excluding the staircase, the floor lobby on each floor and the recital hall on the eighth floor) of the building known as City Hall High Block situated at Edinburgh Place, Hong Kong.
 
-- 2. The ground and mezzanine floors of the building known as Yau Ma Tei Multi-storey Car Park, situated at Yau Ma Tei, Kowloon.
+- 2. Block A of the ground floor of, and the first to third floors of, No. 251, Shanghai Street, Yau Ma Tei, Kowloon. (L.N. 64 of 2020)
 
 - 3. Rooms numbered 511 to 519 and rooms numbered 611 to 619 of the building known as Wah Chun House situated at Wah Fu Estate, Shek Pai Wan Road, Hong Kong.
 
