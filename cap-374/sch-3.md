@@ -70,34 +70,44 @@ $
 
       - (g) trailer (other than a trailer towed by a private car).
 
-    - (2) For the purposes of an examination of a vehicle that takes place within the period from 30 December 2019 to 28 April 2021 (both dates inclusive), a private car in respect of which a hire car permit is in force is also a specified vehicle. (Added L.N. 102 of 2019)
+    - (2) For the purposes of an examination of a vehicle that takes place within the period from 30 December 2019 to 28 April 2022 (both dates inclusive), a private car in respect of which a hire car permit is in force is also a specified vehicle. (Added L.N. 102 of 2019. Amended L.N. 172 of 2020)
 
-  - 3. What is qualified examination
+  - 3. What is qualified examination An examination of a vehicle is a qualified examination if the examination is an examination required under section 78(1)(d) by notice given under section 78(1A)(b) (required examination) and—
 
-    - (1) An examination of a vehicle is a qualified examination if the conditions set out in subsection (2) are satisfied.
+    - (a) the examination—
 
-    - (2) The conditions are—
+      - (i) takes place on a date that—
 
-      - (a) the examination of the vehicle is a specified examination; and
+        - (A) is specified under section 78(1A)(d) within the period from 13 July 2015 to 12 July 2016 (both dates inclusive); and
 
-      - (b) the examination—
+        - (B) falls within the period from 13 July 2015 to 11 November 2016 (both dates inclusive); and
 
-        - (i) takes place on a date that falls within—
+      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B);
 
-          - (A) the period from 13 July 2015 to 11 November 2016 (both dates inclusive); or
+    - (b) the examination—
 
-          - (B) the period from 30 December 2019 to 28 April 2021 (both dates inclusive); and (Replaced L.N. 102 of 2019)
+      - (i) takes place on a date that—
 
-        - (ii) is the first specified examination of the vehicle within that period.
+        - (A) is specified under section 78(1A)(d) within the period from 30 December 2019 to 29 December 2020 (both dates inclusive); and
 
-  - 4. What is specified examination For the purposes of section 3(2) of this Part, an examination of a vehicle is a specified examination if—
+        - (B) falls within the period from 30 December 2019 to 28 April 2021 (both dates inclusive); and
 
-    - (a) the examination is an examination required under section 78(1)(d) by notice given under section 78(1A)(b); and
+      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B); or
 
-    - (b) the date for the examination is specified, under section 78(1A)(d), on a date that falls within—
+    - (c) the examination—
 
-      - (i) the period from 13 July 2015 to 12 July 2016 (both dates inclusive); or
+      - (i) takes place on a date that—
 
-      - (ii) the period from 30 December 2019 to 29 December 2020 (both dates inclusive). (Replaced L.N. 102 of 2019)
+        - (A) is specified under section 78(1A)(d) within the period from 30 December 2020 to 29 December 2021 (both dates inclusive); and
 
-  - (Part 3 added L.N. 89 of 2015) (Amended L.N. 33 of 1998; L.N. 145 of 1998)
+        - (B) falls within the period from 30 December 2020 to 28 April 2022 (both dates inclusive); and
+
+      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B).
+
+  - (Replaced L.N. 172 of 2020)
+
+  - 4. (Repealed L.N. 172 of 2020)
+
+- (Part 3 added L.N. 89 of 2015)
+
+(Amended L.N. 33 of 1998; L.N. 145 of 1998)
