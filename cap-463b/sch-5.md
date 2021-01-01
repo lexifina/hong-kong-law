@@ -54,21 +54,21 @@
 
     - (a) In this formula—
 
-      - N1: number of days of the relevant billing period that do not fall within 2020;
+      - N1: number of days of the relevant billing period that do not fall within 2020 or 2021;
 
-      - N2: number of days of the relevant billing period that fall within 2020;
+      - N2: number of days of the relevant billing period that fall within 2020 or 2021;
 
-      - R: the rate that is specified for the trade, business or manufacture concerned in column 4 of Schedule 1.
+      - R: the rate that is specified for the trade, business or manufacture concerned in column 4 of Schedule 1. (L.N. 177 of 2020)
 
     - (b) In paragraph (a)—
 
       - relevant billing period (有關發單收費期間) means a billing period that—
 
-      - (i) begins before 2020 and ends in 2020;
+      - (i) begins before 2020 and ends in 2020 or 2021;
 
-      - (ii) begins before 2020 and ends after 2020; or
+      - (ii) begins before 2020 and ends after 2021; or
 
-      - (iii) begins in 2020 and ends after 2020.
+      - (iii) begins in 2020 or 2021 and ends after 2021. (L.N. 177 of 2020)
 
 - (Part III added L.N. 105 of 2019)
 
