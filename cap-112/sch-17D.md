@@ -372,11 +372,9 @@ Due Diligence Requirements
 
     - (b) a financial institution other than an investment entity within the meaning of paragraph (e) of the definition of investment entity in section 50A(1) that is not a participating jurisdiction financial institution.
 
-  - 5. Determining controlling persons of account holder For the purpose of determining the controlling persons of an account holder, a reporting financial institution may rely on information collected and maintained pursuant to AML/KYC procedures.
+  - 5. Determining controlling persons of account holder For the purpose of determining the controlling persons of an account holder, a reporting financial institution may rely on information collected and maintained pursuant to AML/KYC procedures if those procedures are consistent with Recommendations 10 and 25 of the FATF Recommendations (as defined by section 50A(1) ). (Amended L.N. 43 of 2020)
 
-  - 6. Determining residence of controlling person of passive NFE For the purpose of determining the residence of a controlling person of a passive NFE, a reporting financial institution may rely only on a self-certification from the account holder or the controlling person.
-
-- (Amended 5 of 2018 s. 11)
+  - 6. Determining residence of controlling person of passive NFE For the purpose of determining the residence of a controlling person of a passive NFE, a reporting financial institution may rely only on a self-certification from the account holder or the controlling person. (Amended 5 of 2018 s. 11)
 
 - Part 7 Special Due Diligence Requirements
 
