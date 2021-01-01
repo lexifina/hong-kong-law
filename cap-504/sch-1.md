@@ -70,7 +70,13 @@
 
     - (b) is a patient the subject of an order under section 31 or 36 of that Ordinance and the death occurs in a hospital other than such a mental hospital.
 
-  - 16. Any death of a person where the death occurred in any premises in which the care of persons is carried on for reward or other financial consideration (other than in any premises which comprise a hospital, nursing home or maternity home registered under the Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165)).
+  - 16. Any death of a person where the death occurred in any premises in which the care of persons is carried on for reward or other financial consideration (other than in any premises which comprise— (Amended 34 of 2018 s. 185)
+
+    - (a) a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which a licence under that Ordinance is in force;
+
+    - (b) a scheduled nursing home within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which an exemption granted under section 128 of that Ordinance is in force; or
+
+    - (c) a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence under that Ordinance is in force). (Amended 34 of 2018 s. 185 and E.R. 5 of 2018)
 
   - 17. Any death of a person where the death was caused by homicide.
 
