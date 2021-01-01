@@ -32,7 +32,7 @@ Designated No Smoking Areas and Exempt Areas
 
 - 12. | Any hospital.
 
-- 13. | Any maternity home.
+- 13. | (Repealed 34 of 2018 s. 182)
 
 - 14. | Any public pleasure ground other than a bathing beach.
 
@@ -166,9 +166,9 @@ Designated No Smoking Areas and Exempt Areas
 
 - (g) | a reformatory school;
 
-- (h) | a hospital;
+- (h) | a hospital. (Amended 34 of 2018 s. 182)
 
-- (i) | a maternity home.
+- (i) | (Repealed 34 of 2018 s. 182)
 
 - 4. | A bedspace apartment in respect of which a licence or certificate of exemption issued under the Bedspace Apartments Ordinance (Cap. 447) is in force.
 
