@@ -14,13 +14,21 @@ PART 1
 
 PART 2
 
-3. A hospital to which the Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165) applies carried on by an individual person and registered under that Ordinance | 21(1)
+3. A day procedure centre, or clinic, within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) and operated by an individual person licensed to operate it under that Ordinance (34 of 2018 s. 177 and E.R. 5 of 2018) | 21(1)
 
-4. A hospital to which the Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165) applies carried on by a corporation and registered under that Ordinance | 20 and 21(1)
+3A. A scheduled nursing home within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which an exemption granted to an individual person under section 128 of that Ordinance is in force (34 of 2018 s. 177 and E.R. 5 of 2018) | 21(1)
 
-5. A maternity home to which the Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165) applies carried on by an individual person and registered under that Ordinance | 21(1)
+3B. A nursing home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence issued or renewed to an individual person under that Ordinance is in force (34 of 2018 s. 177) | 21(1)
 
-6. A maternity home to which the Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165) applies carried on by a corporation and registered under that Ordinance | 20 and 21(1)
+4. A private healthcare facility within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) and operated by a corporation licensed to operate it under that Ordinance (34 of 2018 s. 177 and E.R. 5 of 2018) | 20 and 21(1)
+
+4A. A scheduled nursing home within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which an exemption granted to a corporation under section 128 of that Ordinance is in force (34 of 2018 s. 177 and E.R. 5 of 2018) | 20 and 21(1)
+
+4B. A nursing home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence issued or renewed to a corporation under that Ordinance is in force (34 of 2018 s. 177) | 20 and 21(1)
+
+5. (Repealed 34 of 2018 s. 177)
+
+6. (Repealed 34 of 2018 s. 177)
 
 7. A medical clinic carried on by an individual person and registered under the Medical Clinics Ordinance (Cap. 343) | 21(1)
 
