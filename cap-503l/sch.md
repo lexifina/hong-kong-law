@@ -1,14 +1,8 @@
-# SCHEDULE
-
-(Adaptation amendments retroactively made - see 71 of 1999 s. 3)
+# Schedule
 
 [s. 1]
 
-- PART 1 PRESCRIBED DOCUMENTS TO ACCOMPANY, AND PRESCRIBED
-
-- PARTICULARS TO BE CONTAINED IN, NOTICE UNDER
-
-- SECTION 24(1) OF THE ORDINANCE
+- Part 1 Prescribed Documents to Accompany, and Prescribed Particulars to be Contained in, Notice under Section 24(1) of the Ordinance
 
   - 1. Where section 24(1)(a) of the Ordinance is applicable, the prescribed documents are—
 
@@ -70,20 +64,16 @@
 
   - (71 of 1999 s. 3)
 
-- PART 2 PRESCRIBED MANNER IN WHICH NOTICE UNDER
+- Part 2 Prescribed Manner in which Notice under Section 24(1) of the Ordinance to be Given In any case, by telex, facsimile transmission or other similar method and—
 
-- SECTION 24(1) OF THE ORDINANCE
+    - (a) where section 24(1)(a) of the Ordinance is applicable—
 
-- TO BE GIVEN In any case, by telex, facsimile transmission or other similar method and—
+      - (i) without prejudice to the generality of subparagraph (ii), at the same time as the issue of the application, if any, for the provisional arrest of the person concerned; and
 
-  - (a) where section 24(1)(a) of the Ordinance is applicable—
+      - (ii) at the same time as the issue of the request for the surrender of the person concerned;
 
-    - (i) without prejudice to the generality of subparagraph (ii), at the same time as the issue of the application, if any, for the provisional arrest of the person concerned; and
+    - (b) where section 24(1)(b) of the Ordinance is applicable, immediately after the order of committal has been made;
 
-    - (ii) at the same time as the issue of the request for the surrender of the person concerned;
+    - (c) where section 24(1)(c) or (d) of the Ordinance is applicable, as soon as the place or places through which it is proposed to transport the person is or are known, but, in any case, before the person is so transported;
 
-  - (b) where section 24(1)(b) of the Ordinance is applicable, immediately after the order of committal has been made;
-
-  - (c) where section 24(1)(c) or (d) of the Ordinance is applicable, as soon as the place or places through which it is proposed to transport the person is or are known, but, in any case, before the person is so transported;
-
-  - (d) where section 24(1)(e) of the Ordinance is applicable, as soon as it is known that it is proposed to transport the person through Hong Kong but, in any case, before the person is so transported.
+    - (d) where section 24(1)(e) of the Ordinance is applicable, as soon as it is known that it is proposed to transport the person through Hong Kong but, in any case, before the person is so transported.
