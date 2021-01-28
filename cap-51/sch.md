@@ -1,3 +1,3 @@
 # Schedule
 
-(Omitted)
+(Omitted as spent—E.R. 7 of 2020)
