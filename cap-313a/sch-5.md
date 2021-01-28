@@ -358,7 +358,9 @@ RESTRICTED AREAS, ETC.
 
 - 15. TSING MA BRIDGE AREA
 
-  - (a) 53 metres above sea level;
+  - (a) a height exceeding 57 metres above sea level; (L.N. 236 of 2020)
+
+  - (ab) a height exceeding 54.6 metres, but not exceeding 57 metres, above sea level; (L.N. 236 of 2020)
 
   - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii), and (iii) to (iv)—
 
