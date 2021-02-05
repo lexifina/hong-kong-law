@@ -1,7 +1,3 @@
-Editorial Note:
-
-* Commencement date: 19 July 2013.
-
 # Schedule 1
 
 [ss. 2(1) & 7(4)] (Amended 30 of 2003 s. 10)
