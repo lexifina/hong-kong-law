@@ -598,6 +598,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Cobimetinib; its salts
 
+- Codergocrine mesilate
+
 - Colaspase
 
 - Colfosceril; its salts
@@ -1510,6 +1512,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Metoprolol; its salts
 
+- Metronidazole; its salts; its esters; their salts
+
 - Metyrapone; its salts
 
 - Mexiletine; its salts
@@ -1969,8 +1973,6 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Methylene blue
 
 - Methylephedrine
-
-- Metronidazole
 
 - Noradrenaline
 

@@ -632,6 +632,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Cobimetinib; its salts
 
+- Codergocrine mesilate
+
 - Colaspase
 
 - Colfosceril; its salts
@@ -1624,6 +1626,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Metoprolol; its salts
 
+- Metronidazole; its salts; its esters; their salts
+
 - Metyrapone; its salts
 
 - Mexiletine; its salts
@@ -2103,8 +2107,6 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Methylene blue
 
 - Methylephedrine
-
-- Metronidazole
 
 - Noradrenaline
 

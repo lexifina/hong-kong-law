@@ -770,6 +770,8 @@ Poisons List
 
     - Cobimetinib; its salts
 
+    - Codergocrine mesilate
+
     - Colaspase
 
     - Colfosceril; its salts
@@ -1826,7 +1828,7 @@ Poisons List
 
     - Metoprolol; its salts
 
-    - Metronidazole; its salts
+    - Metronidazole; its salts; its esters; their salts
 
     - Metyrapone; its salts
 
@@ -2331,8 +2333,6 @@ Poisons List
     - Methylene blue
 
     - Methylephedrine
-
-    - Metronidazole
 
     - Noradrenaline
 
