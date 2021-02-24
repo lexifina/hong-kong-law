@@ -20,9 +20,11 @@ Fixed Penalty
 
       - (e) the Director of Home Affairs;
 
-      - (f) the Director of Housing; or
+      - (f) the Director of Housing; (L.N. 28 of 2021)
 
-      - (g) the Director of Leisure and Cultural Services; (L.N. 52 of 2020)
+      - (g) the Director of Leisure and Cultural Services; or (L.N. 52 of 2020; L.N. 28 of 2021)
+
+      - (h) the Commissioner for Labour; (L.N. 28 of 2021)
 
     - demand notice (繳款通知書) means a demand notice served under section 4(2) of this Schedule;
 
