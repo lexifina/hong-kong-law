@@ -1,6 +1,6 @@
 # Schedule 2
 
-[regs. 4, 5, 9, 12O, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55, 59 & 64] (25 of 2005 s. 27; L.N. 101 of 2019)
+[regs. 4, 5, 9, 12O, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55, 59, 62A & 64] (25 of 2005 s. 27; L.N. 101 of 2019; L.N. 31 of 2021 and 15 of 2021 s. 6)
 
 Fees
 
@@ -18,7 +18,7 @@ Transfer of ownership fee
 
 (a) motor cycles and motor tricycles | 250
 
-(b) all other vehicles (40 of 1991 s. 7) | 1000
+(b) all other vehicles (40 of 1991 s. 7) | 1,000
 
 Duplicate registration document fee, duplicate vehicle licence fee other than in the case of a rickshaw, or duplicate certificate of allocation fee (25 of 2005 s. 27) | 60
 
@@ -26,57 +26,57 @@ Duplicate vehicle licence fee in the case of a rickshaw (L.N. 92 of 2015; L.N. 1
 
 Duplicate trade licence or permit (L.N. 92 of 2015; L.N. 158 of 2017) | 86
 
-(L.N. 300 of 1990; L.N. 267 of 1994; L.N 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998) Annual Licence Fees
+(L.N. 300 of 1990; L.N. 267 of 1994; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998) Annual Licence Fees
 
 Fee $
 
 1. | (a) Goods vehicle (other than van-type light goods vehicle) and special purpose vehicle—
 
-(i) | not exceeding 1.9 tonnes permitted gross vehicle weight | 1,175
+(i) not exceeding 1.9 tonnes permitted gross vehicle weight | 1,175
 
-(ii) | exceeding 1.9 tonnes permitted gross vehicle weight, but not exceeding 5.5 tonnes permitted gross vehicle weight | 2,290
+(ii) exceeding 1.9 tonnes permitted gross vehicle weight, but not exceeding 5.5 tonnes permitted gross vehicle weight | 2,290
 
-(iii) | exceeding 5.5 tonnes permitted gross vehicle weight | 4,580
+(iii) exceeding 5.5 tonnes permitted gross vehicle weight | 4,580
 
 (b) Van-type light goods vehicle—
 
-(i) | not exceeding 1.9 tonnes permitted gross vehicle weight | 2,115
+(i) not exceeding 1.9 tonnes permitted gross vehicle weight | 2,115
 
-(ii) | exceeding 1.9 tonnes permitted gross vehicle weight (40 of 1991 s. 8) | 4,140
+(ii) exceeding 1.9 tonnes permitted gross vehicle weight (40 of 1991 s. 8) | 4,140
 
 2. | Public bus—
 
-(a) | for the driver; and | 25
+(a) for the driver; and | 25
 
-(b) | an additional fee for each seat for a passenger in such vehicle | 50
+(b) an additional fee for each seat for a passenger in such vehicle | 50
 
 3. | Private bus—
 
-(a) | for the driver; and | 25
+(a) for the driver; and | 25
 
-(b) | an additional fee for each seat for a passenger in such vehicle | 45
+(b) an additional fee for each seat for a passenger in such vehicle | 45
 
 4. | Taxi | 3,045
 
 5. | Private car of which the cylinder capacity of the engine—
 
-(a) | does not exceed 1 500 cubic centimetres | 3,815
+(a) does not exceed 1 500 cubic centimetres | 4,960
 
-(b) | exceeds 1 500 cubic centimetres but does not exceed 2 500 cubic centimetres | 5,680
+(b) exceeds 1 500 cubic centimetres but does not exceed 2 500 cubic centimetres | 7,384
 
-(c) | exceeds 2 500 cubic centimetres but does not exceed 3 500 cubic centimetres | 7,550
+(c) exceeds 2 500 cubic centimetres but does not exceed 3 500 cubic centimetres | 9,815
 
-(d) | exceeds 3 500 cubic centimetres but does not exceed 4 500 cubic centimetres | 9,420
+(d) exceeds 3 500 cubic centimetres but does not exceed 4 500 cubic centimetres | 12,246
 
-(e) | exceeds 4 500 cubic centimetres | 11,215
+(e) exceeds 4 500 cubic centimetres | 14,580
 
-and in addition to the appropriate fee mentioned above, in the case of a private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109) | 1,460
+and in addition to the appropriate fee mentioned above, in the case of a private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109) | 1,898
 
 6. | Electrically powered passenger vehicle—
 
-(a) | not exceeding 1 tonne unladen weight; and | 440
+(a) not exceeding 1 tonne unladen weight; and | 572
 
-(b) | an additional fee for each 250 kg unladen weight or part thereof | 95
+(b) an additional fee for each 250 kg unladen weight or part thereof | 124
 
 7. | Motor cycle | 1,200
 
@@ -92,33 +92,29 @@ and in addition to the appropriate fee mentioned above, in the case of a private
 
 13. | Rickshaw (L.N. 92 of 2015; L.N. 158 of 2017) | 61
 
-(18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8) Permit and Certificate Fees
+(18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8; L.N. 31 of 2021 and 15 of 2021 s. 6) Permit and Certificate Fees
 
 Fee $
 
-1. | (Repealed L.N. 160 of 2017)
-
-2. | (Repealed L.N. 160 of 2017)
-
-3. | (Repealed L.N. 160 of 2017)
+1-3. | (Repealed L.N. 160 of 2017)
 
 4. | Trade licence, per annum | 500
 
 5. | Closed road permit (other than for a road in Lantau), per annum—
 
-(a) | for a private car | 540
+(a) for a private car | 540
 
-(b) | for a goods vehicle | 456
+(b) for a goods vehicle | 456
 
-(c) | for a bus | 456
+(c) for a bus | 456
 
 5A. | Closed road permit issued under regulation 49(1A) for use in connection with a trade licence (L.N. 88 of 2012) | 540
 
 6. | Closed road permit for a road in Lantau, per annum—
 
-(a) | upon first issue | 900
+(a) upon first issue | 900
 
-(b) | upon renewal | 660
+(b) upon renewal | 660
 
 7. | Goods permit | 260
 
