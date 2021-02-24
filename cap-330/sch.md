@@ -1,6 +1,8 @@
 # Schedule
 
-[s. 4E]
+[ss. 4E & 12]
+
+(Replaced L.N. 31 of 2021 and 15 of 2021 s. 4)
 
 Classes of Motor Vehicles and Rate of Tax
 
@@ -10,15 +12,15 @@ Item | Class of motor vehicle | Rate of tax
 
 1. | Private cars—
 
-(a) | on the first $150,000 | 40
+(a) | on the first $150,000 | 46
 
-(b) | on the next $150,000 | 75
+(b) | on the next $150,000 | 86
 
-(c) | on the next $200,000 | 100
+(c) | on the next $200,000 | 115
 
-(d) | on the remainder | 115
+(d) | on the remainder | 132
 
-(Amended L.N. 33 of 2011 and 11 of 2011 s. 3)
+(Amended L.N. 33 of 2011 and 11 of 2011 s. 3; L.N. 31 of 2021 and 15 of 2021 s. 4)
 
 2. | Taxis | 3.7
 
