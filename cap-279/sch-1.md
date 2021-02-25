@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 40BP]
 
 - 1. Interpretation In this Schedule—
 
-  - “transferee” (受讓方) means the incorporated management committee of the relevant school;
+  - transferee (受讓方) means the incorporated management committee of the relevant school;
 
-  - “transition date” (交接日) means the date on which the incorporated management committee of the relevant school is established.
+  - transition date (交接日) means the date on which the incorporated management committee of the relevant school is established.
 
 - 2. Pre-incorporation contract Where—
 
@@ -30,7 +30,7 @@
 
   - (1) This section applies to a contract that is—
 
-    - (a) entered into by the supervisor, principal or sponsoring body or a manager of a school (“original party”) with a person before 1 January 2005;
+    - (a) entered into by the supervisor, principal or sponsoring body or a manager of a school (original party) with a person before 1 January 2005;
 
     - (b) entered into for the supply of goods or service by the person for the benefit of the school (but not any other school); and
 

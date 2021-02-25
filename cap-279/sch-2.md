@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 40BR & 40CB]
 
@@ -8,29 +8,31 @@
 
     - (i)
 
-      - “transferor” means the school management company of the relevant school;
+      - transferor (轉讓方) means the school management company of the relevant school;
 
     - (ii)
 
-      - “transferee” means the incorporated management committee of the relevant school;
+      - transferee (受讓方) means the incorporated management committee of the relevant school;
 
     - (iii)
 
-      - “transition date” means the date on which the incorporated management committee of the relevant school is established;
+      - transition date (交接日) means the date on which the incorporated management committee of the relevant school is established;
 
   - (b) where this Schedule applies under section 40CB—
 
     - (i)
 
-      - “transferor” means the incorporated management committee of the relevant school;
+      - transferor (轉讓方) means the incorporated management committee of the relevant school;
 
     - (ii)
 
-      - “transferee” means the school management company of the relevant school;
+      - transferee (受讓方) means the school management company of the relevant school;
 
     - (iii)
 
-      - “transition date” means the date on which the incorporated management committee of the relevant school is dissolved.
+      - transition date (交接日) means the date on which the incorporated management committee of the relevant school is dissolved.
+
+- (Amended E.R. 1 of 2021)
 
 - 2. Vesting of properties, etc.
 
@@ -112,7 +114,7 @@
 
   - (2)
 
-    - In this section, “documents” (文件) has the same meaning as in section 46 of the Evidence Ordinance (Cap. 8).
+    - In this section, documents (文件) has the same meaning as in section 46 of the Evidence Ordinance (Cap. 8).
 
 - 7. Effect of existing agreements, etc.
 

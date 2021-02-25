@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2(1) & 41]
 
-SPECIFIED DISCIPLINES
+Specified Disciplines
 
 Accounting
 

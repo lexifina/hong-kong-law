@@ -4,6 +4,8 @@
 
 Specified Schools
 
+(Format changes—E.R. 2 of 2012)
+
 School Name | School Address
 
 Diocesan Girls’ Junior School | 1 Jordan Road, Kowloon (Added L.N. 41 of 2012)
@@ -28,4 +30,4 @@ Victoria Shanghai Academy | 19 Shum Wan Road, Aberdeen, Hong Kong (Added L.N. 27
 
 Yew Chung International School—Secondary | 3 To Fuk Road, Kowloon Tong, Kowloon (Added L.N. 146 of 2008)
 
-(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012; E.R. 2 of 2012; L.N. 201 of 2013) (Format changes—E.R. 2 of 2012)
+(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012; E.R. 2 of 2012; L.N. 201 of 2013)

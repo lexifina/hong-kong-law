@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 14]
 
-PROVISIONS WITH RESPECT TO BOARD MEMBERS AND PROCEEDINGS OF AND OTHER MATTERS CONCERNING BOARD
+Provisions with respect to Board Members and Proceedings of and Other Matters Concerning Board
 
-- PART 1 APPOINTMENT AND REMOVAL OF BOARD MEMBERS
+- Part 1 Appointment and Removal of Board Members
 
   - 1. Term of office of Board members Subject to sections 5 and 6, any Board member (other than the Chief Executive Officer)—
 
@@ -40,7 +40,7 @@ PROVISIONS WITH RESPECT TO BOARD MEMBERS AND PROCEEDINGS OF AND OTHER MATTERS CO
 
     - (2) An appointment under subsection (1) is to continue in force until it is revoked by the Chief Executive or an appointment is made under section 6 of this Ordinance (whichever first occurs).
 
-- PART 2 CHIEF EXECUTIVE OFFICER
+- Part 2 Chief Executive Officer
 
   - 7. Terms and conditions of appointment of Chief Executive Officer The Chief Executive Officer holds office on such terms and conditions of appointment as the Authority may from time to time determine.
 
@@ -70,7 +70,7 @@ PROVISIONS WITH RESPECT TO BOARD MEMBERS AND PROCEEDINGS OF AND OTHER MATTERS CO
 
   - 10. Removal of Chief Executive Officer The Authority may, with the prior approval of the Chief Executive, remove the Chief Executive Officer.
 
-- PART 3 PROCEEDINGS OF BOARD
+- Part 3 Proceedings of Board
 
   - 11. Board meetings
 
@@ -146,7 +146,7 @@ PROVISIONS WITH RESPECT TO BOARD MEMBERS AND PROCEEDINGS OF AND OTHER MATTERS CO
 
   - 17. Board to regulate its proceedings and business The Board may, subject to the requirements of this Ordinance, regulate its own proceedings and business relating to any Board meeting.
 
-- PART 4 EXECUTION OF DOCUMENTS BY BOARD
+- Part 4 Execution of Documents by Board
 
   - 18. Seal and documents
 

@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 7]
 
-PRESCRIBED FEES
+Prescribed Fees
 
 Column 1 | Column 2 | Column 3
 

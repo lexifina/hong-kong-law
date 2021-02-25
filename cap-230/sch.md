@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 12A]
 
-CONTENTS OF PROGRAMME
+Contents of Programme
 
-A programme of the operations of a grantee for the following 5 years prepared in any year under section 12A shall contain—
+(Schedule added 44 of 1984 s. 21) A programme of the operations of a grantee for the following 5 years prepared in any year under section 12A shall contain—
 
 - (a) a bus route development programme, together with details of proposed changes to the routes operated, their frequency and vehicle allocation, on a monthly basis for the first 2 years of the programme and half yearly thereafter;
 
@@ -21,5 +21,3 @@ A programme of the operations of a grantee for the following 5 years prepared in
 - (g) a forecast of the financial implications of the adherence to the overall programme prepared under section 12A, including estimates of the timing and magnitude of any adjustments to fare levels that may be necessary;
 
 - (h) any other matters, whether or not specified in paragraphs (a) to (g) inclusive, as may be required by the Commissioner by notice in writing to the grantee.
-
-(Schedule added 44 of 1984 s. 21)
