@@ -1,21 +1,27 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 2, 11, 11A, 14, 25 & 28]
 
 (L.N. 64 of 2017)
 
-ROAD MARKINGS
+Road Markings
 
-INFORMATORY
+(Format changes—E.R. 1 of 2021)
 
-FIGURE No. 951 LANE LINE MARKING
+Informatory
 
-IF THE EXPRESSWAY IS A LEFT-DRIVING EXPRESSWAY, LONGITUDINAL MARKING UNDER REGULATION 11(3) TO INDICATE THAT THE TRAFFIC LANE TO THE LEFT OF THE MARKING VIEWED IN THE DIRECTION OF TRAFFIC FLOW IS NOT PART OF THE MAIN CARRIAGEWAY.
+Figure No. 951 Lane Line Marking
 
-IF THE EXPRESSWAY IS A RIGHT-DRIVING EXPRESSWAY, LONGITUDINAL MARKING UNDER REGULATION 11A(3) TO INDICATE THAT THE TRAFFIC LANE TO THE RIGHT OF THE MARKING VIEWED IN THE DIRECTION OF TRAFFIC FLOW IS NOT PART OF THE MAIN CARRIAGEWAY. (L.N. 64 of 2017)
+If the expressway is a left-driving expressway, longitudinal marking under regulation 11(3) to indicate that the traffic lane to the left of the marking viewed in the direction of traffic flow is not part of the main carriageway.
 
-REGULATORY
+If the expressway is a right-driving expressway, longitudinal marking under regulation 11A(3) to indicate that the traffic lane to the right of the marking viewed in the direction of traffic flow is not part of the main carriageway.
 
-FIGURE No. 952 POLICE ONLY
+(L.N. 64 of 2017)
 
-TO INDICATE TO VEHICULAR TRAFFIC A LAYBY OR SIMILAR AREA FOR USE BY POLICE VEHICLES ONLY.
+Regulatory
+
+Figure No. 952
+
+Police Only
+
+To indicate to vehicular traffic a layby or similar area for use by police vehicles only.

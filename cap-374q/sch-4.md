@@ -1,8 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [regs. 20(2) & (3) & 28]
 
-CONDITIONS IN RESPECT OF RELEVANT PERSONS CARRYING OUT EXPRESSWAY WORKS WHICH COMPRISE ONLY INSPECTIONS, INVESTIGATIONS OR SURVEYS AND VEHICLES USED IN CONNECTION THEREWITH
+Conditions in respect of Relevant Persons Carrying out Expressway Works which Comprise Only Inspections, Investigations or Surveys and Vehicles Used in Connection Therewith
+
+(Format changes—E.R. 1 of 2021)
 
 - 1. A relevant person carrying out expressway works which comprise only inspections investigations or surveys shall, at all times whilst on foot on any part of an expressway, wear a reflective jacket—
 

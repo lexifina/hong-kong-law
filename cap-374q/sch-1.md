@@ -1,53 +1,71 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 14, 16, 25 & 28]
 
-TRAFFIC SIGNS
+Traffic Signs
 
-INFORMATORY
+(Format changes—E.R. 1 of 2021)
 
-FIGURE No. 901 START AND CONTINUATION OF AN EXPRESSWAY
+Informatory
 
-THIS SIGN INDICATES THE START AND CONTINUATION OF THE AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY PART 14 OF THE ROAD TRAFFIC ORDINANCE AND THE ROAD TRAFFIC (EXPRESSWAY) REGULATIONS APPLY. THE SIGN MAY BE USED ALONE OR IN CONJUNCTION WITH ANY OTHER SIGN.
+Figure No. 901
 
-INFORMATORY
+Start and Continuation of Expressway
 
-FIGURE No. 902 END OF AN EXPRESSWAY
+This sign indicates the start and continuation of the area where the prohibitions and restrictions imposed by Part 14 of the Road Traffic Ordinance (Cap. 374) and the Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q) apply. The sign may be used alone or in conjunction with any other sign.
 
-THIS SIGN INDICATES THE END OF THE AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY PART 14 OF THE ROAD TRAFFIC ORDINANCE AND THE ROAD TRAFFIC (EXPRESSWAY) REGULATIONS APPLY.
+(E.R. 2 of 2012; E.R. 1 of 2021)
 
-REGULATORY
+Informatory
 
-FIGURE No. 903 LANE SIGNAL
+Figure No. 902
 
-THIS SIGN WHEN DISPLAYED ABOVE A TRAFFIC LANE INDICATES THAT VEHICLES MAY PROCEED OR CONTINUE TO DO SO IN THAT LANE BENEATH OR BEYOND THE SIGN AND IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE SIGN FACES.
+End of an Expressway
 
-REGULATORY
+This sign indicates the end of the area where the prohibitions and restrictions imposed by Part 14 of the Road Traffic Ordinance (Cap. 374) and the Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q) apply.
 
-FIGURE No. 904 LANE SIGNAL
+(E.R. 2 of 2012; E.R. 1 of 2021)
 
-THIS SIGN WHEN DISPLAYED ABOVE A TRAFFIC LANE INDICATES THAT VEHICLES SHALL NOT PROCEED BENEATH OR BEYOND THE SIGN IN THAT LANE IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE SIGN FACES.
+Regulatory
 
-REGULATORY
+Figure No. 903
 
-FIGURE No. 905 LANE SIGNAL PROCEED RIGHT OR KEEP RIGHT
+Lane Signal
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO INDICATE—
+This sign when displayed above a traffic lane indicates that vehicles may proceed or continue to do so in that lane beneath or beyond the sign and in the direction opposite to that in which the sign faces.
 
-PROCEED LEFT OR KEEP LEFT
+Regulatory
 
-THIS SIGN WHEN DISPLAYED ABOVE A TRAFFIC LANE INDICATES THAT VEHICLES MUST PROCEED OR KEEP TO THE LANE ON THE RIGHT-HAND SIDE (OR TO THE LANE ON THE LEFT-HAND SIDE IF THE DIRECTION OF THE ARROW IS REVERSED) OF THE LANE ABOVE WHICH THE SIGN IS DISPLAYED. (L.N. 64 of 2017)
+Figure No. 904
 
-REGULATORY
+Lane Signal
 
-FIGURE No. 906 LANE SIGNAL
+This sign when displayed above a traffic lane indicates that vehicles shall not proceed beneath or beyond the sign in that lane in the direction opposite to that in which the sign faces.
 
-LEAVE EXPRESSWAY AT NEXT EXIT ON THE LEFT AHEAD
+Regulatory
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO INDICATE—
+Figure No. 905
 
-LEAVE EXPRESSWAY AT NEXT EXIT ON THE RIGHT AHEAD
+Lane Signal Proceed Right or Keep Right
 
-THIS SIGN INDICATES THAT VEHICLES SHALL LEAVE THE EXPRESSWAY AT THE NEXT EXIT ON THE LEFT AHEAD (OR ON THE RIGHT AHEAD IF THE DIRECTION OF THE ARROW IS REVERSED).
+The direction of the arrow may be reversed to indicate—
 
-(L.N. 64 of 2017) (E.R. 2 of 2012)
+Proceed Left or Keep Left
+
+This sign when displayed above a traffic lane indicates that vehicles must proceed or keep to the lane on the right-hand side (or to the lane on the left-hand side if the direction of the arrow is reversed) of the lane above which the sign is displayed. (L.N. 64 of 2017)
+
+Regulatory
+
+Figure No. 906
+
+Lane Signal
+
+Leave Expressway at Next Exit on the Left Ahead
+
+The direction of the arrow may be reversed to indicate—
+
+Leave Expressway at Next Exit on the Right Ahead
+
+This sign indicates that vehicles shall leave the expressway at the next exit on the left ahead (or on the right ahead if the direction of the arrow is reversed).
+
+(L.N. 64 of 2017)

@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [regs. 20(1) & (3) & 28]
 
-CONDITIONS IN RESPECT OF PERSONS CARRYING OUT EXPRESSWAY WORKS AND VEHICLES USED IN CONNECTION THEREWITH
+Conditions in respect of Persons Carrying out Expressway Works and Vehicles Used in Connection Therewith
+
+(Format changes—E.R. 1 of 2021)
 
 - 1. A person carrying out expressway works shall, at all times whilst on foot on any part of an expressway, wear a reflective jacket—
 
