@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 22]
 
 (Amended L.N. 3 of 2018)
 
-SELF-ACCREDITING OPERATORS
+Self-Accrediting Operators
 
 - 1. The Chinese University of Hong Kong
 

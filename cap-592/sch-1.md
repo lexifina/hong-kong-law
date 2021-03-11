@@ -1,9 +1,9 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 22]
 
-ACCREDITATION AUTHORITY AND QR AUTHORITY
+Accreditation Authority and QR Authority
 
-- PART 1 ACCREDITATION AUTHORITY The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established under section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150).
+- Part 1 Accreditation Authority The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established under section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150).
 
-- PART 2 QR AUTHORITY The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established under section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150).
+- Part 2 QR Authority The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established under section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150).

@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(2), 3, 10 & 13]
 
-VALUATION REPORT, NOTICE THAT APPLICATION HAS BEEN MADE AND APPORTIONMENT OF PROCEEDS
+Valuation Report, Notice that Application has been Made and Apportionment of Proceeds
 
-- PART 1 VALUATION REPORT
+- Part 1 Valuation Report
 
   - A valuation report, prepared not earlier than 3 months before the date on which the application under section 3(1) of the Ordinance is made, setting out the assessed market value of each property on the lot—
 
@@ -14,17 +14,7 @@ VALUATION REPORT, NOTICE THAT APPLICATION HAS BEEN MADE AND APPORTIONMENT OF PRO
 
     - (c) not taking into account the redevelopment potential of the property or the lot.
 
-- PART 2 NOTICE THAT APPLICATION HAS BEEN MADE
-
-- UNDER THE LAND (COMPULSORY SALE FOR
-
-- REDEVELOPMENT) ORDINANCE (CAP.
-
-- 545) FOR THE SALE OF LOT NO.
-
-- ......../LOT NOS........* LOCATED
-
-- AT..............................
+- Part 2 Notice that Application has been Made under the Land (Compulsory Sale for Redevelopment) Ordinance (Cap. 545) for the Sale of Lot No........./Lot Nos........* Located at..............................
 
   - Persons occupying any part of the above lot/lots* are hereby notified that an application has been made under section 3(1) of the Land (Compulsory Sale for Redevelopment) Ordinance (Cap. 545) to the Lands Tribunal for an order to sell the lot/lots* for the purposes of the redevelopment of the lot/lots*.
 
@@ -36,9 +26,7 @@ VALUATION REPORT, NOTICE THAT APPLICATION HAS BEEN MADE AND APPORTIONMENT OF PRO
 
   - * Delete whichever is inapplicable.
 
-- PART 3 BASIS OF APPORTIONMENT OF PROCEEDS
-
-- OF SALE OF LOT
+- Part 3 Basis of Apportionment of Proceeds of Sale of Lot
 
   - On a pro rata basis in accordance with—
 

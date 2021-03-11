@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 4, 7 & 22]
 
-DESCRIPTIONS OF QUALIFICATIONS THAT MAY BE ENTERED INTO THE QUALIFICATIONS REGISTER
+Descriptions of Qualifications that may be Entered into the Qualifications Register
 
 - 1. A qualification obtainable from the completion of a learning programme, where the Accreditation Authority determines that—
 
@@ -28,7 +28,7 @@ DESCRIPTIONS OF QUALIFICATIONS THAT MAY BE ENTERED INTO THE QUALIFICATIONS REGIS
 
 - 4. A qualification in relation to an industry or a branch of an industry, obtainable from an appointed assessment agency appointed in relation to that industry or that branch, where the appointed assessment agency determines, within any conditions or restrictions imposed by the Secretary under section 8(1)(c) of the Ordinance, that the qualification meets a QF standard.
 
-Note: In this Schedule, “meet a QF standard” (達到資歷架構標準)—
+Note: In this Schedule, meet a QF standard (達到資歷架構標準)—
 
 (a) in relation to a learning programme, means the programme meets a standard such that the skills, knowledge or experience acquired on the completion of the programme meet all or part of the requirements under a level of the Qualifications Framework; or
 

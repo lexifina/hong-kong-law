@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 7, 9 & 13 & Sch. 2]
 
-CONDITIONS TO WHICH PURCHASER OF LOT AND PURCHASER’S SUCCESSORS IN TITLE SHALL BE SUBJECT
+Conditions to which Purchaser of Lot and Purchaser’s Successors in Title shall be Subject
 
 - 1. There shall be redevelopment of the lot and the redevelopment shall be completed and made fit for occupation—
 

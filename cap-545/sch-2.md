@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 5(1) & 13]
 
-CONDITIONS IN ACCORDANCE WITH WHICH LOT SHALL BE SOLD BY AUCTION
+Conditions in Accordance with which Lot shall be Sold by Auction
 
 - 1. The public shall be given notice of the auction by means of an advertisement—
 

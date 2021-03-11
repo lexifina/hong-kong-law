@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 6]
 
-BOOKS NOT REQUIRED FOR REGISTRATION
+Books not Required for Registration
 
 - 1. A newspaper which issues its editions not less than 4 times a week.
 
