@@ -1,12 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [regs. 5C, 7D, 22 & 23]
 
 (L.N. 100 of 2019)
 
-FEES AND CHARGES
+Fees and Charges
 
-- In this Schedule—
+In this Schedule—
 
   - (a) a reference to a period of time includes a part of the period;
 
@@ -14,7 +14,7 @@ FEES AND CHARGES
 
   - (c) a reference to a measurement of a vessel means the measurement as shown in its licence book or Certificate of Registry; and
 
-  - (d) “month” (月) means a calendar month.
+  - (d) month (月) means a calendar month.
 
 $
 

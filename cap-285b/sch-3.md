@@ -1,8 +1,8 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [reg. 22]
 
-FEES IN RESPECT OF MINE BLASTING CERTIFICATES
+Fees in respect of Mine Blasting Certificates
 
 Fee
 

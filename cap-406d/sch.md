@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [regs. 9, 11, 13, 13A, 14 & 16]
 
 (L.N. 185 of 2020)
 
-FEES
+Fees
 
 Item | Particular | Fee $
 

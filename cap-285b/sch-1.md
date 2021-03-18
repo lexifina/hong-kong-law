@@ -1,4 +1,4 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [reg. 22]
 
@@ -40,11 +40,11 @@ I hereby certify that this is a true statement of the particulars herein set for
 
 Date | 19
 
-Signature.
+Signature
 
-(L.N. 146 of 1976)
+(L.N. 146 of 1976; E.R. 1 of 2021)
 
-Hong Kong
+_ Hong Kong
 
 Form II
 
@@ -78,10 +78,10 @@ is qualified to use explosives for blasting in prospecting or mining operationsâ
 
 Issued this day of 19 .
 
-Photograph.
+Photograph
 
 Signature
 
-(Signature of holder). | Superintendent of Mines.
+(Signature of holder) | Superintendent of Mines
 
-(L.N. 15 of 1971; L.N. 79 of 1997)
+(L.N. 15 of 1971; L.N. 79 of 1997; E.R. 1 of 2021)
