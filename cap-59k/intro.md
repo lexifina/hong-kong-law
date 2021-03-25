@@ -1,4 +1,4 @@
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (CARGO AND CONTAINER HANDLING) REGULATIONS
+Factories and Industrial Undertakings (Cargo and Container Handling) Regulations
 
 (L.N. 214 of 1992)
 
@@ -6,6 +6,4 @@ FACTORIES AND INDUSTRIAL UNDERTAKINGS (CARGO AND CONTAINER HANDLING) REGULATIONS
 
 [21 July 1978]
 
-Editorial Note:
-
-The title of these Regulations was amended from “Factories and Industrial Undertakings (Cargo Handling) Regulations” to “Factories and Industrial Undertakings (Cargo and Container Handling) Regulations”—see L.N. 214 of 1992.
+(Format changes—E.R. 1 of 2021)

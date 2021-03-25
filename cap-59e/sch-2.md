@@ -1,12 +1,12 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [reg. 3(1)]
 
 Form of Notice
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (NOTIFICATION
+Factories and Industrial Undertakings (Notification
 
-OF OCCUPATIONAL DISEASES) REGULATIONS
+of Occupational Diseases) Regulations
 
 Notice of Occupational Disease
 
