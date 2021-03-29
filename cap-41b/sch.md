@@ -20,7 +20,7 @@ $
 
 5. | Section 13AE(2)(b) | For each application for approval of the appointment of a key person in control functions | 18,000
 
-6. | Section 13B(2)(ab) | For each notification of proposing a person to become a controller, if the person proposed is to be entitled to exercise, or control the exercise, of—
+6. | Section 13B(2)(ab) | For each notification of proposing a person to become a controller, if the person proposed is to be entitled to exercise, or control the exercise of— (L.N. 263 of 2020)
 
 (a) | 50% or more of the voting power at any general meeting of the insurer | 100,000
 
@@ -32,19 +32,47 @@ $
 
 7B. | Section 64O(3)(b) | For obtaining a copy of an entry in, or extract of, the register of licensed insurance intermediaries, certified by an authorized officer of the Authority as a true copy of the entry or extract | 100
 
+7C. | Section 95I(4)(a) | For each application under section 95I(2) of the Ordinance for approval for a person to be a shareholder controller, if the person is to be entitled to exercise, or control the exercise of—
+
+(a) | 50% or more of the voting power at any general meeting of the designated insurance holding company | 100,000
+
+(b) | less than 50% of the voting power at any general meeting of the designated insurance holding company | 50,000
+
+7D. | Section 95K(4)(a) | For each application under section 95K(2) of the Ordinance for approval for a person to be a shareholder controller, if the person is entitled to exercise, or control the exercise of—
+
+(a) | 50% or more of the voting power at any general meeting of the designated insurance holding company | 100,000
+
+(b) | less than 50% of the voting power at any general meeting of the designated insurance holding company | 50,000
+
+7E. | Section 95L(7)(a) | For each application under section 95L(5) of the Ordinance for approval for a person to be a shareholder controller, if the person is entitled to exercise, or control the exercise of—
+
+(a) | 50% or more of the voting power at any general meeting of the designated insurance holding company | 100,000
+
+(b) | less than 50% of the voting power at any general meeting of the designated insurance holding company | 50,000
+
+7F. | Section 95S(4)(a) | For each application for approval of the appointment of a chief executive | 18,000
+
+7G. | Section 95S(4)(a) | For each application for approval of the appointment of a director | 18,000
+
+7H. | Section 95S(4)(a) | For each application for approval of the appointment of a key person in control functions | 18,000
+
+7I. | Section 95ZJ(4)(a) | For each application for approval of a major acquisition | 100,000
+
+7J. | Section 95ZL(3)(a) | For each application for approval of an assessment framework for major acquisition | 50,000
+
 8. | Section 128(1)(a)(ii) | For each notification of the appointment of—
 
 (a) | a controller (other than one to whom section 13A or 13B of the Ordinance applies) of an authorized insurer | 5,000
 
 (b) | a director (other than one to whom section 13AC of the Ordinance applies) of an authorized insurer | 5,000
 
-(c) | a key person in control functions (other than one to whom section 13AE of the Ordinance applies) | 5,000
+(c) | a key person in control functions (other than one to whom section 13AE of the Ordinance applies) of an authorized insurer | 5,000
 
 9. | Section 128(1)(a)(ii) | For each notification of the appointment of—
 
 (a) | an auditor of an authorized insurer | 5,000
 
-(b) | an actuary (other than one to whom section 15(3A) of the Ordinance applies) | 5,000
+(b) | an actuary (other than one to whom section 15(3A) of the Ordinance applies) of an authorized insurer | 5,000
 
 10. | Section 128(1)(a)(ii) | For requesting the Authority to update the information in the register kept under section 5H(1) of the Ordinance | 1,300
 
@@ -70,8 +98,8 @@ $
 
 21. | Section 128(1)(a)(ii) | For requesting the Authority to disclose information to an auditor or actuary of an authorized insurer to the extent permitted by section 53A(3)(f) of the Ordinance | 2,000
 
-22. | Section 128(1)(a)(ii) | For requesting the Authority to give consent to a person other than a non-profit making entity for the purposes of section 56A(1) of the Ordinance | 5,000
+22. | Section 128(1)(a)(ii) | For requesting the Authority to give consent to a person other than a non-profit making entity for the purposes of section 120(1) or (3) of the Ordinance | 5,000
 
 23. | Section 128(1)(a)(ii) | For requesting the Authority to relax rules under section 130(1) of the Ordinance | 30,000
 
-(L.N. 57 of 2017; L.N. 43 of 2019)
+(L.N. 57 of 2017; L.N. 43 of 2019; L.N. 263 of 2020)
