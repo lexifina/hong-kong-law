@@ -10,7 +10,13 @@ Classes of Insurance Business
 
 - Part 1 Preliminary
 
-  - 1. The classes of insurance business specified in Parts 2 and 3 of this Schedule shall constitute the classes of insurance business that are relevant for the purposes of this Ordinance.
+  - 1. The following constitute the classes of insurance business that are relevant for the purposes of this Ordinance—
+
+    - (a) classes of long term business that are specified in Part 2 of this Schedule;
+
+    - (b) classes of general business that are specified in Part 3 of this Schedule;
+
+    - (c) the class of special purpose business. (Replaced 17 of 2020 s. 21)
 
   - 2. An authorization under section 8, in describing the classes or parts of classes to which it relates, may do so by reference to the appropriate groups specified in Part 4 of this Schedule.
 
