@@ -12,7 +12,7 @@ Non-delegable Functions of Authority
 
   - (b) to borrow money under section 4B(2)(c);
 
-  - (c) to publish or otherwise make available, under section 4B(2)(f), materials on a matter relating to the performance by the Authority of any of its functions;
+  - (c) (Repealed 17 of 2020 s. 25)
 
   - (d) to establish a wholly-owned subsidiary under section 4B(2)(g);
 
@@ -32,11 +32,13 @@ Non-delegable Functions of Authority
 
   - (l) to appoint auditors under section 5E(1);
 
-  - (m) to authorize a company to carry on a class or classes of insurance business under section 8;
+  - (m) to authorize a company to carry on a class or classes of insurance business under section 8 or 8A; (Amended 17 of 2020 s. 22)
 
-  - (n) to appoint a person, other than an employee of the Authority, to investigate any matter referred to in sections 41D(1) and 64ZZH(1);
+  - (n) to appoint a person, other than an employee of the Authority, to investigate any matter referred to in sections 41D(1), 64ZZH(1) and 95ZZG(2); (Amended 18 of 2020 s. 20)
 
-  - (o) to publish codes or guidelines under section 41R, 83, 95 or 133;
+  - (o) to publish codes or guidelines under section 41R, 83, 95, 95ZZU or 133; (Amended 18 of 2020 s. 20)
+
+  - (oa) to designate an insurance holding company as a designated insurance holding company under section 95C(1); (Added 18 of 2020 s. 20)
 
   - (p) to specify the time at which a specified decision as defined by section 96 is to take effect;
 

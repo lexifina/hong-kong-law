@@ -1,0 +1,15 @@
+# 95ZZM. Order to pay costs of investigation
+
+(1) If a person is convicted by a court on a prosecution instituted as a result of the findings of an investigation under section 95ZZG—
+
+- (a) the court may order the person to pay to the Authority the whole or a part of the costs and expenses of the investigation; and
+
+- (b) the Authority may recover the whole or that part of the costs and expenses as a civil debt due to it.
+
+(2) Subsection (3) applies if—
+
+- (a) the Authority receives an amount under an order made under subsection (1) in respect of any of the costs and expenses of an investigation; and
+
+- (b) all or any of the costs and expenses have already been paid out of moneys provided by the Legislative Council.
+
+(3) The Authority must pay to the Financial Secretary the amount received under the order to the extent to which it has already been paid out of moneys provided by the Legislative Council.

@@ -12,11 +12,11 @@ Specified Decisions
 
 - Item | Description of decision | Provision
 
-- 1. | Refusal to grant an authorization to carry on insurance business on the grounds that section 8(2) or (3) applies | Section 8(1)(b)(i)
+- 1. | Refusal to grant an authorization to carry on insurance business on the grounds that section 8(2) or (3) or 8A(2) applies | Section 8(1)(b)(i) or 8A(1)(b)(i)
 
-- 2. | Refusal to grant an authorization to carry on insurance business | Section 8(1)(b)(ii)
+- 2. | Refusal to grant an authorization to carry on insurance business | Section 8(1)(b)(ii) or 8A(1)(b)(ii)
 
-- 3. | Imposition, amendment or revocation of a condition in relation to an authorization to carry on insurance business | Section 8(1)(a) or 12(1)
+- 3. | Imposition, amendment or revocation of a condition in relation to an authorization to carry on insurance business | Section 8(1)(a), 8A(1)(a) or 12(1)
 
 - 4. | Refusal to approve the appointment of an individual as a controller of an authorized insurer | Section 13A(5)
 
@@ -70,6 +70,8 @@ Specified Decisions
 
 - 29. | Exercise of power to take disciplinary action against Lloyd’s, etc. | Section 50G
 
+- (Amended 17 of 2020 s. 23)
+
 - Part 2 Specified Decisions Made in respect of Insurance Intermediaries
 
 - Column 1 | Column 2 | Column 3
@@ -107,3 +109,41 @@ Specified Decisions
 - 15. | Imposition, amendment or revocation of a condition in relation to a licence or approval that is regarded as having been granted under Part 5 of Schedule 11 | Section 111 of Schedule 11
 
 - 16. | Imposition of a disciplinary sanction on a specified person as defined by section 112 of Schedule 11 | Section 113(4) of Schedule 11
+
+- Part 3 Specified Decisions Made in relation to Designated Insurance Holding Companies
+
+- Column 1 | Column 2 | Column 3
+
+- Item | Description of decision | Provision
+
+- 1. | Inclusion of an entity as a member of the supervised group of a designated insurance holding company | Section 95D(3)
+
+- 2. | Refusal to approve a person to be a shareholder controller of a designated insurance holding company | Section 95M(4)
+
+- 3. | Objection to a person being a shareholder controller of a designated insurance holding company | Section 95N(3)
+
+- 4. | Refusal to approve the appointment of a person as a chief executive, director or key person in control functions of a designated insurance holding company | Section 95U(2)
+
+- 5. | Objection to the appointment of a person as a chief executive, director or key person in control functions of a designated insurance holding company | Section 95V(3)
+
+- 6. | Imposition, amendment or revocation of a condition in relation to the approval of a person as a shareholder controller, or of an appointment of a person as a chief executive, director or key person in control functions, of a designated insurance holding company | Section 95Z
+
+- 7. | Variation of the prescribed group capital requirements that applies to the supervised group of a designated insurance holding company | Section 95ZI(2)
+
+- 8. | Refusal to approve a major acquisition | Section 95ZK(4)
+
+- 9. | Refusal to approve an assessment framework | Section 95ZM(4)
+
+- 10. | Imposition of a requirement in relation to restrictions on transfer of assets | Section 95ZQ
+
+- 11. | Imposition of a requirement to take action in relation to its supervised group | Section 95ZR
+
+- 12. | Variation or rescission of a requirement imposed under section 95ZQ or 95ZR | Section 95ZS
+
+- 13. | Direction for the affairs, business and property of a designated insurance holding company to be managed by a supervisory manager | Section 95ZT
+
+- 14. | Determination of remuneration and expenses to be paid by a designated insurance holding company to a supervisory manager | Section 95ZW(1)
+
+- 15. | Exercise of power to take disciplinary action in respect of a designated insurance holding company | Section 95ZZS
+
+- (Part 3 added 18 of 2020 s. 22)
