@@ -2,11 +2,15 @@
 
 [ss. 2 & 3]
 
-Fees Payable under Section 13(1)(a) and (b) of Ordinance by Authorized Insurer (other than Captive Insurer)
+Fees Payable under Section 13(1)(a) and (b) of Ordinance by Authorized Insurer (other than Captive Insurer or Special Purpose Insurer)
+
+(L.N. 2 of 2021)
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-Item | Section of Ordinance | Fee to be paid | Class of insurance business carried on by authorized insurer (other than captive insurer) | Fee
+Item | Section of Ordinance | Fee to be paid | Class of insurance business carried on by authorized insurer (other than captive insurer or special purpose insurer) | Fee
+
+(L.N. 2 of 2021)
 
 1. | Section 13(1)(a) | Fee payable upon authorization | (a) | Long term business | The aggregate of a fixed fee of $300,000 and a variable fee
 

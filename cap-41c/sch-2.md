@@ -2,7 +2,9 @@
 
 [ss. 2 & 3]
 
-Fees Payable under Section 13(1)(a) and (b) of Ordinance by Authorized Insurer who is Captive Insurer
+Fees Payable under Section 13(1)(a) and (b) of Ordinance by Captive Insurer
+
+(L.N. 2 of 2021)
 
 Column 1 | Column 2 | Column 3 | Column 4
 
