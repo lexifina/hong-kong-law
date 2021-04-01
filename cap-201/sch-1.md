@@ -278,6 +278,10 @@ Public Bodies
 
 135. | Any wholly owned subsidiary established by the Mandatory Provident Fund Schemes Authority under section 6DA of the Mandatory Provident Fund Schemes Ordinance (Cap. 485). (Added 16 of 2020 s. 14)
 
+136. | HKMC Annuity Limited. (Added L.N. 3 of 2021)
+
+137. | HKMC Insurance Limited. (Added L.N. 3 of 2021)
+
 (Replaced L.N. 272 of 1974)
 
 Editorial Note:
