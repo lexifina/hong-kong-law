@@ -362,8 +362,26 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (1) (Repealed L.N. 154 of 2019)
 
-  - (2) The minimum length of buoyant lifeline is.
+  - (2) The minimum length of buoyant lifeline is—
 
   - For (L)<21 m | 18 m
 
   - For (L)≥21 m | 27.3 m.
+
+- Table 8
+
+  - (i) A Class IV vessel that is licensed before 1 August 2020 to carry not more than 60 passengers and is let for hire or reward (except a Class IV vessel that is an open cruiser)
+
+  - (ii) A Class IV vessel that is an open cruiser licensed to carry not more than 60 passengers and is let for hire or reward
+
+  - (iii) A Class IV vessel of more than 150 gross tonnage and is licensed before 1 August 2020
+
+  - Life-saving appliances | Number
+
+  - Lifebuoy | sufficient for use by the maximum number of persons that the vessel is licensed to carry(1)
+
+  - Note:
+
+  - (1) For a Class IV vessel that is an open cruiser licensed to carry not more than 60 passengers and is let for hire or reward, this requirement is exempted if the passengers on board the vessel wear suitable lifejackets while the vessel is underway.
+
+- (L.N. 70 of 2020)
