@@ -358,4 +358,6 @@ Item | Periods | Rate of interest
 
 177. | On or after 1 June 2020 and before 7 December 2020 (L.N. 113 of 2020; L.N. 238 of 2020) | 0.2000% per annum
 
-178. | On or after 7 December 2020 (L.N. 238 of 2020) | 0.1500% per annum
+178. | On or after 7 December 2020 and before 7 April 2021 (L.N. 238 of 2020; L.N. 49 of 2021) | 0.1500% per annum
+
+179. | On or after 7 April 2021 (L.N. 49 of 2021) | 0.1167% per annum
