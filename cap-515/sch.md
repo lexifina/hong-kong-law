@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 37]
 
-COVENANTS AND CONDITIONS OVERRIDDEN
+Covenants and Conditions Overridden
 
-- PART I
+- Part I
 
   - 1.
 
@@ -40,7 +40,7 @@ COVENANTS AND CONDITIONS OVERRIDDEN
 
   - 3. The reference in paragraph 1(b) to the rateable value of a tenement as set out from time to time in the list declared or to an interim valuation made under the Rating Ordinance (Cap. 116) shall include in a case where such rateable value or interim valuation is corrected, altered or varied under that Ordinance, a reference to such rateable value or interim valuation as so corrected, altered or varied.
 
-- PART II
+- Part II
 
   - 1.
 

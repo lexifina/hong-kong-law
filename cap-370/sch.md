@@ -1,22 +1,22 @@
-# SCHEDULE
+# Schedule
 
 [ss. 27 & 28]
 
-- PART I
+- Part I
 
   - 1. General effect of this Part The provisions in this Part shall, where applicable, have effect for the purpose of assessing compensation under Part II of this Schedule and shall—
 
     - (a) be in addition to such of the provisions of the Lands Resumption Ordinance (Cap. 124) as apply, by virtue of Part II, to the assessment of compensation; and (Amended 29 of 1998 s. 78)
 
-    - (b) prevail over any provision referred to in sub-paragraph (a) which is inconsistent or in conflict with a provision in this Part.
+    - (b) prevail over any provision referred to in subparagraph (a) which is inconsistent or in conflict with a provision in this Part.
 
   - 2. Definitions applicable to Part II In this Schedule—
 
-    - “date of resumption” (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 13(3); (Amended L.N. 180 of 1985; 29 of 1998 s. 105)
+    - date of resumption (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 13(3); (Amended L.N. 180 of 1985; 29 of 1998 s. 105)
 
-    - “disturbance” (騷擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
+    - disturbance (騷擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
 
-    - “disturbance payment” (騷擾補償金) means a sum equal to—
+    - disturbance payment (騷擾補償金) means a sum equal to—
 
       - (a) the expenditure and loss of money actually and reasonably incurred or to be reasonably incurred and arising from the dispossession of a person of land by reason of the matter for which the claimant is entitled to claim compensation under Part II of the Schedule; and
 
@@ -24,7 +24,7 @@
 
       - Provided that a disturbance payment shall not include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if that disturbance were a tort;
 
-    - “open market value” (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize.
+    - open market value (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize.
 
   - 3. Fluctuations in value of land Subject to paragraphs 8 and 10, where the open market value of any land is relevant for the purposes of assessing compensation under this Ordinance, no account shall be taken of any increase or decrease in that value which is attributable to anything done or proposed to be done under this Ordinance or to the use.
 
@@ -64,7 +64,7 @@
 
   - 14. Government may undertake work Where, under this Ordinance, a person is entitled to claim compensation and that compensation is to be assessed on the basis of an expense incurred, the Government may, on written notice to that person, carry out the operations in respect of which the expense would otherwise be claimable. (Amended 29 of 1998 s. 105)
 
-- PART II
+- Part II
 
 - Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim must be served on the Secretary
 
