@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 4, 9 & 26 & Sch. 1]
 
-MAJOR DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL IMPACT ASSESSMENT REPORTS
+Major Designated Projects Requiring Environmental Impact Assessment Reports
 
 - 1. Engineering feasibility study of urban development projects with a study area covering more than 20 ha or involving a total population of more than 100 000.
 

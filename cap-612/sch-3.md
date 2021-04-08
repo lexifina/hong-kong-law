@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 9, 13, 15 & 58]
 
-FEES
+Fees
 
 Column 1 | Column 2 | Column 3 | Column 4
 

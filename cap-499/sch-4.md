@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 10]
 
-MATTERS THAT MAY BE SPECIFIED IN ENVIRONMENTAL PERMIT
+Matters that may be Specified in Environmental Permit
 
 - 1. The design, alignment, plan, layout or visual appearance of a designated project.
 

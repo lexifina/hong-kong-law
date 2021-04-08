@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 47 & 58]
 
-FORM OF WARRANT
+Form of Warrant
 
 FOOD SAFETY ORDINANCE (Cap. 612) (section 47(2)) Warrant to enter [premises/vessel*]
 

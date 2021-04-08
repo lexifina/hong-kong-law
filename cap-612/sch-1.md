@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4, 5, 18 & 58]
 
-PERSONS NOT REQUIRED TO BE REGISTERED UNDER PART 2
+Persons not Required to be Registered under Part 2
 
 Column 1 | Column 2 | Column 3 | Column 4
 

@@ -1,13 +1,7 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 49 & 58]
 
-ARRESTABLE OFFENCES
+Arrestable Offences
 
-Section 4
-
-Section 5
-
-Section 54
-
-Any regulation made under section 59
+Section 4 Section 5 Section 54 Any regulation made under section 59

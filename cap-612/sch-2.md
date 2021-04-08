@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 7 & 58]
 
-MAIN FOOD CATEGORIES AND FOOD CLASSIFICATIONS
+Main Food Categories and Food Classifications
 
 Column 1 | Column 2 | Column 3
 

@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4, 9, 10 & 26 & Sch. 1]
 
-DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
+Designated Projects Requiring Environmental Permits
 
-- PART I A—ROADS, RAILWAYS AND DEPOTS
+- Part I A—Roads, Railways and Depots
 
   - A.1 A road which is an expressway, trunk road, primary distributor road or district distributor road including new roads, and major extensions or improvements to existing roads.
 
@@ -40,7 +40,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - A.9 A road fully enclosed by decking above and by structure on the sides for more than 100 m.
 
-- B—AIRPORTS AND PORT FACILITIES
+- B—Airports and Port Facilities
 
   - B.1 An airport (including its runway and the development and activities related to aircraft maintenance, repair, fueling and fuel storage, engine testing or air cargo handling).
 
@@ -78,7 +78,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - B.8 A mid-stream operation facility.
 
-- C—RECLAMATION, HYDRAULIC AND MARINE FACILITIES, DREDGING AND DUMPING
+- C—Reclamation, Hydraulic and Marine Facilities, Dredging and Dumping
 
   - C.1 Reclamation works (including associated dredging works) more than 5 ha in size.
 
@@ -174,13 +174,13 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
     - (b) is less than 100 m from a seawater intake point.
 
-- D—ENERGY SUPPLY
+- D—Energy Supply
 
   - D.1 Public utility electricity power plant.
 
   - D.2 Public utility gas generation plant.
 
-- E—WATER EXTRACTION AND WATER SUPPLY
+- E—Water Extraction and Water Supply
 
   - E.1 A primary reservoir.
 
@@ -188,9 +188,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - E.3 A submarine water supply pipeline with a diameter of 1 200 mm or more and a length of more than 1 km.
 
-- F—SEWAGE COLLECTION, TREATMENT, DISPOSAL
-
-- AND REUSE
+- F—Sewage Collection, Treatment, Disposal and Reuse
 
   - F.1 Sewage treatment works with an installed capacity of more than 15 000 m3 per day.
 
@@ -252,9 +250,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - F.6 A submarine sewage outfall.
 
-- G—WASTE STORAGE, TRANSFER AND DISPOSAL
-
-- FACILITIES
+- G—Waste Storage, Transfer and Disposal Facilities
 
   - G.1 A landfill for waste as defined in the Waste Disposal Ordinance (Cap. 354).
 
@@ -282,17 +278,15 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
       - (iv) health care institution.
 
-  - G.6 A waste disposal facility for pulverized fuel ash, furnance bottom ash or gypsum.
+  - G.6 A waste disposal facility for pulverized fuel ash, furnace bottom ash or gypsum. (Amended E.R. 1 of 2021)
 
-- H—UTILITY PIPELINES, TRANSMISSION PIPELINES
-
-- AND SUBSTATIONS
+- H—Utility Pipelines, Transmission Pipelines and Substations
 
   - H.1 A 400 kV electricity substation and transmission line.
 
   - H.2 A submarine gas pipeline or submarine oil pipeline.
 
-- I—WATERWAYS AND DRAINAGE WORKS
+- I—Waterways and Drainage Works
 
   - I.1 A drainage channel or river training and diversion works—
 
@@ -316,7 +310,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - I.2 A flood storage pond more than 10 ha in size.
 
-- J—MINERAL EXTRACTION
+- J—Mineral Extraction
 
   - J.1 An oil or gas extraction activity.
 
@@ -326,7 +320,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - J.4 A coal industry works with a handling capacity of more than 100 tonnes per day.
 
-- K—INDUSTRIAL ACTIVITIES
+- K—Industrial Activities
 
   - K.1 An industrial estate.
 
@@ -354,9 +348,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - K.13 A dangerous goods godown with a storage capacity exceeding 500 tonnes.
 
-- L—STORAGE, TRANSFER AND TRANS-SHIPMENT
-
-- OF FUELS
+- L—Storage, Transfer and Trans-Shipment of Fuels
 
   - L.1 A storage, transfer and trans-shipment of liquefied petroleum gas facility with a storage capacity of not less than 200 tonnes.
 
@@ -366,7 +358,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - L.4 A storage, transfer and trans-shipment of oil facility with a storage capacity of not less than 1 000 tonnes.
 
-- M—AGRICULTURE AND FISHERIES ACTIVITIES
+- M—Agriculture and Fisheries Activities
 
   - M.1 A fish culture zone—
 
@@ -378,7 +370,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
       - (ii) bathing beach.
 
-- N—COMMUNITY FACILITIES
+- N—Community Facilities
 
   - N.1 An abattoir with a daily slaughter capacity of more than 500 numbers of livestock.
 
@@ -388,7 +380,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - N.4 A crematorium.
 
-- O—TOURIST AND RECREATIONAL DEVELOPMENTS
+- O—Tourist and Recreational Developments
 
   - O.1 An outdoor golf course and all managed turf areas.
 
@@ -406,7 +398,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - O.8 A theme park or amusement park with a site area of more than 20 ha in size. (Added L.N. 205 of 1999)
 
-- P—RESIDENTIAL AND OTHER DEVELOPMENTS
+- P—Residential and Other Developments
 
   - P.1 A residential or recreational development, other than New Territories exempted houses within Deep Bay Buffer Zone 1 or 2.
 
@@ -416,7 +408,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
     - (b) not served by public sewerage networks by the time a flat is occupied.
 
-- Q—MISCELLANEOUS
+- Q—Miscellaneous
 
   - Q.1 All projects including new access roads, railways, sewers, sewage treatment facilities, earthworks, dredging works and other building works partly or wholly in an existing or gazetted proposed country park or special area, a conservation area, an existing or gazetted proposed marine park or marine reserve, a site of cultural heritage, and a site of special scientific interest, except for the following—
 
@@ -454,7 +446,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - Q.2 Underground rock caverns.
 
-- PART II DECOMMISSIONING PROJECTS
+- Part II Decommissioning Projects
 
   - 1. Airports, including fueling and fuel storage, the aircraft maintenance and repair facilities.
 
