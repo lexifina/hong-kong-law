@@ -46,7 +46,7 @@ Amounts of Compensation
 
 - PART IIA Compensation for Pain, Suffering
 
-- and Loss of Amenities $5,330. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
+- and Loss of Amenities $5,660. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021)
 
 - PART III Compensation for Period Prior to Date of Diagnosis
 
@@ -68,11 +68,11 @@ Amounts of Compensation
 
     - “No. of months” (月數) means the number of full months, not exceeding 24, in the period from the earliest diagnosed date to the date of diagnosis.
 
-- PART IV Compensation for Care and Attention $5,600. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
+- PART IV Compensation for Care and Attention $5,750. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021)
 
-- PART V Compensation for Bereavement $220,000. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
+- PART V Compensation for Bereavement $233,440. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021)
 
-- PART VI Funeral Expenses An amount not exceeding $87,330, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019)
+- PART VI Funeral Expenses An amount not exceeding $92,670, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021)
 
 - PART VII Interpretation In this Schedule—
 
