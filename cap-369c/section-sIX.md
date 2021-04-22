@@ -1,0 +1,3 @@
+# IX. Accidents and damage
+
+When from any cause a passenger steamship has sustained damage affecting her seaworthiness or efficiency in any part of her hull, equipments or machinery a Government surveyor of ships is to go on board and ascertain the extent of the damage. The surveyor should at once report to the Principal Surveyor of Ships the result of his examination, and whether in his opinion the vessel is rendered inefficient or unseaworthy in hull, machinery or equipment, and whether or not he has detained the ship. On completion of any repairs a full report is to be filed in the office of the Principal Surveyor of Ships.

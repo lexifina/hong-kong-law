@@ -1,4 +1,14 @@
 intro.md
+section-sI.md
+section-sII.md
+section-sIII.md
+section-sIV.md
+section-sV.md
+section-sVI.md
+section-sVII.md
+section-sVIII.md
+section-sIX.md
+section-sX.md
 s-001.md
 s-002.md
 s-003.md

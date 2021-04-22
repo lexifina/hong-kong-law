@@ -1,0 +1,3 @@
+# VII. Written statement of repairs
+
+In order to prevent mistakes as to the nature and extent of repairs required by the Government surveyors whenever they cannot give a declaration until repairs are effected or alterations made, they will, on request, give to the owner or agent a written statement of the nature and extent of the defects to be remedied or alterations required. If any difference of opinion should arise or any questions be raised between the Government surveyor of ships and the owner, or other persons interested in the survey, the case should be reported to the Principal Surveyor of Ships.
