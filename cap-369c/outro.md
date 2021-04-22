@@ -1,4 +1,4 @@
-APPENDIX I FLOODING CURVES AND TABLES General Description
+Appendix I Flooding Curves and Tables General Description
 
 A flooding curve for a vessel floating at a given water line and with given permeability is one showing, for any point in the vessel’s length, the maximum length of compartment (having its centre of length at the point in question) which can be laid open to the sea without at any point immersing a margin line drawn three inches below the upper surface of the bulkhead deck, at side.
 
@@ -10,7 +10,7 @@ Paragraph 9 requires that, in determining the floodable length, a uniform permea
 
 In order to determine curves of floodable length for any ship having prescribed permeability, block coefficient, freeboard ratio and sheer ratios, the Standard Diagrams* should be used. These give floodable lengths (for the two permeabilities 60 per cent and 100 per cent), for a definite standard family of ship forms of differing block coefficients, freeboard ratios and sheer ratios. The floodable lengths obtained are in every case to be set off at right angles to the base line of the floodable length curve. For the two permeabilities mentioned, the curves of floodable length for any vessel of the standard form can be obtained directly from the cross curves given in the Plates, by the method indicated on Plate II*; whilst for any other permeability the appropriate curve may be obtained (including terminal points) as follows—
 
-If I1 be the floodable length at the point considered for permeability 100 per cent and I2 be the floodable length at that point considered for permeability 60 per cent, then the floodable length (I3) at that point for a permeability μ will be given by:
+If l1 be the floodable length at the point considered for permeability 100 per cent and l2 be the floodable length at that point considered for permeability 60 per cent, then the floodable length (l3) at that point for a permeability μ will be given by:
 
 l3 = | l1 + | 3 | [ l2 - l1 ] | 100 | - ]
 
@@ -18,23 +18,31 @@ l3 = | l1 + | 3 | [ l2 - l1 ] | 100 | - ]
 
 A convenient method of arranging the work to obtain the required curves is indicated in Table 2 of this Appendix.
 
+Editorial Note:
+
+* | The Standard Diagrams of Floodable Lengths, etc., are published separately by the Ministry of Shipping, London.
+
 If the vessel under consideration conforms to standard type, that is to say, if the coefficients (see Table 1 of this Appendix) closely approximate to those given on *† Plates XXVI and XXVII for the standard form, the floodable length curve determined as above will hold good for the vessel under consideration. If, however, there are differences in these respects the curve obtained as above should be modified as follows—
 
-Let A, Fig. 1, mark the fore-and-aft position of the centre of flotation of mean water plane of the standard form, and A1 that of the corresponding point for the ship under consideration, the horizontal distance between them being mL where L is the length of the ship. Take any point P on the standard form curve, distant x̄ from A, the ratio x̄ L being represented by p, so that the valve of p varies according to the position of P Then the longitudinal position of the point P1 on the new curve, corresponding to the point P on the old, is given by:
+Let A, Fig. 1, mark the fore-and-aft position of the centre of flotation of mean water plane of the standard form, and A1 that of the corresponding point for the ship under consideration, the horizontal distance between them being mL where L is the length of the ship. Take any point P on the standard form curve, distant x ¯ from A, the ratio x̄ L being represented by p, so that the valve of p varies according to the position of P Then the longitudinal position of the point P1 on the new curve, corresponding to the point P on the old, is given by:
 
-x̄1 = | x × | n1 | × | α | ÷ [ 1 ± m | ap | ]
+x ¯ 1 = | x × | n1 | × | a | ÷ [ 1 ± m | ap | ]
 
-n | α1 | n
+n | a1 | n
 
-where n and n1 are the moment of inertia coefficients (see notes which follow) of the mean waterplane of the standard form and the new form respectively. The length of the ordinate M1P1 is given by:
+where n and n1 are the moment of inertia coefficients (see notes which follow) of the mean waterplane of the standard form and the new form respectively. The length of the ordinate M1 P1 is given by:
 
-M1P1 = MP × | α1 | × | β1 | × [1 ± m | ap | ]
+M1P1 = M P × | a1 | × | β1 | × [1 ± m | ap | ]
 
-α | β | n
+a | β | n
 
 and a and a1 are the sectional area coefficients (see notes which follow) of the mean waterplanes of the standard form and the new form respectively and β and β1 are the sectional area coefficients (see notes which follow) of the standard form and the new form respectively, at M P and M1P1.
 
-Fig. 1.
+Fig. 1
+
+(E.R. 2 of 2021)
+
+*† | The plates referred to are given in the Standard Diagrams of Floodable Lengths, etc.
 
 The sign to be used in the last factor of the above expressions will be + when the centre of floatation of the mean waterplane of the new form is before, and - when it is abaft, that of the standard form for sections forward of the centre of flotation, and the opposite sign for sections abaft the centre of flotation. This work may be conveniently arranged as in Table 3 of this Appendix. The coefficients required for a new ship may be conveniently recorded as indicated in Table 1, whilst the similar in formation for standard form is given on *Plates XXVI and XXVII.
 
@@ -42,19 +50,25 @@ It may be noted that, if the longitudinal position of the centre of flotation of
 
 The curves of permissible length are obtained from the curve of floodable length by suing the appropriate factor of subdivision; and it will be noted that these curves will not extend at the ends to the terminal lines. They can, however, be drawn in, when required, with sufficient accuracy, by means of the construction shown in Fig. 2: Make A B = 2 A D, and B C = 4 D E, A being the lowest point of the curve of permissible length, and A B horizontal; then a fair curve may be drawn through A E C to meet the terminal line as shown in the diagram.
 
-Fig. 2.
+Fig. 2
+
+(E.R. 2 of 2021)
+
+* | The plates referred to are given in the Standard Diagrams of Floodable Lengths, etc.
 
 Notes
 
-(i) The perpendiculars are taken at the extreme ends of the subdivision loadline. Amidships is the middles of the length between these perpendiculars. The load waterplane is that used in determining the subdivision of the ship, and is parallel to the keel, whilst the mean waterplane is midway between the load waterplane and that drawn parallel thereto touching the lowest point of the margin line. Areas and volumes are measured to moulded lines.
+- (i) The perpendiculars are taken at the extreme ends of the subdivision loadline. Amidships is the middles of the length between these perpendiculars. The load waterplane is that used in determining the subdivision of the ship, and is parallel to the keel, whilst the mean waterplane is midway between the load waterplane and that drawn parallel thereto touching the lowest point of the margin line. Areas and volumes are measured to moulded lines.
 
-(ii) The sheer line or margin line for a ship of standard form consists of two ordinary parabolas, each with apex at amidships and axis vertical, passing, at amidships and at the ends, through points three inches below the surface of the bulkhead deck at side.
+- (ii) The sheer line or margin line for a ship of standard form consists of two ordinary parabolas, each with apex at amidships and axis vertical, passing, at amidships and at the ends, through points three inches below the surface of the bulkhead deck at side.
 
-(iii) Corrected margin line.—If the actual margin line either forward of aft is not of ordinary parabolic form,* or if its lowest point is not at amidships, a margin line of ordinary parabolic form is to be drawn with its apex amidships level with the lowest point of the actual margin line, and intersecting the latter either at a point 1 4 th of the ship’s length from amidships or at the perpendicular according as the actual sheer at the 1 4 th length position. (See Diagram 1 of this Appendix.)
+- (iii) Corrected margin line—If the actual margin line either forward of aft is not of ordinary parabolic form,* or if its lowest point is not at amidships, a margin line of ordinary parabolic form is to be drawn with its apex amidships level with the lowest point of the actual margin line, and intersecting the latter either at a point 1/4th of the ship’s length from amidships or at the perpendicular according as the actual sheer at the 1/4th length position. (See Diagram 1 of this Appendix.) (E.R. 2 of 2021)
 
-(iv) Freeboard ratio, f d , is the ratio between the freeboard to margin line amidships (corrected as necessary) and the draft amidships to top of keel. The sheer ratio forward or aft is the ratio of the sheer of the margin line at the forward or after perpendicular respectively, measured from the horizontal line through the lowest point of margin line, to the draft amidships to top of keel.
+- (iv) Freeboard ratio, f d , is the ratio between the freeboard to margin line amidships (corrected as necessary) and the draft amidships to top of keel. The sheer ratio forward or aft is the ratio of the sheer of the margin line at the forward or after perpendicular respectively, measured from the horizontal line through the lowest point of margin line, to the draft amidships to top of keel.
 
-(v) The mean waterplane area coefficient (a) is the actual area of mean waterplane divided by L × B; and the mean waterplane moment of inertia coefficient (n) is the actual moment of inertia of mean waterplane about a transverse axis through its centre of flotation divided by L3 × B, where L and B are the length and breadth of the vessel respectively as given in Table 1 of this Appendix. The sectional area coefficient for any transverse section is the actual area of that section up to the margin line divided by B × d, where d is the draft amidships. Knowing these coefficients for the sections given in Table 1, a curve of coefficients may be drawn, and values obtained for any intermediate sections as desired.
+- (v) The mean waterplane area coefficient (a) is the actual area of mean waterplane divided by L × B; and the mean waterplane moment of inertia coefficient (n) is the actual moment of inertia of mean waterplane about a transverse axis through its centre of flotation divided by L3 × B, where L and B are the length and breadth of the vessel respectively as given in Table 1 of this Appendix. The sectional area coefficient for any transverse section is the actual area of that section up to the margin line divided by B × d, where d is the draft amidships. Knowing these coefficients for the sections given in Table 1, a curve of coefficients may be drawn, and values obtained for any intermediate sections as desired.
+
+* | A sheer line of ordinary parabolic form is one in which the sheer forward and aft measured at points 1/8th, 1/4th, and 3/8ths of the length of the ship from the perpendicular is 9/16ths, 1/4th and 1/16th respectively of the sheer at the perpendicular.
 
 B.H. 2A.
 
@@ -82,25 +96,31 @@ Subdivision Length | (L) = | ft. | cub. ft.
 
 No. of Passengers | (N) =
 
-.6×L×N | (P1) = | cub. ft. | From Page 3 of B.H. 2A. | { | Whole Volume of Ship | (V) =
+.6 × L × N | (P1) = | cub. ft. | From Page 3 of B.H. 2A. | { | Whole Volume of
 
-(1) P1 greater than P.
+(1) P1 greater than P. | Ship | (V) =
 
-Cs = 72[ | M + 2P1 | ]= | Volume of Machinery Space, etc. | (M) =
+Cs = 72 | [ | M + 2P1 | ] = | Volume of Machinery
 
-V + P1- P
+V + P1 - P | Space, etc. | (M) =
 
-(2) P1 not greater than P.
+(2) P1 not greater than P. | Volume of Passenger
 
-Cs = 72[ | M + 2P | ]= | Volume of Passenger and Crew Space | (P) =
+Cs = 72 | [ | M + 2P | ] = | and Crew Space | (P) =
 
 V
 
-† | { | No. of berthed passengers above margin line | (N) =
+† | { | No. of berthed passengers
 
-Area measured above margin line | (A) = | Cs = 72[ | M + 3 2 P1 | ]
+above margin line | (N) = | Cs = 72 | [ | M + 3 2 P1 | ]
 
-P + 7A + .4LN | (P1) = | V+P1-P
+V + P1 - P
+
+Area measured above margin
+
+line | (A) =
+
+P + 7A + .4LN | (P1) =
 
 * Not applicable to any ships not exceeding 60 tons net register other than public ferries.
 
@@ -108,31 +128,31 @@ P + 7A + .4LN | (P1) = | V+P1-P
 
 Factor of Subdivision (F).
 
-(1) L=430 ft. and upwards.
+(1) L = 430 ft. and upwards.
 
-Factor from Curve A: A= | 190 | +.18 =
+Factor from Curve A: | A | = | 190 | + .18 | =
 
-L-198
+L - 198
 
-Factor from Curve B: B= | 100 | +.18 =
+Factor from Curve B: | B | = | 100 | + .18 | =
 
-L-138
+L - 138
 
-Required Factor: F=A — | (A-B)(Cs-23) | =
+Required Factor: | F | = | A - | (A - B) (Cs - 23) | =
 
 100
 
-(2) L=Less than 430 ft. and not less than 260 ft. (Cs not less than S)
+(2) L = Less than 430 ft. and not less than 260 ft. (Cs not less than S)
 
-S= | 4691-10L | = | Required Factor: F=1 - | (1-B)(Cs-S) | =
+S = | 4691 - 10L | = | Required Factor: F = 1 - | (1 - B)(Cs - S) | =
 
-17 | 123-S
+17 | 123 - S
 
 (3) When Cs is less than S, and in all ships less than 260 ft. in length the subdivision is to be governed by the factor unity.
 
 Average Permeability (μ) of After End. §
 
-Passenger and Crew Spaces (a)† or Other Spaces (b)‡ | ‡‡ | Whole Volume of After End.
+Passenger and Crew Spaces or Other Spaces | (a)† (b)‡ | ‡‡ | Whole Volume of After End.
 
 Compartment (Reference letters as in B.H. 1.) | Identification Measurements. | Volume. Cub. ft. | Longitudinal Extent. | Volume Cub. ft.
 
@@ -144,19 +164,17 @@ No. ....................
 
 (1) Total (v) =
 
-μ=63+35 a v † | =
+μ = 63 + 35 a v † | =
 
 ‡‡ | =
 
-or 95-35 b v ‡ | =
+or 95 - 35 b v ‡ | =
 
 =
 
-P.F. = 100 - μ μ ×1.5=
+(a)† | } | P. F. = 100 - μ μ × 1.5 =
 
-(a)† | }
-
-(4) Total | or | ‡‡=
+(4) Total | or | ‡‡ =
 
 (b)‡
 
@@ -170,7 +188,7 @@ P.F. = 100 - μ μ ×1.5=
 
 Average Permeability (μ) of Forward End. §
 
-Passenger and Crew Spaces (a)† or Other Spaces (b)‡ | ‡‡ | Whole Volume of Forward End.
+Passenger and Crew Spaces or Other Spaces | (a)† (b)‡ | ‡‡ | Whole Volume of Forward End.
 
 Compartment (Reference letters as in B.H. 1.) | Identification Measurements. | Volume. Cub. ft. | Longitudinal Extent. | Volume Cub. ft.
 
@@ -182,19 +200,17 @@ No. ....................
 
 (2) Total (v) =
 
-μ=63+35 a v † | =
+μ = 63 + 35 a v † | =
 
 ‡‡ | =
 
-or 95-35 b v ‡ | =
+or 95 - 35 b v ‡ | =
 
 =
 
-P.F. = 100 - μ μ ×1.5=
+(a)† | } | P. F. = 100 - μ μ × 1.5 =
 
-(a)† | }
-
-(5) Total | or | ‡‡=
+(5) Total | or | ‡‡ =
 
 (b)‡
 
@@ -212,11 +228,13 @@ Nos. ....................
 
 (3) Total (v) =
 
-μ=80+12.5 a-c v | { | To be increased by 5 when ship is propelled by internal combustion engines. | } | ††
+μ = 80 + 12.5 a - c v | { | To be increased by 5 when ship is propelled by internal combustion engines. | } | ††
 
-= P.F. = 100 - μ μ ×1.5=
+(6) Total (a) =
 
-(6) Total(a) =
+=
+
+P. F. = 100 - μ μ × 1.5 =
 
 † | Applicable to all International Voyage Ships except River Trade.
 
@@ -252,7 +270,7 @@ Forward End | (2) | Oil Fuel Bunkers | (7) | Forward End | (5)
 
 Machinery Space | (3) | Machinery Space | (6)
 
-Total(V) = | Total(M) = | Total(P) =
+Total (V) = | Total (M) = | Total (P) =
 
 Particulars Relating to Local Subdivision.
 
@@ -268,33 +286,33 @@ Port
 
 Date
 
-FLOODING CALCULATION—TABLE 1 | B.H.2。
+FLOODING CALCULATION—TABLE 1 | B.H. 2.
 
 Dimensions Coefficients of Form, etc.
 
 Name of Ship | Builders and No. of Ship | S.L.S. No.
 
-Subdivision Length.... (L) = ft. | Freeboard to Margin Line† (f) = ft. | Freeboard Ratio | { | f | } | = | Average Permeability (μ) (B.H. 2A.)
+Subdivision Length. ...... (L) | = ft. | Freeboard to Margin Line† ...….…… (f) = | ft. | Freeboard Ratio | { | f d | } | = | Average Permeability (μ) (B.H. 2A.)
 
-Subdivision Breadth . (B) = ,, | Subdivision Draft ........... (d) = ,, | d
+Subdivision Breadth.…...(B) | = ,, | Subdivision Draft ....….…...…........... (d) = | ,,
 
-Moulded Depth.........(D) = ,, | Sheer of | Sheer Ratio Forward | { | Sf | } | = | After End. | Machy. Space. | For-ward End.
+Moulded Depth...….…...(D) | = ,, | Sheer of Margin Line Forward† ….. (Sf) = | ,, | Sheer Ratio Forward | { | Sf d | } | = | After End. | Machy. Space. | Forward End.
 
-Subdivision Depth (d + f) = ,, | Margin Line Forward† ....(Sf) = ,, | d
+Subdivision Depth.....(d + f) | = ,,
 
-Fall in Sheer (if any) .......= ,, | Sheer of | Sheer Ratio Aft | { | Sa | } | =
+Fall in Sheer (if any) ..….... | = ,, | Sheer of Margin Line Aft† ....…...... (Sa) = | ,, | Sheer Ratio Aft | { | Sa d | } | =
 
-Thickness of Bulkhead Deck ….............= ,, | Margin Line Aft† ............(Sa) = ,, | d
+Thickness of Bulkhead Deck .….…......... | = ,, | Criterion Numeral (B.H. 2A) (Cs) …..... = | ,,
 
-Criterion Numeral (B.H.2A)(Cs)........................ =,, | Factor of Subdivision (B.H.2A)(F) =
+Factor of Subdivision (B.H.2A) (F) | =
 
 Block Coefficient. | Coefficients of Mean waterplane.
 
-* Volume of Displacement | = | a1= | Area | = | n1= | Long Momt. of Inertia | = | Centre of Flotation
+* Volume of Displacement | = | a1 = | Area | = | n1= | Long Momt. of Inertia | = | Centre of Flotation
 
-L × B × d | L × B | L3 × B | { | Forward | } | of Amid ships = | ft.
+L × B × d | L × B | L3 × B | Forward Aft of Amidships = ft.
 
-= | = | = | Aft
+= | = | =
 
 = per cent of L.
 
@@ -308,13 +326,15 @@ Coefficient
 
 * Inclusive of shaft bossing. | SURVEYOR’S REPORT.
 
-†As corrected. | I have carefully checked the Builder’s calculations and am satisfied that the particulars shown on this Form are correct.
+† As corrected. | I have carefully checked the Builder’s calculations and am satisfied that the particulars shown on this Form are correct.
 
 Note.—For definitions, etc., see paragraph 6 and Notes Appendix I of the instructions.
 
-_____________ SISTER SHIPS (IF ANY).
+_____________
 
-Name of Ship. | Builders and No. of Ship. | S.L.S.No.
+SISTER SHIPS (IF ANY).
+
+Name of Ship. | Builders and No. of Ship. | S.L.S. No.
 
 Signature of Ship Surveyor
 
@@ -322,13 +342,13 @@ Port
 
 Date
 
-FLOODING CALCULATION—TABLE 2 | C.B.33。
+FLOODING CALCULATION—TABLE 2 | C.B. 33.
 
 Floodable Lengths for Ship of Standard Form (expressed as a percentage of the Length (L) of the Ship).
 
 Name of Ship | Builders and No. of Ship | S.L.S. No.
 
-Ratios from B.H. 2. | For any permeability μ, the permeability factor (P.F.) is given by 1.5[ 100-μ μ ]
+Ratios from B.H. 2. | For any permeability μ, the permeability factor (P.F.) is given by 1.5 [ 100 - μ μ ]
 
 Block Coefficient | =
 
@@ -338,11 +358,11 @@ Sheer Ratio Forward | =
 
 Sheer Ratio Aft | = | For Floodable Lengths for μ = 95 may be taken as 1.06 of the Floodable Lengths for μ = 100.
 
-Distance of Ordinate from the After Perpendicular. | Floodable Lengths from Cross Curves.† | Col. (2) — Col. (1). | After End. | Machinery Space. | Forward End.
+Distance of Ordinate from the After Perpendicular. | Floodable Lengths from Cross Curves.† | Col. (2) - Col. (1). | After End. | Machinery Space. | Forward End.
 
-μ= | P.F.= | μ= | P.F.= | μ= | P.F.=
+μ = | P. F. = | μ = | P. F. = | μ = | P. F. =
 
-Per cent of L. | μ=100 | μ=60 | Col. (3) × P.F. | Floodable Length. | Col. (3) × P.F. | Floodable Length. | Col. (3) × P.F. | Floodable Length.
+Per cent of L. | μ = 100 | μ = 60 | Col. (3) × P.F. | Floodable Length. | Col. (3) × P.F. | Floodable Length. | Col. (3) × P.F. | Floodable Length.
 
 Col. (4) + Col. (1). | Col. (6) + Col. (1). | Col. (8) + Col. (1).
 
@@ -386,23 +406,23 @@ Name of Ship | Builders and No. of Ship | S.L.S. No.
 
 Ratios, etc., (from B.H.2 and B.H.2A). | Coefficients of Mean Waterplane. | Constants.
 
-Block Coefficient | = ............ | For Standard Form (from Cross Curves)‡ | For Ship (from B.H.2). | ma n | =
+Block Coefficient | = | For Standard Form (from Cross Curves)‡ | For Ship (from B.H.2). | ma n | =
 
-Freeboard Ratio | = ............ | α = | n = | α1 = | n1 = | a i a | =
+Freeboard Ratio | = | a = | n = | a1 = | n1 = | a i a | =
 
-Sheer Ratio Forward | = ............ | Center of Floatation Abaft Amidships, (per cent of L) | } | = | Center of Floatation {Before/Abaft} Amidships (per cent of L) = | n i n × a a i | =
+Sheer Ratio Forward | = | Centre of Floatation Abaft Amidships, (per cent of L) | } | = | Centre of Floatation Before Abaft Amidships (per cent of L) = | n i n × a a i | =
 
-Sheer Ratio Aft | = ............ | Centre of Flotation of Ship {Before/Abaft} that of Standard Form per cent of L = .............. = 100m
+Sheer Ratio Aft | = | Centre of Flotation of Ship Before Abaft that of Standard Form per cent of L = .......................................................... = 100m
 
-Factor of Subdivision (F) | = ............ | m = ................................................................................
+Factor of Subdivision (F) | = | m = ................................................................................
 
-For Standard Form. | *Values of 1 ± m.a. n × p. | n i n × a a i divided by Figures in Col. (5). | Distance of New Ordinates from Centre of Floatation of Ship(x̄1) Figures in Col. 2× Figures in Col. 6. | Distance of new Ordinates from Amid-ships. | † Sectional Area Co- efficients for Ship at New Ordinates | Form Correction Factor = Figures in Col. (5) multiplied by a i a × β β i | Forward and After Ends. | Machinery Space.
+For Standard Form. | *Values of 1 ± m.a. n × p. | n i n × a a i divided by Figures in Col. (5). | Distance of New Ordinates from Centre of Floatation of Ship ( x 1 ) ¯ Figures in Col. 2 × Figures in Col. 6. | Distance of New Ordinates from Amid-ships. | † Sectional Area Coefficients for Ship at New Ordinates | Form Correction Factor = Figures in Col. (5) multiplied by a i a × β β i | Forward and After Ends. | Machinery Space.
 
-Distance of Ordinate from A.P. | Distance of Ordinate from Center of Floatation (x̄ ) . | Values of P = Col. (2) ÷ 100. | ‡ Sectional Area Co-efficients from Cross Curves. | Standard Form | Ship. | †† | Standard Form. | Ship. | ††
+Distance of Ordinate from A.P. | Distance of Ordinate from Centre of Floatation ( x ) ¯ . | Values of p = Col. (2) ÷ 100. | ‡ Sectional Area Coefficients from Cross Curves. | Standard Form. | Ship. | †† | Standard Form. | Ship. | ††
 
-Floodable Lengths from C.B. 33. | Floodable Lengths at New Ordinates. | Permssible Lengths at New Ordinates. | 90% Floatable Lengths | Floodable Lengths from C.B. 33. | Floodable Lengths at New Ordinates. | Permissible Lengths at New Ordinates. | 90% Floatable Lengths.
+Floodable Lengths from C.B. 33. | Floodable Lengths at New Ordinates. | Permissible Lengths at New Ordinates. | 90% Floatable Lengths | Floodable Lengths from C.B. 33. | Floodable Lengths at New Ordinates. | Permissible Lengths at New Ordinates. | 90% Floatable Lengths.
 
-β | β1 | Col. (11)× Col. (10). | Col (12) × F. | Col. (12) × .9. | Col. (15)× Col. (10). | Col (16) × F. | Col. (16) × .9.
+β | β1 | Col. (11) × Col. (10). | Col (12) × F. | Col. (12) × .9. | Col. (15)× Col. (10). | Col (16) × F. | Col. (16) × .9.
 
 (1)§ | (2)§ | (3) | (4) | (5) | (6) | (7)§ | (8)§ | (9) | (10) | (11)§ | (12)§ | (13)§ | (14)§ | (15)§ | (16)§ | (17)§ | (18)§
 
@@ -430,7 +450,7 @@ Fore Body. | { | 50
 
 F.T.
 
-* | When the centre of Flotation Ship is {Before/Abaft} that of Standard Form the (±) sign is taken for the Fore Body and the (∓) sign for the After Body. | Calculations by
+* | When the centre of Flotation Ship is Before Abaft that of Standard Form the (±) sign is taken for the Fore Body and the ( ∓ ) sign for the After Body. | Calculations by
 
 † | Obtained from Curve of Coefficients (β1) drawn from particulars given in B.H.2. †† For use when bulkheads are “Stepped”. | Checked by
 
@@ -438,65 +458,47 @@ F.T.
 
 § | Percentage of Length (L) of Ship.
 
-DIAGRAM 1. MARGIN LINE (See Notes on Flooding Curves Appendix I).
+Diagram 1 Margin Line (See Notes on Flooding Curves Appendix I). _
 
-_ MARGIN LINES IN SPECIAL CASES (Para. 7) DIAGRAM 2. For compartments A, B, C and G the margin line derived from Deck I may be used. For the remaining compartments the margin line derived from Deck II is to be used. If the factor of subdivision is equal to or less than .5 the combined lengths C + D, F + G, and G + H, are to be governed by the lower margin line.
+Margin Lines in Special Cases (Para. 7) Diagram 2 For compartments A, B, C and G the margin line derived from Deck I may be used. For the remaining compartments the margin line derived from Deck II is to be used. If the factor of subdivision is equal to or less than .5 the combined lengths C + D, F + G, and G + H, are to be governed by the lower margin line. _
 
-_ DIAGRAM 3. (L = Subdivision Length) For compartments A, B, C and D the margin line modified as indicated may be used. For the remaining compartments the margin will be that derived from Deck II. If the factor of subdivision is equal to or less than .5 the combined length of D and E must not exceed twice the permissible length given by the Deck II margin line.
+Diagram 3
 
-_ MARGIN LINES IN SPECIAL CASES (continued) DIAGRAM 4. If the factor of subdivision is equal to or less than .5 the combined lengths D + C, and G + F, are to be governed by the margin line derived from Deck I.
+(L = Subdivision Length)
 
-_ DIAGRAM 5. If the factor of subdivision is equal to or less than .5 the combined length of E and F is to be governed by the lower margin line.
+For compartments A, B, C and D the margin line modified as indicated may be used. For the remaining compartments the margin will be that derived from Deck II. If the factor of subdivision is equal to or less than .5 the combined length of D and E must not exceed twice the permissible length given by the Deck II margin line. _
 
-_ MARGIN LINES in SPECIAL CASES (continued) DIAGRAM 6. If the factor of subdivision is equal to or less than .5 the combined length of E and F is to be governed by the lower margin line.
+Margin Lines in Special Cases (continued) Diagram 4 If the factor of subdivision is equal to or less than .5 the combined lengths D + C, and G + F, are to be governed by the margin line derived from Deck I. _
 
-_ DIAGRAM 7. RECESSES IN W.T. BULKHEADS see Paragraph 13.
+Diagram 5 If the factor of subdivision is equal to or less than .5 the combined length of E and F is to be governed by the lower margin line. _
 
-PLAN AT L.W.L.
+Margin Lines in Special Cases (continued) Diagram 6 If the factor of subdivision is equal to or less than .5 the combined length of E and F is to be governed by the lower margin line. _
 
-_ DIAGRAM 8. STEPS IN W.T. BULKHEADS see Paragraph 13. ELEVATION Dotted lines show transverse subdivision with
+Diagram 7 Recesses in W.T. Bulkheads see Paragraph 13. _
 
-plane bulkheads. Full lines show
+Diagram 8 Steps in W.T. Bulkheads see Paragraph 13. Elevation Dotted lines show transverse subdivision with plane bulkheads. Full lines show arrangement to compensate for step EFG _
 
-arrangement to compensate for step EFG
+Diagram 9 see Paragraph 13. Elevation _
 
-_ DIAGRAM 9. see Paragraph 13.
+Diagram 10 Recesses and Steps in W.T. Bulkheads see Paragraph 13. Elevation
 
-ELEVATION
+Bulkhead AB is recessed as shown in sketch. The position of the equivalent plane bulkhead is given by X=volume FH of recess ÷ “A”, where “A” is the sectional area to margin line approximately midway between AB and CD.
 
-_ DIAGRAM 10. RECESSES AND STEPS IN W.T. BULKHEADS see Paragraph 13.
+_
 
-ELEVATION
+Diagram 11 Double Bottom see Paragraph 15. _
 
-Bulkhead AB is recessed as shown in sketch. This position of the equivalent plane bulkhead is given by X=volume FH of recess ÷“A”, where “A” is the sectional area to margin line approximately midway between AB and CD.
+Diagram 12 Side Scuttles see Paragraph 43. ⍻ If the sill of any side scuttle is below the line, the scuttle is
 
-_ DIAGRAM 11. DOUBLE BOTTOM see Paragraph 15.
+to comply with the requirement of the zone below. _
 
-Intersection of outer edge of margin plate with
-
-bilge plating not to be lower than AAA
-
-_ DIAGRAM 12. SIDE SCUTTLES see Paragraph 43.
-
-If the sill of any side scuttle is below the line, the scuttle is
-
-to comply with the requirement of the zone below.
-
-_ DIAGRAM 13. SIDE SCUTTLES see Paragraph 43.
+Diagram 13 Side Scuttles see Paragraph 43.
 
 N.B. | It should be noted that the zone of any particular tier of side scuttles is determined by the sill which is farthest below the bulkhead Deck. This is not necessarily the sill of the lowest side scuttle in the tier.
 
-Editorial Note:
+(E.R. 2 of 2021)
 
-* | The Standard Diagrams of Floodable Lengths, etc., are published separately by the Ministry of Shipping, London.
-
-† | The plates referred to are given in the Standard Diagrams of Floodable Lengths, &c.
-
-* | The plates referred to are given in the Standard Diagrams of Floodable Lengths, etc.
-
-* | A sheer line of ordinary parabolic form is one in which the sheer forward and aft measured at points 1 8 th, 1 4 th, and 3 8 ths of the length of the ship from the perpendicular is 9/16ths, 1/4th and 1/16th respectively of the sheer at the perpendicular.
-
-APPENDIX II TABLE 1 SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH BRACKET ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Appendix II Table 1 Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Bracket Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
@@ -542,7 +544,7 @@ Sizes for intermediate lengths of Stiffeners and heights of Bulkhead Deck should
 
 Sizes of Stiffeners are based on British Standard Sections.
 
-TABLE 1—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH BRACKET ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 1—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Bracket Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
@@ -556,7 +558,7 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 10 | 6×3×.32 | 6×3×.34 | 6×3×.36 | 6 1/2×3×.34
 
-11 | ★————————Bulb Angles.————————★ | 6 1/2×3×.34 | 6 1/2×3×.34 | 7×3×.34 | 7×3×.38
+11 | ★—————————Bulb Angles.———————— | 6 1/2×3×.34 | 6 1/2×3×.34 | 7×3×.34 | 7×3×.38
 
 12 | 7×3×.36 | 7×3×.38 | 7 1/2×3×.38 | 7 1/2×3×.4
 
@@ -588,7 +590,7 @@ Sizes for intermediate lengths of Stiffeners and heights of Bulkhead Deck should
 
 Sizes of Stiffeners are based on British Standard Sections.
 
-TABLE 1—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH BRACKET ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 1—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Bracket Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in feet.
 
@@ -616,7 +618,7 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 18 | 11 1/2×3 1/2×.5 | 12×3 1/2×.5 | 12×3 1/2×.52 | .6 12×3 1/2×3 1/2×.46
 
-19 | ★————Channels.———★ | 12×3 1/2×.52 | .6 12×3 1/2×3 1/2×.46 | .6 12×3 1/2×3 1/2×.46 | .6 12×3 1/2×3 1/2×.52
+19 | ★————Channels.————★ | 12×3 1/2×.52 | .6 12×3 1/2×3 1/2×.46 | .6 12×3 1/2×3 1/2×.46 | .6 12×3 1/2×3 1/2×.52
 
 20 | .6 12×3 1/2×3 1/2×.46 | .625 12×3 1/2×3 1/2×.52 | .625 12×4×4×.48 | .625 12×4×4×.52
 
@@ -630,7 +632,7 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 In the case of Channel Sections the lower thickness is that of the web and the upper thickness that of the flange.
 
-TABLE 1—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH BRACKET ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3 The sizes are specified in inches.
+Table 1—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Bracket Attachments at Top and Bottom in accordance with Table 3 The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in feet.
 
@@ -674,7 +676,7 @@ Sizes for intermediate lengths of Stiffeners and heights of Bulkhead Deck should
 
 Sizes of Stiffeners are based on British Standard Sections.
 
-TABLE 1—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH BRACKET ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 1—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Bracket Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in feet.
 
@@ -716,7 +718,7 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 In the case of Channel Sections the lower thickness is that of the web and the upper thickness that of the flange.
 
-TABLE 2 SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH LUG ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 2 Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Lug Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
@@ -764,13 +766,13 @@ Sizes for intermediate lengths of Stiffeners and Heights of Bulkhead Deck should
 
 Sizes of Stiffeners are based on British Standard Sections.
 
-TABLE 2—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH LUG ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 2—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Lug Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
 10 | 12 | 14 | 16
 
-8 | ★—————Bulb Angles.——————★ | 5 1/2×3×.36 | 6×3×.32 | 6×3×.4 | 6 1/2×3×.34
+8 | ———————Bulb Angles.———————★ | 5 1/2×3×.36 | 6×3×.32 | 6×3×.4 | 6 1/2×3×.34
 
 9 | 6×3×.38 | 6 1/2×3×.36 | 7×3×.36 | 7×3×.36
 
@@ -792,7 +794,7 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 18 | 12×3 1/2×.52 | .6 12×3 1/2×3 1/2×.46 | .6 12×3 1/2×3 1/2×.5 | .625 12×4×4×.48
 
-19 | Channels.—————★ | .6 12×3 1/2×3 1/2×.46 | .625 12×4×4×.48 | .625 12×4×4×.52 | .625 13×4×4×.48
+19 | Channels.———————★ ★ | .6 12×3 1/2×3 1/2×.46 | .625 12×4×4×.48 | .625 12×4×4×.52 | .625 13×4×4×.48
 
 20 | .625 12×4×4×.48 | .625 13×4×4×.48 | .625 13×4×4×.52 | .625 14×4×4×.48
 
@@ -808,7 +810,7 @@ Sizes for intermediate lengths of Stiffeners and heights of Bulkhead Deck should
 
 Sizes of Stiffeners are based on British Standard Sections.
 
-TABLE 2—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH LUG ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 2—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Lug Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
@@ -850,7 +852,7 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 In the case of Channel Sections the lower thickness is that of the web and the upper thickness that of the flange.
 
-TABLE 2—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH LUG ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 2—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Lug Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
@@ -894,7 +896,7 @@ Sizes for intermediate lengths of Stiffeners and heights of Bulkhead Deck should
 
 Sizes of Stiffeners are based on British Standard Sections.
 
-TABLE 2—(Continued) SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH LUG ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. The sizes are specified in inches.
+Table 2—(Continued) Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Lug Attachments at Top and Bottom in accordance with Table 3. The sizes are specified in inches.
 
 Overall Length of Stiffener, including End Attachments, in feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
@@ -936,13 +938,13 @@ Overall Length of Stiffener, including End Attachments, in feet. | Height of Bul
 
 In the case of Channel Sections the lower thickness is that of the web and the upper thickness that of the flange.
 
-TABLE 3 ATTACHMENTS FOR STIFFENERS.
+Table 3 Attachments for Stiffeners.
 
 Type and Depth of Stiffener. | Bracket Attachments. | Lug Attachments.
 
 Thickness of Bracket in Inches. | Width of Flange in Inches. | Number and size of Rivets in each arm of Bracket. | Number and size of Rivets in Lugs.
 
-Angles 6” and under | .34 | 3@3/4”diameter | 2@3/4”diameter
+Angles 6” and under | .34 | 3@3/4”diameter | 2@3/4” diameter
 
 Bulb Angles under 6 1/2” | .36 | 3@3/4” ” | 2@3/4” ”
 
@@ -962,7 +964,7 @@ Bulb Angles 6 1/2” | .38 | 3@3/4” ” | 2@3/4” ”
 
 Channels 12”×3 1/2”×3 1/2” | .4 | 3 | 9@7/8” ” | 6@7/8” ”
 
-, 12×4”×4” | .4 | 3 | 10@7/8” ” | 7@7/8” ”
+,, 12×4”×4” | .4 | 3 | 10@7/8” ” | 7@7/8” ”
 
 ,, 13”×4”×4” | .42 | 3 1/2 | 11@7/8” ” | 7@7/8” ”
 
@@ -974,7 +976,7 @@ Note.—The distance from the heel of the Boundary Bar to the extremities of the
 
 The overlap of Stiffeners on brackets is not to be less than .12 of the span.
 
-TABLE 4 THICKNESSES OF BULKHEAD PLATING.
+Table 4 Thickness of Bulkhead Plating.
 
 Stiffeners spaced 36” apart. | Stiffeners spaced 30” apart.
 
@@ -1038,17 +1040,13 @@ Above | Not above | Above | Not above
 
 Thicknesses for intermediate spacings may be obtained by interpolation.
 
-TABLE 5
-
-SIZES OF TUNNEL STIFFENERS SPACED 36” APART.
-
-(The sizes are specified in inches).
+Table 5 Sizes of Tunnel Stiffeners spaced 36” Apart. (The sizes are specified in inches).
 
 Mean Height from Base of Tunnel to Bulkhead Deck in Feet. | Height from Base of Tunnel to Top of Flat Side in Feet.
 
 3 | 4 | 5 | 6 | 7 | 8
 
-12 | ★————————————Angle.————————————★ | 3×2 1/2×.24 | 4×2 1/2×.26 | 4 1/2×3×.3 | 5×3×.34 | 5 1/2×3×.36 | 5 1/2×3×.3
+12 | ★——————Angle.——————★ | 3×2 1/2×.24 | 4×2 1/2×.26 | 4 1/2×3×.3 | 5×3×.34 | 5 1/2×3×.36 | 5 1/2×3×.3
 
 16 | 3 1/2×2 1/2×.22 | 4×3×.3 | 5×3×.32 | 5 1/2×3×.36 | 5 1/2×3×.3 | 6×3×.32
 
@@ -1078,127 +1076,117 @@ Mean Height from Base of Tunnel to Bulkhead Deck in Feet. | Height from Base of 
 
 Note.— Angle Stiffeners of 6” in depth and all Bulb Angle Stiffeners should be connected to the inner bottom plating by a lug.
 
-TABLE 1A SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH BRACKET ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. (The sizes are specified in inches).
+Table 1A Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Bracket Attachments at Top and Bottom in accordance with Table 3. (The sizes are specified in inches).
 
 Overall Length of Stiffener, including End Attachments, in Feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
 0. | 2. | 4. | 6. | 8. | 10. | 12. | 14. | 16. | 18.
 
-6 | ★——————Angles.——————★ | 4×2 1/2×.24 | 4×2 1/2×.26 | 4×3×.30 | 4×3×.34 | 4 1/2×3×.30 | 4 1/2×3×.32
+6 | ★ | 4 × 2 1 2 × . 24 | 4 × 2 1 2 × . 26 | 4×3×.30 | 4×3×.34 | 4 1 2 × 3 × . 30 | 4 1 2 × 3 × . 32
 
-7 | 4 1/2×3×.26 | 4 1/2×3×.30 | 4 1/2×3×.32 | 5×3×.30 | 5×3×.34 | 5×3×.36
+7 | 4 1 2 × 3 × . 26 | 4 1 2 × 3 × . 30 | 4 1 2 × 3 × . 32 | 5×3×.30 | 5×3×.34 | 5×3×.36
 
-8 | 3×2 1/2×.24 | 3 1/2×2 1/2×.26 | 4×2 1/2×.28 | 4 1/2×3×.30 | 5×3×.30 | 5 1/2×3×.30 | 5 1/2×3×.32 | 6×3×.32 | 5×3×.30 | 5×3×.30
+8 | 3 × 2 1 2 × . 24 | 3 1 2 × 2 1 2 × . 26 | 4 × 2 1 2 × . 28 | 4 1 2 × 3 × . 30 | 5×3×.30 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 32 | 6×3×.32 | 5×3×.30 | 5×3×.30
 
-9 | 3 1/2×2 1/2×.26 | 4×2 1/2×.28 | 4 1/2×3×.30 | 5×3×.30 | 5 1/2×3×.30 | 5 1/2×3×.34 | 5×3×.30 | 5×3×.32 | 5 1/2×3×.30 | 5 1/2×3×.32
+9 | Angles. | 3 1 2 × 2 1 2 × . 26 | 4 × 2 1 2 × . 28 | 4 1 2 × 3 × . 30 | 5×3×.30 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 34 | 5×3×.30 | 5×3×.32 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 32
 
-10 | 4×2 1/2×.28 | 4 1/2×3×.30 | 5×3×.32 | 5 1/2×3×.32 | 5×3×.30 | 5×3×.32 | 5 1/2×3×.32 | 5 1/2×3×.34 | 6×3×.32 | 6×3×.34
+10 | 4 × 2 1 2 × . 28 | 4 1 2 × 3 × . 30 | 5×3×.32 | 5 1 2 × 3 × . 32 | 5×3×.30 | 5×3×.32 | 5 1 2 × 3 × . 32 | 5 1 2 × 3 × . 34 | 6×3×.32 | 6×3×.34
 
-11 | 4 1/2×3×.30 | 5×3×.32 | 5 1/2×3×.34 | 5×3×.30 | 5 1/2×3×.30 | 5 1/2×3×.32 | 6×3×.32 | 6 1/2×3×.34 | 6 1/2×3×.34 | 7×3×.36
+11 | 4 1 2 × 3 × . 30 | 5×3×.32 | 5 1 2 × 3 × . 34 | 5×3×.30 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 32 | 6×3×.32 | 6 1 2 × 3 × . 34 | 6 1 2 × 3 × . 34 | 7×3×.36
 
-12 | 5×3×.32 | 5 1/2×3×.34 | 5×3×.30 | 5 1/2×3×.30 | 6×3×.32 | 6×3×.34 | 6 1/2×3×.34 | 7×3×.36 | 7×3×.36 | 7 1/2×3×.38
+12 | 5×3×.32 | 5 1 2 × 3 × . 34 | 5×3×.30 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6×3×.34 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7×3×.36 | 7 1 2 × 3 × . 38
 
-13 | 5 1/2×3×.32 | 5×3×.30 | 5 1/2×3×.30 | 6×3×.32 | 6 1/2×3×.34 | 6 1/2×3×.36 | 7×3×.36 | 7 1/2×3×.38 | 7 1/2×3×.38
+13 | ★ | 5 1 2 × 3 × . 32 | 5×3×.30 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6 1 2 × 3 × . 34 | 6 1 2 × 3 × . 36 | 7×3×.36 | 7 1 2 × 3 × . 38 | 7 1 2 × 3 × . 38
 
-14 | ★————Bulb Angles.————★ | 5×3×.30 | 5 1/2×3×.30 | 6×3×.32 | 6 1/2×3×.34 | 7×3×.36 | 7×3×.38 | 7 1/2×3×.38 | 8×3×.40 | 8×3×.40
+14 | ★ | 5×3×.30 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7×3×.38 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8×3×.40
 
-15 | 5 1/2×3×.30 | 6×3×.32 | 6 1/2×3×.34 | 7×3×.36 | 7×3×.40 | 7 1/2×3×.40 | 8×3×.40 | 8 1/2×3×.42
+15 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7×3×.40 | 7 1 2 × 3 × . 40 | 8×3×.40 | 8 1 2 × 3 × . 42
 
-16 | 6×3×.32 | 6 1/2×3×.34 | 7×3×.36 | 7 1/2×3×.38 | 8×3×.40 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44
+16 | Bulb Angles. | 6×3×.32 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44
 
-17 | 6 1/2×3×.34 | 7×3×.36 | 7 1/2×3×.38 | 8×3×.40 | 8 1/2×3×.42 | 8 1/2×3×.44 | 9×3×.44
+17 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8 1 2 × 3 × . 42 | 8 1 2 × 3 × . 44 | 9×3×.44
 
-18 | 7×3×.36 | 7 1/2×3×.38 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9×3×.44 | 9 1/2×3 1/2×.46
+18 | 7×3×.36 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9×3×.44 | 9 1 2 × 3 1 2 × . 46
 
-19 | 7 1/2×3×.38 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9×3×.46 | 9 1/2×3 1/2×.46
+19 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9×3×.46 | 9 1 2 × 3 1 2 × . 46
 
-20 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9×3×.46 | 9 1/2×3 1/2×.46 | 10×3 1/2×.46
+20 | ★ | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9×3×.46 | 9 1 2 × 3 1 2 × . 46 | 10 × 3 1 2 × . 46
 
-Sizes for intermediate lengths of stiffener and heights of bulkhead deck should be obtained by interpolation.
+Sizes for intermediate lengths of stiffener and heights of bulkhead deck should be obtained by interpolation. Sizes for stiffeners are based on British Standard Sections.
 
-Sizes for stiffeners are based on British Standard Sections.
-
-TABLE 2A SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART AND FITTED WITH LUG ATTACHMENTS AT TOP AND BOTTOM IN ACCORDANCE WITH TABLE 3. (The sizes are specified in inches).
+Table 2A Sizes of Bulkhead Stiffeners spaced 30 Inches apart and fitted with Lug Attachments at Top and Bottom in accordance with Table 3. (The sizes are specified in inches).
 
 Overall Length of Stiffener, including End Attachments, in Feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
 0. | 2. | 4. | 6. | 8. | 10. | 12. | 14. | 16. | 18.
 
-8 | ★——Angles.——★ | 6×3×.32 | 6×3×.38 | 5 1/2×3×.30 | 5×3×.34 | 6×3×.32 | 6×3×.36
+8 | ★ | 6×3×.32 | 6×3×.38 | 5 1 2 × 3 × . 30 | 5×3×.34 | 6×3×.32 | 6×3×.36
 
-9 | 5×3×.32 | 5 1/2×3×.34 | 6×3×.36 | 5 1/2×3×.30 | 5 1/2×3×.34 | 6×3×.32 | 6 1/2×3×.34 | 6 1/2×3×.36 | 7×3×.36
+9 | 5×3×.32 | 5 1 2 × 3 × . 34 | 6×3×.36 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 34 | 6×3×.32 | 6 1 2 × 3 × . 34 | 6 1 2 × 3 × . 36 | 7×3×.36
 
-10 | 5×3×.30 | 5 1/2×3×.34 | 6×3×.38 | 5 1/2×3×.32 | 6×3×.36 | 6 1/2×3×.34 | 6 1/2×3×.38 | 7×3×.36 | 7×3×.42 | 7 1/2×3×.38
+10 | Angles. | 5×3×.30 | 5 1 2 × 3 × . 34 | 6×3×.38 | 5 1 2 × 3 × . 32 | 6×3×.36 | 6 1 2 × 3 × . 34 | 6 1 2 × 3 × . 38 | 7×3×.36 | 7×3×.42 | 7 1 2 × 3 × . 38
 
-11 | 5 1/2×3×.32 | 5 1/2×3×.30 | 5 1/2×3×.36 | 6×3×.36 | 6 1/2×3×.36 | 7×3×.36 | 7×3×.42 | 7 1/2×3×.40 | 8×3×.40 | 8×3×.44
+11 | 5 1 2 × 3 × . 32 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 36 | 6×3×.36 | 6 1 2 × 3 × . 36 | 7×3×.36 | 7×3×.42 | 7 1 2 × 3 × . 40 | 8×3×.40 | 8×3×.44
 
-12 | 6×3×.36 | 6×3×.32 | 6×3×.38 | 6 1/2×3×.40 | 7×3×.40 | 7 1/2×3×.38 | 7 1/2×3×.48 | 8×3×.44 | 8 1/2×3×.44 | 9×3×.44
+12 | ★ | 6×3×.36 | 6×3×.32 | 6×3×.38 | 6 1 2 × 3 × . 40 | 7×3×.40 | 7 1 2 × 3 × . 38 | 7 1 2 × 3 × . 48 | 8×3×.44 | 8 1 2 × 3 × . 44 | 9×3×.44
 
-13 | ★————Bulb Angles.————★ | 6×3×.32 | 6 1/2×3×.34 | 6 1/2×3×.42 | 7×3×.42 | 7 1/2×3×.42 | 8×3×.42 | 8 1/2×3×.42 | 9×3×.42 | 9×3×.48
+13 | ★ | 6×3×.32 | 6 1 2 × 3 × . 34 | 6 1 2 × 3 × . 42 | 7×3×.42 | 7 1 2 × 3 × . 42 | 8×3×.42 | 8 1 2 × 3 × . 42 | 9×3×.42 | 9×3×.48
 
-14 | 6 1/2×3×.34 | 7×3×.36 | 7 1/2×3×.38 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9×3×.46 | 9 1/2×3 1/2×.45 | 9 1/2×3 1/2×.50
+14 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9×3×.46 | 9 1 2 × 3 1 2 × . 45 | 9 1 2 × 3 1 2 × . 50
 
-15 | 6 1/2×3×.38 | 7 1/2×3×.38 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9 1/2×3 1/2×.45 | 9 1/2×3 1/2×.48 | 10×3 1/2×.48
+15 | 6 1 2 × 3 × . 38 | 7 1 2 × 3 × . 38 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9 1 2 × 3 1 2 × . 45 | 9 1 2 × 3 1 2 × . 48 | 10 × 3 1 2 × . 48
 
-16 | 7×3×.40 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9 1/2×3 1/2×.45 | 10×3 1/2×.46 | 10 1/2×3 1/2×.46 | 11×3 1/2×.48
+16 | Bulb Angles. | 7×3×.40 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9 1 2 × 3 1 2 × . 45 | 10 × 3 1 2 × . 46 | 10 1 2 × 3 1 2 × . 46 | 11 × 3 1 2 × . 48
 
-17 | 7 1/2×3×.42 | 8 1/2×3×.42 | 9×3×.43 | 9 1/2×3 1/2×.45 | 10×3 1/2×.46 | 10 1/2×3 1/2×.48 | 11×3 1/2×.48
+17 | 7 1 2 × 3 × . 42 | 8 1 2 × 3 × . 42 | 9×3×.43 | 9 1 2 × 3 1 2 × . 45 | 10 × 3 1 2 × . 46 | 10 1 2 × 3 1 2 × . 48 | 11 × 3 1 2 × . 48
 
-18 | 8 1/2×3×.42 | 9×3×.44 | 9 1/2×3 1/2×.45 | 10×3 1/2×.48 | 11×3 1/2×.48 | 11×3 1/2×.52 | 12×3 1/2×.50
+18 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9 1 2 × 3 1 2 × . 45 | 10 × 3 1 2 × . 48 | 11 × 3 1 2 × . 48 | 11 × 3 1 2 × . 52 | 12 × 3 1 2 × . 50
 
-19 | 9×3×.44 | 9 1/2×3 1/2×.45 | 10×3 1/2×.48 | 11×3 1/2×.48 | 11×3 1/2×.54 | 12×3 1/2×.50
+19 | 9×3×.44 | 9 1 2 × 3 1 2 × . 45 | 10 × 3 1 2 × . 48 | 11 × 3 1 2 × . 48 | 11 × 3 1 2 × . 54 | 12 × 3 1 2 × . 50
 
-20 | 9 1/2×3 1/2×.45 | 10×3 1/2×.48 | 11×3 1/2×.48 | 11×3 1/2×.54 | 12×3 1/2×.50 | 12×3 1/2×.58
+20 | ★ | 9 1 2 × 3 1 2 × . 45 | 10 × 3 1 2 × . 48 | 11 × 3 1 2 × . 48 | 11 × 3 1 2 × . 54 | 12 × 3 1 2 × . 50 | 12 × 3 1 2 × . 58
 
-Sizes for intermediate lengths of stiffener and heights of bulkhead deck should be obtained by interpolation.
+Sizes for intermediate lengths of stiffener and heights of bulkhead deck should be obtained by interpolation. Sizes for stiffeners are based on British Standard Sections.
 
-Sizes for stiffeners are based on British Standard Sections.
-
-TABLE 2B SIZES OF BULKHEAD STIFFENERS SPACED 30 INCHES APART NOT FITTED WITH BRACKET OR LUG ATTACHMENTS. (The sizes are specified in inches).
+Table 2B Sizes of Bulkhead Stiffeners spaced 30 Inches apart not fitted with Bracket or Lug Attachments. (The sizes are specified in inches).
 
 Overall Length of Stiffener in Feet. | Height of Bulkhead Deck above Top of Stiffener, in Feet.
 
 0. | 2. | 4. | 6. | 8. | 10. | 12. | 14. | 16. | 18.
 
-6 | ★——Angles.——★ | 3×2 1/2×.22 | 3 1/2×2 1/2×.25 | 4×2 1/2×.28 | 4×3×.32 | 4 1/2×3×.32 | 5×3×.32 | 5 1/2×3×.32 | 5 1/2×3×.36 | 6×3×.34 | 6×3×.38
+6 | ★ | 3 × 2 1 2 × . 22 | 3 1 2 × 2 1 2 × . 25 | 4 × 2 1 2 × . 28 | 4×3×.32 | 4 1 2 × 3 × . 32 | 5×3×.32 | 5 1 2 × 3 × . 32 | 5 1 2 × 3 × . 36 | 6×3×.34 | 6×3×.38
 
-7 | 3 1/2×2 1/2×.24 | 4×2 1/2×.28 | 4 1/2×3×.30 | 5×3×.32 | 5 1/2×3×.32 | 6×3×.32 | 6×3×.38 | 5 1/2×3×.30 | 5 1/2×3×.32 | 6×3×.32
+7 | 3 1 2 × 2 1 2 × . 24 | 4 × 2 1 2 × . 28 | 4 1 2 × 3 × . 30 | 5×3×.32 | 5 1 2 × 3 × . 32 | 6×3×.32 | 6×3×.38 | 5 1 2 × 3 × . 30 | 5 1 2 × 3 × . 32 | 6×3×.32
 
-8 | 4×2 1/2×.24 | 4 1/2×3×.30 | 5×3×.34 | 6×3×.32 | 6×3×.38 | 5 1/2×3×.30 | 6×3×.32 | 6×3×.34 | 6 1/2×3×.34 | 6 1/2×3×.36
+8 | Angles. | 4 × 2 1 2 × . 24 | 4 1 2 × 3 × . 30 | 5×3×.34 | 6×3×.32 | 6×3×.38 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6×3×.34 | 6 1 2 × 3 × . 34 | 6 1 2 × 3 × . 36
 
-9 | 4 1/2×3×.30 | 5 1/2×3×.32 | 6×3×.34 | 5 1/2×3×.30 | 6×3×.32 | 6×3×.36 | 6 1/2×3×.34 | 7×3×.36 | 7×3×.38 | 7 1/2×3×.38
+9 | 4 1 2 × 3 × . 30 | 5 1 2 × 3 × . 32 | 6×3×.34 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6×3×.36 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7×3×.38 | 7 1 2 × 3 × . 38
 
-10 | 5 1/2×3×.30 | 6×3×.34 | 5 1/2×3×.30 | 6×3×.32 | 6 1/2×3×.34 | 7×3×.36 | 7×3×.38 | 7 1/2×3×.38 | 7 1/2×3×.40 | 8×3×.40
+10 | 5 1 2 × 3 × . 30 | 6×3×.34 | 5 1 2 × 3 × . 30 | 6×3×.32 | 6 1 2 × 3 × . 34 | 7×3×.36 | 7×3×.38 | 7 1 2 × 3 × . 38 | 7 1 2 × 3 × . 40 | 8×3×.40
 
-11 | 6×3×.32 | 5 1/2×3×.30 | 6×3×.34 | 6 1/2×3×.36 | 7×3×.36 | 7 1/2×3×.38 | 7 1/2×3×.42 | 8×3×.42 | 8 1/2×3×.42 | 8 1/2×3×.48
+11 | ★ | 6×3×.32 | 5 1 2 × 3 × . 30 | 6×3×.34 | 6 1 2 × 3 × . 36 | 7×3×.36 | 7 1 2 × 3 × . 38 | 7 1 2 × 3 × . 42 | 8×3×.42 | 8 1 2 × 3 × . 42 | 8 1 2 × 3 × . 48
 
-12 | ——————★ | 5 1/2×3×.30 | 6×3×.34 | 6 1/2×3×.36 | 7×3×.40 | 7 1/2×3×.40 | 8×3×.40 | 8×3×.42 | 8 1/2×3×.48 | 9×3×.46 | 9 1/2×3 1/2×.46
+12 | ★ | 5 1 2 × 3 × . 30 | 6×3×.34 | 6 1 2 × 3 × . 36 | 7×3×.40 | 7 1 2 × 3 × . 40 | 8×3×.40 | 8×3×.42 | 8 1 2 × 3 × . 48 | 9×3×.46 | 9 1 2 × 3 1 2 × . 46
 
-13 | 6×3×.32 | 6 1/2×3×.36 | 7×3×.40 | 7 1/2×3×.42 | 8×3×.44 | 8 1/2×3×.46 | 9 1/2×3×.44 | 9×3×.46 | 10×3 1/2×.46
+13 | 6×3×.32 | 6 1 2 × 3 × . 36 | 7×3×.40 | 7 1 2 × 3 × . 42 | 8×3×.44 | 8 1 2 × 3 × . 46 | 9 1 2 × 3 × . 44 | 9×3×.46 | 10 × 3 1 2 × . 46
 
-14 | 6 1/2×3×.34 | 7×3×.40 | 8×3×.40 | 8 1/2×3×.42 | 9×3×.44 | 9×3×.50 | 9 1/2×3 1/2×.48 | 10×3 1/2×.48 | 10 1/2×3 1/2×.46
+14 | 6 1 2 × 3 × . 34 | 7×3×.40 | 8×3×.40 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9×3×.50 | 9 1 2 × 3 1 2 × . 48 | 10 × 3 1 2 × . 48 | 10 1 2 × 3 1 2 × . 46
 
-15 | Bulb Angles. | 7×3×.38 | 8×3×.40 | 8 1/2×3×.40 | 9×3×.44 | 9 1/2×3 1/2×.46 | 10×3 1/2×.46 | 10 1/2×3 1/2×.46 | 11×3 1/2×.48
+15 | 7×3×.38 | 8×3×.40 | 8 1 2 × 3 × . 40 | 9×3×.44 | 9 1 2 × 3 1 2 × . 46 | 10 × 3 1 2 × . 46 | 10 1 2 × 3 1 2 × . 46 | 11 × 3 1 2 × . 48
 
-16 | 7 1/2×3×.44 | 8 1/2×3×.42 | 9×3×.44 | 9 1/2×3 1/2×.46 | 10×3 1/2×.46 | 10 1/2×3 1/2×.50 | 11 1/2×3 1/2×.48 | 11 1/2×3 1/2×.50
+16 | Bulb Angles. | 7 1 2 × 3 × . 44 | 8 1 2 × 3 × . 42 | 9×3×.44 | 9 1 2 × 3 1 2 × . 46 | 10 × 3 1 2 × . 46 | 10 1 2 × 3 1 2 × . 50 | 11 1 2 × 3 1 2 × . 48 | 11 1 2 × 3 1 2 × . 50
 
-17 | 8×3×.44 | 9×3×.44 | 9 1/2×3 1/2×.46 | 10×3 1/2×.50 | 11×3 1/2×.48 | 11 1/2×3 1/2×.48 | 11 1/2×3 1/2×.54
+17 | 8×3×.44 | 9×3×.44 | 9 1 2 × 3 1 2 × . 46 | 10 × 3 1 2 × . 50 | 11 × 3 1 2 × . 48 | 11 1 2 × 3 1 2 × . 48 | 11 1 2 × 3 1 2 × . 54
 
-18 | ★—————— | 9×3×.44 | 9 1/2×3 1/2×.46 | 10×3 1/2×.50 | 11×3 1/2×.48 | 11 1/2×3 1/2×.48 | 12×3 1/2×.50 | 12×3 1/2×.58
+18 | 9×3×.44 | 9 1 2 × 3 1 2 × . 46 | 10 × 3 1 2 × . 50 | 11 × 3 1 2 × . 48 | 11 1 2 × 3 1 2 × . 48 | 12 × 3 1 2 × . 50 | 12 × 3 1 2 × . 58
 
-19 | 9 1/2×3 1/2×.46 | 10×3 1/2×.48 | 10 1/2×3 1/2×.48 | 11 1/2×3 1/2×.50 | 12×3 1/2×.50 | Channel 12×3 1/2×3 1/2×.46 &.62
+19 | 9 1 2 × 3 1 2 × . 46 | 10 × 3 1 2 × . 48 | 10 1 2 × 3 1 2 × . 48 | 11 1 2 × 3 1 2 × . 50 | 12 × 3 1 2 × . 50 | Channel 12 × 3 1 2 × 3 1 2 × .46 & .62
 
-20 | 10×3 1/2×.46 | 10 1/2×3 1/2×.48 | 11 1/2×3 1/2×.48 | 12×3 1/2×.52 | Channel 12×3 1/2×3 1/2×.46 &.62 | 12×4×4×.48 &.62
+20 | ★ | 10 × 3 1 2 × . 46 | 10 1 2 × 3 1 2 × . 48 | 11 1 2 × 3 1 2 × . 48 | 12 × 3 1 2 × . 52 | Channel 12 × 3 1 2 × 3 1 2 × .46 & .62 | 12×4×4× .48 & .62
 
-The ends of the stiffeners are to be riveted to the bulkhead boundary angles.
+The ends of the stiffeners are to be riveted to the bulkhead boundary angles. Sizes for intermediate lengths of stiffener and heights of bulkhead deck should be obtained by interpolation. Sizes for stiffeners are based on British Standard Sections. In the case of channel sections the upper thickness is that of the web and the lower thickness that of the flange.
 
-Sizes for intermediate lengths of stiffener and heights of bulkhead deck should be obtained by interpolation.
-
-Sizes for stiffeners are based on British Standard Sections.
-
-In the case of channel sections the upper thickness is that of the web and the lower thickness that of the flange.
-
-TABLE 4A THICKNESSES OF PLATING.
+Table 4A Thicknesses of Plating.
 
 Bulkhead Plating. | Tunnel Plating.
 
@@ -1230,7 +1218,7 @@ Above | Not Above | Above | Not Above
 
 28 | 31 | .36 | 29 | 31.5 | .42
 
-TABLE 5A SIZES OF TUNNEL STIFFENERS SPACED 36” APART. (The sizes are specified in inches).
+Table 5A Sizes of Tunnel Stiffeners spaced 36” Apart. (The sizes are specified in inches).
 
 Mean Height from Base of Tunnel to Bulkhead Deck in Feet. | Height from Base of Tunnel to top of Flat Side in Feet.
 
@@ -1396,7 +1384,7 @@ Bilge Pumping Passenger ships (Simla Rules) | 127
 
 Bilge Pumping Pipes, (Diameter of ) | 121
 
-Bilge Pumping Pipes, Made of lead not permitted where oil fuel is carried . | 269(e)
+Bilge Pumping Pipes, Made of lead not permitted where oil fuel is carried | 269(e)
 
 Bilge Pumping Power pumps to be placed in a separate compartment | 125(e)
 
@@ -1596,7 +1584,7 @@ Boiler rules Furnaces, Corrugated or ribbed, or grooved | 194
 
 Boiler rules Furnaces, Maximum thickness of | 195(a)
 
-Boiler rules Furances, Plain | 193
+Boiler rules Furnaces, Plain | 193
 
 B—Continued
 
@@ -2906,7 +2894,7 @@ Stays Tubular | 203
 
 Stays Tubular Minimum thickness of | 203(c)
 
-Stays Tubular threads, etc. | 203(b)
+Stays Tubular threads, etc | 203(b)
 
 Steam Chests hydraulic tests of | 137
 
@@ -3006,7 +2994,7 @@ Steering gear Relieving tackle | 292(b)
 
 Steering gear to be tested during machinery trials | 132, 293
 
-Stems, sternframes, etc. | 106
+Stems, stenframes, etc. | 106
 
 Steps in W.T. Bulkheads | 13(4), 20
 
@@ -3134,7 +3122,7 @@ Tanks, Oil fuel Valves, fittings and pipes to | 267
 
 Temper bend tests | { | 148(bIV), 153, 155
 
-Temporary pathes on boilers | 134
+Temporary patches on boilers | 134
 
 Tensile Tests Air bottles | 177
 
@@ -3455,3 +3443,5 @@ Wireless generator in motor boat to be surveyed | 129(b)
 Working pressure Boiler shells | 187
 
 Wrought Iron, used in construction of ships | 98
+
+(Amended E.R. 2 of 2021)

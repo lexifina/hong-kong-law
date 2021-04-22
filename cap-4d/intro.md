@@ -1,4 +1,4 @@
-HIGH COURT FEES RULES
+High Court Fees Rules
 
 (25 of 1998 s. 2)
 
@@ -6,6 +6,4 @@ HIGH COURT FEES RULES
 
 [5 February 1988]
 
-Editorial Note:
-
-The title of these Rules was amended from “Supreme Court Fees Rules” to “High Court Fees Rules” — see 25 of 1998 s. 2 (adaptation amendments retroactively made).
+(Format changes—E.R. 2 of 2021)

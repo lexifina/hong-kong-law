@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [r. 2]
 
-PROBATE JURISDICTION
+Probate Jurisdiction
 
 Fee
 

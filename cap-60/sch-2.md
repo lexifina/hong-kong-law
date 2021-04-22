@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 39]
 
-SPECIFIED BODIES
+Specified Body
 
 - 1. Tradelink Electronic Commerce Limited
 

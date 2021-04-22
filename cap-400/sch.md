@@ -2,7 +2,9 @@
 
 [s. 28B]
 
-Notice under Section 28B(1)(b) of the Noise Control Ordinance (Chapter 400) to Director or Officer of Body Corporate
+Notice under Section 28B(1)(b) of the Noise Control Ordinance (Cap. 400) to Director or Officer of Body Corporate
+
+(Amended E.R. 2 of 2021)
 
 FROM : The NOISE CONTROL AUTHORITY appointed under section 3(1) of the Noise Control Ordinance (Cap. 400)
 

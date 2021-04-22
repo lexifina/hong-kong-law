@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 4]
 
-INFORMATION TO BE CONTAINED IN NOTICE OR INFORMATION GIVEN UNDER SECTION 20B OF THE ORDINANCE
+Information to be Contained in Notice or Information Given under Section 20B of the Ordinance
+
+(Schedule 2 added L.N. 34 of 2003)
 
 - 1. In relation to the vessel, aircraft or vehicle that the article is upon—
 
@@ -32,4 +34,4 @@ INFORMATION TO BE CONTAINED IN NOTICE OR INFORMATION GIVEN UNDER SECTION 20B OF 
 
 - 8. Any condition imposed under section 20B(5) of the Ordinance.
 
-- 9. The name and rank of the officer giving the notice or information (as the case may be), and the date on which and time at which the notice or information is given. (Schedule 2 added L.N. 34 of 2003)
+- 9. The name and rank of the officer giving the notice or information (as the case may be), and the date on which and time at which the notice or information is given.

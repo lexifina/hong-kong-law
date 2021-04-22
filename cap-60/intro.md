@@ -3,3 +3,5 @@ To provide for the regulation and control of the import of articles into Hong Ko
 (Amended 22 of 1991 s. 2)
 
 [1 January 1972] L.N. 180 of 1971
+
+(Format changes—E.R. 2 of 2021)

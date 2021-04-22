@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 3]
 
-INFORMATION TO BE CONTAINED IN NOTICE OR NOTIFICATION GIVEN UNDER SECTION 20A OF THE ORDINANCE
+Information to be Contained in Notice or Notification Given under Section 20A of the Ordinance
+
+(Schedule 1 replaced L.N. 34 of 2003)
 
 - 1. In relation to the vessel, aircraft or vehicle that the article is upon—
 
@@ -28,4 +30,4 @@ INFORMATION TO BE CONTAINED IN NOTICE OR NOTIFICATION GIVEN UNDER SECTION 20A OF
 
 - 6. The place designated by the owner for the purposes of section 20A(2)(a) of the Ordinance, and the name of the occupier of that place.
 
-- 7. The name and rank of the officer giving the notice or notification (as the case may be), and the date on which and time at which the notice or notification is given. (Schedule 1 replaced L.N. 34 of 2003)
+- 7. The name and rank of the officer giving the notice or notification (as the case may be), and the date on which and time at which the notice or notification is given.

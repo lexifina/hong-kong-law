@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [r. 2]
 
-COMMENCEMENT OF A CAUSE OR MATTER
+Commencement of a Cause or Matter
 
 Fee
 
@@ -24,7 +24,7 @@ $ | 1,045.00
 
 (but no fee is payable on sealing of an originating document by which proceedings are instituted pursuant to leave granted under section 27A of the Ordinance) (L.N. 154 of 2008)
 
-ENTRY OR SETTING DOWN FOR TRIAL IN COURT
+Entry or Setting Down for Trial in Court
 
 2. | (a) | Setting down a cause or issue for hearing;
 
@@ -36,7 +36,7 @@ In each case
 
 $ | 1,045.00
 
-TAKING EVIDENCE, ETC.
+Taking Evidence, etc.
 
 3. | For every witness examined de bene esse by a judge or the Registrar, per day or part thereof | $ | 880.00
 
@@ -52,7 +52,7 @@ TAKING EVIDENCE, ETC.
 
 7. | Attendance by the Registrar or officer outside the High Court (25 of 1998 s. 2) | $ | 1,045.00
 
-COPIES, TRANSLATIONS AND SEARCHES
+Copies, Translations and Searches
 
 8. | (a) | Copy of documents typed in the Registry and certifying same, per page | $ | 36.00
 
@@ -76,7 +76,7 @@ COPIES, TRANSLATIONS AND SEARCHES
 
 12. | Search in the Registry, for each document or file referred to or required | $ | 18.00
 
-SERVICE
+Service
 
 13. | Service of a document by a bailiff, per document | $ | 110.00
 
@@ -84,7 +84,7 @@ SERVICE
 
 15. | Execution of writ of possession | $ | 1,045.00
 
-EXECUTION
+Execution
 
 16. | On sealing—
 
@@ -102,7 +102,7 @@ EXECUTION
 
 $ | 1,045.00
 
-BAILIFF’S EXPENSES
+Bailiff’s Expenses
 
 17. | (a) | Watchman’s fee, per day or part thereof | $ | 330.00
 
@@ -110,7 +110,7 @@ BAILIFF’S EXPENSES
 
 18. | Caretaker or watchman’s transportation expenses | Actual expenditure plus 20% thereof being administrative charges (L.N. 364 of 1992)
 
-TAXATION OF COSTS
+Taxation of Costs
 
 19. | On the filing of a notice of commencement of taxation under Order 62, rule 21(1) of the Rules of the High Court (Cap. 4 sub. leg. A) or on any assessment or determination of costs pursuant to any court order or Ordinance (except assessment under Order 62, rule 9 or 9A of the Rules of the High Court (Cap. 4 sub. leg. A)), for every $100 or fraction of $100 of the amount claimed— (L.N. 154 of 2008)
 
@@ -124,7 +124,7 @@ TAXATION OF COSTS
 
 19a. | Withdrawal of a bill of costs within 7 days after the application for setting down the taxation under Order 62, rule 21A(1) of the Rules of the High Court (Cap. 4 sub. leg. A) is made (L.N. 154 of 2008) | 10% of the taxing fee which would be payable if the bill was to be allowed in full or $1,000 whichever is the less (L.N. 345 of 1989)
 
-MISCELLANEOUS FEES
+Miscellaneous Fees
 
 20. | On the sale of a ship or goods in an admiralty case, for every $1,500 or part thereof of the price | $ | 15.00
 

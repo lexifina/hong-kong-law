@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2 & 39]
 
-SPECIFIED AGENTS
+Specified Agents
 
 - 1. Tradelink Electronic Commerce Limited
 
