@@ -4,6 +4,10 @@ s-002.md
 s-003.md
 s-004.md
 s-005.md
+s-005A.md
+s-005B.md
+s-005C.md
+s-005D.md
 s-006.md
 s-007.md
 s-008.md
