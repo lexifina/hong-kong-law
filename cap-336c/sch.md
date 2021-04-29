@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [rules 2, 8 & 9] (L.N. 17 of 2009)
 
