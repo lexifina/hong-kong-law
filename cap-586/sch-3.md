@@ -24,7 +24,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - II.
 
-    - “Appropriate and acceptable destination” (適當和可接受的目的地) Where the term “appropriate and acceptable destination” appears in an annotation to the listing of a species in Appendix II with reference to the export of or international trade in live animals, this term shall be defined to mean a destination where the relevant authority of the place of import is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for it and the relevant authorities of the place of import and the place of export are satisfied that the trade would promote in situ conservation. (Amended L.N. 114 of 2018)
+    - “Appropriate and acceptable destination” (適當和可接受的目的地) Where the term “appropriate and acceptable destination” appears in an annotation to the listing of a species in Appendix II with reference to the export of or international trade in live animals, this term shall be defined to mean a destination where the relevant authority of the place of import is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for it sustainably and the relevant authorities of the place of import and the place of export are satisfied that the trade would promote in situ conservation. (Amended L.N. 114 of 2018; L.N. 22 of 2021)
 
   - III.
 
@@ -64,31 +64,31 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - 3. Plants grown from cuttings or divisions shall be considered to be artificially propagated only if the traded specimens do not contain any material collected from the wild.
 
-  - 4. An exception may be granted and specimens deemed to be artificially propagated if grown from wild-collected seeds or spores only if, for the taxon involved—
+  - 4. For the populations of Appendix I species, despite paragraphs 2 and 3 of this item, specimens are to be treated as artificially propagated if, for the taxon involved— (Amended L.N. 22 of 2021)
 
     - (a)
 
       - (i) establishment of a cultivated parental stock presents significant difficulties in practice because specimens take a long time to reach reproductive age, as for many tree species;
 
-      - (ii) the seeds or spores are collected from the wild and grown under controlled conditions within a range state, which must also be the place of origin of the seeds or spores;
+      - (ii) the propagules are collected from the wild and grown under controlled conditions within a range state, which must also be the place of origin of the propagules;
 
-      - (iii) the relevant authority of that range state has determined that the collection of seeds or spores was legal and consistent with relevant domestic laws for the protection and conservation of the species; and
+      - (iii) the relevant authority of that range state has determined that the collection of propagules was legal and consistent with relevant domestic laws for the protection and conservation of the species; and
 
       - (iv) the relevant authority of that range state has determined that—
 
-        - (A) collection of the seeds or spores was not detrimental to the survival of the species in the wild; and
+        - (A) collection of the propagules was in a manner not detrimental to the survival of the species in the wild and in accordance with Resolution Conf. 16.7 (Rev. CoP17) on non-detrimental findings; and
 
         - (B) allowing trade in such specimens has a positive effect on the conservation of wild populations;
 
     - (b) at a minimum, to comply with subparagraph (a)(iv)(A) and (B) above—
 
-      - (i) collection of seeds or spores for this purpose is limited in such a manner such as to allow regeneration of the wild population;
+      - (i) collection of propagules for this purpose is limited in such a manner such as to allow regeneration of the wild population;
 
-      - (ii) a portion of the plants produced under such circumstances is used to establish plantations to serve as cultivated parental stock in the future and become an additional source of seeds or spores and thus reduce or eliminate the need to collect seeds or spores from the wild; and (Amended L.N.36 of 2011)
+      - (ii) a portion of the plants produced under such circumstances is used to establish plantations to serve as cultivated parental stock in the future and become an additional source of propagules and thus reduce or eliminate the need to collect propagules from the wild; and (Amended L.N.36 of 2011)
 
-      - (iii) a portion of the plants produced under such circumstances is used for replanting in the wild, to enhance recovery of existing populations or to re-establish populations that have been extirpated; and
+      - (iii) if appropriate, a portion of the plants produced under such circumstances is used for replanting in the wild, to enhance recovery of existing populations or to re-establish populations that have been extirpated; and
 
-    - (c) in the case of operations propagating Appendix I species for commercial purposes under such conditions they are registered with the Secretariat.
+    - (c) in the case of operations propagating Appendix I species for commercial purposes under such conditions they are registered with the Secretariat. (Amended L.N. 22 of 2021)
 
 - Regarding grafted plants
 
@@ -206,6 +206,28 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
       - “live coral” means pieces of coral identifiable to the level of species or genus, which are alive and transported in water.
 
+  - VI.
+
+    - “Assisted production” (輔助繁殖)
+
+- (Added L.N. 22 of 2021)
+
+  - 1. The term “assisted production” is to be interpreted to refer to a way of producing a plant specimen that—
+
+    - (a) is not artificially propagated; and
+
+    - (b) is considered not to be wild because it is propagated or planted in an environment with some level of human intervention for the purpose of plant production. (Added L.N. 22 of 2021)
+
+  - 2. Propagation material used to produce plant specimens from assisted production can be derived from—
+
+    - (a) plant material that is exempt from the Convention;
+
+    - (b) artificially propagated plants;
+
+    - (c) plants grown in an environment with some level of human intervention; or
+
+    - (d) plant material collected sustainably from wild populations in accordance with the Convention and relevant domestic laws and in a manner not detrimental to the survival of the species in the wild. (Added L.N. 22 of 2021)
+
 - PART 2 PERMITS AND CERTIFICATES Regarding standardization of permits and certificates issued under the Convention
 
   - 1. To fulfil the requirements of Article VI of the Convention and relevant Resolutions, export and import permits, re-export and pre-Convention certificates, certificates of origin and certificates of captive breeding and artificial propagation (except where phytosanitary certificates are used for this purpose) shall include all the information specified in the Annex.
@@ -298,9 +320,11 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (b) the relevant authority issuing the permit or certificate can show it is well justified and has communicated the justification to the Secretariat;
 
-    - (c) certain manufactured products contain pre-Convention specimens that cannot be identified to the species level; or
+    - (c) certain manufactured products contain pre-Convention specimens that cannot be identified to the species level; (Amended L.N. 22 of 2021)
 
-    - (d) worked skins or pieces thereof of Tupinambis species that were imported before 1 August 2000 are being re-exported, in which case it is sufficient to use the indication Tupinambis spp.
+    - (d) worked skins or pieces thereof of Tupinambis species that were imported before 1 August 2000 are being re-exported, in which case it is sufficient to use the indication Tupinambis spp.; or (Amended L.N. 22 of 2021)
+
+    - (e) the species is unknown and the permit or certificate is for a biological sample of the type and size and for the use specified in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18), in which case it is sufficient to use the scientific name of the genus or family. (Added L.N. 22 of 2021)
 
 - Regarding documents for sample collection covered by ATA (which means “temporary admission”) carnets
 
@@ -380,10 +404,10 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
 - (n) | In the case of a certificate of origin, a statement that the specimens originate in the place that issued the certificate.
 
-- PART 3 REQUIREMENTS RELATING TO EXEMPTION FOR NON-COMMERCIAL LOAN, DONATION OR EXCHANGE OF MUSEUM AND HERBARIUM SPECIMENS For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens, frozen museum specimens, duplicate herbarium specimens or live plant material or the container used to transport such specimens carry a label issued or approved by a relevant authority shall be met if the label—
+- PART 3 REQUIREMENTS RELATING TO EXEMPTION FOR NON-COMMERCIAL LOAN, DONATION OR EXCHANGE OF MUSEUM AND HERBARIUM SPECIMENS, ETC. (Amended L.N. 22 of 2021) For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material, or the container used to transport such specimens, samples or material, carry a label issued or approved by a relevant authority shall be met if the label— (Amended L.N. 22 of 2021)
 
   - (a) bears the acronym “CITES”;
 
-  - (b) identifies the contents as herbarium specimens, preserved, dried or embedded museum specimens, frozen museum specimens, duplicate herbarium specimens or live plant material for scientific study; and
+  - (b) identifies the specimens, samples, material or contents of the container as herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material (as the case may be) for scientific study, for forensic analysis or for diagnostic purposes; and (Replaced L.N. 22 of 2021)
 
   - (c) sets out the name and address of the sending institution and the codes of the exporting and importing institutions over the signature of a responsible officer of that registered scientific institution.
