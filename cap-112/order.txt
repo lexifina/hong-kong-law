@@ -224,6 +224,8 @@ s-039E.md
 s-040.md
 s-040A.md
 s-040AB.md
+s-040AC.md
+s-040AD.md
 s-040B.md
 s-041.md
 s-042.md
@@ -428,6 +430,7 @@ sch-16.md
 sch-16A.md
 sch-16B.md
 sch-16C.md
+sch-16D.md
 sch-17.md
 sch-17A.md
 sch-17B.md
