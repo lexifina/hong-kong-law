@@ -1,12 +1,12 @@
-# SCHEDULE
+* The Agreement between the Government of Hong Kong and the Swiss Federal Council concerning Air Services was established in a single original in the English and French languages. Both the English and French language texts of the Agreement are available for inspection at the Transport and Housing Bureau of the Government of the HKSAR. (L.N. 130 of 2007)
+
+# Schedule
 
 [s. 2]
 
-ARTICLE 10 BIS OF THE AGREEMENT BETWEEN THE GOVERNMENT OF HONG KONG AND THE SWISS FEDERAL COUNCIL CONCERNING AIR SERVICES
+Article 10 bis of the Agreement between the Government of Hong Kong and the Swiss Federal Council concerning Air Services
 
-Article 10 bis
-
-Avoidance of Double Taxation
+ARTICLE 10 bis Avoidance of Double Taxation
 
 - (1) Income or profits derived from the operation of aircraft in international traffic by an airline of one Contracting Party, including participation in a pool service, a joint business or an international operating agency, shall be taxable only in that Contracting Party.
 
