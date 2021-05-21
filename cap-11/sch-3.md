@@ -2,8 +2,6 @@
 
 [s. 17] (Amended 123 of 1997 s. 18)
 
-- Part I Oaths to be Administered by the Chief Executive (Amended 123 of 1997 s. 18)
-
 - Chief Justice (Added 79 of 1995 s. 50)
 
 - Permanent judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
@@ -17,8 +15,6 @@
 - Justice of Appeal (Added 26 of 1997 s. 7)
 
 - Judge of the Court of First Instance (other than a recorder of the Court of First Instance appointed under section 6A of the High Court Ordinance (Cap. 4) or a deputy judge of the Court of First Instance appointed under section 10(1) of that Ordinance). (Amended 27 of 1999 s. 3)
-
-- Part II Oaths to be Administered by a Judge of the Court of First Instance
 
 - Recorder of the Court of First Instance
 
@@ -49,6 +45,8 @@
 - Temporary Member, Lands Tribunal (Added 21 of 1999 s. 20)
 
 - Deputy Coroner (Added 21 of 1999 s. 20)
+
+- (Amended 13 of 2021 s. 13)
 
 - Part III (Repealed 123 of 1997 s. 18)
 

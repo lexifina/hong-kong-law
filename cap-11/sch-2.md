@@ -26,6 +26,14 @@
 
 - (name of person making the oath)
 
+- Part IVA The District Council Oath
+
+- I swear that, being a member of the ________________ District Council of the Hong Kong Special Administrative Region of the People’s Republic of China, I will uphold the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China, bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China and serve the Hong Kong Special Administrative Region conscientiously, dutifully, in full accordance with the law, honestly and with integrity.
+
+- (name of person making the oath)
+
+- (Part IVA added 13 of 2021 s. 12)
+
 - Part V The Judicial Oath
 
 - I swear that, in the Office of a Judge/a judicial officer of the Judiciary of the Hong Kong Special Administrative Region of the People’s Republic of China, I will uphold the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China, bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China, serve the Hong Kong Special Administrative Region conscientiously, dutifully, in full accordance with the law, honestly and with integrity, safeguard the law and administer justice without fear or favour, self-interest or deceit.
