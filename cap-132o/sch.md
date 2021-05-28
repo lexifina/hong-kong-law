@@ -116,7 +116,7 @@
 
 - 57. The first and second floors, 1 Yung Shue Wan Main Street, Lamma Island. (L.N. 192 of 2018)
 
-- 58. Shop 1, Block 20, Ground Floor, Sha Tau Kok Chuen, New Territories.
+- 58. Shop No. 3, the ground floor of Ying Hoi House, Sha Tau Kok Chuen, 23 Shun Hing Street, Sha Tau Kok, New Territories. (L.N. 38 of 2021)
 
 - 59. The first floor of Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Kwun Tong, Kowloon. (L.N. 145 of 2008)
 
