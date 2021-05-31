@@ -1,21 +1,3 @@
 # Schedule
 
-[s. 2]
-
-Distribution of Number of Members Among Designated Bodies
-
-Item | Designated body | Number of members
-
-1. | Catholic Diocese of Hong Kong | 10
-
-2. | Chinese Muslim Cultural and Fraternal Association | 10
-
-3. | Hong Kong Christian Council | 10
-
-4. | The Hong Kong Taoist Association | 10
-
-5. | The Confucian Academy | 10
-
-6. | The Hong Kong Buddhist Association | 10
-
-(1 of 2011 s. 18)
+(Repealed 14 of 2021 s. 469)

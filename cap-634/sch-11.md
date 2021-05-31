@@ -66,16 +66,20 @@ Related Amendments
 
   - (Not yet in operation)
 
-  - Section 20O— Repeal paragraph (b) Substitute
+  - Section 20O(a)— Repeal subparagraph (i) Substitute
 
-    - “(b) persons holding travel agent licences under the Travel Industry Ordinance (37 of 2018);”.
+    - “(i) licensed travel agents as defined by section 2(1) of the Travel Industry Ordinance (Cap. 634); and”.
+
+  - (Replaced 14 of 2021 s. 475)
 
 - Part 8 Amendment to Chief Executive Election Ordinance (Cap. 569)
 
-  - 8. Schedule, section 2 amended (how Election Committee is to be constituted)
+  - 8. Schedule, section 39P amended (specified entities of the tourism subsector)
 
   - (Not yet in operation)
 
-  - The Schedule, section 2, Table 5, item 2, column 3— Repeal paragraph (1) Substitute
+  - The Schedule, section 39P(a)— Repeal subparagraph (i) Substitute
 
-  - “(1) | Persons holding travel agent licences under the Travel Industry Ordinance (37 of 2018).”.
+    - “(i) is a licensed travel agent as defined by section 2(1) of the Travel Industry Ordinance (Cap. 634); and”.
+
+  - (Replaced 14 of 2021 s. 475)

@@ -1,6 +1,10 @@
 # Schedule
 
-[ss. 2, 8, 16, 26, 43 & 47]
+[ss. 2, 8, 9B, 16, 26, 43 & 47]
+
+(Amended 14 of 2021 s. 405)
+
+(See Special Remarks)
 
 Election Committee
 
@@ -8,27 +12,41 @@ Election Committee
 
   - 1. Interpretation
 
+  - (See Special Remarks)
+
     - (1) In this Schedule—
 
       - body (團體) means an incorporated or unincorporated body, and includes a firm or a group of persons (which may include incorporated or unincorporated bodies) who are associated with each other through a shared relevant interest;
 
       - corporate member (團體成員), in relation to a body included in a subsector, means a body that is a member of the body so included;
 
+      - CPPCC member (全國政協委員) means a Hong Kong Special Administrative Region member of the National Committee of the Chinese People’s Political Consultative Conference; (Added 14 of 2021 s. 406)
+
+      - designated body (指定團體), in relation to a subsector, means a body designated for the subsector in Division 1 of Part 3 for the purposes of section 2(5)(b); (Added 14 of 2021 s. 406)
+
+      - designated person (指定人士), in relation to a specified person, means a person designated by the specified person under section 5J(3); (Added 14 of 2021 s. 406)
+
       - elector (選民), in relation to a functional constituency or geographical constituency, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
 
       - Electoral Registration Officer (選舉登記主任) means the person holding office as Electoral Registration Officer under section 44, and includes any person appointed to act in place of the Officer when the Officer is absent or when the office is vacant;
 
-      - ex-officio member (當然委員), in relation to the Election Committee, means a member of that Committee referred to in section 2(7)(c);
+      - ex-officio member (當然委員), in relation to the Election Committee, means a person who is registered as an ex-officio member of the Election Committee in, and whose name has not been removed from, the final register of members of the Election Committee; (Added 14 of 2021 s. 406)
 
       - functional constituency (功能界別) means a functional constituency specified in section 20(1) of the Legislative Council Ordinance (Cap. 542);
 
       - geographical constituency (地方選區) means an area declared to be a geographical constituency in accordance with Part 3 of the Legislative Council Ordinance (Cap. 542);
 
+      - Hong Kong and Kowloon District Committees subsector (港九地區委員會界別分組) means the representatives of members of Area Committees, District Fight Crime Committees, and District Fire Safety Committees of Hong Kong and Kowloon subsector; (Added 14 of 2021 s. 406)
+
       - interim register of members of the Election Committee (選舉委員會暫行委員登記冊) means a register published under section 40(1); (Added 10 of 2006 s. 21)
 
       - Member (議員), in relation to the Legislative Council, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
 
-      - name (名稱), in relation to a subsector, is to be construed by reference to its description under the column headed “subsector” in Table 1, 2, 3 or 4 in section 2, as may be applicable;
+      - New Territories District Committees subsector (新界地區委員會界別分組) means the representatives of members of Area Committees, District Fight Crime Committees, and District Fire Safety Committees of the New Territories subsector; (Added 14 of 2021 s. 406)
+
+      - NPC and CPPCC subsector (人大政協界界別分組) means the Hong Kong Special Administrative Region deputies to the National People’s Congress and Hong Kong Special Administrative Region members of the National Committee of the Chinese People’s Political Consultative Conference subsector; (Added 14 of 2021 s. 406)
+
+      - NPC deputy (全國人大代表) means a Hong Kong Special Administrative Region deputy to the National People’s Congress; (Added 14 of 2021 s. 406)
 
       - officer (高級人員), in relation to a body corporate, includes a director or executive, or any other person concerned in the management, of the body;
 
@@ -38,27 +56,25 @@ Election Committee
 
       - Revising Officer (審裁官) means a Revising Officer appointed under section 46, and includes any person appointed to act in place of the Officer when the Officer is absent or when the office of Revising Officer is vacant;
 
+      - specified entity (指明實體), in relation to a subsector, means a person or body specified for the subsector in Division 5 of Part 4 for the purposes of section 2(5)(c); (Added 14 of 2021 s. 406)
+
+      - specified office (指明職位), in relation to a subsector, means an office specified for the subsector in Division 1 of Part 2A for the purposes of section 2(5)(a); (Added 14 of 2021 s. 406)
+
+      - specified person (指明人士), in relation to a subsector, means a person holding a specified office of the subsector; (Added 14 of 2021 s. 406)
+
       - subsector (界別分組) means, subject to section 11, a subsector represented on the Election Committee as provided by section 2(4);
 
-      - subsector by-election (界別分組補選) means an election to elect a member of the Election Committee assigned to a subsector who, under section 2(7)(b), is to be elected by the relevant subsector, otherwise than at a subsector ordinary election;
+      - subsector by-election (界別分組補選) means an election to elect a member of the Election Committee assigned to a subsector who, under section 2(7)(c), is to be elected by the relevant subsector, otherwise than at a subsector ordinary election; (Amended 14 of 2021 s. 406)
 
       - subsector election (界別分組選舉) means a subsector ordinary election or a subsector by-election;
 
-      - subsector ordinary election (界別分組一般選舉) means an election to elect those members of the Election Committee assigned to a subsector who, under section 2(7)(b), are to be elected by the relevant subsector, for a new term of office of the Election Committee;
-
-      - sub-subsector (小組) means a sub-subsector referred to in section 2(9)(a);
-
-      - sub-subsector by-election (小組補選) means an election to elect a member of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), is to be elected by the sub-subsector, otherwise than at a sub-subsector ordinary election;
-
-      - sub-subsector ordinary election (小組一般選舉) means an election to elect those members of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), are to be elected by the sub-subsector, for a new term of office of the Election Committee;
+      - subsector ordinary election (界別分組一般選舉) means an election to elect those members of the Election Committee assigned to a subsector who, under section 2(7)(c), are to be elected by the relevant subsector, for a new term of office of the Election Committee; (Amended 14 of 2021 s. 406)
 
       - the regulations (《規例》) means regulations made under section 46 of this Ordinance.
 
-    - (2) In this Schedule, unless the context otherwise requires, in respect of the sports, performing arts, culture and publication subsector—
+    - (Amended 14 of 2021 s. 406)
 
-      - (a) all references to “subsector”, “subsector by-election” and “subsector ordinary election” mean “sub-subsector”, “sub-subsector by-election” and “sub-subsector ordinary election” respectively and with any necessary modifications; and
-
-      - (b) all references to “subsector election” mean “sub-subsector ordinary election” or “sub-subsector by-election” with any necessary modifications.
+    - (2) (Repealed 14 of 2021 s. 406)
 
     - (3) For the purposes of this Schedule—
 
@@ -70,61 +86,9 @@ Election Committee
 
         - (ii) a corporate member of a body referred to in subparagraph (i).
 
-    - (4) For the purposes of this Schedule, a reference to an entitlement to vote at a general meeting of a body is a reference to an entitlement to vote at such a meeting as provided by the body’s constitution and, in this subsection—
+    - (4) In this Schedule, unless otherwise stated, a reference to a Part or section is a reference to a Part or section of this Schedule. (Replaced 14 of 2021 s. 406)
 
-      - (a) the reference to the constitution of a body is a reference to the constitution either—
-
-        - (i) as in force on 3 October 1997; or
-
-        - (ii) as subsequently amended or substituted, but only if the amendment or substitution, in so far as it relates to—
-
-          - (A) the objects of the body;
-
-          - (B) the criteria and conditions of membership of the body; or
-
-          - (C) the eligibility of members of the body to vote at a general meeting of the body,
-
-        - has been approved in writing by the Secretary for Constitutional and Mainland Affairs; and (Amended L.N. 130 of 2007)
-
-      - (b)
-
-        - constitution (章程), in relation to a body, includes articles of association and rules.
-
-    - (5) In column 3 of Table 4 in section 2—
-
-      - (aa) elected member (民選議員) means a person who is elected to be an elected member under Part V of the District Councils Ordinance (Cap. 547); (Added 1 of 2011 s. 8)
-
-      - (a)
-
-        - Hong Kong and Kowloon District Councils (港九各區議會), in relation to the subsector specified in item 5 of that Table, means the District Councils specified in items 1 to 9 of Schedule 2 to the District Councils Ordinance (Cap. 547); and
-
-      - (b)
-
-        - New Territories District Councils (新界各區議會), in relation to the subsector specified in item 6 of that Table, means the District Councils specified in items 10 to 18 of Schedule 2 to the District Councils Ordinance (Cap. 547).
-
-    - (6) In item 8 of Table 5 in section 2—
-
-      - (a)
-
-        - non-profit making company (非牟利公司) means a company formed for the purpose of promoting the aims specified in paragraph (4)(a), (b) or (c) opposite to that item in column 3 of that Table, that is required by its constitution to apply its profits, if any, or other income solely in promoting those aims and to prohibit the payment of any dividend to its members; and
-
-      - (b)
-
-        - social service (社會服務) means the provision of any one or more of the following services for the benefit of the community—
-
-          - (i) family and child welfare services;
-
-          - (ii) services for young people;
-
-          - (iii) services for the elderly;
-
-          - (iv) services for offenders;
-
-          - (v) rehabilitation services;
-
-          - (vi) community development;
-
-          - (vii) social security.
+    - (5)-(6) (Repealed 14 of 2021 s. 406)
 
   - 1A. Effect of inclement weather warning on date and period (Amended 15 of 2016 s. 27)
 
@@ -168,313 +132,169 @@ Election Committee
 
   - 2. How Election Committee is to be constituted
 
-    - (1) The Election Committee is to consist of 1 200 members, who must be Hong Kong permanent residents. (Amended 1 of 2011 s. 9)
+  - (See Special Remarks)
 
-    - (2) The membership of the Election Committee (other than ex-officio members) is to be determined in accordance with the procedures specified in this Schedule.
+    - (1) The Election Committee is to consist of 1 500 members, who must be Hong Kong permanent residents. (Amended 1 of 2011 s. 9)
 
-    - (3) The members of the Election Committee are to be representative of 4 sectors, with each sector being represented by 300 members. (Amended 1 of 2011 s. 9)
+    - (2) The membership of the Election Committee is to be determined in accordance with the procedures specified in this Schedule.
 
-    - (4) The sectors are to be composed of the subsectors specified in Tables 1, 2, 3 and 4.
+    - (3) The members of the Election Committee are to be representative of 5 sectors, with each sector being represented by 300 members. (Amended 1 of 2011 s. 9)
 
-    - (5) The composition of the subsectors is as follows—
+    - (4) The sectors are to be composed of the subsectors specified in Tables 1, 2, 3, 4 and 5.
 
-      - (a) except in the case of the higher education and education subsectors, the social welfare subsector and the tourism and hotel subsectors, the composition of a subsector specified in Table 1, 2 or 3 which has the same name as that of a functional constituency is to be the same as that of the functional constituency;
+    - (5) Each subsector is to be composed of—
 
-      - (b) each of the subsectors specified in column 2 of Table 4 is to be composed of the persons described in column 3 of that Table in relation to the subsector;
+      - (a) if the number specified in column 3 of the relevant Table opposite to that subsector is not 0—the specified persons of that subsector;
 
-      - (c) the Hong Kong Chinese Enterprises Association, tourism, hotel, Chinese medicine, higher education, education, Employers’ Federation of Hong Kong and social welfare subsectors are to be composed as shown in Table 5; and
+      - (b) if the number specified in column 4 of the relevant Table opposite to that subsector is not 0—the designated bodies of that subsector; and
 
-      - (d) the religious subsector is to be composed as described in Part 3.
+      - (c) if the number specified in column 5 of the relevant Table opposite to that subsector is not 0—the specified entities of that subsector. (Replaced 14 of 2021 s. 407)
 
-    - (6) Subject to subsection (7), for the purpose of constituting the Election Committee, each subsector is allocated the number of members specified in the relevant Table in respect of the subsector.
+    - (6) Subject to subsection (7), for the purpose of constituting the Election Committee, each subsector is allocated the number of members specified in columns 3, 4 and 5 of the relevant Table in respect of the subsector.
 
     - (7) The Election Committee is constituted in the following manner—
 
-      - (a) the number of members allocated to the religious subsector is to be nominated by that subsector in accordance with Part 3;
+      - (a) subject to subsection (8), in relation to a subsector specified in column 2 of a Table, the number specified in column 3 of the Table opposite to the subsector is the number of members to be filled by the persons registered in accordance with Part 2A as ex-officio members of the subsector;
 
-      - (b) subject to subsection (9), the number of members allocated to the subsectors specified in Tables 1, 2 and 3 (except those allocated to the religious subsector), and items 3, 4, 5 and 6 of Table 4 are to be elected by the relevant subsectors in accordance with Part 4; and
+      - (b) in relation to a subsector specified in column 2 of a Table, the number specified in column 4 of the Table opposite to the subsector is the number of members to be nominated by the designated bodies of the subsector in accordance with Part 3;
 
-      - (c) subject to subsection (8), the number of members allocated to the subsector specified—
+      - (c) subject to subsection (8), in relation to a subsector specified in column 2 of a Table, the number specified in column 5 of the Table opposite to the subsector is the number of members to be elected by the specified entities of the subsector in accordance with Part 4. (Replaced 14 of 2021 s. 407)
 
-        - (i) in item 1 of Table 4 is to be filled by the persons holding office as Hong Kong deputies to the National People’s Congress; and
+    - (8) Despite subsection (7), for the purpose of constituting a new term of office of the Election Committee, if 1 NPC deputy or CPPCC member chooses, in accordance with section 5I(4), to be registered as a member of a subsector (relevant subsector) other than the NPC and CPPCC subsector, and the registration is determined as valid under section 5N—
 
-        - (ii) in item 2 of Table 4 is to be filled by the persons holding office as the Members of the Legislative Council,
+      - (a) the number of members to be filled in relation to the relevant subsector under subsection (7)(a) is to be increased by 1 for that term of office; and
 
-      - who are registered as ex-officio members of the Election Committee in, and whose names have not been removed from, the final register of members of the Election Committee.
+      - (b) the number of members to be elected by the relevant subsector under subsection (7)(c) is to be decreased by 1 for that term of office. (Replaced 14 of 2021 s. 407)
 
-    - (8) Subject to section 41, the Electoral Registration Officer shall, in compiling an interim register of members of the Election Committee under section 40(1) after the publication of results of the subsector ordinary elections, register— (Amended 10 of 2006 s. 21)
+    - (9) For the purpose of constituting a new term of office of the Election Committee, the Chief Electoral Officer must publish a notice in the Gazette in accordance with the EAC Regulations declaring—
 
-      - (a) the persons holding office on the date of those subsector ordinary elections (or the last of those dates, if different dates are specified for those subsector ordinary elections) as Hong Kong deputies to the National People’s Congress; and
+      - (a) the number of NPC deputies or CPPCC members whose registrations are determined as valid in each subsector for that term of office; and
 
-      - (b) the persons holding office on the date of those subsector ordinary elections (or the last of those dates, if different dates are specified for those subsector ordinary elections) as the Members of the Legislative Council,
+      - (b) the number of members to be elected by each subsector in accordance with Part 4 for that term of office. (Replaced 14 of 2021 s. 407)
 
-    - (except those persons who are not Hong Kong permanent residents) as ex-officio members of the Election Committee, in accordance with the EAC Regulations.
+    - (10) To avoid doubt, the numbers declared under subsection (9) must remain unchanged for that term of office of the Election Committee. (Added 14 of 2021 s. 407)
 
-    - (9)
-
-      - (a) Subject to paragraph (b), the number of members allocated to the sports, performing arts, culture and publication subsector is to be divided equally among the 4 sub-subsectors constituting that subsector, namely sports, performing arts, culture and publication sub-subsectors.
-
-      - (b) If the number of members cannot be allocated equally as an integer, the sub-subsectors are to be allocated the largest possible integer, and the remaining number is to be allocated according to the number of voters of the sub-subsectors such that the sub-subsector having the greatest number of voters is allocated a seat first until all the seats are allocated.
+  - (Amended 14 of 2021 s. 407)
 
   - Table 1 First Sector
 
-  - Item | Subsector | Number of members
+  - Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-  - 1. | Catering | 17
+  - Item | Subsector | Number of ex-officio members | Number of members to be nominated | Number of members to be elected
 
-  - 2. | Commercial (first) | 18
+  - 1. | Catering | 0 | 0 | 16
 
-  - 3. | Commercial (second) | 18
+  - 2. | Commercial (first) | 0 | 0 | 17
 
-  - 4. | Employers’ Federation of Hong Kong | 16
+  - 3. | Commercial (second) | 0 | 0 | 17
 
-  - 5. | Finance | 18
+  - 4. | Commercial (third) | 0 | 0 | 17
 
-  - 6. | Financial services | 18
+  - 5. | Employers’ Federation of Hong Kong | 0 | 0 | 15
 
-  - 7. | Hong Kong Chinese Enterprises Association | 16
+  - 6. | Finance | 0 | 0 | 17
 
-  - 8. | Hotel | 17
+  - 7. | Financial services | 0 | 0 | 17
 
-  - 9. | Import and export | 18
+  - 8. | Hotel | 0 | 0 | 16
 
-  - 10. | Industrial (first) | 18
+  - 9. | Import and export | 0 | 0 | 17
 
-  - 11. | Industrial (second) | 18
+  - 10. | Industrial (first) | 0 | 0 | 17
 
-  - 12. | Insurance | 18
+  - 11. | Industrial (second) | 0 | 0 | 17
 
-  - 13. | Real estate and construction | 18
+  - 12. | Insurance | 0 | 0 | 17
 
-  - 14. | Textiles and garment | 18
+  - 13. | Real estate and construction | 0 | 0 | 17
 
-  - 15. | Tourism | 18
+  - 14. | Small and medium enterprises | 0 | 0 | 15
 
-  - 16. | Transport | 18
+  - 15. | Textiles and garment | 0 | 0 | 17
 
-  - 17. | Wholesale and retail | 18
+  - 16. | Tourism | 0 | 0 | 17
 
-  - (Amended 1 of 2011 s. 9)
+  - 17. | Transport | 0 | 0 | 17
+
+  - 18. | Wholesale and retail | 0 | 0 | 17
+
+  - (Replaced 14 of 2021 s. 407)
 
   - Table 2 Second Sector
 
-  - Item | Subsector | Number of members
+  - Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-  - 1. | Accountancy | 30
+  - Item | Subsector | Number of ex-officio members | Number of members to be nominated | Number of members to be elected
 
-  - 2. | Architectural, surveying, planning and landscape | 30
+  - 1. | Accountancy | 0 | 15 | 15
 
-  - 3. | Chinese medicine | 30
+  - 2. | Architectural, surveying, planning and landscape | 15 | 0 | 15
 
-  - 4. | Education | 30
+  - 3. | Chinese medicine | 0 | 15 | 15
 
-  - 5. | Engineering | 30
+  - 4. | Education | 16 | 0 | 14
 
-  - 6. | Health services | 30
+  - 5. | Engineering | 15 | 0 | 15
 
-  - 7. | Higher education | 30
+  - 6. | Legal | 6 | 9 | 15
 
-  - 8. | Information technology | 30
+  - 7. | Medical and health services | 15 | 0 | 15
 
-  - 9. | Legal | 30
+  - 8. | Social welfare | 15 | 0 | 15
 
-  - 10. | Medical | 30
+  - 9. | Sports, performing arts, culture and publication | 0 | 15 | 15
 
-  - (Amended 1 of 2011 s. 9; 14 of 2015 s. 15)
+  - 10. | Technology and innovation | 0 | 15 | 15
+
+  - (Replaced 14 of 2021 s. 407)
 
   - Table 3 Third Sector
 
-  - Item | Subsector | Number of members
+  - Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-  - 1. | Agriculture and fisheries | 60
+  - Item | Subsector | Number of ex-officio members | Number of members to be nominated | Number of members to be elected
 
-  - 2. | Labour | 60
+  - 1. | Agriculture and fisheries | 0 | 0 | 60
 
-  - 3. | Religious | 60
+  - 2. | Associations of Chinese fellow townsmen | 0 | 0 | 60
 
-  - 4. | Social welfare | 60
+  - 3. | Grassroots associations | 0 | 0 | 60
 
-  - 5. | Sports, performing arts, culture and publication | 60
+  - 4. | Labour | 0 | 0 | 60
 
-  - (Amended 1 of 2011 s. 9)
+  - 5. | Religious | 0 | 60 | 0
+
+  - (Replaced 14 of 2021 s. 407)
 
   - Table 4 Fourth Sector
 
-  - Item | Subsector | Constituents | Number of members
+  - Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-  - 1. | National People’s Congress (“NPC”) | Hong Kong deputies to the NPC. | 36
+  - Item | Subsector | Number of ex-officio members | Number of members to be nominated | Number of members to be elected
 
-  - 2. | Legislative Council | Members of the Legislative Council. | 70
+  - 1. | Members of the Legislative Council | 90 | 0 | 0
 
-  - 3. | Chinese People’s Political Consultative Conference (“CPPCC”) | Hong Kong members of the National Committee of the CPPCC. | 51
+  - 2. | Heung Yee Kuk | 0 | 0 | 27
 
-  - 4. | Heung Yee Kuk | Chairman and Vice-Chairmen of the Heung Yee Kuk and the Ex-Officio, Special and Co-opted Councillors of the Full Council of the Heung Yee Kuk. | 26
+  - 3. | Representatives of associations of Hong Kong residents in the Mainland | 0 | 27 | 0
 
-  - 5. | Hong Kong and Kowloon District Councils | Elected members of the Hong Kong and Kowloon District Councils. | 57
+  - 4. | Representatives of members of Area Committees, District Fight Crime Committees, and District Fire Safety Committees of Hong Kong and Kowloon | 0 | 0 | 76
 
-  - 6. | New Territories District Councils | Elected members of the New Territories District Councils. | 60
+  - 5. | Representatives of members of Area Committees, District Fight Crime Committees, and District Fire Safety Committees of the New Territories | 0 | 0 | 80
 
-  - (Amended 1 of 2011 s. 9)
+  - (Replaced 14 of 2021 s. 407)
 
-  - Table 5 Composition of Subsectors Referred to in Section 2(5)(c) (Subsectors without an equivalent functional constituency)
+  - Table 5 Fifth Sector
 
-  - Item | Subsector | Constituents
+  - Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-  - 1. | Hong Kong Chinese Enterprises Association | Members of the Hong Kong Chinese Enterprises Association entitled to vote at general meetings of the Association.
+  - Item | Subsector | Number of ex-officio members | Number of members to be nominated | Number of members to be elected
 
-  - 2. | Tourism | (1A) | Travel industry members of the body known immediately before 1 April 2001 as the Hong Kong Tourist Association, entitled immediately before that date, under the constitution of that body in force immediately before that date, to vote at general meetings of that body. (Added 25 of 2003 s. 56)
+  - 1. | Hong Kong Special Administrative Region deputies to the National People’s Congress and Hong Kong Special Administrative Region members of the National Committee of the Chinese People’s Political Consultative Conference | 190 | 0 | 0
 
-  - (1) | Members of the Travel Industry Council of Hong Kong entitled to vote at general meetings of the Council.
+  - 2. | Representatives of Hong Kong members of relevant national organisations | 0 | 0 | 110
 
-  - (2) | Members of The Board of Airline Representatives in Hong Kong. (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
-
-  - 3. | Hotel | (1) | Members of the Hong Kong Hotels Association entitled to vote at general meetings of the Association.
-
-  - (2) | Members of the Federation of Hong Kong Hotel Owners Limited entitled to vote at general meetings of the Federation. (Amended 10 of 2006 s. 32)
-
-  - 4. | Chinese medicine | (1) | Members of—
-
-  - (a) | The Hong Kong Association of Traditional Chinese Medicine Limited;
-
-  - (b) | International General Chinese Herbalists and Medicine Professionals Association Limited;
-
-  - (c) | Sin-Hua Herbalists’ and Herb Dealers’ Promotion Society Limited;
-
-  - (d) | Society of Practitioners of Chinese Herbal Medicine Limited;
-
-  - (e) | The Hong Kong T.C.M. Orthopaedic and Traumatic Association Limited;
-
-  - (f) | The Hong Kong Federation of China of Traditional Chinese Medicine;
-
-  - (g) | Hong Kong Acupuncturists Association;
-
-  - (h) | Hong Kong Chinese Herbalists Association Limited;
-
-  - (i) | Association of Hong Kong & Kowloon Practitioners of Chinese Medicine, Limited;
-
-  - (j) | Hong Kong Chinese Medicine Practitioners Association Limited,
-
-  - who are Chinese medicine practitioners entitled to vote at the general meetings of the respective bodies. (Replaced 1 of 2011 s. 9)
-
-  - (2) | Registered Chinese medicine practitioners registered under the Chinese Medicine Ordinance (Cap. 549). (Added 1 of 2011 s. 9)
-
-  - 5. | Higher education | (1) | Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in—
-
-  - (a) | institutions of higher education funded through the University Grants Committee;
-
-  - (b) | approved post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320);
-
-  - (c) | technical colleges established under the Vocational Training Council Ordinance (Cap. 1130);
-
-  - (d) | The Hong Kong Academy for Performing Arts;
-
-  - (e) | The Open University of Hong Kong. (Amended 25 of 2003 s. 56; 14 of 2015 s. 15)
-
-  - (f)-(m) | (Repealed 14 of 2015 s. 15)
-
-  - (1A) | Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in the institutions which—
-
-  - (a) | offer post secondary education leading to the award of any qualification entered into the Qualifications Register established under the Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 592); and
-
-  - (b) | are set up by—
-
-  - (i) | an institution of higher education funded through the University Grants Committee;
-
-  - (ii) | The Hong Kong Academy for Performing Arts; or
-
-  - (iii) | The Open University of Hong Kong. (Added 14 of 2015 s. 15)
-
-  - (2) | Members of—
-
-  - (a) | the Council of the University of Hong Kong;
-
-  - (b) | the Council of The Chinese University of Hong Kong;
-
-  - (c) | the Council of The Hong Kong University of Science and Technology;
-
-  - (d) | the Council of the City University of Hong Kong;
-
-  - (e) | the Council of The Hong Kong Polytechnic University;
-
-  - (f) | the Council of The Hong Kong Academy for Performing Arts;
-
-  - (g) | the Council of The Open University of Hong Kong;
-
-  - (h) | the Vocational Training Council; (Amended 10 of 2006 s. 32)
-
-  - (i) | the Council of The Education University of Hong Kong; (Amended 6 of 2016 s. 2)
-
-  - (j) | the Council of the Hong Kong Baptist University;
-
-  - (k) | the Council of Lingnan University;
-
-  - (l) | the Board of Governors of the Hong Kong Shue Yan University; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
-
-  - (m) | the Board of Governors of the Caritas Institute of Higher Education; (Added 25 of 2003 s. 56. Amended 11 of 2012 s. 39; 14 of 2015 s. 15)
-
-  - (n) | the Board of Governors of the Chu Hai College of Higher Education; (Added 14 of 2015 s. 15)
-
-  - (o) | the Board of Governors of the Centennial College; (Added 14 of 2015 s. 15)
-
-  - (p) | the Board of Governors of the Tung Wah College; (Added 14 of 2015 s. 15)
-
-  - (q) | the Board of Governors of The Hang Seng University of Hong Kong; (Added 14 of 2015 s. 15. Amended 11 of 2019 s. 12)
-
-  - (r) | the Board of Governors of the Hong Kong Nang Yan College of Higher Education; (Added 14 of 2015 s. 15)
-
-  - (s) | the Board of Governors of the HKCT Institute of Higher Education; (Added 14 of 2015 s. 15. Amended 15 of 2016 s. 14)
-
-  - (t) | the Board of Governors of the Gratia Christian College; (Added 15 of 2016 s. 14. Amended 11 of 2019 s. 12)
-
-  - (u) | the Board of Governors of Yew Chung College of Early Childhood Education. (Added 11 of 2019 s. 12)
-
-  - 6. | Education | (1) | Registered teachers registered under the Education Ordinance (Cap. 279).
-
-  - (2) | Permitted teachers engaged in full-time employment in schools registered or provisionally registered under the Education Ordinance (Cap. 279).
-
-  - (3) | Teachers and principals of schools entirely maintained and controlled by the Government.
-
-  - (4) | Persons whose principal or only employment is that of full-time teaching with the following bodies—
-
-  - (a) | technical institutes, industrial training centres and skills centres established under the Vocational Training Council Ordinance (Cap. 1130);
-
-  - (b) | industrial training centres established under the repealed Industrial Training (Construction Industry) Ordinance (Cap. 317) and maintained under the Construction Industry Council Ordinance (Cap. 587); (Amended 12 of 2006 s. 84)
-
-  - (ba) | industrial training centres established under the Construction Industry Council Ordinance (Cap. 587); (Added 12 of 2006 s. 84)
-
-  - (c) | industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
-
-  - (d) | Hong Chi Association—Hong Chi Pinehill Integrated Vocational Training Centre; (Replaced 18 of 2011 s. 52)
-
-  - (e) | Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas—Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
-
-  - (5) | Registered managers of schools registered under the Education Ordinance (Cap. 279).
-
-  - 7. | Employers’ Federation of Hong Kong | Members of the Employers’ Federation of Hong Kong entitled to vote at general meetings of the Federation.
-
-  - 8. | Social welfare | (1) | Social workers registered under the Social Workers Registration Ordinance (Cap. 505).
-
-  - (2) | Corporate members of the Hong Kong Council of Social Service entitled to vote at general meetings of the Council.
-
-  - (3) | Exempted societies within the meaning of the Societies Ordinance (Cap. 151) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter—
-
-  - (a) | to promote the co-ordination and improvement of social service activities;
-
-  - (b) | to develop resources, such as manpower, funds and data, for social service activities; or
-
-  - (c) | to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs,
-
-  - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
-
-  - (4) | Non-profit making companies registered under the Companies Ordinance (Cap. 622), or a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622), that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter— (Amended 28 of 2012 ss. 912 & 920)
-
-  - (a) | to promote the co-ordination and improvement of social service activities;
-
-  - (b) | to develop resources, such as manpower, funds and data, for social service activities; or
-
-  - (c) | to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs,
-
-  - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
+  - (Replaced 14 of 2021 s. 407)
 
   - 2A. (Omitted as expired—E.R. 1 of 2013)
 
@@ -570,23 +390,459 @@ Election Committee
 
   - 5. Supplementary nomination or subsector by-election to be held to fill vacancy in membership of Election Committee
 
+  - (See Special Remarks)
+
     - (1) As soon as practicable after the Electoral Registration Officer has published a provisional register of members of the Election Committee, the Electoral Affairs Commission—
 
-      - (a) shall ascertain the number of members representing each subsector (other than a subsector specified in items 1 and 2 of Table 4 in section 2) on the Election Committee; and
+      - (a) must ascertain the number of members nominated in accordance with Part 3 or elected in accordance with Part 4 for each subsector on the Election Committee; and (Replaced 14 of 2021 s. 410)
 
-      - (b) if the number of members so ascertained as representing a subsector is less than the number of members allocated to the subsector in accordance with section 2(6), shall, in accordance with the EAC Regulations, arrange for a supplementary nomination (in the case of the religious subsector) or a subsector by-election (in the case of any other subsector) to be held to fill the vacancy among the members representing the subsector on the Election Committee.
+      - (b) if the number of members so ascertained as representing a subsector is less than the number of members allocated to the subsector in accordance with section 2(7)(b) or (c), must, in accordance with the EAC Regulations, arrange for a supplementary nomination or a subsector by-election (as the case may be) to be held to fill the vacancy among the members representing the subsector on the Election Committee. (Replaced 14 of 2021 s. 410)
 
     - (2) When making an ascertainment under subsection (1)(a), the Electoral Affairs Commission shall have regard to—
 
       - (a) the provisional register of members of the Election Committee; and
 
-      - (b) the determinations of the Revising Officer on the appeals, if any, made under section 48 against the decisions of the Electoral Registration Officer in relation to the register.
+      - (b) the determinations of the Revising Officer on the appeals, if any, made under section 48 in relation to the register. (Amended 14 of 2021 s. 410)
 
-- Part 3 Religious Subsector
+- Part 2A Ex-Officio Members (Part 2A added 14 of 2021 s. 411)
 
-  - 6. Composition of the religious subsector
+- (See Special Remarks)
 
-    - (1) The religious subsector is to be composed of the following bodies (referred to in this Part as the designated bodies)—
+  - Division 1 Specified Offices
+
+  - (See Special Remarks)
+
+    - 5A. Specified offices of the architectural, surveying, planning and landscape subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the architectural, surveying, planning and landscape subsector are—
+
+      - (a) the President of The Hong Kong Institute of Architects;
+
+      - (b) the President of The Hong Kong Institute of Surveyors;
+
+      - (c) the President of The Hong Kong Institute of Planners;
+
+      - (d) the President of The Hong Kong Institute of Landscape Architects;
+
+      - (e) the Chairman of the Hong Kong Housing Authority;
+
+      - (f) the Chairman of the Town Planning Board;
+
+      - (g) the Chairman of the Board of the Urban Renewal Authority;
+
+      - (h) the Chairman of the Hong Kong Housing Society;
+
+      - (i) the Chairman of the Antiquities Advisory Board;
+
+      - (j) the Chairperson of the Property Management Services Authority;
+
+      - (k) the Chairman of the Community Involvement Committee on Greening;
+
+      - (l) the Chairman of the Advisory Committee for the Fire Safety (Buildings) Ordinance and the Fire Safety (Commercial Premises) Ordinance;
+
+      - (m) the Chairman of the Harbourfront Commission;
+
+      - (n) the Chairman of the Land and Development Advisory Committee; and
+
+      - (o) the Chairman of the Lantau Development Advisory Committee.
+
+    - 5B. Specified offices of the education subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the education subsector are—
+
+      - (a) the Vice-Chancellor of The University of Hong Kong;
+
+      - (b) the Vice-Chancellor of The Chinese University of Hong Kong;
+
+      - (c) the President of The Hong Kong University of Science and Technology;
+
+      - (d) the President of the City University of Hong Kong;
+
+      - (e) the President of The Hong Kong Polytechnic University;
+
+      - (f) the President of The Education University of Hong Kong;
+
+      - (g) the President and Vice-Chancellor of the Hong Kong Baptist University;
+
+      - (h) the President of Lingnan University;
+
+      - (i) the President of The Open University of Hong Kong;
+
+      - (j) the President of the Hong Kong Shue Yan University;
+
+      - (k) the President of The Hang Seng University of Hong Kong;
+
+      - (l) the office specified by Roman Catholic Diocese of Hong Kong;
+
+      - (m) the office specified by the Po Leung Kuk;
+
+      - (n) the office specified by the Hong Kong Sheng Kung Hui;
+
+      - (o) the office specified by the Tung Wah Group of Hospitals; and
+
+      - (p) the office specified by The Hong Kong Council of the Church of Christ in China.
+
+    - 5C. Specified offices of the engineering subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the engineering subsector are—
+
+      - (a) the President of The Hong Kong Institution of Engineers;
+
+      - (b) the Chairman of the Board of the Airport Authority;
+
+      - (c) the Chairman of the Consulting Engineers’ Committee;
+
+      - (d) the Chairperson of the Construction Industry Council;
+
+      - (e) the Chairman of the Building Contractors Committee;
+
+      - (f) the Chairman of the Advisory Committee on Water Supplies;
+
+      - (g) the Chairman of the Transport Advisory Committee;
+
+      - (h) the Chairman of the Advisory Council on the Environment;
+
+      - (i) the Chairman of the Electrical Safety Advisory Committee;
+
+      - (j) the Chairman of the Gas Safety Advisory Committee;
+
+      - (k) the Chairman of the Energy Advisory Committee;
+
+      - (l) the Chairman of the Advisory Committee on the Appearance of Bridges and Associated Structures;
+
+      - (m) the Chairman of the Lift and Escalator Safety Advisory Committee;
+
+      - (n) the Chairman of the Board of MTR Corporation Limited; and
+
+      - (o) the Chairperson of the Drinking Water Safety Advisory Committee.
+
+    - 5D. Specified offices of the legal subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the legal subsector are the Hong Kong members of the Committee for the Basic Law of the Hong Kong Special Administrative Region under the Standing Committee of the National People’s Congress.
+
+    - 5E. Specified offices of the medical and health services subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the medical and health services subsector are—
+
+      - (a) the Chairman of the Hospital Authority;
+
+      - (b) the Chairman of the Board of Governors of The Prince Philip Dental Hospital;
+
+      - (c) the Chairman of the Medical Council of Hong Kong;
+
+      - (d) the Chairman of the Dental Council of Hong Kong;
+
+      - (e) the President of the Hong Kong Academy of Medicine;
+
+      - (f) the Chairman of the Nursing Council of Hong Kong;
+
+      - (g) the Chairman of the Midwives Council of Hong Kong;
+
+      - (h) the Chairman of the Supplementary Medical Professions Council;
+
+      - (i) the Chairman of the Pharmacy and Poisons Board;
+
+      - (j) the Chairman of the Chiropractors Council;
+
+      - (k) the Dean of Li Ka Shing Faculty of Medicine of The University of Hong Kong;
+
+      - (l) the Dean of Faculty of Medicine of The Chinese University of Hong Kong;
+
+      - (m) the Chairman of the Human Organ Transplant Board;
+
+      - (n) the Council Chairman of the Hong Kong St. John Ambulance; and
+
+      - (o) the Commissioner of the Auxiliary Medical Service.
+
+    - 5F. Specified offices of the social welfare subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the social welfare subsector are—
+
+      - (a) the Chairperson of the Executive Committee of the Hong Kong Council of Social Service;
+
+      - (b) the Chairperson of the Social Workers Registration Board;
+
+      - (c) the Chairman of the Council of the Institute of Social Service Development;
+
+      - (d) the Chairman of the Board of Directors of the Tung Wah Group of Hospitals;
+
+      - (e) the Chairman of the Board of Directors of the Po Leung Kuk;
+
+      - (f) the Chairman of the Board of Directors of the Yan Chai Hospital;
+
+      - (g) the Chairman of the Board of Directors of Pok Oi Hospital;
+
+      - (h) the Chairperson of the Board of Directors of Yan Oi Tong Limited;
+
+      - (i) the Chairman of the Executive Committee of The Lok Sin Tong Benevolent Society Kowloon;
+
+      - (j) the Chairman of the Board of Directors of New Home Association Limited;
+
+      - (k) the Chairperson of the Board of Directors of Social Workers Across Borders Limited;
+
+      - (l) the Chairperson of the Board of Directors of The Hong Kong Volunteers Federation Company Limited;
+
+      - (m) the Chairperson of the Council of The Hong Kong Federation of Trade Unions Hong Ling Society;
+
+      - (n) the Chairperson of the Executive Committee of The United Labour Chi Hong Association Limited; and
+
+      - (o) the Chairman of the Board of Directors of The Hong Kong Island Social Services Charitable Foundation Limited.
+
+    - 5G. Specified offices of the Members of the Legislative Council subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the Members of the Legislative Council subsector are Members of the Legislative Council.
+
+    - 5H. Specified offices of the NPC and CPPCC subsector
+
+    - (See Special Remarks)
+
+    - The specified offices of the NPC and CPPCC subsector are—
+
+      - (a) NPC deputies; and
+
+      - (b) CPPCC members.
+
+  - Division 2 Procedural Matters
+
+  - (See Special Remarks)
+
+    - 5I. Registration of NPC deputies and CPPCC members as ex-officio members
+
+    - (See Special Remarks)
+
+      - (1) An NPC deputy or a CPPCC member may be registered as an ex-officio member, but only if the deputy or member is registered in accordance with this section and the EAC Regulations.
+
+      - (2) If an NPC deputy or a CPPCC member is holding a specified office of a subsector (specified subsector) other than the NPC and CPPCC subsector, the deputy or member may only be registered as an ex-officio member of the specified subsector.
+
+      - (3) To avoid doubt, if the NPC deputy or CPPCC member holds 2 or more specified offices of one or more specified subsectors—
+
+        - (a) the deputy or member may only choose to be registered as an ex-officio member as the holder of one of the specified offices; and
+
+        - (b) section 5J(3) or (4) (as appropriate) applies in relation to the other specified office or offices for the purpose of making a designation or registration.
+
+      - (4) Subject to subsection (2), an NPC deputy or a CPPCC member may choose to be registered as an ex-officio member of a subsector as defined by section 11(1) (relevant subsector) if—
+
+        - (a) the total number of NPC deputies and CPPCC members who—
+
+          - (i) are eligible to be registered as ex-officio members under section 5L;
+
+          - (ii) are not disqualified from being registered as ex-officio members under section 5M; and
+
+          - (iii) do not fall within subsection (2),
+
+        - exceeds the specified number; and
+
+        - (b) the deputy or member has substantial connection with the relevant subsector.
+
+      - (5) For subsection (4)—
+
+        - (a) the number of NPC deputy or CPPCC member who chooses to be registered as an ex-officio member of a relevant subsector must not exceed the number specified in column 5 of the Table concerned in section 2 opposite to the relevant subsector; and
+
+        - (b) the total number of NPC deputies and CPPCC members who choose to be registered as ex-officio members of the relevant subsectors must not exceed the difference between the specified number and the total number referred to in subsection (4)(a).
+
+      - (6) If, after the publication of the final register of members of the Election Committee for a term of office of the Election Committee under section 40(3A), an NPC deputy or a CPPCC member registered as an ex-officio member of a subsector resigns or is regarded as having resigned under section 3, a subsequently appointed NPC deputy or CPPCC member may only be registered as an ex-officio member of that subsector for that term of office of the Election Committee.
+
+      - (7) An NPC deputy or a CPPCC member may only be registered as an ex-officio member of a subsector under subsection (6) if the deputy or member has substantial connection with the subsector.
+
+      - (8) In this section—
+
+        - specified number (指明數目) means the number specified in column 3 of Table 5 in section 2 opposite to the NPC and CPPCC subsector.
+
+    - 5J. Registration of other specified persons and designated persons as ex-officio members
+
+    - (See Special Remarks)
+
+      - (1) Subject to section 5I, a specified person or a designated person of the specified person may be registered as an ex-officio member, but only if the specified person submits a registration form to the Electoral Registration Officer in accordance with this section and the EAC Regulations.
+
+      - (2) If a specified person holds more than one specified office, the person may only choose to be registered as an ex-officio member as the holder of one of the specified offices.
+
+      - (3) A specified person holding a specified office of an applicable subsector may designate another person who is holding an office in a relevant body in relation to the specified office to be registered as an ex-officio member if—
+
+        - (a) the specified person is not eligible to be registered as an ex-officio member under section 5L; or
+
+        - (b) the specified person is a holder of more than one specified office (excluding the office of NPC deputy or CPPCC member).
+
+      - (4) If a holder of a specified office set out in section 5B(a), (b), (c), (d), (e), (f), (g), (h), (i), (j) or (k) is not eligible to be registered as an ex-officio member under section 5L—
+
+        - (a) in relation to a specified office set out in section 5B(a)—the Council Chairman of the relevant body in relation to the specified office;
+
+        - (b) in relation to a specified office set out in section 5B(b), (c), (d), (e), (f), (g), (h) or (i)—the Council Chairman of a relevant body in relation to the specified office; or
+
+        - (c) in relation to a specified office set out in section 5B(j) or (k)—the Chairman of the Board of Governors of a relevant body in relation to the specified office,
+
+      - is to be regarded as a specified office of the relevant body.
+
+      - (5) To avoid doubt, for the purposes of subsection (3)—
+
+        - (a) if the specified person holds more than 2 specified offices of one or more applicable subsectors, the person may designate different persons to be registered as ex-officio members for different specified offices; and
+
+        - (b) a designated person may only be registered as an ex-officio member for 1 specified office.
+
+      - (6) In this section—
+
+        - applicable subsector (適用界別分組) means—
+
+          - (a) the architectural, surveying, planning and landscape subsector;
+
+          - (b) the engineering subsector;
+
+          - (c) the medical and health services subsector; or
+
+          - (d) the social welfare subsector;
+
+        - relevant body (相關團體), in relation to a specified office set out in a paragraph of a section in Division 1, means the body described in the paragraph.
+
+    - 5K. Validity of registration contingent on declaration
+
+    - (See Special Remarks)
+
+    - A registration of a person as an ex-officio member under section 5I or 5J is not valid unless—
+
+      - (a) the registration form contains a declaration to the effect that the person will uphold the Basic Law and pledge allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China; and
+
+      - (b) the declaration is signed by the person.
+
+    - 5L. Who is eligible to be registered as an ex-officio member
+
+    - (See Special Remarks)
+
+      - (1) Subject to subsection (2), a person is eligible to be registered as an ex-officio member of a subsector under section 5I or 5J if the person—
+
+        - (a) is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register (as defined by section 11(1)) and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; and
+
+        - (b) is holding a specified office of the subsector.
+
+      - (2) Subsection (1)(b) does not apply to a person to be registered as an ex-officio member under section 5J(3).
+
+      - (3) However, a person is not eligible to be registered as an ex-officio member if the person—
+
+        - (a) is a principal official appointed pursuant to a nomination under Article 48(5) of the Basic Law;
+
+        - (b) is a directorate officer of the Government;
+
+        - (c) is an Administrative Officer of the Government;
+
+        - (d) is an Information Officer of the Government;
+
+        - (e) is a police officer; or
+
+        - (f) is any other civil servant who is holding an office specified in Division 1 in his or her official capacity.
+
+    - 5M. When a person is disqualified from being registered as an ex-officio member
+
+    - (See Special Remarks)
+
+      - (1) A person is disqualified from being registered as an ex-officio member if the person—
+
+        - (a) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
+
+          - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
+
+          - (ii) received a free pardon;
+
+        - (b) on the date of submission of the registration form, is serving a sentence of imprisonment;
+
+        - (c) without limiting paragraph (a), where the registration form is submitted within 5 years after the date of the person’s conviction, is or has been convicted—
+
+          - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
+
+          - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
+
+          - (iii) of any offence prescribed by the EAC Regulations;
+
+        - (d) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his or her property and affairs; or
+
+        - (e) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+
+      - (2) Without prejudice to section 13(1)(c) of the Electoral Affairs Commission Ordinance (Cap. 541), a person is also disqualified from being registered as an ex-officio member if, within the 5 years before the date of submission of the registration form—
+
+        - (a) the person has vacated an office, or has been disqualified from entering on an office, under the law, for declining or neglecting to take a specified oath; or
+
+        - (b) the person has been declared or decided in accordance with any law—
+
+          - (i) to be in breach of a specified oath; or
+
+          - (ii) to have failed to fulfil the legal requirements and conditions on upholding the Basic Law and bearing allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China.
+
+      - (3) In this section—
+
+        - specified oath (指明誓言) means an oath taken under the law that the oath-taker will uphold the Basic Law and bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China.
+
+    - 5N. Determination of validity of registration
+
+    - (See Special Remarks)
+
+    - The Candidate Eligibility Review Committee must, as soon as practicable after a registration form that complies with this Part and the EAC Regulations is submitted in accordance with those Regulations, determine whether or not the proposed registration is valid in accordance with Annex I to the Basic Law and this Ordinance.
+
+    - 5O. Application of the Elections (Corrupt and Illegal Conduct) Ordinance
+
+    - (See Special Remarks)
+
+    - The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the registration and designation of persons to be ex-officio members of the Election Committee under section 5I or 5J in the same way as it applies to and in relation to a subsector election and so applies as if the persons to be registered were candidates at a subsector election.
+
+- Part 3 Nomination (Amended 14 of 2021 s. 412)
+
+- (See Special Remarks)
+
+  - Division 1 Designated Bodies (Division 1 added 14 of 2021 s. 413)
+
+  - (See Special Remarks)
+
+    - 5P. Designated body of the accountancy subsector
+
+    - (See Special Remarks)
+
+    - The designated body of the accountancy subsector is Association of Hong Kong Accounting Advisors Limited.
+
+    - 5Q. Designated body of the Chinese medicine subsector
+
+    - (See Special Remarks)
+
+    - The designated body of the Chinese medicine subsector is WFCMS (Hong Kong) Council Members Association Limited.
+
+    - 5R. Designated body of the legal subsector
+
+    - (See Special Remarks)
+
+    - The designated body of the legal subsector is China Law Society’s HK Council Members Association.
+
+    - 5S. Designated bodies of the sports, performing arts, culture and publication subsector
+
+    - (See Special Remarks)
+
+    - The designated bodies of the sports, performing arts, culture and publication subsector are—
+
+      - (a) Sports Federation & Olympic Committee of Hong Kong, China;
+
+      - (b) China Federation of Literary and Art Circles Hong Kong Member Association Limited; and
+
+      - (c) Hong Kong Publishing Federation Limited.
+
+    - 5T. Designated body of the technology and innovation subsector
+
+    - (See Special Remarks)
+
+    - The designated body of the technology and innovation subsector is The Greater Bay Area Association of Academicians.
+
+    - 6. Designated bodies of the religious subsector
+
+    - (See Special Remarks)
+
+    - The designated bodies of the religious subsector are—
 
       - (a) Catholic Diocese of Hong Kong;
 
@@ -600,97 +856,233 @@ Election Committee
 
       - (f) The Hong Kong Buddhist Association.
 
-    - (2) The Chief Executive in Council may, by order published in the Gazette, distribute the number of members allocated to the religious subsector among the designated bodies.
+    - (Replaced 14 of 2021 s. 414)
 
-  - 7. Nomination of members by the religious subsector
+    - 6A. Designated bodies of the representatives of associations of Hong Kong residents in the Mainland subsector
 
-    - (1) Subject to subsection (7), each designated body may nominate a number of persons selected by it as members representing the religious subsector on the Election Committee for a new term of office of the Committee.
+    - (See Special Remarks)
 
-    - (2) If—
+    - The designated bodies of the representatives of associations of Hong Kong residents in the Mainland subsector are—
 
-      - (a) the Electoral Affairs Commission is required to arrange for a supplementary nomination to fill a vacancy among the members representing the religious subsector on the Election Committee; and
+      - (a) Mainland China (Shenzhen) Consultant Services Centre, The Hong Kong Federation of Trade Unions;
 
-      - (b) the vacancy is due to the number of members from a designated body representing the religious subsector on the Election Committee being less than the assigned number for the body,
+      - (b) Mainland China (Guangzhou) Consultant Services Centre, The Hong Kong Federation of Trade Unions;
 
-    - the designated body may nominate a number of persons selected by it to fill the vacancy.
+      - (c) Mainland China (Dongguan) Consultant Services Centre, The Hong Kong Federation of Trade Unions;
 
-    - (3) The process of nomination under subsection (1) or (2) (other than the selection of nominees) shall be carried out in accordance with the EAC Regulations.
+      - (d) Mainland China (Zhongshan) Consultant Services Centre, The Hong Kong Federation of Trade Unions;
 
-    - (4) If—
+      - (e) Mainland China (Huizhou) Consultant Services Centre, The Hong Kong Federation of Trade Unions;
 
-      - (a) the number of persons nominated by a designated body under subsection (1) exceeds the assigned number for the body; or
+      - (f) Mainland China (Fujian, Xiamen) Consultant Services Centre, The Hong Kong Federation of Trade Unions;
 
-      - (b) the number of persons nominated by a designated body under subsection (2) exceeds the number of vacancies to be filled,
+      - (g) Hong Kong Chamber of Commerce in China;
 
-    - subject to subsection (6), the body shall—
+      - (h) Hong Kong Chamber of Commerce in China—Tianjin;
 
-      - (c) indicate which of the nominees are to be given preference in making up the assigned number or in filling the vacancy; and
+      - (i) Hong Kong Chamber of Commerce in China—Shanghai;
 
-      - (d) then rank the excess nominees, if more than one, in order of priority.
+      - (j) Hong Kong Chamber of Commerce in China—Zhejiang;
 
-    - (5) If the Returning Officer determines that any of the nominees to be given preference under subsection (4) is not validly nominated, the assigned number is to be made up or the vacancy is to be filled from the excess nominees (subject to their being validly nominated) in their order of priority.
+      - (k) Hong Kong Chamber of Commerce in China—Guangdong;
 
-    - (6) If—
+      - (l) Hong Kong Chamber of Commerce in China—Fujian;
 
-      - (a) the number of persons nominated by a designated body under subsection (1) exceeds the assigned number for the body; or
+      - (m) Hong Kong Chamber of Commerce in China—Guangxi;
 
-      - (b) the number of persons nominated by a designated body under subsection (2) exceeds the number of vacancies to be filled,
+      - (n) Hong Kong Chamber of Commerce in China—Sichuan;
 
-    - but the body does not indicate preference under subsection (4) or the number of nominees to whom preference is given is less than the assigned number for that body or the number of vacancies to be filled, the Returning Officer shall determine which nominees of that body (subject to their being validly nominated) are to make up the assigned number or to fill the vacancy by drawing lots. The nominees on whom the lot falls are to become members of the Election Committee.
+      - (o) Hong Kong Chamber of Commerce in China—Wuhan;
 
-    - (7) The number of nominees to become members of the Election Committee from each designated body cannot exceed the assigned number for that body.
+      - (p) Hong Kong Chamber of Commerce in China—Liaoning;
 
-    - (8) The Returning Officer shall declare the nominees who become the members of the Election Committee as such members in accordance with the EAC Regulations.
+      - (q) Hong Kong Chamber of Commerce in China—Shandong;
 
-    - (9) In this section—
+      - (r) Hong Kong Professionals (Beijing) Association;
 
-      - assigned number (獲配席位數目), in relation to a designated body, means the number specified in an order made under section 6(2) for that body.
+      - (s) Shanghai Hong Kong Association;
 
-  - 8. Who is qualified for selection as a nominee
+      - (t) Guangzhou Tianhe Hong Kong and Macau Youth Association;
 
-    - (1) A person is eligible to be selected as a nominee under section 7 if the person—
+      - (u) Hong Kong Association of China Business;
 
-      - (a) is both registered and eligible to be registered under the Legislative Council Ordinance (Cap. 542) as an elector for a geographical constituency, and is not disqualified from being so registered; and
+      - (v) Hong Kong Chamber of Commerce, Qianhai, Shenzhen;
 
-      - (b) has a substantial connection with the religious subsector.
+      - (w) Hong Kong and Macau Entrepreneurs Branch, Chongqing Overseas Association;
 
-    - (2) A person is not eligible to be selected as a nominee under section 7(1) if the person—
+      - (x) Fujian Federation of Overseas Chinese Entrepreneurs;
 
-      - (a) is a Hong Kong deputy to the National People’s Congress or a Member of the Legislative Council (whether or not the person is an ex-officio member of the Election Committee); or
+      - (y) Hong Kong and Macao Youth Innovation and Entrepreneurship Federation in Zhongkai Huizhou;
 
-      - (b) is a candidate at a subsector ordinary election.
+      - (z) The Hong Kong Fellowship in Huadu Guangzhou; and
 
-    - (3) A person is not eligible to be selected as a nominee under section 7(2) if the person—
+      - (za) The Hong Kong Fellowship in Chancheng Foshan.
 
-      - (a) is a member of the Election Committee; or
+    - (Added 14 of 2021 s. 415)
 
-      - (b) is a candidate at a subsector by-election, the nomination period for which coincides or partly coincides with the period during which the nomination under that section is to be made.
+  - Division 2 Procedural Matters (Added 14 of 2021 s. 416)
 
-    - (4) A person who is selected as a nominee by a designated body as a member representing the religious subsector on the Election Committee is not eligible to be selected by another designated body as such a member if the period during which the nominations are to be made coincides or partly coincides.
+  - (See Special Remarks)
 
-  - 9. When a person is disqualified from being a nominee A person is disqualified from being a nominee under section 7 if the person—
+    - 7. Nomination of members (Amended 14 of 2021 s. 417)
 
-    - (a) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
+    - (See Special Remarks)
 
-      - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
+      - (1) Subject to subsection (7), each designated body of a subsector may nominate a number of persons selected by it as members representing the subsector on the Election Committee for a new term of office of the Committee. (Amended 14 of 2021 s. 417)
 
-      - (ii) received a free pardon;
+      - (2) If—
 
-    - (b) on the date of nomination, is serving a sentence of imprisonment;
+        - (a) the Electoral Affairs Commission is required to arrange for a supplementary nomination to fill a vacancy among the members representing a subsector on the Election Committee; and
 
-    - (c) without limiting paragraph (a), where the nomination is made within 3 years after the date of the person’s conviction, is or has been convicted—
+        - (b) the vacancy is due to the number of members from a designated body representing the subsector on the Election Committee being less than the assigned number for the body,
 
-      - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
+      - the designated body may nominate a number of persons selected by it to fill the vacancy. (Amended 14 of 2021 s. 417)
 
-      - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
+      - (3) The process of nomination under subsection (1) or (2) (other than the selection of nominees) shall be carried out in accordance with the EAC Regulations.
 
-      - (iii) of any offence prescribed by the EAC Regulations;
+      - (4) If—
 
-    - (d) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
+        - (a) the number of persons nominated by a designated body under subsection (1) exceeds the assigned number for the body; or
 
-    - (e) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+        - (b) the number of persons nominated by a designated body under subsection (2) exceeds the number of vacancies to be filled,
 
-  - 10. Application of the Elections (Corrupt and Illegal Conduct) Ordinance The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 7 in the same way as it applies to and in relation to a subsector election and so applies as if the persons selected or nominated were candidates at a subsector election.
+      - subject to subsection (6), the body shall—
+
+        - (c) indicate which of the nominees are to be given preference in making up the assigned number or in filling the vacancy; and
+
+        - (d) then rank the excess nominees, if more than one, in order of priority.
+
+      - (4A) Subject to subsections (6) and (6A), the Candidate Eligibility Review Committee must, as soon as practicable after a nomination form that complies with the EAC Regulations is submitted in accordance with those Regulations, determine whether or not the nominees are validly nominated in accordance with Annex I to the Basic Law, this Ordinance and those Regulations. (Added 14 of 2021 s. 417)
+
+      - (5) If the Candidate Eligibility Review Committee determines that any of the nominees to be given preference under subsection (4) is not validly nominated, the assigned number is to be made up or the vacancy is to be filled from the excess nominees (subject to their being validly nominated) in their order of priority. (Amended 14 of 2021 s. 417)
+
+      - (6) If—
+
+        - (a) the number of persons nominated by a designated body under subsection (1) exceeds the assigned number for the body; or
+
+        - (b) the number of persons nominated by a designated body under subsection (2) exceeds the number of vacancies to be filled,
+
+      - but the body does not indicate preference under subsection (4) or the number of nominees to whom preference is given is less than the assigned number for that body or the number of vacancies to be filled, the Returning Officer must determine, by drawing lots, the order of priority in which the nominees of that body are to make up the assigned number or to fill the vacancy. (Amended 14 of 2021 s. 417)
+
+      - (6A) The Candidate Eligibility Review Committee must, as soon as practicable after the order of priority is determined under subsection (6), determine in that order of priority whether or not a nominee to whom that subsection applies is validly nominated in accordance with Annex I to the Basic Law, this Ordinance and the EAC Regulations, until the number of validly nominated nominees is equal to the assigned number for the designated body concerned or the number of vacancies to be filled. (Added 14 of 2021 s. 417)
+
+      - (7) The number of nominees to become members of the Election Committee from each designated body cannot exceed the assigned number for that body.
+
+      - (8) The Candidate Eligibility Review Committee must declare the nominees who are validly nominated as members of the Election Committee in accordance with the EAC Regulations. (Replaced 14 of 2021 s. 417)
+
+      - (9) In this section—
+
+        - assigned number (獲配席位數目)—
+
+          - (a) in relation to the designated body mentioned in section 5S(a) or (c)—means 3;
+
+          - (b) in relation to the designated body mentioned in section 5S(b)—means 9;
+
+          - (c) in relation to a designated body of the religious subsector—means 10;
+
+          - (d) in relation to a designated body of the representatives of associations of Hong Kong residents in the Mainland subsector—means 1; or
+
+          - (e) in relation to the designated body of any other subsector—means the number specified in column 4 of the relevant Table in section 2 opposite to the subsector. (Replaced 14 of 2021 s. 417)
+
+    - 7A. Validity of nomination contingent on declaration
+
+    - (See Special Remarks)
+
+    - A nomination of a person under section 7(1) or (2) is not valid unless—
+
+      - (a) the nomination form contains a declaration to the effect that the person will uphold the Basic Law and pledge allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China; and
+
+      - (b) the declaration is signed by the person.
+
+    - (Added 14 of 2021 s. 418)
+
+    - 8. Who is eligible for selection as a nominee (Amended 14 of 2021 s. 419)
+
+    - (See Special Remarks)
+
+      - (1) A person is eligible to be selected as a nominee for a subsector under section 7 if the person— (Amended 14 of 2021 s. 419)
+
+        - (a) is both registered and eligible to be registered under the Legislative Council Ordinance (Cap. 542) as an elector for a geographical constituency, and is not disqualified from being so registered; and
+
+        - (b) has a substantial connection with the subsector. (Amended 14 of 2021 s. 419)
+
+      - (2) A person is not eligible to be selected as a nominee under section 7(1) if the person—
+
+        - (a) is a specified person (whether or not the person is an ex-officio member of the Election Committee); (Replaced 14 of 2021 s. 419)
+
+        - (ab) is a designated person (whether or not the person is an ex-officio member of the Election Committee); or (Added 14 of 2021 s. 419)
+
+        - (b) is a candidate at a subsector ordinary election.
+
+      - (3) A person is not eligible to be selected as a nominee under section 7(2) if the person—
+
+        - (a) is a member of the Election Committee; or
+
+        - (b) is a candidate at a subsector by-election, the nomination period for which coincides or partly coincides with the period during which the nomination under that section is to be made.
+
+      - (4) A person who is selected as a nominee by a designated body as a member of the Election Committee is not eligible to be selected by another designated body as such a member if the period during which the nominations are to be made coincides or partly coincides. (Amended 14 of 2021 s. 419)
+
+    - 9. When a person is disqualified from being a nominee
+
+    - (See Special Remarks)
+
+      - (1) A person is disqualified from being a nominee under section 7 if the person— (Amended 14 of 2021 s. 420)
+
+        - (a) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
+
+          - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
+
+          - (ii) received a free pardon;
+
+        - (b) on the date of nomination, is serving a sentence of imprisonment;
+
+        - (c) without limiting paragraph (a), where the nomination is made within 5 years after the date of the person’s conviction, is or has been convicted— (Amended 14 of 2021 s. 420)
+
+          - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
+
+          - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
+
+          - (iii) of any offence prescribed by the EAC Regulations;
+
+        - (d) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
+
+        - (e) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+
+      - (2) Without prejudice to section 13(1)(c) of the Electoral Affairs Commission Ordinance (Cap. 541), a person is also disqualified from being a nominee if, within the 5 years before the date of nomination—
+
+        - (a) the person has vacated an office, or has been disqualified from entering on an office, under the law, for declining or neglecting to take a specified oath; or
+
+        - (b) the person has been declared or decided in accordance with any law—
+
+          - (i) to be in breach of a specified oath; or
+
+          - (ii) to have failed to fulfil the legal requirements and conditions on upholding the Basic Law and bearing allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China. (Added 14 of 2021 s. 420)
+
+      - (3) In this section—
+
+        - specified oath (指明誓言) means an oath taken under the law that the oath-taker will uphold the Basic Law and bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China. (Added 14 of 2021 s. 420)
+
+    - 9A. When a person is disqualified from being a nominee for certain subsectors
+
+    - (See Special Remarks)
+
+      - (1) This section is without prejudice to section 9.
+
+      - (2) A person is disqualified from being a nominee for the accountancy subsector if the person is not a Hong Kong Accounting Advisor appointed by the Ministry of Finance of the People’s Republic of China.
+
+      - (3) A person is disqualified from being a nominee for the Chinese medicine subsector if the person is not a Hong Kong member of the Council of the World Federation of Chinese Medicine Societies.
+
+      - (4) A person is disqualified from being a nominee for the legal subsector if the person is not a Hong Kong member of the Council of the China Law Society.
+
+      - (5) A person is disqualified from being a nominee for the technology and innovation subsector if the person is not a Hong Kong academician of the Chinese Academy of Sciences or the Chinese Academy of Engineering.
+
+    - (Added 14 of 2021 s. 421)
+
+    - 10. Application of the Elections (Corrupt and Illegal Conduct) Ordinance
+
+    - (See Special Remarks)
+
+    - The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 7 in the same way as it applies to and in relation to a subsector election and so applies as if the persons selected or nominated were candidates at a subsector election.
 
 - Part 4 Subsector Election
 
@@ -698,25 +1090,29 @@ Election Committee
 
     - 11. Interpretation
 
+    - (See Special Remarks)
+
       - (1) In this Part, unless the context otherwise requires—
 
         - authorized representative (獲授權代表), in relation to a corporate voter, means the person authorized by the corporate voter to cast its vote at a subsector election;
 
         - corporate voter (團體投票人) means a body that is a voter for a subsector;
 
-        - District Council ordinary election (區議會一般選舉) means elections to elect persons to fill the vacancies caused by the expiration of the term of office of the elected members of District Councils; (Added 33 of 2002 s. 11)
-
         - existing functional constituencies final register (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
         - existing geographical constituencies final register (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
-        - existing subsector final register (現有界別分組正式投票人登記冊), in relation to—
+        - existing subsector final register (現有界別分組正式投票人登記冊), in relation to the compilation of a subsector provisional register, means the subsector final register that is in effect under section 15 at the time the subsector provisional register is compiled; (Added 14 of 2021 s. 423)
 
-          - (a) the compilation of a subsector provisional register to be compiled and published not later than 30 November 2001, means the subsector final register that was compiled and published under section 10 of Schedule 2 to the Legislative Council Ordinance (Cap. 542) in force immediately before the commencement of section 73 of this Ordinance;
+        - subsector (界別分組) means a subsector other than—
 
-          - (b) the compilation of any other subsector provisional register, means the subsector final register that is in effect under section 15 at the time the subsector provisional register is compiled;
+          - (a) the religious subsector;
 
-        - subsector (界別分組) means a subsector referred to in section 2(7)(b);
+          - (b) the Members of the Legislative Council subsector;
+
+          - (c) the representatives of associations of Hong Kong residents in the Mainland subsector; and
+
+          - (d) the NPC and CPPCC subsector; (Added 14 of 2021 s. 423)
 
         - subsector final register (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
 
@@ -724,29 +1120,91 @@ Election Committee
 
         - voter (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
 
+      - (Amended 14 of 2021 s. 423)
+
       - (2) The results of subsector ordinary elections that are declared on different dates are, for the purposes of this Schedule, taken to have been declared on the later or latest of those dates.
+
+      - (3) In this Part, the number of members allocated to a subsector is the number of members declared in a notice published under section 2(9) to be elected by the subsector in accordance with this Part for the term of office of the Election Committee concerned. (Added 14 of 2021 s. 423)
+
+    - 11A. References to entitlement to vote at general meeting of or specified authority within body
+
+    - (See Special Remarks)
+
+      - (1) For the purposes of this Part—
+
+        - (a) a reference to an entitlement to vote at a general meeting of a body is a reference to an entitlement to vote at the general meeting as provided by the body’s constitution; and
+
+        - (b) a reference to an entitlement to vote at the specified authority within a body is a reference to an entitlement to vote at that authority as provided by the body’s constitution.
+
+      - (2) In subsection (1), the reference to the constitution of a body is a reference to the constitution either—
+
+        - (a) as in force at the commencement for any purpose of the provision (including a former provision) in this Ordinance or the Legislative Council Ordinance (Cap. 542) that first specifies the body for the purpose of the composition of any subsector or functional constituency (including a subsector or functional constituency provided under a former provision in this Ordinance or the Legislative Council Ordinance (Cap. 542)); or
+
+        - (b) as subsequently amended or substituted, but only if the amendment or substitution, in so far as it relates to any of the following matters, has been approved in writing by the Secretary for Constitutional and Mainland Affairs—
+
+          - (i) the objects of the body;
+
+          - (ii) the criteria and conditions of—
+
+            - (A) membership of the body; or
+
+            - (B) membership of the specified authority within the body;
+
+          - (iii) the eligibility of—
+
+            - (A) members of the body to vote at a general meeting of the body; or
+
+            - (B) members of the specified authority within the body to vote at that authority;
+
+          - (iv) the limit on—
+
+            - (A) the number of members of the body; or
+
+            - (B) the number of members of the specified authority within the body.
+
+      - (3) For the purposes of subsection (1)(b)—
+
+        - (a) a body (first-mentioned body) is also regarded as being entitled to vote at the specified authority within another body if a natural person who is entitled to vote at that authority—
+
+          - (i) specifies in writing to the Electoral Registration Officer that the natural person represents the first-mentioned body at that authority; and
+
+          - (ii) has substantial connection with the first-mentioned body; and
+
+        - (b) if more than one body is specified by the same natural person under paragraph (a)(i) in respect of the specified authority within any other body, only the body last so specified is regarded as being entitled to vote at that authority.
+
+      - (4) To avoid doubt, nothing in subsection (2) is to be construed as—
+
+        - (a) creating any restriction on a body regarding any amendment to, or substitution of, the constitution of the body; or
+
+        - (b) conferring on the Secretary for Constitutional and Mainland Affairs a power to approve such an amendment or substitution,
+
+      - for a purpose other than to define the specified entities of the relevant subsector.
+
+      - (5) In this section—
+
+        - constitution (章程), in relation to a body, includes any articles of association or rules of the body;
+
+        - former provision (原有條文) means a provision that is no longer in force;
+
+        - specified authority (指明單位), in relation to a body, means any authority within the body (other than a general meeting) the entitlement to vote at which is mentioned in a provision in Division 5 that provides for the specified entities of a subsector.
+
+    - (Added 14 of 2021 s. 424)
 
   - Division 2 Registration of voters
 
     - 12. Who is eligible to be registered as a voter
 
+    - (See Special Remarks)
+
       - (1) Subject to this section—
 
-        - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the education subsector, the social welfare subsector and the tourism subsector) if—
+        - (a) (Repealed 14 of 2021 s. 425)
 
-          - (i) the person is eligible to be registered as an elector for that functional constituency and has made an application to be so registered; or
-
-          - (ii) the person—
-
-            - (A) is registered for that functional constituency in the existing functional constituencies final register; and
-
-            - (B) is eligible to be, and is not disqualified from being, registered as an elector for that functional constituency; and
-
-        - (b) a person is eligible to be registered as a voter for a subsector specified in Table 5 in section 2 (other than the higher education and education subsectors, the social welfare subsector and the tourism and hotel subsectors) if—
+        - (b) a person is eligible to be registered as a voter for a subsector if— (Amended 14 of 2021 s. 425)
 
           - (i) the person—
 
-            - (A) is a person specified opposite to that subsector in column 3 of Table 5 in section 2; and
+            - (A) is a specified entity of that subsector; and (Replaced 14 of 2021 s. 425)
 
             - (B) where the person is a natural person, is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
 
@@ -756,143 +1214,77 @@ Election Committee
 
             - (B) is eligible to be, and is not disqualified from being, registered as a voter for that subsector.
 
-      - (2) A person is eligible to be registered as a voter for the sports, performing arts, culture and publication subsector subject to the following conditions—
-
-        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54, 59 or 65 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
-
-        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63, 64 or 66 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56; 14 of 2015 s. 16)
-
-        - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of, or Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the culture sub-subsector; and
-
-        - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(g), (h), (j) or (k) of, or item 15, 21, 28, 32, 36 or 51 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the publication sub-subsector. (Amended 7 of 2008 s. 10)
-
-      - (3) A person is eligible to be registered as a voter for the higher education subsector if the person—
-
-        - (a) is a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
-
-        - (b) is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
-
-      - (4) A person is eligible to be registered as a voter for the education subsector if—
-
-        - (a) the person is a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
-
-        - (b) the person is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542).
-
-      - (5) A person is eligible to be registered as a voter for the social welfare subsector if—
-
-        - (a) the person is a person described in section 20M of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the social welfare functional constituency;
-
-        - (b) the person is registered for the social welfare functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20M of the Legislative Council Ordinance (Cap. 542);
-
-        - (c) the person is a person described in paragraph (2), (3) or (4) of item 8 of Table 5 in section 2 and has made an application to be registered for the social welfare subsector; or
-
-        - (d) the person—
-
-          - (i) is registered for the social welfare subsector in the existing subsector final register by virtue of being a person described in paragraph (2), (3) or (4) of item 8 of Table 5 in section 2; and
-
-          - (ii) is not disqualified from being registered as a voter for that subsector.
-
-      - (6) A person is eligible to be registered as a voter for the tourism subsector if the person—
-
-        - (a) is a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
-
-        - (b) is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
-
-      - (7) A person is eligible to be registered as a voter for the hotel subsector if—
-
-        - (a) the person is a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
-
-        - (b) the person is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542).
-
-      - (8) A person is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
-
-      - (9) A person is eligible to be registered as a voter for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
-
-      - (10) Subject to this section—
-
-        - (a) a person who is registered or applies to be registered as an elector for a functional constituency with the same name as a subsector, cannot, subject to paragraph (b), be registered only as an elector for that functional constituency and not as a voter for the subsector;
-
-        - (b) a person who is registered or applies to be registered as a voter for a subsector with the same name as a functional constituency, cannot be registered only as a voter for that subsector and not as an elector for the functional constituency;
-
-        - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4, or item 1, 4, 7 or 8 (by virtue of subsection (5)(c) or (d)) of Table 5, in section 2, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and
-
-        - (d) a person who ceases to be eligible to be registered as an elector for a functional constituency with the same name as a subsector ceases to be eligible to be registered as a voter for that subsector, but may, subject to paragraph (a) and subsection (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
+      - (2)-(10) (Repealed 14 of 2021 s. 425)
 
       - (11) Subject to this section—
 
-        - (a) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
+        - (a) a person who—
 
-        - (b) a person who is eligible to be registered as a voter for the New Territories District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
+          - (i) is eligible to be registered as a voter for the Heung Yee Kuk subsector; and
+
+          - (ii) would, but for this paragraph, be eligible to be registered as a voter for any other subsector,
+
+        - may be registered only as a voter for the Heung Yee Kuk subsector;
+
+        - (b) a person who—
+
+          - (i) is eligible to be registered as a voter for the representatives of Hong Kong members of relevant national organisations subsector; and
+
+          - (ii) would, but for this paragraph, be eligible to be registered as a voter for any subsector other than the Heung Yee Kuk subsector,
+
+        - may be registered only as a voter for the representatives of Hong Kong members of relevant national organisations subsector; and
 
         - (c) a person who—
 
-          - (i) is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; and
+          - (i) is eligible to be registered as a voter for the Hong Kong and Kowloon District Committees subsector or the New Territories District Committees subsector; and
 
-          - (ii) would, but for this paragraph, be eligible to be registered as a voter for any subsector other than the 2 subsectors referred to in subparagraph (i),
+          - (ii) would, but for this paragraph, be eligible to be registered as a voter for any subsector other than the 2 subsectors referred to in paragraph (a)(i) and (b)(i),
 
-        - may be registered only as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector, as the case may be; (Replaced 1 of 2011 s. 11)
+        - may be registered only as a voter for the Hong Kong and Kowloon District Committees subsector or the New Territories District Committees subsector, as the case may be. (Replaced 14 of 2021 s. 425)
 
-        - (d) a person who ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector may, subject to subsections (10)(a) and (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter; (Replaced 1 of 2011 s. 11)
+      - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors (other than the Heung Yee Kuk subsector, the representatives of Hong Kong members of relevant national organisations subsector, the Hong Kong and Kowloon District Committees subsector and the New Territories District Committees subsector) may be registered as a voter for only one of those subsectors of the person’s choice. (Amended 1 of 2011 s. 11; 14 of 2021 s. 425)
 
-        - (e) a person who—
+      - (13)-(19) (Repealed 14 of 2021 s. 425)
 
-          - (i) is a person described opposite to the Hong Kong and Kowloon District Councils subsector in column 3 of Table 4 in section 2; and
+      - (19A) A body specified in section 39A, 39F, 39G, 39L, 39V(b), (h) or (i), 39Y(a) or (b), 39Z(a), 39ZD(b) or 39ZF as the specified entity of the subsector concerned is eligible to be registered as a corporate voter for that subsector only if it has been operating as such a specified entity for the 3 years immediately before making its application for registration as a voter. (Added 14 of 2021 s. 425)
 
-          - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
+      - (19B) A body specified in section 39S as the specified entity of the accountancy subsector is eligible to be registered as a corporate voter for that subsector only if—
 
-        - cannot, subject to paragraph (g), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the Hong Kong and Kowloon District Councils subsector; (Replaced 1 of 2011 s. 11)
+        - (a) it has been operating as such a specified entity for the 3 years immediately before making its application for registration as a voter; and
 
-        - (f) a person who—
+        - (b) it has undertaken or carried out PIE engagement (as defined by section 3A(1) of the Financial Reporting Council Ordinance (Cap. 588)) in the 3 years immediately before making the application for registration. (Added 14 of 2021 s. 425)
 
-          - (i) is a person described opposite to the New Territories District Councils subsector in column 3 of Table 4 in section 2; and
+      - (19C) However, for the purposes of subsection (19B), if the body is a registered PIE auditor as defined by section 3A(1) of the Financial Reporting Council Ordinance (Cap. 588) immediately before the day* on which the Improving Electoral System (Consolidated Amendments) Ordinance 2021 (14 of 2021) is published in the Gazette, the body is not required to have been operating, as such a registered PIE auditor, for the 3 years immediately before making the application for registration. (Added 14 of 2021 s. 425)
 
-          - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
-
-        - cannot, subject to paragraph (h), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the New Territories District Councils subsector; (Replaced 1 of 2011 s. 11)
-
-        - (g) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency; and (Added 1 of 2011 s. 11)
-
-        - (h) a person who is eligible to be registered as a voter for the New Territories District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency. (Added 1 of 2011 s. 11)
-
-      - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors (other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector) may, subject to subsection (10), be registered as a voter for only one of those subsectors of the person’s choice. (Amended 1 of 2011 s. 11)
-
-      - (13) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the higher education subsector. (Amended 25 of 2003 s. 56)
-
-      - (14) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the education subsector.
-
-      - (15) A person who is eligible to be registered as a voter for both the education subsector and the higher education subsector, may only be registered as a voter for the higher education subsector.
-
-      - (16) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the tourism subsector. (Amended 25 of 2003 s. 56)
-
-      - (17) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the hotel subsector.
-
-      - (18) A person who is eligible to be registered as a voter for both the tourism subsector and the hotel subsector, may only be registered as a voter for the hotel subsector.
-
-      - (19) A person described in column 3 of Table 4 in section 2 in relation to the subsector specified in item 3 of that Table, who—
-
-        - (a) is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered; or
-
-        - (b) is registered in the existing geographical constituencies final register, and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency,
-
-      - is eligible to be registered as a voter in that subsector.
-
-      - (20) A member of a body specified in item 1, 2, 3, 7 or 8 of column 3 of Table 5 in section 2 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter—
-
-        - (a) if the member is a corporate member of a body—
-
-          - (i) that member has been a member of that body for at least 12 months; and
-
-          - (ii) that member has been operating for at least 12 months; or
-
-        - (b) if the member is a natural person, the person has been a member of that body for at least 12 months.
+      - (20) A corporate member of a body specified in section 39B, 39C, 39D, 39E, 39H, 39I, 39J, 39K, 39M, 39N, 39O, 39P, 39U(b), 39ZA(a) or (c), 39ZC(a) or 39ZE(d) is eligible to be registered as a voter for the subsector concerned only if it has been a corporate member of that body and has been operating for the 3 years immediately before making its application for registration as a voter. (Replaced 14 of 2021 s. 425)
 
       - (21) A consular post to which any privilege or immunity is accorded under the Consular Relations Ordinance (Cap. 557) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
 
       - (22) An organization to which section 2 of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190) applies or an international organization defined in section 2 of the International Organizations (Privileges and Immunities) Ordinance (Cap. 558) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
 
+      - (23) In computing the period for which a body to which subsection (19A), (19B) or (20) applies has been operating—
+
+        - (a) it does not matter whether the period has begun before the day* on which the Improving Electoral System (Consolidated Amendments) Ordinance 2021 (14 of 2021) is published in the Gazette;
+
+        - (b) any period for which the body has been operating before it becomes a specified entity of the subsector concerned is not to be taken into account; and
+
+        - (c) if the relevant section mentioned in subsection (19A), (19B) or (20) refers to any entitlement to vote—
+
+          - (i) the body is not required to be so entitled to vote in order to be regarded as having become a specified entity of the subsector concerned; and
+
+          - (ii) it does not matter whether the body is so entitled to vote throughout the period. (Added 14 of 2021 s. 425)
+
+      - (24) For the purposes of the subsector provisional register and subsector final register to be compiled for 2021, subsection (19A) or (20) (as the case may be) applies to a body registered in the subsector final register published for 2020 as if the reference to “making its application for registration as a voter” in that subsection were a reference to “5 July 2021”. (Added 14 of 2021 s. 425)
+
+    - Editorial Note:
+
+    - * Gazettal date: 31 May 2021.
+
     - 13. Corporate voter to have authorized representative
 
-      - (1) A corporate voter is required to select one eligible person to be its authorized representative for the purpose of casting its vote at a subsector election.
+    - (See Special Remarks)
+
+      - (1) A corporate voter is required to appoint one eligible person to be its authorized representative for the purpose of casting its vote at a subsector election. (Amended 14 of 2021 s. 426)
 
       - (2) A person is eligible to be an authorized representative of a corporate voter for a subsector only if the person—
 
@@ -902,13 +1294,13 @@ Election Committee
 
           - (ii) eligible to be registered as an elector for a geographical constituency and has applied to be so registered;
 
-        - (b) has a substantial connection with the corporate voter;
+        - (b) has a substantial connection with the corporate voter; and (Amended 14 of 2021 s. 426)
 
-        - (c) is not registered or has not made an application to be registered as a voter for the subsector; and
+        - (c) (Repealed 14 of 2021 s. 426)
 
         - (d) is not disqualified from registration or voting under section 31 or 53 of the Legislative Council Ordinance (Cap. 542).
 
-      - (3) A person who is an authorized representative of a corporate voter is not eligible to be selected as the authorized representative of another corporate voter.
+      - (3) A person who is an authorized representative of a corporate voter is not eligible to be appointed as the authorized representative of another corporate voter. (Amended 14 of 2021 s. 426)
 
       - (4) A person cannot act as an authorized representative of a corporate voter unless the person is registered as such a representative by the Electoral Registration Officer.
 
@@ -918,37 +1310,23 @@ Election Committee
 
       - (7) The Electoral Registration Officer may refuse an application made under subsection (6) only on the ground that the authorized representative specified in the application is ineligible to be, or is disqualified from being, such a representative.
 
+      - (8) A decision to appoint or replace an authorized representative of a corporate voter under subsection (1) or (5) may only be made by the governing authority, by whatever name called, of the corporate voter. (Added 14 of 2021 s. 426)
+
     - 14. Electoral Registration Officer to compile and publish a register of voters
 
-      - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
+      - (1) The Electoral Registration Officer must compile and publish in accordance with the EAC Regulations—
 
-        - (a) not later than 1 June in each year other than a year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
+        - (a) not later than 1 August in each year, a provisional register of voters for subsectors; and
 
-        - (b) not later than 25 July in each year other than a year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Amended 33 of 2002 s. 11)
+        - (b) not later than 25 September in each year, a final register of voters for subsectors. (Replaced 14 of 2021 s. 427)
 
-      - (1A) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
+      - (1A) Despite subsection (1)—
 
-        - (a) not later than 1 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
+        - (a) a provisional register required to be compiled and published under subsection (1)(a) for 2021 must be compiled and published not later than 18 July 2021; and
 
-        - (b) not later than 25 September in each year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Added 33 of 2002 s. 11)
+        - (b) a final register required to be compiled and published under subsection (1)(b) for 2021 must be compiled and published not later than 5 August 2021. (Replaced 14 of 2021 s. 427)
 
-      - (1B) Despite subsections (1) and (1A), as soon as practicable after the District Council ordinary election in 2011, the Electoral Registration Officer must, in accordance with the EAC Regulations—
-
-        - (a) compile the subsector final register for the Hong Kong and Kowloon District Councils subsector by—
-
-          - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
-
-          - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
-
-        - (b) compile the subsector final register for the New Territories District Councils subsector by—
-
-          - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
-
-          - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
-
-        - (c) if the persons referred to in paragraphs (a)(ii) and (b)(ii) are registered as voters in any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector, strike out their names and other relevant particulars from the subsector final register for that subsector to the effect that they are no longer registered as voters for that subsector. (Added 1 of 2011 s. 12)
-
-      - (1C) The Electoral Registration Officer must, as soon as practicable after complying with subsection (1B), publish in accordance with the EAC Regulations the subsector final register in which there is any addition or removal of names and other relevant particulars of voters. (Added 1 of 2011 s. 12)
+      - (1B)-(1C) (Repealed 14 of 2021 s. 427)
 
       - (2) The Electoral Registration Officer may amend a subsector provisional register or subsector final register so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
@@ -970,6 +1348,8 @@ Election Committee
 
       - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the subsector final register have been entered on an omissions list and specifying the times and the place at which the omissions list may be inspected.
 
+      - (5A) Despite subsections (4) and (5), in compiling the subsector provisional register for 2021, the Electoral Registration Officer is not required to comply with those subsections in relation to the names and other relevant particulars of persons registered in the subsector final register published for 2020. (Added 14 of 2021 s. 427)
+
       - (6) The Electoral Registration Officer shall, for the period prescribed for the purposes of this subsection by the EAC Regulations—
 
         - (a) keep the omissions list at that Officer’s office; and
@@ -988,6 +1368,8 @@ Election Committee
 
     - 17. Who is eligible to be nominated as a candidate at a subsector election
 
+    - (See Special Remarks)
+
       - (1) A person is eligible to be nominated as a candidate at a subsector election for a subsector only if the person—
 
         - (a) has reached 18 years of age;
@@ -1002,9 +1384,11 @@ Election Committee
 
       - (2) A person is not eligible to be nominated as a candidate at a subsector ordinary election if the person is—
 
-        - (a) a nominee of a designated body under section 7(1); or
+        - (a) a nominee of a designated body under section 7(1); (Amended 14 of 2021 s. 428)
 
-        - (b) a Hong Kong deputy to the National People’s Congress or a Member of the Legislative Council (whether or not the person is an ex-officio member of the Election Committee).
+        - (b) a specified person (whether or not the person is an ex-officio member of the Election Committee); or (Replaced 14 of 2021 s. 428)
+
+        - (c) a designated person (whether or not the person is an ex-officio member of the Election Committee). (Added 14 of 2021 s. 428)
 
       - (3) A person is not eligible to be nominated as a candidate at a subsector by-election if—
 
@@ -1012,119 +1396,91 @@ Election Committee
 
         - (b) the person is a member of the Election Committee.
 
-    - 18. When a person is disqualified from being a subsector candidate A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
+    - 17A. Validity of nomination contingent on declaration
 
-      - (a) has ceased to have a substantial connection with the subsector concerned;
+    - (See Special Remarks)
 
-      - (b) has ceased to be registered or eligible to be registered as an elector for a geographical constituency;
+    - A nomination of a person as a candidate at a subsector election under section 17 is not valid unless—
 
-      - (c) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
+      - (a) the nomination form contains a declaration to the effect that the person will uphold the Basic Law and pledge allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China; and
 
-        - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
+      - (b) the declaration is signed by the person.
 
-        - (ii) received a free pardon;
+    - (Added 14 of 2021 s. 429)
 
-      - (d) on the date of nomination or on the date of the subsector election, is serving a sentence of imprisonment;
+    - 18. When a person is disqualified from being a subsector candidate
 
-      - (e) without limiting paragraph (c), where the subsector election is to be held or is held within 3 years after the date of the person’s conviction, is or has been convicted—
+    - (See Special Remarks)
 
-        - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
+      - (1) A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person— (Amended 14 of 2021 s. 430)
 
-        - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
+        - (a) has ceased to have a substantial connection with the subsector concerned;
 
-        - (iii) of any offence prescribed by the EAC Regulations;
+        - (b) has ceased to be registered or eligible to be registered as an elector for a geographical constituency;
 
-      - (f) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
+        - (c) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
 
-      - (g) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+          - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
 
-    - 18A. When a person is disqualified from being a candidate for 4 subsectors in the Fourth Sector
+          - (ii) received a free pardon;
+
+        - (d) on the date of nomination or on the date of the subsector election, is serving a sentence of imprisonment;
+
+        - (e) without limiting paragraph (c), where the subsector election is to be held or is held within 5 years after the date of the person’s conviction, is or has been convicted— (Amended 14 of 2021 s. 430)
+
+          - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
+
+          - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
+
+          - (iii) of any offence prescribed by the EAC Regulations;
+
+        - (f) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
+
+        - (g) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+
+      - (2) Without prejudice to section 13(1)(c) of the Electoral Affairs Commission Ordinance (Cap. 541), a person is also disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if, within the 5 years before the date of nomination—
+
+        - (a) the person has vacated an office, or has been disqualified from entering on an office, under the law, for declining or neglecting to take a specified oath; or
+
+        - (b) the person has been declared or decided in accordance with any law—
+
+          - (i) to be in breach of a specified oath; or
+
+          - (ii) to have failed to fulfil the legal requirements and conditions on upholding the Basic Law and bearing allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China. (Added 14 of 2021 s. 430)
+
+      - (3) In this section—
+
+        - specified oath (指明誓言) means an oath taken under the law that the oath-taker will uphold the Basic Law and bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China. (Added 14 of 2021 s. 430)
+
+    - 18A. When a person is disqualified from being a candidate for certain subsectors (Amended 14 of 2021 s. 431)
+
+    - (See Special Remarks)
 
       - (1) This section is without prejudice to section 18.
 
+      - (1A) This section applies to the following subsectors—
+
+        - (a) the Heung Yee Kuk subsector;
+
+        - (b) the Hong Kong and Kowloon District Committees subsector; and
+
+        - (c) the New Territories District Committees subsector. (Added 14 of 2021 s. 431)
+
       - (2) A person is disqualified from—
 
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 3 of Table 4 in section 2; or
+        - (a) being nominated as a candidate at a subsector election for a subsector; or
 
-        - (b) being elected as a member of the Election Committee representing that subsector,
+        - (b) being elected as a member of the Election Committee representing the subsector,
 
-      - if he is not a Hong Kong member of the National Committee of the Chinese People’s Political Consultative Conference.
+      - if the person is not a specified entity of the subsector. (Replaced 14 of 2021 s. 431)
 
-      - (3) A person is disqualified from—
-
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 4 of Table 4 in section 2; or
-
-        - (b) being elected as a member of the Election Committee representing that subsector,
-
-      - if he is not the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk.
-
-      - (4) A person is disqualified from—
-
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 5 of Table 4 in section 2; or
-
-        - (b) being elected as a member of the Election Committee representing that subsector,
-
-      - if the person is not elected as a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
-
-      - (5) A person is disqualified from—
-
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 6 of Table 4 in section 2; or
-
-        - (b) being elected as a member of the Election Committee representing that subsector,
-
-      - if the person is not elected as a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
+      - (3)-(5) (Repealed 14 of 2021 s. 431)
 
     - (Added 10 of 2006 s. 6)
 
-    - 18B. Election as District Council member does not affect nomination made earlier
+    - 18B-18C. (Repealed 14 of 2021 s. 432)
 
-      - (1) This subsection applies to a case in which—
-
-        - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector has subscribed the nomination paper of a candidate for that subsector in a subsector election; and
-
-        - (b) after the subscription of the nomination paper but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
-
-      - (2) In a case to which subsection (1) applies—
-
-        - (a) the validity of the subscription of the nomination paper is not affected by the person’s election; and
-
-        - (b) the person is disqualified—
-
-          - (i) if the election is a subsector ordinary election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in that election; or
-
-          - (ii) if the election is a subsector by-election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in any by-election for any subsector held during the term of the District Council for which the person is elected,
-
-        - unless the candidate nominated by the person meets any description in subsection (3).
-
-      - (3) The descriptions are—
-
-        - (a) the candidate withdraws candidature under section 21;
-
-        - (b) the Returning Officer decides under section 22(1) or 23(4) that the candidate is not validly nominated;
-
-        - (c) the Returning Officer has given a notice of death in respect of the candidate under section 23(1).
-
-    - (Added 1 of 2011 s. 14)
-
-    - 18C. Candidate for other subsectors cannot stand for District Councils subsector election even though elected as District Council member
-
-      - (1) This subsection applies to a case in which—
-
-        - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector is nominated as a candidate for that subsector in a subsector election; and
-
-        - (b) after the nomination but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
-
-      - (2) In a case to which subsection (1) applies—
-
-        - (a) the validity of the nomination of the person for the subsector is not affected by the person’s election; and
-
-        - (b) the person is, whether or not returned at the election, disqualified—
-
-          - (i) if the election is a subsector ordinary election, from being nominated as a candidate for the election in the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; or
-
-          - (ii) if the election is a subsector by-election, from being nominated as a candidate for the Hong Kong and Kowloon District Councils subsector by-election or the New Territories District Councils subsector by-election held during the term of the District Council for which the person is elected.
-
-    - (Added 1 of 2011 s. 14)
+    - (See Special Remarks)
 
     - 19. Candidate to lodge deposit
 
@@ -1142,13 +1498,17 @@ Election Committee
 
     - 22. Who are validly nominated candidates for subsector election
 
-      - (1) The Returning Officer for a subsector shall, as soon as practicable after receiving a nomination form that complies with the EAC Regulations, decide in accordance with those Regulations whether or not a person is validly nominated as a candidate at the subsector election.
+    - (See Special Remarks)
 
-      - (2) The Returning Officer for a subsector shall, in accordance with the EAC Regulations, publish a notice stating which persons are validly nominated as candidates at the subsector election.
+      - (1) The Candidate Eligibility Review Committee must, as soon as practicable after a nomination form that complies with the EAC Regulations is submitted in accordance with those Regulations, decide in accordance with Annex I to the Basic Law and those Regulations whether or not a person is validly nominated as a candidate at a subsector election. (Replaced 14 of 2021 s. 433)
+
+      - (2) The Candidate Eligibility Review Committee must, in accordance with the EAC Regulations, publish a notice stating which persons are validly nominated as candidates at the subsector election. (Amended 14 of 2021 s. 433)
 
     - 23. Death or disqualification of a validly nominated candidate before date of subsector election
 
-      - (1) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate has died, that Officer shall, in accordance with the EAC Regulations, give notice of the death.
+    - (See Special Remarks)
+
+      - (1) If, after the Candidate Eligibility Review Committee has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate has died, that Officer shall, in accordance with the EAC Regulations, give notice of the death. (Amended 14 of 2021 s. 434)
 
       - (2) If a notice under section 22(2) has been published, the Returning Officer shall also, in accordance with the EAC Regulations—
 
@@ -1158,9 +1518,13 @@ Election Committee
 
       - (3) Subsections (1) and (2) do not apply if the Returning Officer has publicly declared under section 25(1) that the candidate was duly elected as a member of the Election Committee.
 
-      - (4) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate is disqualified from being nominated as a candidate for a subsector election, the Returning Officer shall, in accordance with the EAC Regulations, vary the decision to the effect that the candidate is not validly nominated. If the Returning Officer so varies the decision, that Officer shall, in accordance with those Regulations, give notice of the variation of the decision.
+      - (4) If, after the Candidate Eligibility Review Committee has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Committee that the candidate is disqualified from being nominated as a candidate for a subsector election—
 
-      - (5) If a notice under section 22(2) has been published, the Returning Officer shall also, in accordance with the EAC Regulations—
+        - (a) the Committee must, in accordance with Annex I to the Basic Law and the EAC Regulations, vary the decision to the effect that the candidate is not validly nominated; and
+
+        - (b) if the Committee so varies the decision, the Returning Officer must, in accordance with those Regulations, give notice of the variation of the decision. (Replaced 14 of 2021 s. 434)
+
+      - (5) If a notice under section 22(2) has been published, the Candidate Eligibility Review Committee must also, in accordance with the EAC Regulations— (Amended 14 of 2021 s. 434)
 
         - (a) publicly declare that the decision has been varied; and
 
@@ -1182,6 +1546,8 @@ Election Committee
 
     - 25. What is to happen if insufficient number of candidates is nominated for a subsector
 
+    - (See Special Remarks)
+
       - (1) If—
 
         - (a) after the close of nominations of candidates for a subsector ordinary election, no more candidates have been validly nominated than the number of members allocated to the subsector; or
@@ -1190,7 +1556,9 @@ Election Committee
 
       - the Returning Officer concerned shall, in accordance with the EAC Regulations, publicly declare the candidates for the subsector to be duly elected as members of the Election Committee representing the subsector.
 
-      - (2) If, after the close of nominations of candidates for a subsector election, no candidate was validly nominated, the Returning Officer concerned shall, by notice published in the Gazette, declare that no candidate was validly nominated for the subsector election.
+      - (2) Subject to subsection (2A), if, after the close of nominations of candidates for a subsector election, no candidate was validly nominated, the Candidate Eligibility Review Committee must, by notice published in the Gazette, declare that no candidate was validly nominated for the subsector election. (Amended 14 of 2021 s. 435)
+
+      - (2A) If, after the close of nominations of candidates for a subsector election, a notice has been given under section 23(1) or (4) and no candidate remains validly nominated, the Returning Officer concerned must, by notice published in the Gazette, declare that no candidate was validly nominated for the subsector election. (Added 14 of 2021 s. 435)
 
       - (3) If—
 
@@ -1202,7 +1570,15 @@ Election Committee
 
     - 26. Death or disqualification of a validly nominated candidate before declaration of election result
 
-      - (1) If, on or after the date of a subsector election but before declaring the result of the subsector election, proof is given to the satisfaction of the Returning Officer concerned that a validly nominated candidate for the subsector election has died or is disqualified from being elected, the proceedings for the subsector election are to begin (if they have not begun) or to continue (if they have begun) as if the death or disqualification had not occurred.
+    - (See Special Remarks)
+
+      - (1) If, on or after the date of a subsector election but before declaring the result of the subsector election—
+
+        - (a) proof is given to the satisfaction of the Returning Officer concerned that a validly nominated candidate for the subsector election has died; or
+
+        - (b) proof is given to the satisfaction of the Candidate Eligibility Review Committee that a validly nominated candidate for the subsector election is disqualified from being elected,
+
+      - the proceedings for the subsector election are to begin (if they have not begun) or to continue (if they have begun) as if the death or disqualification had not occurred. (Replaced 14 of 2021 s. 436)
 
       - (2) If—
 
@@ -1346,11 +1722,13 @@ Election Committee
 
     - 39. Subsector election may be questioned only by appeal to Revising Officer
 
-      - (1) A person claiming to be a candidate at a subsector election may appeal against the result to a Revising Officer in accordance with the regulations.
+    - (See Special Remarks)
+
+      - (1) A person claiming to be a candidate at a subsector election may appeal against the result (including the decision of the Candidate Eligibility Review Committee) to a Revising Officer in accordance with the regulations. (Amended 14 of 2021 s. 437)
 
       - (2) An appeal under subsection (1) may be lodged only during the period of 7 days following the date on which the Returning Officer has published in the Gazette the result being appealed against.
 
-      - (3) Any person whose election is questioned by an appeal under this section and the Returning Officer in respect of the subsector election concerned may be made a respondent to the appeal.
+      - (3) Any person whose election is questioned by an appeal under this section, the Returning Officer in respect of the subsector election concerned and the Candidate Eligibility Review Committee may be made a respondent to the appeal. (Amended 14 of 2021 s. 437)
 
       - (4) At the hearing of the appeal, the appellant is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
 
@@ -1358,15 +1736,541 @@ Election Committee
 
       - (6) The determination of the Revising Officer on such an appeal is final.
 
+  - Division 5 Specified Entities (Division 5 added 14 of 2021 s. 438)
+
+  - (See Special Remarks)
+
+    - Subdivision 1 First Sector
+
+    - (See Special Remarks)
+
+      - 39A. Specified entities of the catering subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the catering subsector are any body that is a holder of a food business licence under the Public Health and Municipal Services Ordinance (Cap. 132) and—
+
+        - (a) is entitled to vote at the Board of The Association for Hong Kong Catering Services Management Limited;
+
+        - (b) is entitled to vote at the Board of The Association of Restaurant Managers Limited; or
+
+        - (c) is entitled to vote at the Board of Hong Kong Catering Industry Association Limited.
+
+      - 39B. Specified entities of the commercial (first) subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the commercial (first) subsector are any body that—
+
+        - (a) is a corporate member of The Hong Kong General Chamber of Commerce; and
+
+        - (b) is entitled to vote at the General Committee of the Chamber.
+
+      - 39C. Specified entities of the commercial (second) subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the commercial (second) subsector are any body that—
+
+        - (a) is a corporate member of The Chinese General Chamber of Commerce; and
+
+        - (b) is entitled to vote at the Committee of the Chamber.
+
+      - 39D. Specified entities of the commercial (third) subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the commercial (third) subsector are any body that—
+
+        - (a) is a corporate member of the Hong Kong Chinese Enterprises Association; and
+
+        - (b) is entitled to vote at the Board of the Association.
+
+      - 39E. Specified entities of the Employers’ Federation of Hong Kong subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the Employers’ Federation of Hong Kong subsector are any body that—
+
+        - (a) is a corporate member of the Employers’ Federation of Hong Kong; and
+
+        - (b) is entitled to vote at the Council or the General Committee of the Federation.
+
+      - 39F. Specified entities of the finance subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the finance subsector are—
+
+        - (a) banks within the meaning of the Banking Ordinance (Cap. 155);
+
+        - (b) restricted licence banks within the meaning of the Banking Ordinance (Cap. 155); and
+
+        - (c) deposit-taking companies within the meaning of the Banking Ordinance (Cap. 155).
+
+      - 39G. Specified entities of the financial services subsector
+
+      - (See Special Remarks)
+
+        - (1) The specified entities of the financial services subsector are—
+
+          - (a) any body that is licensed under the Securities and Futures Ordinance (Cap. 571), and—
+
+            - (i) is entitled to vote at the specified authority of The Chinese Securities Association of Hong Kong Company Limited;
+
+            - (ii) is entitled to vote at the Board of Hong Kong Securities Professionals Association Limited;
+
+            - (iii) is entitled to vote at the Committee of The Institute of Securities Dealers Limited;
+
+            - (iv) is entitled to vote at the Board of Hong Kong Securities Association Limited;
+
+            - (v) is entitled to vote at the Executive Committee of The Hong Kong Association of Online Brokers Limited;
+
+            - (vi) is entitled to vote at the Executive Committee of The Hong Kong Institute of Financial Analysts and Professional Commentators Limited;
+
+            - (vii) is entitled to vote at the Council of Hong Kong Securities and Futures Professional Association; or
+
+            - (viii) is entitled to vote at the Board of Chinese Futures Association of Hong Kong Company Limited; and
+
+          - (b) any body that is entitled to vote at the Executive and Supervisory Committee of the Chinese Gold and Silver Exchange.
+
+        - (2) In subsection (1)(a)(i)—
+
+          - specified authority (指明單位) means either the Council or Board of Directors as specified by the President of the company mentioned in subsection (1)(a)(i).
+
+      - 39H. Specified entities of the hotel subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the hotel subsector are any body that—
+
+        - (a) is a corporate member of the Federation of Hong Kong Hotel Owners Limited; and
+
+        - (b) is entitled to vote at general meetings of the company.
+
+      - 39I. Specified entities of the import and export subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the import and export subsector are any body that—
+
+        - (a) is a corporate member of The Hong Kong Chinese Importers’ and Exporters’ Association; and
+
+        - (b) is entitled to vote at the Council of the Association.
+
+      - 39J. Specified entities of the industrial (first) subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the industrial (first) subsector are any body that—
+
+        - (a) is a corporate member of the Federation of Hong Kong Industries; and
+
+        - (b) is entitled to vote at the General Committee of the Federation.
+
+      - 39K. Specified entities of the industrial (second) subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the industrial (second) subsector are any body that—
+
+        - (a) is a corporate member of The Chinese Manufacturers’ Association of Hong Kong; and
+
+        - (b) is entitled to vote at the General Committee of the Association.
+
+      - 39L. Specified entities of the insurance subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the insurance subsector are insurers authorized or deemed to be authorized under the Insurance Ordinance (Cap. 41).
+
+      - 39M. Specified entities of the real estate and construction subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the real estate and construction subsector are—
+
+        - (a) any body that—
+
+          - (i) is a corporate member of The Real Estate Developers Association of Hong Kong; and
+
+          - (ii) is entitled to vote at the Board of Directors or executive committee of the Association;
+
+        - (b) any body that—
+
+          - (i) is a corporate member of The Hong Kong Construction Association, Limited; and
+
+          - (ii) is entitled to vote at the Council of the company; and
+
+        - (c) any body that—
+
+          - (i) is a corporate member of The Hong Kong E&M Contractors’ Association Limited; and
+
+          - (ii) is entitled to vote at the Council of the company.
+
+      - 39N. Specified entities of the small and medium enterprises subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the small and medium enterprises subsector are—
+
+        - (a) any body that—
+
+          - (i) is a corporate member of Hong Kong Commerce and Industry Associations Limited; and
+
+          - (ii) is entitled to vote at the Board of the company;
+
+        - (b) any body that—
+
+          - (i) is a corporate member of The Hong Kong General Chamber of Small and Medium Business Limited; and
+
+          - (ii) is entitled to vote at the General Committee of the company; and
+
+        - (c) any body that—
+
+          - (i) is a corporate member of Hong Kong Small and Medium Enterprises Association Limited; and
+
+          - (ii) is entitled to vote at the Council of the company.
+
+      - 39O. Specified entities of the textiles and garment subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the textiles and garment subsector are—
+
+        - (a) any body that—
+
+          - (i) is a corporate member of the Textile Council of Hong Kong Limited; and
+
+          - (ii) is entitled to vote at the General Committee of the company; and
+
+        - (b) any body that—
+
+          - (i) is a corporate member of The Hong Kong General Chamber of Textiles Limited; and
+
+          - (ii) is entitled to vote at the Board of Directors of the company.
+
+      - 39P. Specified entities of the tourism subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the tourism subsector are—
+
+        - (a) any body that—
+
+          - (i) is a travel agent holding a licence as defined by section 2 of the Travel Agents Ordinance (Cap. 218); and
+
+          - (ii) is—
+
+            - (A) a corporate member of the Travel Industry Council of Hong Kong entitled to vote at the Board of Directors of the Council;
+
+            - (B) a corporate member of Hong Kong Association of China Travel Organisers Limited entitled to vote at the Executive Committee of the company;
+
+            - (C) a corporate member of International Chinese Tourist Association Limited entitled to vote at the Executive Committee of the company;
+
+            - (D) a corporate member of The Federation of Hong Kong Chinese Travel Agents Limited entitled to vote at the Executive Committee of the company;
+
+            - (E) a corporate member of Hong Kong Outbound Tour Operators’ Association Limited entitled to vote at the Executive Committee of the company;
+
+            - (F) a corporate member of Hong Kong Association of Travel Agents Limited entitled to vote at the Executive Committee of the company;
+
+            - (G) a corporate member of Hongkong Taiwan Tourist Operators Association entitled to vote at the Executive Committee of the Association;
+
+            - (H) a corporate member of Hongkong Japanese Tour Operators Association Limited entitled to vote at the Executive Committee of the company; or
+
+            - (I) a corporate member of Society of IATA Passenger Agents Limited entitled to vote at the Executive Committee of the company; and
+
+        - (b) any body that—
+
+          - (i) is a corporate member of The Board of Airline Representatives in Hong Kong; and
+
+          - (ii) is entitled to vote at the Executive Committee of the Board.
+
+      - 39Q. Specified entities of the transport subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the transport subsector are the bodies set out in Annex 1 to this Schedule.
+
+      - 39R. Specified entities of the wholesale and retail subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the wholesale and retail subsector are the bodies set out in Annex 2 to this Schedule.
+
+    - Subdivision 2 Second Sector
+
+    - (See Special Remarks)
+
+      - 39S. Specified entities of the accountancy subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the accountancy subsector are any practice unit (as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50)) that—
+
+        - (a) is registered under the Professional Accountants Ordinance (Cap. 50); and
+
+        - (b) is a registered PIE auditor as defined by section 3A(1) of the Financial Reporting Council Ordinance (Cap. 588).
+
+      - 39T. Specified entities of the architectural, surveying, planning and landscape subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the architectural, surveying, planning and landscape subsector are the bodies set out in Annex 3 to this Schedule.
+
+      - 39U. Specified entities of the Chinese medicine subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the Chinese medicine subsector are—
+
+        - (a) Federation of the Hong Kong Chinese Medicine Practitioners and Chinese Medicines Traders Association Limited;
+
+        - (b) the corporate members of the Federation; and
+
+        - (c) the bodies set out in Annex 4 to this Schedule.
+
+      - 39V. Specified entities of the education subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the education subsector are—
+
+        - (a) institutions of higher education funded through the University Grants Committee;
+
+        - (b) post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320);
+
+        - (c) The Open University of Hong Kong;
+
+        - (d) The Hong Kong Academy for Performing Arts;
+
+        - (e) the Vocational Training Council;
+
+        - (f) The Hong Kong Examinations and Assessment Authority;
+
+        - (g) the Hong Kong Council for Accreditation of Academic and Vocational Qualifications;
+
+        - (h) schools registered under section 13 of the Education Ordinance (Cap. 279) or under either of the repealed Ordinances (as defined by section 3(1) of that Ordinance), other than an exempted school (as defined by section 2 of the Education (Exemption) (Private Schools Offering Non-Formal Curriculum) Order (Cap. 279 sub. leg. F)); and
+
+        - (i) schools entirely maintained and controlled by the Government.
+
+      - 39W. Specified entities of the engineering subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the engineering subsector are the bodies set out in Annex 5 to this Schedule.
+
+      - 39X. Specified entities of the legal subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the legal subsector are the bodies set out in Annex 6 to this Schedule.
+
+      - 39Y. Specified entities of the medical and health services subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the medical and health services subsector are—
+
+        - (a) any prescribed hospital (as defined by section 2(1) of the Hospital Authority Ordinance (Cap. 113));
+
+        - (b) any hospital licensed under the Private Healthcare Facilities Ordinance (Cap. 633); and
+
+        - (c) the bodies set out in Annex 7 to this Schedule.
+
+      - 39Z. Specified entities of the social welfare subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the social welfare subsector are—
+
+        - (a) any social welfare organizations receiving regular subsidies from the Social Welfare Department; and
+
+        - (b) the bodies set out in Annex 8 to this Schedule.
+
+      - 39ZA. Specified entities of the sports, performing arts, culture and publication subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the sports, performing arts, culture and publication subsector are—
+
+        - (a) the corporate members of the Sports Federation & Olympic Committee of Hong Kong, China;
+
+        - (b) Hong Kong Sports Institute Limited;
+
+        - (c) any body that—
+
+          - (i) is a corporate member of the Hong Kong Publishing Federation Limited; and
+
+          - (ii) is entitled to vote at general meetings of the company; and
+
+        - (d) the bodies set out in Annex 9 to this Schedule.
+
+      - 39ZB. Specified entities of the technology and innovation subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the technology and innovation subsector are the bodies set out in Annex 10 to this Schedule.
+
+    - Subdivision 3 Third Sector
+
+    - (See Special Remarks)
+
+      - 39ZC. Specified entities of the agriculture and fisheries subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the agriculture and fisheries subsector are—
+
+        - (a) the corporate members of each of the following bodies—
+
+          - (i) The Federation of Vegetable Marketing Co-operative Societies, Limited;
+
+          - (ii) The Federation of Pig Raising Co-operative Societies of Hong Kong, Kowloon and New Territories, Limited;
+
+          - (iii) The Joint Association of Hong Kong Fishermen;
+
+          - (iv) Federation of Hong Kong Aquaculture Associations;
+
+          - (v) The Federation of Fishermen’s Co-operative Societies of Shau Kei Wan District, Limited;
+
+          - (vi) The Federation of Fishermen’s Co-operative Societies of Tai Po District, N.T., Limited;
+
+          - (vii) The Federation of Fishermen’s Co-operative Societies of Sai Kung District, Limited;
+
+          - (viii) The Federation of Fishermen’s Co-operative Societies of Southern District, Limited;
+
+          - (ix) Hong Kong Fishermen Consortium;
+
+          - (x) Federation of Hong Kong Agricultural Associations; and
+
+        - (b) the bodies set out in Annex 11 to this Schedule.
+
+      - 39ZD. Specified entities of the associations of Chinese fellow townsmen subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the associations of Chinese fellow townsmen subsector are—
+
+        - (a) the bodies set out in Annex 12 to this Schedule; and
+
+        - (b) the associations of Chinese fellow townsmen that are recognized by those bodies and at county level or above.
+
+      - 39ZE. Specified entities of the grassroots associations subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the grassroots associations subsector are—
+
+        - (a) Hong Kong Island Federation;
+
+        - (b) Kowloon Federation of Associations;
+
+        - (c) New Territories Association of Societies; and
+
+        - (d) any body that—
+
+          - (i) is a corporate member of any of the federation or association mentioned in paragraph (a), (b) or (c); and
+
+          - (ii) is entitled to vote at general meetings of the federation or association.
+
+      - 39ZF. Specified entities of the labour subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the labour subsector are the trade unions registered under the Trade Unions Ordinance (Cap. 332) of which all the voting members are employees.
+
+    - Subdivision 4 Fourth Sector
+
+    - (See Special Remarks)
+
+      - 39ZG. Specified entities of the Heung Yee Kuk subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the Heung Yee Kuk subsector are the Chairman and Vice-Chairmen of the Heung Yee Kuk and the Ex Officio, Special and Co-opted Councillors of the Full Council of the Kuk.
+
+      - 39ZH. Specified entities of the Hong Kong and Kowloon District Committees subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the Hong Kong and Kowloon District Committees subsector are the members of the Area Committees, District Fight Crime Committees and District Fire Safety Committees established in any of the following Districts—
+
+        - (a) Central & Western District;
+
+        - (b) Eastern District;
+
+        - (c) Southern District;
+
+        - (d) Wan Chai District;
+
+        - (e) Kowloon City District;
+
+        - (f) Kwun Tong District;
+
+        - (g) Sham Shui Po District;
+
+        - (h) Wong Tai Sin District;
+
+        - (i) Yau Tsim Mong District.
+
+      - 39ZI. Specified entities of the New Territories District Committees subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the New Territories District Committees subsector are the members of the Area Committees, District Fight Crime Committees and District Fire Safety Committees established in any of the following Districts—
+
+        - (a) Islands District;
+
+        - (b) Kwai Tsing District;
+
+        - (c) Sai Kung District;
+
+        - (d) Sha Tin District;
+
+        - (e) Tsuen Wan District;
+
+        - (f) Tuen Mun District;
+
+        - (g) Yuen Long District;
+
+        - (h) North District;
+
+        - (i) Tai Po District.
+
+    - Subdivision 5 Fifth Sector
+
+    - (See Special Remarks)
+
+      - 39ZJ. Specified entities of the representatives of Hong Kong members of relevant national organisations subsector
+
+      - (See Special Remarks)
+
+      - The specified entities of the representatives of Hong Kong members of relevant national organisations subsector are—
+
+        - (a) Hong Kong Special Administrative Region delegates of the All-China Women’s Federation;
+
+        - (b) Hong Kong Special Administrative Region executive members of the All-China Federation of Industry and Commerce;
+
+        - (c) Hong Kong Special Administrative Region committee members of the All-China Federation of Returned Overseas Chinese;
+
+        - (d) Hong Kong Special Administrative Region committee members of the All-China Youth Federation; and
+
+        - (e) Hong Kong Special Administrative Region directors of the China Overseas Friendship Association.
+
 - Part 5 Interim Register and Final Register of Members of Election Committee (Amended 10 of 2006 s. 21)
 
   - 40. Electoral Registration Officer to compile and publish interim register and final register (Amended 10 of 2006 s. 21)
+
+  - (See Special Remarks)
 
     - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations— (Amended 10 of 2006 s. 21; 1 of 2011 s. 15)
 
       - (a) if the polling for the subsector ordinary elections for all subsectors is held on the same day, an interim register of members of the Election Committee within 7 days after the results of the elections are published under section 35; or
 
       - (b) if the polling for the subsector ordinary elections for different subsectors is held on different days, the relevant parts of an interim register of members of the Election Committee within 7 days after the results of the relevant elections are published under section 35. (Amended 1 of 2011 s. 15)
+
+    - (1A) Subject to section 41, in compiling an interim register of members of the Election Committee under subsection (1) after the publication of results of the subsector ordinary elections, the Electoral Registration Officer must register the persons whose registrations are determined under section 5N as valid on the date of those subsector ordinary elections (or the last of those dates, if different dates are specified for those subsector ordinary elections) as ex-officio members of the Election Committee, in accordance with the EAC Regulations. (Added 14 of 2021 s. 439)
 
     - (2) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a final register of members of the Election Committee within 7 days after the result of a subsector by-election is published under section 35. (Amended 10 of 2006 s. 21)
 
@@ -1382,29 +2286,21 @@ Election Committee
 
       - (a) the Electoral Registration Officer has compiled and published a provisional register of members of the Election Committee under section 4;
 
-      - (b) the Electoral Affairs Commission has ascertained under section 5(1)(a) the number of members representing each subsector (other than a subsector specified in items 1 and 2 of Table 4 in section 2) on the Election Committee; and
+      - (b) the Electoral Affairs Commission has ascertained under section 5(1)(a) the number of members nominated in accordance with Part 3 or elected in accordance with Part 4 for each subsector on the Election Committee; and (Replaced 14 of 2021 s. 439)
 
-      - (c) the number of members representing each subsector on the Election Committee so ascertained is equal to the number of members allocated to the subsector in accordance with section 2(6),
+      - (c) the number of members representing each subsector on the Election Committee so ascertained is equal to the number of members allocated to the subsector in accordance with section 2(7)(b) or (c) (as the case may be), (Amended 14 of 2021 s. 439)
 
     - the Electoral Registration Officer shall, as soon as practicable after the Electoral Affairs Commission’s ascertainment, publish in accordance with the EAC Regulations the provisional register as a final register of members of the Election Committee.
 
   - 41. Electoral Registration Officer to amend interim register or final register to give effect to change in ex-officio membership (Amended 10 of 2006 s. 21)
 
+  - (See Special Remarks)
+
     - (1) The Electoral Registration Officer may from time to time amend the interim register of members of the Election Committee or final register of members of the Election Committee in accordance with this section and the EAC Regulations to give effect to any change in the ex-officio membership of the Election Committee.
 
-    - (2) If a person is registered as an ex-officio member of the Election Committee—
+    - (2) If an ex-officio member of the Election Committee resigns from the membership of the Election Committee or is regarded as having resigned from such membership under section 3, the Electoral Registration Officer must remove the member’s name from the interim register of members of the Election Committee or final register of members of the Election Committee. (Replaced 14 of 2021 s. 440)
 
-      - (a) by virtue of being a person referred to in section 2(7)(c)(i), and subsequently that person ceases to be a Hong Kong deputy to the National People’s Congress, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer shall, subject to subsection (3), remove that person’s name from the interim register of members of the Election Committee or final register of members of the Election Committee; or
-
-      - (b) by virtue of being a person referred to in section 2(7)(c)(ii), and subsequently that person ceases to be a Member of the Legislative Council, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer shall, subject to subsection (3), remove that person’s name from the interim register of members of the Election Committee or final register of members of the Election Committee.
-
-    - (3) The Electoral Registration Officer shall register as ex-officio members of the Election Committee—
-
-      - (a) persons who become Hong Kong deputies to the National People’s Congress; and
-
-      - (b) persons who become Members of the Legislative Council,
-
-    - from time to time (except those persons who are not Hong Kong permanent residents) in accordance with the EAC Regulations.
+    - (3) Subject to section 2, the Electoral Registration Officer must register persons whose registrations are determined under section 5N as valid as ex-officio members of the Election Committee from time to time in accordance with the EAC Regulations. (Replaced 14 of 2021 s. 440)
 
     - (4) If the Electoral Registration Officer adds names to or removes names from the interim register or final register of members of the Election Committee under this section, that Officer shall, as soon as practicable after the addition or removal, publish, in accordance with the EAC Regulations, a notice to the effect that names have been so added or removed.
 
@@ -1419,6 +2315,42 @@ Election Committee
     - (3) If the Electoral Registration Officer amends the interim register of members of the Election Committee or final register of members of the Election Committee under subsection (2), that Officer shall, as soon as practicable after the amendment, publish, in accordance with the EAC Regulations, a notice of the amendment.
 
   - (Amended 10 of 2006 s. 21)
+
+  - 42A. Written oath of members of the Election Committee
+
+  - (See Special Remarks)
+
+    - (1) Despite sections 40, 41 and 42, the Electoral Registration Officer must not include the name of a member-elect of a term of office in the final register of members of the Election Committee for that term of office unless the Officer has received the written Election Committee Oath signed by the member-elect under subsection (2).
+
+    - (2) A member-elect of a term of office must sign the written Election Committee Oath in the form prescribed in Annex 13 to this Schedule—
+
+      - (a) if the member-elect falls within paragraph (a) of the definition of member-elect in subsection (3)—within the period between—
+
+        - (i) the date of publication of the interim register of members of the Election Committee under section 40(1) for that term of office; and
+
+        - (ii) 7 days before the date of publication of the final register of members of the Election Committee under section 40(3A)(b) for that term of office;
+
+      - (b) if the member-elect falls within paragraph (b) of the definition of member-elect in subsection (3)—as soon as practicable after the member-elect’s registration is determined as valid for that term of office under section 5N;
+
+      - (c) if the member-elect falls within paragraph (c) of the definition of member-elect in subsection (3)—within 3 days after the member-elect is declared as a member of the Election Committee for that term of office under section 7(8); or
+
+      - (d) if the member-elect falls within paragraph (d) of the definition of member-elect in subsection (3)—within 3 days after the day on which the subsector by-election concerned is held for that term of office.
+
+    - (3) In this section—
+
+      - member-elect (候任委員), in relation to a term of office, means a person—
+
+        - (a) whose name appears in the interim register of members of the Election Committee published under section 40(1) for that term of office;
+
+        - (b) whose registration is determined as valid under section 5N after the publication of the final register of members of the Election Committee under section 40(3A)(b) for that term of office;
+
+        - (c) who is declared as a member of the Election Committee under section 7(8) after the publication of the final register of members of the Election Committee under section 40(3A)(b) for that term of office; or
+
+        - (d) whose name appears in a notice published under section 35 in respect of a subsector by-election for that term of office;
+
+      - term of office (任期) means a term of office of the Election Committee.
+
+  - (Added 14 of 2021 s. 441)
 
   - 43. When final register is to take effect
 
@@ -1472,6 +2404,8 @@ Election Committee
 
   - 47. Appointment of Returning Officers and assistants
 
+  - (See Special Remarks)
+
     - (1) The Electoral Affairs Commission shall appoint for each subsector a Returning Officer and such number of Assistant Returning Officers as appears to the Commission to be necessary to enable members of the Election Committee (other than ex-officio members) to be returned for the subsector.
 
     - (2) A Returning Officer has such functions as are conferred or imposed on that Officer by or under this Schedule.
@@ -1482,22 +2416,1834 @@ Election Committee
 
     - (5) The executive authorities of the Government shall ensure that each Returning Officer is provided with such staff as that Officer requires in order to perform that Officer’s functions under this Schedule.
 
-    - (6) Expenses properly incurred by a Returning Officer in the performance of that Officer’s functions under this Schedule or the Electoral Affairs Commission Ordinance (Cap. 541) are a charge on, and are payable from, the general revenue.
+    - (6) Expenses properly incurred by—
 
-  - 48. Right of appeal to Revising Officer against decisions of Electoral Registration Officer
+      - (a) a Returning Officer in the performance of that Officer’s functions under this Schedule or the Electoral Affairs Commission Ordinance (Cap. 541); or
+
+      - (b) the Candidate Eligibility Review Committee in the performance of its functions under this Schedule or that Ordinance,
+
+    - are a charge on, and are payable from, the general revenue. (Replaced 14 of 2021 s. 443)
+
+  - 48. Right of appeal to Revising Officer (Amended 14 of 2021 s. 444)
+
+  - (See Special Remarks)
 
     - (1) A person who is dissatisfied with a decision of the Electoral Registration Officer made for the purposes of this Schedule may appeal against the decision to a Revising Officer.
+
+    - (1A) Subject to section 9B of the Ordinance, a person who is dissatisfied with a decision of the Candidate Eligibility Review Committee made for the purposes of this Schedule may appeal against the decision to a Revising Officer. (Added 14 of 2021 s. 444)
 
     - (2) The determination of a Revising Officer on such an appeal is final.
 
     - (2A) A Revising Officer may determine an appeal without a hearing on the basis of written submissions only. (Added 1 of 2019 s. 8)
 
-    - (2B) Subsections (3) and (4) apply if a hearing is held for an appeal. (Added 1 of 2019 s. 8)
+    - (2B) (Repealed 14 of 2021 s. 444)
 
-    - (3) The Electoral Registration Officer, or an Assistant Electoral Registration Officer, is required to appear as the respondent at the hearing of the appeal.
+    - (3) The Electoral Registration Officer or the Returning Officer for the relevant subsector may be made a respondent to the appeal. (Replaced 14 of 2021 s. 444)
 
-    - (4) At the hearing of the appeal, the appellant or any other person concerned in the appeal is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
+    - (3A) The Candidate Eligibility Review Committee may also be made a respondent to the appeal if the appeal is made under subsection (1A). (Added 14 of 2021 s. 444)
+
+    - (4) If a hearing is held for an appeal, the appellant or any other person concerned in the appeal is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person. (Amended 14 of 2021 s. 444)
 
   - 49. (Repealed 10 of 2006 s. 31)
 
-- (Amended E.R. 2 of 2012) (Format changes—E.R. 1 of 2012)
+Annex 1 Bodies Specified for the Transport Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | Parking Management and Consultancy Services Limited
+
+2. | Airport Authority
+
+3. | Hong Kong Driver’s Training Association
+
+4. | The Association of N.T. Radio Taxicabs Ltd.
+
+5. | Autotoll Limited
+
+6. | The Chartered Institute of Logistics and Transport in Hong Kong
+
+7. | China Merchants Shipping & Enterprises Co. Ltd.
+
+8. | Chu Kong Shipping Enterprises (Holdings) Co. Ltd.
+
+9. | Chuen Kee Ferry Limited
+
+10. | Chuen Lee Radio Taxis Association Ltd.
+
+11. | Citybus Ltd.
+
+12. | Coral Sea Ferry Service Co., Ltd.
+
+13. | COSCO-HIT Terminals (Hong Kong) Limited
+
+14. | CTOD Association Company Ltd.
+
+15. | Turbojet Ferry Services (Guangzhou) Limited
+
+16. | Discovery Bay Transportation Services Ltd.
+
+17. | Driving Instructors Merchants Association, Limited
+
+18. | Eastern Ferry Company Limited
+
+19. | Expert Fortune Ltd.
+
+20. | Far East Hydrofoil Co. Ltd.
+
+21. | Fat Kee Stevedores Ltd.
+
+22. | The Fraternity Association of N.T. Taxi Merchants
+
+23. | Fraternity Taxi Owners Association
+
+24. | G.M.B. Maxicab Operators General Association Ltd.
+
+25. | The Goods Vehicle Fleet Owners Association Ltd.
+
+26. | Happy Taxi Operator’s Association Ltd.
+
+27. | Hoi Kong Container Services Co. Ltd.
+
+28. | Hon Wah Public Light Bus Association Ltd.
+
+29. | Hong Kong Air Cargo Terminals Limited
+
+30. | Hong Kong & Kowloon Ferry Ltd.
+
+31. | Hong Kong Kowloon Goods Vehicles, Omnibuses and Minibuses Instructors Association Limited
+
+32. | Hong Kong & Kowloon Motor Boats & Tug Boats Association Limited
+
+33. | Hong Kong & Kowloon Radio Car Owners Association Ltd.
+
+34. | Hong Kong and Kowloon Rich Radio Car Service Centre Association Ltd.
+
+35. | HongKong Association of Freight Forwarding and Logistics Limited
+
+36. | Hong Kong Automobile Association
+
+37. | The Hong Kong Cargo-Vessel Traders’ Association Ltd.
+
+38. | Hong Kong Commercial Vehicle Driving Instructors Association
+
+39. | Hong Kong CFS and Logistics Association Limited
+
+40. | Hong Kong Container Tractor Owner Association Ltd.
+
+41. | Hong Kong Driving Instructors’ Association
+
+42. | Hong Kong Guangdong Transportation Association Ltd.
+
+43. | The Hong Kong Institute of Marine Technology
+
+44. | Hong Kong, Kowloon & NT Public & Maxicab Light Bus Merchants’ United Association
+
+45. | Hong Kong Taxi Owners’ Association Limited
+
+46. | The Hong Kong Liner Shipping Association
+
+47. | H.K. Motor Car Driving Instructors’ Association Limited
+
+48. | Hong Kong Pilots Association Ltd.
+
+49. | Hong Kong Public & Maxicab Light Bus United Associations
+
+50. | Hong Kong Public Cargo Working Areas Traders Association Ltd.
+
+51. | Hong Kong Scheduled (GMB) Licensee Association
+
+52. | The Hong Kong School of Motoring Ltd.
+
+53. | Hong Kong Sea Transport and Logistics Association Limited
+
+54. | The Hong Kong Shipowners Association Ltd.
+
+55. | Hong Kong Shipping Circles Association Ltd.
+
+56. | Hong Kong Shipping Industry Institute
+
+57. | Hong Kong Logistics Management Staff Association
+
+58. | The Hong Kong Stevedores Employers’ Association
+
+59. | Hong Kong Tele-call Taxi Association
+
+60. | Hong Kong Tramways, Limited
+
+61. | Hong Kong Transportation Warehouse Wharf Club
+
+62. | The Hongkong & Yaumati Ferry Co., Ltd.
+
+63. | Hongkong International Terminals Ltd.
+
+64. | Institute of Advanced Motorists (Hong Kong) Limited
+
+65. | Institute of Seatransport
+
+66. | Institute of Transport Administration (Hong Kong, China)
+
+67. | Kowloon Fung Wong Public Light Bus Merchants & Workers’ Association Ltd.
+
+68. | The Kowloon Motor Bus Company (1933) Limited
+
+69. | Kowloon Motor Driving Instructors’ Association Ltd.
+
+70. | The Kowloon PLB Chiu Chow Traders & Workers Friendly Association
+
+71. | The Kowloon Taxi Owners Association Ltd.
+
+72. | Kowloon Truck Merchants Association Ltd.
+
+73. | Kwik Park Limited
+
+74. | Lam Tin Wai Hoi Public Light Bus Association
+
+75. | Lantau Taxi Association
+
+76. | Lei Yue Mun Ko Chiu Road Public Light Bus Merchants Association Ltd.
+
+77. | Lok Ma Chau China—Hong Kong Freight Association
+
+78. | Long Win Bus Company Limited
+
+79. | Mack & Co. Carpark Management Limited
+
+80. | Marine Excursion Association Limited
+
+81. | Maritime Affairs Research Association Ltd.
+
+82. | MTR Corporation Limited
+
+83. | Merchant Navy Officers’ Guild—Hong Kong
+
+84. | Metropark Limited
+
+85. | Mid-stream Holdings (HK) Limited
+
+86. | Mixer Truck Drivers Association
+
+87. | Modern Terminals Ltd.
+
+88. | N.T. San Tin PLB (17) Owners Association
+
+89. | N.T. Taxi Merchants Association Ltd.
+
+90. | N.T. Taxi Owners & Drivers Fraternal Association
+
+91. | N.W. Area Taxi Drivers & Operators Association
+
+92. | New Lantao Bus Co., (1973) Ltd.
+
+93. | New Territories Cargo Transport Association Ltd.
+
+94. | New World First Bus Services Limited
+
+95. | North District Taxi Merchants Association
+
+96. | Organisation of Hong Kong Drivers
+
+97. | Public and Private Light Buses Driving Instructors’ Society
+
+98. | The Public Cargo Area Trade Association
+
+99. | Public Light Bus General Association
+
+100. | The Public Omnibus Operators Association Ltd.
+
+101. | Public Vehicle Merchants Fraternity Association
+
+102. | River Trade Terminal Co. Ltd.
+
+103. | Route 3 (CPS) Company Limited
+
+104. | Sai Kung Taxi Operators Association Ltd.
+
+105. | CSX World Terminals Hong Kong Limited
+
+106. | Serco Group (HK) Limited
+
+107. | The “Star” Ferry Co., Ltd.
+
+108. | Sun Hing Taxi Radio Association
+
+109. | Taxi Association Limited
+
+110. | Taxi Dealers & Owners Association Ltd.
+
+111. | The Taxi Operators Association Ltd.
+
+112. | Transport Infrastructure Management Limited
+
+113. | Tuen Mun Public Light Bus Association
+
+114. | Tung Yee Shipbuilding and Repairing Merchants General Association Limited
+
+115. | United Friendship Taxi Owners & Drivers Association Ltd.
+
+116. | Wai Fat Taxi Owners Association Ltd.
+
+117. | Wai Yik Hong Kong & Kowloon & NT Taxi Owners Association
+
+118. | West Coast International (Parking) Limited
+
+119. | Western Harbour Tunnel Co. Ltd.
+
+120. | Wilson Parking (Hong Kong) Limited
+
+121. | Wing Lee Radio Car Traders Association Ltd.
+
+122. | Wing Tai Car Owners & Drivers Association Ltd.
+
+123. | Wu Gang Shipping Co. Ltd.
+
+124. | Xiamen United Enterprises (H.K.) Ltd.
+
+125. | School Buses Operators Association Limited
+
+126. | Sun Ferry Services Company Limited
+
+127. | Shun Tak-China Travel Macau Ferries Limited
+
+128. | Hong Kong Container Drayage Services Association Limited
+
+129. | Hong Kong Kowloon & N.T. Grab-Mounted Lorries Association Limited
+
+130. | Hong Kong Waste Disposal Industry Association
+
+131. | HK Public-light Bus Owner & Driver Association
+
+132. | Logistics Industry & Container Truck Drivers Union
+
+133. | The Concrete Producers Association of Hong Kong Limited
+
+134. | Hongkong Guangdong Boundary Crossing Bus Association Limited
+
+135. | Tsui Wah Ferry Service Company Limited
+
+136. | Quality Driver Training Centre Limited
+
+137. | Public and Private Commercial Driving Instructors’ Society
+
+138. | Shun Tak-China Travel Ship Management Limited
+
+139. | Cruise Ferries (HK) Limited
+
+140. | Asia Airfreight Terminal Company Limited
+
+141. | The Hong Kong Joint Branch of The Royal Institution of Naval Architects and The Institute of Marine Engineering, Science and Technology
+
+142. | The Hongkong Salvage & Towage Company Limited
+
+143. | The Institute of Chartered Shipbrokers, Hong Kong Branch
+
+144. | Hongkong United Dockyards Limited
+
+145. | Guangdong and Hong Kong Feeder Association Limited
+
+146. | Hong Kong Right Hand Drive Motors Association Limited
+
+147. | The Institute of the Motor Industry Hong Kong
+
+148. | Hong Kong Vehicle Repair Merchants Association Limited
+
+149. | Environmental Vehicle Repairers Association Limited
+
+150. | The Hong Kong Taxi and Public Light Bus Association Limited
+
+151. | Park Island Transport Company Limited
+
+152. | Discovery Bay Road Tunnel Company Limited
+
+153. | International Association of Transport Officers
+
+154. | Hong Kong Express Airways Limited
+
+155. | Hong Kong (Cross Border) Transportation Drivers’ Association
+
+156. | Hong Kong Logistics Association Limited
+
+157. | Hong Kong Container Depot and Repairer Association Limited
+
+158. | New World Parking Management Limited
+
+159. | The Nautical Institute—Hong Kong Branch
+
+160. | Worldwide Flight Services, Inc.
+
+161. | NT Taxi Operations Union
+
+162. | Sun Star Taxi Operators Association
+
+163. | Taxi & P.L.B. Concern Group
+
+164. | Tai Wo Motors Limited
+
+165 | Tuen Mun District Tourists and Passengers Omnibus Operators Association Limited
+
+166. | Tsuen Wan District Tourists and Passengers Omnibus Operators Association Limited
+
+167. | Yuen Long District Tourists and Passengers Omnibus Operators Association Limited
+
+168. | Kowloon District Tourists and Passengers Omnibus Operators Association Limited
+
+169. | Hong Kong District Tourists and Passengers Omnibus Operators Association Limited
+
+170. | Sino Parking Services Limited
+
+171. | Urban Parking Limited
+
+172. | Greater Lucky (HK) Company Limited
+
+173. | China Hongkong and Macau Boundary Crossing Bus Association Limited
+
+174. | Ground Support Engineering Limited
+
+175. | Cathay Pacific Services Limited
+
+176. | Cathay Pacific Catering Services (H.K.) Limited
+
+177. | LSG Lufthansa Service Hong Kong Limited
+
+178. | Gate Gourmet Hong Kong, Limited
+
+179. | ECO Aviation Fuel Services Limited
+
+180. | Hong Kong Aircraft Engineering Company Limited
+
+181. | China Aircraft Services Limited
+
+182. | Dah Chong Hong – Dragonair Airport GSE Service Limited
+
+183. | Jardine Air Terminal Services Limited
+
+184. | Service Managers Association
+
+185. | Driving Instructors Association
+
+186. | The Chamber of Hong Kong Logistics Industry Limited
+
+187. | New Horizon School of Motoring Limited
+
+188. | Leinam School of Motoring Limited
+
+189. | TIML MOM Limited
+
+190. | Hong Kong Taxi Association
+
+191. | Chung Shing Taxi Limited
+
+192. | Hong Kong Air Cargo Carrier Limited
+
+193. | Hong Kong Dumper Truck Drivers Association
+
+194. | Shun Fung Motors Investment Management Company Limited
+
+195. | Taxi Drivers and Operators Association
+
+196. | Yiu Lian Dockyards Limited
+
+197. | China Merchants Port Holdings Company Limited
+
+198. | China Merchants Container Services Limited
+
+199. | China Merchants Logistics Holding Hong Kong Company Limited
+
+200. | China Merchants Energy Shipping (Hong Kong) Company Limited
+
+201. | COSCO SHIPPING (Hong Kong) Co., Limited
+
+202. | COSCO (H.K.) SHIPPING CO., LIMITED
+
+203. | COSCO SHIPPING Container Line Agencies Limited
+
+204. | COSCO SHIPPING International (Hong Kong) Co., Ltd.
+
+205. | China Travel Tours Transportation Services Hong Kong Limited
+
+206. | Sky Shuttle Helicopters Limited
+
+207. | Hong Kong-Zhuhai-Macao Bridge Shuttle Bus Company Limited
+
+208. | Hong Kong & Macao International Airport Transportation Service Co. Limited
+
+209. | Hong Kong International Airport Ferry Terminal Services Limited
+
+210. | Ocean Shipbuilding & Engineering Limited
+
+211. | China Ferry Terminal Services Limited
+
+212. | Turbojet Shipyard Limited
+
+213. | Hong Kong Association of Aircargo Truckers Limited
+
+214. | Hong Kong Auto (Parts & Machinery) Association Limited
+
+215. | China Aviation Express (Hong Kong) Limited
+
+216. | Chu Kong Godown Wharf & Transportation Company Limited
+
+217. | Chu Kong Transhipment & Logistics Company Limited
+
+218. | Chu Kong Transportation (H.K.) Limited
+
+219. | Chu Kong Agency Company Limited
+
+220. | Cotai Chu Kong Shipping Management Services Company Limited
+
+221. | Yuet Hing Marine Supplies Company Limited
+
+222. | Chu Kong Group Shipyard Company Limited
+
+223. | Dong An Marine Safety Equipment Trading Limited
+
+224. | Fortune Ferry Company Limited
+
+225. | Hong Kong Wing Hing Marine Engineering Company Limited
+
+226. | China National Aviation Leasing Limited
+
+227. | Yuantong Marine Service Co. Limited
+
+228. | Wang Tak Engineering & Shipbuilding Company Limited
+
+229. | The Motor Transport Company of Guangdong and Hong Kong Limited
+
+230. | Weisheng Transportation & Enterprises Company Limited
+
+(Annex 1 added 14 of 2021 s. 445) Annex 2 Bodies Specified for the Wholesale and Retail Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | Association of Better Business & Tourism Services
+
+2. | Chinese Medicine Merchants Association Ltd.
+
+3. | Chinese Merchants (H.K.) Association Limited
+
+4. | Chinese Paper Merchants Association Limited
+
+5. | The Cosmetic & Perfumery Association of Hong Kong Ltd.
+
+6. | Eastern District Fresh Fish Merchants’ Society
+
+7. | Federation of Hong Kong Kowloon New Territories Hawker Associations
+
+8. | The Federation of Hong Kong Watch Trades and Industries Ltd.
+
+9. | HK Vegetable Wholesaler Community
+
+10. | Hong Kong and Kowloon Bamboo Goods Merchants Association Limited
+
+11. | Hong Kong and Kowloon Electrical Appliances Merchants Association Ltd.
+
+12. | Hong Kong Electro-Plating Merchants Association Limited
+
+13. | Hong Kong & Kowloon Fruit & Vegetable Employees & Employers Guild
+
+14. | Hong Kong & Kowloon General Association of Liquor Dealers and Distillers
+
+15. | Hong Kong and Kowloon Machinery and Instrument Merchants Association Ltd.
+
+16. | Hong Kong & Kowloon Marine Products Merchants Association Ltd.
+
+17. | Hong Kong & Kowloon Plastic Products Merchants United Association Limited
+
+18. | The Hong Kong & Kowloon Provisions, Wine & Spirit Dealers’ Association Limited
+
+19. | Hong Kong and Kowloon Rattan Ware Merchants Association (Wing-Hing-Tong)
+
+20. | Hong Kong & Kowloon Sauce & Preserved-Fruit Amalgamated Employers Association
+
+21. | Hong Kong & Kowloon Tea Trade Merchants Association Ltd.
+
+22. | Hong Kong & Kowloon Timber Merchants Association Limited
+
+23. | Hong Kong & Kowloon Vermicelli & Noodle Manufacturing Industry Merchants’ General Association Limited
+
+24. | Hong Kong Art Craft Merchants Association, Ltd.
+
+25. | Hong Kong Dried Seafood and Grocery Merchants Association Limited
+
+26. | Hong Kong Egg Merchants Association (Fung-Kwai-Tong)
+
+27. | Hong Kong Embroidery Merchants Association Limited
+
+28. | Hong Kong Flower Retailers Association
+
+29. | The Hong Kong Food Council Limited
+
+30. | Hong Kong Fresh Fish Merchants Association
+
+31. | Hong Kong Fur Federation
+
+32. | Hong Kong Furniture & Decoration Trade Association Limited
+
+33. | Hong Kong General Chamber of Pharmacy Limited
+
+34. | Hong Kong Glass and Mirror Merchants and Manufacturers Association Company Limited
+
+35. | Hong Kong Jewellers’ & Goldsmiths’ Association Limited
+
+36. | The Federation of Hong Kong Footwear Limited
+
+37. | The Hong Kong Medicine Dealers’ Guild
+
+38. | Hong Kong Metal Merchants Association
+
+39. | Hong Kong Petroleum, Chemicals and Pharmaceutical Materials Merchants Association Ltd.
+
+40. | Hong Kong Photo Marketing Association Limited
+
+41. | Hong Kong Piece Goods Merchants’ Association
+
+42. | Hong Kong Plastic Material Suppliers Association Ltd.
+
+43. | Hong Kong Plumbing and Sanitary Ware Trade Association Ltd.
+
+44. | Hong Kong Provision & Grocery General Commercial Chamber
+
+45. | Hong Kong Record Merchants Association Ltd.
+
+46. | Hong Kong Rice Suppliers’ Association Limited
+
+47. | Hong Kong Retail Management Association Limited
+
+48. | Hong Kong Yee Yee Tong Chinese Medicine Merchants Association Ltd.
+
+49. | The Hong Kong & Kowloon General Merchandise Merchants’ Association Limited
+
+50. | Kowloon Cheung Sha Wan Wholesale Vegetable Market (Importers) Recreation Club Limited
+
+51. | Kowloon Fresh Fish Merchants Association Limited
+
+52. | The Kowloon Pearls, Precious Stones, Jade, Gold & Silver Ornament Merchants Association
+
+53. | The Merchants Association of First Wholesalers/Jobbery of Imported Fresh Fruits & Vegetables Limited
+
+54. | Mongkok Vegetable Wholesale Merchants Association Company Limited
+
+55. | The Motor Traders Association of Hong Kong
+
+56. | Nam Pak Hong Association
+
+57. | Po Sau Tong Ginseng & Antler Association Hong Kong Ltd.
+
+58. | The Rice Merchants’ Association of Hong Kong Limited
+
+59. | Kowloon Fruit & Vegetable Merchants Association Limited
+
+60. | The Hong Kong And Kowloon Electric Trade Association
+
+61. | Hong Kong Poultry Wholesalers Association
+
+62. | Diamond Federation of Hong Kong, China Limited
+
+63. | Tobacco Association of Hong Kong Limited
+
+64. | Hong Kong Chinese Prepared Medicine Traders Association Limited
+
+65. | Hong Kong Chinese Medicine Industry Association Limited
+
+66. | Hong Kong Chinese Patent Medicine Manufacturers’ Association Ltd.
+
+(Annex 2 added 14 of 2021 s. 445) Annex 3 Bodies Specified for the Architectural, Surveying, Planning and Landscape Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | The Hong Kong Institute of Architects
+
+2. | The Hong Kong Institute of Surveyors
+
+3. | The Hong Kong Institute of Planners
+
+4. | The Hong Kong Institute of Landscape Architects
+
+5. | Hong Kong Housing Authority
+
+6. | Hong Kong Housing Society
+
+7. | Urban Renewal Authority
+
+8. | Authorized Persons Registration Committee
+
+9. | Inspectors Registration Committee
+
+10. | Property Management Services Authority
+
+11. | Hong Kong Green Building Council Limited
+
+12. | BEAM Society Limited
+
+13. | The Lands Department Estate Surveyors Association
+
+14. | Housing Department Quantity Surveyors’ Association
+
+15. | Hong Kong Housing Department Architects Association
+
+16. | Housing Department Estate Surveyors Association
+
+17. | Planners Association of Hong Kong Housing Department
+
+18. | Housing Department Landscape Architects Association
+
+19. | Buildings Department Local Building Surveyors’ Association
+
+20. | Architectural Services Department Quantity Surveyors’ Association
+
+21. | Architectural Services Department Maintenance Surveyors’ Association
+
+22. | Architectural Services Department Architects’ Association
+
+23. | Association of Government Local Land Surveyors
+
+24. | The Hong Kong Housing Department Maintenance Surveyors Association
+
+25. | Hong Kong Government Local Town Planners Association
+
+26. | Hong Kong Government Landscape Architects Association
+
+27. | Aedas Limited
+
+28. | AGC Design Limited
+
+29. | Andrew Lee King Fun & Associates Architects Limited
+
+30. | DLN Architects Limited
+
+31. | Leigh & Orange Limited
+
+32. | LWK & Partners (HK) Limited
+
+33. | P&T Architects and Engineers Limited
+
+34. | Ronald Lu & Partners (Hong Kong) Limited
+
+35. | Wong & Ouyang (HK) Limited
+
+36. | Wong Tung & Partners Limited
+
+37. | Ho & Partners Architects Engineers & Development Consultants Limited
+
+38. | Rocco Design Architects Limited
+
+39. | Simon Kwan & Associates Limited
+
+40. | TFP Farrells Limited
+
+41. | Freevision Limited
+
+42. | Fruit Design & Build Limited
+
+43. | Prudential Surveyors International Limited
+
+44. | Knight Frank Petty Limited
+
+45. | Vigers Building Consultancy Limited
+
+46. | KC Surveyors Limited
+
+47. | Savills Project Consultancy Limited
+
+48. | CBRE Limited
+
+49. | Rider Levett Bucknall Limited
+
+50. | Arcadis Hong Kong Limited
+
+51. | Currie & Brown (China) Limited
+
+52. | Urbis Limited
+
+53. | Townland Consultants Limited
+
+54. | Llewelyn-Davies Hong Kong Limited
+
+55. | Earthasia Limited
+
+56. | ACLA Limited
+
+(Annex 3 added 14 of 2021 s. 445) Annex 4 Bodies Specified for the Chinese Medicine Subsector
+
+(See Special Remarks)
+
+Part 1—Statutory Regulatory and Consultative Bodies
+
+Item | Body
+
+1. | Chinese Medicine Council of Hong Kong
+
+2. | Chinese Medicine Development Committee
+
+Part 2—Administrative and Training Institutions
+
+Item | Body
+
+1. | Hong Kong Registered Chinese Medicine Practitioners Association Limited
+
+2. | China Society of Practitioners of Chinese Medicine Limited
+
+3. | The Kowloon Chinese Herbalists Association Limited
+
+4. | Buddhist Vassar Chinese Medical College Limited
+
+5. | Hong Kong Wah Ha Medicine Association
+
+6. | School of Chinese Medicine, The University of Hong Kong
+
+7. | Hong Kong Acupuncture and Moxibustion Association
+
+8. | School of Chinese Medicine, The Chinese University of Hong Kong
+
+9. | Society for Research on Traditional Chinese Medicine Limited
+
+10. | Wahhar College Hong Kong Limited
+
+11. | School of Continuing and Professional Studies, The Chinese University of Hong Kong
+
+12. | School of Chinese Medicine, Hong Kong Baptist University
+
+13. | Hong Kong & Kowloon Chinese Medicine Merchants Association Limited
+
+14. | Hong Kong Academy of Chinese Medicine Company Limited
+
+15. | Hong Kong Association for Integration of Chinese-Western Medicine
+
+16. | HKU School of Professional and Continuing Education
+
+17. | Hospital Authority
+
+18. | Tung Wah Group of Hospitals
+
+19. | Modern Institute of Chinese Medicine
+
+20. | College of Traditional Medicine
+
+21. | The Hong Kong Association of Traditional Chinese Medicine Limited
+
+22. | International General Chinese Herbalists and Medicine Professionals Association Limited
+
+23. | Sin-Hua Herbalists’ and Herb Dealers’ Promotion Society Limited
+
+24. | Society of Practitioners of Chinese Herbal Medicine Limited
+
+25. | The Hong Kong T.C.M. Orthopaedic & Traumatic Association Limited
+
+26. | Hong Kong Chinese Herbalists Association Limited
+
+27. | Association of Hong Kong & Kowloon Practitioners of Chinese Medicine, Limited
+
+28. | Hong Kong Chinese Medicine Practitioners Association Limited
+
+Part 3—Other Relevant Bodies
+
+Item | Body
+
+1. | The Hong Kong Federation of China of Traditional Chinese Medicine
+
+2. | Hong Kong Acupuncturists Association Limited
+
+3. | Society for the Promotion of Chinese Traditional Medical Science Limited
+
+4. | The Society of Hong Kong Professional Registered Chinese Medicine Practitioners Limited
+
+5. | Hong Kong College of Traditional Chinese Medicine Limited
+
+6. | Hong Kong Listed Chinese Medicine Practitioners Association
+
+7. | International General Chinese Medicated Meal of Self Recovery Association Limited
+
+8. | International Chinese Medicine and Integrative Manual Therapy Association Limited
+
+9. | 香港中華經筋醫學研究會
+
+10. | HK Scalp Acupuncture Association
+
+11. | Hong Kong Chinese Medicine Practitioners’ Rights General Union
+
+12. | Hong Kong Chinese Spinal Orthopaedic Medicine Association Limited
+
+13. | 國際自然療能研究學會
+
+14. | Hong Kong Jingluo Medical Association
+
+15. | The Hong Kong Professional Institute of Chinese Medicine Medicated Meal and Food Limited
+
+16. | International Association of Medicinal Food Therapy Limited
+
+17. | Modernized Chinese Medicine International Association Limited
+
+18. | Association of Ancient & Contemporary Chinese Medicine Limited
+
+19. | Hong Kong Shanwei Chinese Medicine Association
+
+20. | 中華國際傳統醫藥學會
+
+21. | Hong Kong Chinese Medicine and Herbs Association Limited
+
+22. | Meridian Activation System Therapy-Chinese Medicine Association Limited
+
+23. | International Chinese Medical Acupuncture & Anatomy Association Limited
+
+24. | Hong Kong Medicinal Herbs Society
+
+25. | Chinese (H.K.) East-West Medicine Integrate Association
+
+(Annex 4 added 14 of 2021 s. 445) Annex 5 Bodies Specified for the Engineering Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | The Hong Kong Institution of Engineers
+
+2. | CLP Power Hong Kong Limited
+
+3. | The Hong Kong and China Gas Company Limited
+
+4. | The Hongkong Electric Company, Limited
+
+5. | MTR Corporation Limited
+
+6. | Airport Authority
+
+7. | Kowloon-Canton Railway Corporation
+
+8. | Structural Engineers Registration Committee
+
+9. | Contractors Registration Committee
+
+10. | Geotechnical Engineers Registration Committee
+
+11. | Construction Industry Council
+
+12. | Construction Industry Training Board
+
+13. | Minor Works Contractors Registration Committee
+
+14. | HKSAR Government Civil Engineers Association
+
+15. | Buildings Department Structural Engineers’ Association
+
+16. | Hong Kong Housing Department Structural Engineers Association
+
+17. | Association of Building Services Engineers of Housing Department
+
+18. | Civil Engineering and Development Department Geotechnical Engineers’ Association
+
+19. | Association of Professional Engineers of Electrical & Mechanical Services Department
+
+20. | Architectural Services Department Structural Engineers’ Association
+
+21. | Government Waterworks Professionals Association
+
+22. | Hong Kong Housing Department Civil Engineers Association
+
+23. | Hong Kong Institute of Environmental Protection Officers
+
+24. | AECOM Asia Company Limited
+
+25. | Arcadis Design & Engineering Limited
+
+26. | Ove Arup & Partners Hong Kong Limited
+
+27. | Atkins China Limited
+
+28. | Meinhardt Infrastructure and Environment Limited
+
+29. | Mott MacDonald Hong Kong Limited
+
+30. | Mannings (Asia) Consultants Limited
+
+31. | WSP (Asia) Limited
+
+32. | Binnies Hong Kong Limited
+
+33. | C. M. Wong & Associates Limited
+
+34. | David S. K. Au and Associates Limited
+
+35. | MVA Hong Kong Limited
+
+36. | Aurecon Hong Kong Limited
+
+37. | Fugro (Hong Kong) Limited
+
+38. | Halcrow China Limited
+
+39. | J. Roger Preston Limited
+
+40. | Jacobs China Limited
+
+41. | SMEC Asia Limited
+
+42. | Golder Associates (HK) Limited
+
+43. | Siu Yin Wai & Associates Limited
+
+44. | Gammon Construction Limited
+
+45. | Chun Wo Construction and Engineering Company Limited
+
+46. | China State Construction Engineering (Hong Kong) Limited
+
+47. | China Road and Bridge Corporation
+
+48. | Hip Hing Engineering Company Limited
+
+49. | China Harbour Engineering Company Limited
+
+50. | Dragages Hong Kong Limited
+
+51. | Yau Lee Construction Company Limited
+
+52. | Leighton Contractors (Asia) Limited
+
+53. | The Jardine Engineering Corporation, Limited
+
+54. | Kum Shing (K.F.) Construction Company Limited
+
+55. | Paul Y. Construction Company, Limited
+
+56. | ATAL Engineering Limited
+
+57. | CPC Construction Hong Kong Limited
+
+58. | Sun Fook Kong (Civil) Limited
+
+59. | Build King Construction Limited
+
+60. | Penta-Ocean Construction Co., Ltd.
+
+61. | Shui On Building Contractors Limited
+
+62. | China Geo-Engineering Corporation
+
+63. | China International Water & Electric Corporation
+
+(Annex 5 added 14 of 2021 s. 445) Annex 6 Bodies Specified for the Legal Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | The Law Society of Hong Kong
+
+2. | Hong Kong Bar Association
+
+3. | Hong Kong Society of Notaries
+
+4. | Association of China-Appointed Attesting Officers Limited
+
+5. | Hong Kong International Arbitration Centre
+
+6. | The Small and Medium Law Firms Association of Hong Kong
+
+7. | Hong Kong Federation of Women Lawyers Limited
+
+8. | Hong Kong Young Legal Professionals Association Limited
+
+9. | Hong Kong Legal Exchange Foundation Limited
+
+10. | International Youth Legal Exchange Federation Limited
+
+11. | Global Chinese Speaking Lawyers’ Association Limited
+
+12. | China International Economic and Trade Arbitration Commission Hong Kong Arbitration Center
+
+13. | China Maritime Arbitration Commission Hong Kong Arbitration Center
+
+14. | Hong Kong Maritime Arbitration Group
+
+15. | eBRAM International Online Dispute Resolution Centre Limited
+
+16. | Financial Dispute Resolution Centre
+
+17. | Hong Kong Institute of Arbitrators
+
+18. | Hong Kong Mediation Accreditation Association Limited
+
+19. | Hong Kong Mediation Centre Limited
+
+20. | Asian Academy of International Law Limited
+
+21. | Legal Affairs Steering Committee of the Hong Kong Chinese Enterprises Association
+
+22. | The Legal Education Fund Limited
+
+23. | Basic Law Institute Limited
+
+24. | Asia Pacific Law Association Limited
+
+25. | Hong Kong Basic Law Education Association
+
+26. | Basic Law Foundation Limited
+
+27. | South China International Arbitration Center (HK) Limited
+
+28. | Legal Profession Advancement Association Limited
+
+29. | The Hong Kong and Mainland Legal Profession Association Limited
+
+30. | International Probono Legal Services Association Limited
+
+(Annex 6 added 14 of 2021 s. 445) Annex 7 Bodies Specified for the Medical and Health Services Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | Hospital Authority
+
+2. | Board of Governors of The Prince Philip Dental Hospital
+
+3. | Medical Council of Hong Kong
+
+4. | Dental Council of Hong Kong
+
+5. | Hong Kong Academy of Medicine
+
+6. | Nursing Council of Hong Kong
+
+7. | Midwives Council of Hong Kong
+
+8. | Supplementary Medical Professions Council
+
+9. | Pharmacy and Poisons Board
+
+10. | Chiropractors Council
+
+11. | Li Ka Shing Faculty of Medicine of The University of Hong Kong
+
+12. | Faculty of Medicine of The Chinese University of Hong Kong
+
+13. | Hong Kong St. John Ambulance
+
+14. | Auxiliary Medical Service
+
+15. | Medical Laboratory Technologists Board
+
+16. | Occupational Therapists Board
+
+17. | Optometrists Board
+
+18. | Physiotherapists Board
+
+19. | Radiographers Board
+
+20. | Hong Kong Association of Speech Therapists
+
+21. | Hong Kong Institute of Audiologists
+
+22. | The Hong Kong Academy of Accredited Dietitians
+
+23. | The Hong Kong Association of Educational Psychologists
+
+24. | Hong Kong Institute of Clinical Psychologists
+
+25. | The Hong Kong Medical Association
+
+26. | Hong Kong Dental Association Limited
+
+27. | The Association of Licentiates of Medical Council of Hong Kong (A.L.M.C.H.K.)
+
+28. | Association of Hong Kong Nursing Staff
+
+29. | The College of Nursing, Hong Kong
+
+30. | The Hong Kong Academy of Nursing Limited
+
+31. | Hong Kong Women Doctors Association Limited
+
+32. | Hong Kong Doctors Union
+
+(Annex 7 added 14 of 2021 s. 445) Annex 8 Bodies Specified for the Social Welfare Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | Hong Kong Council of Social Service
+
+2. | Social Workers Registration Board
+
+3. | Institute of Social Service Development
+
+4. | Tung Wah Group of Hospitals
+
+5. | Po Leung Kuk
+
+6. | Yan Chai Hospital
+
+7. | Pok Oi Hospital
+
+8. | Yan Oi Tong Limited
+
+9. | The Lok Sin Tong Benevolent Society Kowloon
+
+10. | New Home Association Limited
+
+11. | Social Workers Across Borders Limited
+
+12. | The Hong Kong Volunteers Federation Company Limited
+
+13. | The Hong Kong Federation of Trade Unions Hong Ling Society
+
+14. | The United Labour Chi Hong Association Limited
+
+15. | The Hong Kong Island Social Services Charitable Foundation Limited
+
+(Annex 8 added 14 of 2021 s. 445) Annex 9 Bodies Specified for the Sports, Performing Arts, Culture and Publication Subsector
+
+(See Special Remarks)
+
+Part 1—Performing Arts Industry Associations and Local Licensed Broadcasting Institutions
+
+Item | Body
+
+1. | Hong Kong Motion Picture Industry Association Limited
+
+2. | Hong Kong Film Awards Association Ltd.
+
+3. | Association for Betterment of Hong Kong’s Entertainment Industry in Mainland China Limited
+
+4. | Federation of Hong Kong Filmmakers Limited
+
+5. | Movie Producers and Distributors Association of Hong Kong Ltd.
+
+6. | Hong Kong Chamber of Films Limited
+
+7. | Hong Kong Theatres Association Ltd.
+
+8. | 華南電影工作者聯合會
+
+9. | International Federation of the Phonographic Industry (Hong Kong Group) Limited
+
+10. | Music Publishers Association of Hong Kong Limited
+
+11. | Hong Kong Recording Industry Alliance Limited
+
+12. | Television Broadcasts Limited
+
+13. | HK Television Entertainment Company Limited
+
+14. | Fantastic Television Limited
+
+15. | Hong Kong Commercial Broadcasting Company Limited
+
+16. | Metro Broadcast Corporation Limited
+
+17. | The Hong Kong Film Development Council
+
+18. | The Hong Kong International Film Festival Society Limited
+
+19. | Hong Kong Film & Television Association Limited
+
+Part 2—Cultural Public Institutions, Associations and Bodies
+
+Item | Body
+
+1. | Hong Kong Arts Development Council
+
+2. | The Hong Kong Academy for Performing Arts
+
+3. | West Kowloon Cultural District Authority
+
+4. | The Hong Kong Philharmonic Society Limited
+
+5. | Hong Kong Chinese Orchestra Limited
+
+6. | Hong Kong Repertory Theatre Limited
+
+7. | Chung Ying Theatre Company (HK) Limited
+
+8. | Hong Kong Dance Company Limited
+
+9. | The Hong Kong Ballet Limited
+
+10. | Hong Kong Sinfonietta Limited
+
+11. | City Contemporary Dance Company Limited
+
+12. | Zuni Icosahedron
+
+13. | Hong Kong Arts Festival Society Limited
+
+14. | China Federation of Literary and Art Circles Hong Kong Member Association Limited
+
+15. | China Theatre Association Hong Kong Member Branch
+
+16. | China Film Hong Kong Association Limited
+
+17. | Chinese Musicians Association—Hong Kong Members Branch
+
+18. | China Artists Association Hong Kong Chapter
+
+19. | China Opera Performing Artists Hong Kong Association
+
+20. | Chinese Dancres Association Hong Kong Member Branch
+
+21. | China Photographers Association Hong Kong Member Branch
+
+22. | China Calligraphers Association Hong Kong Member Branch
+
+23. | China Literature and Art Critics Association Hong Kong Member Branch
+
+24. | The Association of Chinese Culture of Hong Kong
+
+25. | Hong Kong Culture Association Limited
+
+26. | The Chinese Artists Association of Hong Kong
+
+27. | Hong Kong Chinese Opera Promotion Association Limited
+
+28. | Cantonese Opera Musician and Vocalist Association Limited
+
+29. | HK Chinese Opera and Performing Arts Group Association
+
+30. | Hong Kong Cantonese Opera Artists Club Limited
+
+31. | Hong Kong Association of Cantonese Opera Scholars Limited
+
+32. | Hong Kong Federation of Drama Societies
+
+33. | Actors’ Family Limited
+
+34. | The Nonsensemakers Limited
+
+35. | Tang Shu-Wing Theatre Studio Limited
+
+36. | Shakespeare4All Company Limited
+
+37. | Spring-Time Experimental Theatre Limited
+
+38. | Perry Chiu Experimental Theatre Limited
+
+39. | Performing Arts Asia Limited
+
+40. | Composers and Authors Society of Hong Kong Limited
+
+41. | Hong Kong Composers’ Guild Limited
+
+42. | Hong Kong Chinese Instrumental Music Association
+
+43. | Hong Kong Association of Choral Societies
+
+44. | Hong Kong Music Tutors Union
+
+45. | Opera Hong Kong Limited
+
+46. | Hong Kong String Orchestra Limited
+
+47. | Global Symphony Orchestra Society Limited
+
+48. | The Hong Kong Children’s Choir
+
+49. | Yip’s Children’s Choir Limited
+
+50. | Allegro Singers
+
+51. | Hong Kong City Chinese Orchestra
+
+52. | Hong Kong Dance Federation Limited
+
+53. | Association of Hong Kong Dance Organizations
+
+54. | Hong Kong Dance Alliance Limited
+
+55. | The Hong Kong Ballet Group Limited
+
+56. | Hong Kong Dance Sector Joint Conference
+
+57. | The Association of Hong Kong Youth Dancers
+
+58. | Miranda Chin Dance (Mirandance) Company Limited
+
+59. | Budlet Folk Dance Club
+
+60. | Starwave Production
+
+61. | Xiang Gang Mei Xie
+
+62. | Chinese Ink Painting Institute Hong Kong
+
+63. | Hong Kong Water Colour Research Society
+
+64. | Hong Kong Lan Ting Society
+
+65. | Hong Kong Culture and Art Promotion Association
+
+66. | Hong Kong Art Researching Association
+
+67. | Hong Kong Modern Ink Painting Society Co. Limited
+
+68. | Hong Kong Oil Painting Research Society
+
+69. | Hong Kong Artists Society
+
+70. | The Hong Kong Art Club
+
+71. | Chung Fung Art Club
+
+72. | To-day’s Chinese Art Association
+
+73. | Ling Ngai Art Association
+
+74. | Hong Kong Graphics Society
+
+75. | 中國書協香港分會
+
+76. | Hong Kong Chinese Calligraphy and Art Association
+
+77. | China Hong Kong Institute of Calligraphy
+
+78. | Calligraphy and Painting Study Association of Hong Kong Fukienese
+
+79. | Hong Kong Association of Amateur Calligraphers
+
+80. | Hong Kong Calligraphers’ Association
+
+81. | Hong Kong International Calligraphy and Seal Cutting Society
+
+82. | Hong Kong Hard Pen Calligraphists’ Association
+
+83. | Friends of Shizhai
+
+84. | The Jiazi Society of Calligraphy
+
+85. | The Photographic Society of Hong Kong
+
+86. | The Chinese Photographic Association of Hong Kong
+
+87. | Sea Gull Photographic Association Limited
+
+88. | The Photographic Salon Exhibitors Association
+
+89. | Grace Photographic Club
+
+90. | Hong Kong Camera Club, Limited
+
+91. | United Artist Photographic Association Limited
+
+92. | The Society of Worldwide Ethnic Chinese Photographers Limited
+
+93. | The Hong Kong 35mm Photography Society, Limited
+
+94. | The Hong Kong Miniature Cameras Photography Society
+
+95. | Hong Kong CreArt Photographic Association Limited
+
+96. | Overseas Chinese Photographers Association of Hong Kong
+
+97. | The Art of Photography Association Limited
+
+98. | The Federation of Hong Kong Writers
+
+99. | The House of Hong Kong Literature Limited
+
+100. | Hong Kong Writers Association Company Limited
+
+101. | Hong Kong Society for Study of Poetry, Calligraphy and Couplet
+
+102. | Hong Kong Literature Promoted Association
+
+103. | 國際華文詩人協會
+
+104. | Magicians’ Association of Hong Kong
+
+105. | Hong Kong & Macau Intangible Cultural Heritage Research Centre Limited
+
+106. | Wing Lung Art
+
+107. | Hong Kong Book Reviewers Association
+
+108. | Hong Kong Film Critics Association Limited
+
+109. | Hong Kong Literary Criticism Society Company Limited
+
+110. | Oriental Education Alliance Limited
+
+111. | Hong Kong International Music Festival Limited
+
+112. | The Association of Zhuangzi Culture & Research of Hong Kong
+
+113. | Hong Kong Cantonese Opera Chamber of Commerce Limited
+
+114. | Jingkun Theatre Limited
+
+(Annex 9 added 14 of 2021 s. 445) Annex 10 Bodies Specified for the Technology and Innovation Subsector
+
+(See Special Remarks)
+
+Part 1—National Level Research Platforms
+
+Item | Body
+
+1. | State Key Laboratory of Emerging Infectious Diseases (The University of Hong Kong)
+
+2. | State Key Laboratory of Brain and Cognitive Science (The University of Hong Kong)
+
+3. | State Key Laboratory of Translational Oncology (The Chinese University of Hong Kong)
+
+4. | State Key Laboratory of Terahertz and Millimeter Waves (City University of Hong Kong)
+
+5. | State Key Laboratory of Agrobiotechnology (The Chinese University of Hong Kong)
+
+6. | State Key Laboratory of Ultraprecision Machining Technology (The Hong Kong Polytechnic University)
+
+7. | State Key Laboratory of Molecular Neuroscience (The Hong Kong University of Science and Technology)
+
+8. | State Key Laboratory of Marine Pollution (City University of Hong Kong)
+
+9. | State Key Laboratory of Research on Bioactivities and Clinical Applications of Medicinal Plants (The Chinese University of Hong Kong)
+
+10. | State Key Laboratory of Liver Research (The University of Hong Kong)
+
+11. | State Key Laboratory of Synthetic Chemistry (The University of Hong Kong)
+
+12. | State Key Laboratory of Chemical Biology and Drug Discovery (The Hong Kong Polytechnic University)
+
+13. | State Key Laboratory of Environmental and Biological Analysis (Hong Kong Baptist University)
+
+14. | State Key Laboratory of Pharmaceutical Biotechnology (The University of Hong Kong)
+
+15. | State Key Laboratory of Digestive Disease (The Chinese University of Hong Kong)
+
+16. | State Key Laboratory of Advanced Displays and Optoelectronics Technologies (The Hong Kong University of Science and Technology)
+
+17. | Hong Kong Branch of National Engineering Research Center for Application Specific Integrated Circuit System
+
+18. | Hong Kong Branch of National Engineering Research Center for Steel Construction
+
+19. | Hong Kong Branch of National Rail Transit Electrification and Automation Engineering Technology Research Center
+
+20. | Hong Kong Branch of National Precious Metals Material Engineering Research Center
+
+21. | Hong Kong Branch of National Engineering Research Center for Tissue Restoration & Reconstruction
+
+22. | Hong Kong Branch of Chinese National Engineering Research Center for Control & Treatment of Heavy Metal Pollution
+
+23. | Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences Limited
+
+24. | Centre for Regenerative Medicine and Health, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences Limited
+
+25. | Centre for Artificial Intelligence and Robotics, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences Limited
+
+Part 2—Public Organizations Highly Relevant to Development of Innovation and Technology
+
+Item | Body
+
+1. | Hong Kong Applied Science And Technology Research Institute Company Limited
+
+2. | Logistics and Supply Chain MultiTech R&D Centre Limited
+
+3. | The Hong Kong Research Institute of Textiles and Apparel Limited
+
+4. | Nano and Advanced Materials Institute Limited
+
+5. | Hong Kong Cyberport Management Company Limited
+
+6. | Hong Kong Science and Technology Parks Corporation
+
+7. | The Hong Kong Institute of Biotechnology Limited
+
+8. | Hong Kong Productivity Council
+
+9. | Hong Kong Internet Registration Corporation Limited
+
+10. | Hong Kong-Shenzhen Innovation and Technology Park Limited
+
+11. | Automotive Platforms and Application Systems R&D Centre
+
+Part 3—Academic Organizations and Professional Bodies Participating in Government’s Consultation related to Development of Innovation and Technology
+
+Item | Body
+
+1. | The Hong Kong Academy of Sciences
+
+2. | Hong Kong Academy of Engineering Sciences
+
+3. | The Hong Kong Young Academy of Sciences
+
+4. | The Society of Hong Kong Scholars
+
+5. | Internet Professional Association Limited
+
+6. | Hong Kong Information Technology Joint Council Limited
+
+7. | Hong Kong Computer Society
+
+8. | Hong Kong Software Industry Association Limited
+
+9. | Communications Association of Hong Kong Limited
+
+10. | Hong Kong Society of Artificial Intelligence and Robotics Limited
+
+11. | Hong Kong Biotechnology Organization
+
+12. | HK Bio-Med Innotech Association Limited
+
+13. | Hong Kong Data Centre Association Limited
+
+14. | Hong Kong Federation of Innovative Technologies and Manufacturing Industries Limited
+
+15. | Smart City Consortium Limited
+
+16. | E-Commerce Association of Hong Kong Limited
+
+17. | Esports Association of Hong Kong Limited
+
+18. | The Hong Kong Electronic Industries Association Limited
+
+(Annex 10 added 14 of 2021 s. 445) Annex 11 Bodies Specified for the Agriculture and Fisheries Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | Aberdeen Fishermen Friendship Association
+
+2. | The Ap Lei Chau Fishermen’s Credit Co-operative Society, Unlimited
+
+3. | The Castle Peak Fishermen’s Credit Co-operative Society, Unlimited
+
+4. | The Castle Peak Mechanized Trawler Fishermen’s Credit Co-operative Society, Unlimited
+
+5. | Cheung Chau Fisheries Joint Association
+
+6. | Cheung Chau Fishermen’s Welfare Promotion Association
+
+7. | The Fanling Kwun Ti Village Farmers’ Irrigation Co-operative Society, Ltd.
+
+8. | Fish Farming and Stuff Association
+
+9. | Fisherman’s Association of Po Toi Island
+
+10. | Fishery Development Association (Hong Kong) Limited
+
+11. | Fraternal Association of The Floating Population of Hong Kong
+
+12. | The Guild of Graziers
+
+13. | Hang Hau Grazier Association
+
+14. | Hong Kong and Kowloon Fishermen Association Ltd.
+
+15. | Hong Kong & Kowloon Floating Fishermen Welfare Promotion Association
+
+16. | Hong Kong Fisheries Development Association
+
+17. | Hong Kong Fishermen’s Association
+
+18. | Hong Kong Fishing Vessel Owners Association, Ltd.
+
+19. | Hong Kong Florists Association
+
+20. | Hong Kong Graziers Union
+
+21. | Hong Kong Liner & Gill Netting Fisherman Association
+
+22. | Hong Kong Livestock Industry Association
+
+23. | Hong Kong N.T. Fish Culture Association
+
+24. | Hong Kong N.T. Poultry (Geese & Ducks) Mutual Association
+
+25. | Hong Kong Netting, Cultivation and Fisherman Association
+
+26. | Hong Kong Off-shore Fishermen’s Association
+
+27. | The Lam Ti Agricultural Credit Co-operative Society, Limited
+
+28. | Lamma Island Lo Dik Wan Aquaculture Association
+
+29. | Lau Fau Shan Oyster Industry Association, New Territories
+
+30. | Ma Wan Fisheries Rights Association Ltd.
+
+31. | The Mui Wo Agricultural Products Marketing & Credit Co-operative Society, Ltd.
+
+32. | Mui Wo Fishermen Fraternity Society
+
+33. | N.T. Oyster and Aquatic Products United Association
+
+34. | The New Territories Chicken Breeders Association, Ltd.
+
+35. | The New Territories Fishermen Fraternity Association Ltd.
+
+36. | New Territories Florist Association, Ltd.
+
+37. | North District Florists Association
+
+38. | Outlying Islands Mariculture Association (Cheung Chau)
+
+39. | Peng Chau Fishermen Association Ltd.
+
+40. | Quality Broiler Development Association
+
+41. | Sai Kung (North) Sham Wan Marine Fish Culture Business Association
+
+42. | Sai Kung Po Toi O Fish Culture Business Association
+
+43. | Sai Kung Tai Tau Chau Fish Culture Business Association
+
+44. | Sai Kung Tai Wu Kok Fishermen’s Association
+
+45. | The Sha Tau Kok Marine Fish Culture Association
+
+46. | The Sha Tau Kok Small Long Liner and Gill Net Fishermen’s Credit Co-operative Society, Unlimited
+
+47. | The Shan Tong Vegetable Marketing Co-operative Society, Ltd.
+
+48. | Shatin Ah Kung Kok Fishermen Welfare Association
+
+49. | Shatin Florists Association
+
+50. | Shau Kei Wan Deep Sea Capture Fishermen’s Credit Co-operative Society, Unlimited
+
+51. | Shau Kei Wan Fishermen Friendship Association
+
+52. | Shau Kei Wan Pair Trawler Fishermen’s Credit Co-operative Society, Unlimited
+
+53. | The Shau Kei Wan Trawler Fishermen’s Credit Co-operative Society, Unlimited
+
+54. | Tai O Fishermen (Coastal Fishery) Association
+
+55. | The Tai O Sha Chai Min Fishermen’s Credit Co-operative Society, Unlimited
+
+56. | The Tai Po Fishermen’s Credit Co-operative Society, Unlimited
+
+57. | Tai Po Florists and Horticulturists Association
+
+58. | The Tai Po Purse Seiner and Small Long Liner Fishermen’s Credit Co-operative Society, Unlimited
+
+59. | The Tsuen Wan Fishermen’s Credit Co-operative Society, Unlimited
+
+60. | The Tuen Mun Mechanized Fishing Boat Fishermen’s Credit Co-operative Society, Unlimited
+
+61. | Tuen Mun Agricultural Association
+
+62. | Tung Lung Chau Mariculture Association
+
+63. | The Hong Kong Branch of the World’s Poultry Science Association
+
+64. | Yuen Long Agriculture Productivity Association
+
+65. | Yung Shue Au Marine Fish Culture Business Association
+
+66. | Tsing Yi Residents Association
+
+67. | 荃灣葵青居民聯會(漁民組)
+
+68. | 荃灣葵青漁民會
+
+69. | The Shau Kei Wan Stern Trawler Fishermen’s Credit Co-operative Society, Unlimited
+
+70. | Sustainable Ecological Ethical Development Foundation Limited
+
+71. | N.T. North District Fishermen’s Association
+
+72. | Tai Po Off Shore Fishermen’s Association
+
+73. | Aberdeen Fisherwomen Association
+
+74. | 香港新界本地農協會
+
+75. | The Hong Kong Veterinary Association Limited
+
+(Annex 11 added 14 of 2021 s. 445) Annex 12 Bodies Specified for the Associations of Chinese Fellow Townsmen Subsector
+
+(See Special Remarks)
+
+Item | Body
+
+1. | Federation of Hong Kong Guangdong Community Organisations Limited
+
+2. | Hong Kong Federation of Fujian Associations Limited
+
+3. | Federation of HK Guangxi Community Organisations Limited
+
+4. | Hong Kong Federation of Hainan Community Organisations Limited
+
+5. | The United Zhejiang Residents Associations (Hong Kong) Limited
+
+6. | Federation of HK Jiangsu Community Organisations Limited
+
+7. | Hong Kong Beijing Association Limited
+
+8. | Hong Kong-Shanghai Economic Development Association Limited
+
+9. | Federation of Hong Kong Hubei Associations Limited
+
+10. | Hunan Fraternal Association of Hong Kong Limited
+
+11. | Hong Kong Federation of Jiang Xi Associations Limited
+
+12. | Federation of HK Shandong Community Organisations Limited
+
+13. | Federation of HK Sichuan Community Organisations Limited
+
+14. | The Hong Kong Tianjin Friendship Association Limited
+
+15. | Hong Kong Chongqing Friendship Federation Limited
+
+16. | Hong Kong Federation of Gan Su Limited
+
+17. | Hong Kong Shaanxi Friendship Association Limited
+
+18. | Hong Kong Hebei Friendship Association Limited
+
+19. | The Anhui Fraternity Association (Hong Kong) Limited
+
+20. | Hong Kong Shanxi Chamber of Commerce Limited
+
+21. | Hong Kong Ningxia Federation of Associations Limited
+
+22. | The Association of Hong Kong Yunnan Fellow Provincials Limited
+
+23. | The Hong Kong Friendship Association of Guizhou Province
+
+24. | Qinghai Hong Kong & Macau Association Limited
+
+(Annex 12 added 14 of 2021 s. 445) Annex 13 Election Committee Oath
+
+(See Special Remarks)
+
+- I, * .........................................................................................................,
+
+- of * ..................................................................................................................
+
+- **affirm/swear that—
+
+- (a) I will duly and faithfully fulfill the duties of the Election Committee according to the best of my ability;
+
+- (b) I will uphold the Basic Law;
+
+- (c) my allegiance is to the Hong Kong Special Administrative Region of the People’s Republic of China; and
+
+- (d) to the best of my knowledge and belief I am not disqualified from being a member of the Election Committee by virtue of—
+
+- **(i) for persons to be registered as ex-officio members in accordance with Part 2A of the Schedule to the Chief Executive Election Ordinance (Cap. 569)—section 5M of that Schedule/
+
+- **(ii) for persons nominated in accordance with Part 3 of the Schedule to the Chief Executive Election Ordinance (Cap. 569)—section 9 or 9A of that Schedule/
+
+- **(iii) for persons elected in accordance with Part 4 of the Schedule to the Chief Executive Election Ordinance (Cap. 569)—section 18 or 18A of that Schedule.
+
+- **Affirmed/sworn this *............ day of *.........................
+
+- (Signature) …………………….
+
+- This acceptance was **affirmed/sworn and signed before me, a **Magistrate/Commissioner for Oaths.
+
+- (Signature) …………………….
+
+- * Complete as appropriate.
+
+- ** Delete whichever is inapplicable.
+
+(Annex 13 added 14 of 2021 s. 445) (Amended E.R. 2 of 2012) (Format changes—E.R. 1 of 2012)

@@ -1,219 +1,283 @@
 # Schedule 1B
 
-[s. 20V]
+(See Special Remarks)
+
+[ss. 20V & 83]
 
 Composition of the Sports, Performing Arts, Culture and Publication Functional Constituency
 
-- Part 1 District Sports Associations
+- Part 1 Performing Arts Industry Associations and Local Licensed Broadcasting Institutions
 
-- Item | Body
+- Item | Body composing the constituency
 
-- 1. | Central & Western District Recreation & Sports Association
+- 1. | Hong Kong Motion Picture Industry Association Limited
 
-- 2. | Eastern District Recreation & Sports Advancement Association Ltd.
+- 2. | Hong Kong Film Awards Association Ltd.
 
-- 3. | The Federation of Tsuen Wan District Sports & Recreation Association Ltd.
+- 3. | Association for Betterment of Hong Kong’s Entertainment Industry in Mainland China Limited
 
-- 4. | Islands District Sports Association
+- 4. | Federation of Hong Kong Filmmakers Limited
 
-- 5. | Kowloon City District Recreation and Sports Council Limited (Replaced 7 of 2008 s. 8)
+- 5. | Movie Producers and Distributors Association of Hong Kong Ltd.
 
-- 6. | Kwai Tsing District Sports Association Limited (Replaced 7 of 2008 s. 8)
+- 6. | Hong Kong Chamber of Films Limited
 
-- 7. | Kwun Tong Sports Promotion Association Ltd.
+- 7. | Hong Kong Theatres Association Ltd.
 
-- 8. | Mong Kok District Cultural, Recreational and Sports Association Limited (Replaced 25 of 2003 s. 45)
+- 8. | 華南電影工作者聯合會
 
-- 9. | North District Sports Association Limited (Amended 2 of 2011 s. 34)
+- 9. | International Federation of the Phonographic Industry (Hong Kong Group) Limited
 
-- 10. | Sai Kung District Sports Association Ltd.
+- 10. | Music Publishers Association of Hong Kong Limited
 
-- 11. | Sha Tin Sports Association Ltd.
+- 11. | Hong Kong Recording Industry Alliance Limited
 
-- 12. | Sham Shui Po Sports Association Limited (Amended 2 of 2011 s. 34)
+- 12. | Television Broadcasts Limited
 
-- 13. | Southern District Recreation and Sports Association Limited (Amended 10 of 2006 s. 44)
+- 13. | HK Television Entertainment Company Limited
 
-- 14. | Taipo Sports Association Limited (Replaced 11 of 2019 s. 9. Amended E.R. 4 of 2020)
+- 14. | Fantastic Television Limited
 
-- 15. | Tuen Mun Sports Association Limited
+- 15. | Hong Kong Commercial Broadcasting Company Limited
 
-- 16. | Wan Chai District Arts Cultural Recreational and Sports Association Limited (Amended 10 of 2006 s. 44)
+- 16. | Metro Broadcast Corporation Limited
 
-- 17. | Wong Tai Sin District Recreation & Sports Council
+- 17. | The Hong Kong Film Development Council
 
-- 18. | Yaumatei and Tsimshatsui Recreation & Sports Association Ltd.
+- 18. | The Hong Kong International Film Festival Society Limited
 
-- 19. | Yuen Long District Sports Association Ltd.
+- 19. | Hong Kong Film & Television Association Limited
 
-- Part 2 District Arts and Culture Associations
+- Part 2 Cultural Public Institutions, Associations and Bodies
 
-- Item | Body
+- Item | Body composing the constituency
 
-- 1. | Central and Western District Association for Culture and Arts
+- 1. | Hong Kong Arts Development Council
 
-- 2. | Eastern District Arts Council Limited (Amended 14 of 2015 s. 12)
+- 2. | The Hong Kong Academy for Performing Arts
 
-- 3. | Kowloon City District Arts and Culture Council
+- 3. | West Kowloon Cultural District Authority
 
-- 4. | Kwai Chung and Tsing Yi District Culture and Arts Co-ordinating Association Limited
+- 4. | The Hong Kong Philharmonic Society Limited
 
-- 5. | Kwun Tong District Culture and Recreation Promotion Association (Replaced 25 of 2003 s. 45)
+- 5. | Hong Kong Chinese Orchestra Limited
 
-- 6. | North District Arts Advancement Association Limited
+- 6. | Hong Kong Repertory Theatre Limited
 
-- 7. | Sai Kung Culture & Recreational Advancement Association (Replaced 25 of 2003 s. 45)
+- 7. | Chung Ying Theatre Company (HK) Limited
 
-- 8. | Sha Tin Arts Association Limited
+- 8. | Hong Kong Dance Company Limited
 
-- 9. | Sham Shui Po Arts Association Limited (Amended 10 of 2006 s. 44)
+- 9. | The Hong Kong Ballet Limited
 
-- 10. | Southern District Arts and Culture Association Limited
+- 10. | Hong Kong Sinfonietta Limited
 
-- 11. | Tai Po District Arts Advancement Association
+- 11. | City Contemporary Dance Company Limited
 
-- 12. | Tsuen Wan Culture & Recreation Co-ordinating Association Limited
+- 12. | Zuni Icosahedron
 
-- 13. | Tuen Mun Arts Promotion Association
+- 13. | Hong Kong Arts Festival Society Limited
 
-- 14. | Wong Tai Sin District Arts Council
+- 14. | China Federation of Literary and Art Circles Hong Kong Member Association Limited
 
-- 15. | Yau Ma Tei and Tsim Sha Tsui Culture and Arts Association Limited
+- 15. | China Theatre Association Hong Kong Member Branch
 
-- 16. | Yuen Long District Arts Committee
+- 16. | China Film Hong Kong Association Limited
 
-- Part 3 Other Bodies
+- 17. | Chinese Musicians Association—Hong Kong Members Branch
 
-- Item | Body
+- 18. | China Artists Association Hong Kong Chapter
 
-- 1. | All Stars Sports Association Ltd.
+- 19. | China Opera Performing Artists Hong Kong Association
 
-- 2. | The Song Writers’ Association of Hong Kong (Amended 10 of 2006 s. 44)
+- 20. | Chinese Dancres Association Hong Kong Member Branch
 
-- 3. | Artiste Training Alumni Association Limited
+- 21. | China Photographers Association Hong Kong Member Branch
 
-- 4. | (Repealed 25 of 2003 s. 45)
+- 22. | China Calligraphers Association Hong Kong Member Branch
 
-- 5. | Composers and Authors Society of Hong Kong Limited
+- 23. | China Literature and Art Critics Association Hong Kong Member Branch
 
-- 6. | Friends of the Art Museum, The Chinese University of Hong Kong Limited
+- 24. | The Association of Chinese Culture of Hong Kong
 
-- 7. | The Friends of the Hong Kong Museum of Art
+- 25. | Hong Kong Culture Association Limited
 
-- 8. | (Repealed 25 of 2003 s. 45)
+- 26. | The Chinese Artists Association of Hong Kong
 
-- 9. | Hong Kong Film Directors’ Guild Limited (Amended 15 of 2016 s. 13)
+- 27. | Hong Kong Chinese Opera Promotion Association Limited
 
-- 10. | Hong Kong Anthropological Society
+- 28. | Cantonese Opera Musician and Vocalist Association Limited
 
-- 11. | Hong Kong Archaeological Society
+- 29. | HK Chinese Opera and Performing Arts Group Association
 
-- 12. | (Repealed 25 of 2003 s. 45)
+- 30. | Hong Kong Cantonese Opera Artists Club Limited
 
-- 13. | The Hong Kong Children’s Choir
+- 31. | Hong Kong Association of Cantonese Opera Scholars Limited
 
-- 14. | Hong Kong Chinese Orchestra Limited (Amended 10 of 2006 s. 44)
+- 32. | Hong Kong Federation of Drama Societies
 
-- 15. | Hong Kong Chinese Press Association
+- 33. | Actors’ Family Limited
 
-- 16. | Hong Kong & Macau Cinema and Theatrical Enterprise Association Limited (Replaced 25 of 2003 s. 45)
+- 34. | The Nonsensemakers Limited
 
-- 17. | Hong Kong Cinematography Lighting Association Limited (Amended 10 of 2006 s. 44)
+- 35. | Tang Shu-Wing Theatre Studio Limited
 
-- 18. | (Repealed 25 of 2003 s. 45)
+- 36. | Shakespeare4All Company Limited
 
-- 19. | Hong Kong Curators Association
+- 37. | Spring-Time Experimental Theatre Limited
 
-- 20. | Hong Kong Dance Company Limited (Replaced 25 of 2003 s. 45)
+- 38. | Perry Chiu Experimental Theatre Limited
 
-- 21. | Hong Kong Federation of Journalists Ltd.
+- 39. | Performing Arts Asia Limited
 
-- 22. | Hong Kong Festival Fringe Limited (Amended 15 of 2016 s. 13)
+- 40. | Composers and Authors Society of Hong Kong Limited
 
-- 23. | Hong Kong Film Academy
+- 41. | Hong Kong Composers’ Guild Limited
 
-- 24. | Hong Kong Film Arts Association Limited
+- 42. | Hong Kong Chinese Instrumental Music Association
 
-- 25. | (Repealed 25 of 2003 s. 45)
+- 43. | Hong Kong Association of Choral Societies
 
-- 26. | Hong Kong History Society
+- 44. | Hong Kong Music Tutors Union
 
-- 27. | The Hong Kong Intellectual Property Society Limited (Replaced 7 of 2008 s. 8)
+- 45. | Opera Hong Kong Limited
 
-- 28. | Hong Kong Journalists Association
+- 46. | Hong Kong String Orchestra Limited
 
-- 29. | (Repealed 25 of 2003 s. 45)
+- 47. | Global Symphony Orchestra Society Limited
 
-- 30. | (Repealed 7 of 2008 s. 8)
+- 48. | The Hong Kong Children’s Choir
 
-- 31. | Hong Kong Museum of Medical Sciences Society
+- 49. | Yip’s Children’s Choir Limited
 
-- 32. | Hong Kong News Executives’ Association, Limited (Replaced 25 of 2003 s. 45)
+- 50. | Allegro Singers
 
-- 33. | Hong Kong P.E.N. (English) Centre (Amended 15 of 2016 s. 13)
+- 51. | Hong Kong City Chinese Orchestra
 
-- 34. | Hong Kong Performing Artistes Guild Limited (Amended 15 of 2016 s. 13)
+- 52. | Hong Kong Dance Federation Limited
 
-- 35. | The Hong Kong Philharmonic Society Limited (Replaced 11 of 2019 s. 9. Amended E.R. 4 of 2020)
+- 53. | Association of Hong Kong Dance Organizations
 
-- 36. | Hong Kong Press Photographers Association
+- 54. | Hong Kong Dance Alliance Limited
 
-- 37. | Hong Kong Recreation Management Association Limited (Replaced 25 of 2003 s. 45)
+- 55. | The Hong Kong Ballet Group Limited
 
-- 38. | Hong Kong Repertory Theatre Limited (Replaced 25 of 2003 s. 45)
+- 56. | Hong Kong Dance Sector Joint Conference
 
-- 39. | Hong Kong Screen Writers’ Guild Limited (Amended 15 of 2016 s. 13)
+- 57. | The Association of Hong Kong Youth Dancers
 
-- 40. | Hong Kong Sports Association of the Deaf Company Limited (Amended 11 of 2019 s. 9)
+- 58. | Miranda Chin Dance (Mirandance) Company Limited
 
-- 41. | Hong Kong Sports Press Association Ltd.
+- 59. | Budlet Folk Dance Club
 
-- 42. | Hong Kong Stuntman Association Limited (Amended 15 of 2016 s. 13)
+- 60. | Starwave Production
 
-- 43. | The Hong Kong Tai Chi Association (Amended 11 of 2019 s. 9)
+- 61. | Xiang Gang Mei Xie
 
-- 44. | (Repealed 25 of 2003 s. 45)
+- 62. | Chinese Ink Painting Institute Hong Kong
 
-- 45. | Hong Kong United Arts Entertainment Company Limited (Amended 15 of 2016 s. 13)
+- 63. | Hong Kong Water Colour Research Society
 
-- 46-47. | (Repealed 25 of 2003 s. 45)
+- 64. | Hong Kong Lan Ting Society
 
-- 48. | Min Chiu Society
+- 65. | Hong Kong Culture and Art Promotion Association
 
-- 49. | (Repealed 25 of 2003 s. 45)
+- 66. | Hong Kong Art Researching Association
 
-- 50. | The New Territories Regional Sports Association (Amended 11 of 2012 s. 37)
+- 67. | Hong Kong Modern Ink Painting Society Co. Limited
 
-- 51. | The Newspaper Society of Hong Kong
+- 68. | Hong Kong Oil Painting Research Society
 
-- 52. | Pop-Music Authors Society of Hong Kong
+- 69. | Hong Kong Artists Society
 
-- 53. | The Hong Kong Branch of the Royal Asiatic Society (Amended 10 of 2006 s. 44)
+- 70. | The Hong Kong Art Club
 
-- 54. | Sail Training Association of Hong Kong Limited (Replaced 25 of 2003 s. 45)
+- 71. | Chung Fung Art Club
 
-- 55. | Society of Cinematographers (Hong Kong) Limited
+- 72. | To-day’s Chinese Art Association
 
-- 56. | Society of Film Editors (Hong Kong) Limited (Amended 15 of 2016 s. 13)
+- 73. | Ling Ngai Art Association
 
-- 57. | South China Film Industry Workers’ Union (Amended 10 of 2006 s. 44)
+- 74. | Hong Kong Graphics Society
 
-- 58. | South China Research Circle
+- 75. | 中國書協香港分會
 
-- 59. | The Hong Kong Swimming Teachers’ Association Limited (Amended 2 of 2011 s. 34)
+- 76. | Hong Kong Chinese Calligraphy and Art Association
 
-- 60. | (Repealed 25 of 2003 s. 45)
+- 77. | China Hong Kong Institute of Calligraphy
 
-- 61. | Videotage Limited (Amended 15 of 2016 s. 13)
+- 78. | Calligraphy and Painting Study Association of Hong Kong Fukienese
 
-- 62. | Zuni Icosahedron
+- 79. | Hong Kong Association of Amateur Calligraphers
 
-- 63. | Federation of Hong Kong Filmmakers Limited (Added 25 of 2003 s. 45. Amended 10 of 2006 s. 44)
+- 80. | Hong Kong Calligraphers’ Association
 
-- 64. | Hong Kong Movie Production Executives Association Limited (Added 25 of 2003 s. 45)
+- 81. | Hong Kong International Calligraphy and Seal Cutting Society
 
-- 65. | Hong Kong Sports Institute Limited (Added 7 of 2008 s. 8)
+- 82. | Hong Kong Hard Pen Calligraphists’ Association
 
-- 66. | The Federation of Motion Film Producers of Hong Kong Limited (Added 14 of 2015 s. 12)
+- 83. | Friends of Shizhai
 
-- (Added 48 of 1999 s. 43. Amended E.R. 5 of 2019)
+- 84. | The Jiazi Society of Calligraphy
+
+- 85. | The Photographic Society of Hong Kong
+
+- 86. | The Chinese Photographic Association of Hong Kong
+
+- 87. | Sea Gull Photographic Association Limited
+
+- 88. | The Photographic Salon Exhibitors Association
+
+- 89. | Grace Photographic Club
+
+- 90. | Hong Kong Camera Club, Limited
+
+- 91. | United Artist Photographic Association Limited
+
+- 92. | The Society of Worldwide Ethnic Chinese Photographers Limited
+
+- 93. | The Hong Kong 35mm Photography Society, Limited
+
+- 94. | The Hong Kong Miniature Cameras Photography Society
+
+- 95. | Hong Kong CreArt Photographic Association Limited
+
+- 96. | Overseas Chinese Photographers Association of Hong Kong
+
+- 97. | The Art of Photography Association Limited
+
+- 98. | The Federation of Hong Kong Writers
+
+- 99. | The House of Hong Kong Literature Limited
+
+- 100. | Hong Kong Writers Association Company Limited
+
+- 101. | Hong Kong Society for Study of Poetry, Calligraphy and Couplet
+
+- 102. | Hong Kong Literature Promoted Association
+
+- 103. | 國際華文詩人協會
+
+- 104. | Magicians’ Association of Hong Kong
+
+- 105. | Hong Kong & Macau Intangible Cultural Heritage Research Centre Limited
+
+- 106. | Wing Lung Art
+
+- 107. | Hong Kong Book Reviewers Association
+
+- 108. | Hong Kong Film Critics Association Limited
+
+- 109. | Hong Kong Literary Criticism Society Company Limited
+
+- 110. | Oriental Education Alliance Limited
+
+- 111. | Hong Kong International Music Festival Limited
+
+- 112. | The Association of Zhuangzi Culture & Research of Hong Kong
+
+- 113. | Hong Kong Cantonese Opera Chamber of Commerce Limited
+
+- 114. | Jingkun Theatre Limited
+
+(Schedule 1B replaced 14 of 2021 s. 346)

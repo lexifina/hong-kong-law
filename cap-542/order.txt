@@ -2,7 +2,9 @@ intro.md
 s-001.md
 s-002.md
 s-003.md
+s-003AA.md
 s-003A.md
+s-003B.md
 s-004.md
 s-005.md
 s-006.md
@@ -29,6 +31,7 @@ s-020F.md
 s-020G.md
 s-020H.md
 s-020I.md
+s-020IA.md
 s-020J.md
 s-020K.md
 s-020L.md
@@ -37,6 +40,7 @@ s-020N.md
 s-020O.md
 s-020P.md
 s-020Q.md
+s-020QA.md
 s-020R.md
 s-020S.md
 s-020T.md
@@ -49,7 +53,10 @@ s-020Z.md
 s-020ZA.md
 s-020ZB.md
 s-020ZC.md
+s-020ZD.md
 s-021.md
+s-021A.md
+s-021B.md
 s-022.md
 s-023.md
 s-024.md
@@ -85,6 +92,7 @@ s-049.md
 s-050.md
 s-051.md
 s-052.md
+s-052A.md
 s-053.md
 s-054.md
 s-055.md
@@ -142,3 +150,4 @@ sch-2.md
 sch-3.md
 sch-4.md
 sch-5.md
+sch-6.md

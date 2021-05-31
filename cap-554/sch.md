@@ -14,11 +14,13 @@ Item | Election | Limit
 
 1. | An election to elect the Chief Executive | $50,000
 
-2. | An election to elect a Member or Members of the Legislative Council for the District Council (second) functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) | $50,000
+2. | (Repealed 14 of 2021 s. 379)
 
 3. | An election to elect a Member or Members of the Legislative Council for any geographical constituency within the meaning of the Legislative Council Ordinance (Cap. 542) | $30,000
 
-4. | An election to elect a Member or Members of the Legislative Council for any functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) other than the District Council (second) functional constituency | $5,000
+4. | An election to elect a Member or Members of the Legislative Council for any functional constituency within the meaning of the Legislative Council Ordinance (Cap. 542) (Amended 14 of 2021 s. 379) | $5,000
+
+4A. | An election to elect a Member or Members of the Legislative Council for the Election Committee constituency within the meaning of the Legislative Council Ordinance (Cap. 542) (Added 14 of 2021 s. 379) | $5,000
 
 5. | An election to elect a member or members of the Election Committee | $5,000
 

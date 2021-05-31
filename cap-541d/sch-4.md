@@ -4,43 +4,39 @@
 
 Forms for the Notice of Election Result under Section 58 of the Legislative Council Ordinance (Cap. 542)
 
-Form 1 Notice of Result of Election for a Geographical Constituency
+Form 1 Notice of Result of Election for Geographical Constituency
 
 《選舉管理委員會(選舉程序) (立法會)規例》 ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (LEGISLATIVE COUNCIL) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION 立法會*換屆選舉/補選 *(地方選區名稱) LEGISLATIVE COUNCIL *GENERAL ELECTION/BY-ELECTION *(Name of Geographical Constituency)
 
-1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
+1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下 —— The following is a statement of the result of the above election held on *(date)—
 
-名單編號 List Number | 名單候選人姓名 Name(s) of Candidate(s) | 名單所得票數 Number of Votes Given to the List
+候選人姓名 Name of Candidate | 候選人所得票數 Number of Votes Given to the Candidate
 
-2. | 特此公布下列候選人 * 依據以抽籤方式決定的選舉結果而在上述地方選區當選—— It is hereby notified that the following candidate(s) *is/are declared to be elected for the above-mentioned geographical constituency *pursuant to a result determined by drawing lots—
+2. | 特此公布下列候選人*依據以抽籤方式決定的選舉結果而在上述地方選區當選 —— It is hereby notified that the following candidate(s) *is/are declared to be elected for the above-mentioned geographical constituency *pursuant to a result determined by drawing lots—
 
-名單編號 List Number | 當選的候選人姓名 Name(s) of Candidate(s) Elected
+(當選的候選人姓名) (Name(s) of Candidate(s) Elected)
 
 日期：. Date: . | 上述地方選區的選舉主任 Returning Officer for the above-mentioned geographical constituency
 
-- * Only the appropriate information will be printed.
-
-(L.N. 65 of 2000)
+* Only the appropriate information will be printed. (14 of 2021 s. 160)
 
 _
 
-Form 2 Notice of Result of Election for Functional Constituencies (other than the District Council (Second) Functional Constituency)
+Form 2 Notice of Result of Election for Functional Constituency
 
-《選舉管理委員會(選舉程序) (立法會)規例》 ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (LEGISLATIVE COUNCIL) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION 立法會*換屆選舉/補選 *(功能界別名稱) LEGISLATIVE COUNCIL *GENERAL ELECTION/BY-ELECTION* (Name of Functional Constituency)
+《選舉管理委員會(選舉程序) (立法會)規例》 ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (LEGISLATIVE COUNCIL) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION 立法會*換屆選舉/補選 *(功能界別名稱) LEGISLATIVE COUNCIL *GENERAL ELECTION/BY-ELECTION *(Name of Functional Constituency)
 
-1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
+1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下 —— The following is a statement of the result of the above election held on *(date)—
 
-候選人姓名 Name(s) of Candidate(s) | #所得票數 #Number of Votes Given to the Candidate
+候選人姓名 Name of Candidate | 候選人所得票數 Number of Votes Given to the Candidate
 
-2. | 特此公布下列候選人 * 依據以抽籤方式決定的選舉結果而在上述功能界別當選—— It is hereby notified that the following candidate(s) *is/are declared to be elected for the above-mentioned functional constituency *pursuant to a result determined by drawing lots— (當選的候選人姓名) (Name(s) of Candidate(s) Elected)
+2. | 特此公布下列候選人*依據以抽籤方式決定的選舉結果而在上述功能界別當選 —— It is hereby notified that the following candidate(s) *is/are declared to be elected for the above-mentioned functional constituency *pursuant to a result determined by drawing lots—
+
+(當選的候選人姓名) (Name(s) of Candidate(s) Elected)
 
 日期：. Date: . | 上述功能界別的選舉主任 Returning Officer for the above-mentioned functional constituency
 
-- * Only the appropriate information will be printed.
-
-- # For the special functional constituencies, the column will show the “number of votes received at the final count”.
-
-(L.N. 65 of 2000; L.N. 73 of 2011)
+* Only the appropriate information will be printed. (14 of 2021 s. 160)
 
 _
 
@@ -48,20 +44,22 @@ Form 3 (Repealed L.N. 84 of 2004)
 
 _
 
-Form 4 Notice of Result of Election for the District Council (Second) Functional Constituency
+Form 4 (Repealed 14 of 2021 s. 160)
 
-《選舉管理委員會(選舉程序) (立法會)規例》 ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (LEGISLATIVE COUNCIL) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION 立法會*換屆選舉/補選 (區議會(第二)功能界別) LEGISLATIVE COUNCIL *GENERAL ELECTION/BY-ELECTION (District Council (Second) Functional Constituency)
+_
 
-1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
+Form 5 Notice of Result of Election for Election Committee Constituency
 
-名單編號 List Number | 名單候選人姓名 Name(s) of Candidate(s) | 名單所得票數 Number of Votes Given to the List
+《選舉管理委員會(選舉程序) (立法會)規例》 ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (LEGISLATIVE COUNCIL) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION 立法會*換屆選舉/補選 選舉委員會界別 LEGISLATIVE COUNCIL *GENERAL ELECTION/BY-ELECTION Election Committee Constituency
 
-2. | 現公布：以下候選人 * 依據以抽籤方式決定的選舉結果而在區議會(第二)功能界別當選—— It is notified that the following candidate(s) *is/are declared to be elected for the District Council (second) functional constituency *pursuant to a result determined by drawing lots—
+1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下 —— The following is a statement of the result of the above election held on *(date)—
 
-名單編號 List Number | 當選的候選人姓名 Name(s) of Candidate(s) Elected
+候選人姓名 Name of Candidate | 候選人所得票數 Number of Votes Given to the Candidate
 
-日期：. Date: . | 區議會(第二)功能界別的選舉主任 Returning Officer for the District Council (second) functional constituency
+2. | 特此公布下列候選人*依據以抽籤方式決定的選舉結果而在選舉委員會界別當選 —— It is hereby notified that the following candidate(s) *is/are declared to be elected for the Election Committee constituency *pursuant to a result determined by drawing lots—
 
-- * Only the appropriate information will be printed.
+(當選的候選人姓名) (Name(s) of Candidate(s) Elected)
 
-(L.N. 73 of 2011)
+日期：. Date: . | 選舉委員會界別的選舉主任 Returning Officer for the Election Committee constituency
+
+* Only the appropriate information will be printed. (14 of 2021 s. 160)

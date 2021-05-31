@@ -1,16 +1,18 @@
 # Schedule 1C
 
-[s. 20Y]
+(See Special Remarks)
+
+[ss. 20Y & 83] (Amended 14 of 2021 s. 347)
 
 Composition of the Wholesale and Retail Functional Constituency
 
-Item | Body
+Item | Body the corporate members of which compose the constituency
 
-1. | Anglo-Chinese Vegetable Wholesale Merchants Association Limited (Amended 10 of 2006 s. 45)
+1. | (Repealed 14 of 2021 s. 347)
 
 2. | Association of Better Business & Tourism Services (Replaced 25 of 2003 s. 46)
 
-3. | Cheung Sha Wan Poultry United Wholesalers Association Ltd.
+3. | (Repealed 14 of 2021 s. 347)
 
 4. | Chinese Medicine Merchants Association Ltd.
 
@@ -34,17 +36,15 @@ Item | Body
 
 14. | Hong Kong Electro-Plating Merchants Association Limited (Amended 10 of 2006 s. 45)
 
-15. | Hong Kong & Kowloon European Dress Merchants Association
-
-16. | Hong Kong & Kowloon Fresh Water Fish Merchants’ & Buyers’ Association Limited
+15-16. | (Repealed 14 of 2021 s. 347)
 
 17. | Hong Kong & Kowloon Fruit & Vegetable Employees & Employers Guild
 
-18. | Hong Kong & Kowloon Furniture & Shop Fittings Merchants Association
+18. | (Repealed 14 of 2021 s. 347)
 
 19. | Hong Kong & Kowloon General Association of Liquor Dealers and Distillers
 
-20. | Hong Kong & Kowloon Machine Made Paper Merchants Association Ltd.
+20. | (Repealed 14 of 2021 s. 347)
 
 21. | Hong Kong and Kowloon Machinery and Instrument Merchants Association Ltd.
 
@@ -52,7 +52,7 @@ Item | Body
 
 23. | Hong Kong & Kowloon Plastic Products Merchants United Association Limited
 
-24. | Hong Kong & Kowloon Poultry Dealers Guild
+24. | (Repealed 14 of 2021 s. 347)
 
 25. | The Hong Kong & Kowloon Provisions, Wine & Spirit Dealers’ Association Limited (Amended 2 of 2011 s. 35)
 
@@ -60,7 +60,7 @@ Item | Body
 
 27. | (Repealed 10 of 2006 s. 48)
 
-28. | The Hong Kong and Kowloon Salt Merchants’ Association (Amended 10 of 2006 s. 45)
+28. | (Repealed 14 of 2021 s. 347)
 
 29. | Hong Kong & Kowloon Sauce & Preserved-Fruit Amalgamated Employers Association
 
@@ -76,7 +76,7 @@ Item | Body
 
 35. | Hong Kong Dried Seafood and Grocery Merchants Association Limited
 
-36. | Hong Kong Dyestuffs Merchants Association Limited
+36. | (Repealed 14 of 2021 s. 347)
 
 37. | Hong Kong Egg Merchants Association (Fung-Kwai-Tong)
 
@@ -84,7 +84,7 @@ Item | Body
 
 39. | (Repealed 10 of 2006 s. 48)
 
-40. | Hong Kong Flower Dealers & Workers Association
+40. | (Repealed 14 of 2021 s. 347)
 
 41. | Hong Kong Flower Retailers Association
 
@@ -110,9 +110,7 @@ Item | Body
 
 52. | Hong Kong Metal Merchants Association
 
-53. | The Hong Kong Oil Merchants Association, Limited (Amended 10 of 2006 s. 45)
-
-54. | Hong Kong Paints & Pigments Merchants Association Ltd.
+53-54. | (Repealed 14 of 2021 s. 347)
 
 55. | Hong Kong Petroleum, Chemicals and Pharmaceutical Materials Merchants Association Ltd.
 
@@ -146,9 +144,7 @@ Item | Body
 
 71. | (Repealed 25 of 2003 s. 46)
 
-72. | Hongkong Kowloon New Territories & Overseas Fish Wholesalers Association Limited
-
-73. | The Industrial Chemical Merchants’ Association Limited (Amended 10 of 2006 s. 45)
+72-73. | (Repealed 14 of 2021 s. 347)
 
 74. | Kowloon Cheung Sha Wan Wholesale Vegetable Market (Importers) Recreation Club Limited (Replaced 7 of 2008 s. 9)
 
@@ -160,7 +156,7 @@ Item | Body
 
 78. | (Repealed 25 of 2003 s. 46)
 
-79. | Kowloon Poultry Laan Merchants Association
+79. | (Repealed 14 of 2021 s. 347)
 
 80. | The Merchants Association of First Wholesalers/Jobbery of Imported Fresh Fruits & Vegetables Limited
 
@@ -176,7 +172,7 @@ Item | Body
 
 86. | The Rice Merchants’ Association of Hong Kong Limited
 
-87. | Shaukiwan Fishery Merchants Association (Amended 10 of 2006 s. 45)
+87. | (Repealed 14 of 2021 s. 347)
 
 88-89. | (Repealed 10 of 2006 s. 48)
 
@@ -200,4 +196,4 @@ Item | Body
 
 99. | Hong Kong Chinese Patent Medicine Manufacturers’ Association Ltd. (Added 2 of 2011 s. 35)
 
-(Added 48 of 1999 s. 43. Amended E.R. 5 of 2019)
+(Added 48 of 1999 s. 43. Amended E.R. 5 of 2019; 14 of 2021 s. 347)

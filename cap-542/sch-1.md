@@ -1,10 +1,12 @@
 # Schedule 1
 
-[s. 20B]
+(See Special Remarks)
+
+[ss. 20B & 83] (Amended 14 of 2021 s. 344)
 
 Composition of the Agriculture and Fisheries Functional Constituency
 
-Item | Body
+Item | Body composing the constituency
 
 1. | Aberdeen Fishermen Friendship Association (Amended 10 of 2006 s. 34)
 
@@ -176,7 +178,7 @@ Item | Body
 
 85. | The Hong Kong Veterinary Association Limited (Added 11 of 2019 s. 7. Amended E.R. 4 of 2020)
 
-(Replaced 48 of 1999 s. 43. Amended E.R. 5 of 2019)
+(Replaced 48 of 1999 s. 43. Amended E.R. 5 of 2019; 14 of 2021 s. 344)
 
 Editorial Note:
 

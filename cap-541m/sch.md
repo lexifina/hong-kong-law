@@ -1,6 +1,6 @@
 # Schedule
 
-[ss. 3 & 4]
+[s. 3] (14 of 2021 s. 259)
 
 Particulars Relating to Candidates
 

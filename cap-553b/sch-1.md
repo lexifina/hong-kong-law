@@ -104,7 +104,7 @@ Item | Enactment | Provision
 
 59C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Section 4(1), section 9(2), section 25(5) and (7) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on the polling date), section 44(4) and (6) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on the polling date) and section 80(2) (L.N. 282 of 2001; 11 of 2012 s. 23; 15 of 2016 s. 48)
 
-60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 38(3), 40(1)(b) and 42(2) (21 of 2001 s. 75; 12 of 2014 s. 51)
+60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 40(1)(b) and 42(2) (21 of 2001 s. 75; 12 of 2014 s. 51; 14 of 2021 s. 474)
 
 61. | Registration of Electors (Appeals) Regulation (Cap. 542 sub. leg. B) | Section 2(1) and (2)(c)
 

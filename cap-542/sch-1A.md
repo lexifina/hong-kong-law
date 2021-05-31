@@ -1,14 +1,16 @@
 # Schedule 1A
 
-[s. 20D]
+(See Special Remarks)
+
+[ss. 20D & 83] (Amended 14 of 2021 s. 345)
 
 Composition of the Transport Functional Constituency
 
-Item | Body
+Item | Body composing the constituency
 
 1. | Parking Management and Consultancy Services Limited (Replaced 7 of 2008 s. 7)
 
-2. | Airport Authority Hong Kong
+2. | Airport Authority (Amended 14 of 2021 s. 345)
 
 3. | (Repealed 25 of 2003 s. 44)
 
@@ -26,7 +28,7 @@ Item | Body
 
 10. | Chu Kong Shipping Enterprises (Holdings) Co. Ltd.
 
-11. | Chuen Kee Ferry Ltd.
+11. | Chuen Kee Ferry Limited (Amended 14 of 2021 s. 345)
 
 12. | Chuen Lee Radio Taxis Association Ltd.
 
@@ -44,7 +46,7 @@ Item | Body
 
 19. | Driving Instructors Merchants Association, Limited (Replaced 7 of 2008 s. 7)
 
-20. | Eastern Ferry Co.
+20. | Eastern Ferry Company Limited (Amended 14 of 2021 s. 345)
 
 21. | Expert Fortune Ltd.
 
@@ -110,7 +112,7 @@ Item | Body
 
 52. | (Repealed 11 of 2019 s. 8)
 
-53. | Hong Kong Motor Car Driving Instructors Association Ltd.
+53. | H.K. Motor Car Driving Instructors’ Association Limited (Replaced 14 of 2021 s. 345)
 
 54. | Hong Kong Pilots Association Ltd.
 
@@ -202,7 +204,7 @@ Item | Body
 
 98. | Modern Terminals Ltd.
 
-99. | N.T. PLB Owners Association
+99. | (Repealed 14 of 2021 s. 345)
 
 100. | N.T. San Tin PLB (17) Owners Association
 
@@ -210,11 +212,11 @@ Item | Body
 
 102. | N.T. Taxi Owners & Drivers Fraternal Association
 
-103. | N.T. Taxi Radio Service General Association
+103. | (Repealed 14 of 2021 s. 345)
 
 104. | N.W. Area Taxi Drivers & Operators Association
 
-105. | New Hong Kong Tunnel Co., Ltd.
+105. | (Repealed 14 of 2021 s. 345)
 
 106. | New Lantao Bus Co., (1973) Ltd.
 
@@ -254,7 +256,7 @@ Item | Body
 
 124. | Route 3 (CPS) Company Limited
 
-125. | Sai Kung Public Light Bus Drivers and Owners Association (Replaced 25 of 2003 s. 44)
+125. | (Repealed 14 of 2021 s. 345)
 
 126. | Sai Kung Taxi Operators Association Ltd.
 
@@ -276,7 +278,7 @@ Item | Body
 
 135. | (Repealed 9 of 2018 s. 17)
 
-136. | Taxi Associations Federation
+136. | (Repealed 14 of 2021 s. 345)
 
 137. | Taxi Dealers & Owners Association Ltd.
 
@@ -284,7 +286,7 @@ Item | Body
 
 139. | The Taxi Operators Association Ltd.
 
-140. | Taxicom Vehicle Owners Association Ltd.
+140. | (Repealed 14 of 2021 s. 345)
 
 141. | Transport Infrastructure Management Limited (Replaced 7 of 2008 s. 7)
 
@@ -304,7 +306,7 @@ Item | Body
 
 149. | Wai Fat Taxi Owners Association Ltd.
 
-150. | Wai Yik H.K. & Kowloon and New Territories Taxi Owners Association (Replaced 25 of 2003 s. 44)
+150. | Wai Yik Hong Kong & Kowloon & NT Taxi Owners Association (Replaced 25 of 2003 s. 44. Amended 14 of 2021 s. 345)
 
 151. | West Coast International (Parking) Limited
 
@@ -330,7 +332,7 @@ Item | Body
 
 162. | (Repealed 15 of 2016 s. 12)
 
-163. | New World First Ferry Services Limited (Added 25 of 2003 s. 44)
+163. | Sun Ferry Services Company Limited (Replaced 14 of 2021 s. 345)
 
 164. | Shun Tak-China Travel Macau Ferries Limited (Replaced 14 of 2015 s. 11)
 
@@ -472,4 +474,74 @@ Item | Body
 
 233. | Taxi Drivers and Operators Association (Added 11 of 2019 s. 8. Amended E.R. 4 of 2020)
 
-(Added 48 of 1999 s. 43. Amended E.R. 5 of 2019)
+234. | Yiu Lian Dockyards Limited (Added 14 of 2021 s. 345)
+
+235. | China Merchants Port Holdings Company Limited (Added 14 of 2021 s. 345)
+
+236. | China Merchants Container Services Limited (Added 14 of 2021 s. 345)
+
+237. | China Merchants Logistics Holding Hong Kong Company Limited (Added 14 of 2021 s. 345)
+
+238. | China Merchants Energy Shipping (Hong Kong) Company Limited (Added 14 of 2021 s. 345)
+
+239. | COSCO SHIPPING (Hong Kong) Co., Limited (Added 14 of 2021 s. 345)
+
+240. | Cosco (H.K.) Shipping Co., Limited (Added 14 of 2021 s. 345)
+
+241. | COSCO SHIPPING Container Line Agencies Limited (Added 14 of 2021 s. 345)
+
+242. | COSCO SHIPPING International (Hong Kong) Co., Ltd. (Added 14 of 2021 s. 345)
+
+243. | China Travel Tours Transportation Services Hong Kong Limited (Added 14 of 2021 s. 345)
+
+244. | Sky Shuttle Helicopters Limited (Added 14 of 2021 s. 345)
+
+245. | Hong Kong-Zhuhai-Macao Bridge Shuttle Bus Company Limited (Added 14 of 2021 s. 345)
+
+246. | Hong Kong & Macao International Airport Transportation Service Co. Limited (Added 14 of 2021 s. 345)
+
+247. | Hong Kong International Airport Ferry Terminal Services Limited (Added 14 of 2021 s. 345)
+
+248. | Ocean Shipbuilding & Engineering Limited (Added 14 of 2021 s. 345)
+
+249. | China Ferry Terminal Services Limited (Added 14 of 2021 s. 345)
+
+250. | Turbojet Shipyard Limited (Added 14 of 2021 s. 345)
+
+251. | Hong Kong Association of Aircargo Truckers Limited (Added 14 of 2021 s. 345)
+
+252. | Hong Kong Auto (Parts & Machinery) Association Limited (Added 14 of 2021 s. 345)
+
+253. | China Aviation Express (Hong Kong) Limited (Added 14 of 2021 s. 345)
+
+254. | Chu Kong Godown Wharf & Transportation Company Limited (Added 14 of 2021 s. 345)
+
+255. | Chu Kong Transhipment & Logistics Company Limited (Added 14 of 2021 s. 345)
+
+256. | Chu Kong Transportation (H.K.) Limited (Added 14 of 2021 s. 345)
+
+257. | Chu Kong Agency Company Limited (Added 14 of 2021 s. 345)
+
+258. | Cotai Chu Kong Shipping Management Services Company Limited (Added 14 of 2021 s. 345)
+
+259. | Yuet Hing Marine Supplies Company Limited (Added 14 of 2021 s. 345)
+
+260. | Chu Kong Group Shipyard Company Limited (Added 14 of 2021 s. 345)
+
+261. | Dong An Marine Safety Equipment Trading Limited (Added 14 of 2021 s. 345)
+
+262. | Fortune Ferry Company Limited (Added 14 of 2021 s. 345)
+
+263. | Hong Kong Wing Hing Marine Engineering Company Limited (Added 14 of 2021 s. 345)
+
+264. | China National Aviation Leasing Limited (Added 14 of 2021 s. 345)
+
+265. | Yuantong Marine Service Co. Limited (Added 14 of 2021 s. 345)
+
+266. | Wang Tak Engineering & Shipbuilding Company Limited (Added 14 of 2021 s. 345)
+
+267. | The Motor Transport Company of Guangdong and Hong Kong Limited (Added 14 of 2021 s. 345)
+
+268. | Weisheng Transportation & Enterprises Company Limited (Added 14 of 2021 s. 345)
+
+(Added 48 of 1999 s. 43. Amended E.R. 5 of 2019; 14 of 2021 s. 345)
