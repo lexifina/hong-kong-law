@@ -284,11 +284,15 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Finance
 
+      - Master of Finance in Financial Technology
+
       - Master of Financial Engineering
 
       - Master of Fine Arts
 
       - Master of Geographic Information Systems
+
+      - Master of Global Management
 
       - Master of Global Public Policy
 
@@ -348,9 +352,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time
 
-      - Master of Science in Environmental Management
-
-      - Master of Science in General Dentistry
+      - Master of Science in Environmental Management Master of Science in Financial Technology and Data Analytics Master of Science in General Dentistry
 
       - Master of Science in Global Business Management and E-Commerce
 
@@ -369,6 +371,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
       - Master of Science in Real Estate Development
 
       - Master of Science in Sports Science
+
+      - Master of Science in Urban Analytics
 
       - Master of Science in Urban Planning
 
@@ -424,7 +428,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statut
 
       - Doctor of Social Sciences honoris causa
 
-    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018; L.N. 193 of 2019)
+    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018; L.N. 193 of 2019; L.N. 35 of 2021)
 
   - 2. The University may award any of the following diplomas and certificates—
 
