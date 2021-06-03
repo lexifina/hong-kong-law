@@ -2,7 +2,9 @@ To make provision for the better establishment of the identity of certain portio
 
 [28 October 1966]
 
-Preamble WHEREAS—
+(Format changes—E.R. 2 of 2021)
+
+WHEREAS—
 
 - (1) by the said Crown Lease the said parcels of ground were demised respectively to the persons whose names are set out in a schedule to the said Lease for the terms of years stated in that schedule:
 
