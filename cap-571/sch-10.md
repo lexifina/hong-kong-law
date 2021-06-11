@@ -1362,7 +1362,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - 3. During the period during which section 128(3) and section 129(3) of the relevant Ordinance have a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622) in relation to accounts of a corporation, section 352(12), despite its repeal, continues to apply to a register of directors’ and chief executives’ interests and short positions or an index of the names recorded in the register, in relation to any information of that corporation. Section 352(11)(b) is subject to section 352(12) during the period during which section 352(12) so continues to apply. (Part 5 added 28 of 2012 ss. 912 & 920)
 
-- Part 6 Savings and Transitional Provisions Relating to Securities and Futures (Amendment) Ordinance 2014
+- Part 6 Savings and Transitional Provisions Relating to Part 4 of Securities and Futures (Amendment) Ordinance 2014 (Amended 17 of 2021 s. 87)
 
   - 1. Subject to section 2, section 374 of this Ordinance as substituted by section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) applies to a specified document if the duty to give or deliver the document arose on or after the commencement date of section 64 of the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014).
 

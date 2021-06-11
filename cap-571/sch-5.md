@@ -508,7 +508,11 @@ Regulated Activities
 
   - preferred securities (優先證券) means preference shares, preferred shares or preferred stock; (Added L.N. 28 of 2011)
 
-  - §providing client clearing services for OTC derivative transactions (為場外衍生工具交易提供客户結算服務), in relation to a person and subject to Part 2A, means providing services to another person for the clearing and settlement of OTC derivative transactions through a central counterparty (whether located in Hong Kong or elsewhere), whether or not as a member of the central counterparty; (Added 6 of 2014 s. 53)
+  - §providing client clearing services for OTC derivative transactions (為場外衍生工具交易提供客户結算服務), in relation to a person and subject to Part 2A, means providing services to another person for the clearing and settlement of OTC derivative transactions through a central counterparty (whether located in Hong Kong or elsewhere)— (Added 6 of 2014 s. 53. Amended 17 of 2021 s. 75)
+
+    - (a) as a member of the central counterparty; or
+
+    - (b) as a client of a member of the central counterparty (direct client), a client of a direct client (indirect client), a client of an indirect client, or a client, whether direct or indirect, of any of those persons; (Amended 17 of 2021 s. 75)
 
   - providing credit rating services (提供信貸評級服務) means—
 
@@ -610,7 +614,7 @@ Regulated Activities
 
 - Editorial Note:
 
-- § The new definition of providing client clearing services for OTC derivative transactions, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to paragraph (c) of the new definition of excluded services. Please see paragraph (n)(ii) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
+- § The new definition of providing client clearing services for OTC derivative transactions, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to paragraph (c) of the new definition of excluded services. Please see paragraph (n)(ii) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016). See also section 78(3) of the Securities and Futures and Companies Legislation (Amendment) Ordinance 2021 (17 of 2021).
 
 - Part 2A
 
