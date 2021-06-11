@@ -1,6 +1,8 @@
 # Schedule 45
 
-[ss. 4, 15, 16, 16B, 37, 37A, 39B & 40]
+[ss. 4, 15, 16, 16B, 37, 37A, 39B, 40, 40AO & 40AT & Sch. 17J]
+
+(Amended 18 of 2021 s. 20)
 
 Deduction of R&D Expenditures
 
