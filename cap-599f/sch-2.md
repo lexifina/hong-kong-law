@@ -40,6 +40,8 @@ Scheduled Premises
 
 - 15. | Hotel or guesthouse (except the premises specified in the Schedule to the Hotel and Guesthouse Accommodation (Exclusion) Order (Cap. 349 sub. leg. C)) (L.N. 222 of 2020)
 
+- 16. | Cruise ship (L.N. 102 of 2021)
+
 - Part 2 Interpretation
 
   - 1. In this Schedule—
@@ -56,13 +58,21 @@ Scheduled Premises
 
     - beauty parlour (美容院) means any premises on which one or more of the following types of services are provided—
 
-      - (a) chemical, mechanical or energetic procedure for beautifying purpose, including cosmetic procedures that involve skin puncture for non-medical purpose, on any part of the body (excluding hair on the head) ;
+      - (a) chemical, mechanical or energetic procedure for beautifying purpose, including cosmetic procedures that involve skin puncture for non-medical purpose, on any part of the body (excluding hair on the head);
 
       - (b) nail treatment services (including manicure or pedicure service, nail extension, nail polish and nail art);
 
       - (c) hair loss improvement service (including hair transplant and hair weaving) for non-medical purpose; (L.N. 33 of 2020)
 
     - club-house (會址) has the meaning given by section 2 of the Clubs (Safety of Premises) Ordinance (Cap. 376); (L.N. 33 of 2020)
+
+    - cruise ship (郵輪) means a vessel—
+
+      - (a) carrying passengers exclusively for sightseeing or pleasure purposes;
+
+      - (b) plying, along a predetermined route, on any voyage part of which is outside the waters of Hong Kong; and
+
+      - (c) the boarding of which involves passage through immigration control; (L.N. 102 of 2021)
 
     - fitness centre (健身中心) means any premises on which one or more of the following types of services are provided—
 
