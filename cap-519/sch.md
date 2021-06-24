@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 32, 33, 34 & 38]
 
-- PART I
+- Part I
 
   - 1. General effect of this Part This Part, where applicable, has effect for assessing compensation under Part II and is—
 
@@ -12,11 +12,11 @@
 
   - 2. Definitions applicable to Part II In this Schedule—
 
-    - “date of resumption” (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 18(2) of this Ordinance;
+    - date of resumption (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 18(2) of this Ordinance;
 
-    - “disturbance” (騷擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
+    - disturbance (騷擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
 
-    - “disturbance payment” (騷擾補償金) means a sum equal to—
+    - disturbance payment (騷擾補償金) means a sum equal to—
 
       - (a) the expenditure and loss of money actually and reasonably incurred or to be reasonably incurred and arising from the dispossession of a person of land by reason of the matter for which the claimant is entitled to claim compensation under Part II; and
 
@@ -24,7 +24,7 @@
 
     - but a disturbance payment is not to include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if that disturbance were a tort;
 
-    - “open market value” (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize.
+    - open market value (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize.
 
   - 3. Fluctuations in value of land Subject to sections 8 and 10, where the open market value of any land is relevant for the purposes of assessing compensation under this Ordinance, no account is taken of any increase or decrease in that value which is attributable to anything done or proposed to be done under this Ordinance.
 
@@ -64,7 +64,7 @@
 
   - 14. Government may undertake work Where, under this Ordinance, a person is entitled to claim compensation and that compensation is to be assessed on the basis of an expense incurred, the Government may, on written notice to that person, carry out the operations for which the expense would otherwise be claimable.
 
-- PART II
+- Part II
 
   - Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim must be served on the Secretary
 
@@ -104,7 +104,7 @@
 
   - (d) Disturbance resulting from the exercise of any power contained in section 26 of this Ordinance. | (d) A disturbance payment. | (d) Same as in paragraph (a). | (d) Same as in paragraph (a).
 
-  - 9. | An amendment required or a condition imposed, under section 27(1)(c) or (d) of this Ordinance (other than a condition mentioned in section 27(7) of this Ordinance), to avoid incompatability with the works for the construction of a railway. | The amount which is fairly and reasonably estimated as the loss to the claimant, including— | The owner of the land on which the building works are carried out. | Before the expiration of 1 year from the completion of the building works.
+  - 9. | An amendment required or a condition imposed, under section 27(1)(c) or (d) of this Ordinance (other than a condition mentioned in section 27(7) of this Ordinance), to avoid incompatibility with the works for the construction of a railway. (Amended E.R. 3 of 2021) | The amount which is fairly and reasonably estimated as the loss to the claimant, including— | The owner of the land on which the building works are carried out. | Before the expiration of 1 year from the completion of the building works.
 
   - (i) any additional expense fairly and reasonably incurred in carrying out building works; and
 

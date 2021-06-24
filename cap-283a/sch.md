@@ -1,95 +1,99 @@
-# SCHEDULE
+# Schedule
 
 [by-laws 2, 3, 5, 6 & 7]
 
-SIGNS AND ROAD MARKINGS
+Signs and Road Markings
 
-(All measurements shown in the Diagrams are given in millimetres) DIAGRAM 1
+(All measurements shown in the diagrams are given in millimetres)
 
-PARKING FOR VEHICLES OTHER
+(E.R. 3 of 2021)
 
-THAN MEDIUM AND HEAVY
+Diagram 1
 
-GOODS VEHICLES, BUSES, MOTOR
+Parking for Vehicles other
 
-CYCLES AND PEDAL CYCLES DIAGRAM 2
+than Medium and Heavy
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN DIAGRAM 15 OR 16 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR VEHICLES OTHER THAN MEDIUM AND HEAVY GOODS VEHICLES, BUSES, MOTOR CYCLES AND PEDAL CYCLES.
+Goods Vehicles, Buses, Motor
 
-PARKING FOR GOODS VEHICLES DIAGRAM 3
+Cycles and Pedal Cycles Diagram 2
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN DIAGRAM 15 OR 16 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR GOODS VEHICLES ONLY.
+This sign indicates that when used in conjunction with the road marking in diagram 15 or 16 or both, the parking place or parking space is for vehicles other than medium and heavy goods vehicles, buses, motor cycles and pedal cycles.
 
-PARKING FOR BUSES DIAGRAM 4
+Parking for Goods Vehicles Diagram 3
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN DIAGRAM 15 OR 16 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR BUSES ONLY.
+This sign indicates that when used in conjunction with the road marking in diagram 15 or 16 or both, the parking place or parking space is for goods vehicles only.
 
-PARKING PLACE FOR MOTOR CYCLES DIAGRAM 5
+Parking for Buses Diagram 4
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN DIAGRAM 14, THE PARKING PLACE IS FOR MOTOR CYCLES ONLY.
+This sign indicates that when used in conjunction with the road marking in diagram 15 or 16 or both, the parking place or parking space is for buses only.
 
-PARKING PLACE FOR PEDAL CYCLES DIAGRAM 6
+Parking Place for Motor Cycles Diagram 5
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN DIAGRAM 15 OR 16 OR BOTH, THE PARKING PLACE OR PARKING SPACE IS FOR PEDAL CYCLES ONLY.
+This sign indicates that when used in conjunction with the road marking in diagram 14, the parking place is for motor cycles only.
 
-NO PARKING DIAGRAM 7
+Parking Place for Pedal Cycles Diagram 6
 
-THIS SIGN INDICATES THAT ON THE SIDE OF THE ROAD WHERE IT IS DISPLAYED, PARKING IS PROHIBITED. IT MAY BE USED WITH THE SIGNS IN DIAGRAMS 10 AND 11 TO INDICATE THE DIRECTION IN WHICH THE RESTRICTION APPLIES AND WITH THE SIGN IN DIAGRAM 9 TO INDICATE THE PERIOD FOR WHICH IT APPLIES.
+This sign indicates that when used in conjunction with the road marking in diagram 15 or 16 or both, the parking place or parking space is for pedal cycles only.
 
-TEMPORARY NO PARKING SIGN DIAGRAM 8
+No Parking Diagram 7
 
-THIS SIGN INDICATES THAT ON THE SIDE OF THE ROAD WHERE IT IS DISPLAYED, PARKING IS TEMPORARILY PROHIBITED. THE SIGN MAY BE USED WITHOUT THE ARROWS OR WITH AN ARROW POINTING IN ONLY ONE DIRECTION.
+This sign indicates that on the side of the road where it is displayed, parking is prohibited. It may be used with the signs in diagrams 10 and 11 to indicate the direction in which the restriction applies and with the sign in diagram 9 to indicate the period for which it applies.
 
-TIME PLATE DIAGRAM 9
+Temporary No Parking Sign Diagram 8
 
-THIS PLATE INDICATES THE PERIOD OF TIME OR DAYS FOR WHICH PARKING IS PROHIBITED OR PERMITTED. IT MAY BE USED IN CONJUNCTION WITH DIAGRAMS 7 AND 8 TO INDICATE THE PERIOD OF TIME OR DAYS DURING WHICH THE RESTRICTION ON PARKING APPLIES OR USED IN CONJUNCTION WITH DIAGRAM 2, 3, 4, 5 OR 6 TO INDICATE THE PERIOD OF TIME OR DAYS WHEN PARKING IS PERMITTED. THE WORDING MAY BE VARIED TO SPECIFY ANY PERIOD OF TIME OR ANY DAY OR DAYS.
+This sign indicates that on the side of the road where it is displayed, parking is temporarily prohibited. The sign may be used without the arrows or with an arrow pointing in only one direction.
 
-ARROW PLATE DIAGRAM 10
+Time Plate Diagram 9
 
-THIS PLATE IS FOR USE WITH THE SIGN IN DIAGRAM 7 TO INDICATE THE DIRECTION IN WHICH THE RESTRICTION ON PARKING APPLIES. THE ARROW MAY BE REVERSED TO INDICATE A RESTRICTION IN THE OTHER DIRECTION.
+This plate indicates the period of time or days for which parking is prohibited or permitted. It may be used in conjunction with diagrams 7 and 8 to indicate the period of time or days during which the restriction on parking applies or used in conjunction with diagram 2, 3, 4, 5 or 6 to indicate the period of time or days when parking is permitted. The wording may be varied to specify any period of time or any day or days.
 
-ARROW PLATE DIAGRAM 11
+Arrow Plate Diagram 10
 
-THIS PLATE IS FOR USE WITH THE SIGN IN DIAGRAM 7 TO INDICATE THE RESTRICTION ON PARKING APPLIES IN BOTH DIRECTIONS.
+This plate is for use with the sign in diagram 7 to indicate the direction in which the restriction on parking applies. The arrow may be reversed to indicate a restriction in the other direction.
 
-NO PARKING DIAGRAM 12
+Arrow Plate Diagram 11
 
-THIS ROAD MARKING IS USED TO INDICATE A SECTION OF ROAD, WHETHER OR NOT IT IS USED IN CONJUNCTION WITH DIAGRAM 7, WHERE THE PARKING OF VEHICLES IS PROHIBITED.
+This plate is for use with the sign in diagram 7 to indicate the restriction on parking applies in both directions.
 
-NO PARKING DIAGRAM 13
+No Parking Diagram 12
 
-THIS ROAD MARKING IS USED TO INDICATE THAT THE PARKING OF VEHICLES IS PROHIBITED ON THE AREA SHOWN BY THE YELLOW HATCHED MARKINGS.
+This road marking is used to indicate a section of road, whether or not it is used in conjunction with diagram 7, where the parking of vehicles is prohibited.
 
-MOTOR CYCLE PARKING PLACES DIAGRAM 14
+No Parking Diagram 13
 
-THIS ROAD MARKING IS USED TO INDICATE PARKING PLACES FOR MOTOR CYCLES ONLY SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
+This road marking is used to indicate that the parking of vehicles is prohibited on the area shown by the yellow hatched markings.
 
-ROAD MARKINGS FOR
+Motor Cycle Parking Places Diagram 14
 
-PARKING PLACES DIAGRAM 15
+This road marking is used to indicate parking places for motor cycles only subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.
 
-THIS ROAD MARKING IS USED TO INDICATE PARKING PLACES FOR VEHICLES SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE.
+Road Markings for
 
-ROAD MARKINGS FOR
+Parking Places Diagram 15
 
-PARKING PLACES DIAGRAM 16
+This road marking is used to indicate parking places for vehicles subject to such conditions, if any, as may be in force.
 
-THIS ROAD MARKING IS USED TO INDICATE PARKING PLACES FOR VEHICLES, SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
+Road Markings for
 
-PARKING FOR SPECIAL VEHICLES DIAGRAM 17
+Parking Places Diagram 16
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN DIAGRAM 15 OR 16, THE PARKING PLACE OR PARKING SPACE MAY BE USED ONLY BY THE VEHICLES INDICATED ON THE SIGN. THE WORDING MAY BE VARIED TO SPECIFY ANY PARTICULAR TYPE OR CLASS OF VEHICLE.
+This road marking is used to indicate parking places for vehicles, subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.
 
-DIAGRAM 18
+Parking for Special Vehicles Diagram 17
 
-THIS SIGN IS USED IN CONJUNCTION WITH DIAGRAMS 2, 3, 4, 5 AND 6 TO INDICATE THE PARTICULAR CLASS OF PERSON WHO MAY USE THE PARKING PLACE OR CAR PARK.
+This sign indicates that when used in conjunction with the road marking in diagram 15 or 16, the parking place or parking space may be used only by the vehicles indicated on the sign. The wording may be varied to specify any particular type or class of vehicle.
 
-ARROW PLATE DIAGRAM 19
+Diagram 18
 
-THIS PLATE IS FOR USE AS A SUPPLEMENTARY SIGN TO DIAGRAMS 2, 3, 4, 5 AND 6. THE BACKGROUND COLOUR AND THE COLOUR AND DIRECTION OF THE ARROW MAY BE VARIED TO ACCORD WITH THE CIRCUMSTANCES.
+This sign is used in conjunction with diagrams 2, 3, 4, 5 and 6 to indicate the particular class of person who may use the parking place or car park.
 
-HOUSING AUTHORITY LOGO DIAGRAM 20
+Arrow Plate Diagram 19
 
-THE SIZE OF THIS LOGO MAY BE VARIED TO ACCORD WITH THE MANNER IN WHICH IT IS DISPLAYED.
+This plate is for use as a supplementary sign to diagrams 2, 3, 4, 5 and 6. The background colour and the colour and direction of the arrow may be varied to accord with the circumstances.
+
+Housing Authority Logo Diagram 20
+
+The size of this logo may be varied to accord with the manner in which it is displayed.
 
 (L.N. 418 of 1984)

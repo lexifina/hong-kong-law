@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [reg. 30]
 
-INFORMATION AS TO STABILITY OF SHIPS
+Information as to Stability of Ships
 
 The information relating to the stability of a ship to be provided for the master pursuant to regulation 30 of these regulations shall include particulars appropriate to the ship of the matters specified below. Such particulars shall be in the form of a statement unless the contrary is indicated.
 
@@ -34,7 +34,7 @@ The information relating to the stability of a ship to be provided for the maste
 
   - (2) the values of the moment to change trim one centimetre,
 
-- for a range of mean draughts extending at least between the waterline representing the deepest load line and the waterline of the ship in light condition. Where a tabular statement is used, the intervals between such draughts shall be sufficiently close to permit accurate interpolation. In the case of ships having raked keels, the same datum for the heights of centres of bouyancy and metacentres shall be used as for the centres of gravity referred to in paragraphs 3, 4 and 5.
+- for a range of mean draughts extending at least between the waterline representing the deepest load line and the waterline of the ship in light condition. Where a tabular statement is used, the intervals between such draughts shall be sufficiently close to permit accurate interpolation. In the case of ships having raked keels, the same datum for the heights of centres of buoyancy and metacentres shall be used as for the centres of gravity referred to in paragraphs 3, 4 and 5. (E.R. 3 of 2021)
 
 - 8. The effect on stability of free surface in each tank in the ship in which liquids may be carried, including an example to show how the metacentric height is to be corrected.
 
@@ -68,7 +68,7 @@ The information relating to the stability of a ship to be provided for the maste
 
     - (a) Light condition. If the ship has permanent ballast, such diagram and statements shall be provided for the ship in light condition both (i) with such ballast, and (ii) without such ballast.
 
-    - (b) Ballast condition, both (i) on departure, and (ii) on arrival, it being assumed for the purpose of the latter in this and the following sub-paragraphs that oil fuel, fresh water, consumable stores and the like are reduced to 10 per cent of their capacity.
+    - (b) Ballast condition, both (i) on departure, and (ii) on arrival, it being assumed for the purpose of the latter in this and the following subparagraphs that oil fuel, fresh water, consumable stores and the like are reduced to 10 per cent of their capacity.
 
     - (c) Condition both (i) on departure, and (ii) on arrival, when loaded to the Summer load line with cargo filling all spaces available for cargo, cargo for this purpose being taken to be homogeneous cargo except where this is clearly inappropriate, for example in the case of cargo spaces in a ship which are intended to be used exclusively for the carriage of vehicles or of containers.
 

@@ -2,9 +2,9 @@
 
 [ss. 2 & 54]
 
-DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND “RELEVANT DEPOSIT” IN SECTION 2(1) OF THIS ORDINANCE
+Deposits Specified for Purposes of Definitions of Protected Deposit and Relevant Deposit in Section 2(1) of this Ordinance
 
-- 1. For the purpose of the definition of “protected deposit” in section 2(1) of this Ordinance, the following deposits are specified—
+- 1. For the purpose of the definition of protected deposit in section 2(1) of this Ordinance, the following deposits are specified—
 
   - (a) a term deposit where the current term agreed to by the depositor at the most recent time it was negotiated exceeds 5 years;
 
@@ -26,7 +26,7 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
   - (i) any float or SVF deposit held by a depositor with a Scheme member. (Added 18 of 2015 s. 67)
 
-- 2. For the purpose of the definition of “relevant deposit” in section 2(1) of this Ordinance, the following deposits are specified—
+- 2. For the purpose of the definition of relevant deposit in section 2(1) of this Ordinance, the following deposits are specified—
 
   - (a) a term deposit where the current term agreed to by the depositor at the most recent time it was negotiated exceeds 5 years;
 
@@ -92,9 +92,9 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
 - 3. In this Schedule—
 
-  - “commodity” (商品) means any item which is listed in the Schedule to the Commodity Exchanges (Prohibition) Ordinance (Cap. 82); (Added L.N. 107 of 2006)
+  - commodity (商品) means any item which is listed in the Schedule to the Commodity Exchanges (Prohibition) Ordinance (Cap. 82); (Added L.N. 107 of 2006)
 
-  - “excluded person” (豁除人士), in relation to a deposit maintained with a Scheme member, means—
+  - excluded person (豁除人士), in relation to a deposit maintained with a Scheme member, means—
 
     - (a) a related company of the Scheme member;
 
@@ -106,7 +106,7 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (e) in relation—
 
-      - (i) to the definition of “protected deposit” in section 2(1) of this Ordinance for the purposes of Part 5 of this Ordinance, an officer of the Scheme member or its related company on—
+      - (i) to the definition of protected deposit in section 2(1) of this Ordinance for the purposes of Part 5 of this Ordinance, an officer of the Scheme member or its related company on—
 
         - (A) the date immediately preceding the date on which a Manager within the meaning of section 2(1) of the Banking Ordinance (Cap. 155) is appointed in respect of the Scheme member under section 52 of that Ordinance; or
 
@@ -114,13 +114,13 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
       - whichever is the earlier;
 
-      - (ii) to the definition of “protected deposit” in section 2(1) of this Ordinance for any other purpose, an officer of the Scheme member or its related company; (Amended L.N. 107 of 2006)
+      - (ii) to the definition of protected deposit in section 2(1) of this Ordinance for any other purpose, an officer of the Scheme member or its related company; (Amended L.N. 107 of 2006)
 
-  - “financial product” (金融產品) means any securities, futures contract, collective investment scheme or leveraged foreign exchange contract within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added L.N. 107 of 2006)
+  - financial product (金融產品) means any securities, futures contract, collective investment scheme or leveraged foreign exchange contract within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added L.N. 107 of 2006)
 
   - float (儲值金額) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 67)
 
-  - “foreign bank” (外地銀行) means a company that—
+  - foreign bank (外地銀行) means a company that—
 
     - (a) is incorporated outside Hong Kong;
 
@@ -128,15 +128,15 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (c) may, in or outside the place where it is incorporated, lawfully take deposits from the general public (whether or not on current account), or is authorized or recognized as a bank in that place;
 
-  - “non-excluded person” (非豁除人士) means—
+  - non-excluded person (非豁除人士) means—
 
-    - (a) in relation to the definition of “protected deposit” in section 2(1) of this Ordinance for the purposes of Part 5 of this Ordinance, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(i) of the definition of “excluded person”;
+    - (a) in relation to the definition of protected deposit in section 2(1) of this Ordinance for the purposes of Part 5 of this Ordinance, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(i) of the definition of excluded person;
 
-    - (b) in relation to the definition of “protected deposit” in section 2(1) of this Ordinance for any other purpose, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(ii) of the definition of “excluded person”; (Amended L.N. 107 of 2006)
+    - (b) in relation to the definition of protected deposit in section 2(1) of this Ordinance for any other purpose, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(ii) of the definition of excluded person; (Amended L.N. 107 of 2006)
 
-    - (c) in relation to the definition of “relevant deposit” in section 2(1) of this Ordinance, a person who is not an excluded person within the meaning of paragraph (a), (b), (c) or (d) of the definition of “excluded person”; (Added L.N. 107 of 2006)
+    - (c) in relation to the definition of relevant deposit in section 2(1) of this Ordinance, a person who is not an excluded person within the meaning of paragraph (a), (b), (c) or (d) of the definition of excluded person; (Added L.N. 107 of 2006)
 
-  - “officer” (人員)—
+  - officer (人員)—
 
     - (a) in relation to a Scheme member or its related company that is an authorized institution, means—
 
@@ -150,7 +150,7 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (b) in relation to a Scheme member’s related company that is not an authorized institution, has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
-  - “related company” (關連公司), in relation to a Scheme member, means—
+  - related company (關連公司), in relation to a Scheme member, means—
 
     - (a) a holding company of the Scheme member;
 
@@ -158,7 +158,7 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (c) a subsidiary of the Scheme member; (Amended L.N. 107 of 2006)
 
-  - “relevant figure” (有關數字) means—
+  - relevant figure (有關數字) means—
 
     - (a) a rate of interest, quoted or published from time to time, that is offered by a person or government on a loan of money that—
 
@@ -174,6 +174,6 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
   - SVF deposit (工具按金) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 67)
 
-  - “swap contract” (掉期合約) means a contract made between two parties whereby each party agrees to make payments, calculated at a rate of interest on a specified amount of money, to the other party in a particular period. (Added L.N. 107 of 2006)
+  - swap contract (掉期合約) means a contract made between two parties whereby each party agrees to make payments, calculated at a rate of interest on a specified amount of money, to the other party in a particular period. (Added L.N. 107 of 2006)
 
 - 4. For the purposes of sections 1(f) and (g) and 2(f), if a deposit is held by more than one person in their own right or held for more than one person, each of those persons is deemed to have an equal share in the deposit unless the contrary is proved to the satisfaction of the Board.

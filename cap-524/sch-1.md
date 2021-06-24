@@ -1,26 +1,26 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 6(5), 22(4), 24(1), 35(4) & 36(1)]
 
-PROVISIONS APPLICABLE TO BOARD OF REVIEW
+Provisions Applicable to Board of Review
 
-- PART I INTERPRETATION
+- Part I Interpretation
 
   - 1. Definitions In this Schedule—
 
-    - “committee” (小組委員會) means a committee established under section 15 of this Schedule;
+    - committee (小組委員會) means a committee established under section 15 of this Schedule;
 
-    - “Deputy President” (副主席) means the Deputy President of the Board;
+    - Deputy President (副主席) means the Deputy President of the Board;
 
-    - “judicial member” (司法界成員) means the President or Deputy President;
+    - judicial member (司法界成員) means the President or Deputy President;
 
-    - “member” (成員) means a member of the Board;
+    - member (成員) means a member of the Board;
 
-    - “non-judicial member” (非司法界成員) means a member other than the President or Deputy President;
+    - non-judicial member (非司法界成員) means a member other than the President or Deputy President;
 
-    - “President” (主席) means the President of the Board.
+    - President (主席) means the President of the Board.
 
-- PART II BOARD MEMBERS
+- Part II Board Members
 
   - 2. President and Deputy President of Board
 
@@ -76,7 +76,7 @@ PROVISIONS APPLICABLE TO BOARD OF REVIEW
 
   - 8. Prevention of Bribery Ordinance to apply to members The Prevention of Bribery Ordinance (Cap. 201) applies to members in the same way as it applies to public servants.
 
-- PART III MEETINGS AND PROCEEDINGS OF BOARD
+- Part III Meetings and Proceedings of Board
 
   - 9. Meetings of Board
 

@@ -1,5 +1,7 @@
 To amend the law relating to bankruptcy.
 
+(Format changes—E.R. 3 of 2021)
+
 [1 January 1932]
 
 Editorial Note:

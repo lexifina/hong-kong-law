@@ -1,271 +1,183 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 1 & 2]
 
-PRESCRIBED TRAFFIC SIGNS, PRESCRIBED ROAD MARKINGS AND PRESCRIBED LIGHT SIGNALS
+Prescribed Traffic Signs, Prescribed Road Markings and Prescribed Light Signals
 
-(All measurements shown in the Figures are given in millimetres)
+(All measurements shown in the Figures are given in millimetres) Regulatory Figure No. 1 Transport Interchange
 
-REGULATORY
+This sign indicates the start of a transport interchange where the prohibitions and restrictions imposed by the Mass Transit Railway Ordinance (Cap. 556) and the Mass Transit Railway (Transport Interchange) Bylaw (Cap. 556 sub. leg. D) apply.
 
-FIGURE NO. 1 TRANSPORT INTERCHANGE
+(13 of 2000 s. 64) Regulatory Figure No. 2 Transport Interchange Ends
 
-THIS SIGN INDICATES THE START OF A TRANSPORT INTERCHANGE WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE MASS TRANSIT RAILWAY ORDINANCE (CAP. 556) AND THE MASS TRANSIT RAILWAY (TRANSPORT INTERCHANGE) BYLAW (CAP. 556 SUB. LEG. D) APPLY.
+This sign indicates the end of a transport interchange where the prohibitions and restrictions imposed by the Mass Transit Railway Ordinance (Cap. 556) and the Mass Transit Railway (Transport Interchange) Bylaw (Cap. 556 sub. leg. D) cease to apply.
 
-(13 of 2000 s. 64)
+(13 of 2000 s. 64) Regulatory Figure No. 3 Taxi Queue Lane
 
-REGULATORY
+This sign shall be erected to face oncoming vehicles to indicate the start of a taxi queue lane within a transport interchange. The sign may be used in conjunction with the road marking shown in Figure No. 33 or may be used alone.
 
-FIGURE NO. 2 TRANSPORT INTERCHANGE ENDS
+Regulatory Figure No. 4 Taxi Queue Lane Ends
 
-THIS SIGN INDICATES THE END OF A TRANSPORT INTERCHANGE WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE MASS TRANSIT RAILWAY ORDINANCE (CAP. 556) AND THE MASS TRANSIT RAILWAY (TRANSPORT INTERCHANGE) BYLAW (CAP. 556 SUB. LEG. D) CEASE TO APPLY.
+This sign shall be erected to face oncoming vehicles to indicate the end of a taxi queue lane within a transport interchange.
 
-(13 of 2000 s. 64)
+Regulatory Figure No. 5 Taxi Rank
 
-REGULATORY
+This sign demarcates the limits of a taxi rank within a transport interchange. It may be used in conjunction with the supplementary plate in Figure No. 24 or 25 and may also be used with the supplementary plate in Figure No. 26.
 
-FIGURE NO. 3 TAXI QUEUE LANE
+Regulatory Figure No. 6 All Vehicles Prohibited in Both Directions
 
-THIS SIGN SHALL BE ERECTED TO FACE ONCOMING VEHICLES TO INDICATE THE START OF A TAXI QUEUE LANE WITHIN A TRANSPORT INTERCHANGE. THE SIGN MAY BE USED IN CONJUNCTION WITH THE ROAD MARKING SHOWN IN FIGURE NO. 33 OR MAY BE USED ALONE.
+(Prohibited Zone)
 
-REGULATORY
+This sign prohibits entry to all vehicles in both directions. It is however not used by itself, always being qualified by the supplementary plate in Figure No. 18, 19, 20, 21, 22 or 23.
 
-FIGURE NO. 4 TAXI QUEUE LANE ENDS
+Regulatory Figure No. 7 Speed Limit 30 km/h
 
-THIS SIGN SHALL BE ERECTED TO FACE ONCOMING VEHICLES TO INDICATE THE END OF A TAXI QUEUE LANE WITHIN A TRANSPORT INTERCHANGE.
+This sign indicates that a speed limit of 30 km per hour is imposed on the section of road immediately following the sign. The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic. The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 
-REGULATORY
+Regulatory Figure No. 8 Restricted Zone
 
-FIGURE NO. 5 TAXI RANK
+This sign shall be erected facing oncoming vehicles to indicate the start of a restricted zone where a prohibition on stopping applies at all times to all vehicles except those exempted by the Corporation from the prohibition imposed by the sign and franchised buses at designated bus stops. The signs in Figure Nos. 9 and 27 may be used at intervals along the route as reminders of the restrictions in force.
 
-THIS SIGN DEMARCATES THE LIMITS OF A TAXI RANK WITHIN A TRANSPORT INTERCHANGE. IT MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 24 OR 25 AND MAY ALSO BE USED WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 26.
+Regulatory Figure No. 9 No Stopping
 
-REGULATORY
+(Restricted Zone)
 
-FIGURE NO. 6 ALL VEHICLES PROHIBITED IN BOTH DIRECTIONS
+This sign indicates that, unless a vehicle is prevented from proceeding due to traffic conditions, a prohibition on stopping applies to all vehicles except those exempted by the Corporation from the prohibition imposed by the sign and franchised buses at designated bus stops. This sign may be used in conjunction with the supplementary plate in Figure No. 26 or 27. Where used as a repeater sign, the 300 mm sign may be used.
 
-(PROHIBITED ZONE)
+Regulatory Figure No. 10 Restricted Zone End
 
-THIS SIGN PROHIBITS ENTRY TO ALL VEHICLES IN BOTH DIRECTIONS. IT IS HOWEVER NOT USED BY ITSELF, ALWAYS BEING QUALIFIED BY THE SUPPLEMENTARY PLATE IN FIGURE NO. 18, 19, 20, 21, 22 OR 23.
+This sign shall be erected facing oncoming vehicles to indicate the end of a restricted zone.
 
-REGULATORY
+Regulatory Figure No. 11 Parking for Vehicles other than Medium and Heavy Goods Vehicles, Buses, Motor Cycles and Pedal Cycles
 
-FIGURE NO. 7 SPEED LIMIT 30 km/h
+This sign indicates that when used in conjunction with the road marking in Figure No. 39 or 40 or both, the parking space is for vehicles other than medium and heavy goods vehicles, buses, motor cycles and pedal cycles. Only one sign erected at each end of a series of parking spaces indicates its application to every individual parking space within the series.
 
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 30 km PER HOUR IS IMPOSED ON THE SECTION OF ROAD IMMEDIATELY FOLLOWING THE SIGN. THE SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AND/OR ON A CENTRAL RESERVATION IN THE CASE OF A DUAL CARRIAGEWAY AT THE START OF A RESTRICTION FACING ONCOMING TRAFFIC. THE 300 mm SIZED SIGN MAY ALSO BE ERECTED AT INTERVALS ALONG THE ROAD TO REMIND MOTORISTS OF THE SPEED LIMIT IN FORCE.
+Regulatory Figure No. 12 Parking for Goods Vehicles
 
-REGULATORY
+This sign indicates that when used in conjunction with the road marking in Figure No. 39 or 40 or both, the parking space is for goods vehicles only. Only one sign erected at each end of a series of parking spaces indicates its application to every individual parking space within the series.
 
-FIGURE NO. 8 RESTRICTED ZONE
+Regulatory Figure No. 13 Parking for Buses
 
-THIS SIGN SHALL BE ERECTED FACING ONCOMING VEHICLES TO INDICATE THE START OF A RESTRICTED ZONE WHERE A PROHIBITION ON STOPPING APPLIES AT ALL TIMES TO ALL VEHICLES EXCEPT THOSE EXEMPTED BY THE CORPORATION FROM THE PROHIBITION IMPOSED BY THE SIGN AND FRANCHISED BUSES AT DESIGNATED BUS STOPS. THE SIGNS IN FIGURE NOS. 9 AND 27 MAY BE USED AT INTERVALS ALONG THE ROUTE AS REMINDERS OF THE RESTRICTIONS IN FORCE.
+This sign indicates that when used in conjunction with the road marking in Figure No. 39 or 40 or both, the parking space is for buses only. Only one sign erected at each end of a series of parking spaces indicates its application to every individual parking space within the series.
 
-REGULATORY
+Regulatory Figure No. 14 Parking Space for Motor Cycles
 
-FIGURE NO. 9 NO STOPPING
+This sign indicates that when used in conjunction with the road marking in Figure No. 38 the parking space is for motor cycles only. Only one sign erected at each end of a series of parking spaces indicates its application to every individual parking space within the series.
 
-(RESTRICTED ZONE)
+Regulatory Figure No. 15 Parking for Special Vehicles
 
-THIS SIGN INDICATES THAT, UNLESS A VEHICLE IS PREVENTED FROM PROCEEDING DUE TO TRAFFIC CONDITIONS, A PROHIBITION ON STOPPING APPLIES TO ALL VEHICLES EXCEPT THOSE EXEMPTED BY THE CORPORATION FROM THE PROHIBITION IMPOSED BY THE SIGN AND FRANCHISED BUSES AT DESIGNATED BUS STOPS. THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 26 OR 27. WHERE USED AS A REPEATER SIGN, THE 300 mm SIGN MAY BE USED.
+This sign indicates that when used in conjunction with the road marking in Figure No. 39 or 40 or both, the parking space may be used only by the vehicles indicated on the sign. The wording may be varied to specify any particular type or class of vehicle, or any particular class of person.
 
-REGULATORY
+Regulatory Figure No. 16 No Parking
 
-FIGURE NO. 10 RESTRICTED ZONE END
+This sign indicates that on the side of the road where it is displayed, parking is prohibited. It may be used with the sign in Figure No. 26 or 27 to indicate the direction in which the restriction applies and with the sign in Figure No. 29 to indicate the period for which it applies.
 
-THIS SIGN SHALL BE ERECTED FACING ONCOMING VEHICLES TO INDICATE THE END OF A RESTRICTED ZONE.
+Regulatory Figure No. 17 Temporary No Parking Sign
 
-REGULATORY
+This sign indicates that on the side of the road where it is displayed, parking is temporarily prohibited. The sign may be used without the arrows or with an arrow pointing in only one direction.
 
-FIGURE NO. 11 PARKING FOR VEHICLES OTHER THAN MEDIUM AND HEAVY GOODS VEHICLES, BUSES, MOTOR CYCLES AND PEDAL CYCLES
+Supplementary Plate Figure No. 18
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 39 OR 40 OR BOTH, THE PARKING SPACE IS FOR VEHICLES OTHER THAN MEDIUM AND HEAVY GOODS VEHICLES, BUSES, MOTOR CYCLES AND PEDAL CYCLES. ONLY ONE SIGN ERECTED AT EACH END OF A SERIES OF PARKING SPACES INDICATES ITS APPLICATION TO EVERY INDIVIDUAL PARKING SPACE WITHIN THE SERIES.
+This plate may be used with the sign in Figure No. 6. The authorization may be in the form of a permit, pass or any other form of bona fide authorization issued by the Corporation or its authorized person.
 
-REGULATORY
+(13 of 2000 s. 64; L.N. 160 of 2007) Supplementary Plate Figure No. 19
 
-FIGURE NO. 12 PARKING FOR GOODS VEHICLES
+This plate may be attached to the sign in Figure No. 6 to indicate the exemption of franchised buses from the prohibition stated on the sign.
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 39 OR 40 OR BOTH, THE PARKING SPACE IS FOR GOODS VEHICLES ONLY. ONLY ONE SIGN ERECTED AT EACH END OF A SERIES OF PARKING SPACES INDICATES ITS APPLICATION TO EVERY INDIVIDUAL PARKING SPACE WITHIN THE SERIES.
+Supplementary Plate Figure No. 20
 
-REGULATORY
+This plate may be attached to the sign in Figure No. 6 to indicate the exemption of public light buses from the prohibition stated on the sign.
 
-FIGURE NO. 13 PARKING FOR BUSES
+Supplementary Plate Figure No. 21
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 39 OR 40 OR BOTH, THE PARKING SPACE IS FOR BUSES ONLY. ONLY ONE SIGN ERECTED AT EACH END OF A SERIES OF PARKING SPACES INDICATES ITS APPLICATION TO EVERY INDIVIDUAL PARKING SPACE WITHIN THE SERIES.
+This plate may be attached to the sign in Figure No. 6 to indicate the exemption of taxis from the prohibition stated on the sign.
 
-REGULATORY
+Supplementary Plate Figure No. 22
 
-FIGURE NO. 14 PARKING SPACE FOR MOTOR CYCLES
+This plate may be attached to the sign in Figure No. 6 to indicate exemption, for the purpose of access, from the prohibition stated on the sign.
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 38 THE PARKING SPACE IS FOR MOTOR CYCLES ONLY. ONLY ONE SIGN ERECTED AT EACH END OF A SERIES OF PARKING SPACES INDICATES ITS APPLICATION TO EVERY INDIVIDUAL PARKING SPACE WITHIN THE SERIES.
+Supplementary Plate Figure No. 23
 
-REGULATORY
+This plate may be attached to the sign in Figure No. 6 to indicate the exemption of buses and public light buses from the prohibition stated on the sign.
 
-FIGURE NO. 15 PARKING FOR SPECIAL VEHICLES
+Supplementary Plate Figure No. 24
 
-THIS SIGN INDICATES THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 39 OR 40 OR BOTH, THE PARKING SPACE MAY BE USED ONLY BY THE VEHICLES INDICATED ON THE SIGN. THE WORDING MAY BE VARIED TO SPECIFY ANY PARTICULAR TYPE OR CLASS OF VEHICLE, OR ANY PARTICULAR CLASS OF PERSON.
+This plate may be attached to the sign in Figure No. 5 to indicate that a taxi rank may be used by taxis licensed to be available for hire or to carry passengers within the New Territories only, i.e. within the permitted area for New Territories taxis specified in Schedule 7 to the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E).
 
-REGULATORY
+Supplementary Plate Figure No. 25
 
-FIGURE NO. 16 NO PARKING
+This plate when placed in conjunction with the sign in Figure No. 5 indicates that a taxi rank may be used by taxis other than those licensed to be available for hire or to carry passengers within the New Territories or Lantau only, i.e. within the permitted area for New Territories taxis or Lantau taxis specified in Schedule 7 to the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E).
 
-THIS SIGN INDICATES THAT ON THE SIDE OF THE ROAD WHERE IT IS DISPLAYED, PARKING IS PROHIBITED. IT MAY BE USED WITH THE SIGN IN FIGURE NO. 26 OR 27 TO INDICATE THE DIRECTION IN WHICH THE RESTRICTION APPLIES AND WITH THE SIGN IN FIGURE NO. 29 TO INDICATE THE PERIOD FOR WHICH IT APPLIES.
+Supplementary Plate Figure No. 26
 
-REGULATORY
+This plate may be used with the sign in Figure No. 3, 5, 6, 9 or 16 to indicate the direction or parts of the road to which a restriction, prohibition or other circumstance applies. The arrow may be reversed to indicate its application to the other direction.
 
-FIGURE NO. 17 TEMPORARY NO PARKING SIGN
+Supplementary Plate Figure No. 27
 
-THIS SIGN INDICATES THAT ON THE SIDE OF THE ROAD WHERE IT IS DISPLAYED, PARKING IS TEMPORARILY PROHIBITED. THE SIGN MAY BE USED WITHOUT THE ARROWS OR WITH AN ARROW POINTING IN ONLY ONE DIRECTION.
+This plate may be used with the sign in Figure No. 9 or 16 to indicate that the prohibition applies in both directions.
 
-SUPPLEMENTARY PLATE
+Supplementary Plate Figure No. 28
 
-FIGURE NO. 18
+This plate may be used with the sign in Figure No. 1, 2, 3 or 4 to indicate the distance by which the sign is placed ahead of the boundary indicated by the sign. The number shown on the sign may be varied to suit particular locations.
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 6. THE AUTHORIZATION MAY BE IN THE FORM OF A PERMIT, PASS OR ANY OTHER FORM OF BONA FIDE AUTHORIZATION ISSUED BY THE CORPORATION OR ITS AUTHORIZED PERSON.
+Supplementary Plate Figure No. 29 Time Plate
 
-(13 of 2000 s. 64; L.N. 160 of 2007)
+This plate indicates the period of time or days for which parking is prohibited or permitted. It may be used in conjunction with Figure Nos. 16 and 17 to indicate the period of time or days during which the restriction on parking applies or used in conjunction with Figure No. 11, 12, 13, 14 or 15 to indicate the period of time or days when parking is permitted. The wording may be varied to specify any period of time or any day or days.
 
-SUPPLEMENTARY PLATE
+Supplementary Plate Figure No. 30
 
-FIGURE NO. 19
+This plate may be used with the signs in Figure Nos. 11 and 12 to indicate that when used in conjunction with the road marking in Figure No. 39 or 40 or both, the parking space is for taxis only. The word “Taxis” and the characters “的士” may be varied to accord with the specified types or classes of vehicle permitted to park in the parking space.
 
-THIS PLATE MAY BE ATTACHED TO THE SIGN IN FIGURE NO. 6 TO INDICATE THE EXEMPTION OF FRANCHISED BUSES FROM THE PROHIBITION STATED ON THE SIGN.
+(E.R. 3 of 2021) Regulatory Figure No. 31 Taxi Release Signal
 
-SUPPLEMENTARY PLATE
+This signal instructs the driver of a taxi either to wait at the front of the taxi queue lane when the red aspect is illuminated, or to proceed to the taxi rank when the green aspect is illuminated. The signal aspects may be mounted either vertically or horizontally to suit specific locations.
 
-FIGURE NO. 20
+Regulatory Figure No. 32 Road Marking
 
-THIS PLATE MAY BE ATTACHED TO THE SIGN IN FIGURE NO. 6 TO INDICATE THE EXEMPTION OF PUBLIC LIGHT BUSES FROM THE PROHIBITION STATED ON THE SIGN.
+No Stopping (Restricted Zone)
 
-SUPPLEMENTARY PLATE
+This marking indicates that, unless a vehicle is prevented from proceeding due to traffic conditions, a prohibition on stopping applies at all times to all vehicles except those exempted by the Corporation from the prohibition imposed by the marking and franchised buses at designated bus stops. The marking may be used in conjunction with the sign shown in Figure No. 9 or may be used alone.
 
-FIGURE NO. 21
+Regulatory Figure No. 33 Road Marking
 
-THIS PLATE MAY BE ATTACHED TO THE SIGN IN FIGURE NO. 6 TO INDICATE THE EXEMPTION OF TAXIS FROM THE PROHIBITION STATED ON THE SIGN.
+Taxi Queue Lane
 
-SUPPLEMENTARY PLATE
+This marking indicates a taxi queue lane within a transport interchange. The yellow transverse broken line indicates the start of the queue lane. The marking may be used in conjunction with the sign shown in Figure No. 3 or may be used alone. The marking will always be used with lane markings placed to one or the other side of it, or to both sides in the case of a queue lane which is not flanked by a kerb on either side. The letters and characters may be used without the yellow transverse broken line as repeater markings at intervals along the taxi queue lane.
 
-FIGURE NO. 22
+Regulatory Figure No. 34 Road Marking
 
-THIS PLATE MAY BE ATTACHED TO THE SIGN IN FIGURE NO. 6 TO INDICATE EXEMPTION, FOR THE PURPOSE OF ACCESS, FROM THE PROHIBITION STATED ON THE SIGN.
+Taxi Exit Lane
 
-SUPPLEMENTARY PLATE
+This marking indicates a taxi exit lane within a transport interchange. The yellow transverse broken line indicates the start of the exit lane. The marking will always be used with lane markings placed to one or the other side of it, or to both sides in the case of an exit lane which is not flanked by a kerb on either side. The letters and characters may be used without the yellow transverse broken line as repeater markings at intervals along the taxi exit lane.
 
-FIGURE NO. 23
+Regulatory Figure No. 35 Road Marking
 
-THIS PLATE MAY BE ATTACHED TO THE SIGN IN FIGURE NO. 6 TO INDICATE THE EXEMPTION OF BUSES AND PUBLIC LIGHT BUSES FROM THE PROHIBITION STATED ON THE SIGN.
+Taxi Bay
 
-SUPPLEMENTARY PLATE
+This road marking demarcates the limits or a part of the carriageway upon which a taxi is permitted to stand.
 
-FIGURE NO. 24
+Regulatory Figure No. 36 Road Marking
 
-THIS PLATE MAY BE ATTACHED TO THE SIGN IN FIGURE NO. 5 TO INDICATE THAT A TAXI RANK MAY BE USED BY TAXIS LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN THE NEW TERRITORIES ONLY, i.e. WITHIN THE PERMITTED AREA FOR NEW TERRITORIES TAXIS SPECIFIED IN SCHEDULE 7 TO THE ROAD TRAFFIC (REGISTRATION AND LICENSING OF VEHICLES) REGULATIONS (CAP. 374 SUB. LEG. E).
+No Parking
 
-SUPPLEMENTARY PLATE
+This road marking is used to indicate a section of road, whether or not it is used in conjunction with Figure No. 16, where the parking of vehicles is prohibited.
 
-FIGURE NO. 25
+Regulatory Figure No. 37 Road Marking
 
-THIS PLATE WHEN PLACED IN CONJUNCTION WITH THE SIGN IN FIGURE NO. 5 INDICATES THAT A TAXI RANK MAY BE USED BY TAXIS OTHER THAN THOSE LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN THE NEW TERRITORIES OR LANTAU ONLY, i.e. WITHIN THE PERMITTED AREA FOR NEW TERRITORIES TAXIS OR LANTAU TAXIS SPECIFIED IN SCHEDULE 7 TO THE ROAD TRAFFIC (REGISTRATION AND LICENSING OF VEHICLES) REGULATIONS (CAP. 374 SUB. LEG. E).
+No Parking
 
-SUPPLEMENTARY PLATE
+This road marking is used to indicate that the parking of vehicles is prohibited on the area shown by the yellow hatched markings.
 
-FIGURE NO. 26
+Regulatory Figure No. 38 Road Marking
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 3, 5, 6, 9 OR 16 TO INDICATE THE DIRECTION OR PARTS OF THE ROAD TO WHICH A RESTRICTION, PROHIBITION OR OTHER CIRCUMSTANCE APPLIES. THE ARROW MAY BE REVERSED TO INDICATE ITS APPLICATION TO THE OTHER DIRECTION.
+Motor Cycle Parking Spaces
 
-SUPPLEMENTARY PLATE
+This road marking is used to indicate parking spaces for motor cycles only subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.
 
-FIGURE NO. 27
+Regulatory Figure No. 39 Road Markings for Parking Spaces
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 9 OR 16 TO INDICATE THAT THE PROHIBITION APPLIES IN BOTH DIRECTIONS.
+This road marking is used to indicate parking spaces for vehicles subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.
 
-SUPPLEMENTARY PLATE
+Regulatory Figure No. 40 Road Markings for Parking Spaces
 
-FIGURE NO. 28
-
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 1, 2, 3 OR 4 TO INDICATE THE DISTANCE BY WHICH THE SIGN IS PLACED AHEAD OF THE BOUNDARY INDICATED BY THE SIGN. THE NUMBER SHOWN ON THE SIGN MAY BE VARIED TO SUIT PARTICULAR LOCATIONS.
-
-SUPPLEMENTARY PLATE
-
-FIGURE NO. 29 TIME PLATE
-
-THIS PLATE INDICATES THE PERIOD OF TIME OR DAYS FOR WHICH PARKING IS PROHIBITED OR PERMITTED. IT MAY BE USED IN CONJUNCTION WITH FIGURE NOS. 16 AND 17 TO INDICATE THE PERIOD OF TIME OR DAYS DURING WHICH THE RESTRICTION ON PARKING APPLIES OR USED IN CONJUNCTION WITH FIGURE NO. 11, 12, 13, 14 OR 15 TO INDICATE THE PERIOD OF TIME OR DAYS WHEN PARKING IS PERMITTED. THE WORDING MAY BE VARIED TO SPECIFY ANY PERIOD OF TIME OR ANY DAY OR DAYS.
-
-SUPPLEMENTARY PLATE
-
-FIGURE NO. 30
-
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE NOS. 11 AND 12 TO INDICATE THAT WHEN USED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 39 OR 40 OR BOTH, THE PARKING SPACE IS FOR TAXIS ONLY. THE WORD ‘Taxis’ AND THE CHARACTERS ‘的士’ MAY BE VARIED TO ACCORD WITH THE SPECIFIED TYPES OR CLASSES OF VEHICLE PERMITTED TO PARK IN THE PARKING SPACE.
-
-REGULATORY
-
-FIGURE NO. 31 TAXI RELEASE SIGNAL
-
-THIS SIGNAL INSTRUCTS THE DRIVER OF A TAXI EITHER TO WAIT AT THE FRONT OF THE TAXI QUEUE LANE WHEN THE RED ASPECT IS ILLUMINATED, OR TO PROCEED TO THE TAXI RANK WHEN THE GREEN ASPECT IS ILLUMINATED. THE SIGNAL ASPECTS MAY BE MOUNTED EITHER VERTICALLY OR HORIZONTALLY TO SUIT SPECIFIC LOCATIONS.
-
-REGULATORY
-
-FIGURE NO. 32 ROAD MARKING
-
-NO STOPPING (RESTRICTED ZONE)
-
-THIS MARKING INDICATES THAT, UNLESS A VEHICLE IS PREVENTED FROM PROCEEDING DUE TO TRAFFIC CONDITIONS, A PROHIBITION ON STOPPING APPLIES AT ALL TIMES TO ALL VEHICLES EXCEPT THOSE EXEMPTED BY THE CORPORATION FROM THE PROHIBITION IMPOSED BY THE MARKING AND FRANCHISED BUSES AT DESIGNATED BUS STOPS. THE MARKING MAY BE USED IN CONJUNCTION WITH THE SIGN SHOWN IN FIGURE NO. 9 OR MAY BE USED ALONE.
-
-REGULATORY
-
-FIGURE NO. 33 ROAD MARKING
-
-TAXI QUEUE LANE
-
-THIS MARKING INDICATES A TAXI QUEUE LANE WITHIN A TRANSPORT INTERCHANGE. THE YELLOW TRANSVERSE BROKEN LINE INDICATES THE START OF THE QUEUE LANE. THE MARKING MAY BE USED IN CONJUNCTION WITH THE SIGN SHOWN IN FIGURE NO. 3 OR MAY BE USED ALONE. THE MARKING WILL ALWAYS BE USED WITH LANE MARKINGS PLACED TO ONE OR THE OTHER SIDE OF IT, OR TO BOTH SIDES IN THE CASE OF A QUEUE LANE WHICH IS NOT FLANKED BY A KERB ON EITHER SIDE. THE LETTERS AND CHARACTERS MAY BE USED WITHOUT THE YELLOW TRANSVERSE BROKEN LINE AS REPEATER MARKINGS AT INTERVALS ALONG THE TAXI QUEUE LANE.
-
-REGULATORY
-
-FIGURE NO. 34 ROAD MARKING
-
-TAXI EXIT LANE
-
-THIS MARKING INDICATES A TAXI EXIT LANE WITHIN A TRANSPORT INTERCHANGE. THE YELLOW TRANSVERSE BROKEN LINE INDICATES THE START OF THE EXIT LANE. THE MARKING WILL ALWAYS BE USED WITH LANE MARKINGS PLACED TO ONE OR THE OTHER SIDE OF IT, OR TO BOTH SIDES IN THE CASE OF AN EXIT LANE WHICH IS NOT FLANKED BY A KERB ON EITHER SIDE. THE LETTERS AND CHARACTERS MAY BE USED WITHOUT THE YELLOW TRANSVERSE BROKEN LINE AS REPEATER MARKINGS AT INTERVALS ALONG THE TAXI EXIT LANE.
-
-REGULATORY
-
-FIGURE NO. 35 ROAD MARKING
-
-TAXI BAY
-
-THIS ROAD MARKING DEMARCATES THE LIMITS OR A PART OF THE CARRIAGEWAY UPON WHICH A TAXI IS PERMITTED TO STAND.
-
-REGULATORY
-
-FIGURE NO. 36 ROAD MARKING
-
-NO PARKING
-
-THIS ROAD MARKING IS USED TO INDICATE A SECTION OF ROAD, WHETHER OR NOT IT IS USED IN CONJUNCTION WITH FIGURE NO. 16, WHERE THE PARKING OF VEHICLES IS PROHIBITED.
-
-REGULATORY
-
-FIGURE NO. 37 ROAD MARKING
-
-NO PARKING
-
-THIS ROAD MARKING IS USED TO INDICATE THAT THE PARKING OF VEHICLES IS PROHIBITED ON THE AREA SHOWN BY THE YELLOW HATCHED MARKINGS.
-
-REGULATORY
-
-FIGURE NO. 38 ROAD MARKING
-
-MOTOR CYCLE PARKING SPACES
-
-THIS ROAD MARKING IS USED TO INDICATE PARKING SPACES FOR MOTOR CYCLES ONLY SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
-
-REGULATORY
-
-FIGURE NO. 39 ROAD MARKINGS FOR PARKING SPACES
-
-THIS ROAD MARKING IS USED TO INDICATE PARKING SPACES FOR VEHICLES SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
-
-REGULATORY
-
-FIGURE NO. 40 ROAD MARKINGS FOR PARKING SPACES
-
-THIS ROAD MARKING IS USED TO INDICATE PARKING SPACES FOR VEHICLES SUBJECT TO SUCH CONDITIONS, IF ANY, AS MAY BE IN FORCE AS INDICATED BY RELEVANT SIGNS IN THE VICINITY.
+This road marking is used to indicate parking spaces for vehicles subject to such conditions, if any, as may be in force as indicated by relevant signs in the vicinity.

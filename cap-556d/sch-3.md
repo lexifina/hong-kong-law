@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 39, 40, 44 & 50] (21 of 2020 s. 77)
 
-FORM 1
+Form 1
 
 Mass Transit Railway (Transport Interchange) Bylaw
 
@@ -98,7 +98,7 @@ PAYMENT INSTRUCTIONS
 
     - (xvi) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
 
-    - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.
+    - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North, Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.
 
 - For the opening hours of the magistrates’ courts, please dial 2677 8373 or visit the web site of the Judiciary of Hong Kong (URL address: http://www.judiciary.gov.hk/en/others/contactus.htm).
 
@@ -122,11 +122,11 @@ Address: _
 
 _
 
-(13 of 2000 s. 64; 18 of 2016 s. 32)
+(13 of 2000 s. 64; 18 of 2016 s. 32; E.R. 3 of 2021)
 
 _
 
-FORM 2 Mass Transit Railway (Transport Interchange) Bylaw
+Form 2 Mass Transit Railway (Transport Interchange) Bylaw
 
 (Cap. 556 sub. leg. D) Notice Demanding Payment of Fixed Penalty
 
@@ -266,7 +266,7 @@ Date:
 
 _
 
-FORM 3 Mass Transit Railway (Transport Interchange) Bylaw
+Form 3 Mass Transit Railway (Transport Interchange) Bylaw
 
 (Cap. 556 sub. leg. D) Certificate of Posting of Notice
 
@@ -292,7 +292,7 @@ Date:
 
 _
 
-FORM 4 Mass Transit Railway (Transport Interchange) Bylaw
+Form 4 Mass Transit Railway (Transport Interchange) Bylaw
 
 (Cap. 556 sub. leg. D) Certificate of Posting of Summons
 
@@ -316,7 +316,7 @@ Date:
 
 _
 
-FORM 5 Mass Transit Railway (Transport Interchange) Bylaw
+Form 5 Mass Transit Railway (Transport Interchange) Bylaw
 
 (Cap. 556 sub. leg. D) Certificate of Identity of Registered Owner/Driver, Registered
 
@@ -332,7 +332,7 @@ This is to certify that—
 
 - (c) # on _ the registered address of such person was _ ;
 
-- (d) ‡ before _ no payment was made of the fixed penalty in respect of the contravention specified in Notice No. _ dated _ ; and
+- (d) @ before _ no payment was made of the fixed penalty in respect of the contravention specified in Notice No. _ dated _ ; and
 
 - (e) before _ such person had not notified Secretarial & Legal of MTR Corporation Limited that he wished to dispute liability for the contravention.
 
@@ -350,6 +350,6 @@ _
 
 \# Insert date on which summons under section 44(2) in respect of such proceedings was posted.
 
-‡ Insert last date of payment specified in the notice under section 39(3).
+@ Insert last date of payment specified in the notice under section 39(3).
 
 (13 of 2000 s. 64)

@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 37 & 62]
 
-PENALTIES
+Penalties
 
-- PART I
+- Part I
 
 Section | Summary of Offence | Maximum Penalty
 
@@ -40,7 +40,7 @@ Section | Summary of Offence | Maximum Penalty
 
 10(4)(a) | Smoking | $5,000
 
-10(4)(b) | Possession of multilated pass | $500
+10(4)(b) | Possession of mutilated pass | $500
 
 10(5) | Interference with vehicles | $5,000 and 6 months imprisonment
 
@@ -106,7 +106,7 @@ Section | Summary of Offence | Maximum Penalty
 
 26(7) | Projection over line of taxi bay prescribed road marking | $5,000 and 3 months imprisonment
 
-26(8)(a) | Passengers failing to follow authorized persons directions | $2,000
+26(8)(a) | Passengers failing to follow authorized person’s directions | $2,000
 
 26(8)(b) | Failure to accept hire | $3,000 and 6 months imprisonment
 
@@ -146,7 +146,9 @@ Section | Summary of Offence | Maximum Penalty
 
 61 | Improper use of emergency equipment | $5,000
 
-- PART II
+(E.R. 3 of 2021)
+
+- Part II
 
 Section | Summary of Contravention | Fixed Penalty
 

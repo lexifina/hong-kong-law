@@ -1,20 +1,20 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 40, 51, 52 & 54]
 
-PROVISIONS RELATING TO TRIBUNAL
+Provisions relating to Tribunal
 
 - 1. Interpretation In this Schedule—
 
-  - “panel member” (小組成員) means a member of the panel referred to in section 40(5) of this Ordinance;
+  - panel member (小組成員) means a member of the panel referred to in section 40(5) of this Ordinance;
 
-  - “parties” (各方)—
+  - parties (各方)—
 
     - (a) in relation to a review of a decision or assessment of the Board, means the applicant or the Board;
 
     - (b) in relation to a review of a decision of the Monetary Authority, means the applicant or the Monetary Authority;
 
-  - “Tribunal member” (審裁處成員) means a member of the Tribunal appointed under section 40(3)(b) of this Ordinance.
+  - Tribunal member (審裁處成員) means a member of the Tribunal appointed under section 40(3)(b) of this Ordinance.
 
 - 2. Tenure of Chairman
 

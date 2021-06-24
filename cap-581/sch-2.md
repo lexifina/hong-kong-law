@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4 & 54]
 
-PROVISIONS RELATING TO BOARD
+Provisions relating to Board
 
 - 1. Seal
 

@@ -2,4 +2,6 @@ An Ordinance to provide for the establishment of a Hong Kong Deposit Protection 
 
 [22 May 2004]
 
+(Format changes—E.R. 3 of 2021)
+
 (Enacting provision omitted—E.R. 2 of 2014)
