@@ -416,6 +416,8 @@ Poisons List
 
     - Avanafil; its salts
 
+    - Avapritinib; its salts
+
     - Avelumab
 
     - Axitinib; its salts
@@ -1326,6 +1328,8 @@ Poisons List
 
     - Fotemustine; its salts
 
+    - Fremanezumab
+
     - Frusemide
 
     - Fulvestrant
@@ -1357,6 +1361,8 @@ Poisons List
     - Gemfibrozil
 
     - Gemtuzumab ozogamicin
+
+    - Gilteritinib; its salts
 
     - Gimeracil; its salts
 
@@ -1488,6 +1494,8 @@ Poisons List
 
     - Imiquimod; its salts
 
+    - Inclisiran; its salts
+
     - Indacaterol; its salts; its esters; their salts
 
     - Indinavir; its salts
@@ -1579,6 +1587,8 @@ Poisons List
     - Lamivudine; its salts
 
     - Lamotrigine; its salts
+
+    - Lanadelumab
 
     - Lanreotide; its salts
 
@@ -2113,6 +2123,8 @@ Poisons List
     - Oxyphenbutazone
 
     - Oxytocins
+
+    - Ozanimod; its salts
 
     - Paclitaxel
 
@@ -2652,6 +2664,8 @@ Poisons List
 
     - Rasburicase; its salts
 
+    - Ravulizumab
+
     - Reboxetine; its salts
 
     - Recombinant human erythropoietin
@@ -2944,6 +2958,8 @@ Poisons List
 
     - Ticlopidine; its salts
 
+    - Tildrakizumab
+
     - Tiletamine; its salts
 
     - Tilidate; its salts
@@ -3035,6 +3051,8 @@ Poisons List
     - Tribromoethyl alcohol
 
     - 2,2,2-Trichloroethyl alcohol, esters of; their salts
+
+    - Trifarotene; its salts; its esters; their salts
 
     - Trifluridine; its salts
 
@@ -3188,7 +3206,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021)
 
   - Division B
 
