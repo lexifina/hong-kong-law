@@ -1,6 +1,6 @@
 # Schedule 8
 
-[s. 158]
+[ss. 2 & 158] (L.N. 44 of 2020)
 
 Credit Quality Grades for Specialized Lending
 

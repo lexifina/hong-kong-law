@@ -72,7 +72,7 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
     - (ii) that is responsible for—
 
-      - (A) calculating and making margin calls, managing margin call disputes and reporting levels of independent amounts, initial margins (within the meaning of section 226L(3) of these Rules) and variation margins (within the meaning of section 226V(1) of these Rules) accurately on a daily basis;
+      - (A) calculating and making margin calls, managing margin call disputes and reporting levels of independent amounts, initial margins (within the meaning of section 226A of these Rules) and variation margins (within the meaning of section 226A of these Rules) accurately on a daily basis; (L.N. 44 of 2020)
 
       - (B) controlling the integrity of the data used to make margin calls and ensuring that such data are consistent and reconciled regularly with all relevant data sources within the institution;
 
@@ -290,12 +290,4 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
   - (e) either estimate the mark-to-market change in the value of collateral posted, or apply the rules for recognized collateral set out in Part 4, 5 or 6 of these Rules, as the case requires.
 
-- 7. Additional requirements relating to shortcut method Without limiting sections 1, 2, 3, 4, 5 and 6 of this Schedule, an authorized institution that uses the shortcut method must demonstrate to the satisfaction of the Monetary Authority that—
-
-  - (a) the institution’s back-testing programme tests regularly whether the counterparty default risk exposures predicted by the shortcut method over all margin periods of risk within one year are consistent with the realized values of the exposures;
-
-  - (b) if some of the transactions in a netting set have a maturity of less than one year and the netting set would have higher risk factor sensitivities if those transactions were removed from the netting set, this fact will be taken into account in the back-testing and other validation processes for the method; and
-
-  - (c) the institution has procedures to ensure that if the back-testing result indicates that effective EPE is underestimated, appropriate actions will be taken to make the predicted values more conservative.
-
-- (Schedule 2A added L.N. 156 of 2012)
+- 7. (Repealed L.N. 44 of 2020) (Schedule 2A added L.N. 156 of 2012)

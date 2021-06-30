@@ -1,6 +1,6 @@
 # Schedule 3
 
-[ss. 18, 19, 97, 226Q, 317, 317A, 318, 319 & 320] (L.N. 137 of 2011; L.N. 156 of 2012)
+[ss. 18, 19, 226ML, 226Q, 317, 317A, 318, 319 & 320] (L.N. 137 of 2011; L.N. 156 of 2012; L.N. 44 of 2020)
 
 Minimum Requirements to be Satisfied for Approval under Section 18 of these Rules to Use IMM Approach
 

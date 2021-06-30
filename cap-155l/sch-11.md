@@ -1,6 +1,6 @@
 # Schedule 11
 
-[ss. 15B, 265 & 266] (L.N. 222 of 2018)
+[ss. 2, 15B, 265 & 266] (L.N. 222 of 2018; L.N. 44 of 2020)
 
 Mapping of ECAI Issue Specific Ratings into Credit Quality Grades under SEC-ERBA
 

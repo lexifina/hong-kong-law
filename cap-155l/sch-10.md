@@ -1,8 +1,6 @@
 # Schedule 10
 
-[s. 229 & Sch. 10A]
-
-(L.N. 175 of 2017)
+[ss. 229 & 230 & Sch. 10A] (L.N. 175 of 2017; L.N. 44 of 2020)
 
 Requirements to be Satisfied for Synthetic Securitization Transaction to be Eligible Synthetic Securitization Transaction
 
@@ -42,7 +40,15 @@ Requirements to be Satisfied for Synthetic Securitization Transaction to be Elig
 
 - 2. Provisions supplementary to section 1(a) For the purposes of section 1(a) of this Schedule—
 
-  - (a) the SPE in the securitization transaction concerned must not be recognized as a credit protection provider; and
+  - (a) the SPE in the securitization transaction concerned may be recognized as a credit protection provider for the purposes of section 98 or 99 if—
+
+    - (i) the SPE owns assets that fall within one or more than one category of asset specified in section 80(1)(a), (b) and (c) and none of the SPE’s assets is a securitization exposure;
+
+    - (ii) relevant legal documentation provides that the SPE’s assets can be applied to pay any amounts that the SPE may become obliged to pay from time to time to the originating institution pursuant to the credit protection concerned;
+
+    - (iii) there are no claims or contingent claims (other than those for administrative fees, operating expenses and other similar payments) that rank senior to, or equally with, the rights of the originating institution receiving payments pursuant to the credit protection; and
+
+    - (iv) the arrangements through which the security interests in the SPE’s assets are granted for the benefit of the originating institution and the control procedures in place, if they were carried out by an authorized institution, would satisfy the requirements under section 77(a), (b), (c), (d), (e), (ea) and (f); and (L.N. 44 of 2020)
 
   - (b) if the underlying exposures concerned consist of securitization exposures, the reference to “a corporate that has an ECAI issuer rating” in sections 98(a)(vi) and 99(1)(b)(vi) is to be construed as a reference to a corporate specified in section 243(3).
 
