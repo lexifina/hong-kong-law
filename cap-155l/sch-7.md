@@ -1,10 +1,12 @@
 # Schedule 7
 
-[ss. 2, 51, 86, 94 & 96] (L.N. 222 of 2018)
+[ss. 2, 51, 86, 92, 94, 163, 226BJ, 226K & 226MK] (L.N. 222 of 2018; L.N. 44 of 2020 and E.R. 3 of 2021)
 
-Standard Supervisory Haircuts for Comprehensive Approach to Treatment of Recognized Collateral
+Standard Supervisory Haircuts
 
-- 1. An authorized institution which uses the comprehensive approach to the treatment of recognized collateral shall use the standard supervisory haircuts set out in the Table to take into account the price volatility of both the exposure and the collateral.
+(L.N. 44 of 2020)
+
+- 1. The standard supervisory haircuts for taking into account the volatilities of the values of exposures (including exposures in the form of unsegregated collateral posted) and collateral are set out in the Table. (L.N. 44 of 2020)
 
   - Table Part 1 Standard Supervisory Haircuts for Debt Securities
 
@@ -52,7 +54,7 @@ Standard Supervisory Haircuts for Comprehensive Approach to Treatment of Recogni
 
   - (c) more than 5 years | not applicable | 12% | not applicable
 
-- (L.N. 156 of 2012; L.N. 175 of 2017)
+  - (L.N. 156 of 2012; L.N. 175 of 2017)
 
   - Part 2 Standard Supervisory Haircuts for Assets other than
 
@@ -94,7 +96,17 @@ Standard Supervisory Haircuts for Comprehensive Approach to Treatment of Recogni
 
 - 2. In the Table in section 1—
 
-  - (a) the haircuts assume daily marking-to-market, daily remargining and a 10-business day minimum holding period;
+  - (a) the haircuts may only be applied to an exposure or collateral—
+
+    - (i) that is subject to—
+
+      - (A) daily marking-to-market;
+
+      - (B) daily revaluation; or
+
+      - (C) daily marking-to-market and daily remargining; and
+
+    - (ii) whose applicable minimum holding period or margin period of risk determined under these Rules is 10 business days; (L.N. 44 of 2020)
 
   - (b) sovereign issuers include sovereign foreign public sector entities and multilateral development banks; (L.N. 175 of 2017)
 
@@ -106,9 +118,11 @@ Standard Supervisory Haircuts for Comprehensive Approach to Treatment of Recogni
 
     - debt securities (債務證券) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
 
-  - (e)
+  - (e) recognized collateral (認可抵押品)—
 
-    - recognized collateral (認可抵押品) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
+    - (i) unless subparagraph (ii) applies—means recognized collateral within the meaning of section 51(1) or recognized financial collateral within the meaning of section 139(1); or
+
+    - (ii) in relation to the calculation of default risk exposure by using the SA-CCR approach or IMM(CCR) approach—means collateral referred to in section 226BJ(5) or 226H(3); (L.N. 44 of 2020)
 
   - (f)
 
@@ -139,3 +153,21 @@ Standard Supervisory Haircuts for Comprehensive Approach to Treatment of Recogni
       - (i) in relation to a debt security (other than a securitization issue) issued by a sovereign, a sovereign foreign public sector entity, or a multilateral development bank, means an ECAI issue specific rating assigned to the debt security by an ECAI (within the meaning of paragraph (a), (b), (c), (d) or (e) of the definition of external credit assessment institution in section 2(1) of these Rules) that is a long-term credit assessment rating; or
 
       - (ii) in relation to a debt security that is a securitization issue, means an ECAI issue specific rating (within the meaning of section 227A) assigned to the securitization issue that is a long-term credit assessment rating. (L.N. 222 of 2018)
+
+- 3. The standard supervisory haircut must be adjusted by using Formula 33 if any of the following, determined under these Rules, is not 10 business days—
+
+  - (a) the minimum holding period or the margin period of risk of the transaction giving rise to the exposure concerned;
+
+  - (b) the minimum holding period or the margin period of risk of the transaction giving rise to the exposure secured by the recognized collateral concerned;
+
+  - (c) the minimum holding period of the unsegregated collateral concerned.
+
+  - Formula 33 Adjustment of Standard Supervisory Haircuts where—
+
+  - H | = | haircut applicable to an exposure or recognized collateral, as the case requires, capped at 100%;
+
+  - H10 | = | standard supervisory haircut appropriate for the type of exposure or recognized collateral to which the exposure or recognized collateral belongs; and
+
+  - P | = | the following, as the case requires, determined in accordance with these Rules— (i) the minimum holding period or the margin period of risk of the transaction giving rise to the exposure or of the transaction giving rise to the exposure secured by the recognized collateral; or (ii) the minimum holding period of the unsegregated collateral.
+
+  - (L.N. 44 of 2020)
