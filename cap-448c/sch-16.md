@@ -36,7 +36,7 @@ The Air Navigation (Dangerous Goods) Regulations
 
     - States concerned has the same meaning as it has in Chapter 1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011; L.N. 182 of 2013)
 
-    - Technical Instructions* means the 2019–2020 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016; L.N. 13 of 2018; L.N. 177 of 2019)
+    - Technical Instructions* means the 2021–2022 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016; L.N. 13 of 2018; L.N. 177 of 2019; L.N. 56 of 2021)
 
     - unit load device means any type of freight container including any container designed for loading on an aircraft.
 
@@ -146,7 +146,7 @@ The Air Navigation (Dangerous Goods) Regulations
 
   - and the operator shall remove or repair any contamination or damage.
 
-  - (6) The operator of an aircraft shall not permit it to fly for the purpose of carrying passengers or cargo if he knows or suspects radioactive materials to have leaked in or contaminated the aircraft or any sling or other apparatus attached to the aircraft unless the radiation level resulting from the fixed contamination at any accessible surface and the non-fixed contamination are not more than the values specified in Chapter 3.2 of Part 7 of the Technical Instructions. (L.N. 234 of 2001)
+  - (6) The operator of an aircraft shall not permit it to fly for the purpose of carrying passengers or cargo if he knows or suspects radioactive materials to have leaked in or contaminated the aircraft or any sling or other apparatus attached to the aircraft unless the dose rate resulting from the fixed contamination at any accessible surface and the non-fixed contamination are not more than the values specified in Chapter 3.2 of Part 7 of the Technical Instructions. (L.N. 234 of 2001; L.N. 56 of 2021)
 
 - 7. Method of loading by operator
 
@@ -216,7 +216,7 @@ The Air Navigation (Dangerous Goods) Regulations
 
       - (ii) amended as the Chief Executive may require; and
 
-      - (iii) delivered by instructors who satisfy the requirements set out in Chapter 4.3 of Part 1 of the Technical Instructions; and
+      - (iii) delivered by instructors who satisfy the requirements set out in Chapter 4.6 of Part 1 of the Technical Instructions; and (L.N. 56 of 2021)
 
     - (c) ensure that each of their respective employees whose duties include a function specified in subparagraph (a) shall complete the training programmes specified in subparagraph (b). (L.N. 195 of 2007)
 
@@ -240,8 +240,26 @@ The Air Navigation (Dangerous Goods) Regulations
 
   - (e) the record of the identification of the person referred to in Regulation 6(1A)(b) in a legible form in respect of any dangerous goods, referred to in Regulation 6(2). (L.N. 13 of 2018)
 
-- 10. (Repealed L.N. 195 of 2007) TABLE OF COMPARISON (Repealed L.N. 77 of 2008)
+- 10. (Repealed L.N. 195 of 2007)
+
+__________
+
+TABLE OF COMPARISON
+
+(Repealed L.N. 77 of 2008)
+
+- 11. Transitional provisions relating to Air Navigation (Hong Kong) Order 1995 (Amendment of Schedule 16) Order 2021
+
+  - (1) This Regulation applies during the period beginning on 2 July 2021 and ending on 31 December 2022.
+
+  - (2) For the purposes of Regulation 8(3)(b)(iii), an instructor who satisfies the requirements set out in Chapter 4.3 of Part 1 of the former TI is taken to be an instructor who satisfies the requirements set out in Chapter 4.6 of Part 1 of the Technical Instructions.
+
+  - (3) In paragraph (2)—
+
+    - former TI means the Technical Instructions as defined by Regulation 2(1) as in force immediately before 2 July 2021.
+
+- (L.N. 56 of 2021)
 
 Editorial Note:
 
-* | The text of the 2019–2020 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
+* | The text of the 2021–2022 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
