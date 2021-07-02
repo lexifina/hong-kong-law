@@ -34,7 +34,11 @@ TOLLS AND FEES
 
 - 9. | Public and private double-decked buses | $15
 
-- 10. | For vehicles with more than 2 axles, each additional axle in excess of 2 (7 of 2016 s. 18) | $10
+- 10. | For vehicles with more than 2 axles—
+
+- (a) if the tunnel is a booth mode tunnel | $10 for each additional axle in excess of 2
+
+- (b) if the tunnel is a boothless mode tunnel (20 of 2021 s. 35) | No additional toll
 
 - Part 3 Tolls (for Eastern Harbour Crossing)
 
@@ -44,9 +48,11 @@ TOLLS AND FEES
 
 - 1. | Motor cycles, motor tricycles | $13
 
-- 2. | Taxis— | $15
+- 2. | Taxis in which no passenger is carried when using the tunnel where—
 
-- (a) in which no passenger is carried when using the tunnel; and (b) in respect of which the tolls for the use of the tunnel are settled at toll booths other than autotoll booths
+- (a) if the tunnel is a booth mode tunnel—the tolls for the use of the tunnel are settled at toll booths other than autotoll booths | $15
+
+- (b) if the tunnel is a boothless mode tunnel—the taxis enter the toll area through a traffic lane designated as a prohibited zone for all vehicles except taxis carrying no passengers, at which the traffic sign of the type shown in Figure No. 113 in Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) is used in conjunction with the supplementary plate of the type shown in Figure No. 403A in that Schedule (20 of 2021 s. 35) | $15
 
 - 3. | Taxis other than those specified in item 2 and private cars | $25
 
@@ -62,7 +68,11 @@ TOLLS AND FEES
 
 - 9. | Public and private double-decked buses | $75
 
-- 10. | For vehicles with more than 2 axles, each additional axle in excess of 2 | $25
+- 10. | For vehicles with more than 2 axles—
+
+- (a) if the tunnel is a booth mode tunnel | $25 for each additional axle in excess of 2
+
+- (b) if the tunnel is a boothless mode tunnel (20 of 2021 s. 35) | No additional toll
 
 - (7 of 2016 s. 18)
 
@@ -78,7 +88,11 @@ TOLLS AND FEES
 
 - 3. | Public light buses | $23
 
-- 4. | Private light buses | $24
+- 4. | Private light buses—
+
+- (a) if the tunnel is a booth mode tunnel | $24
+
+- (b) if the tunnel is a boothless mode tunnel (20 of 2021 s. 35) | $23
 
 - 5. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $24
 
@@ -90,7 +104,11 @@ TOLLS AND FEES
 
 - 9. | Public and private double-decked buses | $35
 
-- 10. | For vehicles with more than 2 axles, each additional axle in excess of 2 | $24
+- 10. | For vehicles with more than 2 axles—
+
+- (a) if the tunnel is a booth mode tunnel | $24 for each additional axle in excess of 2
+
+- (b) if the tunnel is a boothless mode tunnel (20 of 2021 s. 35) | No additional toll
 
 - (9 of 2018 s. 9)
 

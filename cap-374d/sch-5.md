@@ -12,7 +12,7 @@ Taxi Fares
 
 (C) | $1.20 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $83.50.
 
-2. | Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995 L.N.; 225 of 1996; L.N. 15 of 1998; L.N. 219 of 2008) | (A) | $19.00 for the first 2 kilometres or any part of those 2 kilometres;
+2. | Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995; L.N. 225 of 1996; L.N. 15 of 1998; L.N. 219 of 2008) | (A) | $19.00 for the first 2 kilometres or any part of those 2 kilometres;
 
 (B) | $1.50 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $154.00; and
 
@@ -58,7 +58,9 @@ Taxi Fares
 
 (c) | Taxis licensed to operate within Lantau (L.N. 140 of 1990; L.N. 225 of 1996) | $5.00
 
-(iii) | For every hiring involving the use of the Lion Rock Tunnel, the Shing Mun Tunnels, the Tseung Kwan O Tunnel, the Tate’s Cairn Tunnel, the Aberdeen Tunnel, the Tai Lam Tunnel, the Cross-Harbour Tunnel, the Eastern Harbour Crossing or the Western Harbour Crossing (L.N. 50 of 1997; L.N. 512 of 1997; L.N. 198 of 1999; L.N. 83 of 2005) | The toll charge paid by the driver of the taxi during the hiring.
+(iii) | For every hiring involving the use of the Lion Rock Tunnel, the Shing Mun Tunnels, the Tseung Kwan O Tunnel, the Tate’s Cairn Tunnel, the Aberdeen Tunnel, the Cross-Harbour Tunnel or the Eastern Harbour Crossing (20 of 2021 s. 81) | The appropriate toll for the use of the tunnel concerned, as specified in Part 1, 2, 3 or 3A of Schedule 2 to the Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A).
+
+(iiia) | For every hiring involving the use of the Tai Lam Tunnel or the Western Harbour Crossing (20 of 2021 s. 81) | The toll paid by the driver of the taxi during the hiring for the use of the tunnel concerned.
 
 (iv) | (a) | For every hiring which is for a destination across the harbour via the Cross-Harbour Tunnel where the hiring does not begin from a cross-harbour taxi stand (L.N. 50 of 1997; L.N. 512 of 1997) | $10.00
 
@@ -76,7 +78,7 @@ Taxi Fares
 
 (viad) | (Repealed L.N. 36 of 2020)
 
-(vib) | For every hiring involving the use of the toll area within the meaning of the Tsing Sha Control Area Ordinance (Cap. 594) (16 of 2007 s. 31) | The toll paid by the driver of the taxi during the hiring for the use of the toll area.
+(vib) | For every hiring involving the use of the toll area within the meaning of the Tsing Sha Control Area Ordinance (Cap. 594) (16 of 2007 s. 31; 20 of 2021 s. 81) | The appropriate toll for the use of the toll area, as specified in Schedule 1 to the Tsing Sha Control Area (Tolls, Fees and Charges) Regulation (Cap. 594 sub. leg. B).
 
 (vic) | (Repealed L.N. 61 of 2017)
 

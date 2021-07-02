@@ -7,6 +7,8 @@ s-004A.md
 s-004B.md
 s-005.md
 s-006.md
+s-006A.md
+s-006B.md
 s-007.md
 s-008.md
 s-009.md
@@ -181,6 +183,7 @@ s-108.md
 s-109.md
 s-110.md
 s-111.md
+s-111A.md
 s-112.md
 s-113.md
 s-113A.md
