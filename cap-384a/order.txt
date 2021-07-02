@@ -10,4 +10,5 @@ s-007A.md
 s-007B.md
 s-008.md
 s-009.md
+s-010.md
 sch.md
