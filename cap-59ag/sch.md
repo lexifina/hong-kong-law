@@ -1,12 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-- PART I Loadshifting machines used in industrial undertakings—
+- Part I Loadshifting machines used in industrial undertakings—
 
     - (a) a fork-lift truck.
 
-- PART II Loadshifting machines used on construction sites—
+- Part II Loadshifting machines used on construction sites—
 
     - (a) a bulldozer;
 
