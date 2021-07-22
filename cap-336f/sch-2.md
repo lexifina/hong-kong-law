@@ -1,8 +1,10 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [rule 2]
 
-FORM 1A | [rule 4(1)]
+Form 1A
+
+[rule 4(1)]
 
 Election to Take Fixed Costs
 
@@ -32,9 +34,11 @@ To the Registrar.
 
 _
 
-FORM 1B | [rule 4(2)]
+Form 1B
 
-STATEMENT OF COSTS
+[rule 4(2)]
+
+Statement of Costs
 
 Part I
 
@@ -90,7 +94,9 @@ Solicitors for the *petitioner/ respondent/applicant.
 
 _
 
-FORM 2 | [rule 5(2)]
+Form 2
+
+[rule 5(2)]
 
 Notice of Fixed Costs
 
@@ -112,7 +118,9 @@ Registrar.
 
 _
 
-FORM 3 | [rule 7(1)]
+Form 3
+
+[rule 7(1)]
 
 Certificate of Fixed Costs
 
@@ -122,7 +130,7 @@ I certify that the costs in the cause have been fixed at—
 
 Item | Amount
 
-1. | Fixed costs on the Decree under Part I of the Table*
+1. | Fixed costs on the decree under Part I of the Table*
 
 2. | Fixed costs on separate attendance under Part II of the Table*
 
@@ -140,6 +148,6 @@ Dated the . day of ., 20 .
 
 Registrar.
 
-* Table of Fixed Costs in the First Schedule.
+* Table of Fixed Costs in the First Schedule
 
-(L.N. 52 of 2000)
+(L.N. 52 of 2000; E.R. 3 of 2021)
