@@ -42,6 +42,16 @@ Scheduled Premises
 
 - 16. | Cruise ship (L.N. 102 of 2021)
 
+- 17. | Premises that—
+
+- (a) | are not—
+
+- (i) | private premises; or
+
+- (ii) | a place of public entertainment; and
+
+- (b) | are for the time being used, with the consent of the owner, manager or tenant of the premises, for holding a specified event (L.N. 126 of 2021)
+
 - Part 2 Interpretation
 
   - 1. In this Schedule—
@@ -109,6 +119,8 @@ Scheduled Premises
       - (c) a public skating rink within the meaning of that section;
 
     - place of public entertainment (公眾娛樂場所) has the meaning given by section 2 of the Places of Public Entertainment Ordinance (Cap. 172); (L.N. 150 of 2020)
+
+    - private premises (私人處所) means any premises to which the public may not, or are not permitted to, have access from time to time (whether by payment or otherwise); (L.N. 126 of 2021)
 
     - sports premises (體育處所)—
 

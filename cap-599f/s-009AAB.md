@@ -22,6 +22,10 @@
 
 (5) In this section—
 
-- manager (管理人) includes a person authorized by a manager for the purposes of this section.
+- manager (管理人) includes—
+
+  - (a) in relation to scheduled premises that are event premises, the organizer of the specified event for which the premises are for the time being used; and
+
+  - (b) a person authorized by a manager or an organizer referred to in paragraph (a) for the purposes of this section. (L.N. 126 of 2021)
 
 (L.N. 52 of 2021)
