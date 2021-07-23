@@ -46,7 +46,7 @@
 
 - 22. No. 5, Pui Ching Road, Ho Man Tin, Kowloon.
 
-- 23. Units No. 104-109, ground floor, Sau Ming House, Sau Mau Ping Estate (I), Kowloon.
+- 23. The upper ground floor of Sau Yun House, Sau Mau Ping Estate, Sau Ming Road, Sau Mau Ping, Kowloon. (L.N. 71 of 2021)
 
 - 24. Shop No. 112, Third floor, Lok Fu Shopping Centre I, Junction Road, Kowloon.
 
