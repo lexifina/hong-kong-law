@@ -14,7 +14,15 @@ Torture Claims Appeal Board
 
       - (b) an application for a revocation decision under section 37ZM;
 
-    - member (委員) means a member of the Torture Claims Appeal Board established by section 37ZQ.
+    - claimant (聲請人)—
+
+      - (a) in relation to an appeal made under section 37ZR, means the person who has lodged the appeal; and
+
+      - (b) in relation to an application for a revocation decision under section 37ZM, means the person who has been served with a notice of application under subsection (4) of the section; (Added 7 of 2021 s. 25)
+
+    - member (委員) means a member of the Torture Claims Appeal Board established by section 37ZQ; (Amended 7 of 2021 s. 25)
+
+    - notice of hearing (聆訊通知) means a notice of the date, time and place of a hearing served under section 13 of this Schedule. (Added 7 of 2021 s. 25)
 
   - (2) An expression used in this Schedule has the same meaning as is given to it in section 37U.
 
@@ -66,17 +74,29 @@ Torture Claims Appeal Board
 
   - (2) If 2 or more persons are appointed as Deputy Chairpersons, the Chairperson may designate any one of them to act on behalf of the Chairperson during the period mentioned in subsection (1).
 
+- 5A. Delegation by Chairperson
+
+  - (1) The Chairperson may delegate to a Deputy Chairperson any of the Chairperson’s powers and functions under the following provisions—
+
+    - (a) section 6 of this Schedule;
+
+    - (b) section 7 of this Schedule;
+
+    - (c) section 16 of this Schedule (but only in so far as it relates to giving directions in a particular case).
+
+  - (2) A delegation may be subject to any terms and conditions that the Chairperson considers appropriate.
+
+  - (3) The Chairperson may revoke a delegation.
+
+(Added 7 of 2021 s. 25)
+
 - 6. Composition of Appeal Board for purposes of appeal
 
   - (1) For hearing and determining an appeal, the Appeal Board is to consist of 1 member (who may or may not be the Chairperson) selected by the Chairperson for this purpose, except as provided in subsection (2).
 
   - (2) Having regard to the circumstances of a particular appeal, the Chairperson may select 3 members to hear and determine the appeal.
 
-  - (3) The members selected under subsection (2) must include either the Chairperson or a Deputy Chairperson, and for the purposes of the appeal, the presiding member is to be—
-
-    - (a) the Chairperson; or
-
-    - (b) the Deputy Chairperson or (if more than 1 Deputy Chairperson is selected) such Deputy Chairperson as the Chairperson may decide.
+  - (3) In exercising the power under subsection (2), the Chairperson must nominate one of the 3 members to be the presiding member. (Replaced 7 of 2021 s. 25)
 
   - (4) A member who has a direct or indirect interest in an appeal must not take part in the hearing and determination of the appeal.
 
@@ -94,7 +114,7 @@ Torture Claims Appeal Board
 
 - 9. Director to provide facts
 
-  - (1) The Director must, as soon as practicable after receiving a copy of a notice of appeal served under section 8 of this Schedule, provide to the Appeal Board and the person who has lodged the appeal—
+  - (1) The Director must, as soon as practicable after receiving a copy of a notice of appeal served under section 8 of this Schedule, provide to the Appeal Board and the claimant— (Amended 7 of 2021 s. 25)
 
     - (a) if the decision being appealed against is a decision under section 37ZI(1)(b) rejecting a torture claim—
 
@@ -114,21 +134,21 @@ Torture Claims Appeal Board
 
       - (v) a copy of the claimant’s objection notice (if any) referred to in section 37ZL(3)(b);
 
-    - (c) if the decision being appealed against is a decision under section 37ZE(4) not to re-open a torture claim withdrawn by the person who made the claim—
+    - (c) if the decision being appealed against is a decision under section 37ZE(4) not to re-open a torture claim withdrawn by the claimant— (Amended 7 of 2021 s. 25)
 
       - (i) a copy of any completed torture claim form relating to the torture claim;
 
-      - (ii) a copy of the written record of any interview of the person conducted by an immigration officer in considering the torture claim;
+      - (ii) a copy of the written record of any interview of the claimant conducted by an immigration officer in considering the torture claim;
 
-      - (iii) a copy of the person’s notice withdrawing the claim; and
+      - (iii) a copy of the claimant’s notice withdrawing the claim; and
 
-      - (iv) a copy of any evidence in writing provided by the person under section 37ZE(2); or
+      - (iv) a copy of any evidence in writing provided by the claimant under section 37ZE(2); or (Amended 7 of 2021 s. 25)
 
-    - (d) if the decision being appealed against is a decision under section 37ZG(5) not to re-open a torture claim treated as withdrawn on a person’s failure to return a completed torture claim form—
+    - (d) if the decision being appealed against is a decision under section 37ZG(5) not to re-open a torture claim treated as withdrawn on the claimant’s failure to return a completed torture claim form— (Amended 7 of 2021 s. 25)
 
-      - (i) a copy of the written notice under section 37ZG(2) informing the person that the claim is treated as withdrawn; and
+      - (i) a copy of the written notice under section 37ZG(2) informing the claimant that the claim is treated as withdrawn; and
 
-      - (ii) a copy of any evidence in writing provided by the person under section 37ZG(3).
+      - (ii) a copy of any evidence in writing provided by the claimant under section 37ZG(3). (Amended 7 of 2021 s. 25)
 
   - (2) The Director must, as soon as practicable after filing with the Appeal Board a notice of application for a revocation decision under section 37ZM(3), provide to the Appeal Board and the claimant—
 
@@ -152,45 +172,77 @@ Torture Claims Appeal Board
 
   - (2) Despite subsection (1)—
 
-    - (a) a party to proceedings before the Appeal Board may address the Board in any language;
+    - (a) the Appeal Board may direct a claimant to address the Board in a language that the Board reasonably considers the claimant is able to understand and communicate in; (Replaced 7 of 2021 s. 25)
 
-    - (b) a witness in proceedings before the Appeal Board may testify in any language; and
+    - (b) the Appeal Board may direct a witness in proceedings before the Board to testify in a language that the Board reasonably considers the witness is able to understand and communicate in; and (Replaced 7 of 2021 s. 25)
 
     - (c) a legal representative in proceedings before the Appeal Board may use the English or Chinese language, or both.
 
 - 12. Determination of appeal without a hearing The Appeal Board may determine an appeal without a hearing if, having regard to the material before it and the nature of the issues raised, the Board is satisfied that the appeal can be justly determined without a hearing.
 
-- 13. Notice of hearing If the Appeal Board decides to hold a hearing, the Board must, not less than 28 days before the date of hearing, serve on the parties notice of the date, time and place of the hearing.
+- 13. Notice of hearing
 
-- 14. Documents to be served on Appeal Board before hearing
+  - (1) If the Appeal Board decides to hold a hearing, the Board must, not less than 28 days before the date of hearing, serve on the parties notice of the date, time and place of the hearing. (Amended 7 of 2021 s. 25)
 
-  - (1) The Director must, as soon as practicable after receiving a notice served under section 13 of this Schedule, serve on the Appeal Board, with a copy to the other party, a bundle of all the documents that will be relied on by the Director at the hearing, including submissions to be made.
+  - (2) Despite subsection (1), the Appeal Board may give less than 28 days’ notice to the parties if it considers appropriate to do so in a particular case, but in any event the notice period must not be less than 7 days. (Added 7 of 2021 s. 25)
+
+  - (3) To avoid doubt, this section does not apply to—
+
+    - (a) a hearing that is rescheduled under section 15(5) of this Schedule; or
+
+    - (b) a further hearing of an appeal. (Added 7 of 2021 s. 25)
+
+- 13A. Director’s attendance at hearing
+
+  - (1) The Director need not attend a hearing unless required to do so by a notice of hearing.
+
+  - (2) If, having regard to the particular circumstances of an appeal, the Appeal Board considers that the Director’s attendance at the hearing of the appeal is necessary, the Board may, by the notice of hearing, require the Director to attend the hearing.
+
+  - (3) The Director may also attend a hearing on the Director’s own initiative.
+
+  - (4) If the Director intends to attend a hearing on the Director’s own initiative, the Director must notify the Appeal Board and the claimant in writing as soon as practicable of the intention.
+
+(Added 7 of 2021 s. 25)
+
+- 14. Documents to be served on Appeal Board (Amended 7 of 2021 s. 25)
+
+  - (1) The Director must, as soon as practicable after receiving a notice of hearing, serve on the Appeal Board, with a copy to the claimant, a bundle of all the documents relating to the torture claim concerned.
 
   - (2) The Appeal Board may require a party to file and serve on the Board, with a copy to the other party—
 
-    - (a) statements of evidence that will be called at the hearing; and
+    - (a) statements of evidence that will be called at the hearing together with other information or evidence relating to the appeal that the Board considers necessary; and
 
     - (b) a list of witnesses whom the party wishes to call to give evidence.
 
-- 15. Hearing in a party’s absence
+  - (3) The statements, information, evidence and list referred to in subsection (2) must be filed and served within the period specified by the Appeal Board. (Added 7 of 2021 s. 25)
 
-  - (1) If a party to an appeal fails to attend a hearing, either in person or by a legal representative, the Appeal Board, on proof that the party has been served a notice of the hearing under section 13 of this Schedule, may proceed to hear the appeal in the absence of the party and, subject to subsections (2) and (3), determine the appeal.
+- (Amended 7 of 2021 s. 25)
 
-  - (2) Before proceeding to determine an appeal after hearing the appeal in the absence of a party, the Appeal Board must—
+- 15. Claimant’s absence from hearing
 
-    - (a) give the party written notice of the Board’s intention to do so; and
+  - (1) If a claimant does not attend a hearing in person, irrespective of whether the claimant is represented at the hearing by a legal representative, the Appeal Board may hear the appeal in the absence of the claimant.
 
-    - (b) state that the party may submit to the Board, within 7 days after the notice is given, a written explanation of the party’s failure to attend the hearing together with any documentary evidence supporting the explanation.
+  - (2) If a claimant referred to in subsection (1) wishes the Appeal Board to fix another hearing date for the appeal, the claimant must, within 3 working days after the date of the hearing, submit a written request to the Appeal Board to fix another hearing date.
 
-  - (3) If the Appeal Board—
+  - (3) The request must contain a written explanation of the claimant’s absence from the hearing together with all available evidence supporting the explanation.
 
-    - (a) has not received the party’s written explanation together with supporting documentary evidence (if any) within the period specified in subsection (2)(b); or
+  - (4) The Appeal Board must proceed to determine the appeal by making a decision under section 23(1) of this Schedule if—
 
-    - (b) is not satisfied with the party’s written explanation or supporting documentary evidence,
+    - (a) no request is made under subsection (2); or
 
-  - the Board may determine the appeal by making a decision under section 23(1) of this Schedule despite the party’s absence at the hearing.
+    - (b) where a request is made under subsection (2), the Board is not satisfied, on the basis of the written explanation and supporting evidence submitted with the request, that the claimant—
 
-  - (4) If the Appeal Board is satisfied, on the basis of the party’s written explanation and supporting documentary evidence (if any) submitted under subsection (2)(b), that the failure to attend was due to reasonable cause, the Board may fix a date, time and place for hearing the appeal.
+      - (i) had exercised all due diligence to attend the hearing; but
+
+      - (ii) was absent from the hearing because of circumstances beyond the claimant’s control.
+
+  - (5) The Appeal Board may fix another date, time and place for hearing the appeal if the Board is satisfied, on the basis of the written explanation and supporting evidence submitted with the request, that the claimant—
+
+    - (a) had exercised all due diligence to attend the hearing; but
+
+    - (b) was absent from the hearing because of circumstances beyond the claimant’s control.
+
+  - (Replaced 7 of 2021 s. 25)
 
 - 16. Chairperson may give directions The Chairperson may give directions, generally or in a particular case, on the practice and procedure of the Appeal Board in hearing and determining an appeal, so long as the direction is consistent with Part VIIC.
 
@@ -206,25 +258,45 @@ Torture Claims Appeal Board
 
   - (2) The Appeal Board may consider evidence that was not before an immigration officer if—
 
-    - (a) the evidence relates to matters that have occurred after the decision being appealed against was made;
+    - (a) the evidence relates to matters that have occurred after the decision being appealed against was made; or (Amended 7 of 2021 s. 25)
 
-    - (b) the evidence was not reasonably available before the decision being appealed against was made; or
+    - (b) the evidence relates to matters that occurred before the decision being appealed against was made, and the claimant provides sufficient evidence in writing to satisfy the Board that the claimant—
 
-    - (c) the Board is satisfied that exceptional circumstances exist that justify the consideration of the evidence.
+      - (i) had exercised all due diligence to provide the evidence to an immigration officer before the decision was made; but
+
+      - (ii) failed to provide the evidence to an immigration officer before the decision was made because of circumstances beyond the claimant’s control. (Replaced 7 of 2021 s. 25)
+
+    - (c) (Repealed 7 of 2021 s. 25)
 
 - 19. Notice of new evidence
 
-  - (1) A party to an appeal who wishes to present any evidence under section 18(2) of this Schedule at a hearing must—
+  - (1) A claimant who wishes to present any evidence under section 18(2) of this Schedule at a hearing must within 7 days after filing a notice of appeal under section 37ZS (or section 37ZT if late filing is allowed)—
 
     - (a) file with the Appeal Board a written notice to that effect; and
 
-    - (b) serve a copy of the notice on the other party.
+    - (b) serve a copy of the notice on the Director. (Replaced 7 of 2021 s. 25)
 
-  - (2) The notice must—
+  - (2) The written notice must—
 
     - (a) indicate the nature of the evidence; and
 
-    - (b) explain why the evidence was not before an immigration officer before the decision being appealed against was made.
+    - (b) explain how the evidence supports the torture claim. (Replaced 7 of 2021 s. 25)
+
+  - (3) If the evidence falls within the description in section 18(2)(b) of this Schedule, the written notice must also—
+
+    - (a) state the circumstances leading to the failure referred to in that section;
+
+    - (b) explain how, and to what extent, the circumstances led to the failure;
+
+    - (c) state the steps that the claimant had taken with a view to providing the evidence to an immigration officer before the decision being appealed against was made and, in particular, the steps taken to deal with the circumstances; and
+
+    - (d) be accompanied by all available evidence relied on in support of the claimant’s case. (Added 7 of 2021 s. 25)
+
+  - (4) A written notice filed after the expiry of the period specified in subsection (1) may not be accepted by the Appeal Board unless the claimant provides sufficient evidence in writing to satisfy the Board that the claimant—
+
+    - (a) had exercised all due diligence to file the notice before the expiry of the period; but
+
+    - (b) failed to file the notice before the expiry of the period because of circumstances beyond the claimant’s control. (Added 7 of 2021 s. 25)
 
 - 20. Evidence considered by Appeal Board in an application for revocation decision In an application for a revocation decision under section 37ZM, the Appeal Board—
 

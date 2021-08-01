@@ -17,6 +17,7 @@ s-004B.md
 s-004C.md
 s-005.md
 s-006.md
+s-006A.md
 s-007.md
 s-007A.md
 s-008.md
@@ -104,6 +105,8 @@ s-037X.md
 s-037Y.md
 s-037Z.md
 s-037ZA.md
+s-037ZAB.md
+s-037ZAC.md
 s-037ZB.md
 s-037ZC.md
 s-037ZD.md
@@ -123,6 +126,7 @@ s-037ZQ.md
 s-037ZR.md
 s-037ZS.md
 s-037ZT.md
+s-037ZTA.md
 s-037ZU.md
 s-037ZV.md
 s-037ZW.md
@@ -185,3 +189,4 @@ sch-1A.md
 sch-2.md
 sch-3.md
 sch-4.md
+sch-5.md
