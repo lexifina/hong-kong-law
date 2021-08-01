@@ -47,3 +47,5 @@ s-034A.md
 s-035.md
 s-036.md
 s-037.md
+s-038.md
+sch.md
