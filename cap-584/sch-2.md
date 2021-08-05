@@ -1,9 +1,13 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 50, 55 & 57]
 
-CLEARING AND SETTLEMENT SYSTEMS DEEMED TO HAVE BEEN DESIGNATED
+Clearing and Settlement Systems Deemed to have been Designated
 
-- 1. Central Moneymarkets Unit.
+(Format changes—E.R. 3 of 2021)
 
-- 2. Hong Kong Dollar Clearing House Automated Transfer System.
+- 1. Central Moneymarkets Unit
+
+- 2. Hong Kong Dollar Clearing House Automated Transfer System
+
+(Amended E.R. 3 of 2021)

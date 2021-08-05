@@ -2,4 +2,8 @@ An Ordinance to provide for certain payment systems for funds or securities to b
 
 (Amended 18 of 2015 s. 3)
 
+(Format changes—E.R. 3 of 2021)
+
 [4 November 2004] L.N. 145 of 2004
+
+(Enacting provision omitted—E.R. 3 of 2021)

@@ -1,20 +1,20 @@
-# SCHEDULE 3
+# Schedule 3
 
-[s. 20(2)] (18 of 2007 s. 5)
+[s. 20(2)] (Amended 18 of 2007 s. 5)
 
-CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
+Constitution and Powers of the Boards of Trustees of the Original Colleges
 
-(18 of 2007 s. 5)
+(Amended 59 of 1986 s. 4; 18 of 2007 s. 5)
 
 - 1. Interpretation In this Schedule, unless the context otherwise requires—
 
-  - “Boards of Trustees” (書院校董會) means the Boards of Trustees of the Colleges incorporated under paragraph 2;
+  - Boards of Trustees (書院校董會) means the Boards of Trustees of the Colleges incorporated under paragraph 2;
 
-  - “Chairman” (主席) means the Chairman of each Board of Trustees;
+  - Chairman (主席) means the Chairman of each Board of Trustees;
 
-  - “College” (書院) means an original College and “Colleges” (各書院) shall be construed accordingly; (59 of 1986 s. 4)
+  - College (書院) means an original College and Colleges (各書院) shall be construed accordingly; (59 of 1986 s. 4)
 
-  - “Council” (大學校董會) means the Council of The Chinese University of Hong Kong.
+  - Council (大學校董會) means the Council of The Chinese University of Hong Kong.
 
 - 2. Incorporation of Board of Trustees
 
@@ -44,11 +44,15 @@ CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
 
     - (d) advise the Senate on all major policy matters relating to theological education,
 
-  - and the Board of Trustees may delegate to a Theological Council appointed by it the power to discharge the functions and duties imposed on the Board by this sub-paragraph.
+  - and the Board of Trustees may delegate to a Theological Council appointed by it the power to discharge the functions and duties imposed on the Board by this subparagraph.
+
+- Editorial Note:
+
+- * For text of Schedule 2, see the Revised Edition of the Laws.
 
 - 4. Composition of Boards of Trustees
 
-  - (1) The persons who, immediately before the commencement of this Ordinance, were members of the Board of Governors of Chung Chi College shall, on the commencement of this Ordinance, become the members of the Board of Trustees of that College incorporated under paragraph 2(1).
+  - (1) The persons who, immediately before the commencement* of this Ordinance, were members of the Board of Governors of Chung Chi College shall, on the commencement of this Ordinance, become the members of the Board of Trustees of that College incorporated under paragraph 2(1).
 
   - (2) The persons who, immediately before the commencement of this Ordinance, were members of the Board of Trustees of The United College of Hong Kong shall, on the commencement of this Ordinance, become members of the Board of Trustees of that College incorporated under paragraph 2(2).
 
@@ -56,7 +60,11 @@ CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
 
   - (4) Any person who is at the commencement of this Ordinance, or who becomes, a member of a Board of Trustees may retire as a member of that Board of Trustees, but no person shall retire so as to reduce the number of members of the Board of Trustees below 4.
 
-  - (5) Vacancies in the number of members of a Board of Trustees shall from time to time be filled by such legal means as would have been available for the appointment of new trustees if the Board of Trustees had not been incorporated, and, without prejudice to the generality of the foregoing, section 42 of the Trustee Ordinance (Cap. 29) shall apply in relation to the appointment of new Trustees. (59 of 1986 s. 4)
+  - (5) Vacancies in the number of members of a Board of Trustees shall from time to time be filled by such legal means as would have been available for the appointment of new trustees if the Board of Trustees had not been incorporated, and, without prejudice to the generality of the foregoing, section 42 of the Trustee Ordinance (Cap. 29) shall apply in relation to the appointment of new Trustees. (Amended 59 of 1986 s. 4)
+
+- Editorial Note:
+
+- * Commencement date: 24 December 1976.
 
 - 5. Registration with Registrar of Companies
 
@@ -70,7 +78,7 @@ CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
 
   - (2) Notification in accordance with subparagraph (1)(a) and (b) shall be made—
 
-    - (a) within 3 months of the commencement of this Ordinance; and
+    - (a) within 3 months of the commencement* of this Ordinance; and
 
     - (b) thereafter within 28 days of any change.
 
@@ -80,16 +88,20 @@ CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
 
   - (5) A fee of $5 shall be payable for registering or inspecting any document referred to in this paragraph.
 
+- Editorial Note:
+
+- * Commencement date: 24 December 1976.
+
 - 6. Accounts Each Board of Trustees shall in each year, prepare and produce to the Council its audited accounts in such form and at such times as the Council may determine.
 
-- 7. Transitional provisions On the commencement of this Ordinance—
+- 7. Transitional provisions On the commencement* of this Ordinance—
 
   - (a) all movable property held on trust by or for each College and all immovable property held by or on behalf of the Colleges outside the precincts of the University shall vest in the Board of Trustees of the College concerned without further assurance and on the same trusts and subject to the same terms and conditions, if any, on which the same was then held;
 
   - (b) the Board of Trustees of each College shall succeed to all rights, privileges, obligations and liabilities of the Colleges relating to the property vested in the Boards of Trustees under subparagraph (a).
 
-- 8. (Repealed 59 of 1986 s. 4) (59 of 1986 s. 4)
+- Editorial Note:
 
-Editorial Note:
+- * Commencement date: 24 December 1976.
 
-* For text of Schedule 2, see the Revised Edition of the Laws.
+- 8. (Repealed 59 of 1986 s. 4)

@@ -4,6 +4,8 @@ To repeal and replace The Chinese University of Hong Kong Ordinance, to repeal t
 
 [24 December 1976]
 
+(Format changes—E.R. 3 of 2021)
+
 Preamble Whereas—
 
 - (a) The Chinese University of Hong Kong was established and incorporated in 1963 by The Chinese University of Hong Kong Ordinance (Cap. 1109, 1965 Ed.) as a University with a federal constitution;

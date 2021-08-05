@@ -1,18 +1,18 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 33X, 34, 40 & 57]
 
 (Amended 18 of 2015 s. 53)
 
-PROVISIONS RELATING TO REVIEW UNDER PART 4
+Provisions Relating to Review under Part 4
 
-(Amended 18 of 2015 s. 53)
+(Amended 18 of 2015 s. 53) (Format changes—E.R. 3 of 2021)
 
 - Part 1 Provisions Relating to Payment Systems and Stored Value Facilities Appeals Tribunal (Added 18 of 2015 s. 53)
 
   - 1. Interpretation In this Schedule—
 
-    - “panel member” (小組成員) means a member of the panel referred to in section 34(4); (Amended 18 of 2015 s. 53)
+    - panel member (小組成員) means a member of the panel referred to in section 34(4); (Amended 18 of 2015 s. 53)
 
     - parties (各方), in relation to a review of a reviewable decision, means—
 
@@ -20,7 +20,7 @@ PROVISIONS RELATING TO REVIEW UNDER PART 4
 
       - (b) the Monetary Authority; (Replaced 18 of 2015 s. 53)
 
-    - “Tribunal member” (審裁處成員) means a member of the Tribunal appointed under section 34(2)(b). (Amended 18 of 2015 s. 53)
+    - Tribunal member (審裁處成員) means a member of the Tribunal appointed under section 34(2)(b). (Amended 18 of 2015 s. 53)
 
   - 2. Tenure of Chairman of the Tribunal
 

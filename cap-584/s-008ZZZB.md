@@ -16,7 +16,7 @@
 
 - (a) on conviction on indictment—
 
-  - (i) to a fine of $400,000 and to imprisonment for 2 year; and
+  - (i) to a fine of $400,000 and to imprisonment for 2 years; and (Amended E.R. 3 of 2021)
 
   - (ii) in the case of a continuing offence, to a further fine of $25,000 for every day during which the offence continues; or
 
