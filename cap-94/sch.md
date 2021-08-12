@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 20]
 
-- PART I PENSION TABLES TABLE A The Yearly Pension, payable by monthly instalments, which a SINGLE CONTRIBUTION of 1 will secure.
+- Part I Pension Tables Table A The Yearly Pension, payable by monthly instalments, which a SINGLE CONTRIBUTION of 1 will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -104,9 +104,9 @@
 
 - 65 | .079 | .085 | .093 | .105 | .122 | .146 | .185 | .247 | .352 | .538 | .885
 
-- * Effective from 1st July 1959. TABLE B This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 55 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 55 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70
 
@@ -180,9 +180,9 @@
 
 - 54 | .10 | .10 | .11 | .12 | .14 | .16 | .20 | .25 | .33 | .47 | .70
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 56 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 56 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75
 
@@ -256,9 +256,9 @@
 
 - 55 | .09 | .10 | .11 | .12 | .13 | .15 | .19 | .24 | .32 | .44 | .66 | 1.05
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 57 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 57 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75
 
@@ -332,9 +332,9 @@
 
 - 56 | .10 | .10 | .11 | .13 | .15 | .18 | .22 | .30 | .42 | .62 | .98
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 58 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 58 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75
 
@@ -408,9 +408,9 @@
 
 - 57 | .09 | .10 | .11 | .12 | .14 | .17 | .21 | .28 | .39 | .58 | .92
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 59 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 59 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75
 
@@ -484,9 +484,9 @@
 
 - 58 | .09 | .10 | .10 | .12 | .14 | .16 | .20 | .26 | .37 | .54 | .85
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 60 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 60 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75
 
@@ -560,9 +560,9 @@
 
 - 59 | .09 | .09 | .10 | .11 | .13 | .15 | .19 | .25 | .34 | .50 | .78
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 61 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 61 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -608,7 +608,7 @@
 
 - 46 | 1.35 | 1.45 | 1.57 | 1.75 | 1.98 | 2.33 | 2.82 | 3.53 | 4.62 | 6.22 | 8.69
 
-- 47 | 1.22 | 1.32 | 1.42 | 1.58 | 1.79 | 2.09 | 2.51 | 3.15 | 4.10 | 5.53 | 7.75
+- 47 | 1.22 | 1.32 | 1.42 | 1.58 | 1.79 | 2.09 | 2.51 | 3.15 | 4.10 | 5.53 | 7.70
 
 - 48 | 1.12 | 1.20 | 1.29 | 1.42 | 1.61 | 1.87 | 2.24 | 2.80 | 3.64 | 4.88 | 6.82
 
@@ -636,9 +636,9 @@
 
 - 60 | .08 | .09 | .10 | .11 | .12 | .15 | .18 | .23 | .32 | .47 | .72 | 1.21
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 62 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 62 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -712,9 +712,9 @@
 
 - 61 | .09 | .09 | .10 | .12 | .14 | .17 | .22 | .30 | .44 | .67 | 1.13
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 63 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 63 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -788,9 +788,9 @@
 
 - 62 | .08 | .09 | .10 | .11 | .13 | .16 | .21 | .28 | .41 | .63 | 1.05
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 64 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 64 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -864,9 +864,9 @@
 
 - 63 | .08 | .09 | .10 | .11 | .13 | .15 | .20 | .26 | .39 | .59 | .98
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 65 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease when he is aged 65 next birthday, after 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -940,9 +940,9 @@
 
 - 64 | .08 | .08 | .09 | .10 | .12 | .15 | .19 | .25 | .36 | .55 | .91
 
-- TABLE B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease on his 65th birthday, before completion of 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
+- Table B—Contd. This section of Table B is applicable only in the case of an officer whose contributions will cease on his 65th birthday, before completion of 35 years contributions. The Yearly Pension, payable by monthly instalments, which a YEARLY CONTRIBUTION of 1, payable also by monthly instalments, will secure.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -1016,9 +1016,9 @@
 
 - 65 | .04 | .04 | .04 | .05 | .06 | .07 | .09 | .12 | .17 | .26 | .42
 
-- TABLE C The SINGLE PAYMENT which will secure a YEARLY PENSION of 1, payable by monthly instalments.
+- Table C The SINGLE PAYMENT which will secure a YEARLY PENSION of 1, payable by monthly instalments.
 
-- AGE OF HUSBAND NEXT BIRTHDAY | AGE OF WIFE NEXT BIRTHDAY
+- Age of husband next birthday | Age of wife next birthday
 
 - 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80
 
@@ -1118,9 +1118,9 @@
 
 - 65 | 12.73 | 11.80 | 10.73 | 9.53 | 8.22 | 6.83 | 5.41 | 4.05 | 2.84 | 1.86 | 1.13
 
-- PART II INSTRUCTIONS FOR THE USE OF PENSION TABLES
+- Part II Instructions for the Use of Pension Tables
 
-- The calculation of the amount of the pension that will or may become payable at the death of a contributor should not be delayed until such death has actually occurred; but records should be kept in which full particulars in respect of each contributor should be entered, and in these records should be recorded against every married or widower contributor the amount of the pension which would become payable should he die immediately, leaving a widow or orphans entitled to such pension. The amount of the pension per annum so entered in the records against a contributor (which in these Instructions is referred to as his “registered pension”) should be calculated, and re-calculated as often as may be necessary, in accordance with these Instructions.
+- The calculation of the amount of the pension that will or may become payable at the death of a contributor should not be delayed until such death has actually occurred; but records should be kept in which full particulars in respect of each contributor should be entered, and in these records should be recorded against every married or widower contributor the amount of the pension which would become payable should he die immediately, leaving a widow or orphans entitled to such pension. The amount of the pension per annum so entered in the records against a contributor (which in these Instructions is referred to as his registered pension) should be calculated, and re-calculated as often as may be necessary, in accordance with these Instructions.
 
 - Note 1.—The pension, if any, (including all variations consequent upon the rise or fall in the amount of any contribution or upon re-marriage) in respect of every officer who has ceased to contribute and whose last contributions fell due on or before the 30th day of June 1959 shall be calculated or continue to be calculated on and in accordance with the pension tables and rules for calculating pensions in force on the 30th day of June 1959.
 
@@ -1148,27 +1148,33 @@
 
 - Note 6.—Notwithstanding Note 2, 3 or 4, where a pension calculated on and in accordance with the pension tables and rules for calculating pensions in force on 30 June 1959 and payable before 1 December 1967 is greater than it would be if it were calculated on and in accordance with the Tables and Instructions set forth in this Schedule, that pension shall continue to be calculated on and in accordance with the pension tables and rules for calculating pensions in force on 30 June 1959. (Added 7 of 1971 s. 2)
 
-- SECTION A— | CONTRIBUTOR WHO COMMENCED TO CONTRIBUTE WHILE A BACHELOR OR WHILE A WIDOWER WITHOUT ANY CHILD OF PENSIONABLE AGE.
+- Section A— | Contributor who commenced to contribute while a bachelor or while a widower without any child of pensionable age.
 
 - Note 1.—In this section—
 
-  - “first wife” (首任妻子) , in the case of an officer who commenced to contribute while a widower without any child of pensionable age, means the first wife married by such officer after his commencing to contribute; and
+  - first wife (首任妻子), in the case of an officer who commenced to contribute while a widower without any child of pensionable age, means the first wife married by such officer after his commencing to contribute; and
 
-  - “marriage” (婚姻、結婚) , in the case of an officer who commenced to contribute while a widower without any child of pensionable age, means the first marriage of such officer after his commencing to contribute. Note 2.—No registered pension is to be recorded unless and until the contributor marries. I—FIRST WIFE’S PROSPECTIVE PENSION The registered pension to be recorded on marriage is found by adding together the two amounts calculated in accordance with the following rules I(a) and I(b), respectively—
+  - marriage (婚姻、結婚), in the case of an officer who commenced to contribute while a widower without any child of pensionable age, means the first marriage of such officer after his commencing to contribute.
+
+- Note 2.—No registered pension is to be recorded unless and until the contributor marries.
+
+- I—First wife’s prospective pension
+
+- The registered pension to be recorded on marriage is found by adding together the two amounts calculated in accordance with the following rules I(a) and I(b), respectively—
 
   - (a) Pension in consideration of the contributions paid before marriage.
 
-  - RULE I(a)— | Increase each contribution by 50 per cent (being Government’s contribution); then accumulate the contributions (so increased) at 3 1/2 per cent, compound interest, with yearly rests at each 31st December; and then multiply the result by the quantity found from Table A corresponding to the respective ages next birthday of the husband and wife at the date of marriage.
+  - Rule I(a)— | Increase each contribution by 50 per cent (being Government’s contribution); then accumulate the contributions (so increased) at 3 1/2 per cent, compound interest, with yearly rests at each 31st December; and then multiply the result by the quantity found from Table A corresponding to the respective ages next birthday of the husband and wife at the date of marriage.
 
   - The product gives the registered pension on account of the contributions paid before marriage.
 
   - (b) Pension in consideration of the annual contribution current at the date of marriage.
 
-  - RULE I(b)— | Increase the amount of the current annual contribution (which is obtained by multiplying by 12 the amount of the last monthly contribution) by 50 per cent (being Government’s contribution); then turn to the section of Table B which contains in the heading the age next birthday of the husband at the date of completion of his period of contribution, or, where completion of the period of contribution occurs on his attaining the age of 65 years without his having contributed for 35 successive years, turn to the last section of Table B, and multiply the amount of the current annual contribution (so increased) by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of marriage.
+  - Rule I(b)— | Increase the amount of the current annual contribution (which is obtained by multiplying by 12 the amount of the last monthly contribution) by 50 per cent (being Government’s contribution); then turn to the section of Table B which contains in the heading the age next birthday of the husband at the date of completion of his period of contribution, or, where completion of the period of contribution occurs on his attaining the age of 65 years without his having contributed for 35 successive years, turn to the last section of Table B, and multiply the amount of the current annual contribution (so increased) by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of marriage.
 
   - The product gives the registered pension on account of the annual contribution current at the date of marriage.
 
-  - EXAMPLE—
+  - Example—
 
   - Officer born on | 31st July 1932
 
@@ -1222,13 +1228,11 @@
 
   - Quantity found from Table A—
 
-  - Husband | 30 | .264
+  - Husband | 30 | } | .264
 
-  - Wife** | 20
+  - Wife* | 20
 
-  - Then the registered pension in consideration of contributions paid before marriage = $2,931.63 x .264
-
-  - = $773.95 Application of rule I(b)
+  - Then the registered pension in consideration of contributions paid before marriage = $2,931.63 × .264 = $773.95 Application of rule I(b)
 
   - Annual contribution current at date of marriage | $500
 
@@ -1236,13 +1240,11 @@
 
   - Quantity found from Table B, section for officers aged 61 next birthday at completion of period of contribution—
 
-  - Husband | 30 | 4.81
+  - Husband | 30 | } | 4.81
 
-  - Wife** | 20
+  - Wife* | 20
 
-  - Then the registered pension in consideration of annual contribution current at marriage = $750 x 4.81
-
-  - = $3,607.5 Total registered pension to be recorded on the contributor marrying—
+  - Then the registered pension in consideration of annual contribution current at marriage = $750 × 4.81 = $3,607.5 Total registered pension to be recorded on the contributor marrying—
 
   - By rule I(a) | $773.95
 
@@ -1252,13 +1254,13 @@
 
   - (c) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his first wife.
 
-  - RULE I(c)— | Increase the amount of the increment to, or the decrement from, the current annual contribution (which is obtained by multiplying by 12 the amount of the last monthly contribution) by 50 per cent; then turn to the section of Table B which contains in the heading the age next birthday of the husband at the date of completion of his period of contribution, or, where completion of the period of contribution occurs on his attaining the age of 65 years without his having contributed for 35 successive years, turn to the last section of Table B, and multiply the amount of the increment or decrement (so increased) by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of the variation of the contribution.
+  - Rule I(c)— | Increase the amount of the increment to, or the decrement from, the current annual contribution (which is obtained by multiplying by 12 the amount of the last monthly contribution) by 50 per cent; then turn to the section of Table B which contains in the heading the age next birthday of the husband at the date of completion of his period of contribution, or, where completion of the period of contribution occurs on his attaining the age of 65 years without his having contributed for 35 successive years, turn to the last section of Table B, and multiply the amount of the increment or decrement (so increased) by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of the variation of the contribution.
 
   - The product gives the amount to be added to the registered pension consequent on the increment to the current annual contribution, or, as the case may be, the amount to be deducted from the registered pension consequent on the decrement from the current annual contribution.
 
   - The cessation of the contribution from any cause, other than by reason of the death of the contributor, before the completion of the full period of contribution must be regarded as a decrement from the current annual contribution equal to the amount of such current annual contribution.
 
-  - EXAMPLE— Assume particulars as in example subjoined to rules I(a) and I(b).
+  - Example— Assume particulars as in example subjoined to rules I(a) and I(b).
 
   - Annual contribution increases on 31st May 1967 from $500 to | $700
 
@@ -1272,11 +1274,11 @@
 
   - Quantity found from Table B, section for officers aged 61 next birthday at completion of period of contribution—
 
-  - Husband | 35 | 3.85
+  - Husband | 35 | } | 3.85
 
   - Wife* | 25
 
-  - Then amount to be added to the registered pension | = $300 x 3.85
+  - Then amount to be added to the registered pension | = $300 × 3.85
 
   - = $1,155.00
 
@@ -1292,19 +1294,17 @@
 
   - Quantity found from Table B, section for officers aged 61 next birthday at completion of period of contribution—
 
-  - Husband | 40 | 2.99
+  - Husband | 40 | } | 2.99
 
   - Wife* | 30
 
-  - Then amount to be deducted from the registered pension
-
-  - = $150 x 2.99
+  - Then amount to be deducted from the registered pension | = $150 × 2.99
 
   - = $448.5
 
   - Registered pension at 31st May 1967 | $5,536.45
 
-  - Deduct | $ 448.5
+  - Deduct | $ 448.50
 
   - Registered pension at 30th April 1972 | $5,087.95
 
@@ -1314,13 +1314,11 @@
 
   - Quantity found from Table B, section for officers aged 61 next birthday at completion of period of contribution—
 
-  - Husband | 45 | 2.20
+  - Husband | 45 | } | 2.20
 
-  - Wife** | 35
+  - Wife* | 35
 
-  - Then amount to be deduced from the registered pension
-
-  - = $900 x 2.20
+  - Then amount to be deduced from the registered pension | = $900 × 2.20
 
   - = $1,980.00
 
@@ -1330,23 +1328,23 @@
 
   - Registered pension at 31st March 1977 | $3,107.95
 
-  - II—SECOND, AND SUBSEQUENT, WIFE’S PROSPECTIVE PENSION
+- II—Second, and subsequent, wife’s prospective pension
 
   - (a) Variations of pension consequent upon increments to, and decrements from, the current annual contribution while the contributor is a widower.
 
-  - RULE II(a)— | Assume that the contributor is married to a wife of the age that his last preceding wife would have been had she survived to the date of the variation of the contribution, and proceed in accordance with rule I(c).
+  - Rule II(a)— | Assume that the contributor is married to a wife of the age that his last preceding wife would have been had she survived to the date of the variation of the contribution, and proceed in accordance with rule I(c).
 
-  - EXAMPLE— If the particulars be as in the example subjoined to rule I(c), except that the first wife, who was born on 31st August 1942, dies on 30th November 1962, it would be assumed that the contributor was at the date of each of the three variations of the contribution married to a wife who was born on 31st August 1942. The calculations will then be identical with those given in the example subjoined to rule I(c).
+  - Example— If the particulars be as in the example subjoined to rule I(c), except that the first wife, who was born on 31st August 1942, dies on 30th November 1962, it would be assumed that the contributor was at the date of each of the three variations of the contribution married to a wife who was born on 31st August 1942. The calculations will then be identical with those given in the example subjoined to rule I(c).
 
   - (b) Variations of pension consequent on the re-marriage of the contributor.
 
   - Note— | No variation of the registered pension is to be recorded if the second or subsequent wife was at the date of the re-marriage of the same age next birthday as the last preceding wife would have been had she survived to that date.
 
-  - RULE II(b)— | If the second, or subsequent, wife was at the date of the re-marriage of a lesser or greater age next birthday than the last preceding wife would have been had she survived to that date, multiply the amount of the registered pension by the quantity found from Table C corresponding to the age next birthday of the husband at the date of re-marriage, and the age next birthday which the last preceding wife would have attained had she survived to that date; then multiply the product so obtained by the quantity found from Table A corresponding to the respective ages next birthday of the husband and of the second, or subsequent, wife at the date of the re-marriage.
+  - Rule II(b)— | If the second, or subsequent, wife was at the date of the re-marriage of a lesser or greater age next birthday than the last preceding wife would have been had she survived to that date, multiply the amount of the registered pension by the quantity found from Table C corresponding to the age next birthday of the husband at the date of re-marriage, and the age next birthday which the last preceding wife would have attained had she survived to that date; then multiply the product so obtained by the quantity found from Table A corresponding to the respective ages next birthday of the husband and of the second, or subsequent, wife at the date of the re-marriage.
 
   - The result gives the registered pension to be recorded on the re-marriage of the contributor.
 
-  - EXAMPLE— Assume particulars as in the example subjoined to rules I(a) and I(b).
+  - Example— Assume particulars as in the example subjoined to rules I(a) and I(b).
 
   - First wife dies on | 30th November 1962
 
@@ -1368,33 +1366,35 @@
 
   - 31st January 1967 (i.e. date of re-marriage)—The second wife being of a less age next birthday at the date of the re-marriage than the first wife would have been had she survived, the registered pension of $4,381.45 (see example subjoined to rules I(a) and I(b)) is to be re-calculated as follows— Quantity found from Table C—
 
-  - Husband | 35 | 4.25
+  - Husband | 35 | } | 4.25
 
   - First wife* | 25
 
   - Quantity found from Table A—
 
-  - Husband | 35 | .209
+  - Husband | 35 | } | .209
 
   - Second wife* | 20
 
-  - Registered pension at 31st January 1967 | = $4,381.45 x 4.25 x .209
+  - Registered pension at 31st January 1967 | = $4,381.45 × 4.25 × .209
 
   - = $3,891.82
 
-  - (c) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his second, or subsequent, wife. RULE II(c)—Proceed as in rule I(c) SECTION B—CONTRIBUTOR WHO COMMENCED TO CONTRIBUTE WHILE MARRIED.
+  - (c) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his second, or subsequent, wife. Rule II(c)—Proceed as in rule I(c)
 
-  - Note— | In every case of an officer who commenced to contribute while married, the wife at the date of commencement of the contribution is to be considered as the officer’s first wife, and no particulars are to be recorded respecting any former wife to whom he may have been married unless there is issue of such former wife of a pensionable age, in which case the matter is regulated by sections 21, 22, 24, 25 and 28 of the Ordinance (see Section D—Pensions to orphan children).
+- Section B— | Contributor who commenced to contribute while married.
 
-  - III—FIRST WIFE’S PROSPECTIVE PENSION
+- Note— | In every case of an officer who commenced to contribute while married, the wife at the date of commencement of the contribution is to be considered as the officer’s first wife, and no particulars are to be recorded respecting any former wife to whom he may have been married unless there is issue of such former wife of a pensionable age, in which case the matter is regulated by sections 21, 22, 24, 25 and 28 of the Ordinance (see Section D—Pensions to orphan children).
+
+- III—First wife’s prospective pension
 
   - (a) Pension in consideration of the annual contribution current at the date of commencement of the contribution.
 
-  - RULE III(a)— | Increase the amount of the current annual contribution (which is obtained by multiplying by 12 the amount of the last monthly contribution) by 50 per cent (being Government’s contribution); then turn to the section of Table B which contains in the heading the age next birthday of the husband at the date of completion of his period of contribution, or where completion of the period of contribution occurs on his attaining the age of 65 years without his having contributed for 35 successive years, turn to the last section of Table B, and multiply the amount of the current annual contribution (so increased) by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of commencement of the contribution.
+  - Rule III(a)— | Increase the amount of the current annual contribution (which is obtained by multiplying by 12 the amount of the last monthly contribution) by 50 per cent (being Government’s contribution); then turn to the section of Table B which contains in the heading the age next birthday of the husband at the date of completion of his period of contribution, or where completion of the period of contribution occurs on his attaining the age of 65 years without his having contributed for 35 successive years, turn to the last section of Table B, and multiply the amount of the current annual contribution (so increased) by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of commencement of the contribution.
 
   - The product gives the registered pension on account of the annual contribution current at the date of commencement of the contribution.
 
-  - EXAMPLE—
+  - Example—
 
   - Officer born on | 31st August 1919
 
@@ -1424,158 +1424,162 @@
 
   - Quantity found from Table B, section for officers who cease to contribute on attaining the age of 65 years without having contributed for 35 successive years (i.e. the last section)—
 
-  - Husband | 40 | 3.33
+  - Husband | 40 | } | 3.33
 
   - Wife* | 30
 
-  - Registered pension in consideration of annual contribution current at commencement of contribution = $600 x 3.33
+  - Registered pension in consideration of annual contribution current at commencement of contribution | = $600 × 3.33
 
   - = $1,998.00
 
-  - (b) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his first wife. RULE III(b)—Proceed as in rule I(c) IV—SECOND, AND SUBSEQUENT, WIFE’S PROSPECTIVE PENSION
+  - (b) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his first wife. Rule III(b)—Proceed as in rule I(c)
 
-  - (a) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is a widower. RULE IV(a)—Proceed as in rule II(a).
+- IV—Second, and subsequent, wife’s prospective pension
 
-  - (b) Variations of pension consequent on the re-marriage of the contributor. RULE IV(b)—Proceed as in rule II(b).
+  - (a) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is a widower. Rule IV(a)—Proceed as in rule II(a).
 
-  - (c) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his second, or subsequent, wife. RULE IV(c)—Proceed as in rule I(c).
+  - (b) Variations of pension consequent on the re-marriage of the contributor. Rule IV(b)—Proceed as in rule II(b).
 
-  - SECTION C— | CONTRIBUTOR WHO COMMENCED TO CONTRIBUTE WHILE A WIDOWER WITH A CHILD OR CHILDREN OF PENSIONABLE AGE.
+  - (c) Variations of pension consequent on increments to, and decrements from, the current annual contribution while the contributor is married to his second, or subsequent, wife. Rule IV(c)—Proceed as in rule I(c).
 
-  - V—SECOND, AND SUBSEQUENT, WIFE’S PROSPECTIVE PENSION
+- Section C— | Contributor who commenced to contribute while a widower with a child or children of pensionable age.
 
-  - RULE V— | For the purpose of calculating the registered pension assume that the deceased wife survived to the date of commencement of the contribution and died immediately afterwards; then proceed in accordance with the rules applicable to the case of officers who commenced to contribute while married (see Section B).
+- V—Second, and subsequent, wife’s prospective pension
 
-  - SECTION D— PENSION TO ORPHAN CHILDREN. Pensions to orphan children are regulated by sections 21, 22, 24, 25 and 28 of the Ordinance.
+- Rule V— | For the purpose of calculating the registered pension assume that the deceased wife survived to the date of commencement of the contribution and died immediately afterwards; then proceed in accordance with the rules applicable to the case of officers who commenced to contribute while married (see Section B).
 
-  - SECTION E— | CONTRIBUTOR TRANSFERRED TO THE SERVICE OF ANOTHER COLONY.
+- Section D— | Pension to orphan children.
 
-  - Throughout these Instructions and the examples given the calculations depend, not on the official income of the contributor, but on the amount of his contribution so that the transfer of an officer to another service does not affect his registered pension unless the amount of his current annual contribution is varied, in which case the proper adjustment is to be made in accordance with the preceding rules.
+- Pensions to orphan children are regulated by sections 21, 22, 24, 25 and 28 of the Ordinance.
 
-  - SECTION F— | CALCULATION OF QUANTITIES (OR TABULAR RESULTS) FOR AGES NOT GIVEN IN THE TABLES.
+- Section E— | Contributor transferred to the service of another colony.
 
-  - TABLE A— | This Table gives every age of the husband from 18 to 65; and every fifth age of the wife from 15 to 80. Ages of husbands and wives younger than the youngest or older than the oldest ages quoted in the Table are to be dealt with as if identical with the youngest and oldest ages respectively as shown in the Table.
+- Throughout these Instructions and the examples given the calculations depend, not on the official income of the contributor, but on the amount of his contribution so that the transfer of an officer to another service does not affect his registered pension unless the amount of his current annual contribution is varied, in which case the proper adjustment is to be made in accordance with the preceding rules.
 
-  - For the intermediate ages of wives, interpolate by exact fifths but where to do so would give a figure of more than three decimal points, that figure shall be taken to its nearest thousandth part of a unit.
+- Section F— | Calculation of quantities (or tabular results) for ages not given in the tables.
 
-  - EXAMPLE— To find the quantity corresponding to the ages of a husband and wife aged, respectively, 25 and 19 next birthday—
+- Table A— | This Table gives every age of the husband from 18 to 65; and every fifth age of the wife from 15 to 80. Ages of husbands and wives younger than the youngest or older than the oldest ages quoted in the Table are to be dealt with as if identical with the youngest and oldest ages respectively as shown in the Table.
 
-  - The quantity for ages 25 and 15 next birthday given
+- For the intermediate ages of wives, interpolate by exact fifths but where to do so would give a figure of more than three decimal points, that figure shall be taken to its nearest thousandth part of a unit.
 
-  - in the Table is | .294
+- Example— To find the quantity corresponding to the ages of a husband and wife aged, respectively, 25 and 19 next birthday—
 
-  - The quantity for ages 25 and 20 next birthday given
+- The quantity for ages 25 and 15 next birthday given
 
-  - in the Table is | .334
+- in the Table is | .294
 
-  - So that the addition of 5 years to the age of the wife results in an addition of .04 to the quantity given in the Table for ages 25 and 15 next birthday. An addition of 4 years to the age of the wife accordingly results by proportion in an addition of four-fifths of .04 to the quantity given in the Table for the ages 25 and 15 next birthday. Four-fifths of .04 = .032, which when added to .294 gives .326 which is the required quantity corresponding to ages 25 and 19 next birthday.
+- The quantity for ages 25 and 20 next birthday given
 
-  - TABLE B— | This Table is divided into twelve sections. The first eleven sections are respectively applicable to officers who will be aged next birthday 55, 56, 57, and so on for each year up to 65, when they complete their period of contribution after having contributed for 35 successive years. The twelfth section is applicable to officers who will cease to contribute on attaining the age of 65 years without having contributed for 35 successive years.
+- in the Table is | .334
 
-  - In each section quantities are given for consecutive ages of the husband, and for every fifth ages of the wife.
+- So that the addition of 5 years to the age of the wife results in an addition of .04 to the quantity given in the Table for ages 25 and 15 next birthday. An addition of 4 years to the age of the wife accordingly results by proportion in an addition of four-fifths of .04 to the quantity given in the Table for the ages 25 and 15 next birthday. Four-fifths of .04 = .032, which when added to .294 gives .326 which is the required quantity corresponding to ages 25 and 19 next birthday.
 
-  - Age of the wife younger than the youngest or older than the oldest age quoted in whichever section of Table B is applicable in the circumstance of the case in question are to be dealt with as if identical with the youngest and oldest age respectively as shown in the Table.
+- Table B— | This Table is divided into twelve sections. The first eleven sections are respectively applicable to officers who will be aged next birthday 55, 56, 57, and so on for each year up to 65, when they complete their period of contribution after having contributed for 35 successive years. The twelfth section is applicable to officers who will cease to contribute on attaining the age of 65 years without having contributed for 35 successive years.
 
-  - For the intermediate ages of wives, interpolate by exact fifths in the manner indicated in the example given for Table A in this section, but where to do so would give a figure of more than two decimal points, that figure shall be taken to its nearest hundredth part of a unit. Thus, the quantity found from the first section of Table B (age 55 next birthday) corresponding to the ages of a husband and wife aged respectively 40 and 33 next birthday is three-fifths of .4, added to 2.39, which gives 2.63.
+- In each section quantities are given for consecutive ages of the husband, and for every fifth ages of the wife.
 
-  - For officers who commence to contribute at an earlier age than 20 next birthday the method of calculation given in the subjoined example is to be followed.
+- Age of the wife younger than the youngest or older than the oldest age quoted in whichever section of Table B is applicable in the circumstance of the case in question are to be dealt with as if identical with the youngest and oldest age respectively as shown in the Table.
 
-  - EXAMPLE (1)— An officer aged 17 next birthday, having a wife aged 17 next birthday, commences to contribute. Assume that the officer is aged 20 next birthday and apply the first section of Table B. The quantity thus found is 7.67 (i.e. 7.23 + two-fifths of 1.1). This officer receives an increment of salary at age 22 next birthday, when his wife’s age is also 22 next birthday. Assume that his age is 25 next birthday (i.e. his actual age next birthday plus the difference between his actual age next birthday at date of commencement of contribution and the age of 20 next birthday, which in this Example is 3). On this assumption, the quantity found from the same section of Table B will be 6.44 (i.e. 6.04 + two-fifths of 1). EXAMPLE (2)— An officer aged 19 next birthday commences to contribute as a bachelor, and five years later, when aged 24 next birthday, marries, his wife’s age being 20 next birthday. The quantity found from Table A in accordance with rule I(a) will be taken for the actual ages next birthday (husband 24 and wife 20) and will be .351. With respect to the current annual contribution at marriage, assume that the officer’s age next birthday is 25 (i.e. his actual age next birthday plus the difference between his actual age next birthday at date of commencement of contribution and the age of 20 next birthday, which in this Example is 1) so that the quantity found from the first section of Table B will be 6.04. This officer receives an increment of salary when aged 39 next birthday, when his wife’s age is 35 next birthday. Assume as before that the ages next birthday are 40 and 35, so that the quantity found from the same section of Table B will be 2.79.
+- For the intermediate ages of wives, interpolate by exact fifths in the manner indicated in the example given for Table A in this section, but where to do so would give a figure of more than two decimal points, that figure shall be taken to its nearest hundredth part of a unit. Thus, the quantity found from the first section of Table B (age 55 next birthday) corresponding to the ages of a husband and wife aged respectively 40 and 33 next birthday is three-fifths of .4, added to 2.39, which gives 2.63.
 
-  - Note— | It will be observed that the method given in the above two examples takes account of the actual number of years for which the annual contribution will run. In Example (1), when the officer receives the increment of salary at the age 22 next birthday he has contributed for five years, so that at the expiration of 30 years from then his contribution will cease. Similarly, in Example (2), when the officer marries at age 24 next birthday, he also has contributed for five years, so that although he is two years older than the officer in Example (1), yet the unexpired period of contribution is the same in each case. (If the wife’s age were also the same in each of these two cases, no important error would be involved in using the same tabular quantity for the two cases).
+- For officers who commence to contribute at an earlier age than 20 next birthday the method of calculation given in the subjoined example is to be followed.
 
-  - TABLE C— | The quantities are given for the same ages as in Table A. Ages of husbands and wives younger than the youngest or older than the oldest age quoted in the Table are to be dealt with as in using Table A.
+- Example (1)— An officer aged 17 next birthday, having a wife aged 17 next birthday, commences to contribute. Assume that the officer is aged 20 next birthday and apply the first section of Table B. The quantity thus found is 7.67 (i.e. 7.23 + two-fifths of 1.1). This officer receives an increment of salary at age 22 next birthday, when his wife’s age is also 22 next birthday. Assume that his age is 25 next birthday (i.e. his actual age next birthday plus the difference between his actual age next birthday at date of commencement of contribution and the age of 20 next birthday, which in this Example is 3). On this assumption, the quantity found from the same section of Table B will be 6.44 (i.e. 6.04 + two-fifths of 1).
 
-  - For the intermediate ages of wives, interpolate by exact fifths, but where to do so would give a figure of more than two decimal points, that figure shall be taken to its nearest hundredth part of a unit. It must be noted, however, that in this Table an addition to the age of the wife results in a deduction from the quantity given in the Table.
+- Example (2)— An officer aged 19 next birthday commences to contribute as a bachelor, and five years later, when aged 24 next birthday, marries, his wife’s age being 20 next birthday. The quantity found from Table A in accordance with rule I(a) will be taken for the actual ages next birthday (husband 24 and wife 20) and will be .351. With respect to the current annual contribution at marriage, assume that the officer’s age next birthday is 25 (i.e. his actual age next birthday plus the difference between his actual age next birthday at date of commencement of contribution and the age of 20 next birthday, which in this Example is 1) so that the quantity found from the first section of Table B will be 6.04. This officer receives an increment of salary when aged 39 next birthday, when his wife’s age is 35 next birthday. Assume as before that the ages next birthday are 40 and 35, so that the quantity found from the same section of Table B will be 2.79.
 
-  - EXAMPLE— To find the quantity corresponding to the ages of a husband and wife aged respectively 37 and 29 next birthday—
+- Note— | It will be observed that the method given in the above two examples takes account of the actual number of years for which the annual contribution will run. In Example (1), when the officer receives the increment of salary at the age 22 next birthday he has contributed for five years, so that at the expiration of 30 years from then his contribution will cease. Similarly, in Example (2), when the officer marries at age 24 next birthday, he also has contributed for five years, so that although he is two years older than the officer in Example (1), yet the unexpired period of contribution is the same in each case. (If the wife’s age were also the same in each of these two cases, no important error would be involved in using the same tabular quantity for the two cases).
 
-  - The quantity for ages 37 and 25 next birthday given in
+- Table C— | The quantities are given for the same ages as in Table A. Ages of husbands and wives younger than the youngest or older than the oldest age quoted in the Table are to be dealt with as in using Table A.
 
-  - the Table is | 4.68
+- For the intermediate ages of wives, interpolate by exact fifths, but where to do so would give a figure of more than two decimal points, that figure shall be taken to its nearest hundredth part of a unit. It must be noted, however, that in this Table an addition to the age of the wife results in a deduction from the quantity given in the Table.
 
-  - The quantity for ages 37 and 30 next birthday given in
+- Example— To find the quantity corresponding to the ages of a husband and wife aged respectively 37 and 29 next birthday—
 
-  - the Table is | 4.08
+- The quantity for ages 37 and 25 next birthday given in
 
-  - So that the addition of five years to the age of the wife results in a deduction of .6 from the quantity given in the Table for ages 37 and 25 next birthday. An addition of four years to the age of the wife accordingly results by proportion in a deduction of four-fifths of .6 from the quantity given in the Table for ages 37 and 25 next birthday. Four-fifths of .6 = .48, which deducted from 4.68 leaves 4.2, which is the required quantity corresponding to the ages 37 and 29 next birthday.
+- the Table is | 4.68
 
-  - SECTION G— | CONTRIBUTOR (EXCLUDING A CONTRIBUTOR WHO WAS A BACHELOR ON 30TH JUNE 1959) WHO COMMENCED TO CONTRIBUTE BEFORE, AND WAS STILL A CONTRIBUTOR ON, 1ST JULY 1959.
+- The quantity for ages 37 and 30 next birthday given in
 
-  - Note—The registered pension of such an officer is to be calculated in two parts, namely, the part purchased by contributions which fell due on or before the 30th June 1959, and the part purchased by contributions falling due on or after 1st day of July 1959, the first part on the Table in force on 30th June 1959 and the second part on the Tables in Part I of this Schedule, unless the registered pension at the 30th June 1959 (calculated on the Table in force on 30th June 1959) exceeds the registered pension as calculated in two parts as stated in this Note in which case the former is to be retained as the registered pension of the officer as at the 30th June 1959. Variations in the registered pension consequent upon the rise or fall in contributions on or after the 1st July 1959 or resulting from the re-marriage of the officer on or after that date are, however, to be calculated on and in accordance with the Tables and Instructions in this Schedule. EXAMPLE (1)—
+- the Table is | 4.08
 
-  - Officer born on | 31st July 1920
+- So that the addition of five years to the age of the wife results in a deduction of .6 from the quantity given in the Table for ages 37 and 25 next birthday. An addition of four years to the age of the wife accordingly results by proportion in a deduction of four-fifths of .6 from the quantity given in the Table for ages 37 and 25 next birthday. Four-fifths of .6 = .48, which deducted from 4.68 leaves 4.2, which is the required quantity corresponding to the ages 37 and 29 next birthday.
 
-  - Officer married on | 30th June 1945
+- Section G— | Contributor (excluding a contributor who was a bachelor on 30th June 1959) who commenced to contribute before, and was still a contributor on, 1st July 1959.
 
-  - Officer commenced to contribute on | 1st April 1946
+- Note— | The registered pension of such an officer is to be calculated in two parts, namely, the part purchased by contributions which fell due on or before the 30th June 1959, and the part purchased by contributions falling due on or after 1st day of July 1959, the first part on the Table in force on 30th June 1959 and the second part on the Tables in Part I of this Schedule, unless the registered pension at the 30th June 1959 (calculated on the Table in force on 30th June 1959) exceeds the registered pension as calculated in two parts as stated in this Note in which case the former is to be retained as the registered pension of the officer as at the 30th June 1959. Variations in the registered pension consequent upon the rise or fall in contributions on or after the 1st July 1959 or resulting from the re-marriage of the officer on or after that date are, however, to be calculated on and in accordance with the Tables and Instructions in this Schedule.
 
-  - Annual contribution as at 30th June 1959 | $1,500
+- Example (1)—
 
-  - Wife born on | 31 st August 1921
+- Officer born on | 31st July 1920
 
-  - Registered pension as at 30th June 1959
+- Officer married on | 30th June 1945
 
-  - (calculated on Tables in force on that date) | $10,785
+- Officer commenced to contribute on | 1st April 1946
 
-  - Quantity found from Table B in force on 30th June 1959, section for officers aged 61 next birthday when they complete their period of contribution—
+- Annual contribution as at 30th June 1959 | $1,500
 
-  - Husband aged 39 next birthday on 1st July 1959 Wife* aged 38 next birthday on 4.50 same date | } | 4.50
+- Wife born on | 31st August 1921
 
-  - Therefore, on the Tables in force on 30th June 1959, the part of the registered pension to be purchased by contribution falling due on or after the 1st July 1959 is $1,500 x 4.50, i.e. $6,750. Therefore, on the same Tables, the part of the registered pension purchased by contributions which fall due on or before 30th June 1959 is $10,785 minus $6,750, i.e. $4,035. Quantity found from Table B in this Schedule, section for officers aged 61 next birthday when they complete their period of contribution—
+- Registered pension as at 30th June 1959
 
-  - Husband aged 39 next birthday on 1st July 1959 Wife* aged 38 next birthday on same date | } | 4.27
+- (calculated on Tables in force on that date) | $10,785
 
-  - Therefore, on the Tables in this Schedule, the amount of the registered pension to be purchased by contributions falling due on or after 1st July 1959 is $1,500 + $750 (i.e. 50% increase of annual contribution) = $2,250 x 4.27, i.e. $9,607.5. As, in this example, the part of the registered pension to be purchased by contributions falling due on or after 1st July 1959, when calculated on the Tables in this Schedule, is greater than the same part when calculated on the Tables in force on 30th June 1959, it is to be added to the part purchased by contributions which fell due on or before 30th June 1959.
+- Quantity found from Table B in force on 30th June 1959, section for officers aged 61 next birthday when they complete their period of contribution—
 
-  - Thus, the registered pension in this example, as at 30th June 1959 is | $4,035.00
+- Husband aged 39 next birthday on 1st July 1959 Wife* aged 38 next birthday on 4.50 same date | } | 4.50
 
-  - +$9,607.50
+- Therefore, on the Tables in force on 30th June 1959, the part of the registered pension to be purchased by contribution falling due on or after the 1st July 1959 is $1,500 × 4.50, i.e. $6,750. Therefore, on the same Tables, the part of the registered pension purchased by contributions which fall due on or before 30th June 1959 is $10,785 minus $6,750, i.e. $4,035. Quantity found from Table B in this Schedule, section for officers aged 61 next birthday when they complete their period of contribution—
 
-  - Total | $13,642.50
+- Husband aged 39 next birthday on 1st July 1959 Wife* aged 38 next birthday on same date | } | 4.27
 
-  - EXAMPLE (2)—
+- Therefore, on the Tables in this Schedule, the amount of the registered pension to be purchased by contributions falling due on or after 1st July 1959 is $1,500 + $750 (i.e. 50% increase of annual contribution) = $2,250 × 4.27, i.e. $9,607.5. As, in this example, the part of the registered pension to be purchased by contributions falling due on or after 1st July 1959, when calculated on the Tables in this Schedule, is greater than the same part when calculated on the Tables in force on 30th June 1959, it is to be added to the part purchased by contributions which fell due on or before 30th June 1959.
 
-  - Officer born on | 31st July 1907
+- Thus, the registered pension in this example, as at 30th June 1959 is | $4,035.00
 
-  - Officer commences contributing | 1st April 1927
+- +$9,607.50
 
-  - Officer marries on | 30th June 1947
+- Total | $13,642.50
 
-  - Wife born on | 31st August 1927
+- Example (2)—
 
-  - Age next birthday of officer on date of completion of contribution period | 55
+- Officer born on | 31st July 1907
 
-  - Age next birthday of officer on 1st July 1959 | 52
+- Officer commences contributing | 1st April 1927
 
-  - Age next birthday of wife on 1st July 1959 | 32
+- Officer marries on | 30th June 1947
 
-  - Annual contribution as at 30th June 1959 | $1,200
+- Wife born on | 31st August 1927
 
-  - Registered pension as at 30th June 1959 (calculated on Tables in force on that date) | $16,000
+- Age next birthday of officer on date of completion of contribution period | 55
 
-  - Quantity found from Table B in force on 30th June 1959, section for officers aged 55 next birthday when they complete their period of contribution—
+- Age next birthday of officer on 1st July 1959 | 52
 
-  - Husband aged 52 next birthday on 1st July 1959 Wife* aged 32 next birthday on same date | } | .73
+- Age next birthday of wife on 1st July 1959 | 32
 
-  - Therefore, on the Tables in force on 30th June 1959, the part of the registered pension to be purchased by contributions falling due on or after 1st July 1959 is $1,200 x .73, i.e. $876.00. Therefore, on the same Tables, the part purchased by contributions which fell due on or before 30th June 1959 is $16,000 minus $876, i.e. $15,124.00. Quantity found from Table B in this Schedule, section for officers aged 55 next birthday when they complete their period of contribution—
+- Annual contribution as at 30th June 1959 | $1,200
 
-  - Husband aged 52 next birthday on 1st July 1959 Wife* aged 32 next birthday on same date | } | .36
+- Registered pension as at 30th June 1959 (calculated on Tables in force on that date) | $16,000
 
-  - Therefore, on the Tables in this Schedule, the amount of the registered pension to be purchased by contributions falling due on or after 1st July 1959 is $1,200 + $600 (i.e. 50% increase of annual contribution) = $1,800 x .36, i.e. $648.00. This is less than the same part as calculated on the Tables in force on 30th June 1959. Therefore, the part to be purchased by contributions falling due on or after the 1st July 1959 is to be calculated on the Tables in force on 30th June 1959, and added to the part purchased by contributions which fell due on or before 30th June 1959.
+- Quantity found from Table B in force on 30th June 1959, section for officers aged 55 next birthday when they complete their period of contribution—
 
-  - Thus, the registered pension in this example, as at 30th June 1959, is | $15,124.00
+- Husband aged 52 next birthday on 1st July 1959 Wife* aged 32 next birthday on same date | } | .73
 
-  - +$ 876.00
+- Therefore, on the Tables in force on 30th June 1959, the part of the registered pension to be purchased by contributions falling due on or after 1st July 1959 is $1,200 × .73, i.e. $876.00. Therefore, on the same Tables, the part purchased by contributions which fell due on or before 30th June 1959 is $16,000 minus $876, i.e. $15,124.00. Quantity found from Table B in this Schedule, section for officers aged 55 next birthday when they complete their period of contribution—
 
-  - Total | $16,000.00
+- Husband aged 52 next birthday on 1st July 1959 Wife* aged 32 next birthday on same date | } | .36
 
-  - In other words, the total registered pension as at the 30th June 1959, as calculated on the Tables then in force, is to be retained.
+- Therefore, on the Tables in this Schedule, the amount of the registered pension to be purchased by contributions falling due on or after 1st July 1959 is $1,200 + $600 (i.e. 50% increase of annual contribution) = $1,800 × .36, i.e. $648.00. This is less than the same part as calculated on the Tables in force on 30th June 1959. Therefore, the part to be purchased by contributions falling due on or after the 1st July 1959 is to be calculated on the Tables in force on 30th June 1959, and added to the part purchased by contributions which fell due on or before 30th June 1959.
 
-- (Schedule added 72 of 1967 s. 13)#
+- Thus, the registered pension in this example, as at 30th June 1959, is | $15,124.00
 
-Editorial Note:
+- +$ 876.00
 
-* Where the age is not given in the Tables, proceed as illustrated in the general examples given in section F.
+- Total | $16,000.00
 
-\# Effective from 1st July 1959
+- In other words, the total registered pension as at the 30th June 1959, as calculated on the Tables then in force, is to be retained.
+
+- * Note— | Where the age is not given in the Tables, proceed as illustrated in the general examples given in section F.
+
+(Schedule added 72 of 1967 s. 13)

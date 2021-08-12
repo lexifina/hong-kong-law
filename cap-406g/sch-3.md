@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 6(8)]
 
-WARNING LABEL FOR ELECTRICAL PRODUCTS DESIGNED SOLELY FOR USE AT A VOLTAGE OF LESS THAN 200V ALTERNATING CURRENT SINGLE PHASE
+Warning Label for Electrical Products Designed Solely for Use at a Voltage of Less than 200V Alternating Current Single Phase
 
 - The warning label—
 
@@ -38,4 +38,4 @@ WARNING LABEL FOR ELECTRICAL PRODUCTS DESIGNED SOLELY FOR USE AT A VOLTAGE OF LE
 
     - (i) in the case of the size in paragraph (d)(i), the characters of the text shall not be less than 5 mm high and 8 mm high respectively for the word “WARNING” and the Chinese characters “警告” and not less than 3 mm high and 5 mm high respectively for the rest of the English wording and the Chinese characters; or
 
-    - (ii) in the case of subsection (d)(ii), the size of the English wording and the Chinese characters shall be adjusted in proportion to that specified in paragraph (e)(i).
+    - (ii) in the case of paragraph (d)(ii), the size of the English wording and the Chinese characters shall be adjusted in proportion to that specified in paragraph (e)(i). (E.R. 3 of 2021)

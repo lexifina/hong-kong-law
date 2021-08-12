@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4 & 5 & Sch. 2] (L.N. 77 of 2000)
 
-ESSENTIAL SAFETY REQUIREMENTS FOR ELECTRICAL PRODUCTS
+Essential Safety Requirements for Electrical Products
 
 - 1. General conditions
 

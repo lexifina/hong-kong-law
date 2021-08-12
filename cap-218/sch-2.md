@@ -1,14 +1,16 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 32B]
 
-PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
+Provisions as Respects the Board and its Members
+
+(Schedule 2 added 51 of 1993 s. 7)
 
 - 1. In this Schedule—
 
-  - “chairman” (主席) means the person appointed as such under section 32B(2)(a) of this Ordinance;
+  - chairman (主席) means the person appointed as such under section 32B(2)(a) of this Ordinance;
 
-  - “member” (委員) means any person appointed as a member under section 32B(2)(a) or the ex officio member referred to in section 32B(2)(b) of this Ordinance.
+  - member (委員) means any person appointed as a member under section 32B(2)(a) or the ex officio member referred to in section 32B(2)(b) of this Ordinance.
 
 - 2. The chairman or any member appointed under section 32B(2)(a) of this Ordinance may—
 
@@ -38,4 +40,4 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
   - (2) Any member of the Board or a committee who has an interest of the nature referred to in subsection (1) and who is consulted by circulation of papers on a matter relating to the subject of his interest shall disclose to the chairman the fact and nature of his interest.
 
-- 8. Subject to this Ordinance the Board may determine its own procedure. (Schedule 2 added 51 of 1993 s. 7)
+- 8. Subject to this Ordinance the Board may determine its own procedure.

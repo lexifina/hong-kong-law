@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 10(2) & (15)]
 
-REQUIREMENTS FOR RECOGNITION AS RECOGNIZED MANUFACTURERS
+Requirements for Recognition as Recognized Manufacturers
 
 - A manufacturer applying for recognition as a recognized manufacturer shall satisfy the following requirements, namely—
 

@@ -3,3 +3,5 @@ To provide for the control and regulation of travel agents, the appointment of a
 (Amended 51 of 1993 s. 2; 10 of 2002 s. 2)
 
 [13 December 1985] L.N. 346 of 1985
+
+(Format changes—E.R. 3 of 2021)

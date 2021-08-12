@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 9(2) & (15)]
 
-ORGANIZATIONS QUALIFIED TO APPLY FOR RECOGNITION AS RECOGNIZED CERTIFICATION BODIES
+Organizations Qualified to Apply for Recognition as Recognized Certification Bodies
 
 - 1. An organization which has been accepted as one of the National Certification Bodies.
 

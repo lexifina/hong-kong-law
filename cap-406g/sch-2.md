@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 5 & 8]
 
-SPECIFIC SAFETY REQUIREMENTS FOR PRESCRIBED PRODUCTS
+Specific Safety Requirements for Prescribed Products
 
 Item | Prescribed product | Specific safety requirement
 
@@ -16,7 +16,7 @@ Item | Prescribed product | Specific safety requirement
 
 (B) | its rated current in amperes (A), identities of plug pins (line (L), neutral (N) and earth (E or )) and availability of fuse in accordance with BS 1363 Part 1; and (L.N. 77 of 2000)
 
-(b) a plug forming part of a ceiling rose connector (that is to say, a connector designed to hold up overhead electric lighting fittings); (c) a plug forming part of a luminaire comprising a track system for electric lights and their fittings; (d) a plug forming part of an audio-visual assembly (that is to say, a plug designed to be connected to the socket installed within the audio-visual assembly and not suitable for connection to a mains socket in Hong Kong); and | (C) | the word “FUSED” or “FUSE” or equivalent symbol (⏛) together with the standard to which the fuse-link conforms and the rated current of the fuse-link in amperes (A) in accordance with BS 1363 Part 1; (L.N. 77 of 2000)
+(b) a plug forming part of a ceiling rose connector (that is to say, a connector designed to hold up overhead electric lighting fittings); (c) a plug forming part of a luminaire comprising a track system for electric lights and their fittings; (d) a plug forming part of an audio-visual assembly (that is to say, a plug designed to be connected to the socket installed within the audio-visual assembly and not suitable for connection to a mains socket in Hong Kong); and | (C) | the word “FUSED” or “FUSE” or equivalent symbol ( ) together with the standard to which the fuse-link conforms and the rated current of the fuse-link in amperes (A) in accordance with BS 1363 Part 1; (L.N. 77 of 2000)
 
 (ii) | clear instructions for the safe connection of the appropriate flexible cords shall be provided in the form of a label attached to the plug showing the colour code of the flexible cores—brown or red (line), blue or black (neutral) and green/yellow or green (earth); (L.N. 259 of 1997)
 
@@ -34,7 +34,7 @@ Item | Prescribed product | Specific safety requirement
 
 (2) | The requirements in subparagraphs (a)(ii) and (b)(ii) of column 3 do not apply to a non-rewirable plug or a plug fitted to an electrical product. (L.N. 77 of 2000) | (B) | its rated current in amperes (A), identities of plug pins (line (L), neutral (N) and earth (E or )) in accordance with BS 546; (L.N. 77 of 2000)
 
-(ii) | clear instructions for the safe connection of the appropriate flexible cords shall be provided in the form of a label attached to the plug showing the colour code of the flexible cores-brown or red (line), blue or black (neutral) and green/yellow or green (earth); and
+(ii) | clear instructions for the safe connection of the appropriate flexible cords shall be provided in the form of a label attached to the plug showing the colour code of the flexible cores—brown or red (line), blue or black (neutral) and green/yellow or green (earth); and
 
 (iii) | the plug shall be designed and manufactured to conform to BS 546 or BS 5733 (for a plug which is manufactured to BS 5733, the construction and dimensions of plug pins and markings on the plug shall conform to BS 546);
 
@@ -72,7 +72,7 @@ Item | Prescribed product | Specific safety requirement
 
 (a) | the total maximum loading of an adaptor in amperes (A) shall be marked on the external accessible surface of the adaptor; and
 
-(b) | the word “FUSED” or “FUSE” or equivalent symbol (⏛) together with the rating and standard for the fuse-link shall be marked on the external accessible surface for fused adaptors.
+(b) | the word “FUSED” or “FUSE” or equivalent symbol ( ) together with the rating and standard for the fuse-link shall be marked on the external accessible surface for fused adaptors.
 
 (3) | Sufficient clearance shall be allowed from the periphery of an adaptor base to the line and neutral plug pins.
 
@@ -150,7 +150,7 @@ Item | Prescribed product | Specific safety requirement
 
 (6) | Each socket of the extension unit shall be designed to accommodate only one type of plug.
 
-(7) | The word “FUSED” or “FUSE” or equivalent symbol (⏛) together with the information regarding the minimum cross sectional area (referred to in paragraph (4)) of the respective flexible cords for 5A, 13A and 15A shall be marked on the external surface of the socket portion of an extension unit.
+(7) | The word “FUSED” or “FUSE” or equivalent symbol ( ) together with the information regarding the minimum cross sectional area (referred to in paragraph (4)) of the respective flexible cords for 5A, 13A and 15A shall be marked on the external surface of the socket portion of an extension unit.
 
 (8) | Safety shutters, to be automatically operated by the insertion of the earthing pin, shall be provided for all the sockets.
 
@@ -190,6 +190,6 @@ Item | Prescribed product | Specific safety requirement
 
 (A) | a non-resettable temperature relief valve, having a set temperature of 90℃ and being provided with manual test mechanism; and
 
-(B) | a pressure relief valve, having a set pressure not greater than the maximum designed pressure of the electric water heater or than 1000 kPa, and being provided with manual test mechanism; or
+(B) | a pressure relief valve, having a set pressure not greater than the maximum designed pressure of the electric water heater or than 1 000 kPa, and being provided with manual test mechanism; or
 
-(ii) | a non-resettable temperature and pressure relief valve, having a set temperature of 90℃ and a set pressure not greater than the maximum designed pressure of the water heater or than 1000 kPa, and being provided with manual test mechanism.
+(ii) | a non-resettable temperature and pressure relief valve, having a set temperature of 90℃ and a set pressure not greater than the maximum designed pressure of the water heater or than 1 000 kPa, and being provided with manual test mechanism.

@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [ss. 36, 38, 39 & 42]
 
-COMPENSATION
+Compensation
 
-- PART I
+- Part I
 
   - 1. General effect of this Part The provisions in this Part shall, where applicable, have effect for the purpose of assessing compensation under Part II and shall—
 
@@ -18,9 +18,9 @@ COMPENSATION
 
     - (1) In this Schedule—
 
-      - “disturbance” (侵擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
+      - disturbance (侵擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
 
-      - “disturbance payment” (侵擾補償金) means a sum equal to—
+      - disturbance payment (侵擾補償金) means a sum equal to—
 
         - (a) the expenditure and loss of money actually and reasonably incurred or to be reasonably incurred and arising from the dispossession of a person of land by reason of the matter for which the claimant is entitled to claim compensation under Part II; and
 
@@ -28,7 +28,7 @@ COMPENSATION
 
     - (2)
 
-      - For the purpose of the definition of “disturbance payment” (侵擾補償金), such disturbance payment shall not include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if the disturbance were a tort.
+      - For the purpose of the definition of disturbance payment (侵擾補償金), such disturbance payment shall not include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if the disturbance were a tort.
 
   - 3. Disturbance payments
 
@@ -60,11 +60,11 @@ COMPENSATION
 
   - 10. Government may undertake work Where under this Ordinance, a person is entitled to claim compensation and that compensation is to be assessed on the basis of an expense incurred, the Government may, on written notice to that person, carry out the operations in respect of which the expense would otherwise be claimable. (Amended 61 of 1999 s. 3)
 
-- PART II
+- Part II
 
 - Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Drainage Authority
 
-- 1. | The resumption of land under section 37 of this Ordinance. | As if the claim were made under the Lands Resumption Ordinance (Cap. 124) for land resumed under that Ordinance. | Any person who would be entitled to claim compensation for land resumed under the Lands Resumption Ordinance (Cap. 124) if the land had been resumed thereunder. | Before the expiration of 1 yearfrom the effective date of the resumption of the land under section 37(4) of this Ordinance.
+- 1. | The resumption of land under section 37 of this Ordinance. | As if the claim were made under the Lands Resumption Ordinance (Cap. 124) for land resumed under that Ordinance. | Any person who would be entitled to claim compensation for land resumed under the Lands Resumption Ordinance (Cap. 124) if the land had been resumed thereunder. | Before the expiration of 1 year from the effective date of the resumption of the land under section 37(4) of this Ordinance.
 
 - 2. | (a) | Physical or structural damage to any land or building resulting from the operations carried out under section 23 of this Ordinance. | The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of the completion of the operations carried out under section 23 of this Ordinance from which damage is alleged to have resulted.
 

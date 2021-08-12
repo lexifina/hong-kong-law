@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [reg. 61]
 
-CONTENTS OF FIRST AID BOXES OR CUPBOARDS
+Contents of First Aid Boxes or Cupboards
 
 - (a) A copy of the leaflet issued by the Commissioner giving advice on first-aid treatment.
 
@@ -14,14 +14,16 @@ CONTENTS OF FIRST AID BOXES OR CUPBOARDS
 
 - (e) A sufficient number of (and in any event not less than 24) waterproof adhesive wound dressings of assorted sizes.
 
-- (f) A sufficient number of (and in any event not less than 4) triangular bandages of unbleached calico, the longest side of each bandage measuring not less than 1 300 millimetres and each of the other sides of each bandage measuring not less than 900 millimetres.
+- (f) A sufficient number of (and in any event not less than 4) triangular bandages of unbleached calico, the longest side of each bandage measuring not less than 1 300 millimetres and each of the other sides of each bandage measuring not less than 900 millimetres. (L.N. 238 of 1983)
 
 - (g) A sufficient supply (and in any event not less than 1 roll) of zinc oxide adhesive plaster.*
 
-- (h) A sufficient number of (and in any event not less than 6) 30 grams packets of absorbent cotton wool.
+- (h) A sufficient number of (and in any event not less than 6) 30 grams packets of absorbent cotton wool. (L.N. 238 of 1983)
 
 - (i) A pressure bandage.
 
 - (j) A sufficient number of (and in any event not less than 6) safety pins.
 
-- (k) A sufficient supply of eye baths. * The roll or each of the rolls to be at least 4.5 metres by 25 millimetres. (L.N. 238 of 1983)
+- (k) A sufficient supply of eye baths.
+
+* The roll or each of the rolls to be at least 4.5 metres by 25 millimetres. (L.N. 238 of 1983)
