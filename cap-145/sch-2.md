@@ -52,4 +52,6 @@ Item | Substance
 
 23. | 3,4-MDP-2-P methyl glycidic acid (3,4-亞甲基二氧苯基-2-丙酮甲基縮水甘油酸) (*) (Added L.N. 91 of 2020)
 
+24. | Methyl alpha-phenylacetoacetate (α-苯乙酰乙酸甲酯) (*) (Added L.N. 91 of 2021)
+
 (*) | Including the salts of these substances whenever the existence of such salts is possible.
