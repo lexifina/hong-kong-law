@@ -836,25 +836,67 @@ Transitional and Saving Provisions
 
   - 114. Register of directors On and after the commencement date# of section 641, a register of directors and secretaries kept by a company under section 158(1) of the predecessor Ordinance, in so far as it relates to the company’s directors or reserve directors, is to be regarded as a register of directors kept under and for the purposes of section 641.
 
-  - 115. Particulars to be registered in register of directors
+  - 115. (Repealed L.N. 101 of 2021)
 
-  - (Not yet in operation)
+  - 115A. Correspondence address in company’s register of directors etc.
 
-    - (1) An existing company need not comply with any provision of this Ordinance requiring the company’s register of directors to contain particulars additional to those required by the predecessor Ordinance until—
+    - (1) This section applies in relation to the following company—
 
-      - (a) the date to which the company makes up its first annual return made up to a date on or after the commencement date of section 643; or
+      - (a) an existing company; or
 
-      - (b) if the company fails to do so, the last date to which the company should have made up that return.
+      - (b) a company formed and registered under this Ordinance before the specified date.
 
-    - (2) Unless the existing company is a company formed and registered under a provision of the predecessor Ordinance having a continuing effect under this Schedule or by virtue of section 23 of the Interpretation and General Clauses Ordinance (Cap. 1), subsection (1) does not apply in relation to a director or reserve director of whom particulars are first registered on or after the commencement date of section 643 (whether the director or reserve director was appointed before, on or after that date).
+    - (2) The register of directors (register) of the company need not contain a specified director’s correspondence address for compliance with section 643(1)(a)(ii), (2)(b) or (3)(b) before the company’s specified annual return date.
 
-    - (3) Subsection (1) ceases to apply in relation to a director or reserve director whose registered particulars fall to be altered on or after the commencement date of section 643 (whether the change occurred before, on or after that date).
+    - (3) Despite subsection (2), the company’s register must contain a specified director’s correspondence address before the company’s specified annual return date if—
 
-    - (4) Subsections (1), (2) and (3) do not affect the particulars required to be included in the company’s annual return.
+      - (a) the particulars of the specified director are first entered in the register on or after the specified date; or
 
-    - (5) In the case of a director or reserve director of an existing company who is a natural person, the address of the company’s registered office is to be regarded, on and after the commencement date of section 643, as the correspondence address of the director or reserve director.
+      - (b) any change is made to the particulars of the specified director contained in the register on or after the specified date.
 
-    - (6) The operation of subsection (5) does not give rise to any duty to deliver a notice to the Registrar under section 645.
+    - (4) For the purposes of subsection (3)(a), the company’s register must contain the specified director’s correspondence address beginning on the date on which the particulars are first entered in the register.
+
+    - (5) For the purposes of subsection (3)(b), the company’s register must contain the specified director’s correspondence address beginning on the date on which the change is made.
+
+    - (6) The address of the company’s registered office is, for all purposes relating to the company’s register, to be regarded as the correspondence address of a specified director of the company until whichever is the earlier of the following—
+
+      - (a) the date on which the company enters the specified director’s correspondence address in the register;
+
+      - (b) the company’s specified annual return date.
+
+    - (7) The company need not, for compliance with section 645(4), deliver to the Registrar a notice—
+
+      - (a) for entering in the company’s register a specified director’s correspondence address before the specified date;
+
+      - (b) for making any change to a specified director’s correspondence address contained in the company’s register before the specified date; or
+
+      - (c) because the address of the company’s registered office is regarded as a specified director’s correspondence address under subsection (6).
+
+    - (8) Despite subsection (7), if, immediately before the specified date—
+
+      - (a) a specified director’s correspondence address was contained in the company’s register; and
+
+      - (b) the address was not the address of the company’s registered office,
+
+    - the company must, for compliance with section 645(4), deliver to the Registrar a notice in relation to the specified director’s correspondence address as if there were, on that date, a change in the specified director’s correspondence address contained in the register to the address mentioned in paragraph (a).
+
+    - (9) An annual return of the company under section 662(1) or (3) made up to a date before the specified date need not contain a correspondence address of a person who at the date of the return is a specified director of the company.
+
+    - (10) In this section—
+
+      - annual return date (周年申報表日期), in relation to a company, means the return date of the company determined in accordance with section 662(2) or (4);
+
+      - specified annual return date (指明周年申報表日期), in relation to a company, means—
+
+        - (a) if the specified date falls on an annual return date of the company—the specified date; or
+
+        - (b) if not—the first annual return date of the company after the specified date;
+
+      - specified date (指明日期) means the date on which section 54(2) comes into operation;
+
+      - specified director (指明董事) means a director or reserve director who is a natural person.
+
+  - (Added L.N. 101 of 2021)
 
   - 116. Supplementary provisions relating to particulars to be registered
 
