@@ -1,12 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 4, 5, 6, 9, 13 & 14]
 
-LICENSING AND EXEMPTION FORMS
+Licensing and Exemption Forms
 
-FORM 1 | [ss. 7(2), 11, 13 & 34]
+Form 1 | [ss. 7(2), 11, 13 & 34]
 
-MONEY LENDERS ORDINANCE
+Money Lenders Ordinance
 
 (Chapter 163) MONEY LENDERS LICENCE
 
@@ -36,9 +36,11 @@ Presiding Member, Licensing Court.
 
 ENDORSEMENTS
 
-FORM 2 | [ss. 8(1) & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 2 | [ss. 8(1) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) APPLICATION BY AN INDIVIDUAL FOR A LICENCE
 
@@ -166,7 +168,7 @@ Residential address of partner (Post Office Box numbers are not acceptable)
 
 Hong Kong identity card number of partner
 
-8. | (a) | Have you, during the 5 years preceding this application, been a director of any company, (other than a company named in question 6)? (answer “yes” or “no”)
+8. | (a) | Have you, during the 5 years preceding this application, been a director of any company (other than a company named in question 6)? (answer “yes” or “no”)
 
 (b) | If so, give the following details—
 
@@ -246,7 +248,7 @@ PLEASE NOTE
 
 (b) | not to spend money on the establishment of premises before a licence is granted.
 
-2. | A statement in support of this application (Form 4) must also be completed (section 8(1) of the Ordinance)
+2. | A statement in support of this application (Form 4) must also be completed (section 8(1) of the Ordinance).
 
 3. | The fee payable upon submitting this application is $6,500.
 
@@ -282,13 +284,15 @@ should be posted or delivered to the Commissioner of Police at the same time as 
 
 (c) | incorporated or established outside Hong Kong.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
 
-(28 of 2012 ss. 912 & 920)
+(28 of 2012 ss. 912 & 920; E.R. 4 of 2021)
 
-FORM 3 | [ss. 8(1) & (2) & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 3 | [ss. 8(1) & (2) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) APPLICATION BY A COMPANY FOR A LICENCE
 
@@ -382,7 +386,7 @@ Hong Kong identity card number
 
 6. | (a) | Will any persons, other than the directors named in question 2 above, have any power to exercise control over, or in relation to, the business of the company as a money lender? (answer “yes” or “no”)
 
-If so, give the following details of those persons—
+(b) | If so, give the following details of those persons—
 
 1 | 2 | 3 | 4
 
@@ -474,13 +478,15 @@ should be posted or delivered to the Commissioner of Police at the same time as 
 
 (c) | incorporated or established outside Hong Kong.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
 
-(30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
+(30 of 2004 s. 3; 28 of 2012 ss. 912 & 920; E.R. 4 of 2021)
 
-FORM 4 | [ss. 8(1) & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 4 | [ss. 8(1) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) STATEMENT IN SUPPORT OF AN APPLICATION BY AN
 
@@ -544,11 +550,15 @@ PLEASE NOTE
 
 3. | One copy of this statement should accompany the copy of your application posted or delivered to the Commissioner of Police.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
 
-FORM 5 | [ss. 8(1) & 34]
+(E.R. 4 of 2021)
 
-MONEY LENDERS ORDINANCE
+_
+
+Form 5 | [ss. 8(1) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) STATEMENT IN SUPPORT OF AN APPLICATION BY
 
@@ -610,7 +620,7 @@ PLEASE NOTE
 
 3. | One copy of this statement should accompany the copy of the application posted or delivered to the Commissioner of Police.
 
-4. | You are advised that, in accordance with the definition of “company” in section 2(1) of the Money Lenders Ordinance, references in this statement to “Company” (公司) mean a body corporate—
+4. | You are advised that, in accordance with the definition of “company” in section 2(1) of the Money Lenders Ordinance, references in this statement to “company” (公司) mean a body corporate—
 
 (a) | incorporated under the Companies Ordinance (Cap. 622);
 
@@ -620,13 +630,15 @@ PLEASE NOTE
 
 (c) | incorporated or established outside Hong Kong.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
 
-(28 of 2012 ss. 912 & 920)
+(28 of 2012 ss. 912 & 920; E.R. 4 of 2021)
 
-FORM 6 | [ss. 13(3) & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 6 | [ss. 13(3) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) APPLICATION BY AN INDIVIDUAL FOR RENEWAL OF
 
@@ -702,11 +714,15 @@ should be posted or delivered to the Commissioner of Police at the same time as 
 
 5. | A further fee of $1,000 will be payable to the licensing court on renewal of the licence.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for the renewal of a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for the renewal of a licence.
 
-FORM 7 | [ss. 13(3) & 34]
+(E.R. 4 of 2021)
 
-MONEY LENDERS ORDINANCE
+_
+
+Form 7 | [ss. 13(3) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) APPLICATION BY A COMPANY FOR RENEWAL
 
@@ -798,13 +814,15 @@ should be posted or delivered to the Commissioner of Police at the same time as 
 
 (c) | incorporated or established outside Hong Kong.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for the renewal of a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for the renewal of a licence.
 
-(28 of 2012 ss. 912 & 920)
+(28 of 2012 ss. 912 & 920; E.R. 4 of 2021)
 
-FORM 8 | [ss. 13(4) & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 8 | [ss. 13(4) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) STATEMENT IN SUPPORT OF AN APPLICATION BY
 
@@ -858,11 +876,15 @@ PLEASE NOTE
 
 2. | One copy of this statement should accompany your copy of your application for renewal posted or delivered to the Commissioner of Police.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for renewal of a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for renewal of a licence.
 
-FORM 9 | [ss. 13(4) & 34]
+(E.R. 4 of 2021)
 
-MONEY LENDERS ORDINANCE
+_
+
+Form 9 | [ss. 13(4) & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) STATEMENT IN SUPPORT OF AN APPLICATION BY
 
@@ -924,13 +946,15 @@ PLEASE NOTE
 
 (c) | incorporated or established outside Hong Kong.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for renewal of a licence.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for renewal of a licence.
 
-(28 of 2012 ss. 912 & 920)
+(28 of 2012 ss. 912 & 920; E.R. 4 of 2021)
 
-FORM 10 | [ss. 33B & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 10 | [ss. 33B & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163)
 
@@ -956,9 +980,11 @@ Signed
 
 Registrar.
 
-FORM 11 | [ss. 33B & 34]
+_
 
-MONEY LENDERS ORDINANCE
+Form 11 | [ss. 33B & 34]
+
+Money Lenders Ordinance
 
 (Chapter 163) APPLICATION BY A PERSON TO BE EXEMPTED
 
@@ -1032,6 +1058,6 @@ PLEASE NOTE
 
 (c) | incorporated or established outside Hong Kong.
 
-WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for an exemption.
+WARNING— | Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine at level 6 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for an exemption.
 
-(28 of 2012 ss. 912 & 920)
+(L.N. 522 of 1995; 28 of 2012 ss. 912 & 920; E.R. 4 of 2021)
