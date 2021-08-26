@@ -1,4 +1,4 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [reg. 7]
 

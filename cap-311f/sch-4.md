@@ -1,4 +1,4 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [regs. 14 & 16]
 

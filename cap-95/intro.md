@@ -3,3 +3,5 @@ To make better provision as to the constitution, duties and powers of the Fire S
 (Amended 42 of 1961 s. 2; 1 of 1964 s. 2; 45 of 1971 s. 2; 7 of 2003 s. 2)
 
 [13 August 1954]
+
+(Format changes—E.R. 4 of 2021)

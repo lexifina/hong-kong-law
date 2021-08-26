@@ -1,8 +1,8 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
 [ss. 3(2) & 26]
 
-POSTS SPECIFIED FOR THE PURPOSES OF SECTION 3(2)
+Posts Specified for the purposes of Section 3(2)
 
 Senior Engineer
 

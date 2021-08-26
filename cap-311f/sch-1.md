@@ -1,4 +1,4 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [reg. 3]
 

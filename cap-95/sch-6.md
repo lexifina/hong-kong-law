@@ -1,10 +1,10 @@
-# SIXTH SCHEDULE
+# Sixth Schedule
 
 [ss. 2 & 26]
 
-RANKS IN THE FIRE SERVICES DEPARTMENT
+Ranks in the Fire Services Department
 
-PART I-SENIOR OFFICERS
+Part I—Senior Officers
 
 Director of Fire Services
 
@@ -24,36 +24,36 @@ Assistant Chief Ambulance Officer
 
 Senior Divisional Officer
 
-- Divisional Officer
+Divisional Officer
 
-- Superintendent (Ambulance)
+Superintendent (Ambulance)
 
-- (Part I replaced 55 of 1981 s. 6)
+(Part I replaced 55 of 1981 s. 6)
 
-- PART II-SUBORDINATE OFFICERS
+Part II—Subordinate Officers
 
-- Assistant Divisional Officer
+Assistant Divisional Officer
 
-- Senior Ambulance Officer
+Senior Ambulance Officer
 
-- Senior Station Officer (Added 55 of 1981 s. 6)
+Senior Station Officer (Added 55 of 1981 s. 6)
 
-- Station Officer
+Station Officer
 
-- Ambulance Officer
+Ambulance Officer
 
-- PART III-MEMBERS OF OTHER RANKS
+Part III—Members of other Ranks
 
-- Principal Fireman
+Principal Fireman
 
-- Principal Ambulanceman
+Principal Ambulanceman
 
-- Senior Fireman
+Senior Fireman
 
-- Senior Ambulanceman
+Senior Ambulanceman
 
-- Fireman
+Fireman
 
-- Ambulanceman
+Ambulanceman
 
-- (Sixth Schedule added 29 of 1975 s. 26)
+(Sixth Schedule added 29 of 1975 s. 26)

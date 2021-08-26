@@ -1,10 +1,8 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [s. 14B]
 
-RIGHTS OF APPEAL AND RELATED PROVISIONS
-
-(Adaptation amendments retroactively made - see 76 of 1999 s. 3)
+Rights of Appeal and Related Provisions
 
 - 1. A subordinate officer or member of other ranks (including one who has been dismissed) may appeal, in accordance with the following rules, against—
 

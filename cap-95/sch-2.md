@@ -1,10 +1,8 @@
-# SECOND SCHEDULE
-
-(Adaptation amendments retroactively made - see 76 of 1999 s. 3)
+# Second Schedule
 
 [s. 14]
 
-- PART I RULES OF PROCEDURE FOR THE INVESTIGATION INTO OFFENCES AGAINST DISCIPLINE BY SUBORDINATE OFFICERS AND MEMBERS OF OTHER RANKS
+- Part I Rules of Procedure for the Investigation into Offences against Discipline by Subordinate Officers and Members of other Ranks
 
   - 1. Every charge shall be entered on a charge sheet.
 
@@ -68,9 +66,11 @@
 
   - but any case referred to the Director by another member pursuant to rule 8(b) (as modified by this rule) may be referred to the Chief Executive by the Director in accordance with rules 9 and 10. (Added 29 of 1975 s. 22. Amended 76 of 1999 s. 3)
 
-  - PART II | [section 14A]
+- Part II
 
-  - RULES FOR AWARDING PUNISHMENT WHERE A CRIMINAL OFFENCE HAS BEEN COMMITTED BY A SUBORDINATE OFFICER OR A MEMBER OF OTHER RANKS
+- [s. 14A]
+
+- Rules for Awarding Punishment where a Criminal Offence has been Committed by a Subordinate Officer or a Member of other Ranks
 
   - 1. In the case of a subordinate officer, the Director shall as soon as practicable—
 

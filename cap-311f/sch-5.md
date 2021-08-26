@@ -1,4 +1,4 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [regs. 15 & 16]
 

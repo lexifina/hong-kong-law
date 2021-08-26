@@ -1,12 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 11]
 
-FORM OF SUMMARY OF PROVISIONS OF THE ORDINANCE TO BE INCLUDED IN OR ATTACHED TO A NOTE OR MEMORANDUM OF A LOAN AGREEMENT
+Form of Summary of Provisions of the Ordinance to be Included in or Attached to a Note or Memorandum of a Loan Agreement
 
 [ss. 18(1) & 34]
 
-THE MONEY LENDERS ORDINANCE
+The Money Lenders Ordinance
 
 The provisions of the Money Lenders Ordinance summarized below are important for the protection of all the parties to a loan agreement, and should be read carefully. The summary is not part of the law, and reference should be made to the provisions of the Ordinance itself in case of doubt.
 

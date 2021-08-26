@@ -1,10 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 3]
 
-PART A—TABLE OF FEES PAYABLE TO THE REGISTRAR
+Part A—Table of Fees Payable to the Registrar
 
-Item | Reference to Ordinance | Matter in respect of which fee is payable | Fee $
+Item | Reference to Ordinance | Matter in respect of which fee is payable | Fee
+
+$
 
 1. | Sec. 6(1) | For inspecting the register or any part thereof | 17
 
@@ -30,9 +32,11 @@ Item | Reference to Ordinance | Matter in respect of which fee is payable | Fee 
 
 7. | Sec. 33B (1)(b) | Upon making an application for an exemption or a renewal of an exemption | 770
 
-(L.N. 168 of 1989; L.N. 232 of 1993; L.N. 370 of 1994) PART B—TABLE OF FEES PAYABLE TO THE LICENSING COURT
+(L.N. 168 of 1989; L.N. 232 of 1993; L.N. 370 of 1994) Part B—Table of Fees Payable to the Licensing Court
 
-Item | Reference to Ordinance | Matter in respect of which fee is payable | Fee $
+Item | Reference to Ordinance | Matter in respect of which fee is payable | Fee
+
+$
 
 1. | Sec. 11(7) | For issue of a licence | 1,910
 
@@ -40,7 +44,7 @@ Item | Reference to Ordinance | Matter in respect of which fee is payable | Fee 
 
 3. | Sec. 15(8) | For endorsement on a licence of—
 
-(a) | widow, widower or family member, etc | 95
+(a) | widow, widower or family member, etc. | 95
 
 (b) | additional premises | 95
 

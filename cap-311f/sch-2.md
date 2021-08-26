@@ -1,4 +1,4 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [regs. 4, 11, 12, 13 & 16]
 
@@ -76,7 +76,7 @@ Average | Maximum
 
 Emission Point No. | Type of Fuel Using Equipment | Rated Capacity (MJ/h) | Fuel to be Used | Fuel Consumption Rate (kg/h)
 
-Type | Ash Content(%) | Sulphur Content(%) | Other Specifications | Maximum | Normal
+Type | Ash Content (%) | Sulphur Content (%) | Other Specifications | Maximum | Normal
 
 8. Raw Materials and Products
 
@@ -94,9 +94,11 @@ Please provide (1) A block plan, drawn to a scale of 1:500 and prepared by an au
 
 (1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance within such time and in such form as is specified in the same notice.
 
-(2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance. (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself. (4) The Authority may, not earlier than 40 days after the last notice is published in the newspaper, either grant or refuse to grant the licence. (5) The prescribed fee for application is NOT refundable. (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
+(2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance. (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself. (4) The Authority may, not earlier than 40 days after the last notice is published in the newspaper, either grant or refuse to grant the licence. (5) The prescribed fee for application is NOT refundable. (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine at level 5.
 
-(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997; E.R. 4 of 2021)
+
+_
 
 Form 2 | [reg. 4]
 
@@ -142,11 +144,13 @@ Existing Licence No. | Expiry Date | Classification of Specified Process under A
 
 5. Notes
 
-Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
+Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine at level 5.
 
 * Delete if not applicable.
 
-(L.N. 311 of 1993; L.N. 212 of 1996)
+(L.N. 311 of 1993; L.N. 212 of 1996; E.R. 4 of 2021)
+
+_
 
 Form 3 | [reg. 4]
 
@@ -262,11 +266,13 @@ Please provide, wherever applicable, (1) A block plan, drawn to a scale of 1:500
 
 7. Notes
 
-Please provide, wherever applicable, (1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance within such time and in such form as is specified in the same notice.
+(1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance within such time and in such form as is specified in the same notice. (2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance.
 
-(2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance. (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself. (4) The Authority may grant the application, with or without modification, or refuse to grant it but shall not do so earlier than 30 or 40 days, respectively for variation or cancellation of any term or condition of exemption and variation of a licence, after the last notice is published in a newspaper. (5) The prescribed fee for application is NOT refundable. (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
+(3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself. (4) The Authority may grant the application, with or without modification, or refuse to grant it but shall not do so earlier than 30 or 40 days, respectively for variation or cancellation of any term or condition of exemption and variation of a licence, after the last notice is published in a newspaper. (5) The prescribed fee for application is NOT refundable. (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine at level 5.
 
-(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997; E.R. 4 of 2021)
+
+_
 
 Form 4 | [reg. 4]
 
@@ -318,11 +324,13 @@ Existing Licence No. | Expiry Date | Classification of Specified Process under A
 
 5. Notes
 
-(1) The prescribed fee for application is NOT refundable. (2) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
+(1) The prescribed fee for application is NOT refundable. (2) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine at level 5.
 
 * Delete if not applicable.
 
-(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997; E.R. 4 of 2021)
+
+_
 
 Form 5 | [reg. 11]
 
@@ -360,7 +368,7 @@ Dated this . day of . 19 .
 
 Copy to the Secretary for the Environment * Delete if not applicable.
 
-(L.N. 244 of 1989; L.N 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002; L.N. 130 of 2007)
+(L.N. 244 of 1989; L.N. 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002; L.N. 130 of 2007)
 
 _
 
@@ -394,7 +402,7 @@ NOTE: | (a) | This licence consists of three parts, respectively Part A (Main Li
 
 (c) | Application for renewal of licence must be made not earlier than 120 days before and not later than 60 days after the date of expiry of this licence.
 
-(d) | A licence holder who contravenes any term or condition of this licence and who is convicted of an offence under section 30A of the Ordinance is liable to a fine of $100,000 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
+(d) | A licence holder who contravenes any term or condition of this licence and who is convicted of an offence under section 30A of the Ordinance is liable to a fine at level 6 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
 
 * Delete if not applicable.
 
@@ -430,9 +438,7 @@ The Authority grants this licence to the licence holder to use or permit to be u
 
 (Hereunder insert the terms and conditions to be imposed to this licence—sections 15(4) and 16(5) of the Air Pollution Control Ordinance)
 
-* Delete if not applicable.
-
-(L.N. 311 of 1993; L.N. 212 of 1996)
+* Delete if not applicable. (L.N. 311 of 1993; L.N. 212 of 1996; E.R. 4 of 2021)
 
 _
 
@@ -464,9 +470,9 @@ NOTE: | (a) | This exemption consists of three parts, respectively Part A (Main 
 
 (c) | Under section 21 of the Ordinance this exemption shall cease if any changes are made to the premises used for the conduct of a specified process. The exemption holder shall then apply for a licence in accordance with section 14 of the Ordinance.
 
-(d) | The owner of any premises who is convicted of an offence under section 19(3) of the Ordinance is liable to a fine of $50,000 and on conviction this exemption shall cease under section 20A of the Ordinance.
+(d) | The owner of any premises who is convicted of an offence under section 19(3) of the Ordinance is liable to a fine at level 5 and on conviction this exemption shall cease under section 20A of the Ordinance.
 
-(e) | The exemption holder who contravenes any term or condition of this exemption and who is convicted of an offence under section 30A of the Ordinance is liable to a fine of $100,000 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
+(e) | The exemption holder who contravenes any term or condition of this exemption and who is convicted of an offence under section 30A of the Ordinance is liable to a fine at level 6 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
 
 PART B (Process Description):
 
@@ -502,4 +508,4 @@ The Authority has imposed by notice in writing to the exemption holder on the . 
 
 * Delete if not applicable.
 
-(L.N. 311 of 1993; L.N. 212 of 1996)
+(L.N. 311 of 1993; L.N. 212 of 1996; E.R. 4 of 2021)
