@@ -178,4 +178,26 @@ section 120(1), (2), (3) and (4) | offences relating to making infringing copies
 
 section 5 | prohibition against using, developing or producing, acquiring, stockpiling, retaining, participating in the transfer of, engaging in military preparations, or in preparations of a military nature, intending to use, chemical weapons, or assisting, encouraging or inducing anyone to engage in any activity prohibited by the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, signed at Paris on 13 January 1993 (Added 26 of 2003 s. 44)
 
+20. | Protection of Endangered Species of Animals and Plants Ordinance (Cap. 586)
+
+section 5 | illegal import of a specimen of an Appendix I species
+
+section 6 | illegal introduction from the sea of a specimen of an Appendix I species
+
+section 7 | illegal export of a specimen of an Appendix I species
+
+section 8 | illegal re-export of a specimen of an Appendix I species
+
+section 9 | illegal possession or control of a specimen of an Appendix I species
+
+section 11 | illegal import of a specimen of an Appendix II or III species
+
+section 12 | illegal introduction from the sea of a specimen of an Appendix II species
+
+section 13 | illegal export of a specimen of an Appendix II or III species
+
+section 14 | illegal re-export of a specimen of an Appendix II or III species
+
+section 15 | illegal possession or control of a specimen of an Appendix II species (Added 23 of 2021 s. 3)
+
 - # Note: | The short description of offences in this Schedule is for ease of reference only.
