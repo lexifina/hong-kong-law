@@ -1,6 +1,6 @@
 # Schedule 2
 
-[ss. 2, 5 & 72 & Sch. 1] (L.N. 60 of 2020)
+[ss. 2, 5 & 72 & Schs. 1 & 3] (L.N. 60 of 2020; L.N. 93 of 2021)
 
 Designated Exempted Works
 
