@@ -10,6 +10,14 @@ In this Schedule—
 
 - direction (指示) means instruction given by a person to perform a certain act (which may include instruction on how the act is to be performed) without it being necessary for the person to be present on the premises on which the act is performed;
 
+- recognized veterinary course (認可獸醫課程) means a full-time course in veterinary surgery provided by—
+
+  - (a) the City University of Hong Kong; or
+
+  - (b) a university, college or school that awards a qualification recognized by the Board for the purpose of registration as a registered veterinary surgeon; (Added L.N. 92 of 2021)
+
+- specified veterinary student (指明獸醫學生) means a person who is undergoing a recognized veterinary course with a view to becoming a veterinary surgeon; (Added L.N. 92 of 2021)
+
 - supervision (監督) means specific instruction given by a person on how a certain act is to be performed, with the person being present on the premises on which the act is performed to provide assistance when appropriate.
 
 (Added L.N. 40 of 2012)
@@ -20,7 +28,7 @@ In this Schedule—
 
 - 3. A person who treats an animal by physiotherapy provided the treatment is carried out under the direction of a registered veterinary surgeon.
 
-- 3A. A person who performs any of the following on an animal under the direction, and on the premises of the practice, of a registered veterinary surgeon—
+- 3A. A person (other than a specified veterinary student) who performs any of the following on an animal under the direction, and on the premises of the practice, of a registered veterinary surgeon— (Amended L.N. 92 of 2021)
 
   - (a) applying medication or treatment (other than anaesthetic drugs) topically or administering medication or treatment (other than anaesthetic drugs) orally, per-rectally or by inhalation;
 
@@ -36,7 +44,7 @@ In this Schedule—
 
 - (Added L.N. 40 of 2012)
 
-- 3B. A person who performs any of the following on an animal under the supervision, and on the premises of the practice, of a registered veterinary surgeon—
+- 3B. A person (other than a specified veterinary student) who performs any of the following on an animal under the supervision, and on the premises of the practice, of a registered veterinary surgeon— (Amended L.N. 92 of 2021)
 
   - (a) blood sampling from peripheral veins;
 
@@ -50,7 +58,7 @@ In this Schedule—
 
 - (Added L.N. 40 of 2012)
 
-- 3C. A person who performs any of the following on an animal under the direct and continuous supervision, and on the premises of the practice, of a registered veterinary surgeon—
+- 3C. A person (other than a specified veterinary student) who performs any of the following on an animal under the direct and continuous supervision, and on the premises of the practice, of a registered veterinary surgeon— (Amended L.N. 92 of 2021)
 
   - (a) teeth scaling or polishing, but not associated processes or other dental procedures;
 
@@ -67,6 +75,16 @@ In this Schedule—
 - but it must not include diagnosing, prescribing medication or performing a surgical operation.
 
 - (Added L.N. 40 of 2012)
+
+- 3D. A specified veterinary student of a recognized veterinary course who performs an act of veterinary surgery or provides veterinary service as part of the clinical training required by the course—
+
+  - (a) for an act described in section 3A(a), (b), (c), (d) or (e) of this Schedule (but not including diagnosing, prescribing medication or performing a surgical operation) that is performed on an animal—under the direction of a registered veterinary surgeon;
+
+  - (b) for an act described in section 3B(a), (b), (c) or (d) of this Schedule (but not including diagnosing, prescribing medication or performing a surgical operation) that is performed on an animal—under the supervision of a registered veterinary surgeon; or
+
+  - (c) for any other act of veterinary surgery or veterinary service—under the direct and continuous supervision of a registered veterinary surgeon.
+
+- (Added L.N. 92 of 2021)
 
 - 4. An owner of an animal (or the owner’s employee or a member of the owner’s household) when performing any of the following on the animal for remedy or prevention of injury or illness—
 
