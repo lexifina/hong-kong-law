@@ -20,7 +20,7 @@ Education Institutions
 
 - 8. The Hong Kong University of Science and Technology established by The Hong Kong University of Science and Technology Ordinance (Cap. 1141).
 
-- 9. The Open University of Hong Kong established by The Open University of Hong Kong Ordinance (Cap. 1145).
+- 9. Hong Kong Metropolitan University established by the Hong Kong Metropolitan University Ordinance (Cap. 1145). (Amended 22 of 2021 s. 2)
 
 - 10. Lingnan University established by the Lingnan University Ordinance (Cap. 1165).
 

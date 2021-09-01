@@ -28,7 +28,7 @@ Educational establishment | Responsible body
 
 10. | The Hong Kong University of Science and Technology established by The Hong Kong University of Science and Technology Ordinance (Cap. 1141) | The Court, the Council, the Senate or the Convocation, within the meaning of section 2 of The Hong Kong University of Science and Technology Ordinance (Cap. 1141), according to which of them has the function concerned
 
-11. | The Open University of Hong Kong established by The Open University of Hong Kong Ordinance (Cap. 1145) | The Council, the Court or the Senate, within the meaning of section 2 of The Open University of Hong Kong Ordinance (Cap. 1145), according to which of them has the function concerned
+11. | The Hong Kong Metropolitan University established by the Hong Kong Metropolitan University Ordinance (Cap. 1145) | The Council, the Court or the Senate, within the meaning of section 2 of the Hong Kong Metropolitan University Ordinance (Cap. 1145), according to which of them has the function concerned (Replaced 22 of 2021 s. 2)
 
 12. | Lingnan University established by the Lingnan University Ordinance (Cap. 1165) | The Council, the Court or the Senate, within the meaning of section 2 of the Lingnan University Ordinance (Cap. 1165), according to which of them has the function concerned (Replaced 54 of 1999 s. 35)
 

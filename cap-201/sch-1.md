@@ -110,7 +110,7 @@ Public Bodies
 
 52. | Securities and Futures Commission. (Added 10 of 1989 Schedule 2)
 
-53. | The Open University of Hong Kong. (Replaced 50 of 1997 s. 29)
+53. | Hong Kong Metropolitan University. (Replaced 50 of 1997 s. 29. Amended 22 of 2021 s. 2)
 
 54. | (Repealed 11 of 2004 s. 17)
 

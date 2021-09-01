@@ -52,7 +52,7 @@
 
     - (ix) The Hong Kong University of Science and Technology established by The Hong Kong University of Science and Technology Ordinance (Cap. 1141);
 
-    - (x) The Open University of Hong Kong established by The Open University of Hong Kong Ordinance (Cap. 1145);
+    - (x) the Hong Kong Metropolitan University established by the Hong Kong Metropolitan University Ordinance (Cap. 1145); (22 of 2021 s. 2)
 
     - (xi) any Post Secondary College registered under the Post Secondary Colleges Ordinance (Cap. 320). (1 of 2004 s. 18)
 
@@ -156,7 +156,7 @@
 
   - (3) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2) or (2A). (3 of 2003 s. 14)
 
-  - For the purposes of this Part, approved (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
+- For the purposes of this Part, approved (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
 
 - (L.N. 268 of 1990; L.N. 23 of 2012) (E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)
 

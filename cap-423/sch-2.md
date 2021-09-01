@@ -154,7 +154,7 @@ Item | Body
 
 76. | School of Continuing and Professional Education, City University of Hong Kong (Added L.N. 71 of 2008)
 
-77. | Li Ka Shing Institute of Professional and Continuing Education, The Open University of Hong Kong (Added L.N. 71 of 2008)
+77. | Li Ka Shing School of Professional and Continuing Education, Hong Kong Metropolitan University (Added L.N. 71 of 2008. Amended 22 of 2021 s. 2)
 
 78. | School of Continuing and Professional Studies, The Chinese University of Hong Kong (Added L.N. 71 of 2008)
 

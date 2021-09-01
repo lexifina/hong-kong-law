@@ -32,4 +32,4 @@ Educational Establishments
 
 - 14. The Hong Kong University of Science and Technology established by The Hong Kong University of Science and Technology Ordinance (Cap. 1141).
 
-- 15. The Open University of Hong Kong established by The Open University of Hong Kong Ordinance (Cap. 1145). (Replaced 15 of 2007 s. 73)
+- 15. Hong Kong Metropolitan University established by the Hong Kong Metropolitan University Ordinance (Cap. 1145). (Replaced 15 of 2007 s. 73; Amended 22 of 2021 s. 2)

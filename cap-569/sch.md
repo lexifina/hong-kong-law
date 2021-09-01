@@ -130,7 +130,7 @@ Election Committee
 
 - Part 2 Membership of Election Committee
 
-  - 2. How Election Committee is to be constituted
+  - 2. How Election Committee is to be constituted*
 
   - (See Special Remarks)
 
@@ -295,6 +295,10 @@ Election Committee
   - 2. | Representatives of Hong Kong members of relevant national organisations | 0 | 0 | 110
 
   - (Replaced 14 of 2021 s. 407)
+
+  - Editorial Note:
+
+  - * See also the amendment made by 22 of 2021 (Schedule, Part 12, s. 12) to Table 5 (in so far as it is not repealed).
 
   - 2A. (Omitted as expired—E.R. 1 of 2013)
 
@@ -470,7 +474,7 @@ Election Committee
 
       - (h) the President of Lingnan University;
 
-      - (i) the President of The Open University of Hong Kong;
+      - (i) the President of the Hong Kong Metropolitan University; (Amended 22 of 2021 s. 2)
 
       - (j) the President of the Hong Kong Shue Yan University;
 
@@ -2040,7 +2044,7 @@ Election Committee
 
         - (b) post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320);
 
-        - (c) The Open University of Hong Kong;
+        - (c) the Hong Kong Metropolitan University; (Amended 22 of 2021 s. 2)
 
         - (d) The Hong Kong Academy for Performing Arts;
 
