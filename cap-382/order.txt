@@ -20,9 +20,12 @@ s-017.md
 s-018.md
 s-019.md
 s-020.md
+s-020A.md
+s-020B.md
 s-021.md
 s-022.md
 s-023.md
 s-024.md
 s-025.md
 s-026.md
+s-027.md
