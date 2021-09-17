@@ -1,6 +1,6 @@
 Import and Export (Strategic Commodities) Regulations
 
-(Cap. 60, section 31)
+(Cap. 60, sections 6B and 31)
 
 [24 December 1965]
 
