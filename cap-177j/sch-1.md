@@ -43,3 +43,5 @@ Replacement Centres and Registration of Persons Offices
 - 4. | Fo Tan Office | Shops 405–407, 4/F, Jubilee Square, 2–18 Lok King Street, Fo Tan
 
 - 5. | Yuen Long Office | 1/F, Yuen Long Government Offices, 2 Kiu Lok Square, Yuen Long
+
+- 6. | Tuen Mun Office | 3/F, Tuen Mun Siu Lun Government Complex, 19 Siu Lun Street, Tuen Mun (L.N. 120 of 2021)

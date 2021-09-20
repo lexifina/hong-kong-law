@@ -24,7 +24,15 @@ Column 1 Year of birth | Column 2 Specified period
 
 1973, 1974, 1975 or 1976 | From 22 February 2021 to 9 July 2021 (L.N. 16 of 2021)
 
+1977, 1978 or 1979 | From 20 September 2021 to 18 November 2021 (L.N. 120 of 2021)
+
+1980, 1981 or 1982 | From 19 November 2021 to 18 January 2022 (L.N. 120 of 2021)
+
+1983 or 1984 | From 19 January 2022 to 2 April 2022 (L.N. 120 of 2021)
+
 1985 or 1986 | From 21 January 2019 to 30 March 2019
+
+1987 or 1988 | From 19 January 2022 to 2 April 2022 (L.N. 120 of 2021)
 
 2005, 2006, 2007, 2012, 2013, 2014, 2015, 2016, 2017 or 2018 | From 3 May 2021 to 18 September 2021 (L.N. 16 of 2021)
 
