@@ -16,7 +16,7 @@ Holding capacity*
 
 * Holding capacity is calculated by reference to the following stocking density of each type of animal, i.e. 0.0747m² per chicken; 0.093m² per layer; 0.075m² per pigeon; 0.0093m² per quail; 2.52m² per pig; 0.023m² per duck/goose. (L.N. 104 of 2019)
 
-1A. | Renewal of a licence under section 4 within the period from 1 October 2020 to 30 September 2021 (both dates inclusive)— (L.N. 175 of 2020)
+1A. | Renewal of a licence under section 4 within the period from 1 October 2021 to 30 September 2022 (both dates inclusive)— (L.N. 175 of 2020; L.N. 184 of 2021)
 
 Holding capacity*
 
