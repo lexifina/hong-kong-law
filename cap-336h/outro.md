@@ -290,6 +290,8 @@ Acknowledgment of Service of Writ of Summons (Order 12 rule 3) Directions for Ac
 
 1. The accompanying form of ACKNOWLEDGMENT OF SERVICE should be detached and completed by a Solicitor acting on behalf of the Defendant or by the Defendant if acting in person. After completion it must be delivered or sent by post to the Registry of the District Court at the following address:— [insert here the address of the Registry of the District Court]
 
+1A. However, a Defendant (or a Solicitor acting on behalf of a Defendant) who is a registered user or an Organization User account holder may send the Acknowledgment of Service to the Registry of the District Court by means of an e-system in accordance with the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules. Note— For the meaning of Organization User account holder and registered user, please see rule 2 of the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules.
+
 2. A Defendant who states in his Acknowledgment of Service that he intends to contest the proceedings MUST ALSO file a DEFENCE which must be written in either the Chinese or the English language with the Registry and serve a copy thereof on the Solicitor for the Plaintiff (or on the Plaintiff if acting in person).
 
 If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of Claim” appear at the top of the back), the Defence must be filed and served within 28 days after the time for acknowledging service of the Writ, unless in the meantime a summons for judgment is served on the Defendant.
@@ -310,7 +312,7 @@ Notes for Guidance
 
 1. Each Defendant (if there are more than one) is required to complete an Acknowledgment of Service and return it to the Registry of the District Court.
 
-[2. For the purpose of calculating the period of 14 days for acknowledging service, a writ served on the Defendant personally is treated as having been served on the day it was delivered to him and a writ served by post or by insertion through the Defendant’s letter box is treated as having been served on the seventh day after the date of posting or insertion.]
+[2. For the purpose of calculating the period of 14 days for acknowledging service, a writ served on the Defendant personally is treated as having been served on the day it was delivered to him and a writ served by post or by insertion through the Defendant’s letter box, or by sending it by electronic transmission in accordance with the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules, is treated as having been served on the seventh day after the date of posting, insertion or sending by electronic transmission.]
 
 (Note: Not applicable if the defendant is a company served at its registered office.)
 
@@ -337,6 +339,8 @@ Notes for Guidance
 (b) | if the Company has only one director, the director of the Company is acting on its behalf.
 
 7. Where the Defendant is a MINOR or a MENTAL Patient, the form must be completed by a Solicitor acting for a guardian ad litem.
+
+7A. A Defendant (or a Solicitor acting on behalf of a Defendant) who has received a printout of a Writ of Summons issued by the District Court in electronic form may contact the Registry of the District Court to ascertain whether the Writ of Summons had been issued by quoting its document reference number. For details, please refer to the administrative instructions issued by the Judiciary Administrator.
 
 8. A Defendant acting in person may obtain help in completing the form at the Registry of the District Court.
 
@@ -370,7 +374,7 @@ Where words appear between square brackets, delete if inapplicable. | Service of
 
 Notes as to Address for Service Solicitor. Where the Defendant is represented by a Solicitor, state the Solicitor’s place of business in Hong Kong. Defendant in person. Where the Defendant is acting in person, he must give his residence OR, if he does not reside in Hong Kong, he must give an address in Hong Kong where communications for him should be sent. In the case of a limited company, “residence” (居所) means its registered or principal office. (Back of page (1)) Indorsement by plaintiff’s solicitor (or by plaintiff if suing in person) of his name, address and reference, if any.
 
-(L.N. 153 of 2008)
+(L.N. 153 of 2008; L.N. 84 of 2021)
 
 _
 
