@@ -12,4 +12,5 @@ s-009.md
 s-010.md
 s-010A.md
 s-010B.md
+s-010C.md
 s-011.md
