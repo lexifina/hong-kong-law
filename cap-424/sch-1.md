@@ -14,7 +14,7 @@ Standards
 
 (b) | ISO 8124-2:2014 “Safety of toys—Part 2: Flammability”
 
-(c) | ISO 8124-3:2010 (incorporating Amendment 2:2018) “Safety of toys—Part 3: Migration of certain elements”
+(c) | ISO 8124-3:2020 “Safety of toys—Part 3: Migration of certain elements”
 
 (ca) | ISO 8124-4:2014 (incorporating Amendment 2:2019) “Safety of toys—Part 4: Swings, slides and similar activity toys for indoor and outdoor family domestic use” (Replaced L.N. 17 of 2015)
 
@@ -38,7 +38,7 @@ Standards
 
 (f) | (Repealed L.N. 184 of 2011)
 
-(g) | BS EN 71-7:2014 + A2:2018 “Safety of toys—Part 7: Finger paints—Requirements and test methods”
+(g) | BS EN 71-7:2014 + A3:2020 “Safety of toys—Part 7: Finger paints—Requirements and test methods”
 
 (h) | BS EN 71-8:2018 “Safety of toys—Part 8: Activity toys for domestic use”
 
@@ -54,4 +54,4 @@ Standards
 
 ASTM F963-17 “Standard consumer safety specification for toy safety”
 
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020)
+(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020; L.N. 23 of 2021)
