@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 48]
 
-SCHEDULED SPECIES
+Scheduled Species
 
-- PART 1 INTERPRETATION OF THE APPENDICES
+- Part 1 Interpretation of the Appendices
 
-  - 1. Species included in the Appendices are referred to —
+  - 1. Species included in the Appendices are referred to—
 
     - (a) by the name of the species; or
 
@@ -16,7 +16,7 @@ SCHEDULED SPECIES
 
   - 3. Other references to taxa higher than species are for the purposes of information or classification only. Common names in English, if known, are included within angle brackets (< >) after scientific names in the English text of this Ordinance. Common names in Chinese or Chinese translations of scientific names, if known, are included within angle brackets (< >) after scientific names in the Chinese text of this Ordinance. The common names included after the scientific names of orders, families and genera are intended to indicate the species within the order, family or genus concerned that are included in the Appendices.
 
-  - 4. The following abbreviations are used for plant taxa below the level of species —
+  - 4. The following abbreviations are used for plant taxa below the level of species—
 
     - (a) “ssp.” is used to denote subspecies; and
 
@@ -26,9 +26,9 @@ SCHEDULED SPECIES
 
   - 6. The names of the places in parentheses placed against the names of species in Appendix III are those of the Parties submitting these species for inclusion in that Appendix.
 
-  - 7. When a species is included in one of the Appendices, any whole animal or plant of the species, whether live or dead, is included. In addition, for an animal species listed in Appendix III or a plant species listed in Appendix II or Appendix III, all parts and derivatives of the species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol (#) followed by a number placed against the name of an Appendix II species or Appendix III species designates parts or derivatives that are specified in relation to that species for the purposes of this Ordinance as follows — (Amended L.N. 22 of 2021)
+  - 7. When a species is included in one of the Appendices, any whole animal or plant of the species, whether live or dead, is included. In addition, for an animal species listed in Appendix III or a plant species listed in Appendix II or Appendix III, all parts and derivatives of the species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol (#) followed by a number placed against the name of an Appendix II species or Appendix III species designates parts or derivatives that are specified in relation to that species for the purposes of this Ordinance as follows— (Amended L.N. 22 of 2021)
 
-  - #1 Designates all parts and derivatives, except —
+  - #1 Designates all parts and derivatives, except—
 
     - (a) seeds, spores and pollen (including pollinia);
 
@@ -38,7 +38,7 @@ SCHEDULED SPECIES
 
     - (d) fruits, parts of fruits, and derivatives of fruits, of artificially propagated plants of the genus Vanilla.
 
-  - #2 Designates all parts and derivatives, except —
+  - #2 Designates all parts and derivatives, except—
 
     - (a) seeds and pollen; and
 
@@ -46,7 +46,7 @@ SCHEDULED SPECIES
 
   - #3 Designates whole and sliced roots and parts of roots excluding manufactured parts or derivatives such as powders, pills, extracts, tonics, teas and confectionery. (Amended L.N. 98 of 2014)
 
-  - #4 Designates all parts and derivatives, except —
+  - #4 Designates all parts and derivatives, except—
 
     - (a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Dypsis decaryi exported from Madagascar; (Replaced L.N. 36 of 2011. Amended L.N. 114 of 2018)
 
@@ -78,7 +78,7 @@ SCHEDULED SPECIES
 
   - #13 Designates kernel (also known as “endosperm”, “pulp” or “copra”) and derivatives of them. (Added L.N. 36 of 2011. Amended L.N. 98 of 2014)
 
-  - #14 Designates all parts and derivatives, except —
+  - #14 Designates all parts and derivatives, except—
 
     - (a) seeds and pollen;
 
@@ -112,13 +112,13 @@ SCHEDULED SPECIES
 
   - #18 Designates eggs. (Added L.N. 22 of 2021)
 
-  - 8. For the purposes of section 7 of this Part —
+  - 8. For the purposes of section 7 of this Part—
 
     - (a) an extract is a substance obtained directly from plant material by physical or chemical means regardless of the manufacturing process; and
 
     - (b) an extract may be in the form of solid (such as crystals, resin, fine particles and coarse particles), semi-solid (such as gums and waxes) or liquid (such as solutions, tinctures, oil and essential oils). (Added L.N. 98 of 2014)
 
-  - 9. For the purposes of section 7 of this Part, products, shipped singly or in bulk for final use or retail trade (purpose), are finished products packaged and ready for retail trade if —
+  - 9. For the purposes of section 7 of this Part, products, shipped singly or in bulk for final use or retail trade (purpose), are finished products packaged and ready for retail trade if—
 
     - (a) the products do not require any further processing for the purpose;
 
@@ -132,7 +132,7 @@ SCHEDULED SPECIES
 
     - (b) the things transported by an individual on entering or leaving Hong Kong (irrespective of whether the things are worn or carried by the individual or included in the individual’s personal baggage, and the quantity or number of the things worn, carried or included) are to be treated as 1 shipment. (Added L.N. 22 of 2021)
 
-  - 10. For the purposes of section 7 of this Part —
+  - 10. For the purposes of section 7 of this Part—
 
     - finished musical instrument (樂器製成品)—
 
@@ -162,7 +162,7 @@ SCHEDULED SPECIES
 
   - (Replaced L.N. 4 of 2009)
 
-- PART 2 APPENDICES
+- Part 2 Appendices
 
 - Appendix I | Appendix II | Appendix III
 
@@ -220,9 +220,9 @@ SCHEDULED SPECIES
 
 - Capricornis rubidus <Red serow>
 
-- Capricornis sumatraensis <Mainland serow>
-
 - Appendix I | Appendix II | Appendix III
+
+- Capricornis sumatraensis <Mainland serow>
 
 - Capricornis thar <Himalayan serow>
 
@@ -286,6 +286,8 @@ SCHEDULED SPECIES
 
 - Ovis gmelini <Cyprian wild sheep, Cyprus mouflon> (Only the population of Cyprus; no other population is included in the Appendices)
 
+- Appendix I | Appendix II | Appendix III
+
 - Ovis hodgsoni <Great Tibetan sheep, Tibetan argali, nyan>
 
 - Ovis jubata <Shansi argali>
@@ -332,11 +334,11 @@ SCHEDULED SPECIES
 
 - Vicugna vicugna1 <Vicugna> (Only the populations of Argentina [the populations of the Provinces of Jujuy, Salta and Catamarca, and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia [the whole population]; Chile [the populations of the region of Tarapacá and of the region of Arica and Parinacota]; Ecuador [the whole population]; and Peru [the whole population]; all other populations are included in Appendix I)
 
-- Appendix I | Appendix II | Appendix III
-
 - Cervidae
 
 - Axis calamianensis <Calamian deer>
+
+- Appendix I | Appendix II | Appendix III
 
 - Axis kuhlii <Bawean deer, Kuhl’s hog deer>
 
@@ -374,9 +376,9 @@ SCHEDULED SPECIES
 
 - Rucervus duvaucelii <Barasingha, swamp deer>
 
-- Appendix I | Appendix II | Appendix III
-
 - Rucervus eldii <Brow-antlered deer>
+
+- Appendix I | Appendix II | Appendix III
 
 - Giraffidae
 
@@ -438,11 +440,11 @@ SCHEDULED SPECIES
 
 - Cuon alpinus <Asiatic wild dog, red dog>
 
-- Appendix I | Appendix II | Appendix III
-
 - Lycalopex culpaeus <Andean wolf, colpeo fox>
 
 - Lycalopex fulvipes
+
+- Appendix I | Appendix II | Appendix III
 
 - Lycalopex griseus <Argentine grey fox>
 
@@ -460,8 +462,6 @@ SCHEDULED SPECIES
 
 - Vulpes vulpes pusilla <Red fox> (India)
 
-- Appendix I | Appendix II | Appendix III
-
 - Vulpes zerda <Fennec fox>
 
 - Eupleridae
@@ -471,6 +471,8 @@ SCHEDULED SPECIES
 - Eupleres goudotii <Falanouc>
 
 - Fossa fossana <Fanaloka>
+
+- Appendix I | Appendix II | Appendix III
 
 - Felidae
 
@@ -506,13 +508,13 @@ SCHEDULED SPECIES
 
 - Neofelis diardi <Sunda clouded leopard, clouded leopard>
 
+- Appendix I | Appendix II | Appendix III
+
 - Neofelis nebulosa <Clouded leopard>
 
 - Panthera leo <Lion> (Only the population of India; all other populations are included in Appendix II)
 
 - Panthera onca <Jaguar>
-
-- Appendix I | Appendix II | Appendix III
 
 - Panthera pardus <Leopard>
 
@@ -532,8 +534,6 @@ SCHEDULED SPECIES
 
 - Puma concolor <Puma, cougar> (Only the populations of Costa Rica and Panama; all other populations are included in Appendix II)
 
-- Appendix I | Appendix II | Appendix III
-
 - Herpestidae
 
 - Herpestes edwardsi <Indian grey mongoose> (India, Pakistan)
@@ -544,13 +544,13 @@ SCHEDULED SPECIES
 
 - Herpestes javanicus auropunctatus <Small Indian mongoose> (India)
 
+- Appendix I | Appendix II | Appendix III
+
 - Herpestes smithii <Ruddy mongoose> (India)
 
 - Herpestes urva <Crab-eating mongoose> (India)
 
 - Herpestes vitticollis <Stripe-necked mongoose> (India)
-
-- Appendix I | Appendix II | Appendix III
 
 - Hyaenidae
 
@@ -586,11 +586,11 @@ SCHEDULED SPECIES
 
 - Lutra nippon
 
+- Appendix I | Appendix II | Appendix III
+
 - Lutrogale perspicillata <Smooth-coated otter, Indian smooth-coated otter>
 
 - Pteronura brasiliensis <Giant Brazilian otter>
-
-- Appendix I | Appendix II | Appendix III
 
 - Mustelinae
 
@@ -608,9 +608,9 @@ SCHEDULED SPECIES
 
 - Mustela erminea ferghanae <Ermine> (India)
 
-- Mustela kathiah <Yellow-bellied weasel> (India)
-
 - Appendix I | Appendix II | Appendix III
+
+- Mustela kathiah <Yellow-bellied weasel> (India)
 
 - Mustela nigripes <Black-footed ferret>
 
@@ -648,21 +648,19 @@ SCHEDULED SPECIES
 
 - Ailuropoda melanoleuca <Giant panda>
 
-- Appendix I | Appendix II | Appendix III
-
 - Helarctos malayanus <Malayan sun bear>
 
 - Melursus ursinus <Sloth bear>
 
 - Tremarctos ornatus <Andean bear, spectacled bear>
 
+- Appendix I | Appendix II | Appendix III
+
 - Ursus arctos <Brown bear> (Only the populations of Bhutan, China, Mexico and Mongolia; all other populations are included in Appendix II)
 
 - Ursus arctos isabellinus <Himalayan brown bear>
 
 - Ursus thibetanus <Asiatic black bear>
-
-- Appendix I | Appendix II | Appendix III
 
 - Viverridae
 
@@ -676,13 +674,13 @@ SCHEDULED SPECIES
 
 - Paguma larvata <Masked palm civet> (India)
 
+- Appendix I | Appendix II | Appendix III
+
 - Paradoxurus hermaphroditus <Common palm civet> (India)
 
 - Paradoxurus jerdoni <Jerdon’s palm civet> (India)
 
 - Prionodon linsang <Banded linsang>
-
-- Appendix I | Appendix II | Appendix III
 
 - Prionodon pardicolor <Spotted linsang>
 
@@ -692,17 +690,19 @@ SCHEDULED SPECIES
 
 - Viverricula indica <Small Indian civet> (India)
 
+- Appendix I | Appendix II | Appendix III
+
 - CETACEA
 
 - CETACEA spp. <e.g. Cetaceans, dolphins, porpoises, whales> (Except the species included in Appendix I. A zero annual export quota has been established for live specimens from the Black Sea population of Tursiops truncatus <Bottle-nosed dolphin> removed from the wild and traded for primarily commercial purposes)
-
-- Appendix I | Appendix II | Appendix III
 
 - Balaenidae
 
 - Balaena mysticetus <Bowhead whale, Greenland right whale>
 
 - Eubalaena spp. <Right whales>
+
+- Appendix I | Appendix II | Appendix III
 
 - Balaenopteridae
 
@@ -714,8 +714,6 @@ SCHEDULED SPECIES
 
 - Balaenoptera edeni <Bryde’s whale>
 
-- Appendix I | Appendix II | Appendix III
-
 - Balaenoptera musculus <Blue whale>
 
 - Balaenoptera omurai <Omura’s whale>
@@ -723,6 +721,8 @@ SCHEDULED SPECIES
 - Balaenoptera physalus <Common rorqual, fin whale>
 
 - Megaptera novaeangliae <Bunch, humpback whale>
+
+- Appendix I | Appendix II | Appendix III
 
 - Delphinidae
 
@@ -733,8 +733,6 @@ SCHEDULED SPECIES
 - Sotalia spp. <River dolphins>
 
 - Sousa spp. <Humpback dolphins>
-
-- Appendix I | Appendix II | Appendix III
 
 - Eschrichtiidae
 
@@ -754,6 +752,8 @@ SCHEDULED SPECIES
 
 - Neophocaena phocaenoides <Black finless porpoise>
 
+- Appendix I | Appendix II | Appendix III
+
 - Phocoena sinus <Cochito>
 
 - Physeteridae
@@ -763,8 +763,6 @@ SCHEDULED SPECIES
 - Platanistidae
 
 - Platanista spp. <Susus>
-
-- Appendix I | Appendix II | Appendix III
 
 - Ziphiidae
 
@@ -802,13 +800,13 @@ SCHEDULED SPECIES
 
 - Pteropus samoensis <Samoan flying-fox>
 
-- Appendix I | Appendix II | Appendix III
-
 - Pteropus tonganus <Insular flying-fox>
 
 - Pteropus ualanus <Kosrae flying-fox>
 
 - Pteropus yapensis <Yap flying-fox>
+
+- Appendix I | Appendix II | Appendix III
 
 - CINGULATA
 
@@ -818,8 +816,6 @@ SCHEDULED SPECIES
 
 - Chaetophractus nationi <Andean hairy armadillo> (A zero annual export quota has been established. All specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly)
 
-- Appendix I | Appendix II | Appendix III
-
 - Priodontes maximus <Giant armadillo>
 
 - DASYUROMORPHIA
@@ -827,6 +823,8 @@ SCHEDULED SPECIES
 - Dasyuridae
 
 - Sminthopsis longicaudata <Long-tailed dunnart>
+
+- Appendix I | Appendix II | Appendix III
 
 - Sminthopsis psammophila <Large desert marsupial-mouse>
 
@@ -844,13 +842,13 @@ SCHEDULED SPECIES
 
 - Onychogalea fraenata <Bridled nailtail wallaby>
 
-- Appendix I | Appendix II | Appendix III
-
 - Phalangeridae
 
 - Phalanger intercastellanus <Eastern common cuscus>
 
 - Phalanger mimicus <Cryptic cuscus>
+
+- Appendix I | Appendix II | Appendix III
 
 - Phalanger orientalis <Common phalanger, grey cuscus>
 
@@ -868,8 +866,6 @@ SCHEDULED SPECIES
 
 - Lasiorhinus krefftii <Northern hairy-nosed wombat>
 
-- Appendix I | Appendix II | Appendix III
-
 - LAGOMORPHA
 
 - Leporidae
@@ -877,6 +873,8 @@ SCHEDULED SPECIES
 - Caprolagus hispidus <Assam rabbit>
 
 - Romerolagus diazi <Volcano rabbit>
+
+- Appendix I | Appendix II | Appendix III
 
 - MONOTREMATA
 
@@ -900,11 +898,11 @@ SCHEDULED SPECIES
 
 - Equus africanus <African ass> (Excludes the domesticated form, which is referenced as Equus asinus and is not subject to the provisions of this Ordinance)
 
-- Appendix I | Appendix II | Appendix III
-
 - Equus grevyi <Grevy’s zebra>
 
 - Equus hemionus <Asian wild ass> (Except the subspecies included in Appendix I)
+
+- Appendix I | Appendix II | Appendix III
 
 - Equus hemionus hemionus <Dziggetai, Mongolian wild ass>
 
@@ -918,19 +916,19 @@ SCHEDULED SPECIES
 
 - Equus zebra zebra <Cape mountain zebra>
 
-- Appendix I | Appendix II | Appendix III
-
 - Rhinocerotidae
 
 - Rhinocerotidae spp. <Rhinoceroses> (Except the subspecies included in Appendix II)
 
-- Ceratotherium simum simum <Southern square-lipped rhinoceros> (Only the populations of Eswatini and South Africa; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly)
-
 - Appendix I | Appendix II | Appendix III
+
+- Ceratotherium simum simum <Southern square-lipped rhinoceros> (Only the populations of Eswatini and South Africa; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly)
 
 - Tapiridae
 
 - Tapiridae spp. <Tapirs> (Except the species included in Appendix II)
+
+- Appendix I | Appendix II | Appendix III
 
 - Tapirus terrestris <Brazilian tapir>
 
@@ -972,8 +970,6 @@ SCHEDULED SPECIES
 
 - Tamandua mexicana <Northern tamandua> (Guatemala)
 
-- Appendix I | Appendix II | Appendix III
-
 - PRIMATES
 
 - PRIMATES spp. <e.g. Apes, monkeys, primates> (Except the species included in Appendix I)
@@ -982,6 +978,8 @@ SCHEDULED SPECIES
 
 - Alouatta coibensis <Coiba Island howling monkey>
 
+- Appendix I | Appendix II | Appendix III
+
 - Alouatta palliata <Mantled howler>
 
 - Alouatta pigra <Guatemalan howler>
@@ -989,8 +987,6 @@ SCHEDULED SPECIES
 - Ateles geoffroyi frontatus <Black-browed spider monkey>
 
 - Ateles geoffroyi ornatus <Panama spider monkey>
-
-- Appendix I | Appendix II | Appendix III
 
 - Brachyteles arachnoides <Muriqui>
 
@@ -1006,11 +1002,11 @@ SCHEDULED SPECIES
 
 - Callithrix flaviceps <Buffy-headed marmoset>
 
+- Appendix I | Appendix II | Appendix III
+
 - Leontopithecus spp. <Lion tamarins>
 
 - Saguinus bicolor <Bare-faced tamarin>
-
-- Appendix I | Appendix II | Appendix III
 
 - Saguinus geoffroyi <Cotton-top marmoset>
 
@@ -1032,9 +1028,9 @@ SCHEDULED SPECIES
 
 - Macaca silenus <Lion-tailed macaque>
 
-- Macaca sylvanus <Barbary macaque>
-
 - Appendix I | Appendix II | Appendix III
+
+- Macaca sylvanus <Barbary macaque>
 
 - Mandrillus leucophaeus <Drill>
 
@@ -1056,9 +1052,9 @@ SCHEDULED SPECIES
 
 - Semnopithecus dussumieri <Southern plains grey langur>
 
-- Appendix I | Appendix II | Appendix III
-
 - Semnopithecus entellus <Common langur>
+
+- Appendix I | Appendix II | Appendix III
 
 - Semnopithecus hector <Tarai grey langur>
 
@@ -1076,11 +1072,11 @@ SCHEDULED SPECIES
 
 - Trachypithecus shortridgei <Shortridge’s langur; Shortridge’s leaf monkey>
 
-- Appendix I | Appendix II | Appendix III
-
 - Cheirogaleidae
 
 - Cheirogaleidae spp. <Dwarf lemurs>
+
+- Appendix I | Appendix II | Appendix III
 
 - Daubentoniidae
 
@@ -1098,8 +1094,6 @@ SCHEDULED SPECIES
 
 - Pongo pygmaeus <Orang-utan>
 
-- Appendix I | Appendix II | Appendix III
-
 - Hylobatidae
 
 - Hylobatidae spp. <Gibbons>
@@ -1116,11 +1110,11 @@ SCHEDULED SPECIES
 
 - Lepilemuridae spp. <Sportive lemurs>
 
+- Appendix I | Appendix II | Appendix III
+
 - Lorisidae
 
 - Nycticebus spp. <Slow lorises>
-
-- Appendix I | Appendix II | Appendix III
 
 - Pitheciidae
 
@@ -1136,9 +1130,9 @@ SCHEDULED SPECIES
 
 - Loxodonta africana <African elephant> (Except the populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II subject to section 5 of this Part)
 
-- Loxodonta africana5 <African elephant> (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)
-
 - Appendix I | Appendix II | Appendix III
+
+- Loxodonta africana5 <African elephant> (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)
 
 - RODENTIA
 
@@ -1176,9 +1170,9 @@ SCHEDULED SPECIES
 
 - Cynomys mexicanus <Mexican prairie marmot>
 
-- Appendix I | Appendix II | Appendix III
-
 - Marmota caudata <Long-tailed marmot> (India)
+
+- Appendix I | Appendix II | Appendix III
 
 - Marmota himalayana <Himalayan marmot> (India)
 
@@ -1194,8 +1188,6 @@ SCHEDULED SPECIES
 
 - Dugong dugon <Dugong>
 
-- Appendix I | Appendix II | Appendix III
-
 - Trichechidae
 
 - Trichechus inunguis <Amazonian manatee>
@@ -1204,6 +1196,8 @@ SCHEDULED SPECIES
 
 - Trichechus senegalensis <African manatee, West African manatee>
 
+- Appendix I | Appendix II | Appendix III
+
 - CLASS AVES <BIRDS>
 
 - ANSERIFORMES
@@ -1211,8 +1205,6 @@ SCHEDULED SPECIES
 - Anatidae
 
 - Anas aucklandica <Brown teal>
-
-- Appendix I | Appendix II | Appendix III
 
 - Anas bernieri <Madagascar teal>
 
@@ -1230,9 +1222,9 @@ SCHEDULED SPECIES
 
 - Branta ruficollis <Red-breasted goose>
 
-- Branta sandvicensis <Hawaiian goose>
-
 - Appendix I | Appendix II | Appendix III
+
+- Branta sandvicensis <Hawaiian goose>
 
 - Coscoroba coscoroba <Coscoroba swan>
 
@@ -1270,8 +1262,6 @@ SCHEDULED SPECIES
 
 - Larus relictus <Relict gull>
 
-- Appendix I | Appendix II | Appendix III
-
 - Scolopacidae
 
 - Numenius borealis <Eskimo curlew>
@@ -1279,6 +1269,8 @@ SCHEDULED SPECIES
 - Numenius tenuirostris <Slender-billed curlew>
 
 - Tringa guttifer <Nordmann’s greenshank>
+
+- Appendix I | Appendix II | Appendix III
 
 - CICONIIFORMES
 
@@ -1296,8 +1288,6 @@ SCHEDULED SPECIES
 
 - Mycteria cinerea <Milky stork>
 
-- Appendix I | Appendix II | Appendix III
-
 - Phoenicopteridae
 
 - Phoenicopteridae spp. <Flamingos>
@@ -1310,11 +1300,11 @@ SCHEDULED SPECIES
 
 - Geronticus eremita <Bald ibis, hermit ibis>
 
+- Appendix I | Appendix II | Appendix III
+
 - Nipponia nippon <Crested ibis, Japanese crested ibis>
 
 - Platalea leucorodia <Eurasian spoonbill, spoonbill>
-
-- Appendix I | Appendix II | Appendix III
 
 - COLUMBIFORMES
 
@@ -1398,9 +1388,9 @@ SCHEDULED SPECIES
 
 - Falco araeus <Seychelles kestrel>
 
-- Appendix I | Appendix II | Appendix III
-
 - Falco jugger <Laggar falcon>
+
+- Appendix I | Appendix II | Appendix III
 
 - Falco newtoni <Madagascar kestrel, Aldabra kestrel> (Only the population of Seychelles)
 
@@ -1420,9 +1410,9 @@ SCHEDULED SPECIES
 
 - Crax blumenbachii <Blumenbach’s curassow, red-billed curassow>
 
-- Appendix I | Appendix II | Appendix III
-
 - Crax daubentoni <Yellow-knobbed curassow> (Colombia)
+
+- Appendix I | Appendix II | Appendix III
 
 - Crax globulosa <Wattled curassow> (Colombia)
 
@@ -1438,11 +1428,11 @@ SCHEDULED SPECIES
 
 - Penelope albipennis <White-winged guan>
 
-- Appendix I | Appendix II | Appendix III
-
 - Penelope purpurascens <Crested guan> (Honduras)
 
 - Penelopina nigra <Highland guan> (Guatemala)
+
+- Appendix I | Appendix II | Appendix III
 
 - Pipile jacutinga <Black-fronted curassow, black-fronted piping guan>
 
@@ -1456,8 +1446,6 @@ SCHEDULED SPECIES
 
 - Argusianus argus <Argus pheasant, great argus>
 
-- Appendix I | Appendix II | Appendix III
-
 - Catreus wallichii <Cheer pheasant>
 
 - Colinus virginianus ridgwayi <Masked bobwhite>
@@ -1468,11 +1456,11 @@ SCHEDULED SPECIES
 
 - Gallus sonneratii <Grey junglefowl>
 
+- Appendix I | Appendix II | Appendix III
+
 - Ithaginis cruentus <Blood pheasant>
 
 - Lophophorus impejanus <Himalayan monal>
-
-- Appendix I | Appendix II | Appendix III
 
 - Lophophorus lhuysii <Chinese impeyan, Chinese monal>
 
@@ -1490,9 +1478,9 @@ SCHEDULED SPECIES
 
 - Pavo muticus <Green peafowl>
 
-- Polyplectron bicalcaratum <Common peacock-pheasant, grey peacock-pheasant>
-
 - Appendix I | Appendix II | Appendix III
+
+- Polyplectron bicalcaratum <Common peacock-pheasant, grey peacock-pheasant>
 
 - Polyplectron germaini <Germain’s peacock-pheasant>
 
@@ -1506,9 +1494,9 @@ SCHEDULED SPECIES
 
 - Rheinardia ocellata <Crested argus>
 
-- Syrmaticus ellioti <Chinese barred-backed pheasant, Elliot’s pheasant>
-
 - Appendix I | Appendix II | Appendix III
+
+- Syrmaticus ellioti <Chinese barred-backed pheasant, Elliot’s pheasant>
 
 - Syrmaticus humiae <Hume’s bar-tailed pheasant>
 
@@ -1526,11 +1514,11 @@ SCHEDULED SPECIES
 
 - Tragopan melanocephalus <Black-headed tragopan, western tragopan>
 
+- Appendix I | Appendix II | Appendix III
+
 - Tragopan satyra <Crimson horned-pheasant, satyr tragopan> (Nepal)
 
 - Tympanuchus cupido attwateri <Attwater’s prairie-chicken>
-
-- Appendix I | Appendix II | Appendix III
 
 - GRUIFORMES
 
@@ -1546,11 +1534,11 @@ SCHEDULED SPECIES
 
 - Grus canadensis pulla <Mississippi sandhill crane>
 
+- Appendix I | Appendix II | Appendix III
+
 - Grus japonensis <Japanese crane, red-crowned crane>
 
 - Grus leucogeranus <Siberian crane>
-
-- Appendix I | Appendix II | Appendix III
 
 - Grus monacha <Hooded crane>
 
@@ -1590,8 +1578,6 @@ SCHEDULED SPECIES
 
 - Cephalopterus ornatus <Amazonian umbrellabird> (Colombia)
 
-- Appendix I | Appendix II | Appendix III
-
 - Cephalopterus penduliger <Long-wattled umbrellabird> (Colombia)
 
 - Cotinga maculata <Banded cotinga>
@@ -1599,6 +1585,8 @@ SCHEDULED SPECIES
 - Rupicola spp. <Cocks-of-the-rock>
 
 - Xipholena atropurpurea <White-winged cotinga>
+
+- Appendix I | Appendix II | Appendix III
 
 - Emberizidae
 
@@ -1609,8 +1597,6 @@ SCHEDULED SPECIES
 - Paroaria coronata <Red-crested cardinal>
 
 - Tangara fastuosa <Seven-colored tanager>
-
-- Appendix I | Appendix II | Appendix III
 
 - Estrildidae
 
@@ -1626,11 +1612,11 @@ SCHEDULED SPECIES
 
 - Carduelis yarrellii <Yellow-faced siskin>
 
+- Appendix I | Appendix II | Appendix III
+
 - Hirundinidae
 
 - Pseudochelidon sirintarae <White-eyed river martin>
-
-- Appendix I | Appendix II | Appendix III
 
 - Icteridae
 
@@ -1664,8 +1650,6 @@ SCHEDULED SPECIES
 
 - Picathartes gymnocephalus <Bare-headed rockfowl, white-necked rockfowl>
 
-- Appendix I | Appendix II | Appendix III
-
 - Picathartes oreas <Grey-necked picathartes, grey-necked rockfowl>
 
 - Terpsiphone bourbonnensis <Rodrigues brush-warbler> (Mauritius)
@@ -1673,6 +1657,8 @@ SCHEDULED SPECIES
 - Paradisaeidae
 
 - Paradisaeidae spp. <Birds-of-paradise>
+
+- Appendix I | Appendix II | Appendix III
 
 - Pittidae
 
@@ -1683,8 +1669,6 @@ SCHEDULED SPECIES
 - Pitta kochi <Koch’s pitta>
 
 - Pitta nympha <Fairy pitta>
-
-- Appendix I | Appendix II | Appendix III
 
 - Pycnonotidae
 
@@ -1700,13 +1684,13 @@ SCHEDULED SPECIES
 
 - Zosterops albogularis <White-breasted silvereye, white-chested white-eye>
 
+- Appendix I | Appendix II | Appendix III
+
 - PELECANIFORMES
 
 - Fregatidae
 
 - Fregata andrewsi <Andrew’s frigatebird>
-
-- Appendix I | Appendix II | Appendix III
 
 - Pelecanidae
 
@@ -1730,9 +1714,9 @@ SCHEDULED SPECIES
 
 - Baillonius bailloni <Saffron toucanet> (Argentina)
 
-- Appendix I | Appendix II | Appendix III
-
 - Pteroglossus aracari <Black-necked aracari>
+
+- Appendix I | Appendix II | Appendix III
 
 - Pteroglossus castanotis <Chestnut-eared aracari> (Argentina)
 
@@ -1750,13 +1734,13 @@ SCHEDULED SPECIES
 
 - Selenidera maculirostris <Spot-billed toucanet> (Argentina)
 
-- Appendix I | Appendix II | Appendix III
-
 - PODICIPEDIFORMES
 
 - Podicipedidae
 
 - Podilymbus gigas <Atitlan grebe>
+
+- Appendix I | Appendix II | Appendix III
 
 - PROCELLARIIFORMES
 
@@ -1768,11 +1752,11 @@ SCHEDULED SPECIES
 
 - PSITTACIFORMES spp. <Parrots, psittacines (e.g. parakeets, cockatoos, macaws)> (Except the species included in Appendix I and Agapornis roseicollis <Peach-faced lovebird>, Melopsittacus undulatus <Budgerigar>, Nymphicus hollandicus <Cockatiel> and Psittacula krameri <Rose-ringed parakeet>, which are not included in the Appendices)
 
-- Appendix I | Appendix II | Appendix III
-
 - Cacatuidae
 
 - Cacatua goffiniana <Goffin’s cockatoo>
+
+- Appendix I | Appendix II | Appendix III
 
 - Cacatua haematuropygia <Philippine cockatoo, red-vented cockatoo>
 
@@ -1788,8 +1772,6 @@ SCHEDULED SPECIES
 
 - Vini ultramarina <Ultramarine lorikeet>
 
-- Appendix I | Appendix II | Appendix III
-
 - Psittacidae
 
 - Amazona arausiaca <Jacquot, red-necked amazon>
@@ -1797,6 +1779,8 @@ SCHEDULED SPECIES
 - Amazona auropalliata <Yellow-naped amazon>
 
 - Amazona barbadensis <Yellow-shouldered amazon>
+
+- Appendix I | Appendix II | Appendix III
 
 - Amazona brasiliensis <Red-tailed amazon>
 
@@ -1810,8 +1794,6 @@ SCHEDULED SPECIES
 
 - Amazona oratrix <Yellow-headed amazon>
 
-- Appendix I | Appendix II | Appendix III
-
 - Amazona pretrei <Red-spectacled amazon>
 
 - Amazona rhodocorytha <Red-browed amazon>
@@ -1821,6 +1803,8 @@ SCHEDULED SPECIES
 - Amazona versicolor <Saint Lucia amazon>
 
 - Amazona vinacea <Vinaceous amazon>
+
+- Appendix I | Appendix II | Appendix III
 
 - Amazona viridigenalis <Green-cheeked amazon>
 
@@ -1834,8 +1818,6 @@ SCHEDULED SPECIES
 
 - Ara macao <Scarlet macaw>
 
-- Appendix I | Appendix II | Appendix III
-
 - Ara militaris <Military macaw>
 
 - Ara rubrogenys <Red-fronted macaw>
@@ -1843,6 +1825,8 @@ SCHEDULED SPECIES
 - Cyanopsitta spixii <Little blue macaw, Spix’s macaw>
 
 - Cyanoramphus cookii <Norfolk Island parakee>
+
+- Appendix I | Appendix II | Appendix III
 
 - Cyanoramphus forbesi <Chatham Island yellow-fronted parakeet>
 
@@ -1854,13 +1838,13 @@ SCHEDULED SPECIES
 
 - Eunymphicus cornutus <Horned parakeet>
 
-- Appendix I | Appendix II | Appendix III
-
 - Guarouba guarouba <Golden conure>
 
 - Neophema chrysogaster <Orange-bellied parakeet>
 
 - Ognorhynchus icterotis <Yellow-eared conure>
+
+- Appendix I | Appendix II | Appendix III
 
 - Pezoporus occidentalis <Night parrot>
 
@@ -1876,8 +1860,6 @@ SCHEDULED SPECIES
 
 - Psephotus dissimilis <Hooded parrot>
 
-- Appendix I | Appendix II | Appendix III
-
 - Psephotus pulcherrimus <Beautiful parakeet, paradise parrot>
 
 - Psittacula echo <Mauritius parakeet>
@@ -1885,6 +1867,8 @@ SCHEDULED SPECIES
 - Psittacus erithacus <African grey parrot>
 
 - Pyrrhura cruentata <Blue-chested parakeet>
+
+- Appendix I | Appendix II | Appendix III
 
 - Rhynchopsitta spp. <Thick-billed parrots>
 
@@ -1900,8 +1884,6 @@ SCHEDULED SPECIES
 
 - Rhea americana <Common rhea>
 
-- Appendix I | Appendix II | Appendix III
-
 - SPHENISCIFORMES
 
 - Spheniscidae
@@ -1909,6 +1891,8 @@ SCHEDULED SPECIES
 - Spheniscus demersus <Black-footed penguin, jackass penguin>
 
 - Spheniscus humboldti <Humboldt penguin>
+
+- Appendix I | Appendix II | Appendix III
 
 - STRIGIFORMES
 
@@ -1922,19 +1906,17 @@ SCHEDULED SPECIES
 
 - Ninox natalis <Christmas hawk-owl>
 
-- Appendix I | Appendix II | Appendix III
-
 - Tytonidae
 
 - Tyto soumagnei <Madagascar grass owl>
+
+- Appendix I | Appendix II | Appendix III
 
 - STRUTHIONIFORMES
 
 - Struthionidae
 
 - Struthio camelus <Ostrich> (Only the populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)
-
-- Appendix I | Appendix II | Appendix III
 
 - TINAMIFORMES
 
@@ -1948,13 +1930,13 @@ SCHEDULED SPECIES
 
 - Pharomachrus mocinno <Magnificent quetzal>
 
+- Appendix I | Appendix II | Appendix III
+
 - CLASS REPTILIA <REPTILES>
 
 - CROCODYLIA
 
 - CROCODYLIA spp. <e.g. alligators, crocodiles or caimans> (Except the species included in Appendix I)
-
-- Appendix I | Appendix II | Appendix III
 
 - Alligatoridae
 
@@ -1963,6 +1945,8 @@ SCHEDULED SPECIES
 - Caiman crocodilus apaporiensis <Apaporis river caiman>
 
 - Caiman latirostris <Broad-nosed caiman> (Except the population of Argentina, which is included in Appendix II)
+
+- Appendix I | Appendix II | Appendix III
 
 - Melanosuchus niger <Black caiman> (Except the population of Brazil, which is included in Appendix II, and the population of Ecuador, which is included in Appendix II, and is subject to a zero annual export quota until an annual export quota has been approved by the Secretariat and the IUCN/SSC Crocodile Specialist Group under the Convention)
 
@@ -1975,6 +1959,8 @@ SCHEDULED SPECIES
 - Crocodylus cataphractus <African sharp-nosed crocodile>
 
 - Crocodylus intermedius <Orinoco crocodile>
+
+- Appendix I | Appendix II | Appendix III
 
 - Crocodylus mindorensis <Mindoro crocodile>
 
@@ -1994,11 +1980,11 @@ SCHEDULED SPECIES
 
 - Crocodylus siamensis <Siamese crocodile>
 
+- Appendix I | Appendix II | Appendix III
+
 - Osteolaemus tetraspis <African dwarf crocodile>
 
 - Tomistoma schlegelii <False gavial>
-
-- Appendix I | Appendix II | Appendix III
 
 - Gavialidae
 
@@ -2022,6 +2008,8 @@ SCHEDULED SPECIES
 
 - Calotes liolepis <Whistling lizard> (Sri Lanka)
 
+- Appendix I | Appendix II | Appendix III
+
 - Calotes manamendrai (Sri Lanka)
 
 - Calotes nigrilabris <Black lipped lizard> (Sri Lanka)
@@ -2036,6 +2024,8 @@ SCHEDULED SPECIES
 
 - Ceratophora stoddartii <Rhino-horned lizard, mountain horned agama> (Zero quota for wild specimens for commercial purposes)
 
+- Appendix I | Appendix II | Appendix III
+
 - Ceratophora tennentii <Leaf-nosed lizard, Tennent’s leaf-nosed lizard>
 
 - Cophotis ceylanica <Pygmy lizard>
@@ -2048,6 +2038,8 @@ SCHEDULED SPECIES
 
 - Uromastyx spp. <Mastigures, spiny-tailed lizards>
 
+- Appendix I | Appendix II | Appendix III
+
 - Anguidae
 
 - Abronia spp. <Alligator lizards> (Except the species included in Appendix I [zero export quota for wild specimens for Abronia aurita <Cope’s alligator lizard>, A. gaiophantasma <Brilliant alligator lizard>, A. montecristoi <Monte Cristo alligator lizard>, A. salvadorensis <Salvador alligator lizard> and A. vasconcelosii <Bocourt’s alligator lizard>])
@@ -2055,6 +2047,8 @@ SCHEDULED SPECIES
 - Abronia anzuetoi <Anzuetoi alligator lizard>
 
 - Abronia campbelli <Campbell’s alligator lizard>
+
+- Appendix I | Appendix II | Appendix III
 
 - Abronia fimbriata <Fringed arboreal alligator lizard>
 
@@ -2068,8 +2062,6 @@ SCHEDULED SPECIES
 
 - Bradypodion spp. <Chameleons>
 
-- Appendix I | Appendix II | Appendix III
-
 - Brookesia spp. <Chameleons> (Except the species included in Appendix I)
 
 - Brookesia perarmata <Antsingy leaf chameleon>
@@ -2079,6 +2071,8 @@ SCHEDULED SPECIES
 - Chamaeleo spp. <Chameleons>
 
 - Furcifer spp. <Chameleons>
+
+- Appendix I | Appendix II | Appendix III
 
 - Kinyongia spp. <Chameleons>
 
@@ -2100,6 +2094,8 @@ SCHEDULED SPECIES
 
 - Karusaurus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
 
+- Appendix I | Appendix II | Appendix III
+
 - Namazonurus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
 
 - Ninurta spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
@@ -2116,6 +2112,8 @@ SCHEDULED SPECIES
 
 - Goniurosaurus kuroiwae #18 <Kuroiwa’s ground gecko> (Japan)
 
+- Appendix I | Appendix II | Appendix III
+
 - Goniurosaurus orientalis #18 <Spotted ground gecko> (Japan)
 
 - Goniurosaurus sengokui #18 <Sengoku’s ground gecko> (Japan)
@@ -2126,8 +2124,6 @@ SCHEDULED SPECIES
 
 - Goniurosaurus yamashinae #18 <Yamashina’s ground gecko> (Japan)
 
-- Appendix I | Appendix II | Appendix III
-
 - Gekkonidae
 
 - Cnemaspis psychedelica <Psychedelic rock gecko>
@@ -2135,6 +2131,8 @@ SCHEDULED SPECIES
 - Dactylocnemis spp. <Sticky-toed geckos> (New Zealand)
 
 - Gekko gecko <Tokay gecko>
+
+- Appendix I | Appendix II | Appendix III
 
 - Gonatodes daudini <Grenadines clawed gecko, Union Island gecko>
 
@@ -2154,6 +2152,8 @@ SCHEDULED SPECIES
 
 - Phelsuma spp. <Day geckos>
 
+- Appendix I | Appendix II | Appendix III
+
 - Rhoptropella spp. <Day geckos>
 
 - Sphaerodactylus armasi <Guantanamo coastal gecko> (Cuba)
@@ -2168,6 +2168,8 @@ SCHEDULED SPECIES
 
 - Sphaerodactylus nigropunctatus granti <Black-spotted least gecko, three-banded sphaero> (Cuba)
 
+- Appendix I | Appendix II | Appendix III
+
 - Sphaerodactylus nigropunctatus lissodesmus <Black-spotted least gecko, three-banded sphaero> (Cuba)
 
 - Sphaerodactylus nigropunctatus ocujal <Black-spotted least gecko, three-banded sphaero> (Cuba)
@@ -2177,6 +2179,8 @@ SCHEDULED SPECIES
 - Sphaerodactylus notatus atactus <Reef gecko, brown-speckled sphaero> (Cuba)
 
 - Sphaerodactylus oliveri <Juventud least gecko> (Cuba)
+
+- Appendix I | Appendix II | Appendix III
 
 - Sphaerodactylus pimienta <Cuban pepper sphaero, pepper sphaero> (Cuba)
 
@@ -2194,13 +2198,13 @@ SCHEDULED SPECIES
 
 - Woodworthia spp. <Sticky-toed geckos> (New Zealand)
 
+- Appendix I | Appendix II | Appendix III
+
 - Helodermatidae
 
 - Heloderma spp. <Poisonous lizards> (Except the subspecies included in Appendix I)
 
 - Heloderma horridum charlesbogerti <Beaded lizard>
-
-- Appendix I | Appendix II | Appendix III
 
 - Iguanidae
 
@@ -2216,11 +2220,11 @@ SCHEDULED SPECIES
 
 - Iguana spp. <Iguanas>
 
-- Appendix I | Appendix II | Appendix III
-
 - Phrynosoma blainvillii
 
 - Phrynosoma cerroense <Cedros Island horned lizard>
+
+- Appendix I | Appendix II | Appendix III
 
 - Phrynosoma coronatum <Coast horned lizard>
 
@@ -2243,6 +2247,8 @@ SCHEDULED SPECIES
 - Polychrotidae
 
 - Anolis agueroi <Cabo Cruz bearded anole, Aguero’s anole> (Cuba)
+
+- Appendix I | Appendix II | Appendix III
 
 - Anolis baracoae <Baracoa anole, Baracoa giant anole> (Cuba)
 
@@ -2306,11 +2312,11 @@ SCHEDULED SPECIES
 
 - Boa constrictor occidentalis <Argentine boa constrictor>
 
-- Appendix I | Appendix II | Appendix III
-
 - Epicrates inornatus <Puerto Rican boa>
 
 - Epicrates monensis <Mona Island boa>
+
+- Appendix I | Appendix II | Appendix III
 
 - Epicrates subflavus <Jamaican boa>
 
@@ -2324,8 +2330,6 @@ SCHEDULED SPECIES
 
 - Casarea dussumieri <Round Island keel-scaled boa>
 
-- Appendix I | Appendix II | Appendix III
-
 - Colubridae
 
 - Atretium schistosum <Olive keel-back> (India)
@@ -2335,6 +2339,8 @@ SCHEDULED SPECIES
 - Clelia clelia <Mussurana>
 
 - Cyclagras gigas <Beach cobra>
+
+- Appendix I | Appendix II | Appendix III
 
 - Elachistodon westermanni <Indian egg-eater, Indian egg-eating snake>
 
@@ -2350,11 +2356,11 @@ SCHEDULED SPECIES
 
 - Hoplocephalus bungaroides <Broad-headed snake>
 
-- Appendix I | Appendix II | Appendix III
-
 - Micrurus diastema <Atlantic coral snake> (Honduras)
 
 - Micrurus nigrocinctus <Black-banded coral snake> (Honduras)
+
+- Appendix I | Appendix II | Appendix III
 
 - Micrurus ruatanus <Black-banded coral snake> (Honduras)
 
@@ -2374,11 +2380,11 @@ SCHEDULED SPECIES
 
 - Naja samarensis <Peter’s cobra>
 
-- Appendix I | Appendix II | Appendix III
-
 - Naja siamensis <Indochinese spitting cobra>
 
 - Naja sputatrix <Southern Indochinese spitting cobra>
+
+- Appendix I | Appendix II | Appendix III
 
 - Naja sumatrana <Equatorial spitting cobra>
 
@@ -2394,8 +2400,6 @@ SCHEDULED SPECIES
 
 - Python molurus molurus <Indian python>
 
-- Appendix I | Appendix II | Appendix III
-
 - Tropidophiidae
 
 - Tropidophiidae spp. <Wood boas>
@@ -2405,6 +2409,8 @@ SCHEDULED SPECIES
 - Atheris desaixi <Ashe’s bush viper>
 
 - Bitis worthingtoni <Kenya horned viper>
+
+- Appendix I | Appendix II | Appendix III
 
 - Crotalus durissus <Cascabel, neotropical rattlesnake> (Honduras)
 
@@ -2442,11 +2448,11 @@ SCHEDULED SPECIES
 
 - Macrochelys temminckii <Alligator snapping turtle> (United States of America)
 
+- Appendix I | Appendix II | Appendix III
+
 - Dermatemydidae
 
 - Dermatemys mawii <Central American river turtle>
-
-- Appendix I | Appendix II | Appendix III
 
 - Dermochelyidae
 
@@ -2468,9 +2474,9 @@ SCHEDULED SPECIES
 
 - Terrapene spp. <Box turtles> (Except the species included in Appendix I)
 
-- Terrapene coahuila <Aquatic box turtle>
-
 - Appendix I | Appendix II | Appendix III
+
+- Terrapene coahuila <Aquatic box turtle>
 
 - Geoemydidae
 
@@ -2510,9 +2516,9 @@ SCHEDULED SPECIES
 
 - Heosemys depressa <Arakan forest turtle> (Zero quota for wild specimens for commercial purposes)
 
-- Heosemys grandis <Giant Asian pond turtle>
-
 - Appendix I | Appendix II | Appendix III
+
+- Heosemys grandis <Giant Asian pond turtle>
 
 - Heosemys spinosa <Spiny terrapin, spiny turtle>
 
@@ -2528,9 +2534,9 @@ SCHEDULED SPECIES
 
 - Mauremys japonica <Japanese pond turtle>
 
-- Appendix I | Appendix II | Appendix III
-
 - Mauremys megalocephala <Chinese big-headed pond turtle> (China)
+
+- Appendix I | Appendix II | Appendix III
 
 - Mauremys mutica <Yellow pond turtle>
 
@@ -2548,11 +2554,11 @@ SCHEDULED SPECIES
 
 - Morenia ocellata <Bengal eyed terrapin>
 
-- Appendix I | Appendix II | Appendix III
-
 - Morenia petersi <Indian eyed turtle>
 
 - Notochelys platynota <Malayan flat-shelled turtle>
+
+- Appendix I | Appendix II | Appendix III
 
 - Ocadia glyphistoma <Guangxi stripe-necked turtle> (China)
 
@@ -2566,11 +2572,11 @@ SCHEDULED SPECIES
 
 - Sacalia bealei <Beal’s eyed turtle>
 
-- Appendix I | Appendix II | Appendix III
-
 - Sacalia pseudocellata <False eye-spotted turtle> (China)
 
 - Sacalia quadriocellata <Four-eyed turtle>
+
+- Appendix I | Appendix II | Appendix III
 
 - Siebenrockiella crassicollis <Black marsh turtle>
 
@@ -2626,13 +2632,13 @@ SCHEDULED SPECIES
 
 - Apalone ferox <Florida softshell turtle> (United States of America)
 
+- Appendix I | Appendix II | Appendix III
+
 - Apalone mutica <Smooth softshell turtle> (United States of America)
 
 - Apalone spinifera <Spiny softshell turtle> (United States of America) (Except the subspecies included in Appendix I)
 
 - Apalone spinifera atra <Cuatro Cienegas softshell>
-
-- Appendix I | Appendix II | Appendix III
 
 - Chitra spp. <Narrow-headed softshell turtles> (Except the species included in Appendix I)
 
@@ -2641,6 +2647,8 @@ SCHEDULED SPECIES
 - Chitra vandijki <Burmese narrow-headed softshell turtle>
 
 - Cyclanorbis elegans <Nubian flapshell turtle>
+
+- Appendix I | Appendix II | Appendix III
 
 - Cyclanorbis senegalensis <Senegal flapshell turtle>
 
@@ -2702,8 +2710,6 @@ SCHEDULED SPECIES
 
 - Anomaloglossus rufulus <Chimantá poison frog>
 
-- Appendix I | Appendix II | Appendix III
-
 - Bufonidae
 
 - Altiphrynoides spp. <Ethiopian toads>
@@ -2711,6 +2717,8 @@ SCHEDULED SPECIES
 - Amietophrynus channingi <Cameroon toad>
 
 - Amietophrynus superciliaris <Cameroon toad>
+
+- Appendix I | Appendix II | Appendix III
 
 - Atelopus zeteki <Cerro Campana stubfoot toad, golden frog>
 
@@ -2724,8 +2732,6 @@ SCHEDULED SPECIES
 
 - Calyptocephalella gayi <Helmeted water toad> (Chile)
 
-- Appendix I | Appendix II | Appendix III
-
 - Dendrobatidae
 
 - Adelphobates spp. <Poison frogs>
@@ -2735,6 +2741,8 @@ SCHEDULED SPECIES
 - Andinobates spp. <Poison frogs>
 
 - Dendrobates spp. <Poison frogs>
+
+- Appendix I | Appendix II | Appendix III
 
 - Epipedobates spp. <Poison frogs>
 
@@ -2750,8 +2758,6 @@ SCHEDULED SPECIES
 
 - Ranitomeya spp. <Poison frogs>
 
-- Appendix I | Appendix II | Appendix III
-
 - Dicroglossidae
 
 - Euphlyctis hexadactylus <Six-fingered frog>
@@ -2765,6 +2771,8 @@ SCHEDULED SPECIES
 - Mantellidae
 
 - Mantella spp. <Golden frogs>
+
+- Appendix I | Appendix II | Appendix III
 
 - Microhylidae
 
@@ -2800,11 +2808,11 @@ SCHEDULED SPECIES
 
 - Ambystoma mexicanum <Axolotl>
 
-- Appendix I | Appendix II | Appendix III
-
 - Cryptobranchidae
 
 - Andrias spp. <Giant salamanders>
+
+- Appendix I | Appendix II | Appendix III
 
 - Cryptobranchus alleganiensis <Hellbender> (United States of America)
 
@@ -2824,11 +2832,11 @@ SCHEDULED SPECIES
 
 - Paramesotriton spp. <Warty newts>
 
+- Appendix I | Appendix II | Appendix III
+
 - Salamandra algira <North African fire salamander> (Algeria)
 
 - Tylototriton spp. <Crocodile newts, knobby newts>
-
-- Appendix I | Appendix II | Appendix III
 
 - CLASS ELASMOBRANCHII <SHARKS>
 
@@ -2882,6 +2890,8 @@ SCHEDULED SPECIES
 
 - Paratrygon aiereba <Discus ray> (Colombia)
 
+- Appendix I | Appendix II | Appendix III
+
 - Potamotrygon spp. <River stingrays> [Population of Brazil (Brazil)]
 
 - Potamotrygon constellata <Thorny river stingray> (Colombia)
@@ -2895,6 +2905,8 @@ SCHEDULED SPECIES
 - Potamotrygon schroederi <Rosette river stingray> (Colombia)
 
 - Potamotrygon scobina <Raspy river stingray> (Colombia)
+
+- Appendix I | Appendix II | Appendix III
 
 - Potamotrygon yepezi <Maracaibo river stingray> (Colombia)
 
@@ -2920,13 +2932,13 @@ SCHEDULED SPECIES
 
 - Rhinidae spp. <Wedgefishes>
 
-- Appendix I | Appendix II | Appendix III
-
 - CLASS ACTINOPTERI <FISHES>
 
 - ACIPENSERIFORMES
 
 - ACIPENSERIFORMES spp. <Sturgeons> (Except the species included in Appendix I)
+
+- Appendix I | Appendix II | Appendix III
 
 - Acipenseridae
 
@@ -2939,8 +2951,6 @@ SCHEDULED SPECIES
 - Anguillidae
 
 - Anguilla anguilla <Common eel, European eel>
-
-- Appendix I | Appendix II | Appendix III
 
 - CYPRINIFORMES
 
@@ -2960,13 +2970,13 @@ SCHEDULED SPECIES
 
 - Arapaima gigas <Arapaima>
 
+- Appendix I | Appendix II | Appendix III
+
 - Osteoglossidae
 
 - Scleropages formosus <Asian arowana, Asiatic bony tongue>
 
 - Scleropages inscriptus <Asian arowana, Asiatic bony tongue>
-
-- Appendix I | Appendix II | Appendix III
 
 - PERCIFORMES
 
@@ -2992,13 +3002,13 @@ SCHEDULED SPECIES
 
 - Pangasianodon gigas <Giant catfish>
 
+- Appendix I | Appendix II | Appendix III
+
 - SYNGNATHIFORMES
 
 - Syngnathidae
 
 - Hippocampus spp. <Seahorses>
-
-- Appendix I | Appendix II | Appendix III
 
 - CLASS DIPNEUSTI <LUNGFISHES>
 
@@ -3026,6 +3036,8 @@ SCHEDULED SPECIES
 
 - Isostichopus fuscus <Brown sea cucumber> (Ecuador)
 
+- Appendix I | Appendix II | Appendix III
+
 - HOLOTHURIIDA
 
 - Holothuriidae
@@ -3035,8 +3047,6 @@ SCHEDULED SPECIES
 - Holothuria nobilis <Black teatfish>
 
 - Holothuria whitmaei <Black teatfish>
-
-- Appendix I | Appendix II | Appendix III
 
 - PHYLUM ARTHROPODA
 
@@ -3060,6 +3070,8 @@ SCHEDULED SPECIES
 
 - Pandinus camerounensis <Emperor scorpion>
 
+- Appendix I | Appendix II | Appendix III
+
 - Pandinus dictator <Scorpion>
 
 - Pandinus gambiensis <Giant Senelgalese scorpion>
@@ -3067,8 +3079,6 @@ SCHEDULED SPECIES
 - Pandinus imperator <Emperor scorpion>
 
 - Pandinus roeseli <Emperor scorpion>
-
-- Appendix I | Appendix II | Appendix III
 
 - CLASS INSECTA <INSECTS>
 
@@ -3088,11 +3098,11 @@ SCHEDULED SPECIES
 
 - Agrias amydon boliviensis <White-spotted agrias> (Plurinational State of Bolivia)
 
+- Appendix I | Appendix II | Appendix III
+
 - Morpho godartii lachaumei <Godart’s morpho> (Plurinational State of Bolivia)
 
 - Prepona praeneste buckleyana <Prepona> (Plurinational State of Bolivia)
-
-- Appendix I | Appendix II | Appendix III
 
 - Papilionidae
 
@@ -3108,11 +3118,11 @@ SCHEDULED SPECIES
 
 - Ornithoptera spp. <Birdwing butterflies> (Except the species included in Appendix I)
 
+- Appendix I | Appendix II | Appendix III
+
 - Ornithoptera alexandrae <Queen Alexandra’s birdwing>
 
 - Papilio homerus <Homerus swallowtail>
-
-- Appendix I | Appendix II | Appendix III
 
 - Papilio hospiton <Corsican swallowtail>
 
@@ -3162,11 +3172,11 @@ SCHEDULED SPECIES
 
 - Epioblasma curtisi <Curtis’ pearly mussel>
 
-- Appendix I | Appendix II | Appendix III
-
 - Epioblasma florentina <Yellow-blossom pearly mussel>
 
 - Epioblasma sampsonii <Sampson’s pearly mussel>
+
+- Appendix I | Appendix II | Appendix III
 
 - Epioblasma sulcata perobliqua <White Catspan pearly mussel>
 
@@ -3180,11 +3190,11 @@ SCHEDULED SPECIES
 
 - Epioblasma walkeri <Brown-blossom pearly mussel>
 
-- Appendix I | Appendix II | Appendix III
-
 - Fusconaia cuneolus <Fine-rayed pigtoe pearly mussel>
 
 - Fusconaia edgariana <Shiny pigtoe pearly mussel>
+
+- Appendix I | Appendix II | Appendix III
 
 - Lampsilis higginsii <Higgin’s eye pearly mussel>
 
@@ -3198,13 +3208,13 @@ SCHEDULED SPECIES
 
 - Plethobasus cooperianus <Orangefoot pimpleback mussel>
 
-- Appendix I | Appendix II | Appendix III
-
 - Pleurobema clava <Club naiad>
 
 - Pleurobema plenum <Rough pigtoe pearly mussel>
 
 - Potamilus capax <Fat pocketbook pearly mussel>
+
+- Appendix I | Appendix II | Appendix III
 
 - Quadrula intermedia <Cumberland monkeyface pearly mussel>
 
@@ -3218,8 +3228,6 @@ SCHEDULED SPECIES
 
 - Villosa trabalis <Cumberland bean pearly mussel>
 
-- Appendix I | Appendix II | Appendix III
-
 - VENEROIDA
 
 - Tridacnidae
@@ -3229,6 +3237,8 @@ SCHEDULED SPECIES
 - CLASS CEPHALOPODA <SQUIDS, OCTOPUSES, CUTTLEFISH>
 
 - NAUTILIDA
+
+- Appendix I | Appendix II | Appendix III
 
 - Nautilidae
 
@@ -3256,8 +3266,6 @@ SCHEDULED SPECIES
 
 - Polymita spp. <Cuban landsnails>
 
-- Appendix I | Appendix II | Appendix III
-
 - PHYLUM CNIDARIA
 
 - CLASS ANTHOZOA <CORALS, SEA ANEMONES>
@@ -3265,6 +3273,8 @@ SCHEDULED SPECIES
 - ANTIPATHARIA
 
 - ANTIPATHARIA spp. <Black corals>
+
+- Appendix I | Appendix II | Appendix III
 
 - GORGONACEAE
 
@@ -3278,8 +3288,6 @@ SCHEDULED SPECIES
 
 - Corallium secundum <Angelskin coral, pink coral> (China)
 
-- Appendix I | Appendix II | Appendix III
-
 - HELIOPORACEA
 
 - Helioporidae
@@ -3290,13 +3298,13 @@ SCHEDULED SPECIES
 
 - SCLERACTINIA spp. <Stony corals> (Fossils are not subject to the provisions of this Ordinance)
 
+- Appendix I | Appendix II | Appendix III
+
 - STOLONIFERA
 
 - Tubiporidae
 
 - Tubiporidae spp. <Organ-pipe corals> (Fossils are not subject to the provisions of this Ordinance)
-
-- Appendix I | Appendix II | Appendix III
 
 - CLASS HYDROZOA <SEA FERNS, FIRE CORALS, STINGING MEDUSAE>
 
@@ -3318,9 +3326,9 @@ SCHEDULED SPECIES
 
 - Agave parviflora <Santa Cruz striped agave>
 
-- Appendix I | Appendix II | Appendix III
-
 - Agave victoriae-reginae #4 <Queen agave>
+
+- Appendix I | Appendix II | Appendix III
 
 - Nolina interrata <Dehesa bear-grass>
 
@@ -3340,8 +3348,6 @@ SCHEDULED SPECIES
 
 - Operculicarya pachypus
 
-- Appendix I | Appendix II | Appendix III
-
 - APOCYNACEAE
 
 - Hoodia spp. #9
@@ -3350,13 +3356,13 @@ SCHEDULED SPECIES
 
 - Pachypodium ambongense
 
+- Appendix I | Appendix II | Appendix III
+
 - Pachypodium baronii
 
 - Pachypodium decaryi
 
 - Rauvolfia serpentina #2 <Snake-root devil-pepper>
-
-- Appendix I | Appendix II | Appendix III
 
 - ARALIACEAE
 
@@ -3392,13 +3398,13 @@ SCHEDULED SPECIES
 
 - Ariocarpus spp. <Living rock cacti>
 
-- Appendix I | Appendix II | Appendix III
-
 - Astrophytum asterias <Star cactus>
 
 - Aztekium ritteri <Aztec cactus>
 
 - Coryphantha werdermannii <Jabali pincushion cactus>
+
+- Appendix I | Appendix II | Appendix III
 
 - Discocactus spp. <Discocacti>
 
@@ -3412,13 +3418,13 @@ SCHEDULED SPECIES
 
 - Mammillaria pectinifera (Includes the ssp. solisioides)
 
-- Appendix I | Appendix II | Appendix III
-
 - Melocactus conoideus <Conelike Turk’s-cap cactus>
 
 - Melocactus deinacanthus <Wonderfully-bristled Turk’s-cap cactus>
 
 - Melocactus glaucescens <Woolly waxy-stemmed Turk’s-cap cactus>
+
+- Appendix I | Appendix II | Appendix III
 
 - Melocactus paucispinus <Few-spined Turk’s-cap cactus>
 
@@ -3434,13 +3440,13 @@ SCHEDULED SPECIES
 
 - Pediocactus peeblesianus <Peeble’s Navajo cactus>
 
-- Appendix I | Appendix II | Appendix III
-
 - Pediocactus sileri <Siler’s pincushion cactus>
 
 - Pelecyphora spp. <Hatchet cacti>
 
 - Sclerocactus blainei <Blaine’s fishhook cactus>
+
+- Appendix I | Appendix II | Appendix III
 
 - Sclerocactus brevihamatus ssp. tobuschii
 
@@ -3458,6 +3464,8 @@ SCHEDULED SPECIES
 
 - Sclerocactus nyensis <Tonopah fishhook cactus>
 
+- Appendix I | Appendix II | Appendix III
+
 - Sclerocactus papyracanthus <Paper-spine pincushion cactus>
 
 - Sclerocactus pubispinus <Great Basin fishhook cactus>
@@ -3465,8 +3473,6 @@ SCHEDULED SPECIES
 - Sclerocactus sileri <Siler’s fishhook cactus>
 
 - Sclerocactus wetlandicus <Uinta Basin hookless cactus>
-
-- Appendix I | Appendix II | Appendix III
 
 - Sclerocactus wrightiae <Wright’s fishhook cactus>
 
@@ -3484,13 +3490,13 @@ SCHEDULED SPECIES
 
 - Saussurea costus <Costus root>
 
+- Appendix I | Appendix II | Appendix III
+
 - CUCURBITACEAE
 
 - Zygosicyos pubescens
 
 - Zygosicyos tripartitus
-
-- Appendix I | Appendix II | Appendix III
 
 - CUPRESSACEAE
 
@@ -3514,9 +3520,9 @@ SCHEDULED SPECIES
 
 - Cibotium barometz #4
 
-- Dicksonia spp. #4 <Tree ferns> (Only the populations of the Americas; no other population is included in the Appendices)
-
 - Appendix I | Appendix II | Appendix III
+
+- Dicksonia spp. #4 <Tree ferns> (Only the populations of the Americas; no other population is included in the Appendices)
 
 - DIDIEREACEAE
 
@@ -3556,9 +3562,9 @@ SCHEDULED SPECIES
 
 - Euphorbia moratii (Includes the vars. antsingiensis, bemarahensis and multiflora)
 
-- Euphorbia parvicyathophora
-
 - Appendix I | Appendix II | Appendix III
+
+- Euphorbia parvicyathophora
 
 - Euphorbia quartziticola
 
@@ -3596,8 +3602,6 @@ SCHEDULED SPECIES
 
 - Dalbergia nigra <Brazilian rosewood>
 
-- Appendix I | Appendix II | Appendix III
-
 - Dipteryx panamensis (Costa Rica, Nicaragua)
 
 - Guibourtia demeusei #15
@@ -3614,13 +3618,13 @@ SCHEDULED SPECIES
 
 - Pterocarpus erinaceus <African rosewood, kosso>
 
+- Appendix I | Appendix II | Appendix III
+
 - Pterocarpus santalinus #7 <Red sandalwood>
 
 - Pterocarpus tinctorius #6 <African padauk, bloodwood>
 
 - Senna meridionalis <Taraby>
-
-- Appendix I | Appendix II | Appendix III
 
 - LILIACEAE
 
@@ -3636,11 +3640,11 @@ SCHEDULED SPECIES
 
 - Aloe bellatula
 
+- Appendix I | Appendix II | Appendix III
+
 - Aloe calcairophila
 
 - Aloe compressa (Includes the vars. paucituberculata, rugosquamosa and schistophila)
-
-- Appendix I | Appendix II | Appendix III
 
 - Aloe delphinensis
 
@@ -3660,9 +3664,9 @@ SCHEDULED SPECIES
 
 - Aloe pillansii <Bastard quiver tree>
 
-- Aloe polyphylla <Spiral aloe>
-
 - Appendix I | Appendix II | Appendix III
+
+- Aloe polyphylla <Spiral aloe>
 
 - Aloe rauhii
 
@@ -3682,17 +3686,15 @@ SCHEDULED SPECIES
 
 - MELIACEAE
 
-- Appendix I | Appendix II | Appendix III
-
 - Cedrela spp. #6 <Cedars> (Populations of the Neotropics)
 
 - Swietenia humilis #4 <Mexican mahogany>
 
 - Swietenia macrophylla #6 <Big-leaf mahogany> (Populations of the Neotropics)
 
-- Swietenia mahagoni #5 <American mahogany>
-
 - Appendix I | Appendix II | Appendix III
+
+- Swietenia mahagoni #5 <American mahogany>
 
 - NEPENTHACEAE
 
@@ -3722,13 +3724,13 @@ SCHEDULED SPECIES
 
 - Dendrobium cruentum
 
-- Appendix I | Appendix II | Appendix III
-
 - Mexipedium xerophyticum <Dry-growing mexipedium>
 
 - Paphiopedilum spp. <Slipper orchids>
 
 - Peristeria elata <Holy ghost orchid>
+
+- Appendix I | Appendix II | Appendix III
 
 - Phragmipedium spp. <Slipper orchids>
 
@@ -3744,8 +3746,6 @@ SCHEDULED SPECIES
 
 - Dypsis decaryi #4 <Feather palm>
 
-- Appendix I | Appendix II | Appendix III
-
 - Dypsis decipiens <Butterfly palm>
 
 - Lemurophoenix halleuxii <Red-lemur palm>
@@ -3756,6 +3756,8 @@ SCHEDULED SPECIES
 
 - Ravenea louvelii
 
+- Appendix I | Appendix II | Appendix III
+
 - Ravenea rivularis <Majesty palm>
 
 - Satranala decussilvae
@@ -3765,8 +3767,6 @@ SCHEDULED SPECIES
 - PAPAVERACEAE
 
 - Meconopsis regia #1 <Himalayan poppy> (Nepal)
-
-- Appendix I | Appendix II | Appendix III
 
 - PASSIFLORACEAE
 
@@ -3786,9 +3786,9 @@ SCHEDULED SPECIES
 
 - Abies guatemalensis <Guatemalan fir>
 
-- Pinus koraiensis #5 <Korean pine> (Russian Federation)
-
 - Appendix I | Appendix II | Appendix III
+
+- Pinus koraiensis #5 <Korean pine> (Russian Federation)
 
 - PODOCARPACEAE
 
@@ -3828,8 +3828,6 @@ SCHEDULED SPECIES
 
 - Osyris lanceolata #2 <East Africa sandalwood> (Populations of Burundi, Ethiopia, Kenya, Rwanda, Uganda and the United Republic of Tanzania)
 
-- Appendix I | Appendix II | Appendix III
-
 - SARRACENIACEAE
 
 - Sarracenia spp. #4 <Pitcher plants> (Except the species included in Appendix I)
@@ -3838,13 +3836,13 @@ SCHEDULED SPECIES
 
 - Sarracenia rubra ssp. alabamensis
 
+- Appendix I | Appendix II | Appendix III
+
 - Sarracenia rubra ssp. jonesii <Mountain sweet pitcher plant>
 
 - SCROPHULARIACEAE
 
 - Picrorhiza kurrooa #2 <Picrorhiza, kutki> (Excludes Picrorhiza scrophulariiflora)
-
-- Appendix I | Appendix II | Appendix III
 
 - STANGERIACEAE
 
@@ -3860,11 +3858,11 @@ SCHEDULED SPECIES
 
 - Taxus fuana and infraspecific taxa of this species #2
 
+- Appendix I | Appendix II | Appendix III
+
 - Taxus sumatrana and infraspecific taxa of this species #2
 
 - Taxus wallichiana #2 <Himalayan yew>
-
-- Appendix I | Appendix II | Appendix III
 
 - THYMELAEACEAE (Aquilariaceae)
 
@@ -3886,9 +3884,9 @@ SCHEDULED SPECIES
 
 - Cyphostemma elephantopus
 
-- Appendix I | Appendix II | Appendix III
-
 - Cyphostemma laza <Laza>
+
+- Appendix I | Appendix II | Appendix III
 
 - Cyphostemma montagnacii
 
@@ -3908,11 +3906,11 @@ SCHEDULED SPECIES
 
 - Zamia restrepoi
 
-- Appendix I | Appendix II | Appendix III
-
 - ZINGIBERACEAE
 
 - Hedychium philippinense #4 <Philippine garland flower>
+
+- Appendix I | Appendix II | Appendix III
 
 - Siphonochilus aethiopicus <Natal ginger> (Populations of Eswatini, Mozambique, South Africa and Zimbabwe)
 
@@ -3956,7 +3954,7 @@ SCHEDULED SPECIES
 
   - 4. (Repealed L.N. 114 of 2018)
 
-  - 5. Any specimen of the populations of Botswana, Namibia, South Africa and Zimbabwe is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
+  - 5. Any specimen of the populations of Botswana, Namibia, South Africa and Zimbabwe is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as— (Amended L.N. 98 of 2014)
 
     - (a) hunting trophies for non-commercial purposes;
 
@@ -3970,7 +3968,7 @@ SCHEDULED SPECIES
 
     - (f) individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe; or (Amended L.N. 114 of 2018)
 
-    - (g) registered raw ivory (whole tusks and pieces) subject to the following —
+    - (g) registered raw ivory (whole tusks and pieces) subject to the following—
 
       - (i) only registered government-owned stocks, originating in the state (excluding seized ivory and ivory of unknown origin);
 
@@ -3990,7 +3988,7 @@ SCHEDULED SPECIES
 
   - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
 
-  - 6. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of this Ordinance —
+  - 6. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of this Ordinance—
 
   - — | Hatiora x graeseri
 
@@ -4008,7 +4006,7 @@ SCHEDULED SPECIES
 
   - — | Opuntia microdasys (cultivars).
 
-  - 7. Artificially propagated specimens of hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis and Vanda are not subject to the provisions of this Ordinance when —
+  - 7. Artificially propagated specimens of hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis and Vanda are not subject to the provisions of this Ordinance when—
 
     - (a) the specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
 

@@ -1,12 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2, 4, 19 & 48(1) & Sch. 4] (Amended 7 of 2018 s. 25)
 
-CONVENTION INSTRUMENTS
+Convention Instruments
 
 This Schedule sets out, with or without modification, the relevant parts of Convention instruments that have the force of law in Hong Kong.
 
-- PART 1 INTERPRETATION AND APPLICATION
+- Part 1 Interpretation and Application
 
   - I.
 
@@ -24,7 +24,9 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - II.
 
-    - “Appropriate and acceptable destination” (適當和可接受的目的地) Where the term “appropriate and acceptable destination” appears in an annotation to the listing of a species in Appendix II with reference to the export of or international trade in live animals, this term shall be defined to mean a destination where the relevant authority of the place of import is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for it sustainably and the relevant authorities of the place of import and the place of export are satisfied that the trade would promote in situ conservation. (Amended L.N. 114 of 2018; L.N. 22 of 2021)
+    - “Appropriate and acceptable destination” (適當和可接受的目的地) Where the term “appropriate and acceptable destination” appears in an annotation to the listing of a species in Appendix II with reference to the export of or international trade in live animals, this term shall be defined to mean a destination where the relevant authority of the place of import is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for it sustainably and the relevant authorities of the place of import and the place of export are satisfied that the trade would promote in situ conservation.
+
+- (Amended L.N. 114 of 2018; L.N. 22 of 2021)
 
   - III.
 
@@ -48,7 +50,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (c)
 
-      - cultivar (栽培種) means an assemblage of plants that—
+      - “cultivar” means an assemblage of plants that— (Amended E.R. 5 of 2021)
 
         - (i) has been selected for a particular character or combination of characters;
 
@@ -228,7 +230,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (d) plant material collected sustainably from wild populations in accordance with the Convention and relevant domestic laws and in a manner not detrimental to the survival of the species in the wild. (Added L.N. 22 of 2021)
 
-- PART 2 PERMITS AND CERTIFICATES Regarding standardization of permits and certificates issued under the Convention
+- Part 2 Permits and Certificates Regarding standardization of permits and certificates issued under the Convention
 
   - 1. To fulfil the requirements of Article VI of the Convention and relevant Resolutions, export and import permits, re-export and pre-Convention certificates, certificates of origin and certificates of captive breeding and artificial propagation (except where phytosanitary certificates are used for this purpose) shall include all the information specified in the Annex.
 
@@ -322,7 +324,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (c) certain manufactured products contain pre-Convention specimens that cannot be identified to the species level; (Amended L.N. 22 of 2021)
 
-    - (d) worked skins or pieces thereof of Tupinambis species that were imported before 1 August 2000 are being re-exported, in which case it is sufficient to use the indication Tupinambis spp.; or (Amended L.N. 22 of 2021)
+    - (d) worked skins or pieces thereof of Tupinambis species that were imported before 1 August 2000 are being re-exported, in which case it is sufficient to use the indication “Tupinambis spp.”; or (Amended L.N. 22 of 2021; E.R. 5 of 2021)
 
     - (e) the species is unknown and the permit or certificate is for a biological sample of the type and size and for the use specified in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18), in which case it is sufficient to use the scientific name of the genus or family. (Added L.N. 22 of 2021)
 
@@ -330,7 +332,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - 17.
 
-    - For the purpose of the procedure described in paragraphs below, the term “sample collection” refer to collections of legally acquired dead specimens, parts and derivatives of species included in Appendix II or Appendix III and of Appendix I species bred in captivity or artificially propagated for commercial purposes, which are treated as Appendix II specimens, which are not entitled to be sold or otherwise transferred, and that will cross borders for presentation purposes before returning to the place from which such movement was first authorized. (Amended L.N. 36 of 2011)
+    - For the purpose of the procedure described in paragraphs below, the term “sample collection” refers to collections of legally acquired dead specimens, parts and derivatives of species included in Appendix II or Appendix III and of Appendix I species bred in captivity or artificially propagated for commercial purposes, which are treated as Appendix II specimens, which are not entitled to be sold or otherwise transferred, and that will cross borders for presentation purposes before returning to the place from which such movement was first authorized. (Amended L.N. 36 of 2011; E.R. 5 of 2021)
 
   - 18. Such sample collections shall be considered as “in transit” and entitled to the special provisions stipulated in Article VII, paragraph 1, of the Convention on the following conditions—
 
@@ -404,10 +406,10 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
 - (n) | In the case of a certificate of origin, a statement that the specimens originate in the place that issued the certificate.
 
-- PART 3 REQUIREMENTS RELATING TO EXEMPTION FOR NON-COMMERCIAL LOAN, DONATION OR EXCHANGE OF MUSEUM AND HERBARIUM SPECIMENS, ETC. (Amended L.N. 22 of 2021) For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material, or the container used to transport such specimens, samples or material, carry a label issued or approved by a relevant authority shall be met if the label— (Amended L.N. 22 of 2021)
+- Part 3 Requirements Relating to Exemption for Non-Commercial Loan, Donation or Exchange of Museum and Herbarium Specimens, etc. (Amended L.N. 22 of 2021) For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material, or the container used to transport such specimens, samples or material, carry a label issued or approved by a relevant authority shall be met if the label— (Amended L.N. 22 of 2021)
 
-  - (a) bears the acronym “CITES”;
+    - (a) bears the acronym “CITES”;
 
-  - (b) identifies the specimens, samples, material or contents of the container as herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material (as the case may be) for scientific study, for forensic analysis or for diagnostic purposes; and (Replaced L.N. 22 of 2021)
+    - (b) identifies the specimens, samples, material or contents of the container as herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material (as the case may be) for scientific study, for forensic analysis or for diagnostic purposes; and (Replaced L.N. 22 of 2021)
 
-  - (c) sets out the name and address of the sending institution and the codes of the exporting and importing institutions over the signature of a responsible officer of that registered scientific institution.
+    - (c) sets out the name and address of the sending institution and the codes of the exporting and importing institutions over the signature of a responsible officer of that registered scientific institution.

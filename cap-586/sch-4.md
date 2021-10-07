@@ -120,8 +120,14 @@ Stricter Regulation of Elephant Hunting Trophies and Elephant Ivory
 
       - specified licence (指明許可證), in relation to a specimen, means a licence for the possession or control of the specimen that was issued under section 23—
 
-        - (a) if the specimen is pre-Convention—before the commencement date of section 27(10) of the Amendment Ordinance; or
+        - (a) if the specimen is pre-Convention—before the commencement date* of section 27(10) of the Amendment Ordinance; or
 
-        - (b) if the specimen is not pre-Convention—before the commencement date of section 26 of the Amendment Ordinance. (Replaced 7 of 2018 s. 27)
+        - (b) if the specimen is not pre-Convention—before the commencement date# of section 26 of the Amendment Ordinance. (Replaced 7 of 2018 s. 27)
 
 (Schedule 4 added 7 of 2018 s. 26)
+
+Editorial Note:
+
+* Commencement date: 1 August 2018.
+
+\# Commencement date: 1 May 2018.
