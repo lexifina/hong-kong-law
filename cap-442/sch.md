@@ -144,7 +144,9 @@ Note: | The Board of Management of the Chinese Permanent Cemeteries is specified
 
 (e) | not to serve an enforcement notice under section 47;
 
-(f) | to serve an enforcement notice under section 50. (Added 81 of 1995 s. 73)
+(f) | to serve an enforcement notice under section 50; (Added 81 of 1995 s. 73. Amended 32 of 2021 s. 14)
+
+(g) | to serve a cessation notice under section 66M. (Added 32 of 2021 s. 14)
 
 30. | Dutiable Commodities Ordinance (Cap. 109) | A decision of the Commissioner of Customs and Excise under section 7, 26, 26A or 29. (Added 46 of 1996 s. 43)
 
