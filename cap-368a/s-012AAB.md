@@ -4,7 +4,7 @@
 
 # 12AAB. Driver liable if toll not paid
 
-(1) Subject to paragraphs (2) and (3), no person—
+(1) Subject to paragraphs (2), (2A) and (3), no person— (L.N. 147 of 2021)
 
 - (a) may drive a vehicle past a toll booth other than an autotoll booth unless—
 
@@ -19,6 +19,12 @@
 - (b) may drive a vehicle past an autotoll booth unless the appropriate toll for the vehicle is paid by debiting the account of the holder of an electronic toll pass opened with the Authority or the operator of the tunnel under regulation 12A.
 
 (2) Paragraph (1)(a) does not apply to a vehicle of the kind specified in regulation 14(1) or (1A), but the toll payable in respect of such a vehicle may be paid in such manner as the Authority may direct.
+
+(2A) Despite paragraph (2), paragraph (1)(a) applies to a bus that falls within either or both of the descriptions in regulation 14(1)(a) and (b) in relation to a tunnel if—
+
+- (a) the bus is exempt under regulation 15(3) or (4) or both (as applicable) in relation to the tunnel; and
+
+- (b) the bus is not of the kind specified in regulation 14(1)(c) or (d) or (1A). (L.N. 147 of 2021)
 
 (3) Paragraph (1) does not apply if, in the event of an emergency or in special circumstances, the Authority directs that the appropriate toll payable for the use of a tunnel by a vehicle is to be paid otherwise than as provided in that paragraph. The appropriate toll payable in respect of a vehicle must be paid in such manner as the Authority may direct.
 
