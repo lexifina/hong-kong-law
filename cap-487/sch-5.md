@@ -30,8 +30,10 @@ in respect of—
 
 (d) | a public transport service operated by a company pursuant to a franchise granted under section 5 of the Public Bus Services Ordinance (Cap. 230); (Amended L.N. 4 of 2015)
 
-(e) | a public transport service operated by a company or person pursuant to a franchise or licence granted under section 6 or 28 of the Ferry Services Ordinance (Cap. 104); or (Added L.N. 223 of 2009. Amended 15 of 2010 s. 24; L.N. 131 of 2012; L.N. 4 of 2015)
+(e) | a public transport service operated by a company or person pursuant to a franchise or licence granted under section 6 or 28 of the Ferry Services Ordinance (Cap. 104); (Added L.N. 223 of 2009. Amended 15 of 2010 s. 24; L.N. 131 of 2012; L.N. 4 of 2015; L.N. 233 of 2021)
 
-(f) | a public transport service operated by a person pursuant to a passenger service licence issued under section 27 of the Road Traffic Ordinance (Cap. 374) in respect of a public light bus which is on a scheduled service (as defined by regulation 2(1) of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)). (Added L.N. 4 of 2015)
+(f) | a public transport service operated by a person pursuant to a passenger service licence issued under section 27 of the Road Traffic Ordinance (Cap. 374) in respect of a public light bus (as defined by section 2 of that Ordinance); or (Added L.N. 4 of 2015. Amended L.N. 233 of 2021)
+
+(g) | a public transport service operated by Hong Kong Tramways Limited under the authority of the Tramway Ordinance (Cap. 107). (Added L.N. 233 of 2021)
 
 (Amended E.R. 1 of 2013)
