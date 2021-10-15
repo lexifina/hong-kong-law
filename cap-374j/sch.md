@@ -24,7 +24,7 @@ Superintendent | 1. | (a) | Caution; | 1. | (a) | Caution;
 
 (c) | Severe reprimand; or | (c) | Severe reprimand; or
 
-(d) | Forfeiture of not more than 7 days’ pay except in the case of absence without good cause when forfeiture of pay shall extend to the period of absence in addition to any other punishment awarded. | (d) | Forfeiture of not more than 7 days’ pay except in the case of absence without good cause when forfeiture of pay shall extend to the period of absence in addition to any other punishment awarded.
+(d) | Forfeiture of not more than 7 days’ pay except in the case of absence without good cause when forfeiture of pay extends to the period of absence in addition to any other punishment awarded. | (d) | Forfeiture of not more than 7 days’ pay except in the case of absence without good cause when forfeiture of pay extends to the period of absence in addition to any other punishment awarded.
 
 2. | Order for payment under regulation 16. | 2. | Order for payment under regulation 16.
 
@@ -34,9 +34,11 @@ Senior Police Officer | 1. | (a) | Caution; | 1. | (a) | Caution;
 
 (b) | Reprimand; | (b) | Reprimand;
 
-(c) | Severe reprimand; or | (c) | Severe reprimand;
+(c) | Severe reprimand; | (c) | Severe reprimand;
 
-(d) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay shall extend to the period of absence in addition to any other punishment awarded. | (d) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay shall extend to the period of absence in addition to any other punishment awarded; or
+(ca) | Deferment or stoppage of increment; or | (ca) | Deferment or stoppage of increment;
+
+(d) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay extends to the period of absence in addition to any other punishment awarded. | (d) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay extends to the period of absence in addition to any other punishment awarded; or
 
 2. | Order for payment under regulation 16. | (e) | Reduction in rank.
 
@@ -46,9 +48,9 @@ Senior Police Officer | 1. | (a) | Caution; | 1. | (a) | Caution;
 
 4. | In place of, or in addition to any punishment awarded under paragraph 1 above,— | (a) | dismissal without retirement benefits and reduction in rank before dismissal;
 
-(a) | dismissal without retirement benefits; | (b) | order to resign forthwith, without salary in lieu of notice; or
+(a) | dismissal without retirement benefits; | (b) | order to resign immediately, without salary in lieu of notice; or
 
-(b) | order to resign forthwith, without salary in lieu of notice; or
+(b) | order to resign immediately, without salary in lieu of notice; or
 
 (c) | compulsory retirement with full retirement benefits or reduced retirement benefits or without retirement benefits.
 
@@ -62,17 +64,19 @@ Commissioner of Police | 1. | (a) | Caution; | 1. | (a) | Caution;
 
 (b) | Reprimand; | (b) | Reprimand;
 
-(c) | Severe reprimand; or | (c) | Severe reprimand;
+(c) | Severe reprimand; | (c) | Severe reprimand;
 
-(d) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay shall extend to the period of absence in addition to any other punishment awarded. | (d) | Reduction in rank; or
+(ca) | Deferment or stoppage of increment; or | (ca) | Deferment or stoppage of increment;
 
-(e) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay shall extend to the period of absence in addition to any other punishment awarded.
+(d) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay extends to the period of absence in addition to any other punishment awarded. | (d) | Reduction in rank; or
+
+(e) | Forfeiture of not more than 1 month’s pay except in the case of absence without good cause when forfeiture of pay extends to the period of absence in addition to any other punishment awarded.
 
 2. | In place of, or in addition to any punishment awarded under paragraph 1 above,— | 2. | In place of, or in addition to any punishment awarded under paragraph 1 above,—
 
 (a) | dismissal without retirement benefits; | (a) | dismissal without retirement benefits and reduction in rank before dismissal;
 
-(b) | order to resign forthwith, without salary in lieu of notice; or | (b) | order to resign forthwith, without salary in lieu of notice; or
+(b) | order to resign immediately, without salary in lieu of notice; or | (b) | order to resign immediately, without salary in lieu of notice; or
 
 (c) | compulsory retirement with full retirement benefits or reduced retirement benefits or without retirement benefits. | (c) | compulsory retirement with full retirement benefits or reduced retirement benefits or without retirement benefits.
 
@@ -80,7 +84,7 @@ Commissioner of Police | 1. | (a) | Caution; | 1. | (a) | Caution;
 
 4. | Suspend punishment under regulation 15. | 4. | Suspend punishment under regulation 15.
 
-(6 of 2009 ss. 20 & 28)
+(6 of 2009 ss. 20 & 28; L.N. 62 of 2012)
 
 Editorial Note:
 
