@@ -1,3 +1,3 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 (Amendments incorporated)

@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [s. 3]
 
-PROVISIONS WITH RESPECT TO THE CORPORATION AND MEMBERS THEREOF
+Provisions with respect to the Corporation and Members thereof
 
 - 1. The Corporation shall be a body corporate having perpetual succession and a common seal.
 
@@ -30,7 +30,7 @@ PROVISIONS WITH RESPECT TO THE CORPORATION AND MEMBERS THEREOF
 
   - (1) A member of the Corporation who is in any way directly or indirectly interested in a contract made or proposed to be made by the Corporation, or in a contract made or proposed to be made by a subsidiary of the Corporation which is brought up for consideration by the Corporation, shall disclose the nature of his interest at a meeting of the Corporation; and the disclosure shall be recorded in the minutes of the Corporation, and the member shall not without the permission of the Chairman take any part in any deliberation of the Corporation with respect to that contract and shall not in any event vote on any question concerning it.
 
-  - (2) For the purposes of sub-paragraph (1), a general notice given at a meeting of the Corporation by a member thereof to the effect that he is a member of a specified company or firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with the company or firm shall be regarded as a sufficient disclosure of his interest in relation to any contract so made or proposed to be so made.
+  - (2) For the purposes of subparagraph (1), a general notice given at a meeting of the Corporation by a member thereof to the effect that he is a member of a specified company or firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with the company or firm shall be regarded as a sufficient disclosure of his interest in relation to any contract so made or proposed to be so made.
 
   - (3) A member of the Corporation need not attend in person at a meeting of the Corporation in order to make a disclosure which he is required to make under this paragraph if he takes reasonable steps to secure that the disclosure is made by a notice which is brought up and read at the meeting.
 

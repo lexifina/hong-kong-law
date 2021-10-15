@@ -3,3 +3,5 @@ To establish a corporation to operate the Kowloon-Canton Railway, to vest in tha
 (Amended 56 of 1986 s. 2; 13 of 1998 s. 2; 11 of 2007 s. 26)
 
 [24 December 1982] L.N. 429 of 1982
+
+(Format changes—E.R. 5 of 2021)

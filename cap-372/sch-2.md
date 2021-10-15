@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [s. 7(1)]
 
-- PART I
+- Part I
 
   - 1. There shall be vested in the Corporation for the interest specified in paragraphs 2, 3, 4 and 5 and for a period commencing on the appointed day and ending—
 
@@ -10,7 +10,7 @@
 
     - (b) in the case of land situated in the New Territories, on 30 June 2047, (Amended L.N. 325 of 1993)
 
-  - all the Government land (in this Schedule called “the said land”) described in the said paragraphs by reference to plans (in this Schedule called “the said plans”), certified under the hand of the Director of Lands as being the plans referred to in this Schedule, one set of which shall be deposited in the offices of the Land Registry, Victoria. (Amended 8 of 1993 s. 2; 29 of 1998 s. 105)
+  - all the Government land (in this Schedule called the said land) described in the said paragraphs by reference to plans (in this Schedule called the said plans), certified under the hand of the Director of Lands as being the plans referred to in this Schedule, one set of which shall be deposited in the offices of the Land Registry, Victoria. (Amended 8 of 1993 s. 2; 29 of 1998 s. 105)
 
   - 2. All that land bounded by a bold continuous black line on the said plans shall be vested absolutely:
 
@@ -46,7 +46,7 @@
 
   - 9. Nothing in this Schedule shall vest in the Corporation any rights which were not vested in the Government immediately prior to the appointed day and nothing in this Schedule shall affect the exercise by any person, other than the Government, of any rights in respect of the said land which he possessed immediately prior to the appointed day. (Amended 29 of 1998 s. 80)
 
-- PART II
+- Part II
 
   - 10. There shall be reserved to the Government liberty—
 
@@ -66,7 +66,7 @@
 
       - (ii) that portion of the top of the concrete platform at Kowloon Station coloured grey on the said plans, including all the under surface of the said platform;
 
-      - (iii) the top of the concrete platform at Mong Kok constructed under the rights reserved under sub-paragraph (c) hereof, including all the under surface thereof,
+      - (iii) the top of the concrete platform at Mong Kok constructed under the rights reserved under subparagraph (c) hereof, including all the under surface thereof,
 
     - together with all necessary rights of access and the right to construct on such platforms, so long as the stability thereof is not affected and having regard to the rights of other persons to the use of such platforms, buildings and other structures;
 
@@ -76,7 +76,7 @@
 
     - (e) to lay mains, pipes, wires, cables and drains within or upon the said land and to keep upon the said land any such mains, pipes, wires, cables and drains which existed upon the said land immediately prior to the appointed day and were used wholly or mainly for purposes other than railway purposes;
 
-    - (f) to cleanse, repair and maintain any works constructed or kept under the provisions of sub-paragraphs (a), (b), (c), (d) and (e) (including any of the platforms referred to in sub-paragraph (b)) and for its servants or agents to enter upon the said land for such purposes and for the inspection of such works or for the exercise of the rights conferred by this paragraph;
+    - (f) to cleanse, repair and maintain any works constructed or kept under the provisions of subparagraphs (a), (b), (c), (d) and (e) (including any of the platforms referred to in subparagraph (b)) and for its servants or agents to enter upon the said land for such purposes and for the inspection of such works or for the exercise of the rights conferred by this paragraph;
 
     - (g) to exercise on the said land such rights appurtenant to the beneficial enjoyment by the Government or its successors of land retained by the Government, being rights to continue to use land for a purpose for which the land was used immediately prior to the appointed day, and without derogation from the generality of the foregoing, such rights shall include—
 
@@ -144,7 +144,7 @@
 
     - Provided that nothing in this paragraph shall require the Corporation to carry out any building or other works otherwise than at the expense of the Government.
 
-- PART III
+- Part III
 
   - 22. The Chief Executive may by order in the Gazette amend— (Amended 62 of 1999 s. 3)
 
@@ -160,7 +160,7 @@
 
     - (1)
 
-      - In this Schedule the expressions “the said land” (所述土地) and “the said plans” (所述圖則) have the meanings assigned to them by paragraph 1.
+      - In this Schedule the expressions the said land (所述土地) and the said plans (所述圖則) have the meanings assigned to them by paragraph 1.
 
     - (2) Any reference to the Government or the Corporation shall where the reference relates to any right to go onto any land or do anything thereon be deemed to refer also to their servants or agents.
 
@@ -170,4 +170,4 @@
 
 Editorial Note:
 
-*Repealed—see 13 of 1998 s. 6
+* Repealed—see 13 of 1998 s. 6

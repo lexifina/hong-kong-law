@@ -1,10 +1,10 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [ss. 7(6) & (7), 34A(1) & 35(3)]
 
-- PART I
+- Part I
 
-  - 1. There shall be vested in the Corporation for the interest specified in paragraphs 2, 3, 4 and 5 for a period ending on 30 June 2047 all the Government land (in this Schedule called “the land”) described in those paragraphs by reference to plans (in this Schedule called “the plans”), certified under the hand of the Director of Lands as being the plans referred to in this Schedule, one set of which shall be deposited in the offices of the Land Registry. (Amended 8 of 1993 s. 2; L.N. 291 of 1993; 29 of 1998 s. 105)
+  - 1. There shall be vested in the Corporation for the interest specified in paragraphs 2, 3, 4 and 5 for a period ending on 30 June 2047 all the Government land (in this Schedule called the land) described in those paragraphs by reference to plans (in this Schedule called the plans), certified under the hand of the Director of Lands as being the plans referred to in this Schedule, one set of which shall be deposited in the offices of the Land Registry. (Amended 8 of 1993 s. 2; L.N. 291 of 1993; 29 of 1998 s. 105)
 
   - 2. In respect of the land shown grey on the plans there shall be vested—
 
@@ -38,7 +38,7 @@
 
   - 7. Nothing in this Schedule shall vest in the Corporation any rights which were not vested in the Government immediately prior to the deposit of the plans in accordance with paragraph 1 and nothing in this Schedule shall affect the exercise by any person, other than the Government, of any rights in respect of the land which he possessed immediately prior to the commencement* of the Kowloon-Canton Railway Corporation (Amendment) Ordinance 1986 (56 of 1986). (Amended 29 of 1998 s. 81)
 
-- PART II
+- Part II
 
   - 8. There is reserved to the Government liberty to open or break up any road along or across which the North-west Railway is laid, but in the exercise of the power the Government shall be subject to the following restrictions—
 
@@ -64,7 +64,7 @@
 
       - (b) the direction may specify where any platform or other works ancillary to the North-west Railway are to be reconstructed;
 
-      - (c) subject to sub-paragraph (2), the reasonable costs of such diversion as agreed between the Corporation and the Director or, in the event of a failure to agree, as may be determined by arbitration, shall be payable by the Government out of general revenue;
+      - (c) subject to subparagraph (2), the reasonable costs of such diversion as agreed between the Corporation and the Director or, in the event of a failure to agree, as may be determined by arbitration, shall be payable by the Government out of general revenue;
 
       - (d) upon the completion of the works required to effect the diversion—
 
@@ -78,7 +78,7 @@
 
       - (b) by reason of the carrying out of such work the Corporation has received or will receive any other benefit by way of greater efficiency in the running of the railway, reduction in wear of rolling stock on the North-west Railway or rails or any other part of the apparatus of the Corporation or by any other way,
 
-  - the amount paid to the company under sub-paragraph (1)(c) shall be reduced by the amount of the value of any such benefit.
+  - the amount paid to the company under subparagraph (1)(c) shall be reduced by the amount of the value of any such benefit.
 
   - 12. In the event of the Corporation failing to execute any works which it is required by paragraph 9, 10 or 11 to execute, the Director of Highways may cause such works to be executed and may recover the reasonable costs of such works from the Corporation, in such amount as he may certify to the Corporation, as a civil debt owed by the Corporation to the Government.
 
@@ -88,7 +88,7 @@
 
   - 15. The Corporation shall not assign, underlet, part with possession or otherwise dispose of the said land or any part thereof or any interest therein, or enter into any agreement so to do without the consent of the Director of Lands or otherwise than in accordance with such terms or conditions as he may impose in giving his consent including the payment of a premium to the Government for such consent. (Amended L.N. 291 of 1993)
 
-- PART III
+- Part III
 
   - 16. The Corporation and the Director of Lands may agree that any right vested in the Corporation by section 7(6) and this Schedule may be varied or extinguished and, if extinguished, that a new right should be granted by the Chief Executive to the Corporation in place of the right extinguished and, where such agreement has the effect of varying any plan deposited in the Land Registry under paragraph 1, a plan showing such variation shall be so deposited and, upon such deposit, the variation shall have effect from the date of the deposit as if it had been shown on the plans as first deposited under that paragraph and the provisions of section 7(7) shall apply accordingly. (Amended 8 of 1993 s. 2; L.N. 291 of 1993; 62 of 1999 s. 3)
 
@@ -104,7 +104,7 @@
 
       - (b)
 
-        - the expressions “the land” (該等土地) and “the plans” (該等圖則) have the meanings assigned to them by paragraph 1.
+        - the expressions the land (該等土地) and the plans (該等圖則) have the meanings assigned to them by paragraph 1.
 
     - (2) Any reference to the Government or the Corporation shall, where the reference relates to any right to go onto any land or do anything thereon, be deemed also to refer to their servants or agents.
 
@@ -112,4 +112,4 @@
 
 Editorial Note:
 
-*Commencement date: 1 November 1986.
+* Commencement date: 1 November 1986.
