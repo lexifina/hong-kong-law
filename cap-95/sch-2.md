@@ -2,69 +2,141 @@
 
 [s. 14]
 
-- Part I Rules of Procedure for the Investigation into Offences against Discipline by Subordinate Officers and Members of other Ranks
+- Part I Rules for Investigation into Offences against Discipline by Subordinate Officers and Members of Other Ranks
 
-  - 1. Every charge shall be entered on a charge sheet.
+  - 1. Interpretation of this Part In this Part—
 
-  - 2. Every charge shall be investigated by the Director in the first instance without delay in the presence of the accused and a full record thereof be made by the Director. (Amended 42 of 1961 s. 2)
+    - accused (被控人) means a subordinate officer or a member of other ranks charged with an offence against discipline;
 
-  - 3. The charge shall be read and explained to the accused.
+    - barrister (大律師) has the meaning given by section 2(1) of the Legal Practitioners Ordinance (Cap. 159);
 
-  - 4. Evidence shall not be on oath.
+    - defence representative (辯護代表) means a person specified in rule 5(1)(a) or (b) of this Part who represents an accused at a hearing;
 
-  - 5. The accused shall have full liberty to cross-examine any witness against him and to call any witnesses and make any statement in his defence.
+    - hearing (聆訊) means a hearing conducted in respect of an offence against discipline;
 
-  - 6. No documentary evidence shall be used against the accused unless he has previously been supplied with a copy thereof or has been given access thereto.
+    - solicitor (律師) has the meaning given by section 2(1) of the Legal Practitioners Ordinance (Cap. 159).
 
-  - 7. The Director may at any stage of the proceedings amend the charge or add a new charge:
+  - 2. Charge sheet Every charge must be entered on a charge sheet.
 
-    - Provided that in such event the amended or new charge shall be read and explained to the accused who shall be entitled to have any witnesses who have given evidence recalled for further cross-examination and to call such further witnesses as he may desire. (Amended 42 of 1961 s. 2)
+  - 3. Investigation of charge Every charge is to be investigated by the Director by way of a hearing under this Part without delay.
 
-  - 8. At the conclusion of the hearing of a charge, the Director shall— (Amended 42 of 1961 s. 2)
+  - 4. Appointment of prosecutor The Director must appoint a prosecutor for the purposes of the proceedings against an accused under this Part.
 
-    - (a) if in his opinion the evidence does not show that some offence against discipline has been committed, dismiss it;
+  - 5. Representation of accused at hearing
 
-    - (b) if in his opinion the evidence does show that some offence against discipline has been committed, either—
+    - (1) An accused may be represented at a hearing by—
 
-      - (i) award a punishment within his powers; or
+      - (a) (subject to the Director’s approval) a barrister or solicitor; or
 
-      - (ii) refer the case to the Chief Executive. (Amended 76 of 1999 s. 3)
+      - (b) any other person of the accused’s choice who is approved by the Director for the purpose,
 
-  - 9.
+    - and the person specified in paragraph (a) or (b) may conduct the defence on the accused’s behalf.
 
-    - (1) Whenever the Director refers a case to the Chief Executive under rule 8(b) he shall forward— (Amended 42 of 1961 s. 2; 76 of 1999 s. 3)
+    - (2) If the Director gives approval under subrule (1)(a), the accused may be represented at the hearing by a barrister or solicitor of the accused’s choice.
 
-      - (a) a typed copy of the record of proceedings (including the charge) certified by himself to be a true copy of the original thereof;
+    - (3) Despite subrule (1), the accused must attend the hearing in person.
 
-      - (b) a report setting out—
+    - (4) If the accused is represented at the hearing by a barrister or solicitor, the Director and the prosecutor may separately be assisted by a barrister or solicitor at the hearing.
 
-        - (i) his reasons for considering the charge proved;
+  - 6. Procedures at hearing
 
-        - (ii) his recommendations whether as regards punishment or otherwise; (Amended G.N.A. 61 of 1956)
+    - (1) The Director must read and explain to the accused any charge against the accused.
 
-      - (c) the accused’s conduct sheet.
+    - (2) The prosecutor or any barrister or solicitor assisting the prosecutor may—
 
-    - (2) Whenever the Director so refers a case he shall inform the accused that he may within 14 days forward any further representations he may wish to make in writing to the Chief Executive. (Amended 42 of 1961 s. 2; 76 of 1999 s. 3)
+      - (a) call any witness;
 
-  - 10. Upon reference to him of a case and after consideration of any representations in writing of the accused, the Chief Executive shall— (Amended 76 of 1999 s. 3)
+      - (b) cross-examine any witness giving evidence for the accused; and
 
-    - (a) if he is of opinion that the charge has not been proved, either—
+      - (c) make any statement in support of the charge.
 
-      - (i) dismiss it; or
+    - (3) The accused or the defence representative may—
 
-      - (ii) order either further investigation by the Director, or a fresh investigation in such manner and by such person or persons as he may think fit; (Amended 42 of 1961 s. 2)
+      - (a) cross-examine any witness giving evidence against the accused;
 
-    - (b) if he is of opinion that the charge is proved, or if, after any further or fresh investigation ordered under paragraph (a), he is of such opinion, shall award a punishment within his powers. (Amended G.N.A. 61 of 1956; 29 of 1975 s. 22)
+      - (b) call any witness; and
 
-  - 11. Every punishment awarded shall be entered in the conduct sheet of the member so punished.
+      - (c) make any statement to defend the accused.
 
-  - 12. Where the Director has delegated any function, power or duty to another member pursuant to section 6(2), references in rules 8, 9 and 10—
+    - (4) Evidence must not be taken on oath or affirmation.
 
-    - (a) to the Director, shall be read as if they were references to that other member; and
+    - (5) No documentary evidence may be used against the accused unless a copy of the documentary evidence, or access to the documentary evidence or a copy, has been given to the accused before the hearing.
 
-    - (b) to the Chief Executive, shall be read as if they were references to the Director,
+  - 7. Adding or amending charge
 
-  - but any case referred to the Director by another member pursuant to rule 8(b) (as modified by this rule) may be referred to the Chief Executive by the Director in accordance with rules 9 and 10. (Added 29 of 1975 s. 22. Amended 76 of 1999 s. 3)
+    - (1) The prosecutor may amend a charge or add a new charge at any time before the Director communicates a finding to the accused.
+
+    - (2) The Director must read and explain any amended or new charge to the accused.
+
+    - (3) The accused is entitled to a reasonable adjournment to prepare a further defence.
+
+    - (4) The prosecutor and the accused—
+
+      - (a) may recall any witness who has given evidence for the purpose of further examination, cross-examination or re-examination; and
+
+      - (b) may call any further witness.
+
+  - 8. Proceedings in accused’s absence Where an accused is required to appear in person in any proceedings under this Part and repeatedly fails to appear, the Director may proceed in the accused’s absence if satisfied that the accused has no reasonable excuse for the failures.
+
+  - 9. Record of proceedings
+
+    - (1) The Director must make, or cause to be made, a written record of the proceedings of a hearing.
+
+    - (2) The Director may make, or cause to be made, an audio recording or audio and visual recording of the proceedings, or any part of the proceedings, of a hearing.
+
+  - 10. Finding and punishment
+
+    - (1) At the conclusion of a hearing, the Director must—
+
+      - (a) if in the Director’s opinion the evidence does not show that any offence against discipline has been committed, dismiss the charge;
+
+      - (b) if in the Director’s opinion the evidence shows that an offence against discipline has been committed, either—
+
+        - (i) award a punishment within the Director’s powers; or
+
+        - (ii) refer the case to the Chief Executive.
+
+    - (2) Any punishment awarded must be entered in the conduct sheet of the accused so punished.
+
+  - 11. Reference of case to Chief Executive
+
+    - (1) If the Director refers a case to the Chief Executive, the Director must forward to the Chief Executive—
+
+      - (a) a copy of the charge sheet;
+
+      - (b) a copy of the written record of proceedings made in respect of the case under rule 9(1) of this Part which has been certified by the Director to be a true copy of the original;
+
+      - (c) a report setting out—
+
+        - (i) the Director’s reasons for considering the charge proved;
+
+        - (ii) the Director’s recommendation with respect to punishment or otherwise; and
+
+      - (d) the accused’s conduct sheet.
+
+    - (2) The Director must inform the accused by notice in writing that the accused may, within 14 days from the service of the notice, forward any further representations that the accused wishes to make to the Chief Executive in writing.
+
+  - 12. Procedure when case referred to Chief Executive On reference to the Chief Executive of a case and after consideration of any representations made by the accused, the Chief Executive must—
+
+    - (a) if in the Chief Executive’s opinion the charge has not been proved, either—
+
+      - (i) dismiss the charge; or
+
+      - (ii) order either a further investigation by the Director, or a fresh investigation in a manner and by a person or persons that the Chief Executive thinks fit;
+
+    - (b) if in the Chief Executive’s opinion the charge is proved, or if, after any further or fresh investigation ordered under paragraph (a)(ii), the Chief Executive is of that opinion, award a punishment within the Chief Executive’s powers.
+
+  - 13. Procedure where Director has delegated powers
+
+    - (1) If the Director has authorized under section 6(2) of this Ordinance any other person to exercise or perform the Director’s powers, functions or duties under rules 10, 11 and 12 of this Part—
+
+      - (a) a reference in those rules to the Director is to be regarded as a reference to that other person; and
+
+      - (b) a reference in those rules to the Chief Executive is to be regarded as a reference to the Director.
+
+    - (2) A case referred to the Director by another person under rule 10(1)(b)(ii) of this Part as modified by subrule (1) may be referred to the Chief Executive by the Director in accordance with rule 11 of this Part.
+
+- (Part I replaced L.N. 58 of 2012)
 
 - Part II
 
@@ -80,7 +152,7 @@
 
   - 2. In referring a case under rule 1 the Director shall send to the Chief Executive—
 
-    - (a) a copy of the record of the proceedings;
+    - (a) a copy of the record of the criminal proceedings; (Amended L.N. 58 of 2012)
 
     - (b) the officer’s conduct sheet; and
 
