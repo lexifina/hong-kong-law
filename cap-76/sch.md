@@ -1,16 +1,16 @@
-# SCHEDULE
+# Schedule
 
 [s. 2(1)]
 
-- CONVENTION ON THE LAW APPLICABLE TO TRUSTSAND ON THEIR RECOGNITION
+- Convention on the Law Applicable to Trusts and on their Recognition
 
 - BEING THE CONVENTION A DRAFT OF WHICH WAS ANNEXED TO THE FINAL ACT OF THE FIFTEENTH SESSION OF THE HAGUE CONFERENCE ON PRIVATE INTERNATIONAL LAW DATED AT THE HAGUE 20 OCTOBER 1984 IN ENGLISH AND FRENCH, BOTH TEXTS BEING EQUALLY AUTHENTIC
 
-- CHAPTER I—SCOPE
+- Chapter I—Scope
 
 - Article 1
 
-  - This Convention specifies the law applicable to trusts and governs their recognition.
+- This Convention specifies the law applicable to trusts and governs their recognition.
 
 - Article 2
 
@@ -28,27 +28,27 @@
 
 - Article 3
 
-  - The Convention applies only to trusts created voluntarily and evidenced in writing.
+- The Convention applies only to trusts created voluntarily and evidenced in writing.
 
 - Article 4
 
-  - The Convention does not apply to preliminary issues relating to the validity of wills or of other acts by virtue of which assets are transferred to the trustee.
+- The Convention does not apply to preliminary issues relating to the validity of wills or of other acts by virtue of which assets are transferred to the trustee.
 
 - Article 5
 
-  - The Convention does not apply to the extent that the law specified by Chapter II does not provide for trusts or the category of trusts involved.
+- The Convention does not apply to the extent that the law specified by Chapter II does not provide for trusts or the category of trusts involved.
 
-- CHAPTER II—APPLICABLE LAW
+- Chapter II—Applicable Law
 
 - Article 6
 
-  - A trust shall be governed by the law chosen by the settlor. The choice must be express or be implied in the terms of the instrument creating or the writing evidencing the trust, interpreted, if necessary, in the light of the circumstances of the case.
+- A trust shall be governed by the law chosen by the settlor. The choice must be express or be implied in the terms of the instrument creating or the writing evidencing the trust, interpreted, if necessary, in the light of the circumstances of the case.
 
-  - Where the law chosen under the previous paragraph does not provide for trusts or the category of trust involved, the choice shall not be effective and the law specified in Article 7 shall apply.
+- Where the law chosen under the previous paragraph does not provide for trusts or the category of trust involved, the choice shall not be effective and the law specified in Article 7 shall apply.
 
 - Article 7
 
-  - Where no applicable law has been chosen, a trust shall be governed by the law with which it is most closely connected.
+- Where no applicable law has been chosen, a trust shall be governed by the law with which it is most closely connected.
 
 - In ascertaining the law with which a trust is most closely connected reference shall be made in particular to—
 
@@ -62,7 +62,7 @@
 
 - Article 8
 
-  - The law specified by Article 6 or 7 shall govern the validity of the trust, its construction, its effects and the administration of the trust.
+- The law specified by Article 6 or 7 shall govern the validity of the trust, its construction, its effects and the administration of the trust.
 
 - In particular that law shall govern—
 
@@ -88,19 +88,19 @@
 
 - Article 9
 
-  - In applying this Chapter a severable aspect of the trust, particularly matters of administration, may be governed by a different law.
+- In applying this Chapter a severable aspect of the trust, particularly matters of administration, may be governed by a different law.
 
 - Article 10
 
-  - The law applicable to the validity of the trust shall determine whether that law or the law governing a severable aspect of the trust may be replaced by another law.
+- The law applicable to the validity of the trust shall determine whether that law or the law governing a severable aspect of the trust may be replaced by another law.
 
-- CHAPTER III—RECOGNITION
+- Chapter III—Recognition
 
 - Article 11
 
-  - A trust created in accordance with the law specified by the preceding Chapter shall be recognized as a trust.
+- A trust created in accordance with the law specified by the preceding Chapter shall be recognized as a trust.
 
-  - Such recognition shall imply, as a minimum, that the trust property constitutes a separate fund, that the trustee may sue and be sued in his capacity as trustee, and that he may appear or act in this capacity before a notary or any person acting in an official capacity.
+- Such recognition shall imply, as a minimum, that the trust property constitutes a separate fund, that the trustee may sue and be sued in his capacity as trustee, and that he may appear or act in this capacity before a notary or any person acting in an official capacity.
 
 - In so far as the law applicable to the trust requires or provides, such recognition shall imply in particular—
 
@@ -114,13 +114,13 @@
 
 - Article 12
 
-  - Where the trustee desires to register assets, movable or immovable, or documents of title to them, he shall be entitled, in so far as this is not prohibited by or inconsistent with the law of the State where registration is sought, to do so in his capacity as trustee or in such other way that the existence of the trust is disclosed.
+- Where the trustee desires to register assets, movable or immovable, or documents of title to them, he shall be entitled, in so far as this is not prohibited by or inconsistent with the law of the State where registration is sought, to do so in his capacity as trustee or in such other way that the existence of the trust is disclosed.
 
 - Article 14
 
-  - The Convention shall not prevent the application of rules of law more favourable to the recognition of trusts.
+- The Convention shall not prevent the application of rules of law more favourable to the recognition of trusts.
 
-- CHAPTER IV—GENERAL CLAUSES
+- Chapter IV—General Clauses
 
 - Article 15
 
@@ -142,7 +142,7 @@
 
 - Article 16
 
-  - The Convention does not prevent the application of those provisions of the law of the forum which must be applied even to international situations, irrespective of rules of conflict of laws.
+- The Convention does not prevent the application of those provisions of the law of the forum which must be applied even to international situations, irrespective of rules of conflict of laws.
 
 - Article 17
 
@@ -150,8 +150,8 @@
 
 - Article 18
 
-  - The provisions of the Convention may be disregarded when their application would be manifestly incompatible with public policy.
+- The provisions of the Convention may be disregarded when their application would be manifestly incompatible with public policy.
 
 - Article 22
 
-  - The Convention applies to trusts regardless of the date on which they were created.
+- The Convention applies to trusts regardless of the date on which they were created.
