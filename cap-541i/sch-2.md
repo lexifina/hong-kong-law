@@ -6,8 +6,6 @@ Form of Ballot Paper and Form of Notice of Result of Subsector Election
 
 (L.N. 75 of 2011) (Format changes—E.R. 1 of 2020)
 
-(See Special Remarks)
-
 Form 1
 
 Ballot Paper for Subsector Election
