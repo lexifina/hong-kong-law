@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3 & 10]
 
-CHARGES FOR DISPOSAL OF WASTE AT REFUSE TRANSFER STATIONS
+Charges for Disposal of Waste at Refuse Transfer Stations
 
 Item | Refuse transfer station | Particular | Charge for load of waste
 

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 16]
 
@@ -18,13 +18,13 @@ Flight Lieutenant | Senior Aircraft Engineer
 
 Flying Officer | Aircraft Engineer
 
-Warrant Officer | ｝ | Chief Aircraft Technician
+Warrant Officer | Chief Aircraft Technician
 
 Flight Sergeant
 
 Sergeant | Senior Aircraft Technician
 
-Sergeant | ｝ | Aircraft Technician
+Sergeant | Aircraft Technician
 
 Corporal
 
@@ -40,7 +40,7 @@ Squadron Leader | Chief Air Traffic Controller
 
 Squadron Leader | Chief Pilot—Aeroplane
 
-Squadron Leader | Chief Pilot—Helicopter
+Squadron Leader | Chief Pilot—Aeroplane
 
 Squadron Leader | Senior Air Traffic Controller
 
@@ -48,29 +48,29 @@ Flight Lieutenant | Senior Pilot—Aeroplane
 
 Flight Lieutenant | Senior Pilot—Helicopter
 
-Flight Lieutenant | ｝ | Air Traffic Controller
+Flight Lieutenant | Air Traffic Controller
 
 Flying Officer
 
-Flight Lieutenant | ｝ | Pilot—Aeroplane
+Flight Lieutenant | Pilot—Aeroplane
 
 Flying Officer
 
-Flight Lieutenant | ｝ | Pilot—Helicopter
+Flight Lieutenant | Pilot—Helicopter
 
 Flying Officer
 
-Flight Lieutenant | ｝ | Air Crewman Officer
+Flight Lieutenant | Air Crewman Officer
 
 Flying Officer
 
-Warrant Officer | ｝ | Air Crewman
+Warrant Officer | Air Crewman
 
 Flight Sergeant
 
 Sergeant
 
-Sergeant | ｝ | Operations Officer
+Sergeant | Operations Officer
 
 Corporal
 
