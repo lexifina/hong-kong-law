@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 8 & 9] (Amended 7 of 1996 s. 46)
+[ss. 8, 9 & 14F] (Amended 37 of 2021 s. 13)
 
 Universities in Hong Kong Specified under Section 8
 
