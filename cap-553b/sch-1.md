@@ -64,7 +64,7 @@ Item | Enactment | Provision
 
 37. | (Repealed L.N. 36 of 2003)
 
-38. | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Cap. 296 sub. leg. A) | Regulations 11(2) and 12(2)
+38. | (Repealed L.N. 214 of 2021)
 
 39. | (Repealed L.N. 152 of 2006)
 
