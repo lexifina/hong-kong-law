@@ -1,6 +1,8 @@
-# 42AAB. Administrator under Occupational Retirement Schemes Ordinance or approved trustee may disclose certain information despite section 41
+# 42AAB. Specified persons may disclose certain information despite section 41
 
-(1) Section 41 does not prevent an administrator as defined by section 2(1) of the Occupational Retirement Schemes Ordinance (Cap. 426), or an approved trustee of a registered scheme, from disclosing information if—
+(Amended 40 of 2021 s. 37)
+
+(1) Section 41 does not prevent a specified person from disclosing information if— (Amended 40 of 2021 s. 37)
 
 - (a) the Authority has given written consent; and
 
@@ -19,5 +21,17 @@
 - (c) the Authority is satisfied that the disclosure will enable or assist the person to exercise or perform the person’s official functions.
 
 (3) The Authority may, in giving consent, impose conditions that it considers appropriate.
+
+(4) In this section—
+
+- relevant employer (有關僱主) has the meaning given by section 2(1) of the Occupational Retirement Schemes Ordinance (Cap. 426);
+
+- specified person (指明人士) means—
+
+  - (a) an administrator as defined by section 2(1) of the Occupational Retirement Schemes Ordinance (Cap. 426);
+
+  - (b) an approved trustee of a registered scheme; or
+
+  - (c) a relevant employer of an occupational retirement scheme. (Added 40 of 2021 s. 37)
 
 (Added 1 of 2015 s. 11)

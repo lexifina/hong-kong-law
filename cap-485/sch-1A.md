@@ -1,6 +1,6 @@
 # Schedule 1A
 
-[s. 6A]
+[ss. 2 & 6A] (Amended 40 of 2021 s. 46)
 
 Provisions relating to Authority
 

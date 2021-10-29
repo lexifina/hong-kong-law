@@ -99,6 +99,7 @@ s-076.md
 s-077.md
 s-078.md
 s-078A.md
+s-078B.md
 s-079.md
 s-079A.md
 s-079B.md
