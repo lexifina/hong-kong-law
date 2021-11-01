@@ -35,3 +35,7 @@ Item | Matter in respect of which a fee is payable | Fee $
 13. | For lodging an application for the registration of a specified fund (as defined by section 78) as a limited partnership fund under section 79(3)(c)(i) | 479
 
 14. | For registering a specified fund (as defined by section 78) as a limited partnership fund under section 79(3)(c)(ii) | 2,555
+
+15. | For lodging an application for the registration of a non-Hong Kong fund (as defined by section 82A(1)) as a limited partnership fund under section 82B(3)(e)(i) (Added 34 of 2021 s. 13) | 479
+
+16. | For registering a non-Hong Kong fund (as defined by section 82A(1)) as a limited partnership fund under section 82B(3)(e)(ii) (Added 34 of 2021 s. 13) | 2,555

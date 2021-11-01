@@ -1,6 +1,8 @@
 # Schedule 1
 
-[ss. 11, 18, 20, 23, 33 & 99]
+[ss. 11, 18, 20, 23, 33, 82B & 99]
+
+(Amended 34 of 2021 s. 12)
 
 Information Required in Application for Registration as Limited Partnership Fund
 
@@ -156,10 +158,10 @@ Information Required in Application for Registration as Limited Partnership Fund
 
     - (i) all the proposed partners in the fund are corporations in the same group of companies; and
 
-    - (ii) the applicant understands that if the fund is registered as a limited partnership fund, the Registrar may strike the name of the fund off the LPF Register if all the partners in the fund are corporations in the same group of companies after the second anniversary of the date on which its certificate of registration is issued under section 13.
+    - (ii) the applicant understands that if the fund is registered as a limited partnership fund, the Registrar may strike the name of the fund off the LPF Register if all the partners in the fund are corporations in the same group of companies after the second anniversary of the date on which its certificate of registration is issued. (Amended 34 of 2021 s. 12)
 
 - 16. A confirmation on whether or not the records that the fund will be required to keep under section 29 will be kept in the office referred to in item 2 and, if the records will be kept in another place in Hong Kong, the address of that other place.
 
 - 17. A statement that the applicant understands that it is an offence to make a statement in the application that is false, misleading or deceptive in a material respect.
 
-- 18. The full name and contact information of the Hong Kong firm or solicitor referred to in section 11(2)(d) and, if the solicitor is practising in sole proprietorship, the number of the solicitor’s business registration certificate.
+- 18. The full name and contact information of the Hong Kong firm or solicitor referred to in section 11(2)(d) or 82B(3)(d) and, if the solicitor is practising in sole proprietorship, the number of the solicitor’s business registration certificate. (Amended 34 of 2021 s. 12)
