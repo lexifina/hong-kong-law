@@ -482,6 +482,10 @@ Registrar of Companies | Limited Partnerships Ordinance (Cap. 37).
 
 Registrar of Companies | Registered Trustees Incorporation Ordinance (Cap. 306).
 
+Registrar of Companies | Securities and Futures Ordinance (Cap. 571), Part IVA. (33 of 2021 s. 34)
+
+Registrar of Companies | Securities and Futures (Open-ended Fund Companies) Rules (Cap. 571 sub. leg. AQ). (33 of 2021 s. 34)
+
 Registrar of Companies | Companies Ordinance (Cap. 622).
 
 Registrar of Companies | Limited Partnership Fund Ordinance (Cap. 637). (14 of 2020 s. 101; E.R. 5 of 2020)

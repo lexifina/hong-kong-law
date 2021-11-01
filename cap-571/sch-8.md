@@ -248,6 +248,10 @@ Securities and Futures Appeals Tribunal
 
 - 15M. | Section 112ZJ(6) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 16 of 2016 s. 22)
 
+- 15MA. | Section 112ZJB(1) of this Ordinance | Refusal to register a non-Hong Kong fund corporation. (Added 33 of 2021 s. 11)
+
+- 15MB. | Section 112ZJB(5) of this Ordinance | Imposition of any condition. (Added 33 of 2021 s. 11)
+
 - 15N. | Section 112ZO(6) of this Ordinance | Imposition of any condition. (Added 16 of 2016 s. 22)
 
 - 15O. | Section 112ZO(7) of this Ordinance | Amendment or revocation of a modification or waiver. (Added 16 of 2016 s. 22)

@@ -1,0 +1,85 @@
+# Schedule 2
+
+[r. 8C]
+
+Content of Re-domiciliation Form
+
+- Part 1 Particulars of Non-Hong Kong Fund Corporation and Intended OFC
+
+  - 1. Particulars relating to non-Hong Kong fund corporation and intended OFC The particulars specified for the purposes of rule 8C(a) are—
+
+    - (a) the following particulars of the non-Hong Kong fund corporation—
+
+      - (i) its name;
+
+      - (ii) its place of incorporation; and
+
+      - (iii) whether it is registered as a registered non-Hong Kong company under Part 16 of the Companies Ordinance (Cap. 622); and
+
+    - (b) the following particulars of the intended OFC—
+
+      - (i) its proposed name; and
+
+      - (ii) the address of its registered office.
+
+- Part 2 Particulars and Statement of Proposed Directors and Process Agents
+
+  - 2. Particulars of directors The particulars specified for the purposes of rule 8C(b) are—
+
+    - (a) the person’s present forename and surname, former forename or surname (if any), and aliases (if any);
+
+    - (b) the person’s usual residential address; and
+
+    - (c) the number of the person’s identity card or, if the person does not have an identity card, the number and issuing country of any passport held by the person.
+
+  - 3. Statement relating to directors The statement specified for the purposes of rule 8C(b) is a statement by the person that the person—
+
+    - (a) has consented to be a director of the intended OFC; and
+
+    - (b) has attained the age of 18 years.
+
+  - 4. Particulars of process agent of non-resident director The particulars specified for the purposes of rule 8C(c) are—
+
+    - (a) the name of the process agent;
+
+    - (b) if the process agent is an individual—the process agent’s usual residential address in Hong Kong;
+
+    - (c) if the process agent is a company—the address of the company’s registered office in Hong Kong; and
+
+    - (d) if the process agent is a partnership—the principal place of business of the partnership in Hong Kong.
+
+  - 5. Interpretation of this Part
+
+    - (1) In this Part—
+
+      - forename (名字) includes a Christian or given name;
+
+      - residential address (住址)—
+
+        - (a) does not include an address at a hotel unless the person to whom it relates is stated, for the purposes of this Part, to have no other permanent address; and
+
+        - (b) does not include a post office box number;
+
+      - surname (姓氏), for a person usually known by a title different from the person’s surname, means that title.
+
+    - (2) In this Part, a reference to a former forename or surname does not include—
+
+      - (a) in relation to a person—
+
+        - (i) a forename or surname that was changed or ceased to be used before the person attained the age of 18 years; and
+
+        - (ii) a forename or surname that has been changed or ceased to be used for at least 20 years;
+
+      - (b) in relation to a person usually known by a title different from the person’s surname—the name by which the person was known before the adoption of or succession to the title; or
+
+      - (c) in relation to a married woman—a name or surname by which she was known before her marriage.
+
+- Part 3 Statements relating to Instrument of Incorporation
+
+  - 6. Statements relating to instrument of incorporation The statements specified for rule 8C(d) are—
+
+    - (a) a statement that the intended OFC’s instrument of incorporation has been signed by every person who is to be a director of the intended OFC as from the re-domiciliation date of the intended OFC; and
+
+    - (b) a statement that the contents of the copy of the intended OFC’s instrument of incorporation, with or without the part showing the signature and the date of signing as they appear on the original document, are the same as those of the instrument of incorporation.
+
+- (Schedule 2 added 33 of 2021 s. 27)
