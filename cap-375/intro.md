@@ -3,3 +3,5 @@ To provide for the recording of points in relation to various road traffic offen
 (Amended 23 of 2008 s. 58)
 
 [25 August 1984] L.N. 295 of 1984
+
+(Format changes—E.R. 5 of 2021)

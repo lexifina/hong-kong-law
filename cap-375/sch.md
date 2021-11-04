@@ -1,6 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 4]
+
+(Format changes—E.R. 2 of 2012)
 
 Offence
 
@@ -194,4 +196,4 @@ Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B)
 
 59 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24; 24 of 2011 s. 27; L.N. 100 of 2013; 7 of 2016 s. 25) (Format changes—E.R. 2 of 2012)
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24; 24 of 2011 s. 27; L.N. 100 of 2013; 7 of 2016 s. 25; 9 of 2018 s. 16)
