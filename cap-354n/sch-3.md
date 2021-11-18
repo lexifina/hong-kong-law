@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2, 15 & 23]
 
-CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT SORTING FACILITIES
+Charges for Disposal of Construction Waste at Sorting Facilities
 
-- PART 1 SORTING FACILITIES
+- Part 1 Sorting Facilities
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 
@@ -12,7 +12,7 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 2. | Tseung Kwan O Area 137 Temporary Construction Waste Sorting Facility | Southern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-2
 
-- PART 2 SORTING CHARGE
+- Part 2 Sorting Charge
 
 - The sorting charge payable in respect of each load of construction waste delivered to a sorting facility for disposal is calculated as follows—
 

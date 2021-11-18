@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 14 & 23]
 
-CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT LANDFILLS
+Charges for Disposal of Construction Waste at Landfills
 
-- PART 1 LANDFILLS
+- Part 1 Landfills
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 
@@ -14,7 +14,7 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 3. | North East New Territories (NENT) Landfill | Wo Keng Shan Road, Ta Kwu Ling, N.T. | Drawing number 90303/CON-01 TO 04
 
-- PART 2 LANDFILL CHARGE
+- Part 2 Landfill Charge
 
 - The landfill charge payable in respect of each load of construction waste delivered to a landfill for disposal is calculated as follows—
 

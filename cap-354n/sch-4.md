@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 2, 16 & 23]
 
-CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT PUBLIC FILL RECEPTION FACILITIES
+Charges for Disposal of Construction Waste at Public Fill Reception Facilities
 
-- PART 1 PUBLIC FILL RECEPTION FACILITIES
+- Part 1 Public Fill Reception Facilities
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 
@@ -12,17 +12,21 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 2. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal, Tuen Mun, N.T. | Plan number P 20332-4
 
-3. | Sai Ying Pun Temporary Public Filling Barging Point | Eastern Street North, Sai Ying Pun, Hong Kong. | Plan number P 20332-5
+*3. | Sai Ying Pun Temporary Public Filling Barging Point | Eastern Street North, Sai Ying Pun, Hong Kong (E.R. 5 of 2021) | Plan number P 20332-5
 
 4. | (Repealed L.N. 232 of 2008)
 
-5. | Kai Tak Temporary Public Filling Barging Point | Middle of the Former Kai Tak Runway, adjacent to the Taxiway Bridge, Kowloon City, Kowloon. | Plan number P 20332-7
+*5. | Kai Tak Temporary Public Filling Barging Point | Middle of the Former Kai Tak Runway, adjacent to the Taxiway Bridge, Kowloon City, Kowloon (E.R. 5 of 2021) | Plan number P 20332-7
 
 6. | Mui Wo Temporary Public Fill Reception Facility | Mui Wo Ferry Pier Road, Mui Wo, Lantau, N.T. | Plan number P 20332-8
 
-7. | Chai Wan Public Fill Barging Point | 11 Ka Yip Street, Chai Wan, Hong Kong. | Plan number FM 10019-32 (L.N. 232 of 2008)
+7. | Chai Wan Public Fill Barging Point | 11 Ka Yip Street, Chai Wan, Hong Kong (E.R. 5 of 2021) | Plan number FM 10019-32 (L.N. 232 of 2008)
 
-- PART 2 PUBLIC FILL CHARGE
+Editorial Note:
+
+* Not yet in operation.
+
+- Part 2 Public Fill Charge
 
 - The public fill charge payable in respect of each load of construction waste delivered to a public fill reception facility for disposal is calculated as follows—
 

@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 14 & 23]
 
-CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT REFUSE TRANSFER STATIONS
+Charges for Disposal of Construction Waste at Refuse Transfer Stations
 
-- PART 1 REFUSE TRANSFER STATIONS
+- Part 1 Refuse Transfer Stations
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 
@@ -20,9 +20,9 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 6. | Outlying Islands Transfer Facilities—Sok Kwu Wan Station (OITF-SKWS) | Sok Kwu Wan, Lamma Island, N.T. | Plan number IS 3161-D
 
-7. | Outlying Islands Transfer Facilities—Ma Wan Station (OITF-MaWS) | Pak Wan, Ma Wan, N.T., adjoining Sewage Treatment Plant. | Plan number TWA 1058-E
+7. | Outlying Islands Transfer Facilities—Ma Wan Station (OITF-MaWS) | Pak Wan, Ma Wan, N.T., adjoining Sewage Treatment Plant (E.R. 5 of 2021) | Plan number TWA 1058-E
 
-- PART 2 LANDFILL CHARGE
+- Part 2 Landfill Charge
 
 - The landfill charge payable in respect of each load of construction waste delivered to a refuse transfer station for disposal is calculated as follows—
 

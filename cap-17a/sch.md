@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [r. 1]
 
-FORMS
+Forms
 
-FORM 1
+Form 1
 
 [r. 4(1)]
 
@@ -28,7 +28,7 @@ Applicant/Respondent *
 
 (1) * + | State the object of the application. Delete whichever is inapplicable. Name of the Registrar.
 
-FORM 1
+Form 1
 
 INTERLOCUTORY APPLICATION (reverse)
 
@@ -44,15 +44,19 @@ on the . day of
 
 Sworn/Affirmed* at the courts of Justice/Lands Tribunal Registry*,
 
-Hong Kong, the . day of
+. Hong Kong,
 
-19 . Before me, A Commissioner etc. * Delete whichever is inapplicable.
+the . day of
+
+19 . Before me,
+
+A Commissioner etc. * Delete whichever is inapplicable.
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 2
+Form 2
 
 [r. 16]
 
@@ -72,9 +76,9 @@ To
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 3
+Form 3
 
 [r. 22]
 
@@ -98,9 +102,9 @@ Dated this . day of . 19 .
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 4
+Form 4
 
 [r. 22]
 
@@ -120,9 +124,9 @@ Registrar, Lands Tribunal
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 5
+Form 5
 
 [r. 34(1)]
 
@@ -156,9 +160,9 @@ Address for service of the Applicant: * Delete whichever does not apply.
 
 (L.N. 417 of 1995; 29 of 1998 s. 9)
 
-_
+__________
 
-FORM 6
+Form 6
 
 [r. 35]
 
@@ -196,13 +200,13 @@ Address for service of the Applicant: * Delete whichever does not apply. + Amend
 
 (L.N. 417 of 1995; 29 of 1998 s. 9)
 
-_
+__________
 
 Lands Tribunal
 
 Application No.
 
-FORM 7
+Form 7
 
 [rr. 36, 39, 40, 45, 49, 51, 54, 57, 58, 59, 61, 69, 73, 75, 78, 78I]
 
@@ -222,9 +226,9 @@ To: | 1. 2. | The Registrar, Lands Tribunal. The Applicant.
 
 (L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 78 of 2002; 16 of 2004 s. 16)
 
-_
+__________
 
-FORM 8
+Form 8
 
 [r. 38(1)]
 
@@ -256,9 +260,9 @@ Address for service of the Applicant: * Delete whichever does not apply. + Compl
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 9
+Form 9
 
 [r. 40(1)]
 
@@ -294,9 +298,9 @@ Address for service of the Applicant:
 
 (L.N. 417 of 1995; 25 of 1998 s. 2)
 
-_
+__________
 
-FORM 10
+Form 10
 
 [r. 44(1)]
 
@@ -324,9 +328,9 @@ Address for service of the applicant:
 
 (L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007)
 
-_
+__________
 
-FORM 11
+Form 11
 
 [r. 46(1)]
 
@@ -364,9 +368,9 @@ Address for service of the applicant: * Delete whichever does not apply.
 
 (L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007)
 
-_
+__________
 
-FORM 12
+Form 12
 
 [r. 48(1)]
 
@@ -396,9 +400,9 @@ Address for service of the Applicant: *Delete whichever is inapplicable.
 
 (L.N. 417 of 1995; 25 of 1998 s. 2)
 
-_
+__________
 
-FORM 13
+Form 13
 
 [r. 50]
 
@@ -434,9 +438,9 @@ Address for service of the applicant: * Delete whichever inapplicable.
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 14
+Form 14
 
 [r. 53(1)]
 
@@ -460,9 +464,9 @@ Address for service of the Applicant:
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 15
+Form 15
 
 [r. 56(1)]
 
@@ -492,9 +496,9 @@ Address for service of the applicant: * Delete whichever inapplicable.
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 16
+Form 16
 
 [r. 58(1)(a)]
 
@@ -528,9 +532,9 @@ Address for service of the Appellant(s): * Delete whichever does not apply.
 
 (L.N. 417 of 1995; L.N. 281 of 2006)
 
-_
+__________
 
-FORM 17
+Form 17
 
 [r. 58(1)(b)]
 
@@ -558,9 +562,9 @@ Address for service of the Appellant(s): * Delete whichever does not apply.
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 18
+Form 18
 
 [r. 59]
 
@@ -568,13 +572,13 @@ NOTICE OF APPLICATION TO LANDS TRIBUNAL UNDER DEMOLISHED BUILDINGS (RE-DEVELOPME
 
 Name and address of applicant: Name and address of respondent: Address and description of premises: Term of tenancy: Rent:
 
-(1) | On the . day of . 19 . I vacated the premises which were the subject of a Closure Order.
+(1) On the . day of . 19 . I vacated the premises which were the subject of a Closure Order.
 
-(2) | In the premises I had occupied (insert details of accommodation):
+(2) In the premises I had occupied (insert details of accommodation):
 
-(3) | I apply that the compensation to which I may be entitled be determined.
+(3) I apply that the compensation to which I may be entitled be determined.
 
-(4) | I have not entered into any agreement with my landlord or principal tenant as regards payment of compensation. If I do so, I will inform you in writing.
+(4) I have not entered into any agreement with my landlord or principal tenant as regards payment of compensation. If I do so, I will inform you in writing.
 
 Dated this . day of . 19 .
 
@@ -586,9 +590,9 @@ To: | 1. 2. | The Registrar, Lands Tribunal. Respondent.
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 19
+Form 19
 
 [r. 60]
 
@@ -624,9 +628,9 @@ To: | 1. 2. 3. | The Registrar, Lands Tribunal. Commissioner of Rating and Valua
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 20
+Form 20
 
 [r. 65(1)]
 
@@ -652,9 +656,9 @@ Address for service of the Appellant:
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 21
+Form 21
 
 [r. 66(3)]
 
@@ -680,9 +684,9 @@ Address for service of the Director of Housing:
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 22
+Form 22
 
 [r. 68]
 
@@ -706,9 +710,9 @@ Existing rent: $ . /month
 
 Nature and particulars of application: * Application for new tenancy. / *Application for determination of prevailing market rent.
 
-* Application for recovery of possession of the suit premises and rent as the respondent has failed to pay rent from the day of and application for order for mesne profits, costs, *interest, *management fees, *rates/Government rent, *water/electricity/gas charges and *other utility charges. * Application for disposal of properties left in the premises by the respondent.
+* Application for recovery of possession of the suit premises and rent as the respondent has failed to pay rent from the day of and application for order for mesne profits, costs, *interest, *management fees, *rates/Government rent, *water/electricity/gas charges and *other utility charges.
 
-Dated this . day of .
+* Application for disposal of properties left in the premises by the respondent. Dated this . day of .
 
 +
 
@@ -726,9 +730,9 @@ Note: | If the respondent intends to oppose this application, he must personally
 
 (32 of 2002 s. 40; L.N. 281 of 2006)
 
-_
+__________
 
-FORM 22A
+Form 22A
 
 [r. 68(1A)]
 
@@ -746,13 +750,15 @@ Address of premises:
 
 Duration of tenancy before service of Transitional Termination Notice: From . To
 
-Existing rent: $ . /month
+Existing rent: $ ./month
 
 Transitional Termination Notice: | Date of Service: | Date of Expiry of Notice:
 
 Mode of Service:
 
-Nature and particulars of application: The tenancy having been terminated upon the expiry of a transitional termination notice, the applicant applies for recovery of possession of the suit premises and claims against the respondent for the following item(s):
+Nature and particulars of application:
+
+The tenancy having been terminated upon the expiry of a transitional termination notice, the applicant applies for recovery of possession of the suit premises and claims against the respondent for the following item(s):
 
 (1) | Arrears of rent/mesne profits from . to the date of delivery of vacant possession of the suit premises and costs.
 
@@ -776,9 +782,9 @@ Note: | If you intend to oppose this application, you must personally attend at 
 
 (16 of 2004 s. 16)
 
-_
+__________
 
-FORM 22B
+Form 22B
 
 [r. 68(1B)]
 
@@ -802,7 +808,11 @@ Transitional Termination Notice (if any): | Date of Service: | Date of Expiry of
 
 Mode of Service:
 
-Nature and particulars of application: The applicant applies for possession of the suit premises on the ground that the suit premises are reasonably required by the applicant as a residence for— [Names, ages and relationship to the applicant of person(s) for whom occupation of the suit premises is required]
+Nature and particulars of application:
+
+The applicant applies for possession of the suit premises on the ground that the suit premises are reasonably required by the applicant as a residence for—
+
+[Names, ages and relationship to the applicant of person(s) for whom occupation of the suit premises is required]
 
 And further claims against the respondent for the following item(s):
 
@@ -828,9 +838,9 @@ Note: | If you intend to oppose this application, you must personally attend at 
 
 (16 of 2004 s. 16)
 
-_
+__________
 
-FORM 23
+Form 23
 
 [r. 72(1)]
 
@@ -870,9 +880,9 @@ Note: | If you intend to oppose this application, you must personally attend at 
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 24
+Form 24
 
 [r. 74(1)]
 
@@ -900,9 +910,9 @@ Note: | If you intend to oppose this appeal, you must personally attend at the L
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 25
+Form 25
 
 [r. 74(2)]
 
@@ -920,15 +930,15 @@ Dated this . day of . 19 .
 
 (to be signed by or on behalf of the Appellant)
 
-To: | 1. 2. 3. 4. | The Registrar, Lands Tribunal. The Respondent. Commissioner of Rating and Valuation. (Please add such other person as may be required to be served)
+To: | 1. 2. 3. 4. | The Registrar, Lands Tribunal. The Respondent. Commissioner of Rating and Valuation. (Please add such other person as may be required to be served).
 
 Note: | If you intend to oppose this appeal, you must personally attend at the Lands Tribunal Registry within 14 days of the day of service of this notice, and file a notice of opposition by means of Form 7.
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 26
+Form 26
 
 [r. 74(3)]
 
@@ -952,9 +962,9 @@ Note: | If you intend to oppose this appeal, you must personally attend at the L
 
 (L.N. 417 of 1995)
 
-_
+__________
 
-FORM 27
+Form 27
 
 [r. 77(a)]
 
@@ -978,13 +988,13 @@ Note: | If you intend to oppose this application, you must personally attend at 
 
 (L.N. 417 of 1995; L.N. 362 of 1997; 5 of 2007 s. 73)
 
-_
+__________
 
-FORM 28 (Repealed L.N. 281 of 2006)
+Form 28 (Repealed L.N. 281 of 2006)
 
-_
+__________
 
-FORM 29
+Form 29
 
 [r. 77(b) & (c)]
 
@@ -996,9 +1006,9 @@ Pursuant to . Name, address and status of applicant(s): Name, address and status
 
 1. | The applicant(s) apply(ies) for an order relating to
 
-(specify the particular issue under the provision pursuant
+(specify the particular issue under the provision pursuant to which
 
-to which application is brought)
+application is brought)
 
 +2. | The question of law, interpretation and enforcement or other issue to be determined is:
 
@@ -1018,9 +1028,9 @@ Note: | If you intend to oppose this application, you must personally attend at 
 
 (L.N. 417 of 1995; L.N. 281 of 2006)
 
-_
+__________
 
-FORM 30
+Form 30
 
 [r. 10]
 
@@ -1058,9 +1068,9 @@ Before me:
 
 (L.N. 650 of 1994; L.N. 417 of 1995; 25 of 1998 s. 2)
 
-_
+__________
 
-FORM 31
+Form 31
 
 [r. 14(1)]
 
@@ -1090,9 +1100,9 @@ AND To: The Respondent/Applicant.
 
 (L.N. 417 of 1995; L.N. 281 of 2006)
 
-_
+__________
 
-FORM 32
+Form 32
 
 [r. 78B]
 
@@ -1118,9 +1128,9 @@ Note: | If you intend to oppose this application, you must personally attend at 
 
 (L.N. 100 of 1999)
 
-_
+__________
 
-FORM 33
+Form 33
 
 [r. 78C]
 
@@ -1150,9 +1160,9 @@ To: | 1. 2. 3. | The Registrar, Lands Tribunal. The Applicant (majority owner). 
 
 (L.N. 100 of 1999)
 
-_
+__________
 
-FORM 34
+Form 34
 
 [r. 78E]
 
@@ -1186,9 +1196,9 @@ Note: | (a) | If you wish to oppose this application, you must personally attend
 
 (L.N. 100 of 1999)
 
-_
+__________
 
-FORM 35
+Form 35
 
 [r. 78F]
 
@@ -1204,7 +1214,11 @@ NOTICE OF OPPOSITION TO APPLICATION FOR DETERMINATION OF COMPENSATION UNDER LAND
 
 (c) | Address and description of premises:
 
-I am/We are a party to the Main Application No. . My/Our/applicant’s/respondent’s no. is . 2. I/We oppose to the amount of compensation claimed by the applicant tenant/principal tenant/sub-tenant to the following extent: (a) No compensation should be payable to the applicant for the following reasons (please state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet): (b) The amount of compensation payable to the applicant should be . for the following reasons (state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet): 3. I/We do/do not wish to be heard. Dated this . day of . 19 .
+I am/We are a party to the Main Application No. . My/Our/applicant’s/respondent’s no. is .
+
+2. I/We oppose to the amount of compensation claimed by the applicant tenant/principal tenant/sub-tenant to the following extent:
+
+(a) No compensation should be payable to the applicant for the following reasons (please state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet): (b) The amount of compensation payable to the applicant should be . for the following reasons (state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet): 3. I/We do/do not wish to be heard. Dated this . day of . 19 .
 
 (Name of the Respondent Owner)
 
@@ -1214,9 +1228,9 @@ To: | 1. 2. 3. 4. | The Registrar, Lands Tribunal. The Applicant tenant/Principa
 
 (L.N. 100 of 1999)
 
-_
+__________
 
-FORM 36
+Form 36
 
 [r. 78H]
 
@@ -1258,9 +1272,9 @@ To: | 1. 2. 3. | The Registrar, Lands Tribunal. *Director of Lands/Commissioner 
 
 (L.N. 78 of 2002)
 
-_
+__________
 
-FORM 37
+Form 37
 
 [r. 74(3A)]
 

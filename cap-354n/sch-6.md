@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 3 & 23]
 
-CONTENT REQUIREMENTS OF INERT CONSTRUCTION WASTE FOR PRESCRIBED FACILITIES
+Content Requirements of Inert Construction Waste for Prescribed Facilities
 
 - 1. Each load of construction waste delivered to a landfill for disposal must not contain more than 50% by weight of inert construction waste.
 

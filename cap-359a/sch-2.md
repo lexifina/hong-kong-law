@@ -1,12 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 7, 9, 14, 23 & 42]
 
-FORM 1
+Form 1
 
 [reg. 7(1)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) MEDICAL LABORATORY TECHNOLOGISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Application for Registration/Provisional Registration as a Medical Laboratory Technologist
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Medical Laboratory Technologists (Registration and Disciplinary Procedure) Regulations Application for Registration/Provisional Registration as a Medical Laboratory Technologist
 
 I | of
 
@@ -18,9 +18,9 @@ being
 
 qualified for registration under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as a medical laboratory technologist and request that my name be placed on Part ............ of the Register.
 
-2. I hold the following qualifications .........................................................
+2. | I hold the following qualifications
 
-3. I have the following professional experience ........................................
+3. | I have the following professional experience
 
 4. My business address(es) *is/are as follows:
 
@@ -36,7 +36,7 @@ qualified for registration under section 12(1)*(a)/(b)/(c)/section 15 of the Sup
 
 6. I *†have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
 
-Signed at ...................................... the ............. day of ............ 19 ..... | ................................................... (Signature of Applicant)
+Signed at ...................................... the ............. day of ............ 19 ..... | } | ................................................... (Signature of Applicant)
 
 Before me,
 
@@ -50,9 +50,9 @@ Photograph of Applicant
 
 (47 of 1997 s. 10)
 
-_
+__________
 
-FORM 2A
+Form 2A
 
 [reg. 9(1)]
 
@@ -74,9 +74,9 @@ Secretary, Medical Laboratory Technologists Board.
 
 (L.N. 86 of 2004)
 
-_
+__________
 
-FORM 2B
+Form 2B
 
 [reg. 9(2)]
 
@@ -92,21 +92,17 @@ and whose photograph appears hereon was on the ............. day of ............
 
 Photograph
 
-Secretary,
-
-Medical Laboratory
-
-Technologists Board.
+Secretary, Medical Laboratory Technologists Board.
 
 (L.N. 86 of 2004)
 
-_
+__________
 
-FORM 3
+Form 3
 
 [reg. 14]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) MEDICAL LABORATORY TECHNOLOGISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Particulars of a Company carrying on the Business of Medical Laboratory Technologist
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Medical Laboratory Technologists (Registration and Disciplinary Procedure) Regulations Particulars of a Company carrying on the Business of Medical Laboratory Technologist
 
 Presented by
 
@@ -118,7 +114,7 @@ of
 
 (Business Registration Certificate No.)
 
-Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of a medical laboratory technologist carried on by it at .............................................................................................
+Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of a medical laboratory technologist carried on by it at
 
 under the name of
 
@@ -134,13 +130,13 @@ Dated this ......... day of ............ 19 .......
 
 (State whether director or manager or secretary)
 
-_
+__________
 
-FORM 4
+Form 4
 
 [reg. 23(1)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) MEDICAL LABORATORY TECHNOLOGISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Notice of Inquiry
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Medical Laboratory Technologists (Registration and Disciplinary Procedure) Regulations Notice of Inquiry
 
 [Date]
 
@@ -152,9 +148,13 @@ or (If the charge relates to conduct) That you .................................
 
 (set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct. or (If the allegation relates to obtaining registration by fraud or misrepresentation) That you ...........................................................................
 
-(set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation. or (If the allegation is that the registered medical laboratory technologist was not qualified, at the time of his registration, to be registered) That you ..........................................................................................................................
+(set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation. or
 
-(set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered. or (If the allegation is that the registered medical laboratory technologist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you ..................................
+(If the allegation is that the registered medical laboratory technologist was not qualified, at the time of his registration, to be registered) That you
+
+(set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered. or
+
+(If the allegation is that the registered medical laboratory technologist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you
 
 (set out briefly the facts alleged). or (If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on the .......... day of ....................... 19 ......... you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas .............................
 
@@ -172,13 +172,13 @@ Secretary, Medical Laboratory Technologists Board.
 
 (L.N. 53 of 1992)
 
-_
+__________
 
-FORM 5
+Form 5
 
 [reg. 42(2)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) MEDICAL LABORATORY TECHNOLOGISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Summons to Witness
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Medical Laboratory Technologists (Registration and Disciplinary Procedure) Regulations Summons to Witness
 
 In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
 

@@ -1,12 +1,12 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 16]
 
-EXEMPTIONS FROM THE ORDINANCE
+Exemptions from the Ordinance
 
 Item | Person Exempt | Exempt Section
 
-PART 1
+Part 1
 
 1. | A registered medical practitioner while practising medicine | 21(1)
 
@@ -18,11 +18,11 @@ PART 1
 
 5. | Chemists and Scientific Officers (Medical) employed by the Government of Hong Kong or the Hospital Authority within the meaning of the Hospital Authority Ordinance (Cap. 113), and persons holding an academic or scientific appointment at the University of Hong Kong, The Chinese University of Hong Kong or The Hong Kong Polytechnic University, while discharging their official duties (L.N. 421 of 1991; L.N. 640 of 1994) | 21(1)
 
-PART 2
+Part 2
 
 6. | A day procedure centre, or clinic, within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) and operated by an individual person licensed to operate it under that Ordinance (34 of 2018 s. 176 and E.R. 5 of 2018) | 21(1)
 
-7. | A private healthcare facility within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) and operated by a corporation licensed to operate it under that Ordinance (34 of 2018 s. 176 and E.R. 5 of 2018) | 20 and 21 (1)
+7. | A private healthcare facility within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) and operated by a corporation licensed to operate it under that Ordinance (34 of 2018 s. 176 and E.R. 5 of 2018) | 20 and 21(1)
 
 8. | (Repealed 34 of 2018 s. 176)
 
@@ -30,4 +30,4 @@ PART 2
 
 10. | A medical clinic carried on by an individual person and registered under the Medical Clinics Ordinance (Cap. 343) | 21(1)
 
-11. | A medical clinic carried on by a corporation and registered under the Medical Clinics Ordinance (Cap. 343) | 20 and 21 (1)
+11. | A medical clinic carried on by a corporation and registered under the Medical Clinics Ordinance (Cap. 343) | 20 and 21(1)
