@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 125]
 
-SPECIFIED PROVISIONS FOR PURPOSES OF SECTION 125
+Specified Provisions for Purposes of Section 125
 
 Item | Provision of Ordinance
 

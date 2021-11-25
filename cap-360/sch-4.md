@@ -1,4 +1,4 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [ss. 2(1), 24(1) & 49(5)]
 
@@ -14,29 +14,29 @@ Degree of Incapacity
 
 - (Added 6 of 2008 s. 30)
 
-- 2. Where as a result of pneumoconiosis or mesothelioma (or both), the forced vital capacity percentage of a person is assessed to be as shown in column 1 of the Table below, the person’s loss of lung function and incapacity shall, subject to paragraph 3, be deemed to be of the degree specified in column 2 and column 3 respectively opposite that forced vital capacity percentage— (Amended 6 of 2008 s. 30) TABLE
+- 2. Where as a result of pneumoconiosis or mesothelioma (or both), the forced vital capacity percentage of a person is assessed to be as shown in column 1 of the Table below, the person’s loss of lung function and incapacity shall, subject to paragraph 3, be deemed to be of the degree specified in column 2 and column 3 respectively opposite that forced vital capacity percentage— (Amended 6 of 2008 s. 30) Table
 
 - Forced vital capacity percentage | Degree of loss of lung function | Degree of incapacity
 
 - 95% or above | 5% or below | 5%
 
-- 90-94% | 6-10% | 10%
+- 90–94% | 6–10% | 10%
 
-- 85-89% | 11-15% | 15%
+- 85–89% | 11–15% | 15%
 
-- 80-84% | 16-20% | 20%
+- 80–84% | 16–20% | 20%
 
-- 75-79% | 21-25% | 30%
+- 75–79% | 21–25% | 30%
 
-- 70-74% | 26-30% | 40%
+- 70–74% | 26–30% | 40%
 
-- 65-69% | 31-35% | 50%
+- 65–69% | 31–35% | 50%
 
-- 60-64% | 36-40% | 60%
+- 60–64% | 36–40% | 60%
 
-- 55-59% | 41-45% | 70%
+- 55–59% | 41–45% | 70%
 
-- 50-54% | 46-50% | 80%
+- 50–54% | 46–50% | 80%
 
 - 49% or below | 51% or above | 100%
 
@@ -48,6 +48,6 @@ Degree of Incapacity
 
 - 5. In this Schedule—
 
-  - “forced vital capacity percentage” (最大肺活量百分率) means the measured value of the forced vital capacity of a person’s lungs expressed as a percentage of the predicted normal value of that capacity of the person.
+  - forced vital capacity percentage (最大肺活量百分率) means the measured value of the forced vital capacity of a person’s lungs expressed as a percentage of the predicted normal value of that capacity of the person.
 
 - (Fourth Schedule replaced 4 of 1996 s. 13)

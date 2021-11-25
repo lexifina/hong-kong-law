@@ -1,4 +1,4 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [ss. 12(2), 12A(2) & 40]
 
@@ -6,7 +6,7 @@ Medical Expenses and Expenses for Medical Appliances
 
 (Replaced 16 of 2006 s. 32)
 
-- PART I Medical Expenses under Section 12 (Replaced 16 of 2006 s. 32)
+- Part I Medical Expenses under Section 12 (Replaced 16 of 2006 s. 32)
 
   - 1. Subject to paragraph 3, where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) as an in-patient in a hospital, the expenses payable are— (Amended 6 of 2008 s. 28)
 
@@ -24,11 +24,11 @@ Medical Expenses and Expenses for Medical Appliances
 
   - whichever total amount is the less.
 
-  - 3. Where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) on any day both as an in-patient in a hospital and other than as an in-patient in a hospital, the daily rate for the purposes of this Schedule shall be $370.
+  - 3. Where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) on any day both as an in-patient in a hospital and other than as an in-patient in a hospital, the daily rate for the purposes of this Schedule shall be $370. (Amended 6 of 2008 s. 28)
 
-- (Amended 6 of 2008 s. 28) (Amended L.N. 322 of 1985; L.N. 391 of 1987; L.N. 387 of 1989; L.N. 434 of 1991; 54 of 1993 s. 43; L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 99 of 2003; 16 of 2006 s. 32; L.N. 26 of 2018)
+- (Amended L.N. 322 of 1985; L.N. 391 of 1987; L.N. 387 of 1989; L.N. 434 of 1991; 54 of 1993 s. 43; L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 99 of 2003; 16 of 2006 s. 32; L.N. 26 of 2018)
 
-- PART II MEDICAL APPLIANCES UNDER SECTION 12A
+- Part II Medical Appliances under Section 12A
 
   - 1. Wheelchair.
 
