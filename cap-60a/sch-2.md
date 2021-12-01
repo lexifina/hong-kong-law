@@ -28,7 +28,7 @@
 
 - 9. | Powdered formula. | All places outside Hong Kong. (L.N. 25 of 2013)
 
-- 10. | Elemental mercury (Hg(0), Chemical Abstracts Service registry number 7439-97-6), other than that contained in and forming part of a manufactured article. | All places outside Hong Kong. (L.N. 124 of 2020)
+- 10. | (Repealed 19 of 2021 s. 87)
 
 - Part 2
 

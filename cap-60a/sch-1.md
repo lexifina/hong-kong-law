@@ -30,7 +30,7 @@
 
   - 10. Any article that has as its part any chemical to which section 8 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. (19 of 2007 s. 52)
 
-  - 11. Elemental mercury (Hg(0), Chemical Abstracts Service registry number 7439-97-6), other than that contained in and forming part of a manufactured article. (L.N. 124 of 2020)
+  - 11. (Repealed 19 of 2021 s. 86)
 
 - Part 2
 
