@@ -43,11 +43,15 @@ s-022A.md
 s-023.md
 s-023A.md
 s-024.md
+s-024A.md
+s-024B.md
 s-025.md
 s-026.md
 s-027.md
+s-027A.md
 s-028.md
 s-029.md
+s-029A.md
 s-030.md
 s-031.md
 s-032.md
