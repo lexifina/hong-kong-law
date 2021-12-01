@@ -482,6 +482,28 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 77. | Limited Partnership Fund Ordinance (Cap. 637) (Amended E.R. 5 of 2020) | A direction of the Registrar of Companies to change the name of a limited partnership fund under section 42 or 43. (Added 14 of 2020 s. 121)
 
+78. | Mercury Control Ordinance (Cap. 640) (Amended E.R. 5 of 2021) | A decision of the Director of Environmental Protection—
+
+(a) | to refuse to issue a permit under section 18, 20 or 22;
+
+(b) | to impose conditions under section 18, 20, 22 or 27;
+
+(c) | to refuse to renew a permit under section 27;
+
+(d) | to refuse to issue a duplicate of a permit under section 28;
+
+(e) | under section 30 to vary a condition imposed under Part 3 in respect of a permit;
+
+(f) | under section 31 to refuse to vary a condition imposed under Part 3 in respect of a permit;
+
+(g) | to suspend a permit under section 34;
+
+(h) | to cancel a permit under section 35;
+
+(i) | to give a disposal direction under section 39; or
+
+(j) | to refuse to vary a disposal direction under section 40. (Added 19 of 2021 s. 88)
+
 (Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
 Note:
