@@ -1,10 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [rule 2]
 
-FORMS
+Forms
 
-FORM C1 | [rule 4]
+Form C1
+
+[rule 4]
 
 Notice of Intention to apply for a Convention adoption order ADOPTION ORDINANCE (Chapter 290)
 
@@ -22,7 +24,7 @@ Notes: (1) Enter the full names and addresses (including country of habitual res
 
 (2) Enter the full name in English and in Chinese characters, if any, of the infant. (3) This Form must be signed either by the applicants or by their solicitors.
 
-ANNEX TO FORM C1 Authorization for Criminal Record Check
+Annex to Form C1 Authorization for Criminal Record Check
 
 To: Commissioner of Police
 
@@ -60,9 +62,11 @@ Notes: (1) If the proposed adoption is processed by a body of persons accredited
 
 (10 of 2008 s. 47)
 
-—
+__________
 
-FORM C2 | [rules 6, 7, 10 & 11]
+Form C2
+
+[rules 6, 7, 10 & 11]
 
 Originating summons on application for a Convention adoption order 20, No. In the High Court of Hong Kong Court of First Instance
 
@@ -84,9 +88,11 @@ of, solicitors for C.D. whose address is as stated above.
 
 Notes: (1) Enter the name(s) and surname which the infant is to bear after the adoption. (2) Retain this paragraph if the appointment of a guardian ad litem is asked for under rule 11(3).
 
-—
+__________
 
-FORM C3 | [rules 9 & 12]
+Form C3
+
+[rules 9 & 12]
 
 Statement in support of application for a Convention adoption order (1) [Heading as in Form C1]
 
@@ -154,7 +160,7 @@ Dated the ............. day of .........................................
 
 .................................................................. .................................................................. (Usual signature of applicant/applicants)
 
-ANNEX TO FORM C3 Further particulars of applicant or applicants Particulars of C.D.
+Annex to Form C3 Further particulars of applicant or applicants Particulars of C.D.
 
 Name in full (Block capitals)
 
@@ -170,6 +176,8 @@ Particulars of E.D.
 
 Name in full (Block capitals)
 
+.
+
 Address
 
 Occupation
@@ -178,13 +186,15 @@ Date of Birth
 
 Relationship (if any) to the infant
 
-Notes: (1) This statement must be verified by affidavit, to which the statement, marriage certificate and other documents referred to in the statement should be exhibited. (2) Enter the first name(s) and surname as shown in the birth certificate referred to in paragraph 4, if available, otherwise enter name(s) and surname by which the infant was known at the time of the application. (3) (a) If the infant has not been adopted, a birth certificate should be attached. If there is no such certificate, a certified copy of the document showing that the persons named in paragraphs 5, 6 and 7 have parental rights over the infant should be attached. (b) If the infant has previously been adopted, do not attach the birth certificate. Instead, a certified copy of the entry in the Adopted Children Register should be attached. If there is no such entry, a certified copy of the document showing that the persons named in paragraphs 5, 6 and 7 have parental rights over the infant should be attached. In any case, the particulars given in paragraph 5 should relate to the parent(s) by adoption. (4) Where a birth certificate is not attached, enter the place (including country) of birth if known. (5) If the infant is born out of wedlock, the father's name should not be given in this entry; but see paragraph 7. (6) This paragraph should be completed only if the infant has a legal guardian other than the father or mother of the infant. (7) If the infant is born out of wedlock, enter the name of any person known to the applicant who has been adjudged by an order to be the putative father of the infant or who has acknowledged himself to be the father of the infant and agreed to contribute to his or her maintenance. (8) The names to be entered here (and in the following paragraph) are those of the persons named in paragraphs 5, 6 and 7, and (where the application is made by one of two spouses alone) of the spouse of the applicant.
+Notes: (1) This statement must be verified by affidavit, to which the statement, marriage certificate and other documents referred to in the statement should be exhibited. (2) Enter the first name(s) and surname as shown in the birth certificate referred to in paragraph 4, if available, otherwise enter name(s) and surname by which the infant was known at the time of the application. (3) (a) If the infant has not been adopted, a birth certificate should be attached. If there is no such certificate, a certified copy of the document showing that the persons named in paragraphs 5, 6 and 7 have parental rights over the infant should be attached. (b) If the infant has previously been adopted, do not attach the birth certificate. Instead, a certified copy of the entry in the Adopted Children Register should be attached. If there is no such entry, a certified copy of the document showing that the persons named in paragraphs 5, 6 and 7 have parental rights over the infant should be attached. In any case, the particulars given in paragraph 5 should relate to the parent(s) by adoption. (4) Where a birth certificate is not attached, enter the place (including country) of birth if known. (5) If the infant is born out of wedlock, the father’s name should not be given in this entry; but see paragraph 7. (6) This paragraph should be completed only if the infant has a legal guardian other than the father or mother of the infant. (7) If the infant is born out of wedlock, enter the name of any person known to the applicant who has been adjudged by an order to be the putative father of the infant or who has acknowledged himself to be the father of the infant and agreed to contribute to his or her maintenance. (8) The names to be entered here (and in the following paragraph) are those of the persons named in paragraphs 5, 6 and 7, and (where the application is made by one of two spouses alone) of the spouse of the applicant.
 
 (9) This paragraph should be completed with the name of any of the persons mentioned in the previous note who has not signified his or her consent. See sections 6 and 20C(4) of the Adoption Ordinance (Cap. 290). (10) This paragraph need not be completed if the applicant or either of the applicants is a “relative” of the infant as defined by section 2 of the Adoption Ordinance (Cap. 290). (11) This paragraph need not be completed if the applicant or either of the applicants is a “relative” of the infant as defined by section 2 of the Adoption Ordinance (Cap. 290). Where it is completed more than one referee may be named if desired. (12) If the applicant wishes his name to be kept confidential, insert serial number obtained in pursuance of rule 7 of the Convention Adoption Rules (Cap. 290 sub. leg. D).
 
-—
+__________
 
-FORM C4 | [rule 9]
+Form C4
+
+[rule 9]
 
 Specific consent to the adoption of an infant named A.B.(1)
 
@@ -192,11 +202,11 @@ Whereas an application is to be made [by C.D./C.D. and E.D.](2) or [under the se
 
 the mother(3) of the infant/ the father(3) of the infant/ a guardian of the infant/ a person liable by virtue of any order or agreement to contribute to the maintenance of the infant/ a person (acting on behalf of a body) having parental rights in respect of the infant/ the spouse of C.D. hereby state as follows—
 
-(1)I understand that once the infant is adopted, a permanent parent-child relationship between the adopter and the infant will be created.
+(1) I understand that once the infant is adopted, a permanent parent-child relationship between the adopter and the infant will be created.
 
-(2)I understand that, when the application for a Convention adoption in respect of A.B. is made, this document may be used as evidence of my consent to the adoption(6).
+(2) I understand that, when the application for a Convention adoption in respect of A.B. is made, this document may be used as evidence of my consent to the adoption(6).
 
-(3)I hereby consent to the adoption of the infant by [C.D./C.D. and E.D.].
+(3) I hereby consent to the adoption of the infant by [C.D./C.D. and E.D.].
 
 .............................................................. (Signature)
 
@@ -216,19 +226,21 @@ Notes: (1) Insert name as known to the consenting party. (2) Where the name of a
 
 (10 of 2008 s. 47)
 
-—
+__________
 
-FORM C5 | [rule 9]
+Form C5
+
+[rule 9]
 
 Specific consent to the adoption of an infant named A.B.(1) by a step-parent (as sole applicant)
 
 Whereas an application (by a sole applicant) is to be made [by ........................................................................... being the step-parent of the infant ..................................................................................] or [ (2) under the serial number ..............................................................................................]; [Whereas the infant is not less than 4 weeks old, having been born in ................................ on the ........................................................................... ; and is the person to whom the birth certificate(3) now produced and shown to be marked “A” relates](4)— I, the undersigned ................................................................................... ........................................................................................................................, of ........................................................................................................... being the father/mother* of the infant [as well as the spouse of the applicant ..........................................................................](5) hereby state as follows—
 
-(1)I understand that once the infant is adopted, a permanent parent-child relationship between the adopter and the infant will be created.
+(1) I understand that once the infant is adopted, a permanent parent-child relationship between the adopter and the infant will be created.
 
-(2)I understand that, when the application for a Convention adoption in respect of the infant is made, this document may be used as evidence of my consent to the adoption(6).
+(2) I understand that, when the application for a Convention adoption in respect of the infant is made, this document may be used as evidence of my consent to the adoption(6).
 
-(3)I hereby consent to the adoption of the infant by .................. .
+(3) I hereby consent to the adoption of the infant by .................. .
 
 .............................................................. (Signature)
 
@@ -242,9 +254,11 @@ Notes: (1) Insert name as known to the consenting party. (2) Where a serial numb
 
 (5) Delete the words in square brackets except where the consenting party is the spouse of the applicant. (6) The document will not be admissible as evidence unless the signature is attested by a commissioner for oaths (or, if executed at a place outside Hong Kong, by any person for the time being authorized by law in that place to administer an oath for any judicial or other legal purpose). In all cases the document if so attested will be admissible without further proof of execution.
 
-—
+__________
 
-FORM C6 | [rule 19]
+Form C6
+
+[rule 19]
 
 Notice of hearing of application for a Convention adoption order in respect of an infant named A.B.(1)
 
@@ -270,9 +284,11 @@ Delete (a) or (b). | (b) I do not consent to the making of this order and I wish
 
 .......................................................... (Date) | .......................................................... (Address)
 
-—
+__________
 
-FORM C7 | [rule 22]
+Form C7
+
+[rule 22]
 
 Convention adoption order in respect of an infant [Heading as in Form C1]
 
@@ -306,9 +322,11 @@ SCHEDULE
 
 Notes: (1) Delete where there is no change of name. (2) Delete this entry— (a) if the infant is not identified with a person whose birth is registered in the registers of births; or (b) if an entry in respect of the infant has been made in the Adopted Children Register. (3) Delete “probable” where the precise date of the infant’s birth is proved. (4) Delete except where an entry in respect of the infant has been made in the Adopted Children Register. (5) Where a probable date of birth is specified in the body of the order, enter that date without qualification. If the infant is one of twins, include, if possible, the hour as well as the date of birth. (6) Where there is a change, enter only the name by which the infant is to be known.
 
-—
+__________
 
-FORM C8 | [rule 22]
+Form C8
+
+[rule 22]
 
 Certificate of Conformity of Intercountry Adoption Article 23 of the Hague Convention of 29 May 1993 on Protection of Children and Co-operation in respect of Intercountry Adoption
 

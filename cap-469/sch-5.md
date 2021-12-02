@@ -62,9 +62,9 @@ Amount of Compensation
 
   - (a) if a claimant can provide documentary evidence to the satisfaction of the Board concerning the earnings received by him as remuneration from his employer or employers in respect of his employment for 12 months in aggregate immediately preceding the relevant date of application in noisy occupations in Hong Kong, the monthly earnings of the claimant are the average monthly earnings for those 12 months;
 
-  - (b) if a claimant cannot provide the documentary evidence as required by paragraph (a) and he is entitled to compensation by virtue of his fulfilling the condition in section 14(2)(b)(i) of this Ordinance but not section 14(2)(b)(ii) of this Ordinance or he is entitled to compensation by virtue of section 48(1) of this Ordinance, the monthly earnings of the claimant are, subject to paragraph (ba), the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement of Part V of this Ordinance; (Amended 5 of 1998 s. 20)
+  - (b) if a claimant cannot provide the documentary evidence as required by paragraph (a) and he is entitled to compensation by virtue of his fulfilling the condition in section 14(2)(b)(i) of this Ordinance but not section 14(2)(b)(ii) of this Ordinance or he is entitled to compensation by virtue of section 48(1) of this Ordinance, the monthly earnings of the claimant are, subject to paragraph (ba), the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement# of Part V of this Ordinance; (Amended 5 of 1998 s. 20)
 
-  - (ba) if a claimant referred to in paragraph (b) has been employed at any time beginning on the commencement of Part V of this Ordinance under a continuous contract in any noisy occupation in Hong Kong, the monthly earnings of the claimant are the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement of sections 1 to 20 of the amending Ordinance, that is to say, 6 March 1998; (Added 5 of 1998 s. 20. Amended 6 of 2010 s. 25)
+  - (ba) if a claimant referred to in paragraph (b) has been employed at any time beginning on the commencement# of Part V of this Ordinance under a continuous contract in any noisy occupation in Hong Kong, the monthly earnings of the claimant are the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement of sections 1 to 20 of the amending Ordinance, that is to say, 6 March 1998; (Added 5 of 1998 s. 20. Amended 6 of 2010 s. 25)
 
   - (c) in any other case, the monthly earnings of a claimant are the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the relevant date of application.
 
@@ -100,10 +100,6 @@ Amount of Compensation
 
 - (Added 6 of 2010 s. 25)
 
-- Editorial Note:
-
-- * Commencement date: 16 April 2010.
-
 - 6.
 
   - In calculating the amount of compensation payable to a claimant on the basis of the noise-induced deafness of the claimant determined under section 48(9) of this Ordinance, relevant date of application (提出申請的有關日期) means—
@@ -115,5 +111,7 @@ Amount of Compensation
 - (Added 6 of 2010 s. 25)
 
 - Editorial Note:
+
+- # Commencement date: 1 July 1995.
 
 - * Commencement date: 16 April 2010.

@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2, 14, 39 & 48] (Amended 6 of 2010 s. 24)
 
-NOISY OCCUPATIONS
+Noisy Occupations
 
 A noisy occupation is an occupation involving—
 

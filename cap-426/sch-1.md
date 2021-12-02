@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 15, 37, 39 & 41]
 
-DOCUMENTS REQUIRED FOR REGISTRATION
+Documents Required for Registration
 
-- PART 1 BASIC DOCUMENTS FOR A SCHEME WHICH IS NOT A PARTICIPATING SCHEME OF A POOLING AGREEMENT
+- Part 1 Basic Documents for a Scheme which is not a Participating Scheme of a Pooling Agreement
 
   - 1. A statement by a solicitor stating—
 
@@ -78,7 +78,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
   - 4. (Where the occupational retirement scheme to which the application relates is an existing scheme) a set of audited accounts (if any) prepared in respect of the scheme in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme).
 
-- PART 2 BASIC DOCUMENTS FOR A PARTICIPATING SCHEME OF A POOLING AGREEMENT
+- Part 2 Basic Documents for a Participating Scheme of a Pooling Agreement
 
   - 1. A statement by the administrator of the pooling agreement—
 
@@ -124,7 +124,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
   - (Added 9 of 2020 s. 52)
 
-  - 3. (Where the occupational retirement scheme to which the application relates is an existing scheme) a statement by an auditor stating, in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme),—
+  - 3. (Where the occupational retirement scheme to which the application relates is an existing scheme) a statement by an auditor stating, in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme)— (Amended E.R. 5 of 2021)
 
     - (a) whether or not in his opinion proper accounts and records have been kept as regards all assets, liabilities and financial transactions of the scheme;
 
@@ -158,7 +158,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
   - 4. (Where the occupational retirement scheme to which the application relates is an existing scheme) a set of audited accounts (if any) prepared in respect of the scheme in relation to the latest financial year of the scheme (which financial year shall end on a date not more than 9 months before the date of the application for registration of the scheme).
 
-- PART 3 ADDITIONAL DOCUMENT
+- Part 3 Additional Document
 
   - 1. Where the scheme to which the application relates is a proposed defined benefit scheme A certificate issued by an actuary within the 2 months prior to the date of the receipt of the application which shall either be—
 
@@ -176,7 +176,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
         - (B) on the expiration of a period, where necessary, specified in the certificate, the scheme’s assets would be sufficient to meet the scheme’s aggregate past service liability; or
 
-    - (b) (in the case of a proposed scheme the proposed date of establishment of which is earlier than the 5th anniversary of the commencement of section 1) a qualified certificate certifying that—
+    - (b) (in the case of a proposed scheme the proposed date of establishment of which is earlier than the 5th anniversary of the commencement* of section 1) a qualified certificate certifying that—
 
       - (i) he has given an initial actuarial valuation as regards the proposed scheme;
 
@@ -184,9 +184,9 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
       - (iii) following the valuation he has received from that employer a copy of that employer’s written undertaking to the proposed administrator of the scheme to contribute to the scheme’s funds in accordance with the recommendations; and
 
-      - (iv) he does not expect that on the establishment of the scheme the scheme’s assets would be sufficient to meet its aggregate vested liability but, providing that the scheme is funded in accordance with his recommendations,—
+      - (iv) he does not expect that on the establishment of the scheme the scheme’s assets would be sufficient to meet its aggregate vested liability but, providing that the scheme is funded in accordance with his recommendations— (Amended E.R. 5 of 2021)
 
-        - (A) he would expect that, on the date on which a period specified in the certificate would expire (which period shall be specified to expire on or before the 5th anniversary of the commencement of section 1), the scheme’s assets would be sufficient to meet the scheme’s aggregate vested liability;
+        - (A) he would expect that, on the date on which a period specified in the certificate would expire (which period shall be specified to expire on or before the 5th anniversary of the commencement* of section 1), the scheme’s assets would be sufficient to meet the scheme’s aggregate vested liability;
 
         - (B) what he would expect to be the amount, if any, of the shortfall between the scheme’s assets and the scheme’s aggregate vested liability as at the date of the actuarial review covered by the first actuarial certificate to be supplied under section 31(1); and
 
@@ -232,11 +232,11 @@ DOCUMENTS REQUIRED FOR REGISTRATION
 
       - (vi) that following the review he has received a copy of a written undertaking by the relevant employer of the scheme to the administrator of the scheme to contribute to the scheme’s funds in accordance with those recommendations; and
 
-      - (vii) provided the scheme is funded in accordance with those recommendations,—
+      - (vii) provided the scheme is funded in accordance with those recommendations— (Amended E.R. 5 of 2021)
 
         - (A) what he would expect to be the amount of the shortfall between the scheme’s assets and the scheme’s aggregate vested liability as at the expiry of 12 months from the date of the review;
 
-        - (B) that he would expect that, on the date on which a period specified in the certificate would expire (which period shall be specified to expire on a day which is earlier than the 5th anniversary of the commencement of section 1), the scheme’s assets would be sufficient to meet the scheme’s aggregate vested liability; and
+        - (B) that he would expect that, on the date on which a period specified in the certificate would expire (which period shall be specified to expire on a day which is earlier than the 5th anniversary of the commencement* of section 1), the scheme’s assets would be sufficient to meet the scheme’s aggregate vested liability; and
 
         - (C) that on the expiration of a period, where necessary, specified in the certificate, the scheme’s assets would be sufficient to meet the scheme’s aggregate past service liability.
 
@@ -249,3 +249,7 @@ DOCUMENTS REQUIRED FOR REGISTRATION
   - (Amended 25 of 1998 s. 2)
 
   - 4. Where the scheme to which the application relates is stated to be an offshore scheme governed by a trust A statement by a person qualified to practise as a professional legal practitioner in the country, territory or place stated to be the domicile of the scheme whether or not the trust instrument in his opinion requires (whether expressly or in effect) that the relevant employer of the scheme or his associate cannot act as the sole trustee of the trust. (Amended 31 of 1999 s. 3)
+
+- Editorial Note:
+
+- * Commencement date: 15 October 1993.

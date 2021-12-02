@@ -1,7 +1,7 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 20, 39 & 48]
 
-PERCENTAGE OF PERMANENT INCAPACITY BY REFERENCE TO NOISE-INDUCED DEAFNESS
+Percentage of Permanent Incapacity by Reference to Noise-induced Deafness
 
 (Schedule 4 replaced 16 of 2003 s. 23)

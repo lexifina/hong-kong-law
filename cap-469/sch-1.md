@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 4, 5, 11 & 39]
 
-PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
+Provisions with respect to the Board and Members thereof
 
 - 1. Common seal The Board has a common seal.
 
@@ -178,4 +178,4 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
   - (4)
 
-    - In this section “employees” (僱員) includes any class of employee which the Board may specify and in subsection (1) includes former employees.
+    - In this section employees (僱員) includes any class of employee which the Board may specify and in subsection (1) includes former employees.

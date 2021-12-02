@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 35]
 
-INFORMATION TO BE CONTAINED IN A STATEMENT UNDER SECTION 35
+Information to be Contained in a Statement under Section 35
 
 - 1. Descriptions of the pensions, allowances and other benefits payable under the relevant registered scheme and in case more than one class or description of pension, allowance or other benefit is payable, particulars of those classes or descriptions of pension, allowance or other benefit.
 

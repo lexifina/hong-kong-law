@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 9]
 
@@ -25,7 +25,5 @@ Canada, United States of America | 3
 ___
 
 Total number of elected members | 21
-
-==
 
 (Replaced L.N. 132 of 1989. Amended L.N. 29 of 1991; 30 of 1991 s. 6; L.N. 7 of 1994)

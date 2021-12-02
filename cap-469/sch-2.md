@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 12 & 39]
 
-PROVISIONS WITH RESPECT TO THE MEDICAL COMMITTEE AND MEMBERS THEREOF
+Provisions with respect to the Medical Committee and Members thereof
 
 - 1. Composition of Medical Committee
 
