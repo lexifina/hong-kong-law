@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1), 4(5), 6(2) & (3), 7, 10(2)(c), 45(4) & 46]
 
-PROVISIONS WITH RESPECT TO COUNCIL AND COMMITTEES AND THEIR MEMBERS
+Provisions with respect to Council and Committees and their Members
 
-- PART 1 COUNCIL AND ITS MEMBERS
+- Part 1 Council and its Members
 
   - 1. Terms and conditions of appointment of members of Council Subject to sections 2 and 3, the Chief Executive shall determine the terms and conditions of appointment of a member of the Council.
 
@@ -50,7 +50,7 @@ PROVISIONS WITH RESPECT TO COUNCIL AND COMMITTEES AND THEIR MEMBERS
 
   - 5. Procedure of Council Subject to the provisions of this Schedule, the Council shall have power to regulate its own procedure including the manner in which decisions of the Council may be made by a quorum of its members otherwise than at a meeting of the Council.
 
-- PART 2 COMMITTEES AND THEIR MEMBERS
+- Part 2 Committees and their Members
 
   - 6. Committees required to be established Without prejudice to the generality of section 6(1) of this Ordinance, the Council shall, not later than 6 months after this section comes into operation—
 
@@ -76,6 +76,6 @@ PROVISIONS WITH RESPECT TO COUNCIL AND COMMITTEES AND THEIR MEMBERS
 
   - 7. Chairpersons of committees The chairperson of a committee shall be appointed from amongst members of the committee who are also members of the Council.
 
-- PART 3 PROVISIONS OF SCHEDULE NOT SUBJECT TO DELEGATION
+- Part 3 Provisions of Schedule Not Subject to Delegation
 
   - 8. Council not to delegate certain functions and powers The Council shall not delegate under section 10(1) of this Ordinance any functions or powers imposed or conferred on it under section 5 or 6.
