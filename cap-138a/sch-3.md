@@ -2672,6 +2672,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Tropisetron; its salts
 
+- Trospium chloride
+
 - Trovafloxacin; its salts; its derivatives; their salts
 
 - Tulobuterol and its salts when contained in aerosol dispensers

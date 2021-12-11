@@ -2840,6 +2840,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Tropisetron; its salts
 
+- Trospium chloride
+
 - Trovafloxacin; its salts; its derivatives; their salts
 
 - Tulobuterol and its salts when contained in aerosol dispensers

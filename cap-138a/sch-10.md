@@ -430,6 +430,8 @@ Poisons List
 
     - Azauridine; its derivatives
 
+    - Azelaic acid
+
     - Azilsartan; its salts; its esters; their salts
 
     - Aziridine; its derivatives
@@ -1025,6 +1027,8 @@ Poisons List
     - Dipipanone; its salts
 
     - Diprenorphine; its salts
+
+    - Diprophylline; its salts
 
     - Dipyridamole
 
@@ -2288,8 +2292,6 @@ Poisons List
 
     - Difenidol
 
-    - Diprophylline
-
     - Disofenin
 
     - Ephedrine
@@ -3091,6 +3093,8 @@ Poisons List
     - Tromantadine; its salts
 
     - Tropisetron; its salts
+
+    - Trospium chloride
 
     - Trovafloxacin; its salts; its derivatives; their salts
 
