@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 1]
 
-GUARANTEE AGREEMENT
+Guarantee Agreement
 
 Parties to the Agreement | Date of Agreement
 

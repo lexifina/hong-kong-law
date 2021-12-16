@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 2]
 
-PROJECT AGREEMENT
+Project Agreement
 
 Parties to the Agreement | Date of Agreement
 
