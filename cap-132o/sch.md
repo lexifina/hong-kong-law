@@ -148,7 +148,7 @@
 
 - 73. 4 Chui Ling Road, Tseung Kwan O, Sai Kung. (L.N. 152 of 2014)
 
-- 74. Shop Nos. G15 and G16, Ground Floor, Dawning Views Shopping Plaza, 23 Yat Ming Road, Fanling. (L.N. 87 of 2016)
+- 74. Shop Nos. 104A and 105A, First Floor, Dawning Views, 23 Yat Ming Road, Fanling. (L.N. 105 of 2021)
 
 - 75. The ground floor, Room 201 of the second floor, and the third to fifth floors of the High Block of Yuen Chau Kok Complex, 35 Ngan Shing Street, Sha Tin. (L.N. 87 of 2016)
 
