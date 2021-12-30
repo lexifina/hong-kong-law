@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 3]
 
-- PART I LOTS SPECIFICALLY INCLUDED IN THE DEFINITION OF LEASE FOR SPECIAL PURPOSES
+- Part I Lots Specifically Included in the Definition of Lease for Special Purposes
 
   - 1. Kwai Chung Lot No. 4
 
@@ -60,7 +60,7 @@
 
   - 28. Lot No. 1235 in Demarcation District 453
 
-- PART II LOTS SPECIFICALLY EXCLUDED FROM THE DEFINITION OF LEASE FOR SPECIAL PURPOSES
+- Part II Lots Specifically Excluded from the Definition of Lease for Special Purposes
 
   - 1. Sha Tin Town Lot No. 143
 
