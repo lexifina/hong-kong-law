@@ -100,7 +100,7 @@ Designated No Smoking Areas and Exempt Areas
 
 - (a) | Lion Rock Tunnel Bus Interchange, located on both sides of the toll plaza of the Lion Rock Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-004V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-- (b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
+- (b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases, part of the adjoining elevated walkways and the adjoining bus stop at Salisbury Road, as shown— (Amended L.N. 169 of 2021)
 
 - (i) | coloured orange and edged red;
 
@@ -110,9 +110,9 @@ Designated No Smoking Areas and Exempt Areas
 
 - (iv) | coloured orange hatched black and edged red,
 
-- on Plan No. DH/TCO/T-001V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- on Plan No. DH/TCO/T-001V2, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Amended L.N. 169 of 2021)
 
-- (c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+- (c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V2, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Amended L.N. 169 of 2021)
 
 - (d) | Shing Mun Tunnels Bus Interchange, located on both sides of the toll plaza of the Shing Mun Tunnels, as shown coloured orange and edged red on Plan No. DH/TCO/T-006V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
@@ -138,9 +138,23 @@ Designated No Smoking Areas and Exempt Areas
 
 - on Plan No. DH/TCO/E-004V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
 
-- (k) | Lantau Toll Plaza Bus Interchange, located on both sides of the toll plaza on North Lantau Highway, as shown coloured orange and edged red on Plan No. DH/TCO/E-002V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; and (Added L.N. 81 of 2018)
+- (k) | Lantau Toll Plaza Bus Interchange, located on both sides of the toll plaza on North Lantau Highway, as shown coloured orange and edged red on Plan No. DH/TCO/E-002V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018. Amended L.N. 169 of 2021)
 
-- (l) | Aberdeen Tunnel Bus Interchange, on both sides of the unnamed road near the junction of Nam Fung Road with Wong Chuk Hang Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-001V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry. (Added L.N. 81 of 2018)
+- (l) | Aberdeen Tunnel Bus Interchange, on both sides of the unnamed road near the junction of Nam Fung Road with Wong Chuk Hang Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-001V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018. Amended L.N. 169 of 2021)
+
+- (m) | Fanling Highway Bus Interchange, located on the Fanling Highway southbound, as shown coloured orange and edged red on Plan No. DH/TCO/E-005V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Added L.N. 169 of 2021)
+
+- (n) | Tseung Kwan O Tunnel Bus Interchange, located on both sides of the toll plaza of the Tseung Kwan O Tunnel, together with the adjoining staircases and ramps and part of the adjoining elevated walkways, as shown—
+
+- (i) | coloured orange and edged red;
+
+- (ii) | coloured orange stippled black and edged red; and
+
+- (iii) | coloured orange hatched black and edged red,
+
+- on Plan No. DH/TCO/E-006V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Added L.N. 169 of 2021)
+
+- (o) | Tuen Mun-Chek Lap Kok Tunnel Bus Interchange, located at Tuen Mun Chek Lap Kok Tunnel Road, as shown coloured orange and edged red on Plan No. DH/TCO/T-009V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry. (Added L.N. 169 of 2021)
 
 - Part 2 Exempt Areas
 
