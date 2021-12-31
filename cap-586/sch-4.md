@@ -106,28 +106,14 @@ Stricter Regulation of Elephant Hunting Trophies and Elephant Ivory
 
     - (1) For a specimen that is elephant ivory, the Director may approve a possession licence application only if the Director is satisfied that—
 
-      - (a) (Repealed 7 of 2018 s. 27)
-
-      - (b) the specimen is covered by a specified licence that is valid on the date of the application; or
+      - (a)-(b) (Repealed 7 of 2018 s. 27)
 
       - (c) there are exceptional circumstances justifying the approval.
 
     - (2) In this section—
 
-      - Amendment Ordinance (《修訂條例》) means the Protection of Endangered Species of Animals and Plants (Amendment) Ordinance 2018 (7 of 2018);
+      - possession licence application (管有許可證申請), in relation to a specimen, means an application made under section 23 or 24 in respect of a licence for the possession or control of the specimen. (Amended 7 of 2018 s. 27)
 
-      - possession licence application (管有許可證申請), in relation to a specimen, means an application made under section 23 or 24 in respect of a licence for the possession or control of the specimen;
+    - (Amended 7 of 2018 s. 27)
 
-      - specified licence (指明許可證), in relation to a specimen, means a licence for the possession or control of the specimen that was issued under section 23—
-
-        - (a) if the specimen is pre-Convention—before the commencement date* of section 27(10) of the Amendment Ordinance; or
-
-        - (b) if the specimen is not pre-Convention—before the commencement date# of section 26 of the Amendment Ordinance. (Replaced 7 of 2018 s. 27)
-
-(Schedule 4 added 7 of 2018 s. 26)
-
-Editorial Note:
-
-* Commencement date: 1 August 2018.
-
-\# Commencement date: 1 May 2018.
+- (Schedule 4 added 7 of 2018 s. 26)
