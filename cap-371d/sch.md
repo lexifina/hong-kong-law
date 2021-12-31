@@ -76,7 +76,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Wah Kwai Estate Public Transport Interchange, Aberdeen (香港仔華貴邨公共運輸交匯處) | Located at Wah Lung Path, Aberdeen, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-034V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- Wong Chuk Hang Temporary Bus Terminus (黃竹坑臨時巴士總站) | Located at Nam Long Shan Road, Wong Chuk Hang, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-180V1, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
+- Wong Chuk Hang Temporary Bus Terminus (黃竹坑臨時巴士總站) | Located at Nam Long Shan Road, Wong Chuk Hang, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-180V2, signed by the Director of Health on 12 August 2021 and deposited in the Land Registry. (L.N. 172 of 2021)
 
 - Yiu Tung Estate Bus Terminus, Shau Kei Wan (筲箕灣耀東邨巴士總站) | Located at Yiu Hing Road, Shau Kei Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-019V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -114,7 +114,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Kwun Tong Ferry Pier Public Transport Interchange (觀塘碼頭公共運輸交匯處) | Located at Wai Yip Street, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-047V2, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
 
-- Kwun Tong Station Public Transport Interchange (觀塘站公共運輸交匯處) | Located at Kwun Tong Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-048V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+- Kwun Tong Station Public Transport Interchange (觀塘站公共運輸交匯處) | Located at Kwun Tong Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-048V2, signed by the Director of Health on 12 August 2021 and deposited in the Land Registry. (L.N. 172 of 2021)
 
 - Laguna City Public Transport Interchange, Kwun Tong (觀塘麗港城交通交匯處) | Located at Sai Tso Wan Neighbourhood Community Centre, 81 Cha Kwo Ling Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C019V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
@@ -142,6 +142,8 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - San Po Kong Public Transport Interchange (新蒲崗公共運輸交匯處) | Located at Choi Hung Road, San Po Kong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-069V2, signed by the Director of Health on 24 April 2018 and deposited in the Land Registry. (L.N. 70 of 2018)
 
+- Sau Mau Ping (Central) Bus Terminus (秀茂坪(中)巴士總站) | Located at Sau Ming Road, Sau Mau Ping, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-051V1, signed by the Director of Health on 12 August 2021 and deposited in the Land Registry. (L.N. 172 of 2021)
+
 - Sau Mau Ping (Upper) Public Transport Interchange (秀茂坪(上)公共運輸交匯處) | Located at Hiu Kwong Street, Sau Mau Ping, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-052V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
 - Shun Lee Estate Bus Terminus, Kwun Tong (觀塘順利邨巴士總站) | Located at Lee On Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-053V2, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
@@ -166,9 +168,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Wong Tai Sin (Lower Wong Tai Sin Estate) Public Transport Interchange (黃大仙(黃大仙下邨)公共運輸交匯處) | Located at Lower Wong Tai Sin Estate, Wong Tai Sin Shopping Centre Multi-Storey Carpark Building, 108 Ching Tak Street, Wong Tai Sin, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C-035V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- Yue Man Square Temporary Bus Terminus, Kwun Tong (觀塘裕民坊臨時巴士總站) | Located at Yue Man Square, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-181V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
-
-- (L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 139 of 2019; L.N. 204 of 2020)
+- (L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 139 of 2019; L.N. 204 of 2020; L.N. 172 of 2021)
 
 - Part 3 New Territories
 
@@ -195,6 +195,8 @@ Designated No Smoking Areas in Public Transport Facilities
 - Chuen On Road Bus Terminus, Tai Po (大埔全安路巴士總站) | Located at Chuen On Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-109V1, signed by the Director of Health on 21 September 2020 and deposited in the Land Registry (L.N. 204 of 2020)
 
 - Chun Shek Bus Terminus, Sha Tin (沙田秦石巴士總站) | Located at Fung Shek Street, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-078V2, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
+
+- Chun Yeung Estate Public Transport Interchange, Fo Tan (火炭駿洋邨公共運輸交匯處) | Located at Chun Yeung Shopping Centre, Chun Yeung Estate, 20 Kwei Tei Street, Fo Tan, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C-119V1, signed by the Director of Health on 12 August 2021 and deposited in the Land Registry. (L.N. 172 of 2021)
 
 - Chung On Bus Terminus (頌安巴士總站) | Located at Chung On Shopping Centre, Chung On Estate, 632 Sai Sha Road, Ma On Shan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C048V1, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
@@ -262,8 +264,6 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Lo Ping Road Public Transport Interchange, Tai Po (大埔露屏路公共運輸交匯處) | Located at Lo Ping Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-112V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- LOHAS Park Station Public Transport Interchange (康城站公共運輸交匯處) | Located at LOHAS Park Road, Tseung Kwan O, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-179V1, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
-
 - Lok Ma Chau (San Tin) Public Transport Interchange (落馬洲(新田)公共運輸交匯處) | Located at Castle Peak Road—Chau Tau, San Tin, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-144V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
 - Lok Ma Chau Spur Line Public Transport Interchange (落馬洲支線公共運輸交匯處) | Located at MTR Lok Ma Chau Station, Lok Ma Chau, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-145V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
@@ -328,7 +328,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Shui Chuen O Public Transport Interchange, Sha Tin (沙田水泉澳公共運輸交匯處) | Located at To Shek Street, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-185V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
 
-- Siu Hong Court Bus Terminus, Tuen Mun (屯門兆康苑巴士總站) | Located at Siu Hong Road, Tuen Mun, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-130V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+- Siu Hong Court Bus Terminus, Tuen Mun (屯門兆康苑巴士總站) | Located at Siu Hong Road, Tuen Mun, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-130V2, signed by the Director of Health on 12 August 2021 and deposited in the Land Registry. (L.N. 172 of 2021)
 
 - Siu Hong Station (South + North) Public Transport Interchange, Tuen Mun (屯門兆康站(南面+北面)公共運輸交匯處) | Located at Tuen Mun Highway, Tuen Mun, New Territories (near Siu Hong Court), and shown coloured orange and edged red on Plan No. DH/TCO/O-131V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -348,7 +348,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Tai Po Industrial Estate Bus Terminus (大埔工業邨巴士總站) | Located at Tai Po Industrial Estate, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-115V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- Tai Po Market Station Public Transport Interchange (大埔墟站公共運輸交匯處) | Located at Uptown Plaza, 9 Nam Wan Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C061V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
+- Tai Po Market Station Public Transport Interchange (大埔墟站公共運輸交匯處) | Located at Uptown Plaza, 9 Nam Wan Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C-061V2, signed by the Director of Health on 12 August 2021 and deposited in the Land Registry. (L.N. 172 of 2021)
 
 - Tai Po Tau Road Bus Terminus, Tai Po (大埔大埔頭路巴士總站) | Located at Tai Po Tau Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-117V1, signed by the Director of Health on 4 February 2013 and deposited in the Land Registry. (L.N. 17 of 2013)
 
@@ -404,4 +404,4 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Yuen Long (West) Bus Terminus (元朗(西)巴士總站) | Located at On Tat Square, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-143V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- (L.N. 29 of 2012; L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 204 of 2020)
+- (L.N. 29 of 2012; L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 204 of 2020; L.N. 172 of 2021)
