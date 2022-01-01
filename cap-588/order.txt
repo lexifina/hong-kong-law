@@ -151,6 +151,13 @@ s-047.md
 s-048.md
 s-049.md
 s-050.md
+s-050A.md
+s-050B.md
+s-050C.md
+s-050D.md
+s-050E.md
+s-050F.md
+s-050G.md
 s-051.md
 s-052.md
 s-053.md
@@ -209,3 +216,4 @@ sch-4.md
 sch-4A.md
 sch-5.md
 sch-6.md
+sch-7.md
