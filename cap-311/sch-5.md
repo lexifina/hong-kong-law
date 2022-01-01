@@ -4,6 +4,10 @@
 
 Air Quality Objectives
 
+Editorial Note:
+
+For the transitional provisions relating to an application under section 13(1) of the Environmental Impact Assessment Ordinance (Cap. 499), see section 4 of the Air Pollution Control (Amendment) Ordinance 2021 (6 of 2021).
+
 - Part 1 Preliminary
 
   - 1. Interpretation In this Schedule—
@@ -22,7 +26,7 @@ Air Quality Objectives
 
     - (1) The concentration limit of sulphur dioxide in air averaged over a reference period is 500 μg/m³ and the number of reference periods in which the limit is exceeded should not be more than 3 per calendar year.
 
-    - (2) The concentration limit of sulphur dioxide in air averaged over a day is 125 μg/m³ and the number of days on which the limit is exceeded should not be more than 3 per calendar year.
+    - (2) The concentration limit of sulphur dioxide in air averaged over a day is 50 μg/m³ and the number of days on which the limit is exceeded should not be more than 3 per calendar year. (Amended 6 of 2021 s. 3)
 
     - (3) For the purposes of subsection (1), a reference period is—
 
@@ -38,9 +42,11 @@ Air Quality Objectives
 
   - 6. Fine suspended particulates
 
-    - (1) The concentration limit of fine suspended particulates in air averaged over a day is 75 μg/m³ and the number of days on which the limit is exceeded should not be more than 9 per calendar year.
+    - (1) The concentration limit of fine suspended particulates in air averaged over a day is 50 μg/m³ and the number of days on which the limit is exceeded should not be more than 35 per calendar year.
 
-    - (2) The concentration of fine suspended particulates in air averaged over a calendar year should not exceed 35 μg/m³.
+    - (2) The concentration of fine suspended particulates in air averaged over a calendar year should not exceed 25 μg/m³.
+
+  - (Amended 6 of 2021 s. 3)
 
   - 7. Nitrogen dioxide
 
