@@ -1,7 +1,5 @@
 # Schedule 1B
 
-(See Special Remarks)
-
 [ss. 20V & 83]
 
 Composition of the Sports, Performing Arts, Culture and Publication Functional Constituency
@@ -24,7 +22,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 7. | Hong Kong Theatres Association Ltd.
 
-- 8. | 華南電影工作者聯合會
+- 8. | 華南電影工作者聯合會*
 
 - 9. | International Federation of the Phonographic Industry (Hong Kong Group) Limited
 
@@ -47,6 +45,10 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 - 18. | The Hong Kong International Film Festival Society Limited
 
 - 19. | Hong Kong Film & Television Association Limited
+
+- Editorial Note:
+
+- * | The English translation of “華南電影工作者聯合會” is “South China Film Industry Workers Union”.
 
 - Part 2 Cultural Public Institutions, Associations and Bodies
 
@@ -200,7 +202,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 74. | Hong Kong Graphics Society
 
-- 75. | 中國書協香港分會
+- 75. | 中國書協香港分會*
 
 - 76. | Hong Kong Chinese Calligraphy and Art Association
 
@@ -256,7 +258,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 102. | Hong Kong Literature Promoted Association
 
-- 103. | 國際華文詩人協會
+- 103. | 國際華文詩人協會#
 
 - 104. | Magicians’ Association of Hong Kong
 
@@ -281,3 +283,9 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 - 114. | Jingkun Theatre Limited
 
 (Schedule 1B replaced 14 of 2021 s. 346)
+
+Editorial Note:
+
+* | The English translation of “中國書協香港分會” is “China Calligraphers Association – Hong Kong Branch”.
+
+\# | The English translation of “國際華文詩人協會” is “World Club of Chinese Poets”.

@@ -1,7 +1,5 @@
 # Schedule 1D
 
-(See Special Remarks)
-
 [ss. 20Z & 83]
 
 Composition of the Technology and Innovation Functional Constituency

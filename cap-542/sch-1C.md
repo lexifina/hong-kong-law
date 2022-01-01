@@ -1,7 +1,5 @@
 # Schedule 1C
 
-(See Special Remarks)
-
 [ss. 20Y & 83] (Amended 14 of 2021 s. 347)
 
 Composition of the Wholesale and Retail Functional Constituency

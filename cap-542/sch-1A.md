@@ -1,7 +1,5 @@
 # Schedule 1A
 
-(See Special Remarks)
-
 [ss. 20D & 83] (Amended 14 of 2021 s. 345)
 
 Composition of the Transport Functional Constituency

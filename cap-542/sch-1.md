@@ -1,7 +1,5 @@
 # Schedule 1
 
-(See Special Remarks)
-
 [ss. 20B & 83] (Amended 14 of 2021 s. 344)
 
 Composition of the Agriculture and Fisheries Functional Constituency
