@@ -66,7 +66,7 @@ Class of specialized services | Particular medical procedures | Exceptions to me
 
 7. Anaesthetic procedure | (a) General anaesthesia (b) Neuroaxial blocks (including spinal, epidural and caudal)
 
-(c) Major plexus block (including brachial, lumbar and sacral)
+(c) Major plexus block (including cervical, brachial, lumbar and sacral) (Amended L.N. 158 of 2021)
 
 (d) Intravenous regional anaesthesia
 
