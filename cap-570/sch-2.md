@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 15 & 19]
 
-AUTHORITIES AND PUBLIC OFFICERS
+Authorities and Public Officers
 
 Scheduled Offence* | Authority | Public Officer
 

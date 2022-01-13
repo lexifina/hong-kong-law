@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2, 3 & 4]
 
@@ -102,6 +102,8 @@ CRC 122 | 表格 FORM | 編號 SERIAL NUMBER | 金額 AMOUNT
 
 (L.N. 155 of 2003; 17 of 2004 s. 17; 10 of 2008 s. 55; 4 of 2016 s. 7)
 
+__________
+
 通知書編號 Notice Serial No.
 
 表格2 FORM 2
@@ -126,7 +128,7 @@ a public cleanliness offence /a public obstruction offence* contrary to section/
 
 I hereby demand payment of the Fixed Penalty of $1,500 and inform you that, if you wish to dispute liability for the offence, you must inform me.
 
-你必須在本通知書送達的日期起計的10天內 —— You are required—
+你必須在本通知書送達的日期起計的10天內 — You are required—
 
 (a) | 繳付定額罰款；或 to pay the Fixed Penalty; or
 
@@ -214,11 +216,13 @@ Name (in full)
 
 (L.N. 155 of 2003; 10 of 2008 s. 55; 4 of 2016 s. 7)
 
-表格3 FORM 3
+__________
+
+表格3 Form 3
 
 《定額罰款(公眾地方潔淨及阻礙)條例》 (第570章) FIXED PENALTY (PUBLIC CLEANLINESS AND OBSTRUCTION) ORDINANCE (Chapter 570) 關於犯事人身分、地址及欠繳定額罰款的證明書 (第9(2)條) CERTIFICATE OF IDENTITY OF OFFENDER, ADDRESS AND NON-PAYMENT OF FIXED PENALTY (Section 9(2))
 
-現證明 —— This is to certify that —
+現證明 — This is to certify that —
 
 (a) | 於 .......... 年 .......... 月 .......... 日大約 ...............，發生一宗違反 ........................................，即 ...................................................................... 的罪行，........................................ 涉嫌須對該罪行負責。 On the .......... day of ......................... , at about ........................................ , an offence of .................................................................................................... contrary to ...................................................................... has been committed for which ...................................................................... is alleged to be liable.
 

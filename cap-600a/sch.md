@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2, 3 & 4]
 
 Forms
 
-檔號： Reference No.: | 表格1 FORM 1
+檔號： Reference No.: | 表格1 Form 1
 
 《定額罰款(吸煙罪行)條例》
 
@@ -30,7 +30,7 @@ Sex: Male/Female*
 
 日 day | 月 month | 年 year
 
-出生日期 Date of Birth
+出生 日期 Date of Birth
 
 地址 Address:
 
@@ -80,6 +80,10 @@ CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 
 1 | HK$1,500
 
+日 day 月 month 年 year
+
+發出日期 Date of issue
+
 <<預印條紋碼 Pre-printed Bar Code>>
 
 附註 (請細心閱讀) | NOTES (Please read carefully)
@@ -100,13 +104,13 @@ CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 
 (b) 用電話使用「繳費靈」 繳款前，請先致電18013登記本通知書。如欲繳款，請致電18033。請選擇「商戶編號」「9760」，並輸入本通知書下半部所示的16位數字編號。如需查詢，請致電「繳費靈」熱線︰2311 9876。 | (b) By Phone using “PPS” Before making payment, please dial 18011 to register this notice. For making payment, please dial 18031. Please select the “Merchant Code” of “9760”, and key in the 16-digit serial number shown at the lower portion of this notice. For enquiries, please call “PPS” Hotline: 2311 9876.
 
-(c) 透過互聯網 款項可透過銀行及「繳費靈」(http://www.ppshk.com)在互聯網上提供的繳費服務繳付。詳情請瀏覽庫務署網站http://www.try.gov.hk。繳款時，請選擇「定額罰款(吸煙罪行)」。 | (c) Through Internet Payment can be made through the bill payment services provided by banks and “PPS” (http://www.ppshk.com) on the Internet. For details, please visit Treasury’s web site http://www.try.gov.hk. Please select “Fixed Penalty (Smoking Offences)” for payment.
+(c) 透過互聯網 款項可透過銀行及「繳費靈」(http://www.ppshk.com)在互聯網上提供的繳費服務繳付。詳情請瀏覽庫務署網站 http://www.try.gov.hk。繳款時，請選擇「定額罰款(吸煙罪行)」。 | (c) Through Internet Payment can be made through the bill payment services provided by banks and “PPS” (http://www.ppshk.com) on the Internet. For details, please visit Treasury’s web site http://www.try.gov.hk. Please select “Fixed Penalty (Smoking Offences)” for payment.
 
 (d) 透過電話理財服務 款項可使用銀行提供的電話理財服務，透過有關的繳費服務繳付。 | (d) Through Phone-banking Service Payment can be made through the bill payment services by using the phone-banking service provided by banks.
 
 (e) 以郵遞方式 請把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」，寄往香港告士打道郵政局信箱28000號庫務署收。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵遞現金。請注意︰以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。 | (e) By Post A cheque, bank draft or cashier order should be sent together with the “Slip for Payment by Post” at the lower portion of this notice to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark is to be regarded as the date of payment.
 
-(f) 郵政局櫃位 款項可在任何郵政局(流動郵政局除外)的櫃位繳付。本通知書須保持完整並於繳款時出示。繳款後本通知書會發回作收據。如欲查詢地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽香港郵政網站http://www.hongkongpost.com。 | (f) At Post Office Counters Payment can be made at a counter of any post office other than a mobile post office. This notice must be kept intact and produced at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours, please call the Hongkong Post’s Hotline: 2921 2222 or visit Hongkong Post’s web site http://www.hongkongpost.com.
+(f) 郵政局櫃位 款項可在任何郵政局(流動郵政局除外)的櫃位繳付。本通知書須保持完整並於繳款時出示。繳款後本通知書會發回作收據。如欲查詢地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽香港郵政網站 http://www.hongkongpost.com。 | (f) At Post Office Counters Payment can be made at a counter of any post office other than a mobile post office. This notice must be kept intact and produced at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours, please call the Hongkong Post’s Hotline: 2921 2222 or visit Hongkong Post’s web site http://www.hongkongpost.com.
 
 2. 透過自動櫃員機、使用「繳費靈」、透過互聯網或電話理財服務繳款，請輸入本通知書下半部所示的16位數字編號。款項於到期日午夜前繳付會被視作準時繳交。 | 2. For payment through ATM, by “PPS”, through Internet or phone-banking service, please key in the 16-digit serial number shown at the lower portion of this notice. Payment made before mid-night on the due date will be regarded as on-time payment.
 
@@ -114,9 +118,11 @@ CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 
 如就本通知書有任何查詢，請致電有關的部門的查詢熱線電話。 For any enquiry about this notice, please call enquiry hotline of the relevant department. 衞生署戒煙熱線： 1833 183 Department of Health Smoking Cessation Hotline: 1833 183
 
+__________
+
 通知書編號 Notice Serial No.
 
-表格2 FORM 2 《定額罰款(吸煙罪行)條例》 (第600章) FIXED PENALTY (SMOKING OFFENCES) ORDINANCE (Cap. 600) 要求繳付定額罰款通知書 (第6(2)條) NOTICE DEMANDING PAYMENT OF FIXED PENALTY (Section 6(2))
+表格2 Form 2 《定額罰款(吸煙罪行)條例》 (第600章) FIXED PENALTY (SMOKING OFFENCES) ORDINANCE (Cap. 600) 要求繳付定額罰款通知書 (第6(2)條) NOTICE DEMANDING PAYMENT OF FIXED PENALTY (Section 6(2))
 
 致： | (先寫姓氏)
 
@@ -167,10 +173,6 @@ Date:
 CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 
 2 | HK$1,500
-
-日 day 月 month 年 year
-
-發出日期 Date of issue
 
 <<預印條紋碼 Pre-printed Bar Code>>
 
@@ -228,7 +230,9 @@ Name (in full)
 
 * Please delete where appropriate.
 
-表格3 FORM 3 《定額罰款(吸煙罪行)條例》 (第600章) FIXED PENALTY (SMOKING OFFENCES) ORDINANCE (Cap. 600) 關於犯事人身分及地址以及未繳定額罰款的證明書 (第9(2)條) CERTIFICATE OF IDENTITY AND ADDRESS OF OFFENDER AND OF NON-PAYMENT OF FIXED PENALTY (Section 9(2))
+__________
+
+表格3 Form 3 《定額罰款(吸煙罪行)條例》 (第600章) FIXED PENALTY (SMOKING OFFENCES) ORDINANCE (Cap. 600) 關於犯事人身分及地址以及未繳定額罰款的證明書 (第9(2)條) CERTIFICATE OF IDENTITY AND ADDRESS OF OFFENDER AND OF NON-PAYMENT OF FIXED PENALTY (Section 9(2))
 
 現證明—— This is to certify that—
 
@@ -236,9 +240,9 @@ Name (in full)
 
 On the .................... day of ...................., at about ............................................., an offence of .................................................................................................... contrary to .................................................................................................... has been committed for which ................................................................................ is alleged to be liable.
 
-(b) | 於 ............... 年 ............... 月 ............... 日，..................................................................................... 的地址為 ..............................................................................................................。
+(b) | 於 ............... 年 ............... 月 ............... 日，..................................................................................... 的地址為 ........................................................................................................。
 
-On the .................... day of ...................., the address of ............................................. was ................................................................................................................... .
+On the .................... day of ...................., the address of ............................................. was ......................................................................................................... .
 
 (c) | 於 ............... 年 ............... 月 ............... 日之前，該人未有就(a)段所指明的以及根據《定額罰款(吸煙罪行)條例》(第600章)第6(2)條送達而日期為 ......................... 的通知書(編號 .................)所指明的罪行繳付定額罰款。
 

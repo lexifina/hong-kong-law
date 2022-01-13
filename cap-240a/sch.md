@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [通知書號碼: ]
 
@@ -74,7 +74,7 @@ LOCATION (If item 1 or 2 is not applicable, then complete item 3)
 
 Enquiries concerning the issue of this notice may be made by contacting the Duty Officer of any Police Station.
 
-\| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| | [ | 條碼 | ]
+\| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| | [ | 條碼 | ]
 
 [ | Bar Code | ]
 
@@ -84,7 +84,7 @@ PERSONAL DATA
 
 郵寄付款須知： 請沿左面虛線撕下郵寄付款回條，並將回條連同支票、匯票或本票寄回。
 
-Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order. | 下列機印所示款項收訖 —— RECEIVED the sum imprinted below—
+Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order. | 下列機印所示款項收訖— RECEIVED the sum imprinted below—
 
 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。
 
@@ -500,19 +500,19 @@ Offence marked with “Ω” carries 10 driving-offence points.
 
 Vehicle owners liable for offences marked with “*”.
 
-(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017; L.N. 14 of 2018) _
+(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017; L.N. 14 of 2018) __________
 
 通知書號碼： | 表格 2 | [第2(2)條]
 
 Notice No. : | FORM 2 | [reg. 2(2)]
 
-《定額罰款(刑事訴訟)條例》 | 電子繳款號碼 E-Payment Number
+《定額罰款(刑事訴訟)條例》 (第240章) | 電子繳款號碼 E-Payment Number
 
-(第240章) | 請輸入下列18位數字
+FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE | 請輸入下列18位數字
 
-FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE | Please key in the following 18 digit nos. | 04
+(Chapter 240) | Please key in the following 18 digit nos. | 04
 
-(Chapter 240) | 帳類 Bill Type
+帳類 Bill Type
 
 批次日期： | 繳付定額罰款通知書
 
@@ -542,15 +542,15 @@ was committed for which you as theof the motor vehicle no.are alleged to be liab
 
 該罪行屬本條例的附表內所列的第項，即
 
-The offence is listed at itemof the Schedule to the Ordinance, namely.
+The offence is listed at itemof the Schedule to the Ordinance, namely .
 
 本人現要求你繳付，作為該罪行的定額罰款，並通知你若意欲就該罪行的法
 
 I hereby demand payment ofwhich is the Fixed Penalty for this offence and inform you
 
-律責任提出爭議，你必須通知本人。你必須在 或之前 ——
+律責任提出爭議，你必須通知本人。你必須在 或之前 —
 
-that, if you wish to dispute liability for the offence, you should inform me. You are required ——
+that, if you wish to dispute liability for the offence, you should inform me. You are required —
 
 (a)繳付定額罰款；或
 
@@ -678,11 +678,11 @@ Date:
 
 簽名Signature
 
-(L.N. 165 of 2001; L.N. 159 of 2005; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 14 of 2018) _
+(L.N. 165 of 2001; L.N. 159 of 2005; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 14 of 2018) __________
 
-FORM 3 | [reg. 4]
+Form 3 | [reg. 4]
 
-FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) CERTIFICATE OF IDENTITY, REGISTERED ADDRESS AND
+Fixed Penalty (Criminal Proceedings) Ordinance (Chapter 240) CERTIFICATE OF IDENTITY, REGISTERED ADDRESS AND
 
 NON-PAYMENT OF FIXED PENALTY (Section 8)
 
@@ -728,11 +728,11 @@ for Comissioner of Police.
 
 (L.N. 89 of 1984)
 
-_
+__________
 
-FORM 4 | [reg. 5]
+Form 4 | [reg. 5]
 
-FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) CERTIFICATE OF CLEARANCE (Section 10(3))
+Fixed Penalty (Criminal Proceedings) Ordinance (Chapter 240) CERTIFICATE OF CLEARANCE (Section 10(3))
 
 This is to certify that there are no fines or costs unpaid by
 
