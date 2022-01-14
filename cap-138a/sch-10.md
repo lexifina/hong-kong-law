@@ -1058,6 +1058,8 @@ Poisons List
 
     - Dorzolamide; its salts
 
+    - Dostarlimab
+
     - Dothiepin; its salts
 
     - Doxapram; its salts
@@ -1698,6 +1700,8 @@ Poisons List
 
     - Lurasidone; its salts
 
+    - Luspatercept
+
     - Lutetium-177; its salts; when contained in pharmaceutical products
 
     - Lutetium (177Lu) oxodotreotide; its salts
@@ -2192,6 +2196,8 @@ Poisons List
 
     - Pemetrexed; its salts; its esters; their salts
 
+    - Pemigatinib; its salts
+
     - Pemirolast; its salts
 
     - Pemoline; its salts
@@ -2516,6 +2522,8 @@ Poisons List
 
     - Ponatinib; its salts
 
+    - Ponesimod; its salts
+
     - Poractant alfa
 
     - Porfimer; its salts
@@ -2786,6 +2794,8 @@ Poisons List
 
     - Selexipag; its salts
 
+    - Selumetinib; its salts
+
     - Semaglutide
 
     - Sermorelin; its salts
@@ -2917,6 +2927,8 @@ Poisons List
     - Tenofovir; its salts; its derivatives; their salts
 
     - Tenoxicam
+
+    - Tepotinib; its salts
 
     - Terazosin; its salts
 
@@ -3220,7 +3232,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022)
 
   - Division B
 
