@@ -712,7 +712,7 @@ Nature and particulars of application: * Application for new tenancy. / *Applica
 
 * Application for recovery of possession of the suit premises and rent as the respondent has failed to pay rent from the day of and application for order for mesne profits, costs, *interest, *management fees, *rates/Government rent, *water/electricity/gas charges and *other utility charges.
 
-* Application for disposal of properties left in the premises by the respondent. Dated this . day of .
+* Application for disposal of properties left in the premises by the respondent. * Application for determination of whether a tenancy is a regulated tenancy for the purposes of Part IVA of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7). / * Application for determination on the entitlement of a family member of a deceased tenant to the deceased tenant’s benefits and protection under a regulated tenancy under Part IVA of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7). Dated this . day of .
 
 +
 
@@ -728,7 +728,7 @@ Address for service of the applicant:
 
 Note: | If the respondent intends to oppose this application, he must personally attend at the Lands Tribunal Registry within 7 days of the date of service of this notice, and file a notice of opposition (Form 7).
 
-(32 of 2002 s. 40; L.N. 281 of 2006)
+(32 of 2002 s. 40; L.N. 281 of 2006; 36 of 2021 s. 12)
 
 __________
 

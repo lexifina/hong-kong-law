@@ -8,7 +8,7 @@ Service of Documents
 
 Item | Enactment | Provision
 
-1. | Landlord and Tenant (Consolidation) Ordinance (Cap. 7) | Section 119Y(1)(a) and (b)
+1. | Landlord and Tenant (Consolidation) Ordinance (Cap. 7) (Amended 36 of 2021 s. 17) | Sections 119Y(1)(a) and (b) and 120AAZZH(1)(a) and (b)
 
 2. | Rating Ordinance (Cap. 116) | Section 50(1)
 
