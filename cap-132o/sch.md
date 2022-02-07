@@ -158,4 +158,6 @@
 
 - 78. The building known as Self-service Library Station situated at 2 Tsuen Nam Road, Tai Wai, Sha Tin. (L.N. 192 of 2018)
 
+- 79. The ground and first floors of Sham Shui Po Leisure and Cultural Building, 38 Sham Mong Road, Sham Shui Po, Kowloon. (L.N. 217 of 2021)
+
 (Schedule replaced 78 of 1999 s. 7)
