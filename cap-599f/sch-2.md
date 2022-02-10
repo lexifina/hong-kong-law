@@ -52,6 +52,18 @@ Scheduled Premises
 
 - (b) | are for the time being used, with the consent of the owner, manager or tenant of the premises, for holding a specified event (L.N. 126 of 2021)
 
+- 18. | Premises other than a beauty parlour (commonly known as barber shop or hair salon) where a person may have his or her hair on the face or on the head shaved, trimmed, cut or washed, or have other treatments done to the hair (L.N. 12 of 2022)
+
+- 19. | Religious premises (L.N. 12 of 2022)
+
+- 20. | Shopping mall (L.N. 12 of 2022)
+
+- 21. | Premises (commonly known as department store) where a wide variety of goods (for example, men’s and women’s clothing, furniture, electrical appliances and hardware) are sold in separate departments (L.N. 12 of 2022)
+
+- 22. | Market (L.N. 12 of 2022)
+
+- 23. | Self-service shop (commonly known as supermarket) where fresh produce, food other than fresh produce, beverages and household goods are sold (L.N. 12 of 2022)
+
 - Part 2 Interpretation
 
   - 1. In this Schedule—
@@ -100,6 +112,16 @@ Scheduled Premises
 
     - hotel or guesthouse (酒店或賓館) has the meaning given by section 2A of the Hotel and Guesthouse Accommodation Ordinance (Cap. 349); (L.N. 222 of 2020)
 
+    - indoor (室內) means—
+
+      - (a) having a ceiling or roof, or a cover that functions (whether temporarily or permanently) as a ceiling or roof; and
+
+      - (b) having at least 50% of the total area of all sides enclosed (whether temporarily or permanently) otherwise than by—
+
+        - (i) any window or door that can be opened; or
+
+        - (ii) any opening that functions as such a window or door; (L.N. 12 of 2022)
+
     - karaoke establishment (卡拉OK場所) means—
 
       - (a) a karaoke establishment as defined by section 2(1) of the Karaoke Establishments Ordinance (Cap. 573); or
@@ -107,6 +129,8 @@ Scheduled Premises
       - (b) a karaoke establishment referred to in section 3(1)(a) or (c) of that Ordinance; (L.N. 33 of 2020)
 
     - mahjong-tin kau premises (麻將天九耍樂處所) means any premises that are licensed under section 22 of the Gambling Ordinance (Cap. 148) for the playing on the premises of games in which mahjong or tin kau tiles are used; (L.N. 33 of 2020)
+
+    - market (街市、 市集) means any indoor premises with one or more dedicated entrances where goods are sold at different stalls or stores at the premises; (L.N. 12 of 2022)
 
     - massage establishment (按摩院) has the meaning given by section 2 of the Massage Establishments Ordinance (Cap. 266); (L.N. 33 of 2020)
 
@@ -121,6 +145,10 @@ Scheduled Premises
     - place of public entertainment (公眾娛樂場所) has the meaning given by section 2 of the Places of Public Entertainment Ordinance (Cap. 172); (L.N. 150 of 2020)
 
     - private premises (私人處所) means any premises to which the public may not, or are not permitted to, have access from time to time (whether by payment or otherwise); (L.N. 126 of 2021)
+
+    - religious premises (宗教處所) means premises constructed or regularly used for religious activities, including a church, monastery, nunnery, mosque, synagogue and temple; (L.N. 12 of 2022)
+
+    - shopping mall (商場) means any indoor shopping area with a variety of shops, and often restaurants, housed in a single building or in buildings connected by one or more passageways; (L.N. 12 of 2022)
 
     - sports premises (體育處所)—
 
