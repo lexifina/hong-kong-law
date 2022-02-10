@@ -1,24 +1,26 @@
 # Schedule 1
 
-[ss. 2, 5A & 7] (L.N. 53 of 2021)
+[ss. 2, 5A, 7 & 8C] (L.N. 53 of 2021; L.N. 13 of 2022)
 
-Exempted Group Gatherings
+Exempted Gatherings
 
-- Part 1 Exempted Group Gatherings (L.N. 53 of 2021)
+(L.N. 13 of 2022)
 
-  - 1. Group gathering for the purposes of or related to transportation
+- Part 1 Exempted Gatherings (L.N. 53 of 2021; L.N. 13 of 2022)
 
-  - 2. Group gathering for performing any governmental function
+  - 1. A gathering for the purposes of or related to transportation
 
-  - 3. Group gathering for performing any function of a statutory body or an advisory body of the Government
+  - 2. A gathering for performing any governmental function
 
-  - 4. Group gathering at a place of work for the purposes of work
+  - 3. A gathering for performing any function of a statutory body or an advisory body of the Government
 
-  - 5. Group gathering for obtaining or receiving hospital or healthcare service at a healthcare facility
+  - 4. A gathering at a place of work for the purposes of work
 
-  - 6. Group gathering of persons living in the same household
+  - 5. A gathering for obtaining or receiving hospital or healthcare service at a healthcare facility
 
-  - 7. Group gathering for—
+  - 6. A gathering of persons ordinarily living in the same household (L.N. 13 of 2022)
+
+  - 7. A gathering for— (L.N. 13 of 2022)
 
     - (a) the conduct of proceedings in a court, magistrates’ court or tribunal;
 
@@ -26,9 +28,9 @@ Exempted Group Gatherings
 
     - (c) the conduct of any other business of the Judiciary (L.N. 59 of 2020)
 
-  - 8. Group gathering necessary for the proceedings in the Legislative Council or a District Council
+  - 8. A gathering necessary for the proceedings in the Legislative Council or a District Council
 
-  - 9. Group gathering during a funeral, or during any other occasion for mourning for or remembering a deceased who has yet to be buried or cremated (including any ritual or ceremony held in the vicinity of the place where the deceased died or suffered fatal injury to mourn for the death of the deceased)
+  - 9. A gathering during a funeral, or during any other occasion for mourning for or remembering a deceased who has yet to be buried or cremated (including any ritual or ceremony held in the vicinity of the place where the deceased died or suffered fatal injury to mourn for the death of the deceased)
 
   - 9A. (Repealed L.N. 127 of 2021)
 
@@ -40,7 +42,7 @@ Exempted Group Gatherings
 
   - 11A. (Repealed L.N. 127 of 2021)
 
-  - 12. Group gathering held for imparting information or skills, or handling supplies or items, that are conducive to the prevention and control of the specified disease
+  - 12. A gathering held for imparting information or skills, or handling supplies or items, that are conducive to the prevention and control of the specified disease
 
   - 13. (Repealed L.N. 223 of 2020)
 
@@ -48,25 +50,9 @@ Exempted Group Gatherings
 
   - 15-16. (Repealed L.N. 235 of 2020)
 
-  - 17. Group gathering during a religious activity (other than a wedding ceremony) that satisfies the following conditions—
+  - 17-18. (Repealed L.N. 13 of 2022)
 
-    - (a) the activity is held on any premises constructed or regularly used as a place of worship (including a church, monastery or nunnery, mosque, synagogue or temple);
-
-    - (b) no food or drink is served in the activity (except as part of a religious ritual); and
-
-    - (c) the number of participants in the activity is restricted to not more than 50% of the number of persons that may normally be accommodated on the premises as a place of worship (L.N. 53 of 2021; L.N. 103 of 2021)
-
-  - 18. Group gathering during a religious activity (other than a wedding ceremony) that satisfies the following conditions—
-
-    - (a) each of the participants in the gathering is a qualified person;
-
-    - (b) the activity is held on any premises constructed or regularly used as a place of worship (including a church, monastery or nunnery, mosque, synagogue or temple);
-
-    - (c) no food or drink is served in the activity (except as part of a religious ritual); and
-
-    - (d) the number of participants in the activity is restricted to not more than 100% of the number of persons that may normally be accommodated on the premises as a place of worship (L.N. 53 of 2021; L.N. 103 of 2021)
-
-  - 19. Group gathering of not more than 30 persons—
+  - 19. A gathering of not more than 30 persons— (L.N. 13 of 2022)
 
     - (a) during a tour—
 
@@ -78,7 +64,7 @@ Exempted Group Gatherings
 
 - except when taking place at any Cap. 599F premises (L.N. 53 of 2021)
 
-  - 20. Group gathering of not more than 100 persons—
+  - 20. A gathering of not more than 100 persons— (L.N. 13 of 2022)
 
     - (a) during a tour—
 
@@ -89,6 +75,8 @@ Exempted Group Gatherings
     - (b) in which each of the participants is a qualified person, (L.N. 127 of 2021)
 
   - except when taking place at any Cap. 599F premises (L.N. 103 of 2021)
+
+- (L.N. 13 of 2022)
 
 - Part 2 Interpretation
 

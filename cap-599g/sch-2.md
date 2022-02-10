@@ -1,6 +1,6 @@
 # Schedule 2
 
-[s. 8]
+[ss. 8 & 8G] (L.N. 13 of 2022)
 
 Fixed Penalty
 
@@ -38,7 +38,7 @@ Fixed Penalty
 
   - 2. Authorized officer may give penalty notice
 
-    - (1) This section applies if an authorized officer has reason to believe that a person is committing or has committed an offence under section 6(1)(a).
+    - (1) This section applies if an authorized officer has reason to believe that a person is committing or has committed an offence under section 6(1)(a) or 8E(1)(a). (L.N. 13 of 2022)
 
     - (2) The authorized officer may give the person a penalty notice in the specified form offering the person an opportunity to discharge the person’s liability for the offence by paying the fixed penalty within 21 days after the date on which the notice is given.
 
@@ -46,7 +46,7 @@ Fixed Penalty
 
   - 3. No prosecution or conviction if compliance with penalty notice
 
-    - (1) This section applies to a person who has been given a penalty notice in respect of an offence under section 6(1)(a).
+    - (1) This section applies to a person who has been given a penalty notice in respect of an offence under section 6(1)(a) or 8E(1)(a). (L.N. 13 of 2022)
 
     - (2) Subject to section 6 of this Schedule, the person is not liable to be prosecuted or convicted for the offence if the person has paid the fixed penalty within 21 days after the date on which the penalty notice is given.
 
@@ -56,7 +56,7 @@ Fixed Penalty
 
       - (a) a person—
 
-        - (i) has been given a penalty notice in respect of an offence under section 6(1)(a); and
+        - (i) has been given a penalty notice in respect of an offence under section 6(1)(a) or 8E(1)(a); and (L.N. 13 of 2022)
 
         - (ii) fails to pay the fixed penalty within 21 days after the date on which the notice is given; or
 
@@ -88,13 +88,13 @@ Fixed Penalty
 
   - 5. No prosecution or conviction if compliance with demand notice
 
-    - (1) This section applies to a person on whom a demand notice has been served in respect of an offence under section 6(1)(a).
+    - (1) This section applies to a person on whom a demand notice has been served in respect of an offence under section 6(1)(a) or 8E(1)(a). (L.N. 13 of 2022)
 
     - (2) Subject to section 6 of this Schedule, the person is not liable to be prosecuted or convicted for the offence if the person has paid the fixed penalty within 10 days after the date on which the demand notice is served.
 
   - 6. Withdrawal of penalty notice or demand notice
 
-    - (1) The Authority may withdraw a penalty notice given, or a demand notice served, in respect of an offence under section 6(1)(a)— (L.N. 52 of 2020)
+    - (1) The Authority may withdraw a penalty notice given, or a demand notice served, in respect of an offence under section 6(1)(a) or 8E(1)(a)— (L.N. 52 of 2020; L.N. 13 of 2022)
 
       - (a) at any time before a recovery order is made; or
 
@@ -218,9 +218,9 @@ Fixed Penalty
 
     - (1) This section applies if—
 
-      - (a) a person has notified the Authority in accordance with a demand notice that the person wishes to dispute liability for an offence under section 6(1)(a); or (L.N. 52 of 2020)
+      - (a) a person has notified the Authority in accordance with a demand notice that the person wishes to dispute liability for an offence under section 6(1)(a) or 8E(1)(a); or (L.N. 52 of 2020)
 
-      - (b) a person has been given leave under section 11(2) of this Schedule to dispute liability for an offence under section 6(1)(a).
+      - (b) a person has been given leave under section 11(2) of this Schedule to dispute liability for an offence under section 6(1)(a) or 8E(1)(a). (L.N. 13 of 2022)
 
     - (2) A summons issued in any proceedings against the person for the offence may be served on the person in accordance with section 8 of the Magistrates Ordinance (Cap. 227).
 

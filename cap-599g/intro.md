@@ -1,4 +1,6 @@
-Prevention and Control of Disease (Prohibition on Group Gathering) Regulation
+Prevention and Control of Disease (Prohibition on Gathering) Regulation
+
+(L.N. 13 of 2022)
 
 (Made by the Chief Executive in Council under section 8 of the Prevention and Control of Disease Ordinance (Cap. 599))
 
