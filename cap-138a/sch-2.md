@@ -102,11 +102,15 @@ Adhesives; anti-fouling compositions; builders’ materials; ceramics; distemper
 
 - Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tablets containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999; E.R. 1 of 2015)
 
-- (L.N. 138 of 2000) Division B (L.N. 41 of 2007)
+- Tranexamic acid | Topical preparations containing not more than 3% of tranexamic acid as cosmetic products not intended for the treatment of human ailments (L.N. 19 of 2022)
 
-- Acetanilide; alkyl acetanilides | Substances not being preparations for the treatment of human ailments
+- (L.N. 138 of 2000)
+
+- Division B (L.N. 41 of 2007)
 
 - Poison | Substance or article in which exempted
+
+- Acetanilide; alkyl acetanilides | Substances not being preparations for the treatment of human ailments
 
 - Ammonia | Substances not being solutions of ammonia or preparations containing solutions of ammonia; substances containing less than 5%, weight in weight, of ammonia (NH3); refrigerators; smelling bottles
 
