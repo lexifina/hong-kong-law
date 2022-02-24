@@ -1,5 +1,3 @@
-“78. | Mercury Control Ordinance (Cap. 640) (Amended E.R. 5 of 2021) | A decision of the Director of Environmental Protection— (a) to refuse to issue a permit under section 18, 20 or 22; (b) to impose conditions under section 18, 20, 22 or 27; (c) to refuse to renew a permit under section 27; (d) to refuse to issue a duplicate of a permit under section 28; (e) under section 30 to vary a condition imposed under Part 3 in respect of a permit; (f) under section 31 to refuse to vary a condition imposed under Part 3 in respect of a permit; (g) to suspend a permit under section 34; (h) to cancel a permit under section 35; (i) to give a disposal direction under section 39; or (j) to refuse to vary a disposal direction under section 40.”.
-
 # Schedule 1
 
 [ss. 2, 4 & 77]
