@@ -2,4 +2,4 @@ An Ordinance to implement the Minamata Convention on Mercury; to regulate the ex
 
 [1 December 2021] L.N. 157 of 2021
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2022)

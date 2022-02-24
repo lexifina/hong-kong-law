@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 51A]
 
-DEVICES WHICH ARE AMUSEMENT RIDES
+Devices which are Amusement Rides
 
 - 1. A bungee cord.
 
@@ -14,6 +14,6 @@ DEVICES WHICH ARE AMUSEMENT RIDES
 
 - 3.
 
-  - In this Schedule “revolve” (旋轉) means rotate or otherwise move in a circular or any other orbit.
+  - In this Schedule revolve (旋轉) means rotate or otherwise move in a circular or any other orbit.
 
 - (Added 72 of 1995 s. 14)

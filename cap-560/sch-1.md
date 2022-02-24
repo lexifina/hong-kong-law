@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 34 & 38]
 
-MEMBERS OF APPEAL BOARD PANEL
+Members of Appeal Board Panel
 
 The Appeal Board panel shall consist of—
 

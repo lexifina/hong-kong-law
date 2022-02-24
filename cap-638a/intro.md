@@ -1,5 +1,7 @@
 Court Proceedings (Electronic Technology) (Specification of e-Courts) Rules
 
-(Made by the Chief Justice under section 6 of the Court Proceedings (Electronic Technology) Ordinance (Cap. 638)
+(Cap. 638, section 6)
+
+(Enacting provision omitted—E.R. 1 of 2022)
 
 [1 October 2021]

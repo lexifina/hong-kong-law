@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 37 & 38]
 
-COMPOSITION OF APPEAL BOARD
+Composition of Appeal Board
 
 An Appeal Board shall consist of—
 

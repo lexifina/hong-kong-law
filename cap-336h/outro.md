@@ -290,7 +290,7 @@ Acknowledgment of Service of Writ of Summons (Order 12 rule 3) Directions for Ac
 
 1. The accompanying form of ACKNOWLEDGMENT OF SERVICE should be detached and completed by a Solicitor acting on behalf of the Defendant or by the Defendant if acting in person. After completion it must be delivered or sent by post to the Registry of the District Court at the following address:— [insert here the address of the Registry of the District Court]
 
-1A. However, a Defendant (or a Solicitor acting on behalf of a Defendant) who is a registered user or an Organization User account holder may send the Acknowledgment of Service to the Registry of the District Court by means of an e-system in accordance with the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules. Note— For the meaning of Organization User account holder and registered user, please see rule 2 of the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules.
+1A. However, a Defendant (or a Solicitor acting on behalf of a Defendant) who is a registered user or an Organization User account holder may send the Acknowledgment of Service to the Registry of the District Court by means of an e-system in accordance with the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules (Cap. 638 sub. leg. C). Note— For the meaning of Organization User account holder and registered user, please see rule 2 of the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules (Cap. 638 sub. leg. C).
 
 2. A Defendant who states in his Acknowledgment of Service that he intends to contest the proceedings MUST ALSO file a DEFENCE which must be written in either the Chinese or the English language with the Registry and serve a copy thereof on the Solicitor for the Plaintiff (or on the Plaintiff if acting in person).
 
@@ -312,7 +312,7 @@ Notes for Guidance
 
 1. Each Defendant (if there are more than one) is required to complete an Acknowledgment of Service and return it to the Registry of the District Court.
 
-[2. For the purpose of calculating the period of 14 days for acknowledging service, a writ served on the Defendant personally is treated as having been served on the day it was delivered to him and a writ served by post or by insertion through the Defendant’s letter box, or by sending it by electronic transmission in accordance with the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules, is treated as having been served on the seventh day after the date of posting, insertion or sending by electronic transmission.]
+[2. For the purpose of calculating the period of 14 days for acknowledging service, a writ served on the Defendant personally is treated as having been served on the day it was delivered to him and a writ served by post or by insertion through the Defendant’s letter box, or by sending it by electronic transmission in accordance with the Court Proceedings (Electronic Technology) (District Court Civil Proceedings) Rules (Cap. 638 sub. leg. C), is treated as having been served on the seventh day after the date of posting, insertion or sending by electronic transmission.]
 
 (Note: Not applicable if the defendant is a company served at its registered office.)
 
@@ -374,7 +374,7 @@ Where words appear between square brackets, delete if inapplicable. | Service of
 
 Notes as to Address for Service Solicitor. Where the Defendant is represented by a Solicitor, state the Solicitor’s place of business in Hong Kong. Defendant in person. Where the Defendant is acting in person, he must give his residence OR, if he does not reside in Hong Kong, he must give an address in Hong Kong where communications for him should be sent. In the case of a limited company, “residence” (居所) means its registered or principal office. (Back of page (1)) Indorsement by plaintiff’s solicitor (or by plaintiff if suing in person) of his name, address and reference, if any.
 
-(L.N. 153 of 2008; L.N. 84 of 2021)
+(L.N. 153 of 2008; L.N. 84 of 2021; E.R. 1 of 2022)
 
 _
 
@@ -1742,7 +1742,7 @@ Writ of fieri facias after levy of part (Order 45 rule 12) (Heading as in action
 
 - And whereas by our writ issued the ...................... day of .............................. 20 ........ it is required that of the goods, chattels and other property of C.D. you should cause to be made the sums of $ .................... and $ .................... for costs of execution and also interest on $ ........................ at ........................ per cent per annum from the ...................... day of .............................. 20 ........ until payment and should pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest and should indorse on the writ a statement of the manner in which you had executed it and send a copy of the statement to A.B.
 
-- And whereas the indorsement on the said writ states that by virture thereof you (or he) caused to be made of the property aforesaid the sum of $ ....................
+- And whereas the indorsement on the said writ states that by virtue thereof you (or he) caused to be made of the property aforesaid the sum of $ ....................
 
 - It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sum of $ .........................., the residue of the said $ .........................., and $ ...................... for costs of execution and also interest on $ .................... at the rate of ........................ per cent per annum from the ...................... day of .............................. 20 ........ until payment (continue as in No. 53).
 
@@ -1751,6 +1751,8 @@ Writ of fieri facias after levy of part (Order 45 rule 12) (Heading as in action
 - Witness (as in No. 53).
 
 - This writ (as in No. 53).
+
+(E.R. 1 of 2022)
 
 _
 
