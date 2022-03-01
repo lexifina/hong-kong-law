@@ -4,8 +4,6 @@
 
 Specified Information of Eligible Persons
 
-(Not yet in operation)
-
 - 1. Individual aged 16 or above
 
   - (1) If the eligible person is an individual acting in his or her individual capacity who is aged 16 or above and holds an identity card, the information specified for the person is as follows—
