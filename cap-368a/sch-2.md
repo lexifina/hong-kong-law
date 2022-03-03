@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 2, 12, 13 & 14] (L.N. 96 of 2009)
 
-TOLLS AND FEES
+Tolls and Fees
+
+(Format changes—E.R. 1 of 2022)
 
 - Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel, Eastern Harbour Crossing and Tate’s Cairn Tunnel) (7 of 2016 s. 18; 9 of 2018 s. 9)
 

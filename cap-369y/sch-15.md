@@ -1,8 +1,8 @@
-# SCHEDULE 15
+# Schedule 15
 
 [regs. 49(2A)(a) & 50(2)(b)]
 
-INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS
+Inert Gas Systems: Alternative Requirements for Chemical Tankers
 
 - (1)
 
@@ -92,11 +92,11 @@ INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS
 
   - (e) Suitable arrangements shall be provided to enable the inert gas main to be connected to an external supply of inert gas.
 
-- (11) Unless the arrangements for venting of all vapours displaced from the cargo tanks during loading and ballasting comply with the requirements of the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk or the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk for controlled venting, such arrangements shall comply with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) and shall consist either of one or more mast risers or of a number of high velocity vents.
+- (11) Unless the arrangements for venting of all vapours displaced from the cargo tanks during loading and ballasting comply with the requirements of the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk or the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk for controlled venting, such arrangements shall comply with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S) and shall consist either of one or more mast risers or of a number of high velocity vents. (E.R. 1 of 2022)
 
 - (12) The arrangements for inerting, purging or gas freeing of empty tanks as required by paragraph (2) shall be to the satisfaction of the Director and shall be such that the accumulation of hydrocarbon vapours in pockets formed by the internal structural members in a tank is minimised and that—
 
-  - (a) on individual cargo tanks the gas outlet pipe, if fitted, shall be positioned as far as practicable from the inert gas/air inlet and in accordance with regulation 12(5)(c) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) or paragraph 8.2.2.3 of the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk. The inlet of such outlet pipes may be located either at deck level or not more than 1 metre above the bottom of the tank;
+  - (a) on individual cargo tanks the gas outlet pipe, if fitted, shall be positioned as far as practicable from the inert gas/air inlet and in accordance with regulation 12(5)(c) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S) or paragraph 8.2.2.3 of the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk. The inlet of such outlet pipes may be located either at deck level or not more than 1 metre above the bottom of the tank; (E.R. 1 of 2022)
 
   - (b) the cross-sectional area of such gas outlet pipe referred to in subparagraph (a) shall be such that an exit velocity of at least 20 metres per second can be maintained when any 3 tanks are being simultaneously supplied with inert gas. Their outlets shall extend not less than 2 metres above deck level. When in accordance with paragraph (3) the Director permits a system designed to supply only one tank or 2 tanks simultaneously, the outlet pipes shall be sized such that an exit velocity in the outlet pipes of 20 metres per second can be maintained;
 
@@ -160,4 +160,4 @@ INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS
 
 - (18) Detailed instruction manuals shall be provided on board, covering the operations, safety and maintenance requirements and occupational health hazards relevant to the inert gas system and its application to the cargo tank system. The manuals shall include guidance on procedures to be followed in the event of a fault or failure of the inert gas system.
 
-(L.N. 410 of 1995)
+(Schedule 15 added L.N. 410 of 1995)

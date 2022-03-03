@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 67(1)]
 
-NON-PORTABLE DRY POWDER FIRE EXTINGUISHERS
+Non-portable Dry Powder Fire Extinguishers
 
-- (1) Every dry powder fire extinguisher, other than a portable fire extinguisher, provided in compliance with these Regulations shall be constructed of suitable materials and shall be of an efficient design and of sufficient strength to withstand with an adequate factor of safety the maximum internal pressure to which it may be subjected and shall be capable of withstanding a test by hydraulic pressure suitably in excess of the maximum working pressure. For the purpose of this Schedule the maximum working pressure shall be the equilibrium pressure that develops within the body at 70oC when the correctly charged extinguisher has been operated with all outlets closed.
+- (1) Every dry powder fire extinguisher, other than a portable fire extinguisher, provided in compliance with these Regulations shall be constructed of suitable materials and shall be of an efficient design and of sufficient strength to withstand with an adequate factor of safety the maximum internal pressure to which it may be subjected and shall be capable of withstanding a test by hydraulic pressure suitably in excess of the maximum working pressure. For the purpose of this Schedule the maximum working pressure shall be the equilibrium pressure that develops within the body at 70°C when the correctly charged extinguisher has been operated with all outlets closed.
 
 - (2) Where the extinguisher is provided with a gas cylinder as the means for expelling the extinguishing medium, such gas cylinder shall be constructed in accordance with British Standards Institution specification number BS 5045: Part 1: 1982.
 
@@ -24,4 +24,4 @@ NON-PORTABLE DRY POWDER FIRE EXTINGUISHERS
 
 - (10) A fully charged extinguisher shall, when operated under normal conditions, be capable of discharging not less than 85% of the mass of the dry powder charge. The discharge rate shall be not less than 1 kilogram per second.
 
-- (11) The outside of the extinguisher body shall be clearly marked in accordance with the relevant parts of Section Five of the British Standards Institution Specification Number BS 5423: 1980.
+- (11) The outside of the extinguisher body shall be clearly marked in accordance with the relevant parts of Section Five of the British Standards Institution Specification Number BS 5423:1980.

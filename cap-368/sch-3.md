@@ -2,7 +2,9 @@
 
 [s. 26]
 
-Savings and Transitional Arrangements for Road Tunnels (Government) (Amendment) Ordinance 2018
+Savings and Transitional Arrangements for Road Tunnels (Government) (Amendment) Ordinance 2018 (9 of 2018)
+
+(Amended E.R. 1 of 2022)
 
 - 1. Interpretation In this Schedule—
 

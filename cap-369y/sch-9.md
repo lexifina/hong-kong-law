@@ -1,8 +1,8 @@
-# SCHEDULE 9
+# Schedule 9
 
 [regs. 5(2), (3) & (4), 31(3), 87(c), 88(b), 103(c), 104(b) & 143(6)(c)]
 
-FIXED PRESSURE WATER SPRAYING SYSTEMS FOR CARGO SPACES
+Fixed Pressure Water Spraying Systems for Cargo Spaces
 
 - (1) Every fixed pressure water spraying system fitted in compliance with these regulations shall be provided with a pump, piping system, control valves and spraying nozzles.
 
@@ -12,7 +12,7 @@ FIXED PRESSURE WATER SPRAYING SYSTEMS FOR CARGO SPACES
 
 - (4) Precautions shall be taken to prevent the nozzles from becoming clogged by impurities in the water.
 
-- (5) The system shall cover the full breadth of the protected space except that in ships where the protected space is subdivided with longitudinal Class “A” divisions the breadth of the sections may be reduced accordingly. In ships of Classes I, II, VII or VIII and in ships of Classes II(A) or VIII(A) of 76 metres or over in length or where the length of the enclosed part of the protected space is 50 metres or over, the system may be divided into sections provided they are at least 20 metres in length. In ships of other classes the length of a section may be less than 20 metres but shall be not less than 10 metres provided the capacity of the pumps are capable of supplying the 2 largest adjacent sections simultaneously at the application rate referred to in paragraph (3).
+- (5) The system shall cover the full breadth of the protected space except that in ships where the protected space is subdivided with longitudinal Class “A” divisions the breadth of the sections may be reduced accordingly. In ships of Class I, II, VII or VIII and in ships of Class II(A) or VIII(A) of 76 metres or over in length or where the length of the enclosed part of the protected space is 50 metres or over, the system may be divided into sections provided they are at least 20 metres in length. In ships of other classes the length of a section may be less than 20 metres but shall be not less than 10 metres provided the capacity of the pumps are capable of supplying the 2 largest adjacent sections simultaneously at the application rate referred to in paragraph (3). (E.R. 1 of 2022)
 
 - (6) The distribution valves for the system shall be situated in an easily accessible position adjacent to, but outside, the space to be protected which will not readily be cut off by a fire within the space. Direct access to the distribution valves from the protected spaces and from outside the spaces shall be provided. Adequate ventilation shall be fitted in the space containing the distribution valves.
 

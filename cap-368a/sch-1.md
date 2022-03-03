@@ -1,52 +1,52 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 3, 12A & 18]
 
 (L.N. 96 of 2009; 7 of 2016 s. 17)
 
-TRAFFIC SIGNS AND ROAD MARKINGS
+Traffic Signs and Road Markings
 
-(7 of 2016 s. 17) FIGURE No. 1
+(7 of 2016 s. 17) (Format changes—E.R. 1 of 2022) Figure No. 1
 
-LANE SIGNAL
+Lane Signal
 
-THIS SIGN WHEN DISPLAYED CONVEYS TO VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE AND IN RELATION TO WHICH IT IS DISPLAYED THAT TRAFFIC MAY PROCEED OR CONTINUE TO DO SO IN THE SAID LANE BENEATH OR BEYOND THE SAID ARROW AND IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE ARROW FACES. IT MAY ALSO BE USED AT A TOLL BOOTH TO INDICATE THAT VEHICLES MAY PROCEED IN THAT LANE.
+This sign when displayed conveys to vehicular traffic proceeding in the traffic lane above and in relation to which it is displayed that traffic may proceed or continue to do so in the said lane beneath or beyond the said arrow and in the direction opposite to that in which the arrow faces. It may also be used at a toll booth to indicate that vehicles may proceed in that lane.
 
-FIGURE No. 2
+Figure No. 2
 
-LANE SIGNAL
+Lane Signal
 
-THIS SIGN WHEN DISPLAYED CONYEYS TO VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE AND IN RELATION TO WHICH IT IS DISPLAYED THE PROHIBITION THAT SUCH TRAFFIC SHALL NOT PROCEED BENEATH OR BEYOND THE RED CROSS IN THE SAID TRAFFIC LANE IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE RED CROSS FACES. IT MAY ALSO BE USED AT A TOLL BOOTH TO INDICATE THAT VEHICLES MAY NOT PROCEED IN THAT LANE.
+This sign when displayed conveys to vehicular traffic proceeding in the traffic lane above and in relation to which it is displayed the prohibition that such traffic shall not proceed beneath or beyond the red cross in the said traffic lane in the direction opposite to that in which the red cross faces. It may also be used at a toll booth to indicate that vehicles may not proceed in that lane.
 
-FIGURE No. 3
+(E.R. 1 of 2022) Figure No. 3
 
-PROCEED RIGHT OR KEEP RIGHT
+Proceed Right or Keep Right
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO GIVE—
+The direction of the arrow may be reversed to give—
 
-PROCEED LEFT OR KEEP LEFT
+Proceed Left or Keep Left
 
-THIS SIGN INDICATES THAT VEHICLES MUST PROCEED OR KEEP TO THE LANE ON THE RIGHT-HAND SIDE (OR TO THE LANE ON THE LEFT-HAND SIDE IF THE DIRECTION OF THE ARROW IS REVERSED) OF THE LANE ABOVE WHICH THE SIGN IS DISPLAYED.
+This sign indicates that vehicles must proceed or keep to the lane on the right-hand side (or to the lane on the left-hand side if the direction of the arrow is reversed) of the lane above which the sign is displayed.
 
-(L.N. 60 of 2017) FIGURE NO. 4
+(L.N. 60 of 2017) Figure No. 4
 
-LANE SIGNAL
+Lane Signal
 
-- THE SIGNAL MAY IN A TUNNEL AREA BE PLACED IN A VERTICAL OR HORIZONTAL POSITION ABOVE OR AT THE SIDE OF A TRAFFIC LANE FOR THE CONTROL OF THAT TRAFFIC PROCEEDING ALONG THE TRAFFIC LANE OVER OR AT THE SIDE OF AND IN RELATION TO WHICH THE SIGNALS HAVE BEEN PLACED. PROVIDED THAT WHEN THE SIGNAL IS PLACED ABOVE THE TRAFFIC LANE THE GREEN ARROW SHALL POINT DOWNWARDS.
+- The signal may in a tunnel area be placed in a vertical or horizontal position above or at the side of a traffic lane for the control of that traffic proceeding along the traffic lane over or at the side of and in relation to which the signals have been placed. Provided that when the signal is placed above the traffic lane the green arrow shall point downwards.
 
-- THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS:—
+- The significance of the signal shall be as follows—
 
-    - (i) WHEN A GREEN ARROW IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED MAY PROCEED ALONG THAT LANE.
+    - (i) When a green arrow is displayed vehicular traffic proceeding in the traffic lane above or at the side of and in relation to which it is displayed may proceed along that lane.
 
-    - (ii) WHEN A STEADY OR INTERMITTENT AMBER LIGHT IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED SHALL PROCEED ALONG THAT LANE WITH CAUTION AND BE PREPARED TO STOP, PROVIDED THAT THE AMBER LIGHT MAY BE OMITTED FROM ANY SIGNAL INSTALLATION WHEN THE SIGNAL SHALL CONSIST OF A LIGHT CAPABLE OF SHOWING A RED CROSS AND A LIGHT CAPABLE OF SHOWING A GREEN ARROW.
+    - (ii) When a steady or intermittent amber light is displayed vehicular traffic proceeding in the traffic lane above or at the side of and in relation to which it is displayed shall proceed along that lane with caution and be prepared to stop, provided that the amber light may be omitted from any signal installation when the signal shall consist of a light capable of showing a red cross and a light capable of showing a green arrow.
 
-    - (iii) WHEN A RED CROSS IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED SHALL NOT PROCEED BENEATH OR BEYOND OR PAST THE RED CROSS.
+    - (iii) When a red cross is displayed vehicular traffic proceeding in the traffic lane above or at the side of and in relation to which it is displayed shall not proceed beneath or beyond or past the red cross.
 
-- THE SIGNAL MAY BE USED AT TOLL BOOTHS.
+- The signal may be used at toll booths.
 
-(L.N. 60 of 2017) FIGURE NO. 4A
+(L.N. 60 of 2017; E.R. 1 of 2022) Figure No. 4A
 
-LANE SIGNAL
+Lane Signal
 
 This signal may be placed above or at the side of a lane for controlling the traffic proceeding along the lane.
 
@@ -78,171 +78,169 @@ The signal may also be placed at the side of a toll booth. In that case, for a v
 
 - (ii) the vehicle must not proceed beyond or past the signal.
 
-(L.N. 60 of 2017) FIGURE No. 5
+(L.N. 60 of 2017) Figure No. 5
 
-KEEP IN LANE
+Keep in Lane
 
-THIS SIGN INDICATES THAT VEHICLES MUST KEEP IN THEIR LANES.
+This sign indicates that vehicles must keep in their lanes.
 
-FIGURE No. 6
+Figure No. 6
 
-DANGEROUS GOODS PROHIBITED
+Dangerous Goods Prohibited
 
-THIS SIGN INDICATES THAT VEHICLES CARRYING DANGEROUS GOODS OF PARTICULAR CATEGORIES ARE PROHIBITED FROM PASSING BEYOND THE SIGN.
+This sign indicates that vehicles carrying dangerous goods of particular categories are prohibited from passing beyond the sign.
 
-IT MAY BE USED IN CONJUNCTION WITH THE SIGN IN FIGURE No. 7.
+It may be used in conjunction with the sign in Figure No. 7.
 
-FIGURE No. 7
+Figure No. 7
 
-THIS SIGN WHEN USED IN CONJUNCTION WITH THE SIGN IN FIG. No. 6 INDICATES THE CATEGORY OR CATEGORIES OF DANGEROUS GOODS REFERRED TO IN THAT FIGURE.
+This sign when used in conjunction with the sign in Figure No. 6 indicates the category or categories of dangerous goods referred to in that figure.
 
-(80 of 1997 s. 102) FIGURE No. 7A
+(80 of 1997 s. 102; E.R. 1 of 2022) Figure No. 7A
 
-TOLL AREA
+Toll Area
 
 This sign indicates the start of the toll area.
 
-(20 of 2021 s. 34) FIGURE No. 8
+(20 of 2021 s. 34) Figure No. 8
 
-TUNNEL AREA
+Tunnel Area
 
-THIS SIGN INDICATES THE START OF THE AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE ROAD TUNNELS (GOVERNMENT) ORDINANCE AND THE ROAD TUNNELS (GOVERNMENT) REGULATIONS APPLY.
+This sign indicates the start of the area where the prohibitions and restrictions imposed by the Road Tunnels (Government) Ordinance (Cap. 368) and the Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A) apply.
 
-FIGURE No. 9
+(E.R. 1 of 2022) Figure No. 9
 
-TUNNEL AREA END
+Tunnel Area End
 
-THIS SIGN INDICATES THE END OF THE AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE ROAD TUNNELS (GOVERNMENT) ORDINANCE AND THE ROAD TUNNELS (GOVERNMENT) REGULATIONS APPLY.
+This sign indicates the end of the area where the prohibitions and restrictions imposed by the Road Tunnels (Government) Ordinance (Cap. 368) and the Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A) apply.
 
-FIGURE No. 10
+(E.R. 1 of 2022) Figure No. 10
 
-NO CHANGE TOLL SIGN
+No Change Toll Sign
 
-WHEN THIS SIGN IS DISPLAYED AT A TOLL BOOTH IT INDICATES THAT THE TOLL BOOTH IS FOR USE ONLY BY DRIVERS PAYING THE CORRECT TOLL AS INDICATED ON THE SIGN AND REQUIRING NO CHANGE TO BE GIVEN.
+When this sign is displayed at a toll booth it indicates that the toll booth is for use only by drivers paying the correct toll as indicated on the sign and requiring no change to be given.
 
-THE TOLL SHOWN ON THE SIGN MAY BE VARIED TO SUIT THE PARTICULAR CIRCUMSTANCES.
+The toll shown on the sign may be varied to suit the particular circumstances.
 
-(L.N. 212 of 1986) FIGURE No. 11
+(L.N. 212 of 1986) Figure No. 11
 
-NO CHANGE TOLL SIGN
+No Change Toll Sign
 
-WHEN THIS SIGN IS DISPLAYED OVER A TOLL BOOTH OR BOOTHS ADJACENT TO A TRAFFIC LANE OR LANES AS INDICATED BY THE DOWNWARD POINTING ARROWS ON THE SIGN IT INDICATES THAT THE TOLL BOOTH OR BOOTHS ARE FOR USE ONLY BY DRIVERS PAYING THE CORRECT TOLL AS INDICATED ON THE SIGN AND REQUIRING NO CHANGE TO BE GIVEN.
+When this sign is displayed over a toll booth or booths adjacent to a traffic lane or lanes as indicated by the downward pointing arrows on the sign it indicates that the toll booth or booths are for use only by drivers paying the correct toll as indicated on the sign and requiring no change to be given.
 
-THE NUMBER OF ARROWS AND THE OVERALL DIMENSIONS OF THE SIGN AND THE TOLL SHOWN ON THE SIGN MAY BE VARIED TO SUIT THE PARTICULAR CIRCUMSTANCES.
+The number of arrows and the overall dimensions of the sign and the toll shown on the sign may be varied to suit the particular circumstances.
 
-(L.N. 212 of 1986) FIGURE NO. 12
+(L.N. 212 of 1986) Figure No. 12
 
-AUTOTOLL PAYMENT SIGNAL
+Autotoll Payment Signal
 
-THE SIGNAL IS PLACED IN A VERTICAL POSITION AT THE SIDE OF A TRAFFIC LANE DEDICATED FOR USE OF AN AUTOMATIC TOLL COLLECTION SYSTEM. IT MAY BE USED IN CONJUNCTION WITH FIGURE NO. 13.
+The signal is placed in a vertical position at the side of a traffic lane dedicated for use of an automatic toll collection system. It may be used in conjunction with Figure No. 13.
 
-THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS—
+The significance of the signal shall be as follows—
 
-- (i) THE DISPLAY OF A RED SIGNAL INDICATES THAT APPROPRIATE TOLL PAYMENT HAS NOT BEEN MADE.
+- (i) The display of a red signal indicates that appropriate toll payment has not been made.
 
-- (ii) THE DISPLAY OF A GREEN SIGNAL INDICATES THAT APPROPRIATE TOLL PAYMENT HAS BEEN MADE.
+- (ii) The display of a green signal indicates that appropriate toll payment has been made.
 
-(L.N. 300 of 1993) FIGURE NO. 13
+(L.N. 300 of 1993) Figure No. 13
 
-AUTOTOLL ACCOUNT BALANCE SIGNAL
+Autotoll Account Balance Signal
 
-THE SIGNAL IS PLACED IN A VERTICAL POSITION AT THE SIDE OF A TRAFFIC LANE DEDICATED FOR USE OF AN AUTOMATIC TOLL COLLECTION SYSTEM. IT MAY BE USED IN CONJUNCTION WITH FIGURE NO. 12.
+The signal is placed in a vertical position at the side of a traffic lane dedicated for use of an automatic toll collection system. It may be used in conjunction with Figure No. 12.
 
-THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS—
+The significance of the signal shall be as follows—
 
-- (i) THE DISPLAY OF THE RED DOLLAR SIGN INDICATES THAT THE ACCOUNT BALANCE WITH THE AUTHORITY OR THE OPERATOR IN RESPECT OF THE ELECTRONIC TOLL PASS IS NIL.
+- (i) The display of the red dollar sign indicates that the account balance with the authority or the operator in respect of the electronic toll pass is nil.
 
-- (ii) THE DISPLAY OF THE AMBER DOLLAR SIGN INDICATES THAT THE ACCOUNT BALANCE WITH THE AUTHORITY OR THE OPERATOR IN RESPECT OF THE ELECTRONIC TOLL PASS IS LESS THAN THE AMOUNT SPECIFIED BY THE AUTHORITY OR THE OPERATOR.
+- (ii) The display of the amber dollar sign indicates that the account balance with the authority or the operator in respect of the electronic toll pass is less than the amount specified by the authority or the operator.
 
-(L.N. 300 of 1993) FIGURE NO. 14*
+(L.N. 300 of 1993) Figure No. 14*
 
-TRAFFIC LANE
+Traffic Lane
 
-(AUTOTOLL ONLY)
+(Autotoll Only)
 
-THIS SIGN IS DISPLAYED ABOVE A TRAFFIC LANE THAT LEADS TO AN AUTOTOLL BOOTH. IT INDICATES THAT ONLY A VEHICLE WITH A VALID ELECTRONIC TOLL PASS THE ACCOUNT OF WHICH IS OPENED IN RESPECT OF THE VEHICLE MAY PROCEED IN THE TRAFFIC LANE.
+This sign is displayed above a traffic lane that leads to an autotoll booth. It indicates that only a vehicle with a valid electronic toll pass the account of which is opened in respect of the vehicle may proceed in the traffic lane.
 
-(L.N. 96 of 2009) FIGURE NO. 14A
+(L.N. 96 of 2009) Figure No. 14A
 
-AUTOTOLL BOOTH
+Autotoll Booth
 
-WHEN THIS SIGN IS DISPLAYED AT THE SIDE OF A TOLL BOOTH IT INDICATES THAT THE TOLL BOOTH IS AN AUTOTOLL BOOTH. IT MAY BE USED IN CONJUNCTION WITH THE SIGN IN FIGURE NO. 14 AND IT INDICATES THAT ONLY A VEHICLE WITH A VALID ELECTRONIC TOLL PASS THE ACCOUNT OF WHICH IS OPENED IN RESPECT OF THE VEHICLE MAY PASS THROUGH THE AUTOTOLL BOOTH.
+When this sign is displayed at the side of a toll booth it indicates that the toll booth is an autotoll booth. It may be used in conjunction with the sign in Figure No. 14 and it indicates that only a vehicle with a valid electronic toll pass the account of which is opened in respect of the vehicle may pass through the autotoll booth.
 
-(L.N. 96 of 2009) FIGURE NO. 15
-
-(Repealed L.N. 72 of 2018)
-
-FIGURE NO. 16
+(L.N. 96 of 2009) Figure No. 15
 
 (Repealed L.N. 72 of 2018)
 
-FIGURE NO. 17
+Figure No. 16
 
-USE DIPPED HEADLIGHTS
+(Repealed L.N. 72 of 2018)
+
+Figure No. 17
+
+Use Dipped Headlights
 
 When this sign is displayed, all traffic is to proceed through the tunnel using dipped headlights.
 
 The overall dimensions and display of the sign may be varied to suit the particular circumstances.
 
-(L.N. 72 of 2018) FIGURE NO. 18
+(L.N. 72 of 2018) Figure No. 18
 
-HEIGHT GAUGE
+Height Gauge
 
-WHEN THE STOP SIGN IS DISPLAYED ALL VEHICLES SHOULD STOP UNTIL INSTRUCTED TO PROCEED BY AN AUTHORIZED OFFICER.
+When the stop sign is displayed all vehicles should stop until instructed to proceed by an authorized officer.
 
-(49 of 1999 s. 14) FIGURE NO. 19
-
-(Repealed L.N. 72 of 2018)
-
-FIGURE NO. 20
+(49 of 1999 s. 14) Figure No. 19
 
 (Repealed L.N. 72 of 2018)
 
-FIGURE NO. 21
+Figure No. 20
 
 (Repealed L.N. 72 of 2018)
 
-FIGURE NO. 22
+Figure No. 21
 
 (Repealed L.N. 72 of 2018)
 
-FIGURE NO. 23
+Figure No. 22
 
-KEEP LEFT SIGN FOR LEFT-DRIVING TUNNEL
+(Repealed L.N. 72 of 2018)
 
-THIS SIGN INDICATES THAT BUSES, MEDIUM AND HEAVY GOODS VEHICLES MUST KEEP TO THE LEFT MOST LANE OF A ROAD INSIDE A TUBE OF A LEFT-DRIVING TUNNEL.
+Figure No. 23
 
-(49 of 1999 s. 14; L.N. 60 of 2017) FIGURE NO. 24
+Keep Left Sign for Left-driving Tunnel
 
-TRANSVERSE YELLOW BAR MARKINGS
+This sign indicates that buses, medium and heavy goods vehicles must keep to the left most lane of a road inside a tube of a left-driving tunnel.
 
-THIS MARKING INDICATES TO DRIVERS THE NEED TO REDUCE THE SPEED OF THEIR VEHICLES.
+(49 of 1999 s. 14; L.N. 60 of 2017) Figure No. 24
 
-(7 of 2016 s. 17) FIGURE NO. 25
+Transverse Yellow Bar Markings
 
-KEEP TO RIGHT MOST LANE IN RIGHT-DRIVING TUNNEL
+This marking indicates to drivers the need to reduce the speed of their vehicles.
+
+(7 of 2016 s. 17) Figure No. 25
+
+Keep to Right Most Lane in Right-driving Tunnel
 
 This sign indicates that buses must keep to the right most lane of a road inside a tube of a right-driving tunnel.
 
 The word and characters “BUSES” and “巴士” may be replaced by the descriptions of any other motor vehicles to indicate that such vehicles must keep to the right most lane of a road inside a tube of a right-driving tunnel.
 
-(L.N. 60 of 2017) FIGURE NO. 26
+(L.N. 60 of 2017) Figure No. 26
 
-KEEP TO RIGHT MOST LANE OR MIDDLE LANE IN
-
-RIGHT-DRIVING TUNNEL
+Keep to Right Most Lane or Middle Lane in Right-driving Tunnel
 
 This sign indicates that medium goods vehicles and heavy goods vehicles must keep to the right most lane, or the middle lane, of a road inside a tube of a right-driving tunnel.
 
-(L.N. 60 of 2017) FIGURE NO. 27
+(L.N. 60 of 2017) Figure No. 27
 
-KEEP TO TWO LANES ON THE RIGHT IN RIGHT-DRIVING TUNNEL
+Keep to Two Lanes on the Right in Right-driving Tunnel
 
 This sign indicates that medium goods vehicles and heavy goods vehicles must keep to the right most lane, or the lane next to the right most lane, of a road inside a tube of a right-driving tunnel.
 
-(L.N. 60 of 2017) FIGURE NO. 28
+(L.N. 60 of 2017) Figure No. 28
 
-KEEP TO TWO LANES ON THE LEFT IN LEFT-DRIVING TUNNEL
+Keep to Two Lanes on the Left in Left-driving Tunnel
 
 This sign indicates that buses, medium goods vehicles and heavy goods vehicles must keep to the left most lane, or the lane next to the left most lane, of a road inside a tube of a left-driving tunnel.
 
@@ -250,6 +248,4 @@ This sign indicates that buses, medium goods vehicles and heavy goods vehicles m
 
 Editorial Note:
 
-* | For the transitional provision relating to the amendment made by the Road Tunnels (Government) (Amendment) Regulation 2009 (L.N. 96 of 2009) (“the Amendment Regulation”), please see section 12 of the Amendment Regulation, which section is reproduced as follows—
-
-“12. Transitional provision During the period of 12 months after the commencement# of this Regulation, a traffic sign of the type shown in Figure No. 14 prescribed in the First Schedule to the Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A) (“principal Regulations”) as in force immediately before the commencement of this Regulation and erected at any time before that commencement is to be treated as a traffic sign of the type shown in Figure No. 14 prescribed in Schedule 1 to the principal Regulations as amended by this Regulation.”. # Commencement date: 10 July 2009.
+* | For the transitional provision relating to the amendment made by the Road Tunnels (Government) (Amendment) Regulation 2009 (L.N. 96 of 2009) , please see section 12 of that Amendment Regulation.

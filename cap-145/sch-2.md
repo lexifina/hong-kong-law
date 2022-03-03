@@ -2,8 +2,6 @@
 
 [ss. 2, 2A, 3, 5, 7 & 18A]
 
-(Schedule 2 replaced L.N. 53 of 1997)
-
 Item | Substance
 
 1. | Ephedrine (麻黃碱) (*)
@@ -55,3 +53,5 @@ Item | Substance
 24. | Methyl alpha-phenylacetoacetate (α-苯乙酰乙酸甲酯) (*) (Added L.N. 91 of 2021)
 
 (*) | Including the salts of these substances whenever the existence of such salts is possible.
+
+(Schedule 2 replaced L.N. 53 of 1997)

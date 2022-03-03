@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [regs. 4(4)(b), 7(2)(b) & (3)(b), 30(2)(b) & 33(2)(b) & (3)(b)]
 
-PORTABLE FOAM APPLICATOR UNITS
+Portable Foam Applicator Units
 
 - (1) Every portable foam applicator unit provided in compliance with these regulations shall be provided with—
 

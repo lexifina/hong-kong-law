@@ -1,10 +1,10 @@
-# SCHEDULE 14
+# Schedule 14
 
 [regs. 49(2), (2A) & (5)(a) & 50(2)(a)]
 
 (L.N. 410 of 1995)
 
-INERT GAS SYSTEMS: STANDARD REQUIREMENTS
+Inert Gas Systems: Standard Requirements
 
 (L.N. 410 of 1995)
 
@@ -22,9 +22,9 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
 - (3)
 
-  - (a) The system shall be capable of delivering inert gas to the cargo tanks and slop tanks at a rate of at least 125% of the maximum rate of discharge capacity of the ship, expressed as a volume;
+  - (a) The system shall be capable of delivering inert gas to the cargo tanks and slop tanks at a rate of at least 125% of the maximum rate of discharge capacity of the ship, expressed as a volume.
 
-  - (b) the system shall be capable of delivering inert gas with an oxygen content of not more than 5% by volume in the inert gas supply main to the cargo tanks and slop tanks at any required rate of flow.
+  - (b) The system shall be capable of delivering inert gas with an oxygen content of not more than 5% by volume in the inert gas supply main to the cargo tanks and slop tanks at any required rate of flow. (E.R. 1 of 2022)
 
 - (4) The inert gas supply may be treated flue gas from the main or auxiliary boilers, from one or more separate gas generators or other sources or from any combination thereof. The Director may approve systems using inert gases other than flue gas, provided he is satisfied that an equivalent standard of safety is achieved. Systems using stored carbon dioxide shall not be permitted unless the Director is satisfied that the risk of ignition from generation of static electricity by the system itself is minimised.
 
@@ -90,7 +90,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (ia) For a post-1998 ship, positive indication of the operational status of the valves must be provided for the control system. (L.N. 254 of 2018)
 
-    - (ii) In combination carriers, the arrangements to isolate the slop tanks containing oil or oil residues from other tanks shall consist of blank flanges which will remain in position at all times when cargoes other than oil are being carried except as provided for in the relevant section of the Guide-lines on Inert Gas Systems.
+    - (ii) In combination carriers, the arrangements to isolate the slop tanks containing oil or oil residues from other tanks shall consist of blank flanges which will remain in position at all times when cargoes other than oil are being carried except as provided for in the relevant section of the Guidelines for Inert Gas Systems. (E.R. 1 of 2022)
 
   - (c) Means shall be provided to protect cargo tanks and slop tanks against the effect of over-pressure or vacuum caused by thermal variations when such tanks are isolated from the inert gas main.
 
@@ -98,11 +98,11 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
   - (e) Suitable arrangements shall be provided to enable the inert gas main to be connected to an external supply of inert gas.
 
-- (12) The arrangements for the venting of all vapours displaced from the cargo tanks during loading or ballasting shall comply with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey)(Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) and shall consist of either one or more mast risers, or a number of high velocity vents. The inert gas supply main may be used for such venting.
+- (12) The arrangements for the venting of all vapours displaced from the cargo tanks during loading or ballasting shall comply with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey)(Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S) and shall consist of either one or more mast risers, or a number of high velocity vents. The inert gas supply main may be used for such venting. (E.R. 1 of 2022)
 
 - (13) The arrangements for inerting, purging or gas freeing of empty tanks as required in paragraph (2) shall be approved by the Director and shall be such that the accumulation of hydrocarbon vapours in pockets formed by the internal structural members in a tank is minimised and that—
 
-  - (a) on individual cargo tanks or slop tanks the gas outlet pipe, if fitted, shall be positioned as far as practicable from the inert gas/air inlet and in accordance with regulation 12 of the Merchant Shipping (Safety)(Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.). The inlet of such outlet pipes may be located at either deck level or at not more than 1 metre above the bottom of the tank;
+  - (a) on individual cargo tanks or slop tanks the gas outlet pipe, if fitted, shall be positioned as far as practicable from the inert gas/air inlet and in accordance with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S). The inlet of such outlet pipes may be located at either deck level or at not more than 1 metre above the bottom of the tank; (E.R. 1 of 2022)
 
   - (b) the cross sectional area of such a gas outlet pipe referred to in subparagraph (a) shall be such that an exit velocity of at least 20 metres per second can be maintained when any three tanks are being simultaneously supplied with inert gas. Their outlets shall extend not less than 2 metres above deck level;
 
@@ -110,7 +110,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
   - (d)
 
-    - (i) if a connection is fitted between the inert gas supply main and the cargo piping system, arrangements shall be made to ensure an effective isolation having regard to the high pressure difference which may exist between the systems. This shall consist of 2 shut-off valves with an arrangements to vent the space between the valves in a safe manner or an arrangement consisting of a spool-piece with associated blanks;
+    - (i) if a connection is fitted between the inert gas supply main and the cargo piping system, arrangements shall be made to ensure an effective isolation having regard to the high pressure difference which may exist between the systems. This shall consist of 2 shut-off valves with an arrangement to vent the space between the valves in a safe manner or an arrangement consisting of a spool-piece with associated blanks; (E.R. 1 of 2022)
 
     - (ii) the valve separating the inert gas supply main from the cargo main and which is on the cargo main side; shall be a non-return valve with a positive means of closure.
 
@@ -120,9 +120,9 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (i) a positive pressure in excess of the test pressure of the cargo tank if the cargo were to be loaded at the maximum rated capacity and all other outlets were left shut; and
 
-    - (ii) a negative pressure in excess of 700 millimetres water gauge if cargo were to be discharged at the maximum rated capacity of the cargo pumps and the inert gas blower were to fail. Such devices shall be installed on the inert gas main unless they are installed in the venting system required by regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) or on individual cargo tanks.
+    - (ii) a negative pressure in excess of 700 millimetres water gauge if cargo were to be discharged at the maximum rated capacity of the cargo pumps and the inert gas blower were to fail. Such devices shall be installed on the inert gas main unless they are installed in the venting system required by regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S) or on individual cargo tanks. (E.R. 1 of 2022)
 
-  - (b) The location and design of the devices referred to in subparagraph (a) shall be in accordance with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.).
+  - (b) The location and design of the devices referred to in subparagraph (a) shall be in accordance with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S). (E.R. 1 of 2022)
 
 - (15) Means shall be provided for continuously indicating the temperature and pressure of the inert gas at the discharge side of the gas blowers, whenever those gas blowers are operating.
 
@@ -184,7 +184,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
   - (e) In relation to subparagraph (a)(v), when the oxygen content of the inert gas exceeds 8 per cent, immediate action shall be taken to reduce the oxygen level. Unless the quality of the gas improves, all in-tank operations shall be suspended so as to avoid air being drawn into the tanks and the isolation valve referred to in paragraph (10)(h), shall be closed.
 
-  - (f) The alarms required in subparagraphs (a)(v), (vi) and (viii) shall be fitted in the machinery space and cargo control room, where provided, but in any event in such a position that they are immediately received by responsible members of the crew.
+  - (f) The alarms required in subparagraph (a)(v), (vi) and (viii) shall be fitted in the machinery space and cargo control room, where provided, but in any event in such a position that they are immediately received by responsible members of the crew. (E.R. 1 of 2022)
 
   - (g) In relation to subparagraph (a)(vii) the Director shall be satisfied as to the maintenance of an adequate reserve of water at all times and the integrity of the arrangements to permit the automatic formation of the water seal when the gas flow ceases. The audible and visual alarm on the low level of water in the water seal shall operate when the inert gas is not being supplied.
 

@@ -1,4 +1,4 @@
-PUBLIC CLEANSING AND PREVENTION OF NUISANCES REGULATION
+Public Cleansing and Prevention of Nuisances Regulation
 
 (78 of 1999 s. 7)
 
@@ -6,6 +6,4 @@ PUBLIC CLEANSING AND PREVENTION OF NUISANCES REGULATION
 
 [18 August 1972]
 
-Editorial Note:
-
-The title of this Regulation was amended from “Public Cleansing and Prevention of Nuisances (Urban Council) By-laws” to “Public Cleansing and Prevention of Nuisances Regulation” — see 78 of 1999 s. 7.
+(Format changes—E.R. 1 of 2022)

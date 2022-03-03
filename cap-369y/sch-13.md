@@ -1,8 +1,8 @@
-# SCHEDULE 13
+# Schedule 13
 
 [reg. 49(1)]
 
-FIXED DECK FOAM SYSTEM
+Fixed Deck Foam System
 
 - (1) The arrangements for providing foam shall be capable of delivering foam to the entire cargo tanks deck area as well as into any cargo tank, the deck of which has been ruptured.
 

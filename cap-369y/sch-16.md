@@ -1,8 +1,8 @@
-# SCHEDULE 16
+# Schedule 16
 
 [regs. 49(2A)(b) & 50(2)(b)]
 
-INERT GAS SYSTEM: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CONSTRUCTED BEFORE 1 JULY 1986 AND CARRYING CRUDE OIL OR PETROLEUM PRODUCTS
+Inert Gas System: Alternative Requirements for Chemical Tankers Constructed Before 1 July 1986 and Carrying Crude Oil or Petroleum Products
 
 - (1)
 
@@ -92,7 +92,7 @@ INERT GAS SYSTEM: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CONSTRUCTED BEFO
 
   - (e) Suitable arrangements shall be provided to enable the inert gas main to be connected to an external supply of inert gas.
 
-- (11) Unless the arrangements for venting of all vapours displaced from the cargo tanks during loading and ballasting comply with the requirements of the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk for controlled venting, such arrangements shall comply with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) and shall consist either of one or more mast risers or a number of high velocity vents. The inert gas supply mains shall not be used for such venting.
+- (11) Unless the arrangements for venting of all vapours displaced from the cargo tanks during loading and ballasting comply with the requirements of the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk for controlled venting, such arrangements shall comply with regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S) and shall consist either of one or more mast risers or a number of high velocity vents. The inert gas supply mains shall not be used for such venting. (E.R. 1 of 2022)
 
 - (12)
 
@@ -158,4 +158,4 @@ INERT GAS SYSTEM: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CONSTRUCTED BEFO
 
 - (18) Detailed instruction manuals shall be provided on board, covering the operations, safety and maintenance requirements and occupational health hazards relevant to the inert gas system and its application to the cargo tank system. The manuals shall include guidance on procedures to be followed in the event of a fault or failure of the inert gas system.
 
-(L.N. 410 of 1995)
+(Schedule 16 added L.N. 410 of 1995)

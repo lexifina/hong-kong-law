@@ -2,7 +2,9 @@
 
 [s. 24]
 
-Savings and Transitional Arrangements for Eastern Harbour Crossing Legislation (Amendment) Ordinance 2016
+Savings and Transitional Arrangements for Eastern Harbour Crossing Legislation (Amendment) Ordinance 2016 (7 of 2016)
+
+(Amended E.R. 1 of 2022)
 
 - 1. Interpretation In this Schedule—
 
