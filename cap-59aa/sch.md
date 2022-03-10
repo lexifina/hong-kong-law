@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 9(1)]
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (CARCINOGENIC SUBSTANCES) REGULATIONS
+Factories and Industrial Undertakings (Carcinogenic Substances) Regulations
 
 HEALTH REGISTER OF PERSONS EMPLOYED IN CONNEXION
 

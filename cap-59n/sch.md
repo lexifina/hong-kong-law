@@ -1,12 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [reg. 9(1)]
 
-TYPE AND QUANTITY OF FIRE EXTINGUISHING APPLIANCES AS REQUIRED BY REGULATION 9(1)
+Type and Quantity of Fire Extinguishing Appliances as Required by Regulation 9(1)
 
 Type | Minimum capacity per appliance | Quantity
 
-1. | Bucket (galvanised iron) of sand AND | 9 litres | 2
+1. | Bucket (galvanised iron) of sand and | 9 litres | 2
 
 2. | (a) Bromochlorodifluoromethane (B.C.F.) or | 1.4 kg | 1 for every room or area of 40 square metres or less.
 

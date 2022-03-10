@@ -1,12 +1,12 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [reg. 3(2)(c)]
 
-PARTS OF MACHINERY OR PLANT TO WHICH THESE REGULATIONS DO NOT APPLY
+Parts of Machinery or Plant to which these Regulations do not Apply
 
 A Parts and Description | B Applicable Regulations
 
-Factories and Industrial Undertakings (Woodworking Machinery) Regulations (Cap. 59 sub. leg.)
+Factories and Industrial Undertakings (Woodworking Machinery) Regulations (Cap. 59 sub. leg. G)
 
 Circular saw, the blade | reg. 10
 
@@ -22,7 +22,7 @@ Vertical spindle moulding machine, the cutter | reg. 15
 
 Chain mortising machine, the chain | reg. 16
 
-Construction Sites (Safety) Regulations (Cap. 59 sub. leg.)
+Construction Sites (Safety) Regulations (Cap. 59 sub. leg. I)
 
 Every flywheel and moving part of any prime mover | reg. 44
 
@@ -30,6 +30,8 @@ Every part of transmission machinery | reg. 44
 
 Every dangerous part of other machinery (whether or not driven by a prime mover) | reg. 44
 
-Factories and Industrial Undertakings (Abrasive Wheels) Regulations (Cap. 59 sub. leg.)
+Factories and Industrial Undertakings (Abrasive Wheels) Regulations (Cap. 59 sub. leg. L)
 
 Abrasive wheel | regs. 8 and 9
+
+(E.R. 1 of 2022)

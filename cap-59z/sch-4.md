@@ -46,9 +46,9 @@ Proprietor | Safety Supervisor
 
 - 3. In paragraphs 1 and 2—
 
-  - “principal contractor” (總承建商) means any person who enters into a contract with an owner, occupier or developer of property, or with an agent or architect, surveyor or civil, municipal or structural engineer of such owner, occupier or developer, to perform construction work for such owner, occupier or developer in respect of that property; and
+  - principal contractor (總承建商) means any person who enters into a contract with an owner, occupier or developer of property, or with an agent or architect, surveyor or civil, municipal or structural engineer of such owner, occupier or developer, to perform construction work for such owner, occupier or developer in respect of that property; (E.R. 1 of 2022)
 
-  - “specialist contractor” (專門承建商) means any person who is nominated by an owner, occupier or developer of property, or by an agent or architect, surveyor or civil, municipal or structural engineer of such owner, occupier or developer, or by the principal contractor, and who enters into a contract—
+  - specialist contractor (專門承建商) means any person who is nominated by an owner, occupier or developer of property, or by an agent or architect, surveyor or civil, municipal or structural engineer of such owner, occupier or developer, or by the principal contractor, and who enters into a contract—
 
     - (a) with a principal contractor to perform all or any part of the construction work in a construction site which the principal contractor has contracted to perform; or
 

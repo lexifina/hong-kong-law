@@ -1,8 +1,8 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [reg. 6(2)]
 
-OPENINGS IN FIXED GUARDS
+Openings in Fixed Guards
 
 A Size of opening in millimetres measured at the widest point | B Distance of guard from any dangerous part in millimetres
 

@@ -1,8 +1,8 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [reg. 7]
 
-MACHINES NOT TO BE WORKED AT BY YOUNG PERSONS UNLESS TRAINED OR SUPERVISED
+Machines not to be Worked at by Young Persons unless Trained or Supervised
 
 - 1. Power presses, including hydraulic and pneumatic presses.
 

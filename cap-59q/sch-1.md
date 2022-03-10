@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [reg. 2]
 
-DANGEROUS PARTS OF MACHINERY OR PLANT
+Dangerous Parts of Machinery or Plant
 
 - 1. Revolving shafts, couplings, spindles, mandrels, bars and flywheels.
 

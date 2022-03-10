@@ -2,7 +2,7 @@
 
 [reg. 3]
 
-INDUSTRIAL UNDERTAKINGS TO WHICH REGULATIONS APPLY
+Industrial Undertakings to which Regulations Apply
 
 Construction sites
 

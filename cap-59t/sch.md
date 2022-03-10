@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-DAILY PERSONAL NOISE EXPOSURE OF EMPLOYEES
+Daily Personal Noise Exposure of Employees
 
 The daily personal noise exposure (taking no account of the effect of using an ear protector) is expressed in dB(A) and is ascertained using the formula—
 

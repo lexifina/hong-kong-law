@@ -2,7 +2,7 @@
 
 [reg. 5 & Third Sch.]
 
-QUALIFICATIONS FOR REGISTRATION AS SAFETY OFFICER
+Qualifications for Registration as Safety Officer
 
 Scheduled qualification | Industrial undertaking
 
