@@ -1,11 +1,13 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 4]
 
-PLANTS TO WHICH ORDINANCE APPLIES
+Plants to which Ordinance Applies
 
 - All plants other than—
 
-  - (a) Inedible Algae;
+  - (a) inedible Algae;
 
-  - (b) Inedible Fungi.
+  - (b) inedible Fungi.
+
+- (Amended E.R. 1 of 2022)

@@ -1,15 +1,19 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 92 & 104]
 
-AMENDMENTS AND REPEALS
+Amendments and Repeals
 
-- PARTS 1-2
+- Parts 1-2
 
-(Omitted)
+(Omitted as spent—E.R. 1 of 2022)
 
-- PART 3 ENACTMENTS REPEALED
+- Part 3 Enactments Repealed
 
   - 1. Part I of the Merchant Shipping Act 1894 (1894 c. 60 U.K.) in so far as it is part of the law of Hong Kong. (Amended 64 of 1999 s. 3)
 
-  - 2-4. (Omitted)
+  - 2. The Merchant Shipping (Tonnage) (Hong Kong) Order 1967 (App. III, p. CJ 1).
+
+  - 3. The Merchant Shipping (Tonnage) (Hong Kong) Order 1982 (App. III, p. X 1).
+
+  - 4. The Merchant Shipping (Metrication) (Hong Kong) Order 1979 (App. III, p. ET 1).

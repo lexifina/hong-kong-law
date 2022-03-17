@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 80 & 92]
 
-APPLICATION OF ORDINANCE TO GOVERNMENT SHIPS
+Application of Ordinance to Government Ships
 
 Part | Section | Extent and manner of application
 

@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 92 & 102]
 
-APPLICATION OF ORDINANCE TO TRANSITIONAL SHIPS
+Application of Ordinance to Transitional Ships
 
 Part | Section | Extent and manner of application
 
