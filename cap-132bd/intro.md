@@ -1,4 +1,4 @@
-PRESERVATIVES IN FOOD REGULATION
+Preservatives in Food Regulation
 
 (L.N. 85 of 2008)
 
@@ -6,6 +6,4 @@ PRESERVATIVES IN FOOD REGULATION
 
 [2 February 1973]
 
-Editorial Note:
-
-The title of this Regulation was amended from “Preservatives in Food Regulations” to “Preservatives in Food Regulation” — see L.N. 85 of 2008.
+(Format changes—E.R. 1 of 2022)

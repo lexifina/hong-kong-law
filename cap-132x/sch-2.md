@@ -1,18 +1,28 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 30, 30AA & 31A] (78 of 1999 s. 7; L.N. 169 of 2006; L.N. 185 of 2008)
 
-RESTRICTED FOODS
+Restricted Foods
 
 Item | Description of food
 
-1. | (a) Fresh meat (b) Chilled meat other than pre-packaged chilled beef, mutton or pork (c) Pre-packaged chilled beef, mutton or pork (d) Frozen meat (L.N. 169 of 2006)
+1. | (a) Fresh meat
+
+(b) Chilled meat other than pre-packaged chilled beef, mutton or pork
+
+(c) Pre-packaged chilled beef, mutton or pork
+
+(d) Frozen meat (L.N. 169 of 2006)
 
 2. | Fresh, chilled or frozen game (L.N. 220 of 2001)
 
 3. | Fresh, chilled, frozen or live fish, excluding live fish on a fish farm (L.N. 220 of 2001)
 
-4. | (a) Live water birds, excluding live water birds on a poultry farm or in a wholesale market (b) Other live poultry, excluding live poultry on a poultry farm or in a wholesale market (c) Fresh, chilled or frozen poultry carcass (L.N. 171 of 1998; L.N. 220 of 2001)
+4. | (a) Live water birds, excluding live water birds on a poultry farm or in a wholesale market
+
+(b) Other live poultry, excluding live poultry on a poultry farm or in a wholesale market
+
+(c) Fresh, chilled or frozen poultry carcass (L.N. 171 of 1998; L.N. 220 of 2001)
 
 5. | Fresh, chilled or frozen shell fish, excluding shell fish specified in Schedule 1 (L.N. 220 of 2001)
 
@@ -24,7 +34,9 @@ Item | Description of food
 
 9. | Milk or any milk beverage within the meaning of the Milk Regulation (Cap. 132 sub. leg. AQ) other than milk or milk beverage approved by the Director under section 5(2) of that Regulation (L.N. 57 of 2010)
 
-10. | (a) Soft ice cream (b) Other frozen confections
+10. | (a) Soft ice cream
+
+(b) Other frozen confections
 
 11. | Chinese herb tea
 

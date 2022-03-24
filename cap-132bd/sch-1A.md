@@ -1,4 +1,4 @@
-# SCHEDULE 1A
+# Schedule 1A
 
 [ss. 2 & 2A]
 

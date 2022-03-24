@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 3, 5 & 6] (L.N. 85 of 2008)
 
-Labelling of articles of food containing preservative or antioxidant Labelling of preservatives or antioxidants and statements about articles of food containing excess amounts of permitted preservatives
+Labelling of Articles of Food Containing Preservative or Antioxidant Labelling of Preservatives or Antioxidants and Statements about Articles of Food Containing Excess Amounts of Permitted Preservatives
 
 - 1. The food (being relevant food) containing preservatives to which the rules as to labelling set out in this Schedule apply are sausages, sausage meat, liquid coffee extract, liquid tea extract, pickles and sauces, and (where the proportion of benzoic acid exceeds 800 parts per million) unfermented grape juice products intended for sacramental use and any food containing antioxidant. (L.N. 85 of 2008)
 
@@ -12,7 +12,7 @@ Labelling of articles of food containing preservative or antioxidant Labelling o
 
   - (X) | CONTAIN(S) PRESERVATIVE(S)
 
-  - (2) The declaration shall be completed by inserting at (X) the words “This” or “These” followed by the common or usual name of the food as specified in section 1 of this Schedule.
+  - (2) The declaration shall be completed by inserting at (X) the word “This” or “These” followed by the common or usual name of the food as specified in section 1 of this Schedule. (E.R. 1 of 2022)
 
   - (3) In the case of any unfermented grape juice product intended for sacramental use to which this Regulation applies the words “and is not intended for use as a beverage” shall be added to the declaration. (L.N. 85 of 2008)
 

@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [s. 30E]
 
-MARKING AND LABELLING OF PRE-PACKAGED CHILLED BEEF, MUTTON OR PORK
+Marking and Labelling of Pre-packaged Chilled Beef, Mutton or Pork
 
 - 1. Name or designation Pre-packaged chilled beef, mutton or pork shall be legibly marked or labelled with the name or designation of the food.
 
@@ -40,4 +40,6 @@ MARKING AND LABELLING OF PRE-PACKAGED CHILLED BEEF, MUTTON OR PORK
 
   - (2) The net weight shall, so far as is practicable, be indicated in accordance with the Weights and Measures Ordinance (Cap. 68) or with the International System of Units set out in the First Schedule to the Metrication Ordinance (Cap. 214).
 
-- 5. Appropriate language The marking and labelling for the purposes of sections 1, 2(1), 3 and 4 shall be in the English language or Chinese language or in both languages, but if both languages are used for any such marking or labelling, the name or designation of the food under section 1 shall be shown in both languages. (Schedule 6 added L.N. 169 of 2006)
+- 5. Appropriate language The marking and labelling for the purposes of sections 1, 2(1), 3 and 4 shall be in the English language or Chinese language or in both languages, but if both languages are used for any such marking or labelling, the name or designation of the food under section 1 shall be shown in both languages.
+
+(Schedule 6 added L.N. 169 of 2006)

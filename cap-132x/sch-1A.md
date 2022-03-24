@@ -1,8 +1,8 @@
-# SCHEDULE 1A
+# Schedule 1A
 
 [s. 10AB]
 
-PROHIBITED AREAS FOR EXTRACTION OF SEAWATER FOR PURPOSE OF KEEPING LIVE FISH OR SHELL FISH INTENDED FOR HUMAN CONSUMPTION
+Prohibited Areas for Extraction of Seawater for Purpose of Keeping Live Fish or Shell Fish Intended for Human Consumption
 
 - 1. Any area within the typhoon shelters specified in column 2 of the Schedule to the Merchant Shipping (Local Vessels) (Typhoon Shelters) Regulation (Cap. 548 sub. leg. E).
 
@@ -40,4 +40,4 @@ PROHIBITED AREAS FOR EXTRACTION OF SEAWATER FOR PURPOSE OF KEEPING LIVE FISH OR 
 
   - (b) within 50 m seaward from the low water level of the shoreline along Tsing Yi.
 
-- (Schedule 1A added L.N. 93 of 2009)
+(Schedule 1A added L.N. 93 of 2009)

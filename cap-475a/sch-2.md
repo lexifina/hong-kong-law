@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 5]
 
-MATERIALS TO BE EXAMINED BY THE BOARD
+Materials to be Examined by the Board
 
 1. A report and recommendation which the Commissioner of Correctional Services has made relating to the conduct in prison of the prisoner.
 

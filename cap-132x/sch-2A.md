@@ -1,14 +1,10 @@
-# SCHEDULE 2A
+# Schedule 2A
 
 [s. 31]
 
-FOOD AT COMPOSITE FOOD SHOP
+Food at Composite Food Shop
 
-- PART 1 FOODS OR CLASSES OF FOOD THAT MAY BE
-
-- PREPARED FOR SALE AND SOLD
-
-- AT COMPOSITE FOOD SHOP
+- Part 1 Foods or Classes of Food that may be Prepared for Sale and Sold at Composite Food Shop
 
   - 1. Coffee
 
@@ -30,9 +26,7 @@ FOOD AT COMPOSITE FOOD SHOP
 
   - 10. Frozen carbonated beverage
 
-- PART 2 FOODS OR CLASSES OF FOOD THAT MAY BE SOLD
-
-- AT COMPOSITE FOOD SHOP
+- Part 2 Foods or Classes of Food that may be Sold at Composite Food Shop
 
   - 1. Siu Mei or Lo Mei
 
@@ -52,4 +46,6 @@ FOOD AT COMPOSITE FOOD SHOP
 
   - 9. Sushi
 
-  - 10. Oyster to be eaten in raw state (Schedule 2A added L.N. 57 of 2010)
+  - 10. Oyster to be eaten in raw state
+
+(Schedule 2A added L.N. 57 of 2010)

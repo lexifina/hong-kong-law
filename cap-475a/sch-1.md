@@ -1,14 +1,14 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-SPECIFIED OFFENCES
+Specified Offences
 
 Common law offences
 
-1. | murder
+1. | Murder (E.R. 1 of 2022)
 
-2. | manslaughter
+2. | Manslaughter (E.R. 1 of 2022)
 
 Statutory offences
 

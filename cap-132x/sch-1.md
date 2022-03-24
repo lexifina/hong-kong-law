@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 29] (78 of 1999 s. 7)
 
-PROHIBITED FOODS
+Prohibited Foods
 
 Item | Description of food
 

@@ -1,14 +1,12 @@
-# SCHEDULE 5
+# Schedule 5
 
-[s. 38 and Sch. 7] (78 of 1999 s. 7; L.N. 57 of 2010)
+[s. 38 & Sch. 7] (78 of 1999 s. 7; L.N. 57 of 2010; E.R. 1 of 2022)
 
-APPORTIONMENT OF SPACE IN RESTAURANTS AND FACTORY CANTEENS
+Apportionment of Space in Restaurants and Factory Canteens
 
-Ratio of Food Preparation Space, Scullery and Kitchen
+Ratio of Food Preparation Space, Scullery and Kitchen Area to Gross Floor Area
 
-Area to Gross Floor Area
-
-- PART I Class B1 restaurants
+- Part I Class B1 restaurants
 
 Gross floor area in m2 | Minimum kitchen area in m2 | Minimum aggregate area of kitchen, food preparation room and scullery accommodation in m2
 
@@ -20,7 +18,7 @@ Gross floor area in m2 | Minimum kitchen area in m2 | Minimum aggregate area of 
 
 251 or over | 14 | 21% of gross floor area, but not less than 54 m2
 
-- PART II Class B2 restaurants
+- Part II Class B2 restaurants
 
 Gross floor area in m2 | Minimum aggregate area of kitchen, food preparation room and scullery accommodation in m2
 
@@ -36,7 +34,7 @@ Gross floor area in m2 | Minimum aggregate area of kitchen, food preparation roo
 
 186 or over | 9% of gross floor area or 28 m2 whichever is the more
 
-- PART III Class F factory canteens
+- Part III Class F factory canteens
 
 Gross floor area in m2 | Minimum aggregate area of kitchen, food preparation room and scullery accommodation in m2
 

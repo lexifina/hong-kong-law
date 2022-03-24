@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 3 & 11 & Sch. 1A]
 
@@ -794,7 +794,7 @@ No. | Food category or sub-category | INS no. | Name | Note
 
 321 | Butylated hydroxytoluene | 200 | Notes 1 and 2
 
-7.1.5 | Steamed breads (e.g.mantou and bao) | 210 | Benzoic acid | 1000
+7.1.5 | Steamed breads (e.g. mantou and bao) | 210 | Benzoic acid | 1000
 
 280 | Propionic acid | 3000
 

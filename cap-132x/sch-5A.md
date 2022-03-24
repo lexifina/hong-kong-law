@@ -1,10 +1,10 @@
-# SCHEDULE 5A
+# Schedule 5A
 
 [s. 33]
 
-FOOD ROOM REQUIREMENT FOR RESTAURANTS AND FACTORY CANTEENS
+Food Room Requirement for Restaurants and Factory Canteens
 
-- PART 1 GENERAL RESTAURANTS
+- Part 1 General Restaurants
 
 Gross floor area | Minimum area of food room
 
@@ -16,11 +16,11 @@ exceeding 150 m2 but not exceeding 250 m2 | 19% of gross floor area, but not les
 
 exceeding 250 m2 but not exceeding 500 m2 | 16% of gross floor area, but not less than 48 m2
 
-exceeding 500 m2 but not exceeding 1000 m2 | 13% of gross floor area, but not less than 80 m2
+exceeding 500 m2 but not exceeding 1 000 m2 | 13% of gross floor area, but not less than 80 m2
 
-exceeding 1000 m2 | 10% of gross floor area, but not less than 130 m2
+exceeding 1 000 m2 | 10% of gross floor area, but not less than 130 m2
 
-- PART 2 LIGHT REFRESHMENT RESTAURANTS
+- Part 2 Light Refreshment Restaurants
 
 Gross floor area | Minimum area of food room
 
@@ -36,16 +36,16 @@ exceeding 95 m2 but not exceeding 185 m2 | 13% of gross floor area or 17 m2 whic
 
 exceeding 185 m2 | 9% of gross floor area or 18 m2 whichever is more
 
-- PART 3 FACTORY CANTEENS
+- Part 3 Factory Canteens
 
 Gross floor area | Minimum area of food room
 
 250 m2 or less | 14% of gross floor area, but not less than 5 m2
 
-exceeding 250 m2 but not exceeding 1000 m2 | 12% of gross floor area, but not less than 35 m2
+exceeding 250 m2 but not exceeding 1 000 m2 | 12% of gross floor area, but not less than 35 m2
 
-exceeding 1000 m2 | 10% of gross floor area, but not less than 120 m2
+exceeding 1 000 m2 | 10% of gross floor area, but not less than 120 m2
 
-- Note: In this Schedule, “gross floor area” (總樓面面積), in relation to a restaurant or factory canteen, means the roofed-over area used exclusively for the business of the restaurant or factory canteen. It includes any area used for a store-room, cold storage chamber, staff changing room, office, air-conditioning engine room, lavatory, lift lobby or stair hall.
+- Note: In this Schedule, gross floor area (總樓面面積), in relation to a restaurant or factory canteen, means the roofed-over area used exclusively for the business of the restaurant or factory canteen. It includes any area used for a store-room, cold storage chamber, staff changing room, office, air-conditioning engine room, lavatory, lift lobby or stair hall.
 
 (Schedule 5A added L.N. 57 of 2010)
