@@ -30,7 +30,7 @@ INFORMATION TO BE PROVIDED TO THE DIRECTOR BY NOTIFICATION OR REPORT UNDER REGUL
 
     - (b) Any special condition of the vessel.
 
-  - 11. Quantities and categories of dangerous goods on board including radioactive materials (insert “None” if applicable).
+  - 11. Quantities and Classes of dangerous goods on board including radioactive materials (insert “None” if applicable). (29 of 2021 s. 25)
 
   - 12.
 

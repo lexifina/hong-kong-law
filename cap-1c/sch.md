@@ -314,7 +314,7 @@ Director of Lands | Hong Kong Airport (Control of Obstructions) Ordinance (Cap. 
 
 Director of Lands | Road Traffic Ordinance (Cap. 374), sections 123(3) and (4) and 124(1) and (2).
 
-Director of Marine | Dangerous Goods (Shipping) Regulations (Cap. 295 sub. leg. C), regulations 3, 5(1), 6, 9, 12, 13, 14, 16, 17, 19 and 21.
+Director of Marine | Dangerous Goods (Shipping) Regulation 2012 (Cap. 295 sub. leg. F), sections 4(2) and (3), 8(1) and (2), 9(1) and (2), 15(1) and (2), 19(1), 20(1), 21(1), 23(1), 24(1) and (2), 25(1), (2) and (3), 26(1) and (2) and 27(1) and (2). (29 of 2021 s. 11)
 
 Director of Marine | Merchant Shipping (Safety) Ordinance (Cap. 369), sections 15(2)(i), 17(2)(i), 18(2)(i), 21(2), 31, 38(4), 51(2) and (3), 57(2), 62, 63 and 114(1). (L.N. 9 of 2020)
 

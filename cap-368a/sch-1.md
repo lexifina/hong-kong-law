@@ -1,8 +1,8 @@
 # Schedule 1
 
-[regs. 3, 12A & 18]
+[regs. 3, 12A, 18 & 22]
 
-(L.N. 96 of 2009; 7 of 2016 s. 17)
+(L.N. 96 of 2009; 7 of 2016 s. 17; 29 of 2021 s. 34)
 
 Traffic Signs and Road Markings
 
@@ -88,15 +88,15 @@ Figure No. 6
 
 Dangerous Goods Prohibited
 
-This sign indicates that vehicles carrying dangerous goods of particular categories are prohibited from passing beyond the sign.
+This sign indicates that vehicles carrying dangerous goods of particular classes are prohibited from passing beyond the sign.
 
 It may be used in conjunction with the sign in Figure No. 7.
 
-Figure No. 7
+(29 of 2021 s. 34 and E.R. 1 of 2022) Figure No. 7
 
-This sign when used in conjunction with the sign in Figure No. 6 indicates the category or categories of dangerous goods referred to in that figure.
+This sign when used in conjunction with the sign in Figure No. 6 indicates the class or classes of dangerous goods referred to in that figure.
 
-(80 of 1997 s. 102; E.R. 1 of 2022) Figure No. 7A
+(80 of 1997 s. 102; 29 of 2021 s. 34 and E.R. 1 of 2022) Figure No. 7A
 
 Toll Area
 

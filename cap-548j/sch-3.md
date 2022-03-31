@@ -206,12 +206,28 @@ Item | Type of vessel | Fee
 
 - PART 7 SURVEY FOR ISSUE OF DECLARATION OF FITNESS
 
-Item | Type of vessel | Fee
+  - 1. Interpretation of Part 7 of this Schedule
 
-1. | Local vessel other than oil carrier | $815 in respect of each category of dangerous goods specified in the Dangerous Goods Ordinance (Cap. 295) and its subsidiary legislation
+    - (1) In this Part—
 
-2. | Oil carrier—
+      - class (類), in relation to a substance or article, means class 1, class 2, class 3, class 4, class 5, class 6, class 7, class 8 or class 9 as defined in chapter 2.0.1.1 of the IMDG Code;
 
-(a) where the gross tonnage of the vessel is less than 500 | $1,895 in respect of each category of dangerous goods specified in the Dangerous Goods Ordinance (Cap. 295) and its subsidiary legislation
+      - IMDG Code (《IMDG規則》) means the International Maritime Dangerous Goods Code published by the International Maritime Organization, as amended or revised by the Organization from time to time.
 
-(b) where the gross tonnage of the vessel is 500 or more | $3,775 in respect of each category of dangerous goods specified in the Dangerous Goods Ordinance (Cap. 295) and its subsidiary legislation
+    - (2) For the fees specified in column 3 in section 2 of this Part, if a class of substance or article is subdivided into other classes or divisions under the IMDG Code, those other classes or divisions are to be regarded as the class under which they are subdivided.
+
+  - (29 of 2021 s. 65)
+
+  - 2. Fees (29 of 2021 s. 65)
+
+  - Item | Type of vessel | Fee
+
+  - 1. | Local vessel other than oil carrier | $815 for each class of substance or article
+
+  - 2. | Oil carrier—
+
+  - (a) where the gross tonnage of the vessel is less than 500 | $1,895 for each class of substance or article
+
+  - (b) where the gross tonnage of the vessel is 500 or more | $3,775 for each class of substance or article
+
+  - (29 of 2021 s. 65)

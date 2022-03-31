@@ -4,7 +4,7 @@
 
 Scheduled Trades
 
-- 1. Any industrial undertaking involving the use of any dangerous goods specified in Category 5 in the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A) and for which a licence is required under the Dangerous Goods Ordinance (Cap. 295). (Amended L.N. 222 of 1983; 80 of 1997 s. 102)
+- 1. Any industrial undertaking involving the use of any Class 3 dangerous goods or Class 3A dangerous goods, as defined by section 2 of the Dangerous Goods (Application and Exemption) Regulation 2012 (Cap. 295 sub. leg. E) (if a licence is required for the use of the dangerous goods under section 6 of the Dangerous Goods Ordinance (Cap. 295)). (Amended L.N. 222 of 1983; 80 of 1997 s. 102; 29 of 2021 s. 13)
 
 - 2. Any industrial undertaking involving the use of coal gas.
 

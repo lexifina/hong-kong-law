@@ -6,9 +6,19 @@ Ships subject to Compulsory Pilotage
 
 - 1. A ship of 3 000 gross tonnage or over.
 
-- 2. A ship of 1 000 gross tonnage or over proceeding to or from any wharf specified in Part I of the First Schedule to the Dangerous Goods (Shipping) Regulations (Cap. 295 sub. leg. C).
+- 2. A ship of 1 000 gross tonnage or over proceeding to or from any wharf specified in Part 1 of Schedule 1 to the Dangerous Goods (Shipping) Regulation 2012 (Cap. 295 sub. leg. F). (Amended 29 of 2021 s. 17)
 
-- 3. A ship of 1 000 gross tonnage or over carrying dangerous goods specified in Categories 1, 2 and 5 in the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A). (Amended 10 of 2005 s. 208)
+- 3. A ship of 1 000 gross tonnage or over carrying— (Amended 10 of 2005 s. 208; 29 of 2021 s. 17)
+
+  - (a) Class 1 dangerous goods;
+
+  - (b) Class 2 dangerous goods;
+
+  - (c) Class 3 dangerous goods; or
+
+  - (d) Class 3A dangerous goods,
+
+- as defined by section 2 of the Dangerous Goods (Shipping) Regulation 2012 (Cap. 295 sub. leg. F). (Amended 29 of 2021 s. 17)
 
 - 4. A ship of 1 000 gross tonnage or over proceeding to or from a Government mooring buoy.
 

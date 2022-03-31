@@ -100,7 +100,9 @@ Item | Ordinance | Decision
 
 (c) | to revoke a licence.
 
-21. | Dangerous Goods (General) Regulations (Cap. 295 sub. leg. B) | Prohibiting or imposing conditions on the continued use of a storage tank under regulation 127.
+21. | Dangerous Goods (Control) Regulation (Cap. 295 sub. leg. G) | (a) | Prohibiting or imposing conditions on, under section 103(1), the use of a licensed tank for the storage of certain dangerous goods.
+
+(b) | Prohibiting or imposing conditions on, under section 125(1), the use of a tank on a licensed tank vehicle for containing certain dangerous goods. (Replaced 29 of 2021 s. 44)
 
 22. | Business Registration Ordinance (Cap. 310) | (a) | The service of a notice under section 3(4) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business.
 

@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[ss. 2, 3, 7 & 18]
+[ss. 2, 3, 7, 18 & 30] (29 of 2021 s. 72)
 
 Prescribed Traffic Signs, Prescribed Light Signals and Prescribed Road Markings
 
@@ -30,19 +30,21 @@ This sign indicates the end of the Control Area.
 
 Figure No. 6 Dangerous Goods Prohibited
 
-This sign indicates that vehicles carrying dangerous goods of particular categories are prohibited from proceeding beneath, beyond or past the sign. It may be used in conjunction with the sign in Figure No. 7.
+This sign indicates that vehicles carrying dangerous goods of particular Classes are prohibited from proceeding beneath, beyond or past the sign. It may be used in conjunction with the sign in Figure No. 7.
 
-Figure No. 7 Categories of Dangerous Goods
+(29 of 2021 s. 72) Figure No. 7 Classes of Dangerous Goods
 
-When this sign is used in conjunction with the sign in Figure No. 6 it indicates the category or categories of dangerous goods referred to in that Figure. The significance of the sign is as follows—
+When this sign is used in conjunction with the sign in Figure No. 6, it indicates the Class or Classes of dangerous goods referred to in that Figure. The significance of the sign is as follows—
 
-  - (a) Category 1 indicates dangerous goods referred to in Category 1 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A);
+  - (a) Class 1 indicates Class 1 dangerous goods (as defined by section 2 of the Dangerous Goods (Application and Exemption) Regulation 2012 (Cap. 295 sub. leg. E));
 
-  - (b) Category 2 indicates dangerous goods referred to in Category 2 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A);
+  - (b) Class 2 indicates Class 2 dangerous goods (as defined by that section);
 
-  - (c) Category 5 indicates dangerous goods referred to in Category 5 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A).
+  - (c) Class 3 indicates Class 3 dangerous goods (as defined by that section); and
 
-Figure No. 8
+  - (d) Class 3A indicates Class 3A dangerous goods (as defined by that section).
+
+(29 of 2021 s. 72) Figure No. 8
 
 Stop, Pay Toll
 

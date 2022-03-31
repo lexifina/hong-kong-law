@@ -56,9 +56,11 @@ Item | Description
 
 - PART III NON-PYROTECHNIC SPECIAL EFFECTS MATERIALS Division A
 
-- Liquefied petroleum gas (LPG) within the meaning of the Gas Safety Ordinance (Cap. 51) Division B
+- Liquefied petroleum gas (LPG) within the meaning of the Gas Safety Ordinance (Cap. 51)
 
-- Dangerous goods other than those in Category 1 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A) Division C
+- Division B
+
+- Dangerous goods described in section 6 of the Dangerous Goods (Application and Exemption) Regulation 2012 (Cap. 295 sub. leg. E), with the exception of Schedule 1 dangerous goods and prohibited goods as defined by section 2 of that Regulation (29 of 2021 s. 69) Division C
 
 - Anthracene
 

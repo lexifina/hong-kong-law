@@ -1,6 +1,6 @@
 # Schedule
 
-[ss. 1, 2, 7, 9 & 18] (L.N. 118 of 2012)
+[ss. 1, 2, 7, 9, 18 & 30] (L.N. 118 of 2012; 29 of 2021 s. 43)
 
 Figure No. 1
 
@@ -130,15 +130,15 @@ Figure No. 18
 
 Dangerous Goods Prohibited
 
-This sign indicates that vehicles carrying dangerous goods of particular categories are prohibited from passing beyond the sign. It may be used in conjunction with the sign in Figure No. 19.
+This sign indicates that vehicles carrying dangerous goods of particular Classes are prohibited from passing beyond the sign. It may be used in conjunction with the sign in Figure No. 19.
 
-Figure No. 19
+(29 of 2021 s. 43) Figure No. 19
 
-Categories 1, 2, 5
+Classes 1, 2, 3, 3A
 
-This sign when used in conjunction with the sign in Figure No. 18 indicates the category or categories of dangerous goods referred to in that figure.
+This sign when used in conjunction with the sign in Figure No. 18 indicates the Class or Classes of dangerous goods referred to in that figure.
 
-Figure No. 20
+(29 of 2021 s. 43) Figure No. 20
 
 Height Limit
 

@@ -18,7 +18,7 @@ Provisions that do not Apply to Zero-rated Specified Goods
 
 7. Section 36(2)(c)
 
-8. Section 40(b)
+8. Section 40(1)(b) (Amended 29 of 2021 s. 20)
 
 9. Section 58
 
