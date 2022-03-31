@@ -1,3 +1,3 @@
 # Schedule 2
 
-(Omitted)
+(Omitted as spent—E.R. 1 of 2022)
