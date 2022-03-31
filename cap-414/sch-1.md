@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 22(2) & 25(9)]
 
-OVERALL LIMIT ON LIABILITY OF FUND
+Overall Limit on Liability of Fund
 
 Fund Convention, Article 4—paragraphs 4 and 5
 
