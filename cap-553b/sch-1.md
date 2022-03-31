@@ -18,9 +18,9 @@ Item | Enactment | Provision
 
 8. | Immigration Ordinance (Cap. 115) | Sections 2AB(2)(a), 2AC(2)(a), 5(6) and (7) and 6(1) and (2) (L.N. 36 of 2003)
 
-9. | Buildings Ordinance (Cap. 123) | Sections 17(1)(Column B), 20(2) and 21(2) (L.N. 90 of 2012)
+9. | Buildings Ordinance (Cap. 123) | Column B in the table to section 17(1) (to the extent to which the conditions and requirements set out in that Column relate to a document specified under regulation 6A(1)(b) of the Building (Administration) Regulations (Cap. 123 sub. leg. A)), sections 20(2) and 21(2) (L.N. 226 of 2021)
 
-10. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 6(1) and 11 (L.N. 90 of 2012)
+10. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulation 6(1) (to the extent to which it relates to a document specified under regulation 6A(1)(b)) (L.N. 226 of 2021)
 
 11. | Building (Planning) Regulations (Cap. 123 sub. leg. F) | Regulations 51(1) and 64(1) and (2) (L.N. 90 of 2012)
 
