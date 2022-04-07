@@ -1,10 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 4]
 
-PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
-
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+Provisions as Respects the Council and its Members
 
 - 1.
 
@@ -28,7 +26,7 @@ PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
 
   - (1) The Council shall elect a Chairman each year from amongst the members appointed under section 3(2) of this Ordinance and not more than 15 months shall elapse between the date of one election and the next:
 
-    - Provided that on the commencement of sections 2 to 4 of this Ordinance for the purpose of any meeting of the Council, prior to the election of a Chairman, the Director of Health shall exercise the functions of a Chairman until a Chairman is so elected.
+    - Provided that on the commencement* of sections 2 to 4 of this Ordinance for the purpose of any meeting of the Council, prior to the election of a Chairman, the Director of Health shall exercise the functions of a Chairman until a Chairman is so elected.
 
   - (2) A member elected as Chairman under subsection (1) may at any time, by notice in writing to the Council, resign from the office of Chairman.
 
@@ -51,3 +49,7 @@ PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
 - 6. A certificate signed by the Secretary that an instrument of the Council purporting to be made or issued by or on behalf of the Council was so made or issued shall be conclusive evidence of that fact.
 
 - 7. Every document purporting to be an instrument made or issued by or on behalf of the Council and to be signed or executed by the Secretary or a person authorized by the Council to act in that behalf, shall be received in evidence and deemed, without further proof, to be so made or issued.
+
+Editorial Note:
+
+* Commencement date: 1 August 1993.
