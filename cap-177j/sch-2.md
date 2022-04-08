@@ -6,7 +6,7 @@ Years of Birth and Specified Periods
 
 Column 1 Year of birth | Column 2 Specified period
 
-1954 or any year before | From 4 April 2022 to 14 January 2023 (L.N. 2 of 2022)
+1954 or any year before | From 8 April 2022 to 14 January 2023 (L.N. 45 of 2022)
 
 1955 or 1956 | From 24 September 2019 to 15 November 2019
 
@@ -30,17 +30,17 @@ Column 1 Year of birth | Column 2 Specified period
 
 1980, 1981 or 1982 | From 19 November 2021 to 18 January 2022 (L.N. 120 of 2021)
 
-1983 or 1984 | From 19 January 2022 to 2 April 2022 (L.N. 120 of 2021)
+1983 or 1984 | From 19 January 2022 to 23 July 2022 (L.N. 45 of 2022)
 
 1985 or 1986 | From 21 January 2019 to 30 March 2019
 
-1987 or 1988 | From 19 January 2022 to 2 April 2022 (L.N. 120 of 2021)
+1987 or 1988 | From 19 January 2022 to 23 July 2022 (L.N. 45 of 2022)
 
-1989, 1990 or 1991 | From 4 April 2022 to 10 June 2022 (L.N. 2 of 2022)
+1989, 1990 or 1991 | From 8 April 2022 to 23 July 2022 (L.N. 45 of 2022)
 
-1992, 1993, 1994 or 1995 | From 11 June 2022 to 7 September 2022 (L.N. 2 of 2022)
+1992, 1993, 1994 or 1995 | From 25 July 2022 to 6 October 2022 (L.N. 45 of 2022)
 
-1996, 1997, 1998, 1999 or 2000 | From 8 September 2022 to 10 December 2022 (L.N. 2 of 2022)
+1996, 1997, 1998, 1999 or 2000 | From 7 October 2022 to 10 December 2022 (L.N. 45 of 2022)
 
 2005, 2006, 2007, 2012, 2013, 2014, 2015, 2016, 2017 or 2018 | From 3 May 2021 to 18 September 2021 (L.N. 16 of 2021)
 
