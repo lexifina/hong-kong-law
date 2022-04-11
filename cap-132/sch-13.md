@@ -56,4 +56,6 @@ Civic Centres
 
 - 26. The site and buildings known as Oil Street Art Space at 12 Oil Street, North Point.
 
-(Thirteenth Schedule replaced 17 of 2018 s. 56)
+- 27. East Kowloon Cultural Centre at 60 Ngau Tau Kok Road, Ngau Tau Kok.
+
+(Thirteenth Schedule replaced 17 of 2018 s. 56. Amended L.N. 17 of 2022)
