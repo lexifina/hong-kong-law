@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2(2) & 74]
 
-FEES
+Fees
 
 Fee No. | Matter or proceeding | Amount | When payable
 
