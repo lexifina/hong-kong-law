@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 10 & 24]
 
-MEETINGS AND PROCEDURES OF THE COURT
+Meetings and Procedures of the Court
 
 - 1. Meetings of the Court shall be held at such times and places as the Chairman may appoint.
 
@@ -14,7 +14,7 @@ MEETINGS AND PROCEDURES OF THE COURT
 
 - 5.
 
-  - In paragraph 4, “interest” (利害關係) includes a pecuniary interest.
+  - In paragraph 4, interest (利害關係) includes a pecuniary interest.
 
 - 6. A meeting of the Court may be adjourned by the Chairman or the person presiding or, where a majority of the members present so resolves, by the members.
 

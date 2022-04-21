@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 13 & 24]
 
-MEETINGS AND PROCEDURES OF THE COUNCIL
+Meetings and Procedures of the Council
 
 - 1. Meetings of the Council shall be held at such times and places as the Chairman may appoint.
 

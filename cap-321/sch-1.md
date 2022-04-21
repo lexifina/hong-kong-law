@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [ss. 2, 10, 27 & 45]
 
-SCHEDULED GROUPS
+Scheduled Groups
 
 Item | No. of Group | Description of Group
 
