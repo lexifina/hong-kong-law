@@ -24,11 +24,11 @@ Licences and Fees
 
 - liquors, tobacco, hydrocarbon oil and methyl alcohol | 1,320
 
-- (b) | Import licence to persons licensed only to import for their own use or for a single commercial shipment of duty value less than $2,000 | 10% of the duty on the goods imported with a minimum fee of $2.
+- (b) | Import licence to persons licensed only to import for their own use or for a single commercial shipment of duty value less than $2,000 | 10% of the duty on the goods imported with a minimum fee of $2
 
 - 4. | Special import licence (to keepers of licensed warehouses capable of storing not less than 500 kilolitres of hydrocarbon oil) | 1,320
 
-- (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015; L.N. 1 of 2019)
+- (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015; L.N. 1 of 2019; E.R. 2 of 2022)
 
 - Part 2 Liquors
 
@@ -80,11 +80,11 @@ Licences and Fees
 
 - 2. | For every transfer of any licence from one person to another, not otherwise specified | 620
 
-- 3. | For every certificate of the Government Chemist that any spirits or methyl alcohol are denatured | 7 or 7% of the duty, which would have been payable on the spirits or methyl alcohol had such spirits or methyl alcohol not been denatured, whichever is the greater.
+- 3. | For every certificate of the Government Chemist that any spirits or methyl alcohol are denatured | 7 or 7% of the duty, which would have been payable on the spirits or methyl alcohol had such spirits or methyl alcohol not been denatured, whichever is the greater
 
 - 4. | For every landing certificate, certificate of shortages or breakages of cargo found damaged or short in bond, endorsement, certificate of accuracy or copy of or extract from official records, any other certificates on which statistics or any official signature has been given in connection with the importation, duty collection, shortage or exportation of any goods to which this Ordinance applies | 230
 
-- 5. | For storage of goods to which this Ordinance applies at the Customs and Excise warehouse | 2.3 per package (irrespective of size) per day or part of a day, after the first 48 hours.
+- 5. | For storage of goods to which this Ordinance applies at the Customs and Excise warehouse | 2.3 per package (irrespective of size) per day or part of a day, after the first 48 hours
 
 - 6. | For any attendance of a member of the Customs and Excise Service—
 
@@ -102,6 +102,6 @@ Licences and Fees
 
 - Customs Officer | 240 | 1,400 | 33,750
 
-- (L.N. 358 of 1990; L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015; L.N. 1 of 2019)
+- (L.N. 358 of 1990; L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015; L.N. 1 of 2019; E.R. 2 of 2022)
 
 - (L.N. 165 of 1989; L.N. 444 of 1996; L.N. 452 of 1996)
