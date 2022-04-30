@@ -214,19 +214,21 @@ Designated No Smoking Areas and Exempt Areas
 
 - (e) | no natural person is required to enter the room while it is being occupied for cigar tasting (whether or not he could have been required to do so by contract or otherwise).
 
-- 10. | A room designated for tobacco tasting in the manufacturing or business premises of a business engaged in the tobacco trade if all the following requirements are complied with—
+- 10. | A room designated for tasting or testing of smoking products in the manufacturing or business premises of a business engaged in the smoking products trade if all the following requirements are complied with— (Amended 39 of 2021 s. 26)
 
-- (a) | the business is not engaged in the retail sale of tobacco products;
+- (a) | the business is not engaged in the retail sale of smoking products;
 
-- (b) | the tobacco tasting is carried out for the purpose of conducting research and development or quality control of tobacco products in the normal course of the business;
+- (b) | the tasting or testing is carried out for conducting research and development or quality control of smoking products in the normal course of the business; (Replaced 39 of 2021 s. 26)
 
-- (c) | the room is only used for carrying out the tobacco tasting;
+- (c) | the room is only used for carrying out the tasting or testing;
 
 - (d) | the room is independently ventilated and completely partitioned off from the remainder of the premises; and
 
-- (e) | no natural person, other than one who carries out the tobacco tasting, is required to enter the room while it is being occupied for the tobacco tasting (whether or not he could have been required to do so by contract or otherwise).
+- (e) | no natural person, other than one who carries out the tasting or testing, is required to enter the room while it is being occupied for the tasting or testing (whether or not he could have been required to do so by contract or otherwise). (Amended 39 of 2021 s. 26)
 
 - 11. | An area set aside by the Director of Immigration under rule 11A of Schedule 1 to the Immigration (Treatment of Detainees) Order (Cap. 115 sub. leg. E) in a place specified in Schedule 2 to that Order for smoking by persons detained there. (Added L.N. 16 of 2010)
+
+- 12. | A Government laboratory. (Added 39 of 2021 s. 26)
 
 - Part 3 Interpretation In this Schedule—
 

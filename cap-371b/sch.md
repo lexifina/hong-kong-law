@@ -4,7 +4,7 @@
 
 - Part I (Repealed L.N. 188 of 1999)
 
-- Part 2 Forms of Health Warning on Packet of Cigarettes or Retail Container of Tobacco Products (Not in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2 replaced L.N. 66 of 2017 and L.N. 126 of 2017)
+- Part 2 Forms of Health Warning on Packet of Cigarettes or Retail Container of Conventional Smoking Products (Not in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2 replaced L.N. 66 of 2017 and L.N. 126 of 2017. 39 of 2021 s. 35)
 
 - Form 1
 
@@ -184,7 +184,7 @@
 
 - 4. | The graphic, characters, letters and numbers are printed by 4-colour printing with a minimum resolution of 300 dpi.
 
-- Part 2A Forms of Health Warning on Packet of Cigarettes or Retail Container of Tobacco Products (in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2A replaced L.N. 66 of 2017)
+- Part 2A Forms of Health Warning on Packet of Cigarettes or Retail Container of Conventional Smoking Products (in Cylindrical Drum Shape, Not Containing One Cigar) (Part 2A replaced L.N. 66 of 2017. 39 of 2021 s. 35)
 
 - Form 1
 
@@ -372,9 +372,7 @@
 
 - Part III (Repealed 21 of 2006 s. 40)
 
-- Part 3A Form of Health Warning on Price Board
-
-- of Tobacco Products (L.N. 66 of 2017)
+- Part 3A Form of Health Warning on Price Board of Conventional Smoking Products (L.N. 66 of 2017; 39 of 2021 s. 35)
 
 - Specifications—
 
@@ -402,9 +400,7 @@
 
 - Part V (Repealed 21 of 2006 s. 40)
 
-- Part 6 Sign when Offering Tobacco
-
-- Products for Sale, etc. (L.N. 66 of 2017) BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
+- Part 6 Sign When Offering Conventional Smoking Products for Sale, etc. (L.N. 66 of 2017; 39 of 2021 s. 35) BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
 
 - TO PERSON UNDER 18 OR GIVEN FOR
 
