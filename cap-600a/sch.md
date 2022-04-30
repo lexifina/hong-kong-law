@@ -44,21 +44,17 @@ FIXED PENALTY | HK$1,500 | 在指定為禁止吸煙區的區域內或在公共�
 
 在適當方格內加「✓」號 Tick the appropriate box
 
-罪行詳情 OFFENCE DETAILS | 在禁止吸煙區內 In a no smoking area
+罪行詳情 OFFENCE DETAILS | 在禁止吸煙區內作出吸煙行為 Doing a smoking act in a no smoking area
 
-在公共交通工具內 In a public transport carrier | 公共交通工具的種類 Description of the public transport carrier
+在公共交通工具內作出吸煙行為 Doing a smoking act in a public transport carrier | 公共交通工具的種類 Description of the public transport carrier
 
 日 day | 月 month | 年 year
 
 日期 Date
 
-吸煙 Smoking | 香煙 Cigarette
-
-時 hour | 分 minute | 攜帶燃着的 Carry a lighted | 雪茄 Cigar
+時 hour | 分 minute
 
 時間：上午/下午* Time: a.m./p.m.*
-
-煙斗 Pipe
 
 地點 Location
 
@@ -108,7 +104,7 @@ CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 
 (d) 透過電話理財服務 款項可使用銀行提供的電話理財服務，透過有關的繳費服務繳付。 | (d) Through Phone-banking Service Payment can be made through the bill payment services by using the phone-banking service provided by banks.
 
-(e) 以郵遞方式 請把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」，寄往香港告士打道郵政局信箱28000號庫務署收。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵遞現金。請注意︰以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。 | (e) By Post A cheque, bank draft or cashier order should be sent together with the “Slip for Payment by Post” at the lower portion of this notice to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark is to be regarded as the date of payment.
+(e) 以郵遞方式 請把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」，寄往庫務署指定的郵政局信箱。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵遞現金。請注意︰以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。如欲查詢庫務署指定的郵政局信箱資料， 請致電庫務署熱線：2845 8866或瀏覽庫務署網站 http://www.try.gov.hk。 | (e) By Post A cheque, bank draft or cashier order should be sent together with the “Slip for Payment by Post” at the lower portion of this notice to the post office letter box designated by the Treasury. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark is to be regarded as the date of payment. For information on the post office letter box designated by the Treasury, please call the Treasury’s Hotline: 2845 8866 or visit Treasury’s web site http://www.try.gov.hk.
 
 (f) 郵政局櫃位 款項可在任何郵政局(流動郵政局除外)的櫃位繳付。本通知書須保持完整並於繳款時出示。繳款後本通知書會發回作收據。如欲查詢地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽香港郵政網站 http://www.hongkongpost.com。 | (f) At Post Office Counters Payment can be made at a counter of any post office other than a mobile post office. This notice must be kept intact and produced at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours, please call the Hongkong Post’s Hotline: 2921 2222 or visit Hongkong Post’s web site http://www.hongkongpost.com.
 
@@ -117,6 +113,8 @@ CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 3. 支票、銀行匯票或本票均須以「香港特別行政區政府」或「香港特區政府」為收款人，並加以劃線。以支票付款，只在支票首次提交付款銀行獲得兌現的情況下，繳款方為有效。期票不予接受。 | 3. Cheques, bank drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. For payment made by cheque, payment is valid only when the cheque is honoured on the first presentation to the drawee bank. Post-dated cheques will not be accepted.
 
 如就本通知書有任何查詢，請致電有關的部門的查詢熱線電話。 For any enquiry about this notice, please call enquiry hotline of the relevant department. 衞生署戒煙熱線： 1833 183 Department of Health Smoking Cessation Hotline: 1833 183
+
+(L.N. 18 of 2022)
 
 __________
 
@@ -188,7 +186,7 @@ CRC 141 | 表格 FORM | 編號 SERIAL NUMBER | 數額 AMOUNT
 
 (d) 透過電話理財服務 款項可使用銀行提供的電話理財服務，透過有關的繳費服務繳付。 | (d) Through Phone-banking Service Payment can be made through the bill payment services by using the phone-banking service provided by banks.
 
-(e) 以郵遞方式 請把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」，寄往香港告士打道郵政局信箱28000號庫務署收。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵遞現金。請注意︰以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。 | (e) By Post A cheque, bank draft or cashier order should be sent together with the “Slip for Payment by Post” at the lower portion of this notice to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark is to be regarded as the date of payment.
+(e) 以郵遞方式 請把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」，寄往庫務署指定的郵政局信箱。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵遞現金。請注意︰以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。如欲查詢庫務署指定的郵政局信箱資料，請致電庫務署熱線：2845 8866或瀏覽庫務署網站 http://www.try.gov.hk。 | (e) By Post A cheque, bank draft or cashier order should be sent together with the “Slip for Payment by Post” at the lower portion of this notice to the post office letter box designated by the Treasury. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark is to be regarded as the date of payment. For information on the post office letter box designated by the Treasury, please call the Treasury’s Hotline: 2845 8866 or visit Treasury’s web site http://www.try.gov.hk.
 
 (f) 郵政局櫃位 款項可在任何郵政局(流動郵政局除外)的櫃位繳付。本通知書須保持完整並於繳款時出示。繳款後本通知書會發回作收據。如欲查詢地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽香港郵政網站http://www.hongkongpost.com。 | (f) At Post Office Counters Payment can be made at a counter of any post office other than a mobile post office. This notice must be kept intact and produced at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours, please call the Hongkong Post’s Hotline: 2921 2222 or visit Hongkong Post’s web site http://www.hongkongpost.com.
 
@@ -229,6 +227,8 @@ Name (in full)
 * 請刪去不適用者。
 
 * Please delete where appropriate.
+
+(L.N. 18 of 2022)
 
 __________
 
