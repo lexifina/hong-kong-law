@@ -384,11 +384,19 @@ Election Committee
 
   - 4. Electoral Registration Officer to compile and publish provisional register
 
-    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a provisional register of members of the Election Committee within 14 days after the making of a vacancy declaration. (Amended 10 of 2006 s. 31)
+    - (1) The Electoral Registration Officer must compile and publish in accordance with the EAC Regulations a provisional register of members of the Election Committee—
+
+      - (a) during the period beginning on the date of the making of a vacancy declaration and ending on 14 days after that date; or
+
+      - (b) during the period beginning on the date falling 210 days before the specified date and ending on the date falling 165 days before the specified date. (Replaced 14 of 2021 s. 409)
 
     - (2) The Electoral Registration Officer is not required to compile and publish a provisional register of members of the Election Committee under subsection (1) if— (Amended 10 of 2006 s. 31)
 
-      - (a) the vacancy declaration is made within 12 months after the date of the making of another vacancy declaration; or (Amended 10 of 2006 s. 31)
+      - (a) a provisional register of members of the Election Committee was published within 12 months before the first day of the period referred to in subsection (1)(a) or (b); (Replaced 14 of 2021 s. 409)
+
+      - (ab) the Election Committee was constituted within 12 months before the first day of the period referred to in subsection (1)(a) or (b); (Added 14 of 2021 s. 409)
+
+      - (ac) the Legislative Council is dissolved during its current term of office by the Chief Executive in accordance with the Basic Law; or (Added 14 of 2021 s. 409)
 
       - (b) the election to fill the vacancy referred to in the vacancy declaration is to be held on a date that falls outside the term of office of the Election Committee.
 
@@ -412,17 +420,19 @@ Election Committee
 
       - (b) in such other publications (if any) as are prescribed by the EAC Regulations,
 
-    - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the final register of members of the Election Committee have been entered on an omissions list and specifying the times and the place at which the omissions list may be inspected.
+    - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the final register of members of the Election Committee have been entered on an omissions list and specifying the times and the place at which a copy of the omissions list may be inspected. (Amended 14 of 2021 s. 409)
 
     - (6) The Electoral Registration Officer shall, for the period prescribed for the purposes of this subsection by the EAC Regulations—
 
-      - (a) keep the omissions list at that Officer’s office; and
+      - (a) keep a copy of the omissions list at that Officer’s office; and
 
-      - (b) during the ordinary business hours of that office, make that list available for inspection by members of the public, free of charge.
+      - (b) during the ordinary business hours of that office, make that copy available for inspection in accordance with the EAC Regulations. (Amended 14 of 2021 s. 409)
 
     - (7) In this section—
 
-      - existing final register of members of the Election Committee (現有選舉委員會正式委員登記冊) means the final register of members of the Election Committee that is in effect under section 43 on the date of the making of the relevant vacancy declaration; (Replaced 10 of 2006 s. 31)
+      - existing final register of members of the Election Committee (現有選舉委員會正式委員登記冊) means the final register of members of the Election Committee that is in effect under section 43 on the first day of the period referred to in subsection (1)(a) or (b) (as the case may be); (Replaced 10 of 2006 s. 31. Amended 14 of 2021 s. 409)
+
+      - specified date (指明日期) means the date on which the current term of office of the Legislative Council is to end; (Added 14 of 2021 s. 409)
 
       - vacancy declaration (空缺宣布) means a declaration under section 5 of this Ordinance. (Replaced 25 of 2003 s. 56)
 
@@ -1268,15 +1278,15 @@ Election Committee
 
         - (b) in such other publications (if any) as are prescribed by the EAC Regulations,
 
-      - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the subsector final register have been entered on an omissions list and specifying the times and the place at which the omissions list may be inspected.
+      - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the subsector final register have been entered on an omissions list and specifying the times and the place at which a copy of the omissions list may be inspected. (Amended 14 of 2021 s. 427)
 
       - (5A) Despite subsections (4) and (5), in compiling the subsector provisional register for 2021, the Electoral Registration Officer is not required to comply with those subsections in relation to the names and other relevant particulars of persons registered in the subsector final register published for 2020. (Added 14 of 2021 s. 427)
 
       - (6) The Electoral Registration Officer shall, for the period prescribed for the purposes of this subsection by the EAC Regulations—
 
-        - (a) keep the omissions list at that Officer’s office; and
+        - (a) keep a copy of the omissions list at that Officer’s office; and
 
-        - (b) during the ordinary business hours of that office, make that list available for inspection by members of the public, free of charge.
+        - (b) during the ordinary business hours of that office, make that copy available for inspection in accordance with those Regulations. (Amended 14 of 2021 s. 427)
 
     - 15. When subsector final register is to take effect A subsector final register takes effect on the date of its publication and continues to have effect until the publication of the next subsector final register.
 
