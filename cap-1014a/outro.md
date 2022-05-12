@@ -1,8 +1,8 @@
-APPENDIX
+Appendix
 
 [regs. 6 & 8]
 
-RULES OF PROCEDURE FOR CHURCH COUNCILS
+Rules of Procedure for Church Councils
 
 - 1. Meetings of church council Every church council shall hold not less than four meetings in each year. Meetings shall be convened by the chairman and if not more than four meetings are held they shall be at quarterly intervals as far as possible.
 
