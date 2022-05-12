@@ -2,7 +2,9 @@ To provide for the incorporation of a body of trustees capable of holding proper
 
 [18 January 1930]
 
-Preamble Whereas—
+(Format changes—E.R. 2 of 2022)
+
+Preamble WHEREAS—
 
 - (a) Saint John’s Cathedral Church was erected on Crown land partly by means of private subscriptions and partly by means of public moneys and has since been maintained and kept up and divine worship has been performed therein and elsewhere in Hong Kong in accordance with the provisions of certain Ordinances and it is expedient to provide for a continuance of the performance of such divine worship and services in accordance with the rites and ceremonies of the Church of England; (Amended 4 of 2000 s. 3)
 

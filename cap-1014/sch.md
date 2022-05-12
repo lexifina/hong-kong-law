@@ -1,10 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 7]
 
-LETTER OF DELEGATION
-
-issued pursuant to section 7 of the Church of
+Letter of Delegation issued pursuant to section 7 of the Church of
 
 England Trust Ordinance, Chapter 1014.
 
@@ -16,4 +14,6 @@ and empower the said Church Council to exercise the following powers and duties,
 
 Given under the hands of the Bishop of Victoria, Hong Kong, and of two of the trustees this day of , 19 .
 
-} | Bishop. Trustees.
+Bishop. Trustees.
+
+}

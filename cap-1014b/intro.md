@@ -1,7 +1,7 @@
-CHURCH OF ENGLAND TRUST (TRUSTEES MEETINGS) REGULATIONS
+Church of England Trust (Trustees Meetings) Regulations
 
 (Cap. 1014, section 9)
 
 [6 February 1931]
 
-Originally Regulations—Fraser vol. 3 p. 1077
+(Format changes—E.R. 2 of 2022)
