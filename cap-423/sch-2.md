@@ -22,7 +22,7 @@ Item | Body
 
 8. | (Repealed L.N. 142 of 2014)
 
-9. | Hong Kong Confederation of Trade Unions, The
+9. | (Repealed L.N. 108 of 2022)
 
 10. | (Repealed L.N. 271 of 2003)
 
@@ -102,7 +102,7 @@ Item | Body
 
 49. | Hong Kong Red Cross
 
-50. | Hong Kong Federation of Women’s Centres (Amended L.N. 173 of 2010)
+50. | (Repealed L.N. 108 of 2022)
 
 51. | The Federation of Hong Kong and Kowloon Labour Unions
 
@@ -172,7 +172,7 @@ Item | Body
 
 85. | (Repealed L.N. 21 of 2017)
 
-86. | Farida Hair & Beauty Education Centre (Added L.N. 224 of 2008)
+86. | (Repealed L.N. 108 of 2022)
 
 87. | (Repealed L.N. 60 of 2009)
 
@@ -214,7 +214,7 @@ Item | Body
 
 109-112. | (Repealed L.N. 69 of 2013)
 
-113. | Travel Industry Council of Hong Kong (Added L.N. 99 of 2010)
+113. | (Repealed L.N. 108 of 2022)
 
 114. | (Repealed L.N. 21 of 2017)
 
@@ -307,5 +307,9 @@ Item | Body
 162. | Youth Centre of The True Word Lutheran Church operated by The True Word Lutheran Church Limited (Added L.N. 159 of 2019)
 
 163. | MTR Academy (HK) Company Limited (Added L.N. 93 of 2020)
+
+164. | Hong Kong International Aviation Academy Limited (Added L.N. 108 of 2022)
+
+165. | Hong Kong Federation of Women’s Centres Limited (Added L.N. 108 of 2022)
 
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
