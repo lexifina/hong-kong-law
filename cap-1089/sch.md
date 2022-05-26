@@ -1,4 +1,4 @@
-# SCHEDULE CONSTITUTION OF THE COLLEGE
+# Schedule Constitution of the College
 
 - 1. Visitor The president of the Church Missionary Society shall be the Visitor of the College.
 
