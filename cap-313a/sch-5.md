@@ -108,7 +108,7 @@ RESTRICTED AREAS, ETC.
 
 - ( L.N. 83 of 2017)
 
-- 7. Hong Kong International Airport Approach Area No. 3 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
+- 7. Hong Kong International Airport Approach Area No. 3 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (f), (g) to (l), and (m) to (r)—
 
 - (a) | latitude | 22o18’24” | north,
 
@@ -116,7 +116,7 @@ RESTRICTED AREAS, ETC.
 
 - (b) | latitude | 22o18’06” | north,
 
-- longitude | 113o52’ 50” | east;
+- longitude | 113o52’50” | east;
 
 - (c) | latitude | 22o18’30” | north,
 
@@ -130,31 +130,59 @@ RESTRICTED AREAS, ETC.
 
 - longitude | 113o53’41” | east;
 
-- (f) | latitude | 22o19’38” | north,
+- (f) | latitude | 22o19’08” | north,
+
+- longitude | 113o54’02” | east;
+
+- (g) | latitude | 22o19’20” | north,
+
+- longitude | 113o53’56” | east;
+
+- (h) | latitude | 22o18’48” | north,
+
+- longitude | 113o52’16” | east;
+
+- (i) | latitude | 22o19’18” | north,
+
+- longitude | 113o52’06” | east;
+
+- (j) | latitude | 22o20’26” | north,
 
 - longitude | 113o55’36” | east;
 
-- (g) | latitude | 22o19’39” | north,
+- (k) | latitude | 22o19’56” | north,
+
+- longitude | 113o55’47” | east;
+
+- (l) | latitude | 22o19’48” | north,
+
+- longitude | 113o55’22” | east;
+
+- (m) | latitude | 22o19’38” | north,
+
+- longitude | 113o55’38” | east;
+
+- (n) | latitude | 22o19’39” | north,
 
 - longitude | 113o56’19” | east;
 
-- (h) | latitude | 22o19’50” | north,
+- (o) | latitude | 22o19’50” | north,
 
 - longitude | 113o56’51” | east;
 
-- (i) | latitude | 22o19’36” | north,
+- (p) | latitude | 22o19’36” | north,
 
 - longitude | 113o56’56” | east;
 
-- (j) | latitude | 22o19’22” | north,
+- (q) | latitude | 22o19’22” | north,
 
 - longitude | 113o56’51” | east;
 
-- (k) | latitude | 22o19’20” | north,
+- (r) | latitude | 22o19’20” | north,
 
 - longitude | 113o56’46” | east.
 
-- ( L.N. 83 of 2017)
+- (L.N. 173 of 2021)
 
 - 8. HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 4 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
@@ -232,7 +260,7 @@ RESTRICTED AREAS, ETC.
 
 - (L.N. 228 of 1997; 24 of 2005 s. 50)
 
-- 11. Hong Kong International Airport Approach Area No. 7 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (f), (g) to (i), and (j) to (k)—
+- 11. Hong Kong International Airport Approach Area No. 7 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (j), (k) to (m), and (n) to (o)—
 
 - (a) | latitude | 22o17’15” | north,
 
@@ -250,35 +278,51 @@ RESTRICTED AREAS, ETC.
 
 - longitude | 113o52’00” | east;
 
-- (e) | latitude | 22o20’10” | north,
+- (e) | latitude | 22o18’34” | north,
+
+- longitude | 113o52’06” | east;
+
+- (f) | latitude | 22o19’13” | north,
+
+- longitude | 113o51’52” | east;
+
+- (g) | latitude | 22o20’30” | north,
+
+- longitude | 113o55’50” | east;
+
+- (h) | latitude | 22o19’48” | north,
+
+- longitude | 113o56’06” | east;
+
+- (i) | latitude | 22o20’10” | north,
 
 - longitude | 113o57’19” | east;
 
-- (f) | latitude | 22o19’19” | north,
+- (j) | latitude | 22o19’19” | north,
 
 - longitude | 113o57’38” | east;
 
-- (g) | latitude | 22o19’07” | north,
+- (k) | latitude | 22o19’07” | north,
 
 - longitude | 113o57’42” | east;
 
-- (h) | latitude | 22o18’36” | north,
+- (l) | latitude | 22o18’36” | north,
 
 - longitude | 113o57’54” | east;
 
-- (i) | latitude | 22o18’08” | north,
+- (m) | latitude | 22o18’08” | north,
 
 - longitude | 113o56’27” | east;
 
-- (j) | latitude | 22o17’42” | north,
+- (n) | latitude | 22o17’42” | north,
 
 - longitude | 113o55’04” | east;
 
-- (k) | latitude | 22o17’31” | north,
+- (o) | latitude | 22o17’31” | north,
 
 - longitude | 113o54’30” | east.
 
-- (L.N. 83 of 2017)
+- (L.N. 173 of 2021)
 
 - 12. HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 8 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (d), and (e) to (f)—
 
