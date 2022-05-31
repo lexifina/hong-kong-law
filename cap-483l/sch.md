@@ -6,7 +6,7 @@ RESTRICTED AREA
 
 - 1. The Restricted Area comprises—
 
-  - (a) the area of land in Chek Lap Kok that is delineated and shown coloured green in the map described as “Airport Authority Ordinance (Cap. 483) Map of the Restricted Area” and numbered AAO/RA/001 (Revision L);
+  - (a) the area of land in Chek Lap Kok that is delineated and shown coloured green in the map described as “Airport Authority Ordinance (Cap. 483) Map of the Restricted Area” and numbered AAO/RA/001 (Revision M);
 
   - (b) parts of the passenger terminal building of the Airport that are delineated and shown coloured yellow in a set of 9 maps each of which is described as “Airport Authority Ordinance (Cap. 483) Map of the Restricted Area” and respectively numbered— (L.N. 169 of 2019; L.N. 232 of 2020)
 
