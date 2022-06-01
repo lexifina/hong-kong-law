@@ -506,6 +506,8 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (j) | to refuse to vary a disposal direction under section 40. (Added 19 of 2021 s. 88)
 
+79. | Small Unmanned Aircraft Order | A decision of the Director-General of Civil Aviation in a review under section 61(3). (Added L.N. 115 of 2021)
+
 (Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
 Note:
