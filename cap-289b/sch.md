@@ -364,4 +364,6 @@ Item | Periods | Rate of interest
 
 180. | On or after 3 May 2021 and before 7 June 2021 (L.N. 54 of 2021; L.N. 85 of 2021) | 0.0833% per annum
 
-181. | On or after 7 June 2021 (L.N. 85 of 2021) | 0.0500% per annum
+181. | On or after 7 June 2021 and before 6 June 2022 (L.N. 85 of 2021; L.N. 128 of 2022) | 0.0500% per annum
+
+182. | On or after 6 June 2022 (L.N. 128 of 2022) | 0.1333% per annum
