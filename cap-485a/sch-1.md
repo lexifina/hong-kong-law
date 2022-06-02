@@ -170,9 +170,19 @@ Investment of Scheme Funds
 
       - exempt authority (獲豁免當局) means—
 
-        - (a) the Government; or
+        - (aa) the Central People’s Government; (L.N. 130 of 2022)
 
-        - (b) the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66); or
+        - (aab) the People’s Bank of China; (L.N. 130 of 2022)
+
+        - (aac) the Agricultural Development Bank of China; (L.N. 130 of 2022)
+
+        - (aad) the China Development Bank; (L.N. 130 of 2022)
+
+        - (aae) The Export-Import Bank of China; (L.N. 130 of 2022)
+
+        - (a) the Government; (L.N. 130 of 2022)
+
+        - (b) the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66); (L.N. 130 of 2022)
 
         - (c) a company all of the shares of which are owned beneficially by the Government; or
 
