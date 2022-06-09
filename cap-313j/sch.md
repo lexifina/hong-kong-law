@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [para. 2]
 
-PORTS
+Ports
 
 Aberdeen
 
