@@ -62,6 +62,8 @@ Scheduled Infectious Diseases
 
 - 24A. Middle East Respiratory Syndrome (中東呼吸綜合症) (Added L.N. 104 of 2013)
 
+- 24B. Monkeypox (猴痘) (Added L.N. 135 of 2022)
+
 - 25. Mumps (流行性腮腺炎)
 
 - 25A. Novel influenza A infection (新型甲型流行性感冒) (Added L.N. 23 of 2014)
