@@ -64,6 +64,52 @@ List of Recognized Medical Qualifications
 
 - 27. | The United States of America | Yale University | Doctor of Medicine (4-year medical programme)
 
+- 28. | Australia | Australian National University | Medicinae ac Chirurgiae Doctoranda (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 29. | Australia | The University of Queensland | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 30. | Australia | University of Adelaide | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 31. | Australia | University of New South Wales | Doctor of Medicine; Bachelor of Medical Studies (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 32. | Australia | University of Sydney | Doctor of Medicine (4-year medical programme offered in Metropolitan Stream) (Added L.N. 138 of 2022)
+
+- 33. | Canada | University of Alberta | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 34. | Canada | University of Ottawa | Doctor of Medicine (4-year medical programme with medium of instruction in English) (Added L.N. 138 of 2022)
+
+- 35. | China | Fudan University | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 36. | South Africa | University of Cape Town | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 37. | The United Kingdom | Queen Mary University of London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme offered at London Campus) (Added L.N. 138 of 2022)
+
+- 38. | The United Kingdom | University of Birmingham | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 39. | The United Kingdom | University of Bristol | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 40. | The United Kingdom | University of Liverpool | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 41. | The United Kingdom | University of Manchester | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 42. | The United Kingdom | University of Nottingham | Bachelor of Medicine, Bachelor of Surgery; Bachelor of Medical Sciences (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 43. | The United Kingdom | University of Warwick | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 44. | The United States of America | Brown University | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 45. | The United States of America | Dartmouth College | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 46. | The United States of America | Icahn School of Medicine at Mount Sinai | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 47. | The United States of America | University of California, San Francisco | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 48. | The United States of America | University of Chicago | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 49. | The United States of America | University of Minnesota | Doctor of Medicine (4-year medical programme offered at Twin Cities Campus) (Added L.N. 138 of 2022)
+
+- 50. | The United States of America | University of Pittsburgh | Doctor of Medicine (4-year medical programme offered at Pittsburgh Campus) (Added L.N. 138 of 2022)
+
 - (Amended L.N. 56 of 2022)
 
 - Part 2
@@ -124,7 +170,53 @@ List of Recognized Medical Qualifications
 
 - 26. | The United States of America | Washington University in St. Louis | Doctor of Medicine (4-year medical programme)
 
-- 27. | The United States of America | Yale University | Doctor of Medicine (4-year medical programme)
+- 27. | The United States of America | Yale University | Doctor of Medicine (4-year medical programme) (Replaced L.N. 138 of 2022)
+
+- 28. | Australia | Australian National University | Medicinae ac Chirurgiae Doctoranda (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 29. | Australia | The University of Queensland | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 30. | Australia | University of Adelaide | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 31. | Australia | University of New South Wales | Doctor of Medicine; Bachelor of Medical Studies (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 32. | Australia | University of Sydney | Doctor of Medicine (4-year medical programme offered in Metropolitan Stream) (Added L.N. 138 of 2022)
+
+- 33. | Canada | University of Alberta | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 34. | Canada | University of Ottawa | Doctor of Medicine (4-year medical programme with medium of instruction in English) (Added L.N. 138 of 2022)
+
+- 35. | China | Fudan University | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 36. | South Africa | University of Cape Town | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 138 of 2022)
+
+- 37. | The United Kingdom | Queen Mary University of London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme offered at London Campus) (Added L.N. 138 of 2022)
+
+- 38. | The United Kingdom | University of Birmingham | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 39. | The United Kingdom | University of Bristol | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 40. | The United Kingdom | University of Liverpool | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 41. | The United Kingdom | University of Manchester | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 42. | The United Kingdom | University of Nottingham | Bachelor of Medicine, Bachelor of Surgery; Bachelor of Medical Sciences (5-year medical programme) (Added L.N. 138 of 2022)
+
+- 43. | The United Kingdom | University of Warwick | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 44. | The United States of America | Brown University | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 45. | The United States of America | Dartmouth College | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 46. | The United States of America | Icahn School of Medicine at Mount Sinai | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 47. | The United States of America | University of California, San Francisco | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 48. | The United States of America | University of Chicago | Doctor of Medicine (4-year medical programme) (Added L.N. 138 of 2022)
+
+- 49. | The United States of America | University of Minnesota | Doctor of Medicine (4-year medical programme offered at Twin Cities Campus) (Added L.N. 138 of 2022)
+
+- 50. | The United States of America | University of Pittsburgh | Doctor of Medicine (4-year medical programme offered at Pittsburgh Campus) (Added L.N. 138 of 2022)
 
 - (Amended L.N. 56 of 2022)
 
