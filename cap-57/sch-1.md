@@ -18,7 +18,9 @@ Continuous Employment
 
   - (2) If in any hour the employee is, for the whole or part of the hour—
 
-    - (a) incapable of work in consequence of sickness or injury; provided that any such incapability in excess of 48 hours is supported by a certificate issued by a registered medical practitioner, registered Chinese medicine practitioner or registered dentist; or (Amended 5 of 1995 s. 11; 16 of 2006 s. 10)
+    - (a) incapable of work in consequence of sickness or injury; provided that any such incapability in excess of 48 hours is supported by a certificate issued by a registered medical practitioner, registered Chinese medicine practitioner or registered dentist; (Amended 5 of 1995 s. 11; 16 of 2006 s. 10; 5 of 2022 s. 12)
+
+    - (ab) absent from work due to the employee’s compliance with a Cap. 599 requirement; or (Added 5 of 2022 s. 12)
 
     - (b) absent from work in circumstances such that, by law, mutual arrangement or the custom of the trade, business or undertaking, he is regarded as continuing in the employment of his employer for any purpose,
 
@@ -32,7 +34,7 @@ Continuous Employment
 
 - that hour shall not count as an hour in which he has worked, but the continuity of his period of employment shall not be treated as broken by any such absence.
 
-- 5. If a trade, business or undertaking is transferred from one person to another, the period of employment of an employee in the trade, business or undertaking at the time of the transfer shall count as a period of employment with the transferee, and the transfer shall not break the continuity of the period employment.
+- 5. If a trade, business or undertaking is transferred from one person to another, the period of employment of an employee in the trade, business or undertaking at the time of the transfer shall count as a period of employment with the transferee, and the transfer shall not break the continuity of the period of employment.
 
 - 6. For the purposes of this Schedule, any reference to hours in which an employee has worked shall mean hours in which he has worked for his employer whether or not the hours were worked under the same or another contract of employment with that employer and whether or not they were consecutive hours. (Replaced 41 of 1990 s. 23)
 
