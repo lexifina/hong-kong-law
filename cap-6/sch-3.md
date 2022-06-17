@@ -14,6 +14,6 @@ Qualifications for Appointment under Section 12(1A)
 
     - (ii) a solicitor within the meaning of section 2(1) of the Legal Practitioners Ordinance (Cap. 159); or
 
-    - (iii) a current member of The Hong Kong Institute of Chartered Secretaries; and (Amended L.N. 102 of 2007)
+    - (iii) a current member of The Hong Kong Chartered Governance Institute; and (Amended L.N. 102 of 2007; L.N. 55 of 2022)
 
   - (b) satisfy any reasonable conditions that the Official Receiver may impose and has made accessible to the public.
