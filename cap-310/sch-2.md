@@ -94,11 +94,17 @@ Item | Sum
 
 (ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $ | 1,350
 
-(b) on or after 19 July 2013—
+(b) on or after 19 July 2013 and before 17 June 2022— (Amended L.N. 136 of 2022)
 
 (i) where no election is made under section 6(5C) | $ | 250
 
 (ii) where an election is made under section 6(5C) (Added L.N. 91 of 2013) | $ | 750
+
+(c) on or after 17 June 2022—
+
+(i) where no election is made under section 6(5C) | $ | 150
+
+(ii) where an election is made under section 6(5C) (Added L.N. 136 of 2022) | $ | 450
 
 (Amended L.N. 57 of 1995; 3 of 1999 s. 17; L.N. 90 of 1999 and 44 of 1999 s. 29; 13 of 2010 s. 18) (Schedule 2 added 33 of 1994 s. 8)
 
