@@ -2,4 +2,4 @@ An Ordinance to provide for the recognition and enforcement in Hong Kong of judg
 
 [15 February 2022] L.N. 210 of 2021
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 3 of 2022)
