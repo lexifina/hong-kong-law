@@ -190,6 +190,14 @@ s-026R.md
 s-026S.md
 s-026T.md
 s-026U.md
+s-026V.md
+s-026W.md
+s-026X.md
+s-026Y.md
+s-026Z.md
+s-026ZA.md
+s-026ZB.md
+s-026ZC.md
 s-027.md
 s-028.md
 s-028A.md
@@ -431,6 +439,7 @@ sch-3C.md
 sch-3D.md
 sch-3E.md
 sch-3F.md
+sch-3G.md
 sch-4.md
 sch-5.md
 sch-6.md
@@ -501,3 +510,4 @@ sch-48.md
 sch-49.md
 sch-50.md
 sch-51.md
+sch-52.md
