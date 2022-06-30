@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 5]
 
-- PART I ACCIDENTS OR OCCURRENCES DIRECTLY AFFECTING PERSONS
+- Part I Accidents or Occurrences Directly Affecting Persons
 
   - 1. Any accident or occurrence in which a person—
 
@@ -24,7 +24,7 @@
 
     - (i) suffers injury, which is reported to the Authority, as a result of any action of an employee of the Authority, or of any action of a contractor or subcontractor of the Authority or its employee.
 
-- PART II ACCIDENTS OR OCCURRENCES AFFECTING OPERATIONS AND SAFETY
+- Part II Accidents or Occurrences Affecting Operations and Safety
 
   - 1. Any train collides with, or strikes against, another train or any other object.
 
@@ -52,7 +52,7 @@
 
   - 13. Any failure of the signaling system which endangers or could endanger the safe operation of the automated people mover.
 
-  - 14. Any failure of the electrical supply or traction power supply system which endangers or could endanger the safe operation of the automated peope mover.
+  - 14. Any failure of the electrical supply or traction power supply system which endangers or could endanger the safe operation of the automated people mover. (E.R. 3 of 2022)
 
   - 15. Any failure of the train control system, train door control system or platform screen door control system which endangers or could endanger the safe operation of the automated people mover.
 
