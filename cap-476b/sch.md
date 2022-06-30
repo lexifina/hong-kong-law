@@ -22,4 +22,10 @@
 
   - (b) certified true copies of which have been deposited in the Land Registry, the headquarters of the Agriculture, Fisheries and Conservation Department and the headquarters of the Marine Department. (L.N. 186 of 2019)
 
+- 7. South Lantau Marine Park That area delineated and coloured pink on the map (Plan No. MP/SL)—
+
+  - (a) that was approved on 10 August 2021 by the Chief Executive in Council; and
+
+  - (b) certified true copies of which have been deposited in the Land Registry, the headquarters of the Agriculture, Fisheries and Conservation Department and the headquarters of the Marine Department. (L.N. 51 of 2022)
+
 (L.N. 331 of 1999; 20 of 2002 s. 5)
