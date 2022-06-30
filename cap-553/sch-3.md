@@ -30,6 +30,8 @@ Item | Enactment | Provision
 
 11. | Business Registration Ordinance (Cap. 310) (Added 13 of 2010 s. 30) | Section 20
 
+12. | Ferry Services Ordinance (Cap. 104) (Added L.N. 213 of 2021) | Section 28(3)
+
 13. | Buildings Ordinance (Cap. 123) (Added L.N. 225 of 2021) | Sections 3(11), (11A)(b) and (11C), 8C(6)(b) and 35(1)(a) and (b)
 
 14. | Building (Administration) Regulations (Cap. 123 sub. leg. A) (Added L.N. 225 of 2021) | Regulation 6(1) (to the extent to which it relates to a document that is not one specified under regulation 6A(1)(a))
