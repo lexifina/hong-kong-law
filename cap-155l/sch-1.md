@@ -34,6 +34,8 @@ Specifications for Purposes of Certain Definitions in these Rules
 
   - 13. HKMC Annuity Limited (L.N. 222 of 2018)
 
+  - 14. Hong Kong Export Credit Insurance Corporation (L.N. 54 of 2022)
+
 - (E.R. 7 of 2020)
 
 - Part 2 Relevant CCF in respect of Certain Off-balance Sheet Exposures

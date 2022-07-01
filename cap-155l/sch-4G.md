@@ -1,6 +1,6 @@
 # Schedule 4G
 
-[ss. 43, 47 & 48]
+[ss. 2, 43, 47, 48, 70AAC & 117AD] (L.N. 54 of 2022)
 
 Deduction of Holdings where Authorized Institution has Significant LAC Investments in Financial Sector Entities that are outside Scope of Consolidation under Section 3C Requirement
 
