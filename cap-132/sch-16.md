@@ -2,9 +2,9 @@
 
 [s. 124J]
 
-Matters for which Secretary for Home Affairs may by Regulation Provide for Fees and Charges
+Matters for which Secretary for Culture, Sports and Tourism may by Regulation Provide for Fees and Charges
 
-(Schedule 16 added 78 of 1999 s. 7) (Format changes—E.R. 1 of 2012)
+(Schedule 16 added 78 of 1999 s. 7. Amended L.N. 144 of 2022) (Format changes—E.R. 1 of 2012)
 
 1. | Public swimming pools
 

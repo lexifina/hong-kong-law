@@ -56,7 +56,7 @@ Provisions with respect to the Authority and Committees and their Members
 
 - 6. Fees and allowances payable to members of Authority
 
-  - (1) The Authority may pay its members such fees and allowances as the Secretary for Food and Health, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
+  - (1) The Authority may pay its members such fees and allowances as the Secretary for Health, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
   - (2) The provisions of this paragraph shall not apply to any member of the Authority who is a public officer.
 
@@ -220,15 +220,15 @@ Provisions with respect to the Authority and Committees and their Members
 
 - 18. Fees and allowances payable to members of committee
 
-  - (1) The Authority may pay to the members of a committee such fees and allowances as the Secretary for Food and Health, after consulting with the Secretary for Financial Services and the Treasury, determines.
+  - (1) The Authority may pay to the members of a committee such fees and allowances as the Secretary for Health, after consulting with the Secretary for Financial Services and the Treasury, determines.
 
   - (2) The provisions of this paragraph shall—
 
     - (a) not apply in the case of any member of a committee who is a public officer; and
 
-    - (b) apply in the case of a member of a committee who is a member of the Authority only to such extent as the Secretary for Food and Health, after consulting with the Secretary for Financial Services and the Treasury, determines.
+    - (b) apply in the case of a member of a committee who is a member of the Authority only to such extent as the Secretary for Health, after consulting with the Secretary for Financial Services and the Treasury, determines.
 
-- (Amended L.N. 106 of 2002; L.N. 130 of 2007)
+- (Amended L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 - 19. Authority not to delegate certain functions and powers The Authority shall not delegate under section 6 any functions or powers imposed or conferred on it under paragraph 3, 6 or 10(1)(a), (4) or (5).
 

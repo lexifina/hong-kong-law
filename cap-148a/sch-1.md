@@ -2,7 +2,7 @@
 
 [reg. 2(1)]
 
-Form 1 Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”) Application for Lottery Licence
+Form 1 Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) Application for Lottery Licence
 
 BEFORE completing this application READ the Note below.
 
@@ -58,13 +58,13 @@ I certify that the information supplied by me in this application is to the best
 
 Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations. 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6. 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. 4. If the public officer decides to grant a licence, a fee of $3,165 will be payable to the public officer upon such grant, unless waived or reduced.
 
-(L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000 ; L.N. 92 of 2002; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000 ; L.N. 92 of 2002; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
 Form 2
 
-Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”) Application for Tombola Licence
+Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) Application for Tombola Licence
 
 BEFORE completing this application READ the Note below.
 
@@ -114,13 +114,13 @@ I certify that the information supplied by me in this application is to the best
 
 Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations. 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6. 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. 4. If the public officer decides to grant a licence, a fee of $13,100 will be payable to the public officer upon such grant, unless waived or reduced.
 
-(L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
 Form 3
 
-Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”) Application for Amusements with Prizes Licence
+Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) Application for Amusements with Prizes Licence
 
 BEFORE completing this application READ the Note below.
 
@@ -164,13 +164,13 @@ Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and 
 
 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. 4. If the public officer decides to grant a licence, a fee of $3,200 will be payable to the public officer upon such grant, unless waived or reduced.
 
-(L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
 Form 4
 
-Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”) Application for Trade Promotion Competition Licence
+Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) Application for Trade Promotion Competition Licence
 
 BEFORE completing this application READ the Note below.
 
@@ -248,13 +248,13 @@ Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and 
 
 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. 4. If the public officer decides to grant a licence, a fee of $1,590 will be payable to the public officer upon such grant.
 
-(L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
 Form 5
 
-Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”) Application for Mahjong/Tin Kau Licence
+Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) Application for Mahjong/Tin Kau Licence
 
 BEFORE completing this application READ the Note below.
 
@@ -320,13 +320,13 @@ Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and 
 
 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. 4. If the public officer decides to grant a licence, a fee of $1,145 per table will be payable to the public officer.
 
-(L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28; E.R. 7 of 2020)
+(L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28; E.R. 7 of 2020; L.N. 144 of 2022)
 
 _
 
 Form 6
 
-[reg. 3(1)] In support of Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+[reg. 3(1)] In support of Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”)
 
 BEFORE completing this form READ the Note below.
 
@@ -366,7 +366,7 @@ I certify that the information supplied by me in this form is to the best of my 
 
 Note: | 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies. 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-(L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28; E.R. 7 of 2020)
+(L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28; E.R. 7 of 2020; L.N. 144 of 2022)
 
 _
 
@@ -374,7 +374,7 @@ Form 7
 
 [reg. 3(2)]
 
-In support of Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+In support of Application No. . GAMBLING REGULATIONS To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”)
 
 BEFORE completing this form READ the Note below.
 
@@ -442,7 +442,7 @@ Position in Company
 
 Note: | 1. Complete this form only if you are making application on behalf of a company. 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-(L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28; 28 of 2012 ss. 912 & 920 and E.R. 1 of 2014)
+(L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28; 28 of 2012 ss. 912 & 920 and E.R. 1 of 2014; L.N. 144 of 2022)
 
 _
 
@@ -452,7 +452,7 @@ Form 8
 
 In support of Application No. . GAMBLING REGULATIONS
 
-To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+To the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”)
 
 BEFORE completing this form READ the Note below.
 
@@ -502,4 +502,4 @@ Position in club or society
 
 Note: | 1. Complete this form only if you are making application on behalf of a club or society. 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-(L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28; L.N. 144 of 2022)

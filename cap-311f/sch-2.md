@@ -366,9 +366,9 @@ Address of the Premises Where the Specified Process Is To Be Conducted:
 
 Dated this . day of . 19 .
 
-Copy to the Secretary for the Environment * Delete if not applicable.
+Copy to the Secretary for Environment and Ecology * Delete if not applicable.
 
-(L.N. 244 of 1989; L.N. 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002; L.N. 130 of 2007)
+(L.N. 244 of 1989; L.N. 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 _
 

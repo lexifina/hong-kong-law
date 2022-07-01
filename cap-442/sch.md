@@ -54,7 +54,7 @@ Item | Ordinance | Decision
 
 (d) | the cancellation or variation of any condition or the specification of a new condition in a licence or permit.
 
-10. | Gambling Ordinance (Cap. 148) | The decision under section 22 of the public officer appointed by the Secretary for Home Affairs as to the grant of a licence, the renewal of a licence, the imposition of conditions of a licence or the cancellation of a licence. (Amended 17 of 2011 s. 28)
+10. | Gambling Ordinance (Cap. 148) | The decision under section 22 of the public officer appointed by the Secretary for Home and Youth Affairs as to the grant of a licence, the renewal of a licence, the imposition of conditions of a licence or the cancellation of a licence. (Amended 17 of 2011 s. 28; L.N. 144 of 2022)
 
 11. | Chinese Temples Ordinance (Cap. 153) | (a) | The refusal by the Chinese Temples Committee under section 4 to grant an exemption from section 4(1).
 
@@ -252,7 +252,7 @@ Note: | The Board of Management of the Chinese Permanent Cemeteries is specified
 
 46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg. A) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
 
-47. | Karaoke Establishments Ordinance (Cap. 573) | A decision of the Secretary for Home Affairs or the Director of Food and Environmental Hygiene (as the case may be) under section 5, 6, 8, 9 or 10. (Added 22 of 2002 s. 22)
+47. | Karaoke Establishments Ordinance (Cap. 573) | A decision of the Secretary for Home and Youth Affairs or the Director of Food and Environmental Hygiene (as the case may be) under section 5, 6, 8, 9 or 10. (Added 22 of 2002 s. 22. Amended L.N. 144 of 2022)
 
 48. | Drug Dependent Persons Treatment and Rehabilitation Centres (Licensing) Ordinance (Cap. 566) | A determination or decision of the Director of Social Welfare under section 6(2)(b), 8(3)(b), 9(3)(b) or 14. (Added 10 of 2001 s. 33)
 

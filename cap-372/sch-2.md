@@ -42,7 +42,7 @@
 
   - 8. The provisions of paragraphs 1(2) and 2 of the Third Schedule shall apply to an agreement under paragraph 7 as they do to an agreement under paragraph 1(1) of that Schedule and any certificate under paragraph 2 of the Third Schedule as read with this paragraph shall, as soon as may be, be annexed to the said plans and be deemed to form part thereof:
 
-    - Provided that in applying the said paragraphs for the purposes of this paragraph references to the Secretary for Transport and Housing shall be deemed to be references to the Director of Lands. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
+    - Provided that in applying the said paragraphs for the purposes of this paragraph references to the Secretary for Transport and Logistics shall be deemed to be references to the Director of Lands. (Amended L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
   - 9. Nothing in this Schedule shall vest in the Corporation any rights which were not vested in the Government immediately prior to the appointed day and nothing in this Schedule shall affect the exercise by any person, other than the Government, of any rights in respect of the said land which he possessed immediately prior to the appointed day. (Amended 29 of 1998 s. 80)
 
@@ -104,7 +104,7 @@
 
   - 13. There shall be reserved to the Government in respect of all land within the said land occupied by the Mass Transit Railway Corporation immediately prior to the appointed day the right to lease such land or any part thereof to the Mass Transit Railway Corporation upon such terms and conditions as the Government may determine, so however that nothing in any such lease shall affect the right of the Corporation established under this Ordinance to use the surface of such land for railway or other purposes and to have reasonable support for such use.
 
-  - 14. The Corporation shall not withdraw or vary the terms of any licence granted prior to the appointed day by the Government to the Mass Transit Railway Corporation or to the Government of the United Kingdom entitling the Mass Transit Railway Corporation or the Government of the United Kingdom to use any part of the said land, or any arrangement made to that effect, without the written approval of the Secretary for Transport and Housing. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
+  - 14. The Corporation shall not withdraw or vary the terms of any licence granted prior to the appointed day by the Government to the Mass Transit Railway Corporation or to the Government of the United Kingdom entitling the Mass Transit Railway Corporation or the Government of the United Kingdom to use any part of the said land, or any arrangement made to that effect, without the written approval of the Secretary for Transport and Logistics. (Amended L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
   - 15. The Corporation may—
 

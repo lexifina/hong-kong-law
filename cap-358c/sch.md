@@ -8,7 +8,7 @@ FORM 1 | [reg. 3]
 
 NOTICE OF APPEAL
 
-Appeal against a requirement or decision of the Authority or Secretary for the Environment under the Water Pollution Control Ordinance
+Appeal against a requirement or decision of the Authority or Secretary for Environment and Ecology under the Water Pollution Control Ordinance
 
 To: The Chairman, Water Pollution Control Appeal Boards
 
@@ -40,7 +40,7 @@ Appellant.
 
 Dated . 19.
 
-(L.N. 106 of 2002; L.N. 130 of 2007) __________
+(L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022) __________
 
 FORM 2 | [reg. 4]
 

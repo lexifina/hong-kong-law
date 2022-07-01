@@ -36,7 +36,7 @@ Persons to which the Ordinance does not apply
 
 - (10) Any corporation registered under the Building Management Ordinance (Cap. 344). (Added L.N. 107 of 1973. Amended 27 of 1993 s. 48)
 
-- (11) Any association of owners or occupiers of premises which is approved for the purposes of this Ordinance by the Secretary for Home Affairs by notice in writing. (Added L.N. 107 of 1973. Amended L.N. 94 of 1974; L.N. 17 of 1982; L.N. 14 of 1983; L.N. 18 of 1983; L.N. 262 of 1989)
+- (11) Any association of owners or occupiers of premises which is approved for the purposes of this Ordinance by the Secretary for Home and Youth Affairs by notice in writing. (Added L.N. 107 of 1973. Amended L.N. 94 of 1974; L.N. 17 of 1982; L.N. 14 of 1983; L.N. 18 of 1983; L.N. 262 of 1989; L.N. 144 of 2022)
 
 - (12) Any association or group of persons which—
 

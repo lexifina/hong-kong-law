@@ -42,4 +42,4 @@ RULES FOR CONDUCT OF ELECTIONS
 
 - (Added 18 of 1988 s. 9)
 
-- 6. Election rules Subject to the provisions of section 7 of the Ordinance, the Executive Committee may make rules for the conduct of elections, and such rules shall require the prior approval of the Secretary for Home Affairs before coming into operation. (Amended L.N. 94 of 1974; L.N. 370 of 1981; L.N. 14 of 1983; L.N. 262 of 1989)
+- 6. Election rules Subject to the provisions of section 7 of the Ordinance, the Executive Committee may make rules for the conduct of elections, and such rules shall require the prior approval of the Secretary for Home and Youth Affairs before coming into operation. (Amended L.N. 94 of 1974; L.N. 370 of 1981; L.N. 14 of 1983; L.N. 262 of 1989; L.N. 144 of 2022)

@@ -18,7 +18,7 @@ to be used for
 
 THIS licence shall cease to have effect on
 
-THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
+THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
 
 CONDITIONS
 
@@ -66,13 +66,13 @@ CONDITIONS
 
 for the purpose of, among other things, enabling the copies to be made available for public inspection in such manner, and for such period, as the public officer thinks fit.
 
-Public officer appointed by the Secretary for Home Affairs
+Public officer appointed by the Secretary for Home and Youth Affairs
 
 The following note is not part of the conditions of the licence but is provided for your guidance.
 
 Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations. 2. You are warned that the conditions of the licence must be strictly complied with. A breach of a condition may result in the licence being revoked and in your prosecution for an offence. 3. This licence shall cease to have effect on the day named herein.
 
-(L.N. 164 of 1977; L.N. 92 of 2002; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 92 of 2002; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
@@ -96,7 +96,7 @@ to .
 
 THIS licence shall cease to have effect on
 
-THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
+THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
 
 CONDITIONS
 
@@ -124,7 +124,7 @@ CONDITIONS
 
 12. | The licensee shall keep a register of all persons employed at the licensed place who assist in the conduct of the games containing their names, descriptions, addresses and photographs and indicating their respective duties. The public officer and any police officer of or above the rank of Sergeant shall on request be permitted to inspect such register.
 
-Public officer appointed by the Secretary for Home Affairs
+Public officer appointed by the Secretary for Home and Youth Affairs
 
 The following note is not part of the conditions of the licence but is provided for your guidance.
 
@@ -148,7 +148,7 @@ Signed:
 
 Position in club or society:
 
-(L.N. 164 of 1977; 17 of 2011 s. 28)
+(L.N. 164 of 1977; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
@@ -172,7 +172,7 @@ THIS licence shall cease to have effect on
 
 or in the event of the cancellation, revocation or cessation of the licence in respect of the premises granted under section 4 of the Places of Public Entertainment Ordinance (Cap. 172), whichever is the sooner.
 
-THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
+THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
 
 CONDITIONS
 
@@ -192,13 +192,13 @@ CONDITIONS
 
 8. | A police officer of or above the rank of Sergeant shall during the time the amusement is provided, be permitted to enter the premises for the purpose of ensuring that the conditions of this licence are complied with.
 
-Public officer appointed by the Secretary for Home Affairs
+Public officer appointed by the Secretary for Home and Youth Affairs
 
 The following note is not part of the conditions of the licence but is provided for your guidance.
 
 Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations. 2. You are warned that the conditions of the licence must be strictly complied with. A breach of a condition may result in the licence being revoked and in your prosecution for an offence. 3. This licence shall cease to have effect on the day named herein. If you want to apply for the licence to be renewed you should inform the public officer in writing well before that date. The licence will in any case cease to have effect, if the premises cease to be licensed as a place of public entertainment.
 
-(L.N. 164 of 1977; 17 of 2011 s. 28)
+(L.N. 164 of 1977; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
@@ -220,7 +220,7 @@ as licensee to promote and conduct a trade promotion competition in support of t
 
 THIS licence shall cease to have effect on
 
-THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
+THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
 
 CONDITIONS
 
@@ -232,7 +232,7 @@ CONDITIONS
 
 4. | Within 10 days from the date of the drawing or judging of the competition, details of the results shall be published in one English and one Chinese newspaper circulating in Hong Kong, and a copy of the relevant newspaper cuttings shall be forwarded to the public officer.
 
-Public officer appointed by the Secretary for Home Affairs
+Public officer appointed by the Secretary for Home and Youth Affairs
 
 The following note is not part of the conditions of the licence and is provided for your guidance.
 
@@ -240,7 +240,7 @@ Note: | 1. You are advised to refer to section 22 of the Gambling Ordinance and 
 
 2. You are warned that the conditions of the licence must be strictly complied with. A breach of a condition may result in the licence being revoked and in your prosecution for an offence. 3. This licence shall cease to have effect on the day named herein.
 
-(L.N. 164 of 1977; L.N. 110 of 1980; L.N. 587 of 1995; L.N. 92 of 2002; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 110 of 1980; L.N. 587 of 1995; L.N. 92 of 2002; 17 of 2011 s. 28; L.N. 144 of 2022)
 
 _
 
@@ -260,7 +260,7 @@ and described as
 
 THIS licence shall cease to have effect on
 
-THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
+THIS licence is subject to the conditions set out herein and to any other conditions which the public officer appointed by the Secretary for Home and Youth Affairs (“the public officer”) may impose and notify in writing addressed to the licensee at his last known address.
 
 CONDITIONS
 
@@ -292,7 +292,7 @@ CONDITIONS
 
 14. | There shall be no communicating staircase between residential quarters and the licensed premises.
 
-Public officer appointed by the Secretary for Home Affairs
+Public officer appointed by the Secretary for Home and Youth Affairs
 
 The following note is not part of the conditions of the licence but is provided for your guidance.
 
@@ -318,4 +318,4 @@ Signed:
 
 Position Held:
 
-(L.N. 164 of 1977; L.N. 319 of 1994; L.N. 92 of 2002; 17 of 2011 s. 28)
+(L.N. 164 of 1977; L.N. 319 of 1994; L.N. 92 of 2002; 17 of 2011 s. 28; L.N. 144 of 2022)

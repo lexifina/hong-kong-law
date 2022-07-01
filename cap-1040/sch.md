@@ -16,7 +16,7 @@
 
   - (e) to establish, maintain and manage schools and other educational institutions in Hong Kong;
 
-  - (ea) to undertake charitable work outside Hong Kong with the prior approval of the Secretary for Home Affairs; (Added L.N. 36 of 2002)
+  - (ea) to undertake charitable work outside Hong Kong with the prior approval of the Secretary for Home and Youth Affairs; (Added L.N. 36 of 2002. Amended L.N. 144 of 2022)
 
   - (f) to establish and support, and to aid in the establishment and support of, any other charitable organizations formed for all or any of the objects of the corporation;
 
@@ -72,7 +72,7 @@
 
     - (a) any persons who, or firms or societies which, at the commencement* of this Ordinance are members of the Society by virtue of section 13(1) of the repealed Ordinance;
 
-    - (b) any person who, or firm or society which, subscribes to the funds of the corporation such sum as may be specified by the board from time to time and approved by the Secretary for Home Affairs, and whose name is entered with the consent of the board in the register of members to be kept by the corporation. (Amended L.N. 67 of 1985; L.N. 262 of 1989)
+    - (b) any person who, or firm or society which, subscribes to the funds of the corporation such sum as may be specified by the board from time to time and approved by the Secretary for Home and Youth Affairs, and whose name is entered with the consent of the board in the register of members to be kept by the corporation. (Amended L.N. 67 of 1985; L.N. 262 of 1989; L.N. 144 of 2022)
 
   - (3) The following persons, firms or societies shall be voting members of the corporation—
 
@@ -182,7 +182,7 @@
 
   - (2) The advisory board shall consist of not more than 15 persons of whom the following shall be ex officio members—
 
-    - (a) the Secretary for Home Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989)
+    - (a) the Secretary for Home and Youth Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989; L.N. 144 of 2022)
 
     - (b) the Secretary for Labour and Welfare; (Amended L.N. 18 of 1983; L.N. 106 of 2002; L.N. 130 of 2007)
 
@@ -216,7 +216,7 @@
 
     - (b) 4 members of the advisory board. (Replaced L.N. 253 of 1974)
 
-  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Labour and Welfare members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
+  - (7) The Secretary for Home and Youth Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home and Youth Affairs and the Secretary for Labour and Welfare members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
   - (8) The persons who are members of the Board of Direction of the Society at the commencement* of this Ordinance shall be members of the advisory board until 1 April 1974.
 
@@ -230,7 +230,7 @@
 
   - (2) Every question at any meeting of the advisory board shall be decided by a majority of votes of the members present and in the case of an equality of votes the chairman of the meeting shall have a casting vote.
 
-  - (3) In the absence of the Secretary for Home Affairs the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Labour and Welfare the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
+  - (3) In the absence of the Secretary for Home and Youth Affairs the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home and Youth Affairs and the Secretary for Labour and Welfare the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 - 20. Annual general meeting
 

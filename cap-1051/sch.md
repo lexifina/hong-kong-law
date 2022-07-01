@@ -36,7 +36,7 @@
 
   - (h) to collect and administer funds for the relief of any special distress among Chinese in Hong Kong;
 
-  - (i) to undertake other charitable work among Chinese outside Hong Kong with the approval of the Secretary for Home Affairs; (Amended L.N. 67 of 1985; L.N. 262 of 1989)
+  - (i) to undertake other charitable work among Chinese outside Hong Kong with the approval of the Secretary for Home and Youth Affairs; (Amended L.N. 67 of 1985; L.N. 262 of 1989; L.N. 144 of 2022)
 
   - (j) to maintain and manage homes for the aged;
 
@@ -104,7 +104,7 @@
 
     - (a) any persons or societies who at the commencement of this Ordinance were or were deemed to be members of the corporation during their life time or during the existence of the society, by virtue of section 3 of the repealed Ordinance;
 
-    - (b) any person or society who subscribes to the funds of the corporation such sum as may be specified by the board from time to time and approved by the Secretary for Home Affairs, and whose name is entered with the consent of the board in the register of members to be kept by the corporation. (Amended L.N. 67 of 1985; L.N. 262 of 1989)
+    - (b) any person or society who subscribes to the funds of the corporation such sum as may be specified by the board from time to time and approved by the Secretary for Home and Youth Affairs, and whose name is entered with the consent of the board in the register of members to be kept by the corporation. (Amended L.N. 67 of 1985; L.N. 262 of 1989; L.N. 144 of 2022)
 
   - (3) The following persons or societies shall be voting members of the corporation—
 
@@ -200,9 +200,9 @@
 
   - (2) The advisory board shall consist of not more than 14 persons of whom the following shall be ex officio members— (Amended L.N. 236 of 1974)
 
-    - (a) the Secretary for Home Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989)
+    - (a) the Secretary for Home and Youth Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989; L.N. 144 of 2022)
 
-    - (aa) the Secretary for Food and Health; (Added L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 106 of 2002; L.N. 130 of 2007)
+    - (aa) the Secretary for Health; (Added L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
     - (b) 1 person nominated by the Members of the Executive Council, other than Official Members, from among their own number; (Replaced 67 of 1987 s. 2. Amended 4 of 2000 s. 3)
 
@@ -232,7 +232,7 @@
 
     - (b) 4 members of the advisory board. (Replaced L.N. 236 of 1974)
 
-  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Food and Health shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Food and Health members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
+  - (7) The Secretary for Home and Youth Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Health shall be the chairman, and in the absence of both the Secretary for Home and Youth Affairs and the Secretary for Health members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 - 20. Procedure at meetings of advisory board
 
@@ -240,7 +240,7 @@
 
   - (2) Every question at any meeting of the advisory board shall be decided by a majority of votes of the members present and in the case of an equality of votes the chairman of the meeting shall have a casting vote.
 
-  - (3) In the absence of the Secretary for Home Affairs the Secretary for Food and Health shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Food and Health the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
+  - (3) In the absence of the Secretary for Home and Youth Affairs the Secretary for Health shall be the chairman, and in the absence of both the Secretary for Home and Youth Affairs and the Secretary for Health the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 - 21. Annual general meeting There shall be an annual general meeting of the voting members, to be held before 31 March in each year at such place as the board may decide, and 14 days’ notice of the meeting and of the time and place appointed for the same shall be given by the secretary to the voting members. Such notice shall be deemed to have been properly given to a voting member if sent by prepaid registered post to the last known address in Hong Kong of such member. Notification of the date and time of such meeting shall also be published in 2 editions of a Chinese newspaper circulating in Hong Kong.
 

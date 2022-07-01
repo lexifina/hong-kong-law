@@ -540,7 +540,7 @@ In pursuance of section 42B(3) of the Mental Health Ordinance I,
 
 ., *Medical Superintendent of
 
-Hospital/medical officer authorized by the Secretary for Food and Health, *recall/call you to
+Hospital/medical officer authorized by the Secretary for Health, *recall/call you to
 
 Hospital *forthwith/within . days of the date of service of this notice (See Note 1).
 
@@ -576,4 +576,4 @@ Notes: | 1. | A patient recalled/called to a mental hospital in pursuance of sec
 
 3. | Delete words in square brackets if the patient prior to conditional discharge was detained under a hospital order other than one endorsed under section 45(1A) of the Mental Health Ordinance.
 
-(L.N. 416 of 1989; 68 of 1990 s. 24; L.N. 585 of 1995;L.N. 106 of 2002; L.N. 130 of 2007)
+(L.N. 416 of 1989; 68 of 1990 s. 24; L.N. 585 of 1995;L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)

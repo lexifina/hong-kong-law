@@ -20,7 +20,7 @@ Item | Nominating authority | Minimum number of lay assessors | Maximum number o
 
 5. | The Law Society of Hong Kong | 2 | 10
 
-6. | Secretary for Food and Health | 2 | 10
+6. | Secretary for Health (Amended L.N. 144 of 2022) | 2 | 10
 
 Table 2
 

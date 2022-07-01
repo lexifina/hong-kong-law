@@ -308,7 +308,7 @@ NOTICE OF APPLICATION TO LANDS TRIBUNAL TO DETERMINE COMPENSATION UNDER ROADS (W
 
 * | I/We | of
 
-* * | The Secretary for Transport and Housing require(s) the Lands Tribunal to extend pursuant to section 28(2) of the Ordinance the period(s) specified by section 28(1) of the Ordinance. or
+* * | The Secretary for Transport and Logistics require(s) the Lands Tribunal to extend pursuant to section 28(2) of the Ordinance the period(s) specified by section 28(1) of the Ordinance. or
 
 * | require(s) the Lands Tribunal to review pursuant to section 23(2) of the Ordinance a decision of the Chief Executive made under section 23(1) of the Ordinance. or
 
@@ -326,7 +326,7 @@ Address for service of the applicant:
 
 * | Delete whichever is inapplicable.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 __________
 
@@ -362,11 +362,11 @@ Dated this . day of . 19 .
 
 (to be signed by or on behalf of the Applicant)
 
-To: | 1. 2. | The Registrar, Lands Tribunal. Secretary for Transport and Housing.
+To: | 1. 2. | The Registrar, Lands Tribunal. Secretary for Transport and Logistics.
 
 Address for service of the applicant: * Delete whichever does not apply.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007; L.N. 144 of 2022)
 
 __________
 

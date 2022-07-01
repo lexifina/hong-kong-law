@@ -508,19 +508,19 @@ Secretary for Education | Non-local Higher and Professional Education (Regulatio
 
 Secretary for Education | Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150), sections 4(1)(g) and (2), 5(2)(e), (ea), (g) and (l), 9(1), 12(b), 13(1), (2) and (3) and 17.
 
-Secretary for Home Affairs | Probate and Administration Ordinance (Cap. 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K.
+Secretary for Home and Youth Affairs | Probate and Administration Ordinance (Cap. 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K. (L.N. 144 of 2022)
 
-Secretary for Home Affairs | New Territories Ordinance (Cap. 97), sections 15, 16 and 18.
+Secretary for Home and Youth Affairs | New Territories Ordinance (Cap. 97), sections 15, 16 and 18. (L.N. 144 of 2022)
 
-Secretary for Home Affairs | Books Registration Ordinance (Cap. 142).
+Secretary for Culture, Sports and Tourism | Books Registration Ordinance (Cap. 142). (L.N. 144 of 2022)
 
-Secretary for Home Affairs | Hotel and Guesthouse Accommodation Ordinance (Cap. 349), sections 19(1) and 20(1), (2), (4)(b)(ii) and (5). (6 of 2020 s. 43)
+Secretary for Home and Youth Affairs | Hotel and Guesthouse Accommodation Ordinance (Cap. 349), sections 19(1) and 20(1), (2), (4)(b)(ii) and (5). (6 of 2020 s. 43; L.N. 144 of 2022)
 
-Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Cap. 376).
+Secretary for Home and Youth Affairs | Clubs (Safety of Premises) Ordinance (Cap. 376). (L.N. 144 of 2022)
 
-Secretary for Home Affairs | New Territories Land (Exemption) Ordinance (Cap. 452), section 12.
+Secretary for Home and Youth Affairs | New Territories Land (Exemption) Ordinance (Cap. 452), section 12. (L.N. 144 of 2022)
 
-Secretary for Home Affairs | Heung Yee Kuk Ordinance (Cap. 1097), section 3(2)(c) and (3) and paragraph 6 of the First Schedule and paragraph 5(2) of the Second Schedule.
+Secretary for Home and Youth Affairs | Heung Yee Kuk Ordinance (Cap. 1097), section 3(2)(c) and (3) and paragraph 6 of the First Schedule and paragraph 5(2) of the Second Schedule. (L.N. 144 of 2022)
 
 Secretary for Labour and Welfare | Employees Retraining Ordinance (Cap. 423), sections 9(2) and (3) and 14(4).
 
@@ -536,8 +536,8 @@ Secretary for Security | Auxiliary Medical Service Ordinance (Cap. 517).
 
 Secretary for Security | Civil Aid Service Ordinance (Cap. 518).
 
-Secretary for Transport and Housing | Merchant Shipping (Safety) Ordinance (Cap. 369), section 5.
+Secretary for Transport and Logistics | Merchant Shipping (Safety) Ordinance (Cap. 369), section 5. (L.N. 144 of 2022)
 
-Secretary for Transport and Housing | Roads (Works, Use and Compensation) Ordinance (Cap. 370).
+Secretary for Transport and Logistics | Roads (Works, Use and Compensation) Ordinance (Cap. 370). (L.N. 144 of 2022)
 
 (Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12)
