@@ -28,6 +28,8 @@ Non-delegable Functions of FRC
 
   - (k) to consult, under section 50D(1), the Financial Secretary with a view to recommending to the Chief Executive in Council that the rate or amount of a levy be reduced, and to recommend, under section 50D(3), to the Chief Executive in Council that the rate or amount of a levy be reduced;
 
+  - (ka) to appoint a person to be a member of the Advisory Committee under section 13A(1)(c) of Schedule 2; (Added 41 of 2021 s. 101)
+
   - (l) to establish a committee under section 14(1) of Schedule 2;
 
   - (m) to appoint a person to be the chairperson or a member of a committee under section 14(2) of Schedule 2;

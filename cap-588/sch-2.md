@@ -1,6 +1,8 @@
 # Schedule 2
 
-[ss. 7 & 61 & Schs. 3A & 4]
+[ss. 7, 10B & 61 & Schs. 3A & 4]
+
+(Amended 41 of 2021 s. 100)
 
 Financial Reporting Council
 
@@ -235,6 +237,58 @@ Financial Reporting Council
       - (a) a resolution is regarded as having been signed by an FRC member if a fax or electronic transmission of the resolution bears the signature of the member; and
 
       - (b) a resolution is regarded as made on the day on which the resolution is signed by the last person signing as an FRC member.
+
+- Part 4A Advisory Committee (Part 4A added 41 of 2021 s. 100)
+
+  - 13A. Composition of Advisory Committee
+
+    - (1) The Advisory Committee is to consist of the following members—
+
+      - (a) the chairperson of the AFRC;
+
+      - (b) the chief executive officer of the AFRC;
+
+      - (c) not more than 2 executive directors of the AFRC (other than the chief executive officer), as appointed by the AFRC; and
+
+      - (d) at least 8 but not more than 12 other persons, as appointed by the Financial Secretary after consulting the AFRC.
+
+    - (2) To avoid doubt, if a person ceases to be—
+
+      - (a) the chairperson of the AFRC;
+
+      - (b) the chief executive officer of the AFRC; or
+
+      - (c) for a person appointed by the AFRC under subsection (1)(c)—an executive director of the AFRC,
+
+    - the person ceases to be a member of the Advisory Committee.
+
+  - 13B. Resignation of members
+
+    - (1) A member of the Advisory Committee may at any time resign from office by written notice to the Financial Secretary or (for a member appointed under section 13A(1)(c) of this Schedule) to the AFRC.
+
+    - (2) A notice of resignation takes effect on—
+
+      - (a) the day on which the notice is received by the Financial Secretary or the AFRC (as appropriate); or
+
+      - (b) if a later day is specified in the notice—that later day.
+
+  - 13C. Removal of members The Financial Secretary may remove from office a member of the Advisory Committee appointed under section 13A(1)(c) or (d) of this Schedule by written notice to the member.
+
+  - 13D. Meetings of Advisory Committee
+
+    - (1) A meeting of the Advisory Committee may be convened by—
+
+      - (a) the chairperson of the AFRC;
+
+      - (b) the chief executive officer of the AFRC; or
+
+      - (c) any other 3 members of the Advisory Committee.
+
+    - (2) At a meeting of the Advisory Committee—
+
+      - (a) if the chairperson of the AFRC is present, the chairperson is to preside over the meeting; or
+
+      - (b) if the chairperson of the AFRC is not present, the members of the Advisory Committee present are to choose one among themselves to preside over the meeting.
 
 - Part 5 Miscellaneous
 
