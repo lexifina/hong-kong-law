@@ -4,8 +4,6 @@
 
 Savings and Transitional Provisions
 
-(Not yet in operation)
-
 - Part 1 Interpretation
 
   - 1. Interpretation of Schedule 10 In this Schedule—
@@ -42,15 +40,27 @@ Savings and Transitional Provisions
 
 - Part 2 Travel Agents
 
+- (Not yet in operation)
+
   - Division 1 Interpretation
 
-    - 2. Interpretation of Part 2 In this Part—
+  - (Not yet in operation)
+
+    - 2. Interpretation of Part 2
+
+    - (Not yet in operation)
+
+    - In this Part—
 
       - commencement date (生效日期) means the commencement date of this Part.
 
   - Division 2 Licensing
 
+  - (Not yet in operation)
+
     - 3. Holder of pre-existing licence
+
+    - (Not yet in operation)
 
       - (1) If a person holds a pre-existing licence—
 
@@ -74,6 +84,8 @@ Savings and Transitional Provisions
 
     - 4. Outstanding application for licence under repealed Ordinance
 
+    - (Not yet in operation)
+
       - (1) If—
 
         - (a) a person makes an application under section 10 of the repealed Ordinance for a licence; and
@@ -85,6 +97,8 @@ Savings and Transitional Provisions
       - (2) If the Authority is satisfied that the application complies with the repealed Ordinance, the Authority may issue a travel agent licence and a business permit to the person and, accordingly, the person is taken to be a licensed travel agent.
 
     - 5. Outstanding application for renewal of pre-existing licence
+
+    - (Not yet in operation)
 
       - (1) If—
 
@@ -98,7 +112,11 @@ Savings and Transitional Provisions
 
   - Division 3 Revocation and Suspension
 
+  - (Not yet in operation)
+
     - 6. Decision about revocation or suspension
+
+    - (Not yet in operation)
 
       - (1) This section applies if, immediately before the commencement date, the Registrar is dealing with a matter under the repealed Ordinance but has not decided whether to revoke or suspend a pre-existing licence.
 
@@ -113,6 +131,8 @@ Savings and Transitional Provisions
       - (4) A pre-existing licence revoked or suspended under this section is taken to be a travel agent licence revoked or suspended under this Ordinance.
 
     - 7. Suspension in force immediately before commencement date
+
+    - (Not yet in operation)
 
       - (1) If the suspension of a previous licence is in force immediately before the commencement date, the suspension is to continue in force for the remainder of the suspension period as if this Ordinance had not been enacted.
 
@@ -138,11 +158,19 @@ Savings and Transitional Provisions
 
   - Division 4 Appeals
 
-    - 8. Interpretation of Division 4 In this Division—
+  - (Not yet in operation)
+
+    - 8. Interpretation of Division 4
+
+    - (Not yet in operation)
+
+    - In this Division—
 
       - specified decision (指明決定) means a decision of the Registrar referred to in section 32(a), (b), (c) or (d) of the repealed Ordinance.
 
     - 9. Appeal not made to Administrative Appeals Board before commencement date
+
+    - (Not yet in operation)
 
       - (1) If—
 
@@ -156,7 +184,11 @@ Savings and Transitional Provisions
 
       - (2) If the person makes the appeal to the Administrative Appeals Board under subsection (1), the Board is to deal with the appeal as if this Ordinance had not been enacted.
 
-    - 10. Appeal not yet determined by Administrative Appeals Board If an appeal against a specified decision—
+    - 10. Appeal not yet determined by Administrative Appeals Board
+
+    - (Not yet in operation)
+
+    - If an appeal against a specified decision—
 
       - (a) has been made to the Administrative Appeals Board under section 32 of the repealed Ordinance; but
 
@@ -165,6 +197,8 @@ Savings and Transitional Provisions
     - on and after that date, the Board is to continue to deal with the appeal as if this Ordinance had not been enacted.
 
     - 11. Determination of appeal on or after commencement date
+
+    - (Not yet in operation)
 
       - (1) If a specified decision is confirmed by the Administrative Appeals Board on or after the commencement date under section 9 or 10 of this Schedule, the Authority must act in accordance with the specified decision in accordance with the repealed Ordinance when the determination of the Administrative Appeals Board takes effect.
 
@@ -200,7 +234,11 @@ Savings and Transitional Provisions
 
   - Division 5 Licence Subject to Conditions
 
+  - (Not yet in operation)
+
     - 12. Licence is subject to conditions imposed by Authority
+
+    - (Not yet in operation)
 
       - (1) This section applies to—
 
@@ -224,17 +262,31 @@ Savings and Transitional Provisions
 
 - Part 3 Tourist Guides and Tour Escorts
 
+- (Not yet in operation)
+
   - Division 1 Interpretation
 
-    - 13. Interpretation of Part 3 In this Part—
+  - (Not yet in operation)
+
+    - 13. Interpretation of Part 3
+
+    - (Not yet in operation)
+
+    - In this Part—
 
       - commencement date (生效日期) means the commencement date of this Part.
 
   - Division 2 Licensing
 
+  - (Not yet in operation)
+
     - Subdivision 1 Holder of Pre-existing Tourist Guide Pass or Pre-existing Tour Escort Pass
 
+    - (Not yet in operation)
+
       - 14. Holder of pre-existing tourist guide pass
+
+      - (Not yet in operation)
 
         - (1) If a person holds a pre-existing tourist guide pass, on and after the commencement date, the pass is taken to be a tourist guide licence and, accordingly, the person is taken to be a licensed tourist guide until the expiry of—
 
@@ -248,6 +300,8 @@ Savings and Transitional Provisions
 
       - 15. Holder of pre-existing tour escort pass
 
+      - (Not yet in operation)
+
         - (1) If a person holds a pre-existing tour escort pass, on and after the commencement date, the pass is taken to be a tour escort licence and, accordingly, the person is taken to be a licensed tour escort until the expiry of—
 
           - (a) the pass; or
@@ -260,7 +314,11 @@ Savings and Transitional Provisions
 
     - Subdivision 2 Outstanding Application for Tourist Guide Pass or Tour Escort Pass
 
+    - (Not yet in operation)
+
       - 16. Outstanding application for tourist guide pass
+
+      - (Not yet in operation)
 
         - (1) If—
 
@@ -274,6 +332,8 @@ Savings and Transitional Provisions
 
       - 17. Outstanding application for tour escort pass
 
+      - (Not yet in operation)
+
         - (1) If—
 
           - (a) a person makes an application to the Travel Industry Council for a tour escort pass; and
@@ -286,7 +346,11 @@ Savings and Transitional Provisions
 
     - Subdivision 3 Outstanding Application for Renewal of Pre-existing Tourist Guide Pass or Pre-existing Tour Escort Pass
 
+    - (Not yet in operation)
+
       - 18. Outstanding application for renewal of pre-existing tourist guide pass
+
+      - (Not yet in operation)
 
         - (1) If—
 
@@ -300,6 +364,8 @@ Savings and Transitional Provisions
 
       - 19. Outstanding application for renewal of pre-existing tour escort pass
 
+      - (Not yet in operation)
+
         - (1) If—
 
           - (a) a person makes an application to the Travel Industry Council for the renewal of a pre-existing tour escort pass; and
@@ -312,7 +378,11 @@ Savings and Transitional Provisions
 
   - Division 3 Revocation and Suspension
 
+  - (Not yet in operation)
+
     - 20. Decision of revocation or suspension not yet made before commencement date
+
+    - (Not yet in operation)
 
       - (1) This section applies if, immediately before the commencement date, the Travel Industry Council is dealing with a matter but has not decided whether to revoke or suspend a pre-existing tourist guide pass or pre-existing tour escort pass.
 
@@ -323,6 +393,8 @@ Savings and Transitional Provisions
       - (4) A pre-existing tour escort pass revoked or suspended under this section is taken to be a tour escort licence revoked or suspended under this Ordinance.
 
     - 21. Suspension in force immediately before commencement date
+
+    - (Not yet in operation)
 
       - (1) If the suspension of a tourist guide pass or tour escort pass is in force immediately before the commencement date, the suspension is to continue in force for the remainder of the suspension period as if this Ordinance had not been enacted.
 
@@ -348,7 +420,11 @@ Savings and Transitional Provisions
 
   - Division 4 Appeals
 
+  - (Not yet in operation)
+
     - 22. Appeal not made to Appeal Board of Travel Industry Council before commencement date
+
+    - (Not yet in operation)
 
       - (1) Despite section 23 of the Interpretation and General Clauses Ordinance (Cap. 1), if—
 
@@ -363,6 +439,8 @@ Savings and Transitional Provisions
       - (2) If the person makes the appeal under subsection (1), Part 8, with necessary modifications, applies in relation to the appeal.
 
     - 23. Appeal not yet determined by Appeal Board of Travel Industry Council
+
+    - (Not yet in operation)
 
       - (1) This section applies if—
 
@@ -384,6 +462,8 @@ Savings and Transitional Provisions
 
     - 24. Determination of appeal on or after commencement date
 
+    - (Not yet in operation)
+
       - (1) If a decision not to issue or renew a tourist guide pass or tour escort pass is confirmed by an appeal board on or after the commencement date under Part 8, the Authority must act in accordance with the decision by reference to the applicable rules when the decision of the appeal board takes effect.
 
       - (2) If a decision not to issue or renew a tourist guide pass is reversed by an appeal board on or after the commencement date under Part 8, the Authority must issue a tourist guide licence to the appellant and, accordingly, the appellant is taken to be a licensed tourist guide.
@@ -392,7 +472,11 @@ Savings and Transitional Provisions
 
   - Division 5 Application for Renewal of Pre-existing Pass Taken to be Licence etc.
 
+  - (Not yet in operation)
+
     - 25. Application for renewal of pre-existing tourist guide pass taken to be tourist guide licence etc.
+
+    - (Not yet in operation)
 
       - (1) In this section—
 
@@ -424,6 +508,8 @@ Savings and Transitional Provisions
 
     - 26. Application for renewal of pre-existing tour escort pass taken to be tour escort licence etc.
 
+    - (Not yet in operation)
+
       - (1) In this section—
 
         - specified licence (指明牌照) means—
@@ -452,7 +538,11 @@ Savings and Transitional Provisions
 
   - Division 6 Licence Subject to Conditions
 
+  - (Not yet in operation)
+
     - 27. Licence is subject to conditions imposed by Authority
+
+    - (Not yet in operation)
 
       - (1) This section applies to—
 
