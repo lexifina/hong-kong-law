@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 4A] (L.N. 80 of 1996)
 
-ITEMS EXEMPT FROM SCHEDULE 3
+Items Exempt from Schedule 3
 
 Item | Parts of Schedule 3 from which item is exempt
 

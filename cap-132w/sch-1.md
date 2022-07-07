@@ -4,13 +4,11 @@
 
 Schs. 1A & 2] (L.N. 80 of 1996; L.N. 69 of 2008; L.N. 90 of 2014)
 
-(In this Schedule reference to proportion or percentage
+(In this Schedule reference to proportion or percentage means proportion or percentage by weight)
 
-means proportion or percentage by weight)
+- Part IA Good Manufacturing Practice
 
-- PART IA GOOD MANUFACTURING PRACTICE
-
-  - For the purposes of this Schedule, “good manufacturing practice” (優良製造規範) includes a manufacturing practice which complies with the following requirements—
+  - For the purposes of this Schedule, good manufacturing practice (優良製造規範) includes a manufacturing practice which complies with the following requirements—
 
     - (a) the quantity of the additive added to food is limited to the lowest possible level necessary to accomplish its desired effect;
 
@@ -18,9 +16,9 @@ means proportion or percentage by weight)
 
     - (c) the additive is prepared and handled in the same way as a food ingredient.
 
-- (L.N. 207 of 2004)
+- (Part IA added L.N. 207 of 2004)
 
-- PART I COMPOSITION OF FOODS AND DRUGS OTHER THAN MILK, MILK PRODUCTS AND INFANT FORMULAE (L.N. 90 of 2014)
+- Part I Composition of Foods and Drugs other than Milk, Milk Products and Infant Formulae (L.N. 90 of 2014)
 
   - 1. Drugs and ingredients and component parts of drugs shall conform to the standards specified therefor respectively in the British Pharmacopoeia or British Pharmacopoeia Codex.
 
@@ -42,9 +40,9 @@ means proportion or percentage by weight)
 
     - (a) Residual carbon dioxide— A sample of 2 grams of baking powder shall be treated with 25 millilitres of water and evaporated to dryness on a boiling water bath and subsequently treated with a further 25 millilitres of water and evaporated in like manner. The weight of the residual carbon dioxide is the weight evolved when the sample so treated is further treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling or by means of reduced pressure. (L.N. 207 of 2004)
 
-    - (b) Available carbon dioxide— The weight of available carbon dioxide is the difference between the total weight of carbon dioxide and the weight of the residual carbon dioxide obtained when the sample is treated in the manner prescribed in paragraph (a), the total weight of carbon dioxide being determined by ascertaining the weight evolved when a similar sample of the baking powder is treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling for 5 minutes or by means of reduced pressure.
+    - (b) Available carbon dioxide— The weight of available carbon dioxide is the difference between the total weight of carbon dioxide and the weight of the residual carbon dioxide obtained when the sample is treated in the manner prescribed in subparagraph (a), the total weight of carbon dioxide being determined by ascertaining the weight evolved when a similar sample of the baking powder is treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling for 5 minutes or by means of reduced pressure. (E.R. 3 of 2022)
 
-- PART II COMPOSITION OF MILK AND MILK PRODUCTS
+- Part II Composition of Milk and Milk Products
 
   - 9. Milk and reconstituted milk shall contain not less than 3.25% of milk fat, and the quantity of milk solids, other than milk fat, present in milk and reconstituted milk shall not be less than 8.5%.
 
@@ -132,15 +130,15 @@ means proportion or percentage by weight)
 
   - 23. Ghee shall be made from milk (including buffalo milk) and shall contain no fat other than that derived from such milk.
 
-  - 24. Ice cream shall contain not less than 5% fat, 10% sugar and 7 1 2 % milk solids other than fat:
+  - 24. Ice cream shall contain not less than 5% fat, 10% sugar and 7 1/2% milk solids other than fat:
 
-    - Provided that ice cream containing any fruit, fruit pulp or fruit puree shall either conform to the aforesaid standard or, alternatively, the total content of fat, sugar and milk solids other than fat shall not be less than 25% of the ice cream including the fruit, fruit pulp or fruit puree, as the case may be, and such total content of fat, sugar and milk solids other than fat shall include not less than 7 1 2 % fat, 10% sugar and 2% milk solids other than fat.
+    - Provided that ice cream containing any fruit, fruit pulp or fruit puree shall either conform to the aforesaid standard or, alternatively, the total content of fat, sugar and milk solids other than fat shall not be less than 25% of the ice cream including the fruit, fruit pulp or fruit puree, as the case may be, and such total content of fat, sugar and milk solids other than fat shall include not less than 7 1/2% fat, 10% sugar and 2% milk solids other than fat.
 
-  - For the purpose of the aforesaid standards relating to ice cream, “sugar” (糖) means sucrose, sugar or the solids of any sweetening material derived from starch, provided that no ice cream shall contain less than 7 1 2 % sucrose.
+  - For the purpose of the aforesaid standards relating to ice cream, sugar (糖) means sucrose, sugar or the solids of any sweetening material derived from starch, provided that no ice cream shall contain less than 7 1/2% sucrose.
 
-- PART III ADDITIVES IN CERTAIN MILK PRODUCTS
+- Part III Additives in Certain Milk Products
 
-  - Division 1 Additives in sweetened condensed or evaporated milk, sweetened condensed skimmed or separated milk and unsweetened condensed or evaporated milk
+  - Division 1 Additives in Sweetened Condensed or Evaporated Milk, Sweetened Condensed Skimmed or Separated Milk and Unsweetened Condensed or Evaporated Milk
 
   - Item | Additive | Maximum Level
 
@@ -186,149 +184,149 @@ means proportion or percentage by weight)
 
   - 16. | Lecithins | Limited by good manufacturing practice
 
-- Division 2 Additives in butter
+  - Division 2 Additives in Butter
 
-- Item | Additive | Maximum Level
+  - Item | Additive | Maximum Level
 
-- Acidity Regulators
+  - Acidity Regulators
 
-- 1. | Sodium phosphates | 2 grams per kilogram
+  - 1. | Sodium phosphates | 2 grams per kilogram
 
-- 2. | Sodium carbonate | } | Limited by good manufacturing practice
+  - 2. | Sodium carbonate | Limited by good manufacturing practice
 
-- 3. | Sodium hydrogen carbonate
+  - 3. | Sodium hydrogen carbonate
 
-- 4. | Sodium hydroxide
+  - 4. | Sodium hydroxide
 
-- 5. | Calcium hydroxide
+  - 5. | Calcium hydroxide
 
-- Division 3 Additives in cream
+  - Division 3 Additives in Cream
 
-- Item | Additive | Maximum Level
+  - Item | Additive | Maximum Level
 
-- Stabilizers
+  - Stabilizers
 
-- 1. | Calcium carbonates | } | Limited by good manufacturing practice
+  - 1. | Calcium carbonates | Limited by good manufacturing practice
 
-- 2. | Sodium lactate
+  - 2. | Sodium lactate
 
-- 3. | Potassium lactate
+  - 3. | Potassium lactate
 
-- 4. | Calcium lactate
+  - 4. | Calcium lactate
 
-- 5. | Sodium citrates
+  - 5. | Sodium citrates
 
-- 6. | Potassium citrates
+  - 6. | Potassium citrates
 
-- 7. | Calcium citrates
+  - 7. | Calcium citrates
 
-- 8. | Calcium sulphate
+  - 8. | Calcium sulphate
 
-- 9. | Sodium phosphates | } | 2 grams per kilogram, whether the additives are used singly or in combination, expressed as phosphorus pentaoxide (P2O5)
+  - 9. | Sodium phosphates | 2 grams per kilogram, whether the additives are used singly or in combination, expressed as phosphorus pentaoxide (P2O5)
 
-- 10. | Potassium phosphates
+  - 10. | Potassium phosphates
 
-- 11. | Calcium phosphates
+  - 11. | Calcium phosphates
 
-- 12. | Diphosphates
+  - 12. | Diphosphates
 
-- 13. | Triphosphates
+  - 13. | Triphosphates
 
-- 14. | Polyphosphates
+  - 14. | Polyphosphates
 
-- Acidity Regulators
+  - Acidity Regulators
 
-- 15. | Sodium carbonates | } | Limited by good manufacturing practice
+  - 15. | Sodium carbonates | Limited by good manufacturing practice
 
-- 16. | Potassium carbonates
+  - 16. | Potassium carbonates
 
-- 17. | Lactic acid (L, D, and DL-)
+  - 17. | Lactic acid (L, D, and DL-)
 
-- 18. | Citric acid
+  - 18. | Citric acid
 
-- Thickeners and Emulsifiers
+  - Thickeners and Emulsifiers
 
-- 19. | Lecithins | } | Limited by good manufacturing practice
+  - 19. | Lecithins | Limited by good manufacturing practice
 
-- 20. | Alginic acid
+  - 20. | Alginic acid
 
-- 21. | Sodium alginate
+  - 21. | Sodium alginate
 
-- 22. | Potassium alginate
+  - 22. | Potassium alginate
 
-- 23. | Ammonium alginate
+  - 23. | Ammonium alginate
 
-- 24. | Calcium alginate
+  - 24. | Calcium alginate
 
-- 25. | Agar
+  - 25. | Agar
 
-- 26. | Carrageenan and its sodium, potassium and ammonium salts
+  - 26. | Carrageenan and its sodium, potassium and ammonium salts
 
-- 27. | Carob bean gum
+  - 27. | Carob bean gum
 
-- 28. | Guar gum
+  - 28. | Guar gum
 
-- 29. | Gum Arabic
+  - 29. | Gum Arabic
 
-- 30. | Xanthan gum
+  - 30. | Xanthan gum
 
-- 31. | Gellan gum
+  - 31. | Gellan gum
 
-- 32. | Polyoxyethylene (20) sorbitan monolaurate | } | 1 gram per kilogram
+  - 32. | Polyoxyethylene (20) sorbitan monolaurate | 1 gram per kilogram
 
-- 33. | Polyoxyethylene (20) sorbitan monooleate
+  - 33. | Polyoxyethylene (20) sorbitan monooleate
 
-- 34. | Polyoxyethylene (20) sorbitan monopalmitate
+  - 34. | Polyoxyethylene (20) sorbitan monopalmitate
 
-- 35. | Polyoxyethylene (20) sorbitan monostearate
+  - 35. | Polyoxyethylene (20) sorbitan monostearate
 
-- 36. | Polyoxyethylene (20) sorbitan tristearate
+  - 36. | Polyoxyethylene (20) sorbitan tristearate
 
-- 37. | Pectins | } | Limited by good manufacturing practice
+  - 37. | Pectins | Limited by good manufacturing practice
 
-- 38. | Cellulose
+  - 38. | Cellulose
 
-- 39. | Methyl cellulose
+  - 39. | Methyl cellulose
 
-- 40. | Hydroxypropyl cellulose
+  - 40. | Hydroxypropyl cellulose
 
-- 41. | Hydroxypropyl methyl cellulose
+  - 41. | Hydroxypropyl methyl cellulose
 
-- 42. | Methyl ethyl cellulose
+  - 42. | Methyl ethyl cellulose
 
-- 43. | Sodium carboxymethyl cellulose
+  - 43. | Sodium carboxymethyl cellulose
 
-- 44. | Mono- and diglycerides of fatty acids
+  - 44. | Mono- and diglycerides of fatty acids
 
-- 45. | Acetic and fatty acid esters of glycerol
+  - 45. | Acetic and fatty acid esters of glycerol
 
-- 46. | Lactic and fatty acid esters of glycerol
+  - 46. | Lactic and fatty acid esters of glycerol
 
-- 47. | Citric and fatty acid esters of glycerol
+  - 47. | Citric and fatty acid esters of glycerol
 
-- 48. | Potassium chloride
+  - 48. | Potassium chloride
 
-- 49. | Calcium chloride
+  - 49. | Calcium chloride
 
-- 50. | Monostarch phosphate | } | Limited by good manufacturing practice
+  - 50. | Monostarch phosphate | Limited by good manufacturing practice
 
-- 51. | Distarch phosphate esterified with sodium trimetaphosphate; distarch phosphate esterified with phosphorus oxychloride
+  - 51. | Distarch phosphate esterified with sodium trimetaphosphate; distarch phosphate esterified with phosphorus oxychloride
 
-- 52. | Phosphated distarch phosphate
+  - 52. | Phosphated distarch phosphate
 
-- 53. | Acetylated distarch phosphate
+  - 53. | Acetylated distarch phosphate
 
-- 54. | Starch acetate esterified with acetic anhydride
+  - 54. | Starch acetate esterified with acetic anhydride
 
-- 55. | Acetylated distarch adipate
+  - 55. | Acetylated distarch adipate
 
-- 56. | Hydroxypropyl starch
+  - 56. | Hydroxypropyl starch
 
-- 57. | Hydroxypropyl distarch phosphate
+  - 57. | Hydroxypropyl distarch phosphate
 
-- 58. | Starch sodium octenyl succinate
+  - 58. | Starch sodium octenyl succinate
 
-- (L.N. 207 of 2004)
+  - (L.N. 207 of 2004)
 
 - Part IV Energy and Nutritional Composition of Infant Formulae
 

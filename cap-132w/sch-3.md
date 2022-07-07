@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [regs. 4A & 5 & Schs. 4 & 5] (L.N. 80 of 1996; L.N. 69 of 2008)
 
-MARKING AND LABELLING OF PREPACKAGED FOODS
+Marking and Labelling of Prepackaged Foods
 
 - 1. Name or designation
 
@@ -10,9 +10,9 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
   - (2) The food name or designation shall not be false, misleading or deceptive in any respect as to the nature of the food. (L.N. 80 of 1996)
 
-  - (3) If any brand name, including any fancy name, or any trade mark would be likely to mislead a purchaser in any respect as to the nature of the food, such name or mark shall be immediately followed by the word “Brand” (牌子) or the letters “TM”(商標), as appropriate, printed in legible letters or characters of not less than 3 mm in height.
+  - (3) If any brand name, including any fancy name, or any trade mark would be likely to mislead a purchaser in any respect as to the nature of the food, such name or mark shall be immediately followed by the word “Brand” (牌子) or the letters “TM” (商標), as appropriate, printed in legible letters or characters of not less than 3 mm in height.
 
-  - (4) Any customary or traditional name in use in Hong Kong before the commencement of these regulations and indicative of a particular food may continue to be used as the name of that food, unless and until the Authority by notice in the Gazette prohibits such use.
+  - (4) Any customary or traditional name in use in Hong Kong before the commencement* of these regulations and indicative of a particular food may continue to be used as the name of that food, unless and until the Authority by notice in the Gazette prohibits such use.
 
   - (5) Where a purchaser could be misled by the omission of an indication—
 
@@ -21,6 +21,10 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
     - (b) that a food has been dried, freeze-dried, frozen, concentrated or smoked, or has been subjected to any other treatment,
 
   - the name of the food shall include or be accompanied by such an indication.
+
+- Editorial Note:
+
+- * Commencement date: 11 November 1960.
 
 - 2. List of ingredients
 
@@ -62,7 +66,7 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
     - (c)
 
-      - “ingredient” (配料) does not include a nutrient. (L.N. 69 of 2008)
+      - ingredient (配料) does not include a nutrient. (L.N. 69 of 2008)
 
   - (4E)
 
@@ -108,7 +112,7 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
 - 3. List of ingredients of exempt food If any prepackaged food is marked or labelled with a list of ingredients notwithstanding that it is exempted from the requirements of section 2, such list shall conform in all respects with the requirements of this Schedule. (L.N. 69 of 2008)
 
-- 4. Indication of “best before” or “use by” date
+- 4. Indication of “best before” or “use by”
 
   - (1) Prepackaged food shall be legibly marked or labelled with the appropriate durability indication, that is to say—
 
@@ -152,9 +156,7 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
 - (L.N. 80 of 1996; 10 of 2008 s. 57)
 
-- 5. Statement of special conditions for
-
-- storage or instructions for use
+- 5. Statement of special conditions for storage or instructions for use
 
   - (1) Where special conditions are required for the storage of a prepackaged food, a statement of such conditions shall be legibly marked or labelled on the food.
 

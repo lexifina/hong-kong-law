@@ -4,6 +4,8 @@
 
 Items Exempt from Part 1 of Schedule 5
 
+(Format changes—E.R. 2 of 2014)
+
 - Part 1 Items Exempt from Part 1 of Schedule 5 under Regulation 4B(2)(a) of these Regulations
 
   - 1. Prepackaged food with an alcoholic strength by volume of more than 1.2% as determined in the manner described in the definition of alcoholic strength in section 53 of the Dutiable Commodities Ordinance (Cap. 109).
@@ -166,4 +168,4 @@ Items Exempt from Part 1 of Schedule 5
 
     - (6) A revocation takes effect on the expiry of 30 days from the date on which the decision to revoke the exemption is made.
 
-  - (Schedule 6 added L.N. 69 of 2008) (Format changes—E.R. 2 of 2014)
+  - (Schedule 6 added L.N. 69 of 2008)

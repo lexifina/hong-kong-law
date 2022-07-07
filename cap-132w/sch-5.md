@@ -1,10 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [regs. 2 & 4B & Sch. 6]
 
-NUTRITION LABELLING AND NUTRITION CLAIM
+Nutrition Labelling and Nutrition Claim
 
-- PART 1 NUTRITION LABELLING
+- Part 1 Nutrition Labelling
 
   - 1. List of nutrients
 
@@ -126,7 +126,7 @@ NUTRITION LABELLING AND NUTRITION CLAIM
 
     - (5) Unless the Authority otherwise requires in any particular case, any prepackaged food may, if it is national or traditional to the country of its manufacture and is not generally manufactured in any other country, be marked or labelled in accordance with this Schedule in the language of the country of its manufacture.
 
-- PART 2 NUTRITION CLAIM
+- Part 2 Nutrition Claim
 
   - 5. Nutrition claim For the purposes of these regulations, the following do not constitute a nutrition claim—
 

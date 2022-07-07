@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [reg. 2]
 
-NUTRIENT REFERENCE VALUES FOR DIFFERENT NUTRIENTS FOR PURPOSE OF NUTRITION LABELLING
+Nutrient Reference Values for Different Nutrients for Purpose of Nutrition Labelling
 
 Item | Energy/Nutrient | Nutrient reference value
 

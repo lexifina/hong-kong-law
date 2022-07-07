@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 4 & 5] (L.N. 80 of 1996; L.N. 69 of 2008)
 
-MARKING AND LABELLING OF FOODS AND DRUGS
+Marking and Labelling of Foods and Drugs
 
 - 1. (Repealed L.N. 80 of 1996)
 
@@ -30,15 +30,15 @@ MARKING AND LABELLING OF FOODS AND DRUGS
 
       - Provided that in any such declaration—
 
-    - (i) the words “EVAPORATED” and “(蒸發)” or the words “EVAPORATED” and “(淡)” may be substituted for the words “CONDENSED” and “(煉)” respectively; (L.N. 80 of 1996)
+    - (i) the words “EVAPORATED” and “蒸發” or the words “EVAPORATED” and “淡” may be substituted for the words “CONDENSED” and “煉” respectively; (L.N. 80 of 1996)
 
-    - (ii) the words “MACHINE-SKIMMED” and “(機械脫脂)” may be substituted for the words “SKIMMED” and “(脫脂)” respectively;
+    - (ii) the words “MACHINE-SKIMMED” and “機械脫脂” may be substituted for the words “SKIMMED” and “脫脂” respectively;
 
-    - (iia) the words “SEMI-” and “(半)” may be substituted for the words “PARTLY” and “(部分)” respectively; (L.N. 80 of 1996)
+    - (iia) the words “SEMI-” and “半” may be substituted for the words “PARTLY” and “部分” respectively; (L.N. 80 of 1996)
 
-    - (iii) if sugar has not been added to the milk, the words “UNSWEETENED” and “(未加糖)” may be added to the English lettering and Chinese characters respectively, which constitute the description of the milk; and
+    - (iii) if sugar has not been added to the milk, the words “UNSWEETENED” and “未加糖” may be added to the English lettering and Chinese characters respectively, which constitute the description of the milk; and
 
-    - (iv) if sugar has been added to the milk, the words “SWEETENED” and “(加糖)” shall be added to the English lettering and Chinese characters respectively, which constitute the description of the milk.
+    - (iv) if sugar has been added to the milk, the words “SWEETENED” and “加糖” shall be added to the English lettering and Chinese characters respectively, which constitute the description of the milk. (E.R. 3 of 2022)
 
   - (2) Each declaration prescribed in paragraph (1) shall—
 
@@ -126,8 +126,8 @@ MARKING AND LABELLING OF FOODS AND DRUGS
 
 - 9. Tenderized meat.
 
-  - (a) Every container containing tenderized meat shall be clearly and legibly marked with the words “TENDERIZED MEAT” in capital letters and the Chinese characters (加工製嫩肉類).
+  - (a) Every container containing tenderized meat shall be clearly and legibly marked with the words “TENDERIZED MEAT” in capital letters and the Chinese characters “加工製嫩肉類”.
 
-  - (b) In the case of tenderized meat which is not made up in or on a container, a label or ticket clearly and legibly marked with the words “TENDERIZED MEAT” in capital letters and the Chinese characters (加工製嫩肉類) shall be affixed or attached to that meat. (L.N. 116 of 1970)
+  - (b) In the case of tenderized meat which is not made up in or on a container, a label or ticket clearly and legibly marked with the words “TENDERIZED MEAT” in capital letters and the Chinese characters “加工製嫩肉類” shall be affixed or attached to that meat. (L.N. 116 of 1970; E.R. 3 of 2022)
 
 - 10. Irradiated foods. Every container containing irradiated food shall be clearly and legibly marked with the words “IRRADIATED” or “TREATED WITH IONIZING RADIATION” in English capital lettering and “輻照食品” in Chinese characters. (L.N. 80 of 1996) (L.N. 30 of 1967)
