@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 22] (Amended 77 of 1996 s. 19)
 
-PROTECTED WILD ANIMALS
+Protected Wild Animals
 
 Note: | The protected wild animals are those specified in Column 2. The names given in Column 1, Column 3 and Column 4 are for information only.
 

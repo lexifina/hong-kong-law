@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 13 & 22] (Amended 77 of 1996 s. 20)
 
-AREAS IN WHICH ENTRY OR PRESENCE IS RESTRICTED
+Areas in which Entry or Presence is Restricted
 
 Area A | Restricted Period
 

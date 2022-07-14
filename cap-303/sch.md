@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 24]
 
-RADIOACTIVE MINERALS
+Radioactive Minerals
 
 - (1) Any mineral containing uranium or thorium or any compound thereof and, in particular and without prejudice to the generality of this paragraph, the substances hereinafter set out in this Schedule. (Amended L.N. 76 of 1965)
 
