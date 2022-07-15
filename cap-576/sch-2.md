@@ -1,5 +1,7 @@
 # Schedule 2
 
+(See Special Remarks)
+
 [ss. 2, 6, 61 & 67]
 
 Indigenous Village
@@ -98,11 +100,11 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 45. | Fu Yung Pei (芙蓉泌) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
-46. | Fui Sha Wai (灰沙圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+46. | Fui Sha Wai (灰沙圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 47. | (Amended and renumbered as item 529B)
 
-48. | Fung Chi Tsuen (鳳池村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+48. | Fung Chi Tsuen (鳳池村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 49. | Fung Hang (鳳坑) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
@@ -126,7 +128,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 59. | Ha Ling Pei (下嶺皮) | 1 October 2003 | 1 | Tung Chung Rural Committee
 
-60. | Ha Mei San Tsuen (蝦尾新村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+60. | Ha Mei San Tsuen (蝦尾新村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 61. | Ha Shan Kai Wat (下山雞乙) | 1 October 2003 | 1 | Ta Kwu Ling District Rural Committee
 
@@ -156,11 +158,11 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 74. | Hang Hau (坑口) | 1 October 2003 | 3 | Hang Hau Rural Committee
 
-75. | Hang Mei Tsuen (坑尾村) | 1 October 2003 | 3 | Ping Shan Rural Committee
+75. | Hang Mei Tsuen (坑尾村) | 1 October 2003 | 3 | Ping Shan Heung Rural Committee
 
 76. | Hang Tau (坑頭) | 1 October 2003 | 2 | Sheung Shui District Rural Committee
 
-77. | Hang Tau Tsuen (坑頭村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+77. | Hang Tau Tsuen (坑頭村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 78. | Heung Yuen Wai (香園圍) | 1 October 2003 | 1 | Ta Kwu Ling District Rural Committee
 
@@ -194,7 +196,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 93. | Hung Leng (孔嶺) | 1 October 2003 | 1 | Fanling District Rural Committee
 
-94. | Hung Uk Tsuen (洪屋村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+94. | Hung Uk Tsuen (洪屋村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 95. | Kai Ham (界咸) | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -244,7 +246,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 118. | Keung Shan, Lower (下羗山) | 1 October 2003 | 1 | Tai O Rural Committee
 
-119. | Kiu Tau Wai (橋頭圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+119. | Kiu Tau Wai (橋頭圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 120. | Ko Lau Wan (高流灣) | 1 October 2003 | 2 | Sai Kung North Rural Committee
 
@@ -280,7 +282,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 135. | Lai Tau Shek (犂頭石) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-136. | Lam Hau Tsuen (欖口村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+136. | Lam Hau Tsuen (欖口村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 137. | Lam Tei (藍地) | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
@@ -422,9 +424,9 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 206. | Mok Tse Che (莫遮輋) | 1 October 2003 | 1 | Sai Kung Rural Committee
 
-207. | Mong Tseng Tsuen (輞井村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+207. | Mong Tseng Tsuen (輞井村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
-208. | Mong Tseng Wai (輞井圍) | 1 October 2003 | 2 | Ping Shan Rural Committee
+208. | Mong Tseng Wai (輞井圍) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 209. | Mong Tung Wan (望東灣) | 1 October 2003 | 1 | South Lantao Rural Committee
 
@@ -466,7 +468,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 228. | Ng Uk Tsuen (吳屋村) | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
-229. | Ng Uk Tsuen (吳屋村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+229. | Ng Uk Tsuen (吳屋村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 230. | Nga Iu Tau Tsun (瓦窰頭村) | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
@@ -476,7 +478,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 233. | Ngau Au (牛凹) | 1 October 2003 | 1 | Tung Chung Rural Committee
 
-234. | Ngau Hom Tsuen (鰲磡村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+234. | Ngau Hom Tsuen (鰲磡村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 235. | Ngau Keng Tsuen (牛徑村) | 1 October 2003 | 2 | Pat Heung Rural Committee
 
@@ -564,7 +566,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 277. | Ping Shan Chai (坪山仔) | 1 October 2003 | 1 | Tai Po Rural Committee
 
-278. | Ping Shan San Tsuen (屏山新村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+278. | Ping Shan San Tsuen (屏山新村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 279. | Ping Tun (坪墩) | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -608,7 +610,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 299. | San Hing Tsuen (新慶村) | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
-300. | San Hing Tsuen (新慶村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+300. | San Hing Tsuen (新慶村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 301. | San Lung Tsuen (新龍村) | 1 October 2003 | 1 | San Tin Rural Committee
 
@@ -654,7 +656,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 322. | Sha Kok Mei (沙角尾) | 1 October 2003 | 3 | Sai Kung Rural Committee
 
-323. | Sha Kong Wai (沙江圍) | 1 October 2003 | 2 | Ping Shan Rural Committee
+323. | Sha Kong Wai (沙江圍) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 324. | Sha Lo Tung Cheung Uk (沙螺洞張屋) | 1 October 2003 | 2 | Tai Po Rural Committee
 
@@ -676,7 +678,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 333. | Sham Tseng (深井) | 1 October 2003 | 2 | Tsuen Wan Rural Committee
 
-334. | Shan Ha Tsuen (山廈村) | 1 October 2003 | 3 | Ping Shan Rural Committee
+334. | Shan Ha Tsuen (山廈村) | 1 October 2003 | 3 | Ping Shan Heung Rural Committee
 
 335. | Shan Ha Wai (山下圍) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -712,7 +714,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 351. | Shek Pik San Tsuen (石碧新村) | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
-352. | Shek Po Tsuen (石埗村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+352. | Shek Po Tsuen (石埗村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 353. | Shek Wai Kok (石圍角) | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
@@ -722,7 +724,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 356. | Sheung Che Tsuen (上輋村) | 1 October 2003 | 1 | Pat Heung Rural Committee
 
-357. | Sheung Cheung Wai (上璋圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+357. | Sheung Cheung Wai (上璋圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 358. | Sheung Keng Hau (上徑口) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -750,7 +752,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 370. | Sheung Yeung (上洋) | 1 October 2003 | 1 | Hang Hau Rural Committee
 
-371. | Shing Uk Tsuen (盛屋村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+371. | Shing Uk Tsuen (盛屋村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 372. | Shuen Wan Chan Uk (船灣陳屋) | 1 October 2003 | 1 | Tai Po Rural Committee
 
@@ -772,13 +774,13 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 381. | Shui Mei Tsuen (水尾村) | 1 October 2003 | 1 | Kam Tin Rural Committee
 
-382. | Shui Pin Tsuen (水邊村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+382. | Shui Pin Tsuen (水邊村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-383. | Shui Pin Wai (水邊圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+383. | Shui Pin Wai (水邊圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 384. | Shui Tau Tsuen (水頭村) | 1 October 2003 | 2 | Kam Tin Rural Committee
 
-385. | Shui Tin Tsuen (水田村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+385. | Shui Tin Tsuen (水田村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 386. | Shui Tsan Tin Tsuen (水盞田村) | 1 October 2003 | 1 | Pat Heung Rural Committee
 
@@ -894,7 +896,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 442. | Tai Tong Wu (大塘湖) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-443. | Tai Tseng Wai (大井圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+443. | Tai Tseng Wai (大井圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 444. | Tai Tsing Chau (大青洲) | 1 October 2003 | 1 | Ma Wan Rural Committee
 
@@ -970,7 +972,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 479. | Tong Fong (塘坊) | 1 October 2003 | 1 | Ta Kwu Ling District Rural Committee
 
-480. | Tong Fong Tsuen (塘坊村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+480. | Tong Fong Tsuen (塘坊村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 481. | Tong Fuk (塘福) | 1 October 2003 | 1 | South Lantao Rural Committee
 
@@ -1070,17 +1072,17 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 529. | Wan Tau Kok (運頭角) | 1 October 2003 | 1 | Tai Po Rural Committee
 
-529A.*2 | Wang Chau Chung Sam Wai (橫洲忠心圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+529A.*2 | Wang Chau Chung Sam Wai (橫洲忠心圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-529B.*3 | Wang Chau Fuk Hing Tsuen (橫洲福慶村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+529B.*3 | Wang Chau Fuk Hing Tsuen (橫洲福慶村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
-529C.*4 | Wang Chau Lam Uk Tsuen (橫洲林屋村) | 1 October 2003 | 1 | Ping Shan Rural Committee
+529C.*4 | Wang Chau Lam Uk Tsuen (橫洲林屋村) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-529D.*5 | Wang Chau Sai Tau Wai (橫洲西頭圍) | 1 October 2003 | 1 | Ping Shan Rural Committee
+529D.*5 | Wang Chau Sai Tau Wai (橫洲西頭圍) | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-529E.*6 | Wang Chau Tung Tau Wai (橫洲東頭圍) | 1 October 2003 | 2 | Ping Shan Rural Committee
+529E.*6 | Wang Chau Tung Tau Wai (橫洲東頭圍) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
-529F.*7 | Wang Chau Yeung Uk Tsuen (橫洲楊屋村) | 1 October 2003 | 2 | Ping Shan Rural Committee
+529F.*7 | Wang Chau Yeung Uk Tsuen (橫洲楊屋村) | 1 October 2003 | 2 | Ping Shan Heung Rural Committee
 
 530. | Wang Ling Tau San Tsuen (橫嶺頭新村) | 1 October 2003 | 1 | Tai Po Rural Committee
 
@@ -1198,7 +1200,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 586. | Yung Shue Wan (榕樹灣) | 1 October 2003 | 2 | Lamma Island (North) Rural Committee
 
-(Amended L.N. 28 of 2006; 12 of 2009 s. 12)
+(Amended L.N. 28 of 2006; 12 of 2009 s. 12; 8 of 2022 s. 14)
 
 Editorial Note:
 

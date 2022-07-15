@@ -7,3 +7,13 @@ An Ordinance to provide for the establishment of the office of resident represen
 (Enacting provision omitted—E.R. 3 of 2014)
 
 (Format changes—E.R. 3 of 2014)
+
+Special Remarks:
+
+See section 1 of the Rural Representative Election (Amendment) Ordinance 2022 (8 of 2022) for details of the commencement arrangement for the amendments by 8 of 2022 to this Ordinance. For specified provisions under this Ordinance, please note the following—
+
+Specified provisions (as amended by 8 of 2022) | Commencement arrangement | Commencement date
+
+Sections 2A, 7, 9, 11, 23, 36B, 36C, 43 and 58 and Schedules 1, 2 and 7 | (a) | For the purpose only of enabling arrangements to be made for the holding of the 2023 rural ordinary election | 15 July 2022
+
+(b) | In so far as they have not come into operation under paragraph (a) | 1 April 2023

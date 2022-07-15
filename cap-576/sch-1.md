@@ -1,5 +1,7 @@
 # Schedule 1
 
+(See Special Remarks)
+
 [ss. 2, 3, 5, 61 & 67]
 
 Existing Village
@@ -106,7 +108,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 49. | Fu Yung Pei (芙蓉泌) | VEB/2002/R/ST-11 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
-50. | Fui Sha Wai (灰沙圍) | VEB/2002/M/PS-15 | 1 October 2003 | 1 | Ping Shan Rural Committee
+50. | Fui Sha Wai (灰沙圍) | VEB/2002/M/PS-15 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 51. | Fui Yiu Ha and Tse Uk (灰窰下及謝屋) | VEB/2002/R/ST-30 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -116,11 +118,11 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 54. | (Amended and renumbered as item 625B)
 
-55. | Fung Chi Tsuen (鳳池村) | VEB/2002/M/PS-13 | 1 October 2003 | 1 | Ping Shan Rural Committee
+55. | Fung Chi Tsuen (鳳池村) | VEB/2002/M/PS-13 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 56. | Fung Hang (鳳坑) | VEB/2002/N/STK-42 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-57. | Fung Ka Wai (馮家圍) | VEB/2002/M/PS-33 | 1 October 2003 | 1 | Ping Shan Rural Committee
+57. | Fung Ka Wai (馮家圍) | VEB/2002/M/PS-33 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 58. | Fung Kat Heung (逢吉鄉) | VEB/2002/M/KT-10 | 1 October 2003 | 1 | Kam Tin Rural Committee
 
@@ -142,7 +144,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 67. | Ha Ling Pei (下嶺皮) | VEB/2002/T/TC-04 | 1 October 2003 | 1 | Tung Chung Rural Committee
 
-68. | Ha Mei San Tsuen (蝦尾新村) | VEB/2002/M/PS-08 | 1 October 2003 | 1 | Ping Shan Rural Committee
+68. | Ha Mei San Tsuen (蝦尾新村) | VEB/2002/M/PS-08 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 69. | Ha Pak Nai Tsuen (下白泥村) | VEB/2002/M/HT-16 | 1 October 2003 | 1 | Ha Tsuen Rural Committee
 
@@ -176,11 +178,11 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 84. | Hang Hau (坑口) | VEB/2002/Q/HH-09 | 1 October 2003 | 1 | Hang Hau Rural Committee
 
-85. | Hang Mei Tsuen (坑尾村) | VEB/2002/M/PS-30 | 1 October 2003 | 1 | Ping Shan Rural Committee
+85. | Hang Mei Tsuen (坑尾村) | VEB/2002/M/PS-30 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 86. | Hang Tau (坑頭) | VEB/2002/N/SS-14 | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
-87. | Hang Tau Tsuen (坑頭村) | VEB/2002/M/PS-29 | 1 October 2003 | 1 | Ping Shan Rural Committee
+87. | Hang Tau Tsuen (坑頭村) | VEB/2002/M/PS-29 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 88. | Heung Yuen Wai (香園圍) | VEB/2002/N/TKL-04 | 1 October 2003 | 1 | Ta Kwu Ling District Rural Committee
 
@@ -218,7 +220,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 105. | Hung Leng (孔嶺) | VEB/2002/N/F-02 | 1 October 2003 | 1 | Fanling District Rural Committee
 
-106. | Hung Uk Tsuen (洪屋村) | VEB/2002/M/PS-17 | 1 October 2003 | 1 | Ping Shan Rural Committee
+106. | Hung Uk Tsuen (洪屋村) | VEB/2002/M/PS-17 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 107. | Kai Ham (界咸) | VEB/2002/Q/SK-14 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -276,7 +278,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 134. | Keung Shan, Upper and Luk Wu (上羗山及鹿湖) | VEB/2002/T/TO-05 | 1 October 2003 | 1 | Tai O Rural Committee
 
-135. | Kiu Tau Wai (橋頭圍) | VEB/2002/M/PS-10 | 1 October 2003 | 1 | Ping Shan Rural Committee
+135. | Kiu Tau Wai (橋頭圍) | VEB/2002/M/PS-10 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 136. | Ko Lau Wan (高流灣) | VEB/2002/P/SKN-09 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
@@ -322,7 +324,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 156. | Lam Che and Nim Un (藍輋及稔園) | VEB/2002/T/TC-12 | 1 October 2003 | 1 | Tung Chung Rural Committee
 
-157. | Lam Hau Tsuen (欖口村) | VEB/2002/M/PS-20 | 1 October 2003 | 1 | Ping Shan Rural Committee
+157. | Lam Hau Tsuen (欖口村) | VEB/2002/M/PS-20 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 158. | Lam Tei (藍地) | VEB/2002/L/TM-03 | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
@@ -484,9 +486,9 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 237. | Mok Tse Che (莫遮輋) | VEB/2002/Q/SK-24 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
-238. | Mong Tseng Tsuen (輞井村) | VEB/2002/M/PS-19 | 1 October 2003 | 1 | Ping Shan Rural Committee
+238. | Mong Tseng Tsuen (輞井村) | VEB/2002/M/PS-19 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-239. | Mong Tseng Wai (輞井圍) | VEB/2002/M/PS-28 | 1 October 2003 | 1 | Ping Shan Rural Committee
+239. | Mong Tseng Wai (輞井圍) | VEB/2002/M/PS-28 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 240. | Mong Tung Wan (望東灣) | VEB/2002/T/SL-02 | 1 October 2003 | 1 | South Lantao Rural Committee
 
@@ -534,7 +536,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 262. | Ng Uk Tsuen (吳屋村) | VEB/2002/N/SS-05 | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
-263. | Ng Uk Tsuen (吳屋村) | VEB/2002/M/PS-21 | 1 October 2003 | 1 | Ping Shan Rural Committee
+263. | Ng Uk Tsuen (吳屋村) | VEB/2002/M/PS-21 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 264. | Nga Iu Tau Tsun (瓦窰頭村) | VEB/2002/P/SKN-16 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
@@ -546,7 +548,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 268. | Ngau Au (牛凹) | VEB/2002/T/TC-02 | 1 October 2003 | 1 | Tung Chung Rural Committee
 
-269. | Ngau Hom Tsuen (鰲磡村) | VEB/2002/M/PS-01 | 1 October 2003 | 1 | Ping Shan Rural Committee
+269. | Ngau Hom Tsuen (鰲磡村) | VEB/2002/M/PS-01 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 270. | Ngau Keng Tsuen (牛徑村) | VEB/2002/M/PH-19 | 1 October 2003 | 1 | Pat Heung Rural Committee
 
@@ -650,7 +652,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 320. | Ping Shan Chai (坪山仔) | VEB/2002/P/TP-37 | 1 October 2003 | 1 | Tai Po Rural Committee
 
-321. | Ping Shan San Tsuen (屏山新村) | VEB/2002/M/PS-03 | 1 October 2003 | 1 | Ping Shan Rural Committee
+321. | Ping Shan San Tsuen (屏山新村) | VEB/2002/M/PS-03 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 322. | Ping Tun (坪墩) | VEB/2002/Q/SK-31 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -706,7 +708,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 348. | San Hing Tsuen (新慶村) | VEB/2002/L/TM-14 | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
-349. | San Hing Tsuen (新慶村) | VEB/2002/M/PS-11 | 1 October 2003 | 1 | Ping Shan Rural Committee
+349. | San Hing Tsuen (新慶村) | VEB/2002/M/PS-11 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 350. | San Lung Tsuen (新龍村) | VEB/2002/M/ST-01 | 1 October 2003 | 1 | San Tin Rural Committee
 
@@ -760,13 +762,13 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 375. | Sha Ha (沙下) | VEB/2002/Q/SK-38 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
-376. | Sha Kiu Tsuen (I) (沙橋村(一)) | VEB/2002/M/PS-32A | 1 October 2003 | 1 | Ping Shan Rural Committee
+376. | Sha Kiu Tsuen (I) (沙橋村(一)) | VEB/2002/M/PS-32A | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-377. | Sha Kiu Tsuen (II) (沙橋村(二)) | VEB/2002/M/PS-32B | 1 October 2003 | 1 | Ping Shan Rural Committee
+377. | Sha Kiu Tsuen (II) (沙橋村(二)) | VEB/2002/M/PS-32B | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 378. | Sha Kok Mei (沙角尾) | VEB/2002/Q/SK-43 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
-379. | Sha Kong Wai (沙江圍) | VEB/2002/M/PS-26 | 1 October 2003 | 1 | Ping Shan Rural Committee
+379. | Sha Kong Wai (沙江圍) | VEB/2002/M/PS-26 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 380. | Sha Lo Tung Cheung Uk (沙螺洞張屋) | VEB/2002/P/TP-47 | 1 October 2003 | 1 | Tai Po Rural Committee
 
@@ -798,7 +800,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 394. | Sham Tseng (深井) | VEB/2002/K/TW-21 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
-395. | Shan Ha Tsuen (山廈村) | VEB/2002/M/PS-31 | 1 October 2003 | 1 | Ping Shan Rural Committee
+395. | Shan Ha Tsuen (山廈村) | VEB/2002/M/PS-31 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 396. | Shan Ha Wai (山下圍) | VEB/2002/R/ST-02 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -842,7 +844,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 416. | Shek Pik San Tsuen (石碧新村) | VEB/2002/K/TW-34 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
-417. | Shek Po Tsuen (石埗村) | VEB/2002/M/PS-24 | 1 October 2003 | 1 | Ping Shan Rural Committee
+417. | Shek Po Tsuen (石埗村) | VEB/2002/M/PS-24 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 418. | Shek Tsai Po (East) (石仔埗(東)) | VEB/2002/T/TO-14 | 1 October 2003 | 1 | Tai O Rural Committee
 
@@ -856,7 +858,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 423. | Sheung Che Tsuen (上輋村) | VEB/2002/M/PH-10 | 1 October 2003 | 1 | Pat Heung Rural Committee
 
-424. | Sheung Cheung Wai (上璋圍) | VEB/2002/M/PS-06 | 1 October 2003 | 1 | Ping Shan Rural Committee
+424. | Sheung Cheung Wai (上璋圍) | VEB/2002/M/PS-06 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 425. | Sheung Keng Hau (上徑口) | VEB/2002/R/ST-15 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -884,7 +886,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 437. | Sheung Yeung (上洋) | VEB/2002/Q/HH-06 | 1 October 2003 | 1 | Hang Hau Rural Committee
 
-438. | Shing Uk Tsuen (盛屋村) | VEB/2002/M/PS-14 | 1 October 2003 | 1 | Ping Shan Rural Committee
+438. | Shing Uk Tsuen (盛屋村) | VEB/2002/M/PS-14 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 439. | Shuen Wan Chan Uk (船灣陳屋) | VEB/2002/P/TP-54 | 1 October 2003 | 1 | Tai Po Rural Committee
 
@@ -908,13 +910,13 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 449. | Shui Mei Tsuen (水尾村) | VEB/2002/M/KT-06 | 1 October 2003 | 1 | Kam Tin Rural Committee
 
-450. | Shui Pin Tsuen (水邊村) | VEB/2002/M/PS-05 | 1 October 2003 | 1 | Ping Shan Rural Committee
+450. | Shui Pin Tsuen (水邊村) | VEB/2002/M/PS-05 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-451. | Shui Pin Wai (水邊圍) | VEB/2002/M/PS-12 | 1 October 2003 | 1 | Ping Shan Rural Committee
+451. | Shui Pin Wai (水邊圍) | VEB/2002/M/PS-12 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 452. | Shui Tau Tsuen (水頭村) | VEB/2002/M/KT-09 | 1 October 2003 | 1 | Kam Tin Rural Committee
 
-453. | Shui Tin Tsuen (水田村) | VEB/2002/M/PS-07 | 1 October 2003 | 1 | Ping Shan Rural Committee
+453. | Shui Tin Tsuen (水田村) | VEB/2002/M/PS-07 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 454. | Shui Tsan Tin Tsuen (水盞田村) | VEB/2002/M/PH-06 | 1 October 2003 | 1 | Pat Heung Rural Committee
 
@@ -1052,13 +1054,13 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 521. | Tai Tei Tong (大地塘) | VEB/2002/T/MW-02 | 1 October 2003 | 1 | Mui Wo Rural Committee
 
-522. | Tai To Tsuen (大道村) | VEB/2002/M/PS-34 | 1 October 2003 | 1 | Ping Shan Rural Committee
+522. | Tai To Tsuen (大道村) | VEB/2002/M/PS-34 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 523. | Tai Tong (大棠) | VEB/2002/M/SPH-13 | 1 October 2003 | 1 | Shap Pat Heung Rural Committee
 
 524. | Tai Tong Wu (大塘湖) | VEB/2002/N/STK-10 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-525. | Tai Tseng Wai (大井圍) | VEB/2002/M/PS-09 | 1 October 2003 | 1 | Ping Shan Rural Committee
+525. | Tai Tseng Wai (大井圍) | VEB/2002/M/PS-09 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 526. | Tai Tung (大洞) | VEB/2002/P/SKN-30 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
@@ -1098,7 +1100,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 543. | Tan Ka Wan (蛋家灣) | VEB/2002/P/SKN-31 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
-544. | Tan Kwai Tsuen (丹桂村) | VEB/2002/M/PS-36 | 1 October 2003 | 1 | Ping Shan Rural Committee
+544. | Tan Kwai Tsuen (丹桂村) | VEB/2002/M/PS-36 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 545. | Tap Mun (塔門) | VEB/2002/P/SKN-33 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
@@ -1118,9 +1120,9 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 553. | Tin Liu Ha (田寮下) | VEB/2002/P/TP-75 | 1 October 2003 | 1 | Tai Po Rural Committee
 
-554. | Tin Shui Wai (I) (天水圍(一)) | VEB/2002/M/PS-23A | 1 October 2003 | 1 | Ping Shan Rural Committee
+554. | Tin Shui Wai (I) (天水圍(一)) | VEB/2002/M/PS-23A | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-555. | Tin Shui Wai (II) (天水圍(二)) | VEB/2002/M/PS-23B | 1 October 2003 | 1 | Ping Shan Rural Committee
+555. | Tin Shui Wai (II) (天水圍(二)) | VEB/2002/M/PS-23B | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 556. | Tin Sum (田心) | VEB/2002/R/ST-34 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -1146,7 +1148,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 567. | Tong Fong (塘坊) | VEB/2002/N/TKL-12 | 1 October 2003 | 1 | Ta Kwu Ling District Rural Committee
 
-568. | Tong Fong Tsuen (塘坊村) | VEB/2002/M/PS-04 | 1 October 2003 | 1 | Ping Shan Rural Committee
+568. | Tong Fong Tsuen (塘坊村) | VEB/2002/M/PS-04 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 569. | Tong Fuk (塘福) | VEB/2002/T/SL-03 | 1 October 2003 | 1 | South Lantao Rural Committee
 
@@ -1162,11 +1164,11 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 575. | Tong To (塘肚) | VEB/2002/N/STK-06 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-576. | Tong Yan San Tsuen (I) (唐人新村(一)) | VEB/2002/M/PS-37A | 1 October 2003 | 1 | Ping Shan Rural Committee
+576. | Tong Yan San Tsuen (I) (唐人新村(一)) | VEB/2002/M/PS-37A | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-577. | Tong Yan San Tsuen (II) (唐人新村(二)) | VEB/2002/M/PS-37B | 1 October 2003 | 1 | Ping Shan Rural Committee
+577. | Tong Yan San Tsuen (II) (唐人新村(二)) | VEB/2002/M/PS-37B | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-578. | Tong Yan San Tsuen (III) (唐人新村(三)) | VEB/2002/M/PS-37C | 1 October 2003 | 1 | Ping Shan Rural Committee
+578. | Tong Yan San Tsuen (III) (唐人新村(三)) | VEB/2002/M/PS-37C | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 579. | Tsak Yue Wu (鯽魚湖) | VEB/2002/Q/SK-19 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -1262,17 +1264,17 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 625. | Wai Tsai (圍仔) | VEB/2002/M/ST-08 | 1 October 2003 | 1 | San Tin Rural Committee
 
-625A.*2 | Wang Chau Chung Sam Wai (橫洲忠心圍) | VEB/2002/M/PS-02 | 1 October 2003 | 1 | Ping Shan Rural Committee
+625A.*2 | Wang Chau Chung Sam Wai (橫洲忠心圍) | VEB/2002/M/PS-02 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-625B.*3 | Wang Chau Fuk Hing Tsuen (橫洲福慶村) | VEB/2002/M/PS-25 | 1 October 2003 | 1 | Ping Shan Rural Committee
+625B.*3 | Wang Chau Fuk Hing Tsuen (橫洲福慶村) | VEB/2002/M/PS-25 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-625C.*4 | Wang Chau Lam Uk Tsuen (橫洲林屋村) | VEB/2002/M/PS-18 | 1 October 2003 | 1 | Ping Shan Rural Committee
+625C.*4 | Wang Chau Lam Uk Tsuen (橫洲林屋村) | VEB/2002/M/PS-18 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-625D.*5 | Wang Chau Sai Tau Wai (橫洲西頭圍) | VEB/2002/M/PS-16 | 1 October 2003 | 1 | Ping Shan Rural Committee
+625D.*5 | Wang Chau Sai Tau Wai (橫洲西頭圍) | VEB/2002/M/PS-16 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-625E.*6 | Wang Chau Tung Tau Wai (橫洲東頭圍) | VEB/2002/M/PS-27 | 1 October 2003 | 1 | Ping Shan Rural Committee
+625E.*6 | Wang Chau Tung Tau Wai (橫洲東頭圍) | VEB/2002/M/PS-27 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
-625F.*7 | Wang Chau Yeung Uk Tsuen (橫洲楊屋村) | VEB/2002/M/PS-22 | 1 October 2003 | 1 | Ping Shan Rural Committee
+625F.*7 | Wang Chau Yeung Uk Tsuen (橫洲楊屋村) | VEB/2002/M/PS-22 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 626. | Wang Long (橫塱) | VEB/2002/T/LN-02 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
 
@@ -1290,7 +1292,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 633. | Wing Lung Wai (永隆圍) | VEB/2002/M/KT-05 | 1 October 2003 | 1 | Kam Tin Rural Committee
 
-634. | Wing Ning Tsuen (永寧村) | VEB/2002/M/PS-35 | 1 October 2003 | 1 | Ping Shan Rural Committee
+634. | Wing Ning Tsuen (永寧村) | VEB/2002/M/PS-35 | 1 October 2003 | 1 | Ping Shan Heung Rural Committee
 
 635. | Wing Ping Tsuen (永平村) | VEB/2002/M/ST-06 | 1 October 2003 | 1 | San Tin Rural Committee
 
@@ -1412,7 +1414,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 693. | Yung Shue Wan (榕樹灣) | VEB/2002/T/LN-12 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
 
-(Amended L.N. 28 of 2006; 12 of 2009 s. 11)
+(Amended L.N. 28 of 2006; 12 of 2009 s. 11; 8 of 2022 s. 13)
 
 Editorial Note:
 
