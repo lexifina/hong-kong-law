@@ -68,8 +68,14 @@ Passengers Exempted from Liability to Pay the Tax
 
 - 12. Passengers who—
 
-  - (a) arrive at the Hong Kong International Airport from any place in China (other than Hong Kong) on board a ship that is approved by the Airport Authority of Hong Kong to berth at the Airport;
+  - (a) either—
+
+    - (i) arrive at the Hong Kong International Airport from a place in China other than Hong Kong by a vehicle approved by the Airport Authority of Hong Kong to run between the place and the Airport via the Hong Kong-Zhuhai-Macao Bridge, or by a ship approved by the Authority to berth at a passenger ferry terminal of the Airport; or
+
+    - (ii) arrive at the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port from a place in China other than Hong Kong and, on arrival, transfer directly from the Port to the Airport by a vehicle approved by the Authority to run between the Port and the Airport;
 
   - (b) subsequently depart from Hong Kong by aircraft; and
 
-  - (c) before such departure remain at all times within the Restricted Area specified pursuant to section 37 of the Airport Authority Ordinance (Cap. 483). (Added L.N. 208 of 2003)
+  - (c) before the departure remain at all times within the Restricted Area (as defined by section 2(1) of the Airport Authority Ordinance (Cap. 483)).
+
+- (Replaced L.N. 105 of 2022)
