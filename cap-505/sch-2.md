@@ -170,4 +170,6 @@ Description of Offences which Disentitle Persons from Being or Continuing to be 
 
 - 42 | assisting escape of child or juvenile from custody or control
 
+- 5. An offence endangering national security (Added L.N. 109 of 2022)
+
 * Note: The short description of offences in this Schedule is for ease of reference only.
