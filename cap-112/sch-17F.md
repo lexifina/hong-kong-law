@@ -10,7 +10,7 @@ Aircraft Leasing Tax Concessions
 
   - 1. Meaning of aircraft leasing activity and aircraft leasing management activity
 
-    - (1) In this section and the aircraft leasing tax concessions provisions—
+    - (1) In this section and Subdivision 4 of Division 2 of Part 4— (Amended 10 of 2022 s. 2)
 
       - aircraft leasing activity (飛機租賃活動), in relation to a corporation, means leasing an aircraft by the corporation to an aircraft operator;
 
@@ -52,7 +52,7 @@ Aircraft Leasing Tax Concessions
 
       - contingent purchase arrangement (待確定購買安排) means an arrangement under which a person is required to purchase an aircraft at a pre-determined amount if the actual residual value falls below the estimated residual value.
 
-    - (4) The words and expressions used in this section and defined in section 14G for the purposes of the aircraft leasing tax concessions provisions have the same meaning as in those provisions.
+    - (4) The words and expressions used in this section and defined in section 14G for the purposes of Subdivision 4 of Division 2 of Part 4 have the same meaning as in that Subdivision. (Amended 10 of 2022 s. 2)
 
 - Part 2 Prescribed Percentage for Calculation of Net Lease Payments
 
