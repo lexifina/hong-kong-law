@@ -248,12 +248,14 @@ List of Contracting States
 
 - United Kingdom of Great Britain and Northern Ireland, The | England | 25 January 2006
 
-- Wales | 25 January 2006
-
-- Scotland | 25 January 2006
+- Isle of Man | 25 January 2006
 
 - Northern Ireland | 25 January 2006
 
-- Isle of Man | 25 January 2006
+- Scotland | 25 January 2006
 
-(Schedule replaced L.N. 80 of 2012. Amended L.N. 153 of 2014)
+- Wales | 25 January 2006
+
+- (L.N. 153 of 2014; E.R. 3 of 2022)
+
+(Schedule replaced L.N. 80 of 2012)

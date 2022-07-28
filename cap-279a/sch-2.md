@@ -1,5 +1,7 @@
 # Second Schedule
 
+(Format changes—E.R. 2 of 2012)
+
 - Part 1
 
 - [reg. 68]
@@ -10,7 +12,7 @@
 
   - (2) a degree in education of a specified institution; (1 of 2004 s. 18)
 
-  - *(3) (Repealed 1 of 2004 s. 18)
+  - (3) (Repealed 1 of 2004 s. 18)
 
   - (4) a teacher’s certificate issued by the Hong Kong Government;
 
@@ -18,11 +20,11 @@
 
   - (6) a Hong Kong Government Evening Institute teacher’s certificate and 5 years approved teaching experience; (L.N. 122 of 1974)
 
-  - (7) a certificate of status as “Qualified Teacher” or “Qualified Kindergarten Teacher” issued by the Hong Kong Education Department to a teacher who has completed an approved course of training and passed a written and practical test, and approved teaching experience; (L.N. 122 of 1974; L.N. 268 of 1990)
+  - (7) a certificate of status as “Qualified Teacher” or “Qualified Kindergarten Teacher” issued by the Hong Kong Education Department to a teacher who has completed an approved course of training and passed a written and practical test, and approved teaching experience; or (L.N. 122 of 1974; L.N. 268 of 1990; E.R. 3 of 2022)
 
-  - (8) any other educational training and experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2), (4), (5), (6) or (7); or (3 of 2003 s. 14; 1 of 2004 s. 18)
+  - (8) any other educational training and experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2), (4), (5), (6) or (7). (3 of 2003 s. 14; 1 of 2004 s. 18; E.R. 3 of 2022)
 
-  - *(9) (Repealed 1 of 2004 s. 18)
+  - (9) (Repealed 1 of 2004 s. 18)
 
 - For the purposes of this Part and Part 2— (1 of 2004 s. 18)
 
@@ -156,20 +158,6 @@
 
   - (3) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2) or (2A). (3 of 2003 s. 14)
 
-- For the purposes of this Part, approved (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
+  - For the purposes of this Part, approved (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
 
-- (L.N. 268 of 1990; L.N. 23 of 2012) (E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)
-
-Editorial Note:
-
-* The saving and transitional provisions contained in sections 20 and 21 of the Education (Miscellaneous Amendments) Ordinance 2004 (1 of 2004) read as follows—
-
-“20. Saving regarding qualifications of registered
-
-teachers and permitted teachers (1) If immediately before the commencement date there is in existence an application— (a) for registration as a teacher made under section 44 of the Education Ordinance (Cap. 279); or (b) to employ a person as a permitted teacher in a school made under section 49 of the Education Ordinance (Cap. 279),
-
-which has not been disposed of, then the application is to be disposed of as if this Ordinance has not been enacted.
-
-(2) A person who possesses the prescribed qualifications for registration as a teacher immediately before the commencement date may apply for registration within 2 months from the commencement date and the application is to be disposed of as if this Ordinance had not been enacted. (3) This section is in addition to and not in derogation from section 23 of the Interpretation and General Clauses Ordinance (Cap. 1). **(4) In this section and section 21, “commencement date” (生效日期) means the date appointed by the Secretary for Education and Manpower for the commencement of section 18 of this Ordinance under section 1(2) of this Ordinance. ** Commencement date: 1 October 2004. 21. Transitional provisions regarding qualifications
-
-of permitted teachers (1) Notwithstanding section 51(1)(c) of the Education Ordinance (Cap. 279), the Permanent Secretary may issue a permit under section 50 of that Ordinance in respect of a person who was serving as a permitted teacher in a school immediately before the commencement date even though the person does not possess the prescribed qualifications for a permitted teacher on or after the commencement date. (2) Subsection (1) applies where— (a) an application to employ the person as a permitted teacher in a school is made under section 49 of the Education Ordinance (Cap. 279) within 5 years from the commencement date; and (b) at the time of making the application the person has been enrolled in or is attending a training course approved by the Permanent Secretary for the purpose.”.
+- (L.N. 268 of 1990; L.N. 23 of 2012) (E.R. 2 of 2012)
