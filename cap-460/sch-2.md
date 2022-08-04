@@ -4,6 +4,8 @@
 
 Offences for which Permit to be Revoked
 
+(Format changes—E.R. 2 of 2012)
+
 Item | Offence | Penalty
 
 1. | Any offence against the Societies Ordinance (Cap. 151) or the Dangerous Drugs Ordinance (Cap. 134) | Any penalty
@@ -13,5 +15,3 @@ Item | Offence | Penalty
 3. | Any offence involving violence | Imprisonment
 
 4. | Any offence against Part XII of the Crimes Ordinance (Cap. 200) (Amended L.N. 48 of 2003) | Any penalty
-
-(Format changes—E.R. 2 of 2012)
