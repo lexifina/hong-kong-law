@@ -1,13 +1,13 @@
-# SCHEDULE
+# Schedule
 
 [ss. 28 & 30]
 
-FINANCIAL PENALTIES
+Financial Penalties
 
-- PART I SUM SPECIFIED FOR THE PURPOSES OF SECTION 28(4)(a) $10,000
+- Part I Sum Specified for the Purposes of Section 28(4)(a) $10,000
 
-- PART II SUM SPECIFIED FOR THE PURPOSES OF SECTION 28(4)(b)(i)(A) $20,000
+- Part II Sum Specified for the Purposes of Section 28(4)(b)(i)(A) $20,000
 
-- PART III SUM SPECIFIED FOR THE PURPOSES OF SECTION 28(4)(b)(i)(B) $50,000
+- Part III Sum Specified for the Purposes of Section 28(4)(b)(i)(B) $50,000
 
-- PART IV SUM SPECIFIED FOR THE PURPOSES OF SECTION 28(4)(b)(i)(C) $100,000
+- Part IV Sum Specified for the Purposes of Section 28(4)(b)(i)(C) $100,000

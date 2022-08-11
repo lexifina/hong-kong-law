@@ -382,7 +382,7 @@ Director of Marine | Merchant Shipping (Seafarers) (Safety Officials and Reporti
 
 Director of Marine | Merchant Shipping (Seafarers) (Certification and Watchkeeping) Regulation (Cap. 478 sub. leg. T), section 3(3). (L.N. 9 of 2020)
 
-Director of Marine | Merchant Shipping (Seafarers) (Engine Room Watch Ratings and Electro-Technical Ratings) Regulation (Cap. 478 sub. leg. V), section 3(2). (L.N. 9 of 2020)
+Director of Marine | Merchant Shipping (Seafarers) (Engine Room Watch Ratings and Electro-technical Ratings) Regulation (Cap. 478 sub. leg. V), section 3(2). (L.N. 9 of 2020; E.R. 3 of 2022)
 
 Director of Marine | Merchant Shipping (Seafarers) (Medical Stores) Regulation (Cap. 478 sub. leg. X), section 3(2). (L.N. 9 of 2020)
 
