@@ -1,8 +1,8 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [reg. 27]
 
-MAXIMUM PASSENGER SEATING CAPACITY
+Maximum Passenger Seating Capacity
 
 Class of Vehicle | Passenger seating capacity
 

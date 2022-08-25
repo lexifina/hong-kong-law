@@ -2,11 +2,7 @@
 
 [regs. 24 & 24A]
 
-- PART 1 INSTALLATION AND PERFORMANCE
-
-- REQUIREMENTS FOR SPEEDOMETERS FOR MOTOR
-
-- VEHICLES REGISTERED BEFORE 1 MAY 2008
+- Part 1 Installation and Performance Requirements for Speedometers for Motor Vehicles Registered before 1 May 2008
 
   - 1. A speedometer shall be so placed that it can be easily read by the driver.
 
@@ -16,11 +12,7 @@
 
   - 4. A speedometer shall be clearly legible both by day and by night.
 
-- PART 2 INSTALLATION AND PERFORMANCE
-
-- REQUIREMENTS FOR SPEEDOMETERS FOR MOTOR
-
-- VEHICLES REGISTERED ON OR AFTER 1 MAY 2008
+- Part 2 Installation and Performance Requirements for Speedometers for Motor Vehicles Registered on or after 1 May 2008
 
   - 1. A speedometer shall be so placed that it is within the field of vision of the driver when he is facing forward and can be easily read by him from that position.
 
@@ -44,17 +36,21 @@
 
   - 5. A speedometer shall conform with—
 
-    - (a) ECE Regulation No. 39 made by the Economic Commission for Europe dated 20 November 1978 (E/ECE/324-E/ECE/TRANS/505/REV. 1/Add. 38) including all revisions with regard to speedometer equipment including its installation made before the date this paragraph comes into operation*;
+    - (a) ECE Regulation No. 39 made by the Economic Commission for Europe dated 20 November 1978 (E/ECE/324-E/ECE/TRANS/505/REV. 1/Add. 38) including all revisions with regard to speedometer equipment including its installation made before the date this paragraph comes into operation#;
 
-    - (b) Council Directive 75/443/EEC of 26 June 1975 made by the Council of the European Communities including all revisions with regard to speedometer equipment of motor vehicles made before the date this paragraph comes into operation*;
+    - (b) Council Directive 75/443/EEC of 26 June 1975 made by the Council of the European Communities including all revisions with regard to speedometer equipment of motor vehicles made before the date this paragraph comes into operation;
 
-    - (c) Directive 2000/7/EC of the European Parliament and of the Council of 20 March 2000 including all revisions with regard to speedometer equipment of two- or three- wheel motor vehicles made before the date this paragraph comes into operation*;
+    - (c) Directive 2000/7/EC of the European Parliament and of the Council of 20 March 2000 including all revisions with regard to speedometer equipment of two- or three- wheel motor vehicles made before the date this paragraph comes into operation;
 
-    - (d) Device Type Designation Standard for Speedometers specified in Attachment No. 51 to the Type Designation Regulations for Devices made under the Ministry of Transport Ordinance No. 66 of 9 October 1998 of Japan including all revisions made before the date this paragraph comes into operation*;
+    - (d) Device Type Designation Standard for Speedometers specified in Attachment No. 51 to the Type Designation Regulations for Devices made under the Ministry of Transport Ordinance No. 66 of 9 October 1998 of Japan including all revisions made before the date this paragraph comes into operation;
 
-    - (e) Technical Standard for Speedometers specified in Attachment No. 88 to the Announcement That Prescribes Details of Safety Regulations for Road Vehicles made under the Ministry of Land, Infrastructure and Transport of Japan Announcement No. 619 of 15 July 2002 including all revisions made before the date this paragraph comes into operation*, and the Test Procedure for Speedometers (TRIAS 58-2003) of the Type Approval Test Procedures made by the Ministry of Land, Infrastructure and Transport of Japan in Circular of Koshin No. 453 of 24 August 1971 including all revisions made before the date this paragraph comes into operation; or
+    - (e) Technical Standard for Speedometers specified in Attachment No. 88 to the Announcement That Prescribes Details of Safety Regulations for Road Vehicles made under the Ministry of Land, Infrastructure and Transport of Japan Announcement No. 619 of 15 July 2002 including all revisions made before the date this paragraph comes into operation, and the Test Procedure for Speedometers (TRIAS 58-2003) of the Type Approval Test Procedures made by the Ministry of Land, Infrastructure and Transport of Japan in Circular of Koshin No. 453 of 24 August 1971 including all revisions made before the date this paragraph comes into operation; or
 
     - (f) any newer version of the standards referred to in paragraphs (a), (b), (c), (d) and (e) approved at the discretion of the Commissioner in writing.
+
+  - Editorial Note:
+
+  - # Operation date: 1 May 2008.
 
   - 6. The requirements in section 5 of this Part do not apply to a speedometer fitted on a particular type of vehicle if a test certificate or performance comparison report, as the case may require, has been submitted to the Commissioner proving that the performance of the speedometer is equivalent or superior to one or more of the approved standards referred to in that section and—
 
@@ -62,13 +58,7 @@
 
     - (b) the speedometer, or the vehicle to which the speedometer is fitted, bears an approval mark recognized or assigned by the Commissioner.
 
-- Editorial Note:
-
-- * In operation on 1 May 2008.
-
-- PART 3 INSTALLATION AND PERFORMANCE
-
-- REQUIREMENTS FOR SPEED DISPLAY DEVICES
+- Part 3 Installation and Performance Requirements for Speed Display Devices
 
   - 1. A speed display device shall be so placed that it can be easily read by any passenger.
 

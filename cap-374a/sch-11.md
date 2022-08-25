@@ -1,18 +1,14 @@
-# ELEVENTH SCHEDULE
+# Eleventh Schedule
 
 [regs. 2, 119 & 120]
 
-- PART I Size, Colour and Type of Rear Marking
+- Part I Size, Colour and Type of Rear Marking
 
-- NOTE : | The height of each half of the marking shown in diagram 3 may be reduced to a minimum of 140 mm. provided the width is increased so that each half of the marking has a minimum area of 250 square centimetres.
-
-- DIAGRAM 4
-
-- PART II Additional Provisions Relating to form of Rear Markings
+- Part II Additional Provisions relating to Form of Rear Markings
 
   - 1. Any variation in a dimension (other than as to the height of a letter or character) specified in any of the diagrams in Part I of this Schedule shall be treated as permitted for the purposes of these regulations if the variation—
 
-    - (a) in the case of a dimension so specified as 275 mm or as over 275 mm does not exceed 2 1 2 % of that dimension;
+    - (a) in the case of a dimension so specified as 275 mm or as over 275 mm does not exceed 2 1/2% of that dimension;
 
     - (b) in the case of a dimension so specified as 16 mm or as over 16 mm but as under 275 mm, does not exceed 5% of that dimension; or
 
@@ -20,7 +16,7 @@
 
   - 2. Any variation in a dimension as to the height of a letter or character specified in any of the said diagrams shall be treated as permitted for the purposes of these regulations if the variation—
 
-    - (a) in the case of a dimension so specified as 94 mm or as 141 mm, does not exceed 2 1 2 % of that dimension; or
+    - (a) in the case of a dimension so specified as 94 mm or as 141 mm, does not exceed 2 1/2% of that dimension; or
 
     - (b) in the case of a dimension so specified as 75 mm or as 113 mm, does not exceed 5% of that dimension.
 
@@ -32,7 +28,7 @@
 
   - 6. The letters forming the words “Long Vehicle” and the characters “長車” on any rear marking shall be coloured black.
 
-- PART III Provisions as to Position on Vehicle, Maintenance, etc. of rear Markings
+- Part III Provisions as to Position on Vehicle, Maintenance, etc. of Rear Markings
 
   - 1. A rear marking shall be fitted at the rear of the vehicle.
 

@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [reg. 6]
 
-OVERALL DIMENSIONS OF VEHICLES
+Overall Dimensions of Vehicles
 
 Column 1 | Column 2 | Column 3 | Column 4
 
@@ -36,10 +36,10 @@ Articulated | 16.0 metres | 2.5 metres | 4.6 metres
 
 Special Purpose Vehicle | 12.0 metres | 2.5 metres | 4.6 metres
 
-Tricycle | - | 1.1 metres | -
+Tricycle | — | 1.1 metres | —
 
 Trailer | 13.5 metres | 2.5 metres | 4.6 metres
 
-Pedestrian-controlled Vehicle | 4.3 metres | 1.6 metres | -
+Pedestrian-controlled Vehicle | 4.3 metres | 1.6 metres | —
 
 (L.N. 39 of 2020)

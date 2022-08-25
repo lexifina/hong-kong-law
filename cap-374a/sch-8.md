@@ -1,8 +1,8 @@
-# EIGHTH SCHEDULE
+# Eighth Schedule
 
 [reg. 106]
 
-Requirements as to the number and position on vehicles of obligatory reflectors
+Requirements as to the Number and Position on Vehicles of Obligatory Reflectors
 
 1 | 2 | 3 | 4 | 5 | 6 | 7
 
@@ -16,9 +16,7 @@ Description of vehicle | Number of reflectors | Lateral position of reflector | 
 
 4. | Buses | 2 | One reflector on each side of longitudinal axis; no part of the reflecting area of one reflector to be less than 530 millimetres from any part of the reflecting area of the other reflector, and no part of the vehicle or its equipment to extend laterally on the same side as the reflector more than 600 millimetres from the nearest part of the reflecting area of the reflector | Not more than 760 millimetres from extreme rear of vehicle | 2.4 metres | 380 millimetres | Height from ground of highest part of reflecting area of each reflector to be the same
 
-5. | Heavy goods vehicles, special purpose vehicles or goods- carrying trailers, other than engineering plant | 2 | One reflector on each side of longitudinal axis; no part of the reflecting area of one reflector to be less than 530 millimetres from any part of the reflecting area of the other reflector, and no part of the vehicle or its equipment to extend laterally on the same side as the reflector more than 400 millimetres from the nearest part of the reflecting area of the reflector | Not more than 760 millimetres from extreme rear of vehicle | 1.4 metres | 380 millimetres | 1. | Height from ground of highest part of reflecting area of each reflector to be the same
-
-2. | In relation to a vehicle fitted with a movable platform, in determining the position of the obligatory reflectors no account shall be taken of the special equipment of the vehicle
+5. | Heavy goods vehicles, special purpose vehicles or goods-carrying trailers, other than engineering plant | 2 | One reflector on each side of longitudinal axis; no part of the reflecting area of one reflector to be less than 530 millimetres from any part of the reflecting area of the other reflector, and no part of the vehicle or its equipment to extend laterally on the same side as the reflector more than 400 millimetres from the nearest part of the reflecting area of the reflector | Not more than 760 millimetres from extreme rear of vehicle | 1.4 metres | 380 millimetres | 1. 2. | Height from ground of highest part of reflecting area of each reflector to be the same In relation to a vehicle fitted with a movable platform, in determining the position of the obligatory reflectors no account shall be taken of the special equipment of the vehicle
 
 3. | In relation to a vehicle being a mobile crane with a jib projecting to the rear of the vehicle, if an additional lamp showing to the rear a red light visible from a reasonable distance is carried not more than 300 millimetres from the rearmost point of the jib, column 4 shall have effect as though the jib were not part of the vehicle
 

@@ -1,8 +1,8 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
 [reg. 103]
 
-Requirements as to the number and position on vehicles of obligatory rear lamps
+Requirements as to the Number and Position on Vehicles of Obligatory Rear Lamps
 
 1 | 2 | 3 | 4 | 5 | 6 | 7
 

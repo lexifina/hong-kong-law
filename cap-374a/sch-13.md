@@ -1,7 +1,7 @@
-# THIRTEENTH SCHEDULE
+# Thirteenth Schedule
 
 [reg. 51]
 
-SIGNS ON PRIVATE LIGHT BUSES CARRYING STUDENTS, ETC.
+Signs on Private Light Buses Carrying Students, etc.
 
-(L.N. 225 of 1987)
+(Thirteenth Schedule added L.N. 225 of 1987)

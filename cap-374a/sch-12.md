@@ -1,10 +1,8 @@
-# TWELFTH SCHEDULE
+# Twelfth Schedule
 
 [reg. 122]
 
-- PART I PROVISIONS OF THE ROAD TRAFFIC (CONSTRUCTION AND USE) REGULATIONS WHICH
-
-- CORRESPOND WITH REGULATIONS 12, 16, 17, 20, 26, 28, 29, 65, 66, 67,68, 69, 70, 71, 72, 73, 76, 77, 115 AND THE TENTH SCHEDULE
+- Part I Provisions of the Road Traffic (Construction and Use) Regulations which Correspond with Regulations 12, 16, 17, 20, 26, 28, 29, 65, 66, 67, 68, 69, 70, 71, 72, 73, 76, 77 and 115 and the Tenth Schedule (E.R. 4 of 2022)
 
   - 14. Brakes
 
@@ -68,7 +66,7 @@
 
         - (b) the Commissioner by permit in writing, subject to such terms and conditions and for such period as appears to him fit, may authorize the use of a motor vehicle in contravention of this regulation.
 
-    - (3) All wheels of a motor vehicle or trailer which are equipped with tyres other than pneumatic tyres shall have a rim diameter of not less than 26 2 5 inches:
+    - (3) All wheels of a motor vehicle or trailer which are equipped with tyres other than pneumatic tyres shall have a rim diameter of not less than 26 2/5 inches:
 
       - Provided that this regulation shall not apply to—
 
@@ -120,9 +118,9 @@
 
       - (b) a second stop light shall be situated on the off side of the back of the vehicle, so that—
 
-        - (i) no part of the vehicle extends laterally more than 12 inches beyond the centres of the stop lights referred to in sub-paragraphs (a) and (b); and
+        - (i) no part of the vehicle extends laterally more than 12 inches beyond the centres of the stop lights referred to in subparagraphs (a) and (b); and
 
-        - (ii) both the stop lights referred to in sub-paragraphs (a) and (b) are equidistant from the centre of the back of the vehicle.
+        - (ii) both the stop lights referred to in subparagraphs (a) and (b) are equidistant from the centre of the back of the vehicle.
 
     - (5) When in operation every stop light shall show a steady red or amber light.
 
@@ -138,7 +136,7 @@
 
     - (2)
 
-      - In this regulation, the expression “swept circle” (掃掠圓圈) means the circle traced at ground level by a vertical line passing through any part of the omnibus included in the overall length and overall width of the omnibus.
+      - In this regulation, the expression swept circle (掃掠圓圈) means the circle traced at ground level by a vertical line passing through any part of the omnibus included in the overall length and overall width of the omnibus.
 
   - 56. Steps
 
@@ -366,13 +364,9 @@
 
       - (c) is at any point not less than 15 inches from the centre of the steering wheel.
 
-- PART II PROVISIONS OF THE ROAD TRAFFIC
+- Part II Provisions of the Road Traffic (Public Service Vehicles) Regulations which Correspond with Regulations 41, 42, 43 and 44
 
-- (PUBLIC SERVICE VEHICLES) REGULATIONS
-
-- WHICH CORRESPOND WITH REGULATIONS 41, 42, 43 and 44
-
-- (In these regulations “Authority” (主管當局) means the Commissioner for Transport.)
+- (In these regulations Authority (主管當局) means the Commissioner for Transport.)
 
   - 17. Taximeter
 
@@ -388,7 +382,7 @@
 
     - (1) Every taximeter shall be so constructed that it may be effectually sealed to the satisfaction of the Authority.
 
-    - (2) Every taximeter shall be provided with an indicator (hereinafter referred to as the “flag”) of a size not less than 2 inches by 1 inch showing the words “for hire” or the word “taxi”.
+    - (2) Every taximeter shall be provided with an indicator (hereinafter referred to as the flag) of a size not less than 2 inches by 1 inch showing the words “for hire” or the word “taxi”.
 
     - (3) Every taximeter shall be so constructed that the flag can be placed in any one of the following positions—
 

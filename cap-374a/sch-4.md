@@ -1,10 +1,8 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [regs. 31 & 31A]
 
-- PART I Maximum Permitted Smoke or Visible
-
-- Vapour Emissions from Motor Vehicles
+- Part I Maximum Permitted Smoke or Visible Vapour Emissions from Motor Vehicles
 
 - Column 1 | Column 2
 
@@ -16,11 +14,7 @@
 
 - (L.N. 150 of 2007)
 
-- PART II Standards for Exhaust Emissions from Motor
-
-- Vehicles Equipped with Positive-Ignition
-
-- Engine and using Unleaded Petrol as Fuel
+- Part II Standards for Exhaust Emissions from Motor Vehicles Equipped with Positive-Ignition Engine and Using Unleaded Petrol as Fuel
 
 - Column 1 | Column 2 | Column 3
 
@@ -30,23 +24,19 @@
 
 - (b) | where the specified level is not available to the Authority, carbon monoxide level at idle is not to exceed 4.5% vol.
 
-- Between 1 January 1987 and 31 December 1991 (both dates inclusive) | As specified in item 8.2.1(a) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) | carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority ; or
+- Between 1 January 1987 and 31 December 1991 (both dates inclusive) | As specified in item 8.2.1(a) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) | carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority; or
 
 - (b) | where the specified level is not available to the Authority, carbon monoxide level at idle is not to exceed 3.5% vol.
 
-- On or after 1 January 1992 | As specified in item 8.2.1(b) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) | carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority ; or
+- On or after 1 January 1992 | As specified in item 8.2.1(b) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) | carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority; or
 
 - (b) | where the specified level is not available to the Authority—
 
 - (i) | at idle, carbon monoxide level is not to exceed 0.5% vol.; and
 
-- (ii) | at high idle1, carbon monoxide level is not to exceed 0.3% vol. and Lambda2 is not to exceed 1±0.03
+- (ii) | at high idle1, carbon monoxide level is not to exceed 0.3% vol. and Lambda2 is not to exceed 1 ± 0.03
 
-- PART III Standards for Exhaust Emissions from Motor
-
-- Vehicles Equipped with Positive-Ignition Engine
-
-- and using Liquefied Petroleum Gas as Fuel
+- Part III Standards for Exhaust Emissions from Motor Vehicles Equipped with Positive-Ignition Engine and Using Liquefied Petroleum Gas as Fuel
 
 - Column 1 | Column 2
 

@@ -1,12 +1,12 @@
-# SIXTH SCHEDULE
+# Sixth Schedule
 
 [reg. 46]
 
-PLATES ON TAXIS
+Plates on Taxis
 
-- PART I NUMBER TO BE ALTERED TO COMPLY WITH SEATING CAPACITY OF VEHICLE
+- Part I Number to be Altered to Comply with Seating Capacity of Vehicle
 
-- PART II PROVISIONS RELATING TO PLATES
+- Part II Provisions relating to Plates
 
   - 1. The plate referred to in regulation 46 shall be indelibly coloured white on a green surface.
 
@@ -14,7 +14,7 @@ PLATES ON TAXIS
 
   - 3. Subject to the provisions of regulation 46 every such plate shall be affixed to the vehicle to the satisfaction of the Commissioner.
 
-  - 4. All letters on any such plate must be 25 millimetres high, every part of every letter must be 5 millimetres broad and the total width of the space taken by every letter, except in the case of the letter I, must be 25 millimetres.
+  - 4. All letters on any such plate must be 25 millimetres high, every part of every letter must be 5 millimetres broad and the total width of the space taken by every letter, except in the case of the letter “I”, must be 25 millimetres. (E.R. 4 of 2022)
 
   - 5. The figures shown upon the plate shall be the seating capacity as shown in the registration document in respect of the vehicle, and every such figure shall be 56 millimetres high and 38 millimetres broad.
 

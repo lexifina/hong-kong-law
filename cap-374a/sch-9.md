@@ -1,10 +1,10 @@
-# NINTH SCHEDULE
+# Ninth Schedule
 
 [reg. 114]
 
-DIRECTION INDICATORS
+Direction Indicators
 
-- PART I
+- Part I
 
   - 1. Every direction indicator fitted to a vehicle in accordance with this Part shall be, when in operation, in the form of an illuminated sign of a minimum illuminated length of 150 millimetres and a maximum illuminated breadth not exceeding one-fourth of the illuminated length, and shall show either a steady or a flashing light.
 
@@ -22,7 +22,7 @@ DIRECTION INDICATORS
 
       - (iv) it remains steady:
 
-    - Provided that sub-paragraph (a) shall not apply in the case of a pillarless saloon car if the direction indicator is not situated behind the widest part of the body. For the purposes of this proviso a pillarless saloon car means a car which has an enclosed body and four doors and no vertical pillar between the doors on either side.
+    - Provided that subparagraph (a) shall not apply in the case of a pillarless saloon car if the direction indicator is not situated behind the widest part of the body. For the purposes of this proviso a pillarless saloon car means a car which has an enclosed body and four doors and no vertical pillar between the doors on either side.
 
   - 3.
 
@@ -60,13 +60,13 @@ DIRECTION INDICATORS
 
       - (i) if and so long as every indicator not being an additional indicator fitted on that side of the vehicle is in operation, together with the indicator on that side of the trailer (if a trailer is towed), give a warning readily visible or audible to the driver when in his seat;
 
-      - (ii) in any other case give no warning or warning different from that given if the conditions of sub-sub-paragraph (i) of this sub-paragraph are satisfied.
+      - (ii) in any other case give no warning or warning different from that given if the conditions of sub-subparagraph (i) of this subparagraph are satisfied.
 
   - 9. Every direction indicator shall be so fitted that when not in operation it will not be likely to mislead the driver of any other vehicle or any person controlling traffic.
 
   - 10. Any reference in this Schedule to the side of a vehicle shall be taken to include that part of the front or the back of the vehicle which is on that side of the vehicle.
 
-- PART II
+- Part II
 
   - 1. Subject to the provisions of paragraph 3, every direction indicator fitted to a vehicle in accordance with this Part shall be in the form of a lamp which, when in operation, shows a flashing light visible at a reasonable distance from both the front and the rear of the vehicle.
 
@@ -84,7 +84,7 @@ DIRECTION INDICATORS
 
   - 3.
 
-    - (1) Subject to the provisions of sub-paragraph (2), in lieu of a direction indicator in respect of which the provisions of paragraphs 1 and 2 are complied with, 2 indicators may be fitted to any side of a vehicle and shall be so designed and fitted that—
+    - (1) Subject to the provisions of subparagraph (2), in lieu of a direction indicator in respect of which the provisions of paragraphs 1 and 2 are complied with, 2 indicators may be fitted to any side of a vehicle and shall be so designed and fitted that—
 
       - (a) when in operation one of the indicators on one side shall show a flashing light visible from a reasonable distance to the front of the vehicle and the other indicator on that side shall, except when a trailer is being towed, show a flashing light visible from a reasonable distance to the rear of the vehicle;
 
@@ -98,11 +98,11 @@ DIRECTION INDICATORS
 
       - (b) it shall not be necessary for an indicator showing a flashing light to the rear to be carried on either side of the vehicle.
 
-    - This sub-paragraph shall not apply when the trailer is of a weight unladen not exceeding 100 kilograms, or is a broken down motor vehicle being towed in consequence of the breakdown.
+    - This subparagraph shall not apply when the trailer is of a weight unladen not exceeding 100 kilograms, or is a broken down motor vehicle being towed in consequence of the breakdown.
 
   - 4.
 
-    - (1) Save as provided in sub-paragraph (2), a direction indicator fitted in compliance with this Part and showing a flashing light to the front shall not be combined with nor obscure any lamp showing to the front a white light being a lamp required to be carried by or under any enactment.
+    - (1) Save as provided in subparagraph (2), a direction indicator fitted in compliance with this Part and showing a flashing light to the front shall not be combined with nor obscure any lamp showing to the front a white light being a lamp required to be carried by or under any enactment.
 
     - (2) In the case of a vehicle on either side of which two direction indicators are fitted in accordance with paragraph 3 an indicator showing a flashing light to the front may be combined with an electric lamp showing a white light to the front being a lamp required to be carried by or under any enactment provided that—
 
@@ -120,35 +120,35 @@ DIRECTION INDICATORS
 
   - 8. The provisions of paragraphs 4, 6, 7, 8, 9 and 10 of Part I shall apply as respects direction indicators fitted in compliance with this Part as they apply as respects direction indicators fitted in compliance with that Part.
 
-- PART III
+- Part III
 
   - 1.
 
     - (1) In this Part and in the diagrams set out in Part IV—
 
-      - “inboard angle” (內側角度), in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally inwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator;
+      - blind angle (盲角度), in relation to a direction indicator, means an angle, throughout which no light from the indicator need be visible, measured horizontally outwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator; (E.R. 4 of 2022)
 
-      - “outboard angle” (外側角度), in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally outwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator;
+      - inboard angle (內側角度), in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally inwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator;
 
-      - “blind angle” (盲角度), in relation to a direction indicator, means an angle, throughout which no light from the indicator need be visible, measured horizontally outwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator.
+      - outboard angle (外側角度), in relation to a direction indicator, means an angle, within which light from the indicator is visible, measured horizontally outwards from a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the indicator. (E.R. 4 of 2022)
 
-    - (2)
+    - (E.R. 4 of 2022)
 
-      - In this Part the expressions “front indicator” (前指示器), “shoulder indicator” (肩指示器), “side indicator” (側指示器), “flank indicator” (示廓器) and “rear indicator” (後指示器) mean respectively a direction indicator to which diagram 1, 2, 3, 4 or 5 set out in Part IV applies and which being of a kind mentioned in column 1 of the following Table is when fitted to a vehicle in the position indicated in column 3 of that Table in compliance with the provisions of this Part capable of being seen by an observer on the road standing in the position or, in turn, in each position in relation to that vehicle indicated in column 2 of that Table with an angle of visibility as indicated in column 4 of that Table— TABLE
+    - (2) In this Part the expressions front indicator (前指示器), shoulder indicator (肩指示器), side indicator (側指示器), flank indicator (示廓器) and rear indicator (後指示器) mean respectively a direction indicator to which diagram 1, 2, 3, 4 or 5 set out in Part IV applies and which being of a kind mentioned in column 1 of the following Table is when fitted to a vehicle in the position indicated in column 3 of that Table in compliance with the provisions of this Part capable of being seen by an observer on the road standing in the position or, in turn, in each position in relation to that vehicle indicated in column 2 of that Table with an angle of visibility as indicated in column 4 of that Table— Table
 
-      - 1 Kind of Direction Indicator | 2 Observer’s Position in relation to the Vehicle | 3 Position on Vehicle | 4 Angle of visibility required in relation to an axis parallel to the longitudinal axis of the vehicle and passing through the centre of the direction indicator lamp.
+    - 1 Kind of Direction Indicator | 2 Observer’s Position in relation to the Vehicle | 3 Position on Vehicle | 4 Angle of visibility required in relation to an axis parallel to the longitudinal axis of the vehicle and passing through the centre of the direction indicator lamp.
 
-      - Front | In Front | At Front | An outboard angle of visibility of 80 degrees to the front. An inboard angle of visibility of 45 degrees to the front.
+    - Front | In Front | At Front | An outboard angle of visibility of 80 degrees to the front. An inboard angle of visibility of 45 degrees to the front.
 
-      - Shoulder | In Front and Alongside | On side | An outboard angle to the rear of 60 degrees of visibility, of which the inboard 10 degrees from the axis may be blind angle (no light). An outboard angle of visibility to the front of 45 degrees. An inboard angle of visibility to the front of 10 degrees.
+    - Shoulder | In Front and Alongside | On side | An outboard angle to the rear of 60 degrees of visibility, of which the inboard 10 degrees from the axis may be blind angle (no light). An outboard angle of visibility to the front of 45 degrees. An inboard angle of visibility to the front of 10 degrees.
 
-      - Side | In Front, Alongside and in Rear | Side | An outboard angle of visibility to the front of 45 degrees and an inboard angle of visibility to the front of 5 degrees. An outboard angle of visibility to the rear of 60 degrees and an inboard angle of visibility to the rear of 5 degrees.
+    - Side | In Front, Alongside and in Rear | Side | An outboard angle of visibility to the front of 45 degrees and an inboard angle of visibility to the front of 5 degrees. An outboard angle of visibility to the rear of 60 degrees and an inboard angle of visibility to the rear of 5 degrees.
 
-      - Flank | Alongside | Side | An outboard angle of visibility to the rear of 60 degrees of which the inboard of 10 degrees from the axis may be blind (no light).
+    - Flank | Alongside | Side | An outboard angle of visibility to the rear of 60 degrees of which the inboard of 10 degrees from the axis may be blind (no light).
 
-      - Rear | In Rear | Rear | An outboard angle of visibility of 80 degrees to the rear and an inboard angle of visibility to the rear of 45 degrees.
+    - Rear | In Rear | Rear | An outboard angle of visibility of 80 degrees to the rear and an inboard angle of visibility to the rear of 45 degrees.
 
-      - Note: An illuminated area of at least 2 square centimetres must be visible throughout the angles of visibility, within a reasonable distance, for at least 15 degrees above and 15 degrees below the horizontal.
+    - Note: An illuminated area of at least 2 square centimetres must be visible throughout the angles of visibility, within a reasonable distance, for at least 15 degrees above and 15 degrees below the horizontal.
 
   - 2. Every direction indicator fitted to a vehicle in compliance with this Part shall be in the form of a lamp which, when in operation, shows a flashing amber light.
 
@@ -162,15 +162,15 @@ DIRECTION INDICATORS
 
       - (c) at least one side indicator.
 
-    - (2) A motor vehicle to which front indicators have been fitted in accordance with sub-paragraph (1) shall in addition have fitted on each side of the vehicle at least one flank indicator, if the distance between the nearest part of the illuminated area of the front indicator and the nearest part of the illuminated area of the rear indicator on either side of the vehicle exceeds 6 metres or if the motor vehicle is the towing vehicle forming part of an articulated vehicle.
+    - (2) A motor vehicle to which front indicators have been fitted in accordance with subparagraph (1) shall in addition have fitted on each side of the vehicle at least one flank indicator, if the distance between the nearest part of the illuminated area of the front indicator and the nearest part of the illuminated area of the rear indicator on either side of the vehicle exceeds 6 metres or if the motor vehicle is the towing vehicle forming part of an articulated vehicle.
 
-    - (3) Where one or more flank indicators are fitted on each side of a motor vehicle in accordance with sub-paragraph (2) at least one shall be so fitted on that side that the distance between the foremost part of the motor vehicle which is comprised in the overall length of the vehicle and the rearmost part of the illuminated area of that indicator is not more than one third of the overall length of the motor vehicle or, where the motor vehicle is the towing vehicle forming part of an articulated vehicle, not more than one third of the overall length of the articulated vehicle.
+    - (3) Where one or more flank indicators are fitted on each side of a motor vehicle in accordance with subparagraph (2) at least one shall be so fitted on that side that the distance between the foremost part of the motor vehicle which is comprised in the overall length of the vehicle and the rearmost part of the illuminated area of that indicator is not more than one third of the overall length of the motor vehicle or, where the motor vehicle is the towing vehicle forming part of an articulated vehicle, not more than one third of the overall length of the articulated vehicle.
 
     - (4) Where in accordance with the foregoing provisions of this paragraph more than one kind of direction indicator is required to be fitted on a side of a motor vehicle, it shall be a sufficient compliance with those provisions if the vehicle is fitted on that side with either one direction indicator which satisfies or with two or more direction indicators which together satisfy the requirements of paragraph 8 in relation to each kind of direction indicator with which that vehicle would otherwise be required to be fitted on that side.
 
   - 4. In the case of a combination of a motor vehicle towing a trailer and in the case of an articulated vehicle, where that motor vehicle or the motor vehicle forming part of the articulated vehicle is fitted with direction indicators in compliance with this Part, the trailer shall be fitted on each side with a single rear indicator in compliance with this Part.
 
-  - 5. No motor vehicle towing a trailer, being a trailer to which is fitted on each side a rear indicator in compliance with this Part of this Schedule, need be fitted with any rear indicator under (a) or (b) of paragraph 3(1) if the motor vehicle forms part of an articulated vehicle.
+  - 5. No motor vehicle towing a trailer, being a trailer to which is fitted on each side a rear indicator in compliance with this Part of this Schedule, need be fitted with any rear indicator under paragraph 3(1)(a) or (b) if the motor vehicle forms part of an articulated vehicle. (E.R. 4 of 2022)
 
   - 6.
 
@@ -210,11 +210,9 @@ DIRECTION INDICATORS
 
   - 16. The provisions of paragraphs 7, 8, 9 and 10 of Part I shall apply to direction indicators fitted in compliance with this Part of this Schedule as they apply to direction indicators fitted in compliance with that Part.
 
-- PART IV DIAGRAMS APPLICABLE TO DIRECTION INDICATORS MENTIONED IN
+- Part IV Diagrams Applicable to Direction Indicators Mentioned in Part III, Paragraph 1 (Note: Positional requirements are set out in paragraphs 9, 10 and 11)
 
-- PART III, PARAGRAPH 1 (Note: Positional requirements are set out in paragraphs 9, 10 and 11)
-
-- PART V
+- Part V
 
   - 1. Every direction indicator fitted to a trailer shall comply with the provisions of this Part:
 

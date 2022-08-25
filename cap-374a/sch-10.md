@@ -1,10 +1,10 @@
-# TENTH SCHEDULE
+# Tenth Schedule
 
 [regs. 115 & 122]
 
-STOP LAMPS
+Stop Lamps
 
-- PART I Vehicles not required to be fitted with stop lamps
+- Part I Vehicles not Required to be Fitted with Stop Lamps
 
   - 1. Any land implement, land tractor and pedestrian controlled vehicle.
 
@@ -20,7 +20,7 @@ STOP LAMPS
 
   - 5. In the case of a combination of two or more vehicles, being a motor vehicle towing a trailer, the vehicles in that combination other than the rearmost.
 
-- PART II Requirements to be complied with by stop lamps fitted to motor vehicles and trailers
+- Part II Requirements to be Complied with by Stop Lamps Fitted to Motor Vehicles and Trailers
 
   - 1. Every stop lamp fitted to a vehicle or trailer shall be fitted at the rear of the vehicle and not to the left of the centre thereof and when in operation shall show a red light:
 

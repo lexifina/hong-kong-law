@@ -1,5 +1,7 @@
-TAX RESERVE CERTIFICATES (RATE OF INTEREST) (CONSOLIDATION) NOTICE
+Tax Reserve Certificates (Rate of Interest) (Consolidation) Notice
 
-(Tax Reserve Certificates (Fourth Series) Rules, rule 7(2)(h))
+(Cap. 289 sub. leg. A, rule 7(2)(h))
 
 [11 April 1980]
+
+(Format changes—E.R. 4 of 2022)

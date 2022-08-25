@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [para. 2]
 
 Item | Periods | Rate of interest
 
-1. | On or after 11 April 1980 and before 30 May 1980 (L.N. 89 of 1980) | 10 1 2 %
+1. | On or after 11 April 1980 and before 30 May 1980 (L.N. 89 of 1980) | 10 1/2%
 
 2. | On or after 30 May 1980 and before 27 June 1980 (L.N. 128 of 1980) | 9%
 
