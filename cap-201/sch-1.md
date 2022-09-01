@@ -114,7 +114,7 @@ Public Bodies
 
 54. | (Repealed 11 of 2004 s. 17)
 
-55. | Travel Industry Council of Hong Kong. (Added L.N. 62 of 1990)
+55. | (Repealed 37 of 2018 s. 171)
 
 56. | (Repealed 20 of 1999 s. 6)
 
@@ -142,7 +142,7 @@ Public Bodies
 
 68. | Tradelink Electronic Commerce Limited. (Replaced L.N. 125 of 1998)
 
-69. | Travel Industry Compensation Fund Management Board. (Added 51 of 1993 s. 8)
+69. | (Repealed 37 of 2018 s. 171)
 
 70. | Western Harbour Tunnel Company Limited. (Added 72 of 1993 s. 71)
 
