@@ -43,6 +43,16 @@ s-020F.md
 s-020G.md
 s-020H.md
 s-020I.md
+s-020J.md
+s-020Q.md
+s-020R.md
+s-020S.md
+s-020T.md
+s-020U.md
+s-020V.md
+s-020W.md
+s-020X.md
+s-020ZA.md
 s-021.md
 s-021A.md
 s-022.md
@@ -87,3 +97,4 @@ sch-10.md
 sch-11.md
 sch-12.md
 sch-13.md
+sch-14.md
