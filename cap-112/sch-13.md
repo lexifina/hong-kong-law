@@ -78,13 +78,15 @@ Item | Institution
 
 34. | The Surveyors Registration Board established by section 3 of the Surveyors Registration Ordinance (Cap. 417)
 
-35. | The Travel Industry Council of Hong Kong referred to in section 32A(1) of the Travel Agents Ordinance (Cap. 218)
+35. | (Repealed 37 of 2018 s. 171)
 
 36. | The Veterinary Surgeons Board established by section 3 of the Veterinary Surgeons Registration Ordinance (Cap. 529)
 
 37. | The Vocational Training Council established by section 4 of the Vocational Training Council Ordinance (Cap. 1130)
 
 38. | The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established by section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150) (Added 6 of 2007 s. 49)
+
+39. | The Travel Industry Authority established by section 150 of the Travel Industry Ordinance (Cap. 634) (Added 37 of 2018 s. 171 and E.R. 1 of 2019)
 
 Editorial Note:
 
