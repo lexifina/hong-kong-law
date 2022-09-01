@@ -1802,7 +1802,7 @@ Election Committee
 
         - (a) any body that—
 
-          - (i) is a travel agent holding a licence as defined by section 2 of the Travel Agents Ordinance (Cap. 218); and
+          - (i) is a licensed travel agent as defined by section 2(1) of the Travel Industry Ordinance (Cap. 634); and (Replaced 37 of 2018 s. 171 and 14 of 2021 s. 475)
 
           - (ii) is—
 

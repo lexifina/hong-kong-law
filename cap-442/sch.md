@@ -62,15 +62,7 @@ Item | Ordinance | Decision
 
 12. | Weapons Ordinance (Cap. 217) | A decision of the Commissioner of Police under section 9(1) to order the delivery up to him or seizure of any martial arts weapon.
 
-13. | Travel Agents Ordinance (Cap. 218) | A decision of the Registrar of Travel Agents—
-
-(a) | to refuse to grant a licence under section 12(1);
-
-(b) | to impose conditions on a licence under section 11(1) or 18;
-
-(c) | to refuse consent to a change of ownership or control under section 18(c);
-
-(d) | to suspend or revoke a licence under section 19.
+13. | (Repealed 37 of 2018 s. 171)
 
 14. | Firearms and Ammunition Ordinance (Cap. 238) | (a) | A decision of the Commissioner of Police refusing to grant a licence under section 30 or to renew a licence under section 32.
 
