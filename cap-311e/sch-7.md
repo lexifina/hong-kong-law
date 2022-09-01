@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [para. 2]
 
-SOUTH HONG KONG ISLAND—LAMMA AIR CONTROL ZONE
+South Hong Kong Island—Lamma Air Control Zone
 
 The area delineated and bounded by a blue line on a map numbered AP/50/6, signed by the Secretary for Planning, Environment and Lands on 28 October 1989 and deposited in the Land Registry at Victoria.
 

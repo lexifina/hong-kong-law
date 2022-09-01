@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [para. 2]
 
-JUNK BAY AIR CONTROL ZONE
+Junk Bay Air Control Zone
 
 The area delineated and bounded by a blue line on a map numbered AP/50/2, signed by the Secretary for Planning, Environment and Lands on 28 October 1989 and deposited in the Land Registry at Victoria.
 
