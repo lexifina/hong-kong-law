@@ -4,8 +4,6 @@
 
 Partnership Matters
 
-(Not yet in operation)
-
 - 1. Partnership matters For the purposes of section 18(3)(a) and (5)(b), the matters in relation to a partnership are—
 
   - (a) whether any partner in the partnership is an undischarged bankrupt;

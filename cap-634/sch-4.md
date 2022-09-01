@@ -4,8 +4,6 @@
 
 Individual Matters
 
-(Not yet in operation)
-
 - 1. Individual matters
 
   - (1) For the purposes of sections 18(4)(a) and (5)(c) and 25(1)(a), the matters in relation to an individual are—

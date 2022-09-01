@@ -4,8 +4,6 @@
 
 Guarantee Money Requirement
 
-(Not yet in operation)
-
 Level | Amount
 
 1 | $250,000

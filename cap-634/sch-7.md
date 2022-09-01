@@ -4,8 +4,6 @@
 
 Qualification Requirement for Authorized Representative of Travel Agent
 
-(Not yet in operation)
-
 - 1. Qualification requirement
 
   - (1) For the purposes of section 25(1)(d), the qualification requirement is—

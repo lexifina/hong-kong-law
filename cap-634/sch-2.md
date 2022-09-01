@@ -4,8 +4,6 @@
 
 Company Matters
 
-(Not yet in operation)
-
 - 1. Company matters For the purposes of section 18(2)(a) and (c)(i) and (5)(a), the matters in relation to a company are—
 
   - (a) whether the company has entered into a composition or scheme of arrangement with its creditors, or has made an assignment of its estate for the benefit of its creditors;

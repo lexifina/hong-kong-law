@@ -4,8 +4,6 @@
 
 Period within which Application for Renewal of Licence or Business Permit must be Made
 
-(Not yet in operation)
-
 - 1. Specified period
 
   - (1) For the purposes of section 13(2)(a), an application for the renewal of a travel agent licence or business permit must be made not more than 2 months and not less than 1 month before the expiry of the licence or permit.

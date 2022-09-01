@@ -4,6 +4,4 @@
 
 Capital Requirement
 
-(Not yet in operation)
-
 - $500,000
