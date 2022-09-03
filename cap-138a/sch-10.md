@@ -2460,6 +2460,8 @@ Poisons List
 
     - Phenazocine; its salts; its esters and ethers; their salts
 
+    - Phenazopyridine; its salts
+
     - Phenbutrazate
 
     - Phencyclidine; its salts

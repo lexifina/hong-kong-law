@@ -144,6 +144,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Allergen extract of Dermatophagoides pteronyssinus
 
+- Allopurinol
+
 - Allylisopropylacetylurea
 
 - Allylprodine; its salts

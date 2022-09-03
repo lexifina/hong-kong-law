@@ -130,6 +130,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Allergen extract of Dermatophagoides pteronyssinus
 
+- Allopurinol
+
 - Allylisopropylacetylurea
 
 - Almitrine; its salts
