@@ -2,8 +2,6 @@
 
 [s. 99(3)]
 
-(Not yet in operation)
-
 Other Miscellaneous Consequential Amendments to Accounting and Financial Reporting Council Ordinance (Cap. 588)
 
 Column 1 | Column 2 | Column 3 | Column 4
