@@ -92,6 +92,10 @@ Prescribed Fees
 
   - 3B. Section 3A of this Schedule and this section expire at midnight on 30 September 2022. (L.N. 28 of 2022)
 
+  - 3C. During the period from 1 October 2022 to 30 September 2023 (both dates inclusive), the table in section 3 of this Schedule has effect as if the fees specified in items 1, 2, 3, 4, 5, 6, 7 and 8 of the table were zero. (L.N. 84 of 2022)
+
+  - 3D. Section 3C of this Schedule and this section expire at midnight on 30 September 2023. (L.N. 84 of 2022)
+
 - Part 2 Prescribed Fees for Licences for S2DG
 
   - 4. In this Part—
