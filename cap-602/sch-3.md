@@ -26,6 +26,8 @@ Authorization or Qualification Specified for the Purposes of Section 19(2) of th
 
   - (i) the Chiropractors Registration Ordinance (Cap. 428);
 
-  - (j) the Civil Aviation Ordinance (Cap. 448); or
+  - (j) the Civil Aviation Ordinance (Cap. 448); (Amended L.N. 66 of 2022)
 
-  - (k) the Chinese Medicine Ordinance (Cap. 549).
+  - (k) the Chinese Medicine Ordinance (Cap. 549); or (Amended L.N. 66 of 2022)
+
+  - (l) Part 2A of the Accounting and Financial Reporting Council Ordinance (Cap. 588). (Added L.N. 66 of 2022)

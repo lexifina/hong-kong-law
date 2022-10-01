@@ -1186,7 +1186,7 @@ Election Committee
 
         - (a) it has been operating as such a specified entity for the 3 years immediately before making its application for registration as a voter; and
 
-        - (b) it has undertaken or carried out PIE engagement (as defined by section 3A(1) of the Financial Reporting Council Ordinance (Cap. 588)) in the 3 years immediately before making the application for registration. (Added 14 of 2021 s. 425)
+        - (b) it has undertaken or carried out PIE engagement (as defined by section 3A(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588)) in the 3 years immediately before making the application for registration. (Added 14 of 2021 s. 425. Amended L.N. 66 of 2022)
 
       - (19C) However, for the purposes of subsection (19B), if the body is a registered PIE auditor as defined by section 3A(1) of the Financial Reporting Council Ordinance (Cap. 588) immediately before the day* on which the Improving Electoral System (Consolidated Amendments) Ordinance 2021 (14 of 2021) is published in the Gazette, the body is not required to have been operating, as such a registered PIE auditor, for the 3 years immediately before making the application for registration. (Added 14 of 2021 s. 425)
 
@@ -1836,11 +1836,7 @@ Election Committee
 
     - Subdivision 2 Second Sector
 
-      - 39S. Specified entities of the accountancy subsector The specified entities of the accountancy subsector are any practice unit (as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50)) that—
-
-        - (a) is registered under the Professional Accountants Ordinance (Cap. 50); and
-
-        - (b) is a registered PIE auditor as defined by section 3A(1) of the Financial Reporting Council Ordinance (Cap. 588).
+      - 39S. Specified entities of the accountancy subsector The specified entities of the accountancy subsector are any practice unit (as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588)) that is a registered PIE auditor as defined by section 3A(1) of that Ordinance. (Amended L.N. 66 of 2022)
 
       - 39T. Specified entities of the architectural, surveying, planning and landscape subsector The specified entities of the architectural, surveying, planning and landscape subsector are the bodies set out in Annex 3 to this Schedule.
 

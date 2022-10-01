@@ -6,9 +6,11 @@ Exempt Persons
 
 (Schedule 3 added 25 of 2012 s. 23)
 
-- 1. A certified public accountant or a corporate practice, as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50).
+- 1. A certified public accountant as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50). (Replaced L.N. 66 of 2022)
 
-- 2. A certified public accountant (practising), as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50), practising on their own account under a firm name.
+- 1A. A corporate practice as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588). (Added L.N. 66 of 2022)
+
+- 2. A person who falls within paragraph (a) of the definition of CPA firm in section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588). (Replaced L.N. 66 of 2022)
 
 - 3. A person whose name is entered in the register of pharmacists under section 5 of the Pharmacy and Poisons Ordinance (Cap. 138).
 

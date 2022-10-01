@@ -278,9 +278,9 @@ Matters to be Specified in Prospectus and Reports to be set out therein
 
   - 43.
 
-    - Any report by accountants required by Part II shall be made by accountants qualified under the Professional Accountants Ordinance (Cap. 50) for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and for the purposes of this paragraph the expression officer (高級人員) shall include a proposed director but not an auditor.
+    - Any report by accountants required by Part II shall be made by persons who are not prohibited under section 20AAZZR of the Accounting and Financial Reporting Council Ordinance (Cap. 588) from holding any appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and for the purposes of this paragraph the expression officer (高級人員) shall include a proposed director but not an auditor.
 
-  - (Amended 6 of 1984 s. 259; 12 of 2005 s. 15)
+  - (Amended 6 of 1984 s. 259; 12 of 2005 s. 15; L.N. 66 of 2022)
 
   - 44. For the purposes of paragraph 6, the description of a person, that is to say, his profession, trade or other occupation shall be stated with particularity and precision; and the description “Company Director” shall be inadequate unless supplementary information is provided stating the nature of the relevant company’s business.
 

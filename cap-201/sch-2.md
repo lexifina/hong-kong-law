@@ -20,7 +20,7 @@ Public Bodies Specified for Purposes of Definition of Public Servant
 
 \#7. | A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002)
 
-8. | Financial Reporting Council. (Added 18 of 2006 s. 80)
+8. | Accounting and Financial Reporting Council. (Added 18 of 2006 s. 80. Amended L.N. 66 of 2022)
 
 9. | Hong Kong Internet Registration Corporation Limited. (Added L.N. 38 of 2012)
 

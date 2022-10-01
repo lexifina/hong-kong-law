@@ -28,7 +28,7 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
     - (a) the claim is made by the person in respect of the professional negligence of any of the following persons—
 
-      - (i) a certified public accountant (practising) as defined by section 2 of the Professional Accountants Ordinance (Cap. 50);
+      - (i) a certified public accountant (practising) as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Amended L.N. 66 of 2022)
 
       - (ii) a person registered as a registered architect under the Architects Registration Ordinance (Cap. 408);
 

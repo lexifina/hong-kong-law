@@ -108,11 +108,13 @@ Interpretation
 
     - accounting professional (會計專業人士) means—
 
-      - (a) a certified public accountant or a certified public accountant (practising), as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50);
+      - (a) a certified public accountant as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50), or a certified public accountant (practising) as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Replaced L.N. 66 of 2022)
 
-      - (b) a corporate practice as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50); or
+      - (b) a corporate practice as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); or (Amended L.N. 66 of 2022)
 
-      - (c) a firm of certified public accountants (practising) registered under Part IV of the Professional Accountants Ordinance (Cap. 50); (Added 4 of 2018 s. 25)
+      - (c) a CPA firm as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Replaced L.N. 66 of 2022)
+
+    - AFRC (會財局) means the Accounting and Financial Reporting Council continued under section 6 of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Added L.N. 66 of 2022)
 
     - authorized institution (認可機構) has the meaning given by section 2(1) of the Banking Ordinance (Cap. 155);
 
@@ -206,7 +208,13 @@ Interpretation
 
     - regulatory body (監管機構), in relation to—
 
-      - (a) an accounting professional—means the HKICPA;
+      - (a) an accounting professional—means— (Amended L.N. 66 of 2022)
+
+        - (i) (subject to subparagraphs (ii) and (iii)) the AFRC;
+
+        - (ii) (for the purposes of section 4) the AFRC or the HKICPA; or
+
+        - (iii) (for the purposes of section 7(1), (2) and (3)) the HKICPA as overseen by the AFRC under section 9(b) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Amended L.N. 66 of 2022)
 
       - (b) an estate agent—means the Estate Agents Authority; and
 

@@ -312,7 +312,7 @@ Accounts and Statements
 
     - (1AE) Notwithstanding subparagraph (1AD)(g), the appointed auditor’s opinion given under that subparagraph as to whether a true and fair view is so given may, where the valuation of any asset or liability or the treatment of any income or expenditure of the captive insurer is in accordance with any statutory provision which, in the case of that captive insurer, applied to the preparation of the accounts and statements so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation or treatment and the statutory provisions in question. (Added 29 of 1997 s. 13)
 
-    - ※(1A) The forms and statements to be submitted under Parts 8 and 9 of this Schedule (except the forms to be submitted in Form HKL2 and Form HKL3 under Part 8) shall be audited by a person who is qualified for appointment as auditor of a company under the Professional Accountants Ordinance (Cap. 50) and is not disqualified under section 393 of the Companies Ordinance (Cap. 622), and the auditor shall— (Amended L.N. 2 of 2003; 28 of 2012 ss. 912 & 920)
+    - ※(1A) The forms and statements to be submitted under Parts 8 and 9 of this Schedule (except the forms to be submitted in Form HKL2 and Form HKL3 under Part 8) shall be audited by a person who is not prohibited under section 20AAZZR of the Accounting and Financial Reporting Council Ordinance (Cap. 588) from holding any appointment as an auditor of a company and is not disqualified under section 393 of the Companies Ordinance (Cap. 622), and the auditor shall— (Amended L.N. 2 of 2003; 28 of 2012 ss. 912 & 920; L.N. 66 of 2022)
 
       - (a) with respect to the forms (except Form HKL1) under Part 8, annex a report thereto stating whether or not in his opinion— (Amended L.N. 2 of 2003)
 
@@ -1666,8 +1666,6 @@ Accounts and Statements
 
 - We certify that the above information is true and correct.
 
-- _ | _ | _
-
 - () | () | ()
 
 - Director | Director | *Chief Executive/Secretary
@@ -1736,8 +1734,6 @@ Accounts and Statements
 
 - We certify that the above information is true and correct.
 
-- _ | _ | _
-
 - () | () | ()
 
 - Director | Director | *Chief Executive/Secretary
@@ -1801,8 +1797,6 @@ Accounts and Statements
 - TOTAL
 
 - We certify that the above information is true and correct.
-
-- _ | _ | _
 
 - () | () | ()
 

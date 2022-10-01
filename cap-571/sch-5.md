@@ -72,7 +72,7 @@ Regulated Activities
 
     - (vi) counsel who gives such advice wholly incidental to his practice as such;
 
-    - (vii) a certified public accountant who gives such advice wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
+    - (vii) a certified public accountant who gives such advice wholly incidental to his practice as such in a practice unit as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Amended 23 of 2004 s. 56; L.N. 66 of 2022)
 
     - (viii) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which gives such advice wholly incidental to the discharge of its duty as such; or
 
@@ -134,7 +134,7 @@ Regulated Activities
 
     - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
 
-    - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
+    - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Amended 23 of 2004 s. 56; L.N. 66 of 2022)
 
     - (viii) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
 
@@ -196,7 +196,7 @@ Regulated Activities
 
     - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
 
-    - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
+    - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); (Amended 23 of 2004 s. 56; L.N. 66 of 2022)
 
     - (viii) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
 
@@ -590,7 +590,7 @@ Regulated Activities
 
     - (f) counsel who provides such service wholly incidental to his practice as such;
 
-    - (g) a certified public accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or (Amended 23 of 2004 s. 56)
+    - (g) a certified public accountant who provides such service wholly incidental to his practice as such in a practice unit as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588); or (Amended 23 of 2004 s. 56; L.N. 66 of 2022)
 
     - (h) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such. (Amended L.N. 197 of 2005)
 
@@ -600,19 +600,11 @@ Regulated Activities
 
 - + The new paragraph (ab) in the definition of automated trading services, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to the new paragraph (d) of the definition of automated trading services. Please see paragraph (h) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
 
-- Editorial Note:
-
 - @ The new paragraph (ba) in the definition of automated trading services, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to the new paragraph (d) of the definition of automated trading services. Please see paragraph (j) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
-
-- Editorial Note:
 
 - ## The new paragraph (d) in the definition of automated trading services, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, except in so far as it relates to Type 7 regulated activity under the Securities and Futures Ordinance (Cap. 571). Please see paragraph (l) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
 
-- Editorial Note:
-
 - # Not yet in operation.
-
-- Editorial Note:
 
 - § The new definition of providing client clearing services for OTC derivative transactions, Part 2, Schedule 5 added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to paragraph (c) of the new definition of excluded services. Please see paragraph (n)(ii) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016). See also section 78(3) of the Securities and Futures and Companies Legislation (Amendment) Ordinance 2021 (17 of 2021).
 
@@ -791,10 +783,6 @@ Regulated Activities
 - # Not yet in operation.
 
 - @ The new section 4(b), Schedule 5, Part 2A added by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) came into operation on 1 September 2016, in so far as it relates to the new definition of providing client clearing services for OTC derivative transactions in Part 2 of Schedule 5. Please see paragraph (o) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016).
-
-- Editorial Note:
-
-- # Not yet in operation.
 
 - Part 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
 

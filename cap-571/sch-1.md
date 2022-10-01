@@ -58,7 +58,7 @@ Interpretation and General Provisions
 
       - (b) receives or holds in Hong Kong client assets of the intermediary;
 
-    - auditor (核數師) means a certified public accountant (practising) as defined in the Professional Accountants Ordinance (Cap. 50), or such other person as is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition; (Amended 23 of 2004 s. 56)
+    - auditor (核數師) means a certified public accountant (practising) as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588), or such other person as is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition; (Amended 23 of 2004 s. 56; L.N. 66 of 2022)
 
     - authorized automated trading services (認可自動化交易服務) means automated trading services which a person is authorized to provide under section 95(2) of this Ordinance;
 
@@ -983,8 +983,6 @@ Interpretation and General Provisions
   - Editorial Note:
 
   - # Not yet commenced.
-
-  - Editorial Note:
 
   - § Commencement date: 13 November 2015.
 
