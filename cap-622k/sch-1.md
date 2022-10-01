@@ -2,7 +2,7 @@
 
 # Schedule 1
 
-[ss. 2 & 6] (L.N. 62 of 2020)
+[s. 2] (L.N. 62 of 2020)
 
 Fees Payable in relation to Registration of Companies or for Registration of Documents
 
