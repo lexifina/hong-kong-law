@@ -186,7 +186,7 @@ Approval of Persons (Articles 8(8) and 11(6)(c) of the Order) (L.N. 159 of 2011)
 
     - (b) the specified approval is in force at any time during the concession period; and
 
-    - (c) investigations mentioned in subparagraph (5) are made during the period from 1 April 2021 to 31 March 2022 (both dates inclusive) in respect of any approval held by the person, (L.N. 181 of 2021)
+    - (c) investigations mentioned in subparagraph (5) are made during the period from 1 April 2022 to 31 March 2023 (both dates inclusive) in respect of any approval held by the person, (L.N. 181 of 2021; L.N. 76 of 2022)
 
   - the fee payable for making the investigations is $0. (L.N. 173 of 2020)
 
