@@ -50,11 +50,11 @@ Calculation of Levies
 
   - (2) However, if N is 0, the levy payable by the PIE auditor for the calendar year is $2,000.
 
-  - (3) For ascertaining N and TR, the HKICPA or the FRC (as the case requires) may refer to—
+  - (3) For ascertaining N and TR, the AFRC may refer to— (Amended 41 of 2021 s. 104)
 
     - (a) the annual financial statements of the PIEs submitted to the HKEC under the Listing Rules; or
 
-    - (b) any information or document provided by the PIE auditor to the HKICPA or the FRC under section 50C(2).
+    - (b) any information or document provided by the PIE auditor to the AFRC under section 50C(2). (Amended 41 of 2021 s. 104)
 
   - (4) For the purposes of subsection (1), a PIE auditor is carrying out an engagement for a PIE on a day if—
 

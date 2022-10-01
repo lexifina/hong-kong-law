@@ -8,25 +8,25 @@ Provisions Relating to Investigation Board and its Members
 
 - 1. Appointment of members
 
-  - (1) A member appointed to the Investigation Board under section 22(2)(b) of this Ordinance is to be appointed for a term fixed by the FRC at the time of the member’s appointment.
+  - (1) A member appointed to the Investigation Board under section 22(2)(b) of this Ordinance is to be appointed for a term fixed by the AFRC at the time of the member’s appointment.
 
   - (2) On the expiry of the period of appointment or reappointment of a member of the Investigation Board, the member is eligible for reappointment.
 
-  - (3) All matters relating to the terms and conditions of the appointment of a member of the Investigation Board are to be determined by the FRC.
+  - (3) All matters relating to the terms and conditions of the appointment of a member of the Investigation Board are to be determined by the AFRC.
 
-  - (4) A member of the Investigation Board may resign from office by giving notice in writing to the FRC. A notice of resignation takes effect on the date specified in the notice or, if no date is specified, on the date of receipt by the FRC of the notice.
+  - (4) A member of the Investigation Board may resign from office by giving notice in writing to the AFRC. A notice of resignation takes effect on the date specified in the notice or, if no date is specified, on the date of receipt by the AFRC of the notice.
 
-- (Amended 3 of 2019 s. 81)
+- (Amended 3 of 2019 s. 81; 41 of 2021 s. 105)
 
 - 2. Temporary member
 
-  - (1) If, because of absence from Hong Kong or any other reason, a member of the Investigation Board, other than the chairperson, is unable to perform the member’s functions, the FRC may appoint another person to be a temporary member in the member’s place during the member’s absence or incapacity. (Amended 3 of 2019 s. 81)
+  - (1) If, because of absence from Hong Kong or any other reason, a member of the Investigation Board, other than the chairperson, is unable to perform the member’s functions, the AFRC may appoint another person to be a temporary member in the member’s place during the member’s absence or incapacity. (Amended 3 of 2019 s. 81; 41 of 2021 s. 105)
 
   - (2) If a person is appointed as a temporary member of the Investigation Board, the person may perform all the functions of the member in whose place the person is appointed.
 
 - 3. Removal of members
 
-  - (1) If the FRC is satisfied that a member of the Investigation Board appointed under section 22(2)(b) of this Ordinance— (Amended 3 of 2019 s. 81)
+  - (1) If the AFRC is satisfied that a member of the Investigation Board appointed under section 22(2)(b) of this Ordinance— (Amended 3 of 2019 s. 81; 41 of 2021 s. 105)
 
     - (a) has become bankrupt;
 
@@ -36,15 +36,15 @@ Provisions Relating to Investigation Board and its Members
 
     - (d) is otherwise unable or unfit to perform the functions of a member of the Investigation Board,
 
-  - the FRC may declare the member’s office to be vacant, and upon such declaration the office becomes vacant.
+  - the AFRC may declare the member’s office to be vacant, and upon such declaration the office becomes vacant.
 
-  - (2) The FRC must give notice of a declaration under subsection (1) in such manner as it thinks fit.
+  - (2) The AFRC must give notice of a declaration under subsection (1) in such manner as it thinks fit.
 
   - (3) Subsection (4) applies if notice of a declaration is given under subsection (2) otherwise than by notice published in the Gazette.
 
-  - (4) The FRC must, as soon as practicable after having given notice under subsection (2), give another notice of the declaration by notice published in the Gazette.
+  - (4) The AFRC must, as soon as practicable after having given notice under subsection (2), give another notice of the declaration by notice published in the Gazette.
 
-- (Amended 3 of 2019 s. 81)
+- (Amended 3 of 2019 s. 81; 41 of 2021 s. 105)
 
 - 4. Meetings and proceedings, etc. of Investigation Board
 
@@ -52,13 +52,13 @@ Provisions Relating to Investigation Board and its Members
 
   - (1A) A meeting of the Investigation Board is to be presided over by the first of the following persons (in descending order of priority) who is able to preside at the meeting—
 
-    - (a) the chief executive officer of the FRC;
+    - (a) the chief executive officer of the AFRC;
 
-    - (b) an executive director of the FRC designated under section 8(1)(a) of Schedule 2;
+    - (b) an executive director of the AFRC designated under section 8(1)(a) of Schedule 2;
 
-    - (c) an executive director of the FRC designated under section 8(3)(a) of Schedule 2; or
+    - (c) an executive director of the AFRC designated under section 8(3)(a) of Schedule 2; or
 
-    - (d) a member of the Board who is chosen, for this purpose, by other members of the Board present at the meeting. (Added 3 of 2019 s. 81)
+    - (d) a member of the Board who is chosen, for this purpose, by other members of the Board present at the meeting. (Added 3 of 2019 s. 81. Amended 41 of 2021 s. 105)
 
   - (2) The quorum for a meeting of the Investigation Board is 2 members of the Board or one half of the members of the Board, whichever is the greater.
 
@@ -66,7 +66,7 @@ Provisions Relating to Investigation Board and its Members
 
   - (4) The Investigation Board may transact any of its business by circulation of papers.
 
-  - (5) The Investigation Board may, subject to this Ordinance and any direction of the FRC, determine— (Amended 3 of 2019 s. 81)
+  - (5) The Investigation Board may, subject to this Ordinance and any direction of the AFRC, determine— (Amended 3 of 2019 s. 81; 41 of 2021 s. 105)
 
     - (a) the procedure for convening meetings of the Board and for the conduct of business at those meetings; and
 

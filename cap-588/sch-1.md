@@ -50,7 +50,7 @@ Definitions of Relevant Financial Report and Relevant Requirement
 
         - (i) the relevant Ordinance or the Companies Ordinance (Cap. 622), as in force at the material time; (Amended 28 of 2012 ss. 912 & 920)
 
-        - (ii) the standards of accounting practices issued or specified, or deemed to have been issued or specified, under section 18A of the Professional Accountants Ordinance (Cap. 50), as in force at the material time;
+        - (ii) the standards of accounting practices issued or specified, or deemed to have been issued or specified, under section 18A of the PA Ordinance, as in force at the material time; (Amended 41 of 2021 s. 99)
 
         - (iii) the International Financial Reporting Standards issued by the International Accounting Standards Board, as in force at the material time;
 
@@ -60,7 +60,7 @@ Definitions of Relevant Financial Report and Relevant Requirement
 
       - (b) in relation to a relevant financial report of a listed collective investment scheme, means an accounting requirement as to the matters or information to be included in the report, as provided in—
 
-        - (i) the standards of accounting practices issued or specified, or deemed to have been issued or specified, under section 18A of the Professional Accountants Ordinance (Cap. 50), as in force at the material time;
+        - (i) the standards of accounting practices issued or specified, or deemed to have been issued or specified, under section 18A of the PA Ordinance, as in force at the material time; (Amended 41 of 2021 s. 99)
 
         - (ii) the International Financial Reporting Standards issued by the International Accounting Standards Board, as in force at the material time;
 
