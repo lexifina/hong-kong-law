@@ -88,6 +88,10 @@ s-029DE.md
 s-029DF.md
 s-029DG.md
 s-029DH.md
+s-029DI.md
+s-029DJ.md
+s-029DK.md
+s-029DL.md
 s-029E.md
 s-029F.md
 s-029G.md
@@ -146,6 +150,7 @@ s-061.md
 s-062.md
 s-063.md
 s-063A.md
+s-063B.md
 s-064.md
 s-065.md
 s-066.md
@@ -167,3 +172,4 @@ sch-7.md
 sch-8.md
 sch-9.md
 sch-10.md
+sch-12.md
