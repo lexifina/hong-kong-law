@@ -1,5 +1,7 @@
 Waste Disposal (Specified Requirements for Designated Bag and Designated Label) Notice
 
-(Made by the Director of Environmental Protection under section 20T of the Waste Disposal Ordinance (Cap. 354))
+(Cap. 354, section 20T)
+
+(Enacting provision omitted—E.R. 5 of 2022)
 
 [1 September 2022]
