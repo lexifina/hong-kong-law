@@ -2,8 +2,6 @@
 
 [ss. 1 & 2]
 
-(Not yet in operation)
-
 Scheduled Persons
 
 - 1. An inspector as defined by section 838(1) of the Ordinance
