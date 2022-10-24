@@ -34,17 +34,13 @@ Content of Incorporation Form
 
         - (ii) the usual residential address;
 
-        - #(iii) the correspondence address; and
+        - (iii) the correspondence address; and
 
         - (iv) the number of the identity card or, if the person does not have an identity card, the number and issuing country of any passport held by the person; or
 
       - (b) if the person is a body corporate, the corporate name and the address of its registered or principal office.
 
-    - #(2) For the purposes of subsection (1)(a)(iii), a correspondence address must not be a post office box number.
-
-  - Editorial Note:
-
-  - # Section 3(1)(a)(iii) and (2) of Schedule 2 is not yet in operation.
+    - (2) For the purposes of subsection (1)(a)(iii), a correspondence address must not be a post office box number.
 
   - 4. Statement relating to director The statement specified for the purposes of section 68(1)(c)(ii) is—
 

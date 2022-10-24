@@ -20,6 +20,44 @@ Transitional and Saving Provisions
 
     - (3) The place directed or last directed by the Chief Executive under section 303(1) of the predecessor Ordinance before the commencement date# of section 21 is to be regarded as the place that has been designated under section 21(3).
 
+  - 2A. Correspondence address of directors etc. in Companies Register
+
+    - (1) The Registrar must, for the purposes of section 27, record the following address as the correspondence address of a director or reserve director of a company—
+
+      - (a) if the company is an existing company, or a company formed and registered under this Ordinance before the specified date—the address shown, immediately before that date, on the Companies Register as the address of the company’s registered office; or
+
+      - (b) if the company is a non-Hong Kong company registered in the Companies Register as a registered non-Hong Kong company before the specified date—the address shown, immediately before that date, on the Companies Register as the address of the company’s principal place of business in Hong Kong.
+
+    - (2) If an incorporation form under section 67(1)(b)—
+
+      - (a) is delivered under that section in relation to a company before the specified date; and
+
+      - (b) is registered under section 71(1) on or after that date,
+
+    - the Registrar must, for the purposes of section 27, record the address contained, as the intended address of the company’s registered office, in the form as the correspondence address of a director or reserve director of the company.
+
+    - (3) If, on an application under section 776(2) that is delivered by a company under section 776(4)(e) before the specified date, the Registrar registers the company under section 777(1) on or after that date, the Registrar must, for the purposes of section 27, record the address contained, as the address of the company’s principal place of business in Hong Kong, in the application as the correspondence address of a director or reserve director of the company.
+
+    - (4) After an address is recorded under subsection (1), (2) or (3) as the correspondence address of a director or reserve director of a company, the Registrar must update the entry of such correspondence address with—
+
+      - (a) the latest address of the company’s registered office contained in a notice of change of address of the company’s registered office that is delivered under section 658(3) and registered by the Registrar under Part 2; or
+
+      - (b) the latest address of the company’s principal place of business in Hong Kong contained in a return in respect of the change of address of the company’s principal place of business in Hong Kong that is delivered under section 791(1) and registered by the Registrar under Part 2.
+
+    - (5) Subsection (4) ceases to apply when, in relation to the director or reserve director—
+
+      - (a) a notice or return is delivered under section 645(4) or 791(1) in respect of a change of the director’s or reserve director’s correspondence address; and
+
+      - (b) the notice or return is registered by the Registrar under Part 2.
+
+    - (6) In this section—
+
+      - company (公司) has the meaning given by section 20(1);
+
+      - ^specified date (指明日期) means the date on which section 54(2) comes into operation.
+
+    - (Added L.N. 101 of 2021)
+
 - Part 3 Transitional and Saving Arrangements for Part 3
 
   - 3. Application for company formation
@@ -1177,5 +1215,7 @@ Transitional and Saving Provisions
 Editorial Note:
 
 \# Commencement date: 3 March 2014.
+
+^ Specified date: 24 October 2022.
 
 ＠ Part 16 came into operation on 3 March 2014, except sections 791(4) and 802(4) and (5). See L.N. 163 of 2013.

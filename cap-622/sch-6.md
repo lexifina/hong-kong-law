@@ -42,19 +42,15 @@ Information to be Contained in Annual Return and Documents by which Annual Retur
 
   - 2. In the case of a listed company, the particulars relating to members as required under section 1(f)(i) of this Schedule are limited to those relating to members who held 5% or more of the issued shares in any class of the company’s shares as at the date of the return.
 
-  - #3. If a director or reserve director is a natural person, the particulars as required under section 1(i) of this Schedule do not include—
+  - 3. If a director or reserve director is a natural person, the particulars as required under section 1(i) of this Schedule do not include—
 
     - (a) an address contained in the register of directors as the usual residential address of the director or reserve director; and
 
     - (b) the full number of the identity card or passport of the director or reserve director.
 
-  - #4. If a company secretary is a natural person, the particulars as required under section 1(i) of this Schedule do not include the full number of the identity card or passport of the company secretary.
+  - 4. If a company secretary is a natural person, the particulars as required under section 1(i) of this Schedule do not include the full number of the identity card or passport of the company secretary.
 
   - 5. In the case of a company that keeps a branch register of members in accordance with section 636(1), the particulars of the entries in that register need not be included in the annual return if copies of those entries have not been received at the registered office of the company. Those particulars must, so far as they relate to matters that are required to be contained in the annual return, be included in the next annual return after copies of those entries are received at the registered office of the company.
-
-- Editorial Note:
-
-- # Sections 3 and 4 of Schedule 6 are not yet in operation.
 
 - Part 2 Additional Information to be Contained in
 
