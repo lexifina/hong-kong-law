@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(5)(b) & 35]
 
-CLASSIFICATION OF RANKS
+Classification of Ranks
 
 Column 1 | Column 2 | Column 3
 
