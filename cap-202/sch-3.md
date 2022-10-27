@@ -4,7 +4,7 @@
 
 Rates of Disablement Pension
 
-(Format changes—E.R. 2 of 2012)
+(Added 56 of 1997 s. 5) (Format changes—E.R. 2 of 2012)
 
 Column 1 | Column 2
 
