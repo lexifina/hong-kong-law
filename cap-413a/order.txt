@@ -17,10 +17,17 @@ s-007B.md
 s-007C.md
 s-007D.md
 s-007E.md
+s-007EA.md
+s-007EB.md
+s-007EC.md
+s-007ED.md
+s-007EE.md
+s-007EF.md
 s-007F.md
 s-008.md
 s-009.md
 s-010.md
+s-010A.md
 s-011.md
 s-012.md
 s-012A.md
