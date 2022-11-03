@@ -1,12 +1,12 @@
-# SCHEDULE 8
+# Schedule 8
 
-Articles 18(4) and
+[Articles 18(4) and
 
-98(7) and Schedule 5
+98(7) and Schedule 5]
 
 (L.N. 77 of 2008)
 
-AREAS SPECIFIED IN CONNECTION WITH THE CARRIAGE OF APPROVED NAVIGATIONAL EQUIPMENT ON PUBLIC TRANSPORT AIRCRAFT
+Areas Specified in Connection with the Carriage of Approved Navigational Equipment on Public Transport Aircraft
 
 (L.N. 77 of 2008)
 
@@ -227,7 +227,5 @@ All that area enclosed by rhumb lines joining successively the following points:
 35o north latitude 56o east longitude
 
 50o north latitude 56o east longitude
-
-Editorial Note:
 
 The Former Area D was an area in the Arabian Desert.

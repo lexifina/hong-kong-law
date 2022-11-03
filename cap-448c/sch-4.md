@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
-Article 73
+[Article 73]
 
-AERODROME MANUAL
+Aerodrome Manual
 
 Information and instructions relating to the following matters shall be included in the aerodrome manual referred to in Article 73 of this Order:
 

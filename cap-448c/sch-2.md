@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
-Articles 3(1), 5(3),
+[Articles 3(1), 5(3),
 
-7(1A) and 39(7)
+7(1A) and 39(7)]
 
-A AND B CONDITIONS
+A and B Conditions
 
 The A and B Conditions referred to in Articles 3(1), 5(3), 7(1A) and 39(7) of this Order are as follows—
 
@@ -22,7 +22,7 @@ A Conditions
 
   - (i) qualify for the issue or renewal of a certificate of airworthiness or a certificate of validation after an application has been made for such issue or renewal, as the case may be;
 
-  - (ii) carry out a functional check of a modification which has previously been approved by the Chief Executive in respect of that aircraft or another aircraft of the same type (“previously approved modification”);
+  - (ii) carry out a functional check of a modification which has previously been approved by the Chief Executive in respect of that aircraft or another aircraft of the same type (previously approved modification);
 
   - (iii) proceed to or from a place at which any inspection, repair, modification, maintenance, approval, test or weighing of, or the installation of equipment in, the aircraft is to take place or has taken place for a purpose referred to in sub-subparagraph (i) or (ii) of this subparagraph after any relevant application has been made, or at which the installation of furnishings in, or the painting of, the aircraft is to be undertaken; or
 
@@ -76,7 +76,7 @@ B Conditions
 
 - (e) giving flying training to or testing flight crew employed by the operator who are carried or are intended to be carried pursuant to paragraph (7)(a) of these Conditions or training or testing other persons employed by the operator who are carried or are intended to be carried pursuant to paragraph (7)(a) of these Conditions; or
 
-- (f) proceeding to or from a place at which any experiment, inspection, repair, modification, maintenance, approval, test or weighing of, or the installation of equipment in the aircraft, demonstration, display or training is to take place for a purpose referred to in subparagraphs (a), (b), (c), (d) or (e) of this paragraph or at which the installation of furnishings in, or the painting of, the aircraft is to be undertaken.
+- (f) proceeding to or from a place at which any experiment, inspection, repair, modification, maintenance, approval, test or weighing of, or the installation of equipment in the aircraft, demonstration, display or training is to take place for a purpose referred to in subparagraph (a), (b), (c), (d) or (e) of this paragraph or at which the installation of furnishings in, or the painting of, the aircraft is to be undertaken. (E.R. 5 of 2022)
 
 (3) The flight is operated by a person approved by the Chief Executive for the purposes of these Conditions and subject to any additional conditions which may be specified in such an approval.
 

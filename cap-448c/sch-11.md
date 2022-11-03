@@ -1,14 +1,16 @@
-# SCHEDULE 11
+# Schedule 11
 
-Articles 20, 25, 26 and
+[Articles 20, 25, 26 and
 
-27 and Schedule 5
+27 and Schedule 5]
 
 (L.N. 77 of 2008)
 
-PUBLIC TRANSPORT—OPERATIONAL REQUIREMENTS
+Public Transport—Operational Requirements
 
-PART A—Operations Manual | Article 25
+Part A—Operations Manual
+
+[Article 25]
 
 Information and instructions relating to the following matters shall be included in the operations manual referred to in Article 25(2) of this Order:
 
@@ -52,7 +54,9 @@ Information and instructions relating to the following matters shall be included
 
 - Provided that in relation to any flight which is not one of a series of flights between the same two places it shall be sufficient if, to the extent that it is not practicable to comply with paragraphs (x) and (xii), the manual contains such information and instructions as will enable the equivalent data to be ascertained before take-off.
 
-PART B—Crew Training and Tests | Article 27
+Part B—Crew Training and Tests
+
+[Article 27]
 
 - 1. The training, experience, practice and periodical tests required under Article 27(2) of this Order in the case of members of the crew of an aircraft engaged on a flight for the purpose of public transport shall be as follows—
 
@@ -74,7 +78,7 @@ PART B—Crew Training and Tests | Article 27
 
       - A pilot’s ability to carry out normal manoeuvres and procedures shall be tested in the aircraft in flight.
 
-      - The other tests required by this sub-paragraph may be conducted either in the aircraft in flight, or under the supervision of a person approved by the Chief Executive for the purpose by means of a flight simulator approved by the Chief Executive under Article 20(10) of this Order. The tests specified in sub-paragraph (2)(a)(ii) of this paragraph when conducted in the aircraft in flight shall be carried out either in actual instrument flight conditions or in instrument flight conditions simulated by means approved by the Chief Executive.
+      - The other tests required by this subparagraph may be conducted either in the aircraft in flight, or under the supervision of a person approved by the Chief Executive for the purpose by means of a flight simulator approved by the Chief Executive under Article 20(10) of this Order. The tests specified in subparagraph (2)(a)(ii) of this paragraph when conducted in the aircraft in flight shall be carried out either in actual instrument flight conditions or in instrument flight conditions simulated by means approved by the Chief Executive.
 
     - (b) Every pilot included in the flight crew whose licence does not include an instrument rating or who, notwithstanding the inclusion of such a rating in his licence, is not intended by the operator to fly in circumstances requiring compliance with the Instrument Flight Rules, shall within the relevant period have been tested, by or on behalf of the operator, in flight in an aircraft of the type to be used on the flight—
 
@@ -100,7 +104,7 @@ PART B—Crew Training and Tests | Article 27
 
     - (b) as to his competence to perform his duties while executing emergency procedures in flight, in an aircraft of the type to be used on the flight.
 
-  - A flight engineer’s ability to carry out normal procedures shall be tested in an aircraft in flight. The other tests required by this sub-paragraph may be conducted either in the aircraft in flight, or under supervision of a person approved by the Chief Executive for the purpose by means of a flight simulator approved by the Chief Executive. (36 of 1999 s. 3)
+  - A flight engineer’s ability to carry out normal procedures shall be tested in an aircraft in flight. The other tests required by this subparagraph may be conducted either in the aircraft in flight, or under supervision of a person approved by the Chief Executive for the purpose by means of a flight simulator approved by the Chief Executive. (36 of 1999 s. 3)
 
   - (4) (Repealed L.N. 77 of 2008)
 
@@ -116,7 +120,7 @@ PART B—Crew Training and Tests | Article 27
 
       - (iv) the search and rescue procedures, and the navigational facilities, relevant to the route.
 
-    - (b) In determining whether a pilot’s knowledge of the matters referred to in sub-paragraph (a) is sufficient to render him competent to perform the duties of aircraft commander on the flight, the operator shall take into account the pilot’s flying experience in conjunction with the following—
+    - (b) In determining whether a pilot’s knowledge of the matters referred to in subparagraph (a) is sufficient to render him competent to perform the duties of aircraft commander on the flight, the operator shall take into account the pilot’s flying experience in conjunction with the following—
 
       - (i) the experience of other members of the intended flight crew;
 
@@ -138,23 +142,21 @@ PART B—Crew Training and Tests | Article 27
 
   - (6) For the purposes of this paragraph—
 
-    - “instrument flight conditions” means weather conditions such that the pilot is unable to fly by visual reference to objects outside the aircraft;
+    - instrument flight conditions means weather conditions such that the pilot is unable to fly by visual reference to objects outside the aircraft;
 
-    - “relevant period” means a period which immediately precedes the commencement of the flight, being a period—
+    - relevant period means a period which immediately precedes the commencement of the flight, being a period—
 
-    - (a) in the case of sub-paragraph (2)(c)(ii) of this paragraph, of 3 months;
+    - (a) in the case of subparagraph (2)(c)(ii) of this paragraph, of 3 months;
 
-    - (b) in the case of sub-paragraphs (2)(a)(ii), (2)(b)(ii), (2)(c)(i), (2)(d)(ii) and (3)(b) of this paragraph, of 6 months;
+    - (b) in the case of subparagraphs (2)(a)(ii), (2)(b)(ii), (2)(c)(i), (2)(d)(ii) and (3)(b) of this paragraph, of 6 months;
 
-    - (c) in the case of sub-paragraphs (1), (2)(a)(i), (2)(b)(i), (2)(d)(i), (3)(a) and (5)(a) of this paragraph, of 13 months:
+    - (c) in the case of subparagraphs (1), (2)(a)(i), (2)(b)(i), (2)(d)(i), (3)(a) and (5)(a) of this paragraph, of 13 months: Provided that—
 
-      - Provided that—
+        - (i) any pilot of the aircraft to whom the provisions of subparagraph (2)(a)(ii), (2)(b)(ii), (2)(c)(i) or (2)(d)(ii) and any flight engineer of the aircraft to whom the provisions of subparagraph (3)(b) of this paragraph apply shall for the purposes of the flight be deemed to have complied with such requirement respectively within the relevant period if he has qualified to perform his duties in accordance therewith on two occasions within the period of 13 months immediately preceding the flight, such occasions being separated by an interval of not less than 4 months; (E.R. 5 of 2022)
 
-        - (i) any pilot of the aircraft to whom the provisions of sub-paragraphs (2)(a)(ii), (2)(b)(ii), (2)(c)(i) or (2)(d)(ii) and any flight engineer of the aircraft to whom the provisions of sub-paragraph (3)(b) of this paragraph apply shall for the purposes of the flight be deemed to have complied with such requirement respectively within the relevant period if he has qualified to perform his duties in accordance therewith on two occasions within the period of 13 months immediately preceding the flight, such occasions being separated by an interval of not less than 4 months;
+        - (ii) the requirements of subparagraph (5)(a) shall be deemed to have been complied with within the relevant period by a pilot designated as commander of the aircraft for the flight if, having become qualified so to act on flights between the same places over the same route more than 13 months before commencement of the flight, he has within the period of 13 months immediately preceding the flight flown as pilot of an aircraft between those places over the route; (L.N. 77 of 2008)
 
-        - (ii) the requirements of sub-paragraph (5)(a) shall be deemed to have been complied with within the relevant period by a pilot designated as commander of the aircraft for the flight if, having become qualified so to act on flights between the same places over the same route more than 13 months before commencement of the flight, he has within the period of 13 months immediately preceding the flight flown as pilot of an aircraft between those places over the route; (L.N. 77 of 2008)
-
-      - “visual flight conditions” means weather conditions such that the pilot is able to fly by visual reference to objects outside the aircraft. (L.N. 77 of 2008)
+    - visual flight conditions means weather conditions such that the pilot is able to fly by visual reference to objects outside the aircraft. (L.N. 77 of 2008)
 
 - 2.
 
@@ -168,11 +170,13 @@ PART B—Crew Training and Tests | Article 27
 
     - (d) the date and particulars of any decision taken by the operator during the said period in pursuance of paragraph 1(5)(a) of this Schedule including particulars of the evidence upon which that decision was based.
 
-  - (2) The operator shall whenever called upon to do so by any authorized person produce for the inspection of any person so authorized all records referred to in the preceding sub-paragraphs and furnish to any such person all such information as he may require in connection with any such records and produce for his inspection all log books, certificates, papers and other documents, whatsoever which he may reasonably require to see for the purpose of determining whether such records are complete or of verifying the accuracy of their contents.
+  - (2) The operator shall whenever called upon to do so by any authorized person produce for the inspection of any person so authorized all records referred to in the preceding subparagraphs and furnish to any such person all such information as he may require in connection with any such records and produce for his inspection all log books, certificates, papers and other documents, whatsoever which he may reasonably require to see for the purpose of determining whether such records are complete or of verifying the accuracy of their contents.
 
   - (3) The operator shall at the request of any person in respect of whom he is required to keep records as aforesaid furnish to that person, or to any operator of aircraft for the purpose of public transport by whom that person may subsequently be employed, particulars of any qualifications in accordance with this Schedule obtained by such person whilst in his service.
 
-PART C—Training Manual The following information and instructions in relation to the training, experience, practice and periodical tests required under Article 27(2) of this Order shall be included in the training manual referred to in Article 26(2) of this Order—
+Part C—Training Manual
+
+The following information and instructions in relation to the training, experience, practice and periodical tests required under Article 27(2) of this Order shall be included in the training manual referred to in Article 26(2) of this Order—
 
   - (i) the manner in which the training, practice and periodical tests required under Article 27(2) and specified in Part B of Schedule 11 to this Order are to be carried out;
 

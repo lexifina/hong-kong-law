@@ -1,20 +1,20 @@
-# SCHEDULE 5
+# Schedule 5
 
-Articles 11(4), 13(2)
+[Articles 11(4), 13(2)
 
 and (8), 25(5) and
 
 37(1), (3) and (4)
 
-and Schedule 11
+and Schedule 11]
 
 (L.N. 77 of 2008)
 
-AIRCRAFT EQUIPMENT
+Aircraft Equipment
 
 - 1.
 
-  - Every aircraft of a description specified in the first column of the Table set forth in paragraph 4 of this Schedule and which is registered in Hong Kong shall be provided, when flying in the circumstances specified in the second column of the said Table, with adequate equipment, and for the purpose of this paragraph the expression “adequate equipment” shall mean the scales of equipment respectively indicated in that Table:
+  - Every aircraft of a description specified in the first column of the Table set forth in paragraph 4 of this Schedule and which is registered in Hong Kong shall be provided, when flying in the circumstances specified in the second column of the said Table, with adequate equipment, and for the purpose of this paragraph the expression adequate equipment shall mean the scales of equipment respectively indicated in that Table:
 
     - Provided that, if the aircraft is flying in a combination of such circumstances, the scales of equipment shall not on that account be required to be duplicated.
 
@@ -48,13 +48,13 @@ AIRCRAFT EQUIPMENT
 
   - (m) Megaphones, referred to in Scale Y. (L.N. 77 of 2008)
 
-4. | TABLE
+4. | Table
 
-  - For the purposes of this paragraph, “day” means the time from half an hour before sunrise until half an hour after sunset (both times exclusive), sunrise and sunset being determined at surface level. (L.N. 77 of 2008)
+  - For the purposes of this paragraph, day means the time from half an hour before sunrise until half an hour after sunset (both times exclusive), sunrise and sunset being determined at surface level. (L.N. 77 of 2008)
 
 Description of Aircraft | Circumstances of Flight | Scale of Equipment Required
 
-(1) | Gliders | (a) | flying for purposes other than public transport or aerial work: and when flying by night; | A(ii)
+(1) Gliders | (a) | flying for purposes other than public transport or aerial work: and when flying by night; | A(ii)
 
 (b) | flying for the purpose of public transport or aerial work: and | A, B(i) and (ii), D and F(i)
 
@@ -62,7 +62,7 @@ Description of Aircraft | Circumstances of Flight | Scale of Equipment Required
 
 (ii) | when carrying out aerobatic manoeuvres | B(iii)
 
-(2) | Aeroplanes | (a) | flying for purposes other than public transport; and | A(i), (ii) and (iii)(a) and B(i)
+(2) Aeroplanes | (a) | flying for purposes other than public transport; and | A(i), (ii) and (iii)(a) and B(i)
 
 (i) | when flying by night | C, E, F and G
 
@@ -166,7 +166,7 @@ when either more than 400 nautical miles or more than 90 minutes flying time* fr
 
 (b) | in respect of which application has been made and not withdrawn or refused for such a certificate, and which fly under the “A Conditions” or under a certificate of airworthiness in the Special Category: | when flying on any flight | P
 
-Provided that this paragraph shall not apply to aeroplanes falling within paragraphs (5) or (6) hereof.
+Provided that this paragraph shall not apply to aeroplanes falling within paragraph (5) or (6) hereof. (E.R. 5 of 2022)
 
 (5) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and aeroplanes in respect of which application has been made, and not withdrawn or refused, for such a certificate of airworthiness and which fly under the “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special Category:
 
@@ -202,7 +202,7 @@ Provided that this paragraph shall not apply to aeroplanes falling within paragr
 
 (L.N. 77 of 2008)
 
-(8) | Aeroplanes:
+(8) Aeroplanes:
 
 (a) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and having a maximum total weight authorized exceeding 27 000 kg and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or the Transport Category (Cargo); or | when flying on any flight | T
 
@@ -214,7 +214,7 @@ Provided that this paragraph shall not apply to aeroplanes falling within paragr
 
 (L.N. 77 of 2008)
 
-(10) | Aeroplanes:
+(10) Aeroplanes:
 
 (a) | which are turbo-jets and which have a maximum total weight authorized exceeding 22 700 kg; or | when flying by night for the purpose of the public transport of passengers. | Z(i) and (ii)
 
@@ -228,7 +228,7 @@ Provided that this paragraph shall not apply to aeroplanes falling within paragr
 
 (f) | first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 January 1958 and which in accordance with the certificate of airworthiness in force in respect thereof may carry more than 19 passengers. | when flying for the purpose of the public transport of passengers | Z(iii)
 
-(11) | Aeroplanes:
+(11) Aeroplanes:
 
 (a) | powered by one or more turbine jets and first issued with a certificate of airworthiness in Hong Kong on or after 1 April 1989; | when flying on any flight | AA
 
@@ -236,7 +236,7 @@ Provided that this paragraph shall not apply to aeroplanes falling within paragr
 
 (c) | powered by one or more turbine propeller engines and having a maximum total weight authorized exceeding 5 700 kg and first issued with a certificate of airworthiness in Hong Kong on or after 1 April 1989. | when flying on any flight | AA
 
-(12) | Aeroplanes:
+(12) Aeroplanes:
 
 (a) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1978 and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger); | on all flights for the purpose of the public transport of passengers | Y(iv)
 
@@ -248,11 +248,11 @@ Provided that this paragraph shall not apply to aeroplanes falling within paragr
 
 (i) | when flying by day under Visual Flight Rules with visual ground reference | D, F(i) and (vi) and FF
 
-(ii) | when flying by day under instrument Flight Rules or without visual ground reference
+(ii) | when flying by day under Instrument Flight Rules or without visual ground reference
 
 (aa) | outside controlled airspace | E and F
 
-(bb) | within controlled airspace | E with E(iv) duplicated and F with F(iv) for all weights
+(bb) | within controlled airspace (E.R. 5 of 2022) | E with E(iv) duplicated and F with F(iv) for all weights
 
 (iii) | when flying by night
 
@@ -396,15 +396,15 @@ Scale B
 
       - Provided that the Chief Executive may permit a safety belt with one diagonal shoulder strap to be fitted if he is satisfied that it is not reasonably practicable to fit a safety harness. (36 of 1999 s. 3)
 
-    - (c) For every seat in use (not being a seat referred to in sub-paragraphs (a), (b), (e) and (f)) a safety belt with or without one diagonal shoulder strap or a safety harness.
+    - (c) For every seat in use (not being a seat referred to in subparagraphs (a), (b), (e) and (f)) a safety belt with or without one diagonal shoulder strap or a safety harness.
 
-    - (d) In addition and to be attached to or secured by the equipment required in sub-paragraph (c) above, a child restraint device for every child under the age of 2 years on board.
+    - (d) In addition and to be attached to or secured by the equipment required in subparagraph (c) above, a child restraint device for every child under the age of 2 years on board.
 
     - (e) On all flights for the public transport of passengers by aircraft, for each seat for use by members of the cabin crew who are required to be carried under this Order, a safety harness.
 
-    - (f) On all flights in aeroplanes the maximum total weight authorized of which does not exceed 5 700 kg which in accordance with the certificate of airworthiness in force thereof is not capable of seating more than 9 passengers (otherwise than in seats referred to under sub-paragraphs (a) and (b)), a safety belt with one diagonal shoulder strap or a safety harness for each seat intended for use by a passenger:
+    - (f) On all flights in aeroplanes the maximum total weight authorized of which does not exceed 5 700 kg which in accordance with the certificate of airworthiness in force thereof is not capable of seating more than 9 passengers (otherwise than in seats referred to in subparagraphs (a) and (b)), a safety belt with one diagonal shoulder strap or a safety harness for each seat intended for use by a passenger: (E.R. 5 of 2022)
 
-      - Provided that the provisions of this sub-paragraph shall not apply to aeroplanes in respect of which a certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) before 1 February 1989.
+      - Provided that the provisions of this subparagraph shall not apply to aeroplanes in respect of which a certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) before 1 February 1989.
 
   - (ii) If the pilot in command cannot, from his own seat, see all the passengers’ seats in the aircraft, a means of indicating to the passengers that seat belts should be fastened.
 
@@ -512,11 +512,15 @@ Scale J
 
   - (i) Additional flotation equipment, capable of supporting one-fifth of the number of persons on board, and provided in a place of stowage accessible from outside the flying machine;
 
-  - (ii) Parachute distress rocket signals capable of making, from the surface of the water, the pyrotechnical signal of distress specified in the Rules of the Air and complying with Part I of Schedule 8 to the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built on or after 1 July 1986) Regulations 1991, made under the Merchant Shipping (Safety) Ordinance (Cap. 369);
+  - (ii) Parachute distress rocket signals capable of making, from the surface of the water, the pyrotechnical signal of distress specified in the Rules of the Air and complying with Part I of Schedule 8 to the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built On or After 1 July 1986) Regulations 1991*, made under the Merchant Shipping (Safety) Ordinance (Cap. 369);
 
   - (iii) A sea anchor and other equipment necessary to facilitate mooring, anchoring or manoeuvering the flying machine on water, appropriate to its size, weight and handling characteristics; (L.N. 77 of 2008)
 
   - (iv) Equipment for making the sound signals for preventing collisions at sea. (L.N. 77 of 2008)
+
+Editorial Note:
+
+* | It was once Cap. 369 sub. leg. AC and was subsequently repealed by L.N. 157 of 2001.
 
 Scale K
 
@@ -550,15 +554,15 @@ Scale K
 
     - 1/2 litre of fresh water in durable containers:
 
-      - Provided that in any case in which it is not reasonably practicable to carry the quantity of water above specified as large a quantity of fresh water as is reasonably practicable in the circumstances may be substituted. In no case however shall the quantity of water carried be less than is sufficient, when added to the amount of fresh water capable of being produced by means of the equipment specified in item (h) to provide 1 2 litre of water for each 4 or proportion of 4 persons the liferaft is designed to carry. (L.N. 77 of 2008)
+      - Provided that in any case in which it is not reasonably practicable to carry the quantity of water above specified as large a quantity of fresh water as is reasonably practicable in the circumstances may be substituted. In no case however shall the quantity of water carried be less than is sufficient, when added to the amount of fresh water capable of being produced by means of the equipment specified in item (h) to provide 1/2 litre of water for each 4 or proportion of 4 persons the liferaft is designed to carry; (L.N. 77 of 2008; E.R. 5 of 2022)
 
     - (j) first aid equipment;
 
-  - Items (f) to (j) inclusive shall be contained in a pack.
+- Items (f) to (j) inclusive shall be contained in a pack.
 
   - (ii) The number of survival beacon radio apparatus carried when the aircraft is carrying the number of liferafts specified in column 1 of the following Table shall be not less than the number specified in, or calculated in accordance with column 2.
 
-  - TABLE
+  - Table
 
   - Column 1 | Column 2
 
@@ -592,39 +596,37 @@ Scale L1
 
     - together with suitable and sufficient apparatus to enable such persons to use the oxygen.
 
-    - (iii) The quantity of oxygen required for the purpose of complying with paragraphs (i) and (ii) of this Part of this Scale shall be computed in accordance with the information and instructions relating thereto specified in the operations manual relating to the aircraft pursuant to Item (vi) of Part A of Schedule 11 to this Order.
+    - (iii) The quantity of oxygen required for the purpose of complying with paragraphs (i) and (ii) of this Part of this Scale shall be computed in accordance with the information and instructions relating thereto specified in the operations manual relating to the aircraft pursuant to paragraph (vi) of Part A of Schedule 11 to this Order. (E.R. 5 of 2022)
 
 - Part II
 
-Column 1 Vertical displacement of the flying machine in relation to flight levels | Column 2 Capability of flying machine to descend (where relevant) | Column 3 Period of supply of oxygen | Column 4 Persons for whom oxygen is to be provided
+- Column 1 | Column 2 | Column 3 | Column 4
 
-Above flight level 100 | — | 30 minutes or the period specified at A hereunder whichever is greater | In addition to any passengers for whom oxygen is provided as specified below, all the crew
+- Vertical displacement of the flying machine in relation to flight levels | Capability of flying machine to descend (where relevant) | Period of supply of oxygen | Persons for whom oxygen is to be provided
 
-{ | Flying machine is either flying at or below flight level 150 or is capable of descending and continuing to destination as specified at X hereunder | 30 minutes or the period specified at A hereunder whichever is the greater | 10 per cent of number of passengers
+- Above flight level 100 | — | 30 minutes or the period specified at A hereunder whichever is greater | In addition to any passengers for whom oxygen is provided as specified below, all the crew
 
-Above flight level 100 but not above flight level 300
+- Above flight level 100 but not above flight level 300 | Flying machine is either flying at or below flight level 150 or is capable of descending and continuing to destination as specified at X hereunder | 30 minutes or the period specified at A hereunder whichever is the greater | 10 per cent of number of passengers
 
-{ | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
+- Flying machine is flying above flight level 150 and is not so capable | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
 
-Flying machine is flying above flight level 150 and is not so capable | and in addition
+- and in addition
 
-30 minutes or the period specified at C hereunder whichever is the greater | 10 per cent of number of passengers
+- 30 minutes or the period specified at C hereunder whichever is the greater | 10 per cent of number of passengers
 
-{ | Flying machine is capable of descending and continuing to destination as specified at Y hereunder | 30 minutes or the period specified at A hereunder whichever is the greater | 15 per cent of number of passengers
+- Above flight level 300 but not above flight level 350 | Flying machine is capable of descending and continuing to destination as specified at Y hereunder | 30 minutes or the period specified at A hereunder whichever is the greater | 15 per cent of number of passengers
 
-Above flight level 300 but not above flight level 350
+- Flying machine is not so capable | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
 
-{ | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
+- and in addition
 
-Flying machine is not so capable | and in addition
+- 30 minutes or the period specified at C hereunder whichever is the greater | 15 per cent of number of passengers
 
-30 minutes or the period specified at C hereunder whichever is the greater | 15 per cent of number of passengers
+- Above flight level 350 | — | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
 
-{ | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
+- and in addition
 
-Above flight level 350 | — | and in addition
-
-30 minutes or the period specified at C hereunder whichever is the greater | 15 per cent of number of passengers
+- 30 minutes or the period specified at C hereunder whichever is the greater | 15 per cent of number of passengers
 
 A | The whole period during which, after a failure to maintain a pressure greater than 700 hectopascals in the control compartment and in the compartments in which passengers are carried has occurred, the flying machine flies above flight level 100. (L.N. 77 of 2008)
 
@@ -636,7 +638,7 @@ X | The flying machine is capable, at the time when a failure to maintain such p
 
 Y | The flying machine is capable, at the time when a failure to maintain such pressure occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 150 within 4 minutes, and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
 
-Scale L2 A supply of oxygen and the associated equipment to meet the requirements set out in Parts I and II of this scale. The duration for the purposes of this scale shall be:
+Scale L2 A supply of oxygen and the associated equipment to meet the requirements set out in Parts I and II of this Scale. The duration for the purposes of this Scale shall be: (E.R. 5 of 2022)
 
   - (i) that calculated in accordance with the operations manual prior to the commencement of the flight, being the period or periods which it is reasonably anticipated that the aircraft will be flown in the circumstances of the intended flight at a height where the said requirements apply and in calculating the said duration account shall be taken of:
 
@@ -688,7 +690,9 @@ whichever is the greater.
 
     - (b) | Members of the cabin crew and 10 per cent of passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, 30 minutes or whenever the cabin pressure altitude exceeds 10 000 ft, whichever is the greater (bb) When the aircraft is not so capable, whenever the cabin pressure altitude is greater than 10 000 ft, but does not exceed 12 000 ft
 
-    - (c) | Members of the cabin crew and passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, no requirement other than that at (ii)(b)(aa) of this part of this scale (bb) When the aircraft is not so capable and the cabin pressure altitude exceeds 12 000 ft, the duration shall be the period when the cabin pressure altitude exceeds 12 000 ft or 10 minutes, whichever is the greater
+    - (c) | Members of the cabin crew and passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, no requirement other than that at (ii)(b)(aa) of this part of this Scale (E.R. 5 of 2022)
+
+    - (bb) When the aircraft is not so capable and the cabin pressure altitude exceeds 12 000 ft, the duration shall be the period when the cabin pressure altitude exceeds 12 000 ft or 10 minutes, whichever is the greater
 
     - (iii) When flying above flight level 250—
 
@@ -704,7 +708,7 @@ whichever is the greater.
 
     - (e) | All passengers | If the cabin pressure altitude exceeds 15 000 ft, the duration shall be the period when the cabin pressure altitude exceeds 15 000 ft or 10 minutes, whichever is the greater
 
-    - (f) | 2 per cent of passengers or 2 passengers, whichever is the greater, being a supply of first aide oxygen which must be available for simultaneous first aid treatment of 2 per cent or 2 passengers wherever they are seated in the aircraft. | Whenever, after decompression, the cabin pressure altitude exceeds 8 000 ft
+    - (f) | 2 per cent of passengers or 2 passengers, whichever is the greater, being a supply of first aid oxygen which must be available for simultaneous first aid treatment of 2 per cent or 2 passengers wherever they are seated in the aircraft. (E.R. 5 of 2022) | Whenever, after decompression, the cabin pressure altitude exceeds 8 000 ft
 
 - (L.N. 77 of 2008)
 
@@ -746,7 +750,7 @@ whichever is the greater.
 
   - Provided that any aeroplane having a maximum total weight authorized not exceeding 11 400 kg may be provided with:
 
-    - (i) a flight data recorder capable of recording the data described in sub-paragraphs (a) to (h) of this Scale; or
+    - (i) a flight data recorder capable of recording the data described in subparagraphs (a) to (h) of this Scale; or
 
     - (ii) a 4 channel cockpit voice recorder.
 
@@ -802,9 +806,9 @@ whichever is the greater.
 
     - (viii) a cockpit voice recorder and a Type IA flight data recorder as described in paragraph 6.3.1.8 in Part I and paragraph 6.10.1.7 in Part II of Annex 6 to the Chicago Convention as amended by all amendments up to and including Amendment 31 to that Part I and all amendments up to and including Amendment 26 to that Part II. (L.N. 77 of 2008)
 
-  - The cockpit voice recorder or flight data recorder or combined cockpit voice recorder/flight data recorder, as the case may be, shall be so constructed that the record would be likely to be preserved in the event of an accident:
+- The cockpit voice recorder or flight data recorder or combined cockpit voice recorder/flight data recorder, as the case may be, shall be so constructed that the record would be likely to be preserved in the event of an accident:
 
-    - Provided that an aircraft shall not be required to carry the said equipment, if before take-off the equipment is found to be unserviceable and the aircraft flies in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
+  - Provided that an aircraft shall not be required to carry the said equipment, if before take-off the equipment is found to be unserviceable and the aircraft flies in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
 - (L.N. 77 of 2008) Scale SS For a cockpit voice recorder required by this Scale but installed in helicopters for which an individual certificate of airworthiness was first issued after 1 January 2003, it shall be capable of retaining the data recorded during at least the last 2 hours of its operation. (L.N. 77 of 2008)
 
@@ -862,15 +866,15 @@ whichever is the greater.
 
       - (b) In any case when a combined cockpit voice recorder/flight data recorder specified at paragraph (iii)(a) of this Scale is required to be carried by or under this Order, the flight data recorder shall be capable of retaining as protected data the data recorded during at least the last 5 hours of its operation or the maximum duration of the flight, whichever is the greater. It shall also be capable of retaining additional data as unprotected data for a period which together with the period for which protected data is required to be retained amounts to a total of 10 hours:
 
-        - Provided that the flight data recorder need not be capable of retaining the said additional data if additional data is retained which relates to the period immediately preceding the period to which the required protected data relates or for such other period or periods that the Chief Executive may permit pursuant to Article 37 of this Order and the additional data is retained in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
+        - Provided that the flight data recorder need not be capable of retaining the said additional data if additional data is retained which relates to the period immediately preceding the period to which the required protected data relates or for such other period or periods that the Chief Executive may permit pursuant to Article 37 of this Order and the additional data is retained in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3; E.R. 1 of 2013)
 
     - (iv) A cockpit voice recorder and a Type IVA flight data recorder as described in Attachment B to Part III of Annex 6 to the Chicago Convention as amended by all amendments up to and including Amendment 12 to that Part III with a recording duration of at least 10 hours. (L.N. 77 of 2008)
 
-  - With the exception of flight data which it is expressly stated above may be unprotected, the cockpit voice recorder, flight data recorder or combined cockpit voice recorder and flight data recorder, as the case may be, shall be so constructed and installed that the record (herein referred to as “protected data”) would be likely to be preserved in the event of an accident and each cockpit voice recorder, flight data recorder or combined cockpit voice recorder/flight data recorder required to be carried on the helicopter or gyroplane shall have attached an automatically activated underwater sonar location device or an emergency locator radio transmitter as appropriate:
+  - With the exception of flight data which it is expressly stated above may be unprotected, the cockpit voice recorder, flight data recorder or combined cockpit voice recorder and flight data recorder, as the case may be, shall be so constructed and installed that the record (herein referred to as protected data) would be likely to be preserved in the event of an accident and each cockpit voice recorder, flight data recorder or combined cockpit voice recorder/flight data recorder required to be carried on the helicopter or gyroplane shall have attached an automatically activated underwater sonar location device or an emergency locator radio transmitter as appropriate:
 
     - Provided that a helicopter or gyroplane shall not be required to carry the said equipment if, before take-off, the equipment is found to be unserviceable and the aircraft flies in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
-- (L.N. 77 of 2008; E.R. 1 of 2013)
+- (L.N. 77 of 2008)
 
 - Scale T
 
@@ -884,7 +888,7 @@ whichever is the greater.
 
     - (c) for each 4 or proportion of 4 persons on board, 100 grammes of glucose toffee tablets;
 
-    - (d) for each 4 or proportion of 4 persons on board, 1 2 litre of fresh water in durable containers;
+    - (d) for each 4 or proportion of 4 persons on board, 1/2 litre of fresh water in durable containers;
 
     - (e) first aid equipment.
 
@@ -896,7 +900,7 @@ whichever is the greater.
 
     - (c) for each 4 or proportion of 4 persons on board, 100 grammes of glucose toffee tablets;
 
-    - (d) for each 4 or proportion of 4 persons on board, 1 2 litre of fresh water in durable containers;
+    - (d) for each 4 or proportion of 4 persons on board, 1/2 litre of fresh water in durable containers;
 
     - (e) first aid equipment;
 
@@ -952,7 +956,7 @@ whichever is the greater.
 
     - (iii) An emergency floor path lighting system in the passenger compartment sufficient to facilitate the evacuation of the aircraft notwithstanding the failure of the lighting systems specified in paragraph (ii) of Scale G:
 
-      - Provided that if the equipment specified in this sub-paragraph (iii) becomes unserviceable the aircraft may fly or continue to fly in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
+      - Provided that if the equipment specified in this subparagraph (iii) becomes unserviceable the aircraft may fly or continue to fly in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
 - Scale ZZ
 

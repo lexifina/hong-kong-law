@@ -1,16 +1,16 @@
 # Schedule 6
 
-Articles 14 and 37A
+[Articles 14 and 37A]
 
 (L.N. 77 of 2008)
 
-Radio and Radio Navigation Equipment to be carried in Aircraft
+Radio and Radio Navigation Equipment to be Carried in Aircraft
 
 - 1. Every aircraft shall be provided, when flying in the circumstances specified in the first column of the Table set forth in paragraph 2 of this Schedule, with the scales of equipment respectively indicated in that Table:
 
   - Provided that, if the aircraft is flying in a combination of such circumstances, the scales of equipment shall not on that account be required to be duplicated.
 
-2. | TABLE
+2. | Table
 
 Aircraft and Circumstances of Flight | Scale of Equipment Required
 
@@ -22,7 +22,7 @@ A | B | C | D | E | F | G | H | J
 
 (b) when flying within any airspace in respect of which special rules are prescribed by the Rules of the Air in relation to a particular aerodrome, so as to require two-way radio communication with that aerodrome | A*
 
-(c) when making an approach to landing at an aerodrome notified for the purpose of this sub-paragraph | G*
+(c) when making an approach to landing at an aerodrome notified for the purpose of this subparagraph | G*
 
 (d) when flying for the purpose of public transport | E*
 
@@ -30,7 +30,7 @@ A | B | C | D | E | F | G | H | J
 
 (a) when flying at or above flight level 245 | A* | E* | F*
 
-(b) when flying within such airspace as may be notified for the purposes of this sub-paragraph, being airspace in respect of which special rules are prescribed by the said Rules | A* | E*
+(b) when flying within such airspace as may be notified for the purposes of this subparagraph, being airspace in respect of which special rules are prescribed by the said Rules | A* | E*
 
 (c) when flying at or above flight level 100 | E*
 
@@ -116,9 +116,7 @@ Provided that aircraft which come within paragraphs (3)(b) and (3)(c) above sole
 
   - (d) a 75 MHz marker beacon receiver.
 
-- Except that an aircraft may fly notwithstanding that it does not carry the equipment specified in this Scale if it carries alternate radio navigation equipment or navigational equipment approved by the Chief Executive in writing in accordance with the provisions of Article 13(7) of this Order. (36 of 1999 s. 3)
-
-- Where not more than one item of equipment specified in this Scale is unserviceable when the aircraft is about to begin a flight, the aircraft may nevertheless take off on that flight if:
+- Except that an aircraft may fly notwithstanding that it does not carry the equipment specified in this Scale if it carries alternate radio navigation equipment or navigational equipment approved by the Chief Executive in writing in accordance with the provisions of Article 13(7) of this Order. (36 of 1999 s. 3) Where not more than one item of equipment specified in this Scale is unserviceable when the aircraft is about to begin a flight, the aircraft may nevertheless take off on that flight if:
 
   - (i) it is not reasonably practicable for the repair or replacement of that item to be carried out before the beginning of the flight;
 
@@ -134,23 +132,23 @@ Provided that aircraft which come within paragraphs (3)(b) and (3)(c) above sole
 
   - (1)
 
-    - “automatic direction finding equipment” means radio navigation equipment which automatically indicates the bearing of any radio station transmitting the signals received by such equipment;
+    - automatic direction finding equipment means radio navigation equipment which automatically indicates the bearing of any radio station transmitting the signals received by such equipment;
 
   - (2)
 
-    - “VHF omni-range equipment” means radio navigation equipment capable of giving visual indications of bearings of the aircraft by means of signals received from very high frequency omni-directional radio ranges;
+    - VHF omni-range equipment means radio navigation equipment capable of giving visual indications of bearings of the aircraft by means of signals received from very high frequency omni-directional radio ranges;
 
   - (3)
 
-    - “distance measuring equipment” means radio navigation equipment capable of providing a continuous indication of the aircraft’s distance from the appropriate aeronautical radio stations; (L.N. 77 of 2008)
+    - distance measuring equipment means radio navigation equipment capable of providing a continuous indication of the aircraft’s distance from the appropriate aeronautical radio stations; (L.N. 77 of 2008)
 
   - (4)
 
-    - “secondary surveillance radar equipment” means such type of radio navigation equipment as may be notified as being capable of (a) replying to an interrogation from secondary surveillance radar units on the surface and (b) being operated in accordance with such instructions as may be given to the aircraft by the appropriate air traffic control unit; (L.N. 77 of 2008)
+    - secondary surveillance radar equipment means such type of radio navigation equipment as may be notified as being capable of (a) replying to an interrogation from secondary surveillance radar units on the surface and (b) being operated in accordance with such instructions as may be given to the aircraft by the appropriate air traffic control unit; (L.N. 77 of 2008)
 
   - (5)
 
-    - “airborne collision avoidance system” means an aeroplane system which—
+    - airborne collision avoidance system means an aeroplane system which—
 
       - (a) is designed to provide advice and appropriate avoidance manoeuvres to the pilot in relation to other aeroplanes which are equipped with secondary surveillance radar transponders and are in undue proximity;
 
@@ -162,8 +160,8 @@ Provided that aircraft which come within paragraphs (3)(b) and (3)(c) above sole
 
   - (6)
 
-    - “Mode A” means replying to an interrogation from secondary surveillance radar units on the surface to elicit transponder replies for identity and surveillance with identity provided in the form of a 4 digit identity code; and (L.N. 77 of 2008)
+    - Mode A means replying to an interrogation from secondary surveillance radar units on the surface to elicit transponder replies for identity and surveillance with identity provided in the form of a 4 digit identity code; and (L.N. 77 of 2008)
 
   - (7)
 
-    - “Mode C” means replying to an interrogation from secondary surveillance radar units on the surface to elicit transponder replies for automatic pressure-altitude transmission and surveillance. (L.N. 77 of 2008)
+    - Mode C means replying to an interrogation from secondary surveillance radar units on the surface to elicit transponder replies for automatic pressure-altitude transmission and surveillance. (L.N. 77 of 2008)

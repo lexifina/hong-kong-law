@@ -1,6 +1,6 @@
 # Schedule 16
 
-Article 44
+[Article 44]
 
 The Air Navigation (Dangerous Goods) Regulations
 
@@ -242,13 +242,11 @@ The Air Navigation (Dangerous Goods) Regulations
 
 - 10. (Repealed L.N. 195 of 2007)
 
-__________
-
-TABLE OF COMPARISON
+Table of Comparison
 
 (Repealed L.N. 77 of 2008)
 
-- 11. Transitional provisions relating to Air Navigation (Hong Kong) Order 1995 (Amendment of Schedule 16) Order 2021
+- 11. Transitional provisions relating to Air Navigation (Hong Kong) Order 1995 (Amendment of Schedule 16) Order 2021 (L.N. 56 of 2021) (E.R. 5 of 2022)
 
   - (1) This Regulation applies during the period beginning on 2 July 2021 and ending on 31 December 2022.
 

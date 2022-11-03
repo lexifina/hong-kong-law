@@ -1,8 +1,8 @@
 # Schedule 13
 
-Article 91
+[Article 91]
 
-PART A—Provisions Referred to in Article 91(5)
+Part A—Provisions Referred to in Article 91(5)
 
 Article of Order | Subject Matter
 
@@ -136,7 +136,7 @@ Article of Order | Subject Matter
 
 89 | Obstruction of persons performing duties under Order
 
-PART B—Provisions Referred to in Article 91(6)
+Part B—Provisions Referred to in Article 91(6)
 
 Article of Order | Subject Matter
 

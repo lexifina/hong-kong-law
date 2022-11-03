@@ -1,22 +1,22 @@
-# SCHEDULE 10
+# Schedule 10
 
-Articles 65 and 66
+[Articles 65 and 66]
 
 (L.N. 77 of 2008)
 
-AIR TRAFFIC CONTROLLERS: RATINGS
+Air Traffic Controllers: Ratings
 
 - 1. The holder of a licence which includes ratings of two or more of the classes specified in paragraph 2 of this Schedule shall not at any one time perform the functions specified in respect of more than one of those ratings:
 
   - Provided that the functions of any one of the following groups of ratings may be exercised at the same time—
 
-  - (a) The aerodrome control rating and the approach control procedural rating; (L.N. 77 of 2008)
+  - (a) the aerodrome control rating and the approach control procedural rating; (L.N. 77 of 2008)
 
-  - (b) The approach control procedural rating and the approach control surveillance rating; (L.N. 77 of 2008)
+  - (b) the approach control procedural rating and the approach control surveillance rating; (L.N. 77 of 2008)
 
-  - (c) The area control procedural rating and the area control surveillance rating; (L.N. 77 of 2008)
+  - (c) the area control procedural rating and the area control surveillance rating; (L.N. 77 of 2008)
 
-  - (d) The approach control procedural rating and the approach control surveillance rating and the area control surveillance rating in accordance with the procedures as stated in the relevant air traffic control instructions and the Manual of Air Traffic Control for aircraft operating within the Hong Kong Control Zone or the Terminal Control Area, as notified. (L.N. 77 of 2008)
+  - (d) the approach control procedural rating and the approach control surveillance rating and the area control surveillance rating in accordance with the procedures as stated in the relevant air traffic control instructions and the Manual of Air Traffic Control for aircraft operating within the Hong Kong Control Zone or the Terminal Control Area, as notified. (L.N. 77 of 2008; E.R. 5 of 2022)
 
 - 2. Ratings of the following classes may be included in an air traffic controller’s licence (other than a student air traffic controller’s licence) granted under Article 65 of this Order and, subject to the provisions of this Order and of the licence, the inclusion of a rating in a licence shall have the consequences respectively specified as follows—
 
@@ -36,8 +36,8 @@ AIR TRAFFIC CONTROLLERS: RATINGS
 
 - 3. In this Schedule—
 
-  - “Hong Kong Flight Information Region” means an airspace of defined dimensions within which air traffic control service, flight information service and alerting service are provided as notified;
+  - Hong Kong Flight Information Region means an airspace of defined dimensions within which air traffic control service, flight information service and alerting service are provided as notified;
 
-  - “Terminal Control Area” means a control area normally established at the intersection of air traffic service routes in the vicinity of one or more major aerodromes.
+  - Terminal Control Area means a control area normally established at the intersection of air traffic service routes in the vicinity of one or more major aerodromes.
 
 (L.N. 77 of 2008)

@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
-Article 8(2)
+[Article 8(2)]
 
 (L.N. 77 of 2008)
 
-CATEGORIES OF AIRCRAFT
+Categories of Aircraft
 
 Transport Category (Passenger).
 

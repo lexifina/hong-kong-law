@@ -1,38 +1,40 @@
-# SCHEDULE 14
+# Schedule 14
 
-Articles 64 and 98(1)
+[Articles 64 and 98(1)]
 
 (L.N. 77 of 2008)
 
-RULES OF THE AIR
+Rules of the Air
 
 Section I Interpretation
 
 - 1. In these Rules, unless the context otherwise requires—
 
-  - “Air traffic control clearance” means authorization by an air traffic control unit for an aircraft to proceed under conditions specified by that unit.
+  - air traffic control clearance means authorization by an air traffic control unit for an aircraft to proceed under conditions specified by that unit;
 
-  - “Anti-collision light” means—
+  - anti-collision light means—
 
     - (a) in relation to rotorcraft a flashing red light;
 
     - (b) in relation to any other aircraft a flashing red or flashing white lights;
 
-  - and in either case showing in all directions for the purpose of enabling the aircraft to be more readily detected by the pilots of distant aircraft.
+  - and in either case showing in all directions for the purpose of enabling the aircraft to be more readily detected by the pilots of distant aircraft;
 
-  - “Apron” means the part of an aerodrome provided for the stationing of aircraft for the embarkation and disembarkation of passengers, the loading and unloading of cargo and parking.
+  - apron means the part of an aerodrome provided for the stationing of aircraft for the embarkation and disembarkation of passengers, the loading and unloading of cargo and parking;
 
-  - “Day” means the time from half an hour before sunrise until half an hour after sunset (both times exclusive), sunrise and sunset being determined at surface level. (L.N. 77 of 2008)
+  - day means the time from half an hour before sunrise until half an hour after sunset (both times exclusive), sunrise and sunset being determined at surface level; (L.N. 77 of 2008)
 
-  - “Ground visibility” means the horizontal visibility at ground level.
+  - ground visibility means the horizontal visibility at ground level;
 
-  - “IFR flight” means a flight conducted in accordance with the Instrument Flight Rules in Section VI of these Rules.
+  - IFR flight means a flight conducted in accordance with the Instrument Flight Rules in Section VI of these Rules;
 
-  - “Manoeuvring area” means the part of an aerodrome provided for the take-off and landing of aircraft and the movement of aircraft on the surface, excluding the apron and any part of the aerodrome provided for the maintenance of aircraft.
+  - manoeuvring area means the part of an aerodrome provided for the take-off and landing of aircraft and the movement of aircraft on the surface, excluding the apron and any part of the aerodrome provided for the maintenance of aircraft;
 
-  - “Runway” means an area, whether or not paved, which is provided for the take-off or landing run of aircraft.
+  - runway means an area, whether or not paved, which is provided for the take-off or landing run of aircraft;
 
-  - “VFR Flight” means a flight conducted in accordance with the Visual Flight Rules in Section V of these Rules.
+  - VFR Flight means a flight conducted in accordance with the Visual Flight Rules in Section V of these Rules.
+
+- (E.R. 5 of 2022)
 
 Section II General
 
@@ -46,13 +48,13 @@ Section II General
 
   - (1) A signal or marking to which a meaning is given by these Rules, or which is required by these Rules to be used in circumstances or for a purpose therein specified, shall not be used except with that meaning, or for that purpose.
 
-  - (2) A person in an aircraft or on an aerodrome or at any place at which an aircraft is taking off or landing shall not make any signal which may be confused with a signal specified in the Rules and, except with lawful authority, shall not make any signal which he knows or ought reasonably to know to be a signal in use for signalling to or from any military aircraft of the Chinese People’s Liberation Army. (2 of 2012 s. 3)
+  - (2) A person in an aircraft or on an aerodrome or at any place at which an aircraft is taking off or landing shall not make any signal which may be confused with a signal specified in these Rules and, except with lawful authority, shall not make any signal which he knows or ought reasonably to know to be a signal in use for signalling to or from any military aircraft of the Chinese People’s Liberation Army. (2 of 2012 s. 3; E.R. 5 of 2022)
 
 - 4. Reporting hazardous conditions The commander of an aircraft shall, on meeting with hazardous conditions in the course of a flight, or as soon as possible thereafter, send to the appropriate air traffic control unit by the quickest means available information containing such particulars of the hazardous conditions as may be pertinent to the safety of other aircraft.
 
 - 5. Low flying
 
-  - (1) Subject to the provisions of paragraph (2) and (3) of this Rule:
+  - (1) Subject to the provisions of paragraphs (2) and (3) of this Rule: (E.R. 5 of 2022)
 
     - (a) An aircraft other than a helicopter shall not fly over any congested area of a city, town or settlement below—
 
@@ -70,7 +72,7 @@ Section II General
 
       - (ii) below such height as would enable it to alight clear of the assembly in the event of the failure of a power unit and if such an aircraft is towing a banner such height shall be calculated on the basis that the banner shall not be dropped within 3 000 feet of the assembly:
 
-        - Provided that, where a person is charged with an offence under this Order by reason of a contravention of this sub-paragraph, it shall be a good defence to prove that the flight of the aircraft over, or within 3 000 feet of, the assembly was made at a reasonable height and for a reason not connected with the assembly or with the event which was the occasion for the assembly.
+        - Provided that, where a person is charged with an offence under this Order by reason of a contravention of this subparagraph, it shall be a good defence to prove that the flight of the aircraft over, or within 3 000 feet of, the assembly was made at a reasonable height and for a reason not connected with the assembly or with the event which was the occasion for the assembly.
 
     - (e) An aircraft shall not fly closer than 500 feet to any person, vessel, vehicle or structure.
 
@@ -82,9 +84,9 @@ Section II General
 
       - (ii) on a special VFR flight as defined in Rule 23 of these Rules in accordance with instructions given for the purposes of that Rule by the appropriate air traffic control unit.
 
-    - (b) Paragraphs (1)(d) and (e) of this Rule shall not apply to an aircraft which is being used for police purposes.
+    - (b) Paragraph (1)(d) and (e) of this Rule shall not apply to an aircraft which is being used for police purposes. (E.R. 5 of 2022)
 
-    - (c) Paragraphs (1)(d) and (e) of this Rule shall not apply to the flight of an aircraft over or within 3 000 feet of an assembly of persons gathered for the purpose of witnessing an event which consists wholly or principally of an aircraft race or contest or an exhibition of flying, if the aircraft is taking part in such race, contest or exhibition or is engaged on a flight arranged by, or made with the consent in writing of, the organisers of the event.
+    - (c) Paragraph (1)(d) and (e) of this Rule shall not apply to the flight of an aircraft over or within 3 000 feet of an assembly of persons gathered for the purpose of witnessing an event which consists wholly or principally of an aircraft race or contest or an exhibition of flying, if the aircraft is taking part in such race, contest or exhibition or is engaged on a flight arranged by, or made with the consent in writing of, the organisers of the event. (E.R. 5 of 2022)
 
     - (d) Paragraph (1)(e) of this Rule shall not apply to—
 
@@ -112,13 +114,13 @@ Section II General
 
     - (a) the aircraft is fitted with dual controls, which are functioning properly;
 
-    - (b) an additional pilot (in this Rule called “a safety pilot”) is carried in a second control seat of the aircraft for the purpose of rendering such assistance as may be necessary to the pilot of the aircraft; and
+    - (b) an additional pilot (in this Rule called a safety pilot) is carried in a second control seat of the aircraft for the purpose of rendering such assistance as may be necessary to the pilot of the aircraft; and
 
     - (c) if the safety pilot’s field of vision is not adequate both forward and to each side of the aircraft, a third person, being a competent observer, occupies a position in the aircraft which from his field of vision makes good the deficiencies in that of the safety pilot, and from which he can readily communicate with the safety pilot.
 
   - (2)
 
-    - For the purposes of this Rule, the expression “simulated instrument flight” means a flight during which mechanical or optical devices are used in order to reduce the field of vision or the range or visibility from the cockpit of the aircraft. (L.N. 77 of 2008)
+    - For the purposes of this Rule, the expression simulated instrument flight means a flight during which mechanical or optical devices are used in order to reduce the field of vision or the range or visibility from the cockpit of the aircraft. (L.N. 77 of 2008)
 
 - 7. Practice instrument approaches (L.N. 77 of 2008) Within Hong Kong an aircraft shall not carry out instrument approach practice when flying in Visual Meteorological Conditions unless— (L.N. 77 of 2008)
 
@@ -126,9 +128,7 @@ Section II General
 
   - (b) if the flight is not being carried out in simulated instrument flight conditions, a competent observer is carried in such a position in the aircraft that he has an adequate field of vision and can readily communicate with the pilot flying the aircraft.
 
-Section III Lights and other Signals to be Shown or
-
-Made by Aircraft General
+Section III Lights and other Signals to be Shown or Made by Aircraft General
 
 - 8.
 
@@ -178,7 +178,7 @@ Made by Aircraft General
 
       - (i) that specified in paragraph (2)(a) of this Rule, or that specified in paragraph (2)(b); or
 
-      - (ii) that specified in paragraph (2)(d), excluding sub-paragraph (ii);
+      - (ii) that specified in paragraph (2)(d), excluding subparagraph (ii);
 
     - (c) in the case of any other flying machines one of the systems of lights specified in paragraph (2) of this Rule.
 
@@ -194,13 +194,13 @@ Made by Aircraft General
 
     - (b)
 
-      - (i) the lights specified in sub-paragraph (a) of this paragraph; and
+      - (i) the lights specified in subparagraph (a) of this paragraph; and
 
       - (ii) an anti-collision light;
 
-    - (c) the lights specified in sub-paragraph (a) of this paragraph, but all being flashing lights flashing together;
+    - (c) the lights specified in subparagraph (a) of this paragraph, but all being flashing lights flashing together;
 
-    - (d) the lights specified in sub-paragraph (a), but all being flashing lights flashing together in alternation with one or both of the following:
+    - (d) the lights specified in subparagraph (a), but all being flashing lights flashing together in alternation with one or both of the following:
 
       - (i) a flashing white light of at least twenty candela showing in all directions;
 
@@ -218,7 +218,7 @@ Made by Aircraft General
 
     - (a) a group of two steady lights consisting of a white light placed 4 metres above a red light, both being of at least five candela and showing in all directions, the white light being placed not less than 5 metres or more than 10 metres below the basket, or if there is no basket, below the lowest part of the balloon or kite;
 
-    - (b) on the mooring cable, at intervals of not more than 300 metres measured from the group of lights referred to in sub-paragraph (a) of this paragraph, groups of two lights of the colour and power and in the relative positions specified in that sub-paragraph, and, if the lowest group of lights is obscured by cloud, an additional group below the cloud base; and
+    - (b) on the mooring cable, at intervals of not more than 300 metres measured from the group of lights referred to in subparagraph (a) of this paragraph, groups of two lights of the colour and power and in the relative positions specified in that subparagraph, and, if the lowest group of lights is obscured by cloud, an additional group below the cloud base; and
 
     - (c) on the surface, a group of three flashing lights arranged in a horizontal plane at the apexes of a triangle, approximately equilateral, each side of which measures at least 25 metres; one side of the triangle shall be approximately at right angles to the horizontal projection of the cable and shall be delimited by two red lights; the third light shall be a green light so placed that the triangle enclose the object on the surface to which the balloon or kite is moored.
 
@@ -306,7 +306,7 @@ Section IV General Flight Rules
 
       - (iii) gliders shall give way to balloons.
 
-    - (b) Subject to the provisions of sub-paragraph (a) of this paragraph, when two aircraft are converging in the air at approximately the same altitude, the aircraft which has the other on its right shall give way:
+    - (b) Subject to the provisions of subparagraph (a) of this paragraph, when two aircraft are converging in the air at approximately the same altitude, the aircraft which has the other on its right shall give way:
 
     - Provided that mechanically driven aircraft shall give way to aircraft which are towing other aircraft or objects.
 
@@ -342,7 +342,7 @@ Section IV General Flight Rules
 
   - (7) Landing and take-off
 
-    - (a) A flying machine, glider or airship shall take-off and land in the direction indicated by the ground signals or, if no such signals are displayed, into the wind, unless good aviation practice demands otherwise.
+    - (a) A flying machine, glider or airship shall take off and land in the direction indicated by the ground signals or, if no such signals are displayed, into the wind, unless good aviation practice demands otherwise. (E.R. 5 of 2022)
 
     - (b) A flying machine or glider shall not land on a runway at an aerodrome if the runway is not clear of other aircraft unless, in the case of an aerodrome having an air traffic control unit, that unit otherwise authorizes.
 
@@ -384,7 +384,7 @@ Section IV General Flight Rules
 
     - (a) outside a control zone shall be flown in accordance with the Instrument Flight Rules; or
 
-    - (b) in a control zone shall be flown in accordance with the Instrument Flight Rules unless it is on a Special VFR flight.
+    - (b) in a control zone shall be flown in accordance with the Instrument Flight Rules unless it is on a special VFR flight. (E.R. 5 of 2022)
 
 - 22A. (Repealed L.N. 77 of 2008)
 
@@ -410,7 +410,7 @@ Section V Visual Flight Rules
 
     - (d) an aircraft flying outside controlled airspace below flight level 100 shall remain at least 1 500 metres horizontally and 1 000 feet vertically away from cloud and in a flight visibility of at least 5 kilometres:
 
-    - Provided that this sub-paragraph shall be deemed to be complied with if:
+    - Provided that this subparagraph shall be deemed to be complied with if:
 
       - (i) the aircraft is flying at or below 3 000 feet above mean sea level and remains clear of cloud and in sight of the surface and in a flight visibility of at least 5 kilometres;
 
@@ -420,7 +420,7 @@ Section V Visual Flight Rules
 
   - (2)
 
-    - For the purposes of this Rule, “Special VFR flight” means a flight—
+    - For the purposes of this Rule, special VFR flight means a flight—
 
       - (a) made in a control zone in any notified airspace in meteorological condition below Visual Meteorological Conditions or at night;
 
@@ -462,9 +462,9 @@ Section VI Instrument Flight Rules
 
   - Provided that an aircraft may be flown at a level other than the level required by this Rule if it is flying in conformity with instructions given by an air traffic control unit or in accordance with notified en-route holding patterns or in accordance with holding procedures notified in relation to an aerodrome.
 
-- For the purposes of this Rule “transition altitude” means the altitude so notified in relation to flight over such area or areas as may be notified.
+- For the purposes of this Rule transition altitude means the altitude so notified in relation to flight over such area or areas as may be notified.
 
-- TABLE I—Flights at levels at or below 9 000 feet (L.N. 77 of 2008)
+- Table I—Flights at levels at or below 9 000 feet (L.N. 77 of 2008)
 
 - Magnetic Track | Cruising Level
 
@@ -472,7 +472,7 @@ Section VI Instrument Flight Rules
 
 - 180 degrees but less than 360 degrees | Even thousands of feet
 
-- TABLE II—Flights at or above Flight Level (FL) 110
+- Table II—Flights at or above Flight Level (FL) 110
 
 - Magnetic Track | Cruising Level
 
@@ -628,9 +628,9 @@ Section VII Aerodrome Traffic Rules
 
 - 35. Flight within aerodrome traffic zones
 
-  - (1) Paragraphs (2) and (3) of this Rule shall apply only in relation to such of the aerodromes described in Column 1 of the following Tables as are notified for the purposes of this Rule and at such times as are specified in Column 2 thereof.
+  - (1) Paragraphs (2) and (3) of this Rule shall apply only in relation to such of the aerodromes described in Column 1 of the following Table as are notified for the purposes of this Rule and at such times as are specified in Column 2 thereof. (E.R. 5 of 2022)
 
-  - TABLE
+  - Table
 
   - Column 1 | Column 2
 

@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
-Article 15
+[Article 15]
 
-AIRCRAFT, ENGINE AND PROPELLER LOG BOOKS
+Aircraft, Engine and Propeller Log Books
 
 - 1. Aircraft Log Book The following entries shall be included in the aircraft log book:
 
@@ -20,7 +20,7 @@ AIRCRAFT, ENGINE AND PROPELLER LOG BOOKS
 
   - (g) particulars of any overhauls, repairs, replacements and modifications relating to the aircraft or any such equipment as aforesaid:
 
-    - Provided that entries shall not be required to be made under sub-paragraphs (e), (f) and (g) in respect of any engine or variable pitch propeller.
+    - Provided that entries shall not be required to be made under subparagraphs (e), (f) and (g) in respect of any engine or variable pitch propeller.
 
 - 2. Engine Log Book The following entries shall be included in the engine log book:
 

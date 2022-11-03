@@ -1,10 +1,10 @@
-# SCHEDULE 9
+# Schedule 9
 
-Article 20
+[Article 20]
 
-FLIGHT CREW OF AIRCRAFT, LICENCES AND RATINGS
+Flight Crew of Aircraft, Licences and Ratings
 
-PART A—Licences
+- Part A Licences
 
 Minimum Age, Period of Validity, Privileges
 
@@ -38,13 +38,13 @@ Minimum Age, Period of Validity, Privileges
 
     - in either case in an aeroplane owned, or operated under arrangements entered into by a club of which the holder of the licence and any person carried in the aircraft or in any glider towed by the aircraft are members;
 
-  - (b) he shall not receive any remuneration for his services as a pilot, other than remuneration for the giving of such instruction or the conducting of such flying tests as are specified in sub-paragraph (a)(i) of this proviso;
+  - (b) he shall not receive any remuneration for his services as a pilot, other than remuneration for the giving of such instruction or the conducting of such flying tests as are specified in subparagraph (a)(i) of this proviso;
 
   - (c) he shall not, unless his licence includes an instrument rating (aeroplanes), fly as pilot in command of such an aeroplane—
 
     - (i) on a flight outside controlled airspace when the flight visibility is less than 3 kilometres;
 
-    - (ii) on a special VFR flight in a control zone in a flight visibility of less than 10 kilometres except on a route or in an aerodrome traffic zone notified for the purposes of this sub-paragraph;
+    - (ii) on a special VFR flight in a control zone in a flight visibility of less than 10 kilometres except on a route or in an aerodrome traffic zone notified for the purposes of this subparagraph;
 
     - (iii) out of sight of the surface; (L.N. 77 of 2008)
 
@@ -142,7 +142,7 @@ Minimum Age, Period of Validity, Privileges
 
 - No Maximum Period of Validity
 
-- Privileges: The holder of the licence shall be entitled to fly as pilot in command or co-pilot of a helicopter of gyroplane of any of the types specified in the aircraft rating included in the licence:
+- Privileges: The holder of the licence shall be entitled to fly as pilot in command or co-pilot of a helicopter or gyroplane of any of the types specified in the aircraft rating included in the licence: (E.R. 5 of 2022)
 
   - Provided that—
 
@@ -236,11 +236,15 @@ Privileges: The holder of the licence shall be entitled to exercise the privileg
 
   - Provided that he shall not act as pilot in command on a flight for the purpose of the public transport of passengers unless he has within the immediately preceding 90 days carried out as pilot in command in a free balloon 3 flights each of not less than 5 minutes duration.
 
+- * | In respect of the privileges of a Private Pilot’s Licence the maximum period of validity shall be as given for that licence.
+
 - Commercial Pilot’s Licence (Airships)
 
 - Minimum Age—18 years (L.N. 77 of 2008)
 
-- Maximum Period of Validity—10 years Privileges:
+- Maximum Period of Validity—10 years
+
+- Privileges:
 
   - (1) The holder of the licence shall be entitled to exercise the privileges of a Private Pilot’s Licence (Balloons and Airships).
 
@@ -262,7 +266,7 @@ Privileges: The holder of the licence shall be entitled to exercise the privileg
 
       - (i) the giving of instruction in gliding if his licence includes a flying instructor’s rating or an assistant instructor’s rating; or
 
-      - (ii) the conducting of flying tests for the purposes of this Order; in either case in a glider owned, or operated under arrangements entered into, by a flying club of which the person giving the instruction or conducting the test and the person receiving the instruction or undergoing the test are both members.
+      - (ii) the conducting of flying tests for the purposes of this Order; in either case in a glider owned, or operated under arrangements entered into, by a flying club of which the person giving the instruction or conducting the test and the person receiving the instruction or undergoing the test are both members;
 
     - (b) he shall not receive any remuneration for his services as a pilot on a flight other than remuneration for the giving of such instruction or the conducting of such flying tests as are specified in paragraph (a) of this proviso.
 
@@ -296,7 +300,7 @@ Privileges: The holder of the licence shall be entitled to exercise the privileg
 
 - Privileges: The holder of the licence shall be entitled to operate radiotelephony apparatus in any aircraft if the stability of the frequency radiated by the transmitter is maintained automatically but shall not be entitled to operate the transmitter, or to adjust its frequency, except by the use of external switching devices. (L.N. 77 of 2008)
 
-PART B—Ratings
+Part B—Ratings
 
 - 1. The following ratings may be included in a pilot’s licence granted under Part IV of this Order, and subject to the provisions of this Order and of the licence, the inclusion of a rating in a licence shall have the consequences respectively specified as follows—
 
@@ -334,11 +338,13 @@ PART B—Ratings
 
 - 3. For the purposes of this Schedule—
 
-  - “Solo flight” means a flight on which the pilot of the aircraft is not accompanied by a person holding a pilot’s licence granted or rendered valid under this Order.
+  - cross-country flight means any flight during the course of which the aircraft is more than 3 nautical miles from the aerodrome of departure; (E.R. 5 of 2022)
 
-  - “Cross-country flight” means any flight during the course of which the aircraft is more than 3 nautical miles from the aerodrome of departure.
+  - solo flight means a flight on which the pilot of the aircraft is not accompanied by a person holding a pilot’s licence granted or rendered valid under this Order.
 
-PART C—Certificate of Test or Experience
+- (E.R. 5 of 2022)
+
+Part C—Certificate of Test or Experience
 
 - 1.
 
@@ -364,7 +370,7 @@ PART C—Certificate of Test or Experience
 
 - (L.N. 77 of 2008)
 
-  - (b) For the purposes of this Part of this Schedule references to Cases are references to the cases indicated in the first Column of the Table in paragraph 1(a) of this Part of this Schedule.
+    - (b) For the purposes of this Part of this Schedule references to Cases are references to the cases indicated in the first Column of the Table in paragraph 1(a) of this Part of this Schedule.
 
 - 2. Certificate of test A certificate of test required by Article 20(4) or 20(5) of this Order shall be signed by a person authorized by the Chief Executive to sign certificates of this kind and shall certify the following particulars— (36 of 1999 s. 3)
 
