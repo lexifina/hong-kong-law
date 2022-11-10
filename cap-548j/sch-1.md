@@ -1,30 +1,30 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4, 5, 5A & 7] (L.N. 112 of 2019)
 
-FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (CERTIFICATION AND LICENSING) REGULATION
+Fees Prescribed for Purposes of Merchant Shipping (Local Vessels) (Certification and Licensing) Regulation
 
-- PART 1
+- Part 1
 
   - In this Schedule—
 
-    - “chargeable area” (須予繳費面積), in relation to a local vessel, means—
+    - chargeable area (須予繳費面積), in relation to a local vessel, means—
 
       - (a) the area of the vessel in square metres; or
 
       - (b) if that area is not a whole number, the area rounded up to the next whole number;
 
-    - “relevant area” (有關範圍) means an area of sea bed—
+    - relevant area (有關範圍) means an area of sea bed—
 
       - (a) which is included in a lease of the foreshore adjacent to the area; or
 
       - (b) the lease of which is granted in conjunction with a lease of the foreshore adjacent to the area;
 
-    - “specified sheltered waters” (指明遮蔽水域) means the waters specified in Schedule 2 to the Certification and Licensing Regulation;
+    - specified sheltered waters (指明遮蔽水域) means the waters specified in Schedule 2 to the Certification and Licensing Regulation;
 
-    - “typhoon shelter” (避風塘) means a typhoon shelter specified in column 2 of the Schedule to the Typhoon Shelters Regulation.
+    - typhoon shelter (避風塘) means a typhoon shelter specified in column 2 of the Schedule to the Typhoon Shelters Regulation.
 
-- PART 2
+- Part 2
 
 - Item | Type of vessel | Fee
 
@@ -258,7 +258,7 @@ FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (CERTIFICATION
 
 - (g) where the area of the vessel is 420 m2 or more | $17,420 plus $1,340 for each 60 m2 of the difference between the area of the vessel and 420 m2 (rounded up to the next multiple of 60 m2 if the difference is not a multiple of 60 m2)
 
-- PART 3
+- Part 3
 
 - Item | Matter | Fee
 

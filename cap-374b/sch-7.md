@@ -1,8 +1,8 @@
-# SEVENTH SCHEDULE
+# Seventh Schedule
 
 [regs. 39 & 43(1)]
 
-PARTICULARS OF RECORD
+Particulars of Record
 
 Driving Licences and Permits:
 

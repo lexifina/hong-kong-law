@@ -1,22 +1,22 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 10, 11, 12 & 13]
 
-FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (SAFETY AND SURVEY) REGULATION
+Fees Prescribed for Purposes of Merchant Shipping (Local Vessels) (Safety and Survey) Regulation
 
-- PART 1
+- Part 1
 
   - In this Schedule—
 
-    - “consideration period” (考慮期間), in relation to the consideration of plans by a specified officer, means—
+    - consideration period (考慮期間), in relation to the consideration of plans by a specified officer, means—
 
       - (a) the period of time, in hours, during which the consideration continues; or
 
       - (b) if that period of time is not a whole number, the period of time rounded up to the next whole number;
 
-    - “specified number of passengers” (指明乘客數目), in relation to a local vessel the subject matter of an application under section 8 or 17 of the Survey Regulation, means the maximum number of passengers that the vessel is intended to carry, as specified in that application.
+    - specified number of passengers (指明乘客數目), in relation to a local vessel the subject matter of an application under section 8 or 17 of the Survey Regulation, means the maximum number of passengers that the vessel is intended to carry, as specified in that application.
 
-- PART 2 CONSIDERATION OF PLANS
+- Part 2 Consideration of Plans
 
 - Item | Type of vessel | Plan | Fee
 
@@ -52,7 +52,7 @@ FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (SAFETY AND SU
 
 - (c) where the specified number of passengers of the vessel is 101 or more | all plans | $27,050
 
-- PART 3 SURVEY FOR ISSUE OF CERTIFICATE OF SURVEY
+- Part 3 Survey for Issue of Certificate of Survey
 
 - Item | Type of vessel | Fee
 
@@ -132,7 +132,7 @@ FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (SAFETY AND SU
 
 - (d) where the specified number of passengers of the vessel is 501 or more | $4,950 plus $1,000 for each 100 passengers of the difference between specified number of passengers of the vessel and 500 (rounded up to the next multiple of 100 if the difference is not a multiple of 100)
 
-- PART 4 SURVEY FOR ISSUE OF SURVEY RECORD OF SAFETY EQUIPMENT
+- Part 4 Survey for Issue of Survey Record of Safety Equipment
 
 - Item | Type of vessel | Fee
 
@@ -156,55 +156,55 @@ FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (SAFETY AND SU
 
 - (d) where the gross tonnage of the vessel is 1 600 or more | $12,020
 
-- PART 5 SURVEY FOR ISSUE OF HONG KONG LOAD LINE CERTIFICATE
+- Part 5 Survey for Issue of Hong Kong Load Line Certificate
 
-Item | Type of vessel | Fee
+- Item | Type of vessel | Fee
 
-1. | Local vessel in respect of which no Hong Kong load line certificate has ever been issued—
+- 1. | Local vessel in respect of which no Hong Kong load line certificate has ever been issued—
 
-(a) where the gross tonnage of the vessel is less than 150 | $39,160
+- (a) where the gross tonnage of the vessel is less than 150 | $39,160
 
-(b) where the gross tonnage of the vessel is 150 or more but less than 200 | $47,500
+- (b) where the gross tonnage of the vessel is 150 or more but less than 200 | $47,500
 
-(c) where the gross tonnage of the vessel is 200 or more but less than 300 | $58,730
+- (c) where the gross tonnage of the vessel is 200 or more but less than 300 | $58,730
 
-(d) where the gross tonnage of the vessel is 300 or more but less than 500 | $78,310
+- (d) where the gross tonnage of the vessel is 300 or more but less than 500 | $78,310
 
-(e) where the gross tonnage of the vessel is 500 or more but less than 1 000 | $97,860
+- (e) where the gross tonnage of the vessel is 500 or more but less than 1 000 | $97,860
 
-(f) where the gross tonnage of the vessel is 1 000 or more but less than 1 500 | $117,440
+- (f) where the gross tonnage of the vessel is 1 000 or more but less than 1 500 | $117,440
 
-(g) where the gross tonnage of the vessel is 1 500 or more | $137,020
+- (g) where the gross tonnage of the vessel is 1 500 or more | $137,020
 
-2. | Local vessel in respect of which a Hong Kong load line certificate was issued—
+- 2. | Local vessel in respect of which a Hong Kong load line certificate was issued—
 
-(a) where the gross tonnage of the vessel is less than 150 | $11,000
+- (a) where the gross tonnage of the vessel is less than 150 | $11,000
 
-(b) where the gross tonnage of the vessel is 150 or more but less than 200 | $13,250
+- (b) where the gross tonnage of the vessel is 150 or more but less than 200 | $13,250
 
-(c) where the gross tonnage of the vessel is 200 or more but less than 300 | $15,750
+- (c) where the gross tonnage of the vessel is 200 or more but less than 300 | $15,750
 
-(d) where the gross tonnage of the vessel is 300 or more but less than 500 | $19,550
+- (d) where the gross tonnage of the vessel is 300 or more but less than 500 | $19,550
 
-(e) where the gross tonnage of the vessel is 500 or more but less than 1 000 | $23,350
+- (e) where the gross tonnage of the vessel is 500 or more but less than 1 000 | $23,350
 
-(f) where the gross tonnage of the vessel is 1 000 or more but less than 1 500 | $29,150
+- (f) where the gross tonnage of the vessel is 1 000 or more but less than 1 500 | $29,150
 
-(g) where the gross tonnage of the vessel is 1 500 or more | $34,950
+- (g) where the gross tonnage of the vessel is 1 500 or more | $34,950
 
-- PART 6 SURVEY FOR ISSUE OF FREEBOARD ASSIGNMENT CERTIFICATE
+- Part 6 Survey for Issue of Freeboard Assignment Certificate
 
-Item | Type of vessel | Fee
+- Item | Type of vessel | Fee
 
-1. | Local vessel the gross tonnage of which is less than 100 | $770
+- 1. | Local vessel the gross tonnage of which is less than 100 | $770
 
-2. | Local vessel the gross tonnage of which is 100 or more but less than 200 | $1,060
+- 2. | Local vessel the gross tonnage of which is 100 or more but less than 200 | $1,060
 
-3. | Local vessel the gross tonnage of which is 200 or more but less than 300 | $1,350
+- 3. | Local vessel the gross tonnage of which is 200 or more but less than 300 | $1,350
 
-4. | Local vessel the gross tonnage of which is 300 or more | $1,600
+- 4. | Local vessel the gross tonnage of which is 300 or more | $1,600
 
-- PART 7 SURVEY FOR ISSUE OF DECLARATION OF FITNESS
+- Part 7 Survey for Issue of Declaration of Fitness
 
   - 1. Interpretation of Part 7 of this Schedule
 

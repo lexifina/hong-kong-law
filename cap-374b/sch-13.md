@@ -1,9 +1,9 @@
-# THIRTEENTH SCHEDULE
+# Thirteenth Schedule
 
 [reg. 12K]
 
-PLATE TO BE FIXED ON MOTOR VEHICLES DRIVEN BY HOLDERS OF PROBATIONARY DRIVING LICENCES
+Plate to be Fixed on Motor Vehicles Driven by Holders of Probationary Driving Licences
 
-- PART I SMALL PLATE
+- Part I Small Plate
 
-- PART II LARGE PLATE (Thirteenth Schedule replaced 23 of 2008 s. 51)
+- Part II Large Plate (Thirteenth Schedule replaced 23 of 2008 s. 51)

@@ -1,10 +1,10 @@
-# TENTH SCHEDULE
+# Tenth Schedule
 
 [reg. 48]
 
-TRANSITIONAL PROVISIONS
+Transitional Provisions
 
-- 1. Subject to paragraph 2, a driving licence (other than a provisional licence or temporary driving licence), provisional licence, temporary driving licence and a driving licence to drive Government vehicles, or a duplicate of any such licence, issued under the Road Traffic (Driving Licences) Regulations (Cap. 220 sub. leg. 1982 Ed) revoked by regulation 47 of these regulations (hereinafter referred to as the “revoked regulations”) shall, if the licence is valid at the commencement of these regulations, be deemed to be a full driving licence, learner’s driving licence, temporary driving licence and a driving licence to drive Government vehicles respectively under these regulations, subject to any restriction with respect to the driving of any class of motor vehicle and to any requirement or condition specified on such licence.
+- 1. Subject to paragraph 2, a driving licence (other than a provisional licence or temporary driving licence), provisional licence, temporary driving licence and a driving licence to drive Government vehicles, or a duplicate of any such licence, issued under the Road Traffic (Driving Licences) Regulations (Cap. 220 sub. leg. 1982 Ed) revoked by regulation 47 of these regulations (hereinafter referred to as the revoked regulations) shall, if the licence is valid at the commencement* of these regulations, be deemed to be a full driving licence, learner’s driving licence, temporary driving licence and a driving licence to drive Government vehicles respectively under these regulations, subject to any restriction with respect to the driving of any class of motor vehicle and to any requirement or condition specified on such licence.
 
 - 2. Any licence referred to in paragraph 1 issued under the revoked regulations that is restricted to the driving of—
 
@@ -35,3 +35,7 @@ TRANSITIONAL PROVISIONS
 - 9. Where any enactment or document refers, whether specifically or by means of a general description, to the revoked regulations referred to in paragraph 8 or is to be construed as so referring, the reference shall, except where the context otherwise requires, be construed as, or including, a reference to the corresponding provision of these regulations.
 
 - 10. Without prejudice to paragraph 7, any record kept under the revoked regulations referred to in paragraph 8 shall be deemed to form part of the record kept under the corresponding provisions of these regulations.
+
+Editorial Note:
+
+* Commencement date: 25 August 1984.

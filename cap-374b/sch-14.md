@@ -1,8 +1,8 @@
-# SCHEDULE 14
+# Schedule 14
 
 [reg. 44A]
 
-LICENCES TO BE PRODUCED FOR INSPECTION WHEN REQUIRED
+Licences to be Produced for Inspection When Required
 
 Regulation | Relevant licence
 

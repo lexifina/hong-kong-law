@@ -1,8 +1,8 @@
-# FIFTH SCHEDULE
+# Fifth Schedule
 
 [reg. 22] (L.N. 97 of 2001)
 
-CONDITIONS OF ISSUE OF A DRIVING INSTRUCTOR’S LICENCE
+Conditions of Issue of a Driving Instructor’s Licence
 
 - 1. A driving instructor’s licence is valid only while the holder is in possession of a valid full driving licence to drive all those classes of motor vehicles in the group for which he is entitled by the driving instructor’s licence to give driving instruction. (L.N. 161 of 2000)
 

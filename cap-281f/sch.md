@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [regs. 3, 5, 5A, 6, 7, 8, 11A & 12]
 
-- PART I (No provision) __________
+- Part I (No provision) __________
 
-- PART II FEES FOR SURVEYS SECTION A—PASSENGER SHIPS AND SAFETY CERTIFICATE
+- Part II Fees for Surveys Section A—Passenger Ships and Safety Certificate
 
 - Note: | (1) | The fees prescribed under items 1 to 4 inclusive of this Section cover—
 
@@ -88,7 +88,7 @@
 
 - (c) | survey of boilers, main and auxiliary machinery; or
 
-- (d) | survey of navigational and life saving appliances except inflatable life rafts
+- (d) | survey of navigational and life-saving appliances except inflatable life rafts
 
 - Note: | The survey fee for a passenger certificate, a safety certificate or a passenger certificate combined with a safety certificate under this item is apportioned as follows—
 
@@ -100,7 +100,9 @@
 
 - 11. | For a partial survey of the hull, the machinery or the safety equipment of ships holding valid passenger certificates following a reported accident or casualty. Per visit subsequent to the initial visit by a surveyor | 4,425
 
-- SECTION B—EXAMINATION AND APPROVAL OF PLANS
+- (E.R. 5 of 2022)
+
+- Section B—Examination and Approval of Plans
 
 - Note: | (1) | The fee charged for examination and approval of plans is additional to any prescribed fee for survey or for witnessing of tests, except initial surveys for registry.
 
@@ -108,7 +110,7 @@
 
 - Purpose or service | Fee $
 
-- 1. | For the examination of the design of any type of fire detecting system or plans of any type of installation for fire extinguishing | }
+- 1. | For the examination of the design of any type of fire detecting system or plans of any type of installation for fire extinguishing | a fee determined by the time involved, charged at the hourly rate.
 
 - 2. | For the examination of structural drawing and scantlings
 
@@ -118,7 +120,7 @@
 
 - 5. | For the consideration of designs of boilers or shafting, or other machinery parts
 
-- 6. | For the consideration of the arrangement of fire appliances, life-saving appliances, navigation lights and sound signals or navigational equipment | a fee determined by the time involved, charged at the hourly rate.
+- 6. | For the consideration of the arrangement of fire appliances, life-saving appliances, navigation lights and sound signals or navigational equipment
 
 - 7. | For the examination of the design of side-scuttles, or fire-resisting doors, or ships’ side or other hull fittings
 
@@ -126,21 +128,21 @@
 
 - 9. | For the consideration of the arrangement of radio-telegraphy installations
 
-- SECTION C—SURVEYS OF BOILERS AND MACHINERY
+- Section C—Surveys of Boilers and Machinery
 
 - Purpose or service | Fee $
 
 - The following fees shall be payable—
 
-- 1. | For the survey and hydraulic testing of boilers intended for use on board ship | }
+- 1. | For the survey and hydraulic testing of boilers intended for use on board ship | a fee determined by the time involved, charged at the hourly rate.
 
 - 2. | For the survey of boiler parts, machinery, etc.—
 
-- (a) | Air receivers or welded pressure vessels of Class I and II | a fee determined by the time involved, charged at the hourly rate.
+- (a) | Air receivers or welded pressure vessels of Class I and Class II
 
 - (b) | Air receivers or welded pressure vessels of Class III
 
-- (c) | Auxiliary unit (such evaporators, heaters, filters, coolers, pumps and other similar items)
+- (c) | Auxiliary units (such evaporators, heaters, filters, coolers, pumps and other similar items)
 
 - (d) | Boiler mountings
 
@@ -154,11 +156,13 @@
 
 - 5. | For survey of oil fuel installations, tanks, cofferdams and oily water separators, pressure gauges and other similar items
 
-- 6. | For survey of steering gear— Steering gear, main and auxiliary, complete | } | a fee determined by the time involved, charged at the hourly rate.
+- 6. | For survey of steering gear— | a fee determined by the time involved, charged at the hourly rate.
+
+- Steering gear, main and auxiliary, complete
 
 - 7. | For survey of superheaters for boilers
 
-- 8. | For survey of watertight doors —
+- 8. | For survey of watertight doors—
 
 - (a) | Examination of design, inspection and witnessing of tests of the prototype and issue of a certificate of inspection and tests where appropriate
 
@@ -172,7 +176,7 @@
 
 - 12. | For survey of engine casting and forging, superheater headers or similar items, inspection and material tests
 
-- 13. | For witnessing tests of a new electrode intended for use on parts of ships’ hulls which are of primary structural importance | } | a fee determined by the time involved, charged at the hourly rate.
+- 13. | For witnessing tests of a new electrode intended for use on parts of ships’ hulls which are of primary structural importance | a fee determined by the time involved, charged at the hourly rate.
 
 - 14. | For survey of the finished work of flanged or worked plates, compensation rings, and manhole doors
 
@@ -188,7 +192,9 @@
 
 - 18. | For a certificate of inspection, or certificates of material or hydraulic test, in duplicate | 3,685
 
-- SECTION D—CARGO SHIP SAFETY CONSTRUCTION CERTIFICATES
+- (E.R. 5 of 2022)
+
+- Section D—Cargo Ship Safety Construction Certificates
 
 - The following fees shall be payable—
 
@@ -232,13 +238,11 @@
 
 - (b) | If the survey is carried out more than 1 month but within 12 months after the expiry of the certificate | 14,700
 
-- 6. | For the survey of a tanker, carried out by a surveyor, before a survey for the issue or renewal of a Cargo Ship Safety Construction Certificate or an intermediate survey | } | a fee determined by the time involved, charged at the hourly rate.
+- 6. | For the survey of a tanker, carried out by a surveyor, before a survey for the issue or renewal of a Cargo Ship Safety Construction Certificate or an intermediate survey | a fee determined by the time involved, charged at the hourly rate.
 
 - 7. | Where repairs have been made to a cargo ship which require a special survey to be carried out by a surveyor
 
-- SECTION E—RADIO, RADAR AND NAVIGATIONAL
-
-- EQUIPMENT INSTALLATIONS
+- Section E—Radio, Radar and Navigational Equipment Installations
 
 - Note: | The fees specified in this Section are in addition to the fee for the issue or extension of a passenger certificate, a safety certificate and a safety equipment certificate under Sections A and F respectively.
 
@@ -288,7 +292,7 @@
 
 - (2) | The fee under this item is chargeable in case of cancellation of service unless notice of cancellation is given at least 2 office hours prior to the time at which the facilities were requested.
 
-- SECTION F—SAFETY EQUIPMENT CERTIFICATE
+- Section F—Safety Equipment Certificate
 
 - Note: | (1) | The services specified in items 1, 2, 3 and 4 of this Section include—
 
@@ -388,7 +392,7 @@
 
 - 10. | (Repealed L.N. 90 of 1999 and 44 of 1999 s. 25)
 
-- SECTION G—LIFE-SAVING APPLIANCES
+- Section G—Life-saving Appliances
 
 - Purpose or service | Fee $
 
@@ -416,13 +420,13 @@
 
 - (b) | For the inspection of a lifeboat constructed of materials other than glass re-inforced plastics—
 
-- for a lifeboat constructed of wood | 2 x the appropriate fee in item 1(a) of this Section.
+- for a lifeboat constructed of wood | 2 × the appropriate fee in item 1(a) of this Section.
 
-- for a lifeboat constructed of steel but not having built-in buoyancy tanks | } | 1 1/2 x the appropriate fee in item 1(a) of this Section.
+- for a lifeboat constructed of steel but not having built-in buoyancy tanks | 1 1/2 × the appropriate fee in item 1(a) of this Section.
 
 - for a lifeboat constructed of aluminium but not having built-in buoyancy tanks
 
-- for a lifeboat constructed of steel or aluminium having built-in buoyancy tanks | 2 x the appropriate fee in item 1(a) of this Section.
+- for a lifeboat constructed of steel or aluminium having built-in buoyancy tanks | 2 × the appropriate fee in item 1(a) of this Section.
 
 - (c) | For the inspection of mechanically and hand propelled lifeboats, motor lifeboats and motor lifeboats fitted with a radio cabin and searchlight—
 
@@ -456,13 +460,13 @@
 
 - 4. | Appliances—
 
-- (a) | For the examination of the design, or a modification to a design, of a life-saving appliance, the witnessing of tests and inspection of an appliance made to the design | }
+- (a) | For the examination of the design, or a modification to a design, of a life-saving appliance, the witnessing of tests and inspection of an appliance made to the design | a fee determined by the time involved, charged at the hourly rate.
 
-- (b) | For the inspection of a proofed fabric or adhesive and consideration of report of tests carried out by an independent laboratory | a fee determined by the time involved, charged at the hourly rate.
+- (b) | For the inspection of a proofed fabric or adhesive and consideration of report of tests carried out by an independent laboratory
 
 - (c) | The issue of a certificate of tests if required
 
-- SECTION H—FIRE APPLIANCES
+- Section H—Fire Appliances
 
 - Purpose or service | Fee $
 
@@ -480,7 +484,7 @@
 
 - 3. | For the examination of the design of a fire-detecting system, inert gas system or fixed fire extinguishing installation or plans of a froth or carbon dioxide installation for fire extinguishing | a fee determined by the time involved, charged at the hourly rate.
 
-- SECTION I—LIGHTS AND SOUND SIGNALS
+- Section I—Lights and Sound Signals
 
 - Purpose or service | Fee $
 
@@ -488,11 +492,11 @@
 
 - 1. | For the examination of the design of a light and sound signal apparatus, the testing and inspection of the first apparatus made to the design, and if required, the issue of a certificate of test—
 
-- (a) | Navigation lantern | }
+- (a) | Navigation lantern | a fee determined by the time involved, charged at the hourly rate.
 
 - (b) | Burner
 
-- (c) | Lens | a fee determined by the time involved, charged at the hourly rate.
+- (c) | Lens
 
 - (d) | Daylight signalling lamp
 
@@ -514,7 +518,7 @@
 
 - For each visit made to the ship | 7,350
 
-- SECTION J—LOAD LINE AND SEAWORTHINESS
+- Section J—Load Line and Seaworthiness
 
 - Note: | The fees specified under this Section include where appropriate the issue in duplicate of the load line or load line exemption certificate, as the case may be.
 
@@ -522,7 +526,7 @@
 
 - The following fees shall be payable—
 
-- 1. | For surveys and inspections for load line certificates and load line exemption certificates.
+- 1. | For surveys and inspections for load line certificates and load line exemption certificates
 
 - (a) | Table of Standard Fees—
 
@@ -586,7 +590,7 @@
 
 - exceeds 500 tons | 7,350
 
-- Note: | For the purpose of this sub-item “additional visit” (額外巡視) means a visit attributable to the inability or failure of the owner to have the ship available for inspection or to keep it so available after the commencement of the inspection.
+- Note: | For the purpose of this sub-item additional visit (額外巡視) means a visit attributable to the inability or failure of the owner to have the ship available for inspection or to keep it so available after the commencement of the inspection.
 
 - (d) | Where the survey or inspection of a ship is carried out concurrently with a survey for a passenger certificate, a safety certificate or a passenger certificate combined with a safety certificate—
 
@@ -598,7 +602,7 @@
 
 - (e) | For the survey of a ship in respect of which a load line certificate or load line exemption certificate is in force, where alterations have been made to the ship which involve the assignment of new freeboards but are not such as to necessitate a complete survey of the ship for that purpose | the standard periodical inspection fee in sub-item (a) of this item.
 
-- (f) | For the consideration of stability information to determine compliance with the stability requirements in Schedules 4 and 7 to the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg.) | a fee determined by the time involved, charged at the hourly rate.
+- (f) | For the consideration of stability information to determine compliance with the stability requirements in Schedules 4 and 7 to the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg. AD) | a fee determined by the time involved, charged at the hourly rate.
 
 - Note: | The fee prescribed in this sub-item is additional to the appropriate fee in the Table of Standard Fees in sub-item (a) of this item.
 
@@ -652,7 +656,9 @@
 
 - 8. | Fees for survey for seaworthiness of obsolete war vessels, hulks, wrecks, or similar vessels | a fee determined by the time involved, charged at the hourly rate.
 
-- SECTION K—FOREIGN-GOING SHIPS CARRYING DANGEROUS GOODS
+- (E.R. 5 of 2022)
+
+- Section K—Foreign-going Ships Carrying Dangerous Goods
 
 - Purpose or service | Fee $
 
@@ -688,7 +694,7 @@
 
 - 6. | For the examination and survey of bulk gas carriers under International Maritime Organization Codes for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk | a fee determined by the time involved, charged at the hourly rate.
 
-- (64 of 1999 s. 3) SECTION L—SHIPS CARRYING GRAIN CARGOES
+- (64 of 1999 s. 3; E.R. 5 of 2022) Section L—Ships Carrying Grain Cargoes
 
 - Purpose or service | Fee $
 
@@ -708,11 +714,11 @@
 
 - (b) | for each additional compartment at the same visit | 1,485
 
-- SECTION M (Repealed 44 of 1995 s. 143) SECTION N
+- Section M (Repealed 44 of 1995 s. 143) Section N
 
 - (No provision)
 
-- SECTION O—TRAWLERS
+- Section O—Trawlers
 
 - Purpose or service | Fee $
 
@@ -734,13 +740,11 @@
 
 - 4. | For examination of all plans and stability information | a fee determined by the time involved, charged at the hourly rate
 
-- SECTIONS P, Q and R (Repealed 43 of 1999 s. 91)
+- Sections P, Q and R (Repealed 43 of 1999 s. 91)
 
 - __________
 
-- PART III FEES FOR CERTAIN SERVICES RENDERED BY THE
-
-- MERCANTILE MARINE OFFICE
+- Part III Fees for Certain Services Rendered by the Mercantile Marine Office
 
 - Purpose or service | Fee $
 
@@ -752,11 +756,11 @@
 
 - (b) | For fishermen engaged or discharged during the currency of the agreement, per fisherman | 160
 
-- (L.N. 240 of 1996)
+- (Part III replaced L.N. 240 of 1996)
 
 - __________
 
-- PART IV FEES PAYABLE FOR EXAMINATIONS, ETC.
+- Part IV Fees Payable for Examinations, etc.
 
 - Note: | (1) | The fees specified in this Part include the issue of the appropriate certificate of competency.
 
@@ -784,13 +788,13 @@
 
 - 3-5. | (Repealed 43 of 1999 s. 91)
 
-- (L.N. 240 of 1996)
+- (Part IV replaced L.N. 240 of 1996)
 
 - __________
 
-- PARTS V and VI (Repealed 43 of 1999 s. 91) __________
+- Parts V and VI (Repealed 43 of 1999 s. 91) __________
 
-- PART VII FEES IN RELATION TO COURTS OF SURVEY
+- Part VII Fees in relation to Courts of Survey
 
 - Purpose or service | Fee $
 
@@ -810,10 +814,12 @@
 
 - 8. | On every consent by the parties to refer the question of costs, or of costs and damages, to the court, to be paid by each party | 565
 
-- 9. | On every hearing, for each day, to be paid by each party | a fee determined by the Court of Survey at its discretion.
+- 9. | On every hearing, for each day, to be paid by each party | a fee determined by the Court of Survey at its discretion
 
 - 10. | On every order whether for the release or detention of the ship or for payment of costs, or costs and damages, to be paid by the party taking out the order | 565
 
 - 11. | On every photostatic copy of the judgment or report, or of notes of the evidence, or of any of the proceedings in the appeal, per folio of 72 words | 15 subject to a minimum fee of $220
+
+- (E.R. 5 of 2022)
 
 (Schedule replaced L.N. 247 of 1992. L.N. 333 of 1993; L.N. 334 of 1994; L.N. 270 of 1995)

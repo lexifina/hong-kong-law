@@ -1,8 +1,8 @@
-# EIGHTH SCHEDULE
+# Eighth Schedule
 
 [reg. 33]
 
-REQUIREMENTS FOR A DRIVING TEST
+Requirements for a Driving Test
 
 The requirements as to which a candidate for a driving test shall satisfy an authorized examiner shall be that he is able to—
 

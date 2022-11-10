@@ -1,8 +1,8 @@
-# NINTH SCHEDULE
+# Ninth Schedule
 
 [regs. 2 & 36(2)]
 
-FORM 1 INTERNATIONAL DRIVING PERMIT UNDER 1949 CONVENTION Page 1 THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF
+Form 1 INTERNATIONAL DRIVING PERMIT UNDER 1949 CONVENTION Page 1 THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF
 
 THE PEOPLE’S REPUBLIC OF CHINA* International Motor Traffic INTERNATIONAL DRIVING PERMIT Convention on International Road Traffic of 1949
 
@@ -20,7 +20,7 @@ Signature or seal of issuing authority Page 2
 
 * In a permit issued by some other country or place the name of that country or place will appear instead and pages 1 and 2 will be drawn up in the language of that country or place.
 
-PART I Last page
+Part I Last page
 
 Particulars concerning the Driver:
 
@@ -44,7 +44,7 @@ Motor vehicles used for the transport of goods and of which the permissible maxi
 
 Motor vehicles used for the transport of passengers and comprising, in addition to the driver's seat, more than eight seats. Vehicles in this category may be coupled with a light trailer. | D
 
-Motor vehicles of categories, B, C or D as authorized above, with other than a light trailer. | E
+Motor vehicles of category B, C or D as authorized above, with other than a light trailer. | E
 
 “Permissible maximum weight” (許可最高重量) of a vehicle means the weight of the vehicle and its maximum load when the vehicle is ready for the road.
 
@@ -66,7 +66,7 @@ Signature
 
 Should the above space be already filled, use any other space provided for Exclusions: (countries or places I-VIII). The entire last page (Parts I and II) shall be drawn up in French. Additional pages shall repeat in other languages the text of Part I of the last page. They shall be drawn up in English, Russian, Chinese and Spanish, and other languages may be added.
 
-PART II
+Part II
 
 1. | .
 
@@ -104,8 +104,10 @@ IV | VIII
 
 - * Father’s or husband’s name may be inserted. ** If known. *** Or approximate age on date of issue. **** Or thumb impression.
 
-(3 of 2002 s. 15)
+(3 of 2002 s. 15; E.R. 5 of 2022)
 
-_
+__________
 
-FORM 2 (Repealed L.N. 49 of 2007)
+Form 2
+
+(Repealed L.N. 49 of 2007)

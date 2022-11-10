@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 25]
 
-FEES FOR PERMISSION TO NAVIGATE IN WATERS OF HONG KONG
+Fees for Permission to Navigate in Waters of Hong Kong
 
 Item | Type of vessel | Fee
 

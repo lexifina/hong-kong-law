@@ -1,8 +1,8 @@
-# SIXTH SCHEDULE
+# Sixth Schedule
 
 [regs. 24 & 25]
 
-- PART I DRIVING INSTRUCTOR’S TEST A person shall pass a driving instructor’s test if he satisfies the authorized examiner conducting the test that—
+- Part I Driving Instructor’s Test A person shall pass a driving instructor’s test if he satisfies the authorized examiner conducting the test that—
 
     - (a) he is fully conversant with—
 
@@ -18,7 +18,7 @@
 
     - (e) he is fully conversant with the contents of the Fifth Schedule (conditions of issue of a driving instructor’s licence).
 
-- PART II TEST OF CONTINUED ABILITY AND FITNESS TO GIVE DRIVING INSTRUCTION The following provisions shall apply to such test—
+- Part II Test of Continued Ability and Fitness to Give Driving Instruction The following provisions shall apply to such test—
 
   - 1. The test shall consist of the attendance of an authorized examiner while the driving instructor is giving driving instruction to a driver, and when required to do so by the authorized examiner for the purpose of the test the driving instructor shall give such instruction in a motor vehicle on a road.
 

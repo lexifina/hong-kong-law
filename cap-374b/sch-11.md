@@ -1,8 +1,8 @@
-# ELEVENTH SCHEDULE
+# Eleventh Schedule
 
 [regs. 12C & 12D]
 
-REQUIREMENTS FOR A MOTOR CYCLE DRIVING TEST
+Requirements for a Motor Cycle Driving Test
 
 - 1. Part A of a motor cycle driving test shall comprise a written test requiring a candidate for the test to satisfy an authorized examiner that he is fully conversant with the Road Users’ Code promulgated, and from time to time revised, under section 109 of the Ordinance.
 
