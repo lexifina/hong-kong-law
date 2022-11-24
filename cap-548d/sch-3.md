@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 47(2) & 56]
 

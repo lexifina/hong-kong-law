@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2(1) & 56]
 
@@ -10,13 +10,13 @@ Victoria Harbour Area
 
 The waters contained within the following boundaries—
 
-On the north— The shoreline of Kowloon and the New Territories;
+On the north—The shoreline of Kowloon and the New Territories;
 
-On the east— A straight line drawn from the northern shore of A Kung Ngam at position 22°17.058ʹ north 114°14.027ʹ east to the southern shore of Lei Yue Mun at position 22°17.273ʹ north 114°14.192ʹ east;
+On the east—A straight line drawn from the northern shore of A Kung Ngam at position 22°17.058ʹ north 114°14.027ʹ east to the southern shore of Lei Yue Mun at position 22°17.273ʹ north 114°14.192ʹ east;
 
-On the south— The shoreline of Hong Kong Island;
+On the south—The shoreline of Hong Kong Island;
 
-On the west— A straight line drawn from the westernmost point of Hong Kong Island to the westernmost point of Green Island, thence a straight line drawn from the westernmost point of Green Island to the southern shore of Tsing Yi at position 22°19.623ʹ north 114°06.400ʹ east, thence along the southern, eastern and northern shorelines of Tsing Yi to the westernmost extremity of Tsing Yi and thence a straight line drawn true north therefrom to the mainland.
+On the west—A straight line drawn from the westernmost point of Hong Kong Island to the westernmost point of Green Island, thence a straight line drawn from the westernmost point of Green Island to the southern shore of Tsing Yi at position 22°19.623ʹ north 114°06.400ʹ east, thence along the southern, eastern and northern shorelines of Tsing Yi to the westernmost extremity of Tsing Yi and thence a straight line drawn true north therefrom to the mainland.
 
 Tai Po Area
 

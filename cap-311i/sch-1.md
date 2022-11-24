@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 2]
 
-SPECIFIED EMISSION LIMIT
+Specified Emission Limit
 
 Specified pollutant | Emission limit (gram pollutant per litre fuel)
 

@@ -1,8 +1,10 @@
-EXAMINATION OF HULL, SHIP-SIDE FITTINGS AND BOILERS (EXEMPTION) (CONSOLIDATION) NOTICE
+Examination of Hull, Ship-side Fittings and Boilers (Exemption) (Consolidation) Notice
 
 (Cap. 369, section 114)
 
 [27 May 1983]
+
+(Format changes—E.R. 5 of 2022)
 
 Pursuant to section 114 of the Merchant Shipping (Safety) Ordinance (Cap. 369), the Secretary for Economic Services hereby grants the following exemptions in respect of all ships—
 

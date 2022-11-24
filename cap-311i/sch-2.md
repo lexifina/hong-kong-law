@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 4B]
 
-TEST METHODS AND MEASUREMENT REQUIREMENTS
+Test Methods and Measurement Requirements
 
 - 1. The actual volumetric flow rate of flue gas in cubic metres per hour (m3/hr) and the actual concentration of specified pollutants in grams per cubic metre (g/m3) are required to be tested and measured at the same time using the following methods (which are listed in Appendix M to Part 51 and Appendix A to Part 60 of Title 40 of the Code of Federal Regulations published in the Federal Register of the United States Government)—
 
