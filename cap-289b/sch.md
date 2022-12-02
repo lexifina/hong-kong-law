@@ -370,4 +370,6 @@ Item | Periods | Rate of interest
 
 183. | On or after 3 October 2022 and before 7 November 2022 (L.N. 184 of 2022; L.N. 209 of 2022) | 0.1750% per annum
 
-184. | On or after 7 November 2022 (L.N. 209 of 2022) | 0.3167% per annum
+184. | On or after 7 November 2022 and before 5 December 2022 (L.N. 209 of 2022; L.N. 230 of 2022) | 0.3167% per annum
+
+185. | On or after 5 December 2022 (L.N. 230 of 2022) | 0.4000% per annum
