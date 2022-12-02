@@ -8,17 +8,17 @@
 
 - outside Harbour Limits
 
-  - 1. For every ship piloted, a pilotage due of $4,700 plus— (L.N. 111 of 2005; L.N. 70 of 2008; L.N. 174 of 2011; L.N. 88 of 2016)
+  - 1. For every ship piloted, a pilotage due of $5,150 plus— (L.N. 111 of 2005; L.N. 70 of 2008; L.N. 174 of 2011; L.N. 88 of 2016; 12 of 2022 s. 16)
 
-    - (a) for ships having a gross tonnage of less than 40 000 tons, $0.07 per ton of the ship’s gross tonnage; (L.N. 234 of 2002; L.N. 70 of 2008)
+    - (a) for ships having a gross tonnage of less than 40 000 tons, $0.0768 per ton of the ship’s gross tonnage; (L.N. 234 of 2002; L.N. 70 of 2008)
 
-    - (b) for ships having a gross tonnage of or above 40 000 tons but not exceeding 80 000 tons, $0.065 per ton of the ship’s gross tonnage or $2,800, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
+    - (b) for ships having a gross tonnage of or above 40 000 tons but not exceeding 80 000 tons, $0.0712 per ton of the ship’s gross tonnage or $3,072, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
 
-    - (c) for ships having a gross tonnage exceeding 80 000 tons but not exceeding 120 000 tons, $0.0625 per ton of the ship’s gross tonnage or $5,200, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
+    - (c) for ships having a gross tonnage exceeding 80 000 tons but not exceeding 120 000 tons, $0.0685 per ton of the ship’s gross tonnage or $5,696, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
 
-    - (ca) for ships having a gross tonnage exceeding 120 000 tons but not exceeding 140 000 tons, $0.055 per ton of the ship’s gross tonnage or $7,500, whichever is the greater; or (L.N. 88 of 2016)
+    - (ca) for ships having a gross tonnage exceeding 120 000 tons but not exceeding 140 000 tons, $0.0603 per ton of the ship’s gross tonnage or $8,220, whichever is the greater; or (L.N. 88 of 2016)
 
-    - (d) for ships having a gross tonnage exceeding 140 000 tons, $7,700. (L.N. 70 of 2008) (2 of 2013 s. 13; L.N. 88 of 2016)
+    - (d) for ships having a gross tonnage exceeding 140 000 tons, $8,448. (L.N. 70 of 2008) (2 of 2013 s. 13; L.N. 88 of 2016; 12 of 2022 s. 16)
 
   - Notes: (a)The pilotage dues specified in this Part include all costs incurred by a pilot in travelling to and from a ship.
 
@@ -34,15 +34,15 @@
 
   - 3. An additional pilotage due equal to 100% overall of the standard pilotage dues shall be payable for any pilotage service if the whole or any part thereof is performed while any tropical cyclone warning signal other than the Standby Signal No. 1 is issued. (L.N. 111 of 2005)
 
-  - 4. An additional pilotage due of $700 per half an hour or part thereof shall be payable for any pilotage service performed, where a pilot is required to proceed outwards beyond a pilot boarding station, from the time the ship passes a pilot boarding station outwards until the ship passes a pilot boarding station inwards. (L.N. 19 of 1997; L.N. 146 of 2019)
+  - 4. An additional pilotage due of $1,482 per half an hour or part thereof shall be payable for any pilotage service performed, where a pilot is required to proceed outwards beyond a pilot boarding station, from the time the ship passes a pilot boarding station outwards until the ship passes a pilot boarding station inwards. (L.N. 19 of 1997; L.N. 146 of 2019; 12 of 2022 s. 16)
 
-  - 5. An additional pilotage due of $2,000 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship off Ngan Chau or at the west of Lamma Island. (L.N. 19 of 1997; L.N. 160 of 1999; L.N. 161 of 1999; L.N. 234 of 2002; L.N. 111 of 2005; L.N. 240 of 2009; L.N. 88 of 2016)
+  - 5. An additional pilotage due of $2,191 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship off Ngan Chau or at the west of Lamma Island. (L.N. 19 of 1997; L.N. 160 of 1999; L.N. 161 of 1999; L.N. 234 of 2002; L.N. 111 of 2005; L.N. 240 of 2009; L.N. 88 of 2016; 12 of 2022 s. 16)
 
-  - 5A. An additional pilotage due of $2,800 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship west of a straight line drawn from Pearl Island to East Brother Island. (L.N. 19 of 1997; L.N. 111 of 2005; L.N. 174 of 2011; L.N. 88 of 2016)
+  - 5A. An additional pilotage due of $3,070 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship west of a straight line drawn from Pearl Island to East Brother Island. (L.N. 19 of 1997; L.N. 111 of 2005; L.N. 174 of 2011; L.N. 88 of 2016; 12 of 2022 s. 16)
 
-  - 5B. An additional pilotage due of $1,300 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship north of a straight line drawn from Black Point to Lung Kwu Chau Light. (L.N. 111 of 2005; L.N. 88 of 2016)
+  - 5B. An additional pilotage due of $1,425 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship north of a straight line drawn from Black Point to Lung Kwu Chau Light. (L.N. 111 of 2005; L.N. 88 of 2016; 12 of 2022 s. 16)
 
-  - 5C. An additional pilotage due of $4,200 is payable for any pilotage service performed if a pilot is required to board, or disembark from, a ship in Tolo Harbour. (L.N. 146 of 2019)
+  - 5C. An additional pilotage due of $4,605 is payable for any pilotage service performed if a pilot is required to board, or disembark from, a ship in Tolo Harbour. (L.N. 146 of 2019; 12 of 2022 s. 16)
 
   - 5D. An additional pilotage due of $10,350 is payable for any pilotage service performed if a pilot is required to board, or disembark from, a ship at the pilot boarding station described in item 6 of Schedule 2 to the Ordinance (area off Ping Chau in Mirs Bay). (L.N. 146 of 2019)
 
@@ -52,7 +52,7 @@
 
     - (b) the pilot boarding station described in item 8 of Schedule 2 to the Ordinance (area off Shek Ngau Chau in Mirs Bay). (L.N. 146 of 2019)
 
-  - 6. Where a pilot is detained there shall be payable for such detention an additional pilotage due of $1,300 per half an hour or part thereof for the first hour, $1,300 for the second hour or part thereof and $1,300 per hour or part thereof for any further period of detention. (L.N. 112 of 1998; L.N. 111 of 2005; L.N. 88 of 2016)
+  - 6. Where a pilot is detained there shall be payable for such detention an additional pilotage due of $1,720 per half an hour or part thereof for the first hour, $1,720 for the second hour or part thereof and $1,720 per hour or part thereof for any further period of detention. (L.N. 112 of 1998; L.N. 111 of 2005; L.N. 88 of 2016; 12 of 2022 s. 16)
 
   - 7. An additional pilotage due equal to 50% overall of the standard pilotage dues is payable for any pilotage service that is provided—
 
@@ -72,7 +72,7 @@
 
     - (c) within 1 hour before the last stated time of a requirement for pilotage services elsewhere,
 
-  - a pilotage due of $4,700 is payable. (L.N. 146 of 2019)
+  - a pilotage due of $5,150 is payable. (L.N. 146 of 2019)
 
   - 2. If the engagement of a pilot is altered—
 
@@ -80,6 +80,6 @@
 
     - (b) within 1 to 3 hours before the last stated time of a requirement for pilotage services elsewhere,
 
-  - an additional pilotage due of $300 is payable. (L.N. 146 of 2019)
+  - an additional pilotage due of $349 is payable. (L.N. 146 of 2019)
 
-  - 3. If the engagement of a pilot is altered more than twice then an additional pilotage due of $300 shall be payable for the third and each subsequent alteration. (L.N. 432 of 1984; L.N. 104 of 1985; L.N. 257 of 1987; L.N. 295 of 1989; L.N. 447 of 1990; L.N. 460 of 1991; L.N. 409 of 1992; L.N. 467 of 1993; L.N. 679 of 1994; L.N. 611 of 1995; L.N. 19 of 1997)
+  - 3. If the engagement of a pilot is altered more than twice then an additional pilotage due of $349 shall be payable for the third and each subsequent alteration. (L.N. 432 of 1984; L.N. 104 of 1985; L.N. 257 of 1987; L.N. 295 of 1989; L.N. 447 of 1990; L.N. 460 of 1991; L.N. 409 of 1992; L.N. 467 of 1993; L.N. 679 of 1994; L.N. 611 of 1995; L.N. 19 of 1997; 12 of 2022 s. 16)
