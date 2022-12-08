@@ -156,6 +156,8 @@ Tolls and Fees
 
   - Tseung Kwan O Tunnel (將軍澳隧道) | $140 | $175 | $215
 
+  - Tseung Kwan O-Lam Tin Tunnel (將軍澳-藍田隧道) (L.N. 35 of 2020) | $140 | $175 | $215
+
   - Tuen Mun-Chek Lap Kok Tunnel (屯門-赤鱲角隧道) (L.N. 35 of 2020) | $140 | $175 | $215
 
 - (7 of 2016 s. 18; L.N. 72 of 2018)
@@ -191,6 +193,8 @@ Tolls and Fees
 - Tate’s Cairn Tunnel (大老山隧道) | $82
 
 - Tseung Kwan O Tunnel (將軍澳隧道) | $82
+
+- Tseung Kwan O-Lam Tin Tunnel (將軍澳-藍田隧道) (L.N. 35 of 2020) | $82
 
 - Tuen Mun-Chek Lap Kok Tunnel (屯門-赤鱲角隧道) (L.N. 35 of 2020) | $82
 
