@@ -2,9 +2,9 @@
 
 [s. 2]
 
-PAY SCALES
+Pay Scales
 
-- PART 1 CIVIL SERVICE PAY SCALES
+- Part 1 Civil Service Pay Scales
 
     - 1. Master Pay Scale—point 34 (33A) to point 49
 
@@ -18,9 +18,9 @@ PAY SCALES
 
     - 6. Directorate (Legal) Pay Scale—point DL1 to point DL6
 
-- PART 2 ICAC PAY SCALE Independent Commission Against Corruption Pay Scale—point 28 to point 48
+- Part 2 ICAC Pay Scale Independent Commission Against Corruption Pay Scale—point 28 to point 48
 
-- PART 3 HOSPITAL AUTHORITY PAY SCALES
+- Part 3 Hospital Authority Pay Scales
 
     - 1. Hospital Authority General Pay Scale—point 34 to point 56
 

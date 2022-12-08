@@ -32,7 +32,7 @@ Prohibited Goods
 
   - (b) not being—
 
-    - (i) produced in a manufacturing process conducted with a licence granted or renewed under section 5 of the Dangerous Goods (Control) Regulation; and
+    - (i) produced in a manufacturing process conducted with a licence granted or renewed under section 5 of the Dangerous Goods (Control) Regulation (Cap. 295 sub. leg. G); and (E.R. 5 of 2022)
 
     - (ii) reprocessed in the process to produce Schedule 1 dangerous goods
 

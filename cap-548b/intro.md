@@ -1,5 +1,9 @@
-MERCHANT SHIPPING (LOCAL VESSELS) (FERRY TERMINALS) REGULATION
+Merchant Shipping (Local Vessels) (Ferry Terminals) Regulation
 
 (Cap. 548, section 89)
 
+(Enacting provision omitted— E.R. 5 of 2022)
+
 [2 January 2007] L.N. 282 of 2006
+
+(Format changes—E.R. 5 of 2022)
