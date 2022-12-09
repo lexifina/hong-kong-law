@@ -602,7 +602,7 @@
 
 - (e) | For the survey of a ship in respect of which a load line certificate or load line exemption certificate is in force, where alterations have been made to the ship which involve the assignment of new freeboards but are not such as to necessitate a complete survey of the ship for that purpose | the standard periodical inspection fee in sub-item (a) of this item.
 
-- (f) | For the consideration of stability information to determine compliance with the stability requirements in Schedules 4 and 7 to the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg. AD) | a fee determined by the time involved, charged at the hourly rate.
+- (f) | For the consideration of information to determine compliance with requirements relating to stability for the purposes of the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg. AD) (L.N. 180 of 2022) | a fee determined by the time involved, charged at the hourly rate.
 
 - Note: | The fee prescribed in this sub-item is additional to the appropriate fee in the Table of Standard Fees in sub-item (a) of this item.
 
