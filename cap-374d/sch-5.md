@@ -58,7 +58,7 @@ Taxi Fares
 
 (c) | Taxis licensed to operate within Lantau (L.N. 140 of 1990; L.N. 225 of 1996) | $5.00
 
-(iii) | For every hiring involving the use of the Lion Rock Tunnel, the Shing Mun Tunnels, the Tseung Kwan O Tunnel, the Tate’s Cairn Tunnel, the Aberdeen Tunnel, the Cross-Harbour Tunnel or the Eastern Harbour Crossing (20 of 2021 s. 81) | The appropriate toll for the use of the tunnel concerned, as specified in Part 1, 2, 3 or 3A of Schedule 2 to the Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A).
+(iii) | For every hiring involving the use of the Lion Rock Tunnel, the Shing Mun Tunnels, the Tate’s Cairn Tunnel, the Aberdeen Tunnel, the Cross-Harbour Tunnel or the Eastern Harbour Crossing (20 of 2021 s. 81; L.N. 36 of 2020) | The appropriate toll for the use of the tunnel concerned, as specified in Part 1, 2, 3 or 3A of Schedule 2 to the Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A).
 
 (iiia) | For every hiring involving the use of the Tai Lam Tunnel or the Western Harbour Crossing (20 of 2021 s. 81) | The toll paid by the driver of the taxi during the hiring for the use of the tunnel concerned.
 
