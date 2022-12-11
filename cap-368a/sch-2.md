@@ -10,9 +10,11 @@ Tolls and Fees
 
 - Vehicle | Tolls
 
-- Aberdeen Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
+- Aberdeen Tunnel | Lion Rock Tunnel | Shing Mun Tunnels
 
-- All vehicles | $5 | $8 | $5 | $3
+- All vehicles | $5 | $8 | $5
+
+- (L.N. 35 of 2020)
 
 - Part 2 Tolls (for Cross-Harbour Tunnel) (7 of 2016 s. 18)
 
