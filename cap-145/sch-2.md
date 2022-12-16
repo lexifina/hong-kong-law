@@ -52,6 +52,12 @@ Item | Substance
 
 24. | Methyl alpha-phenylacetoacetate (α-苯乙酰乙酸甲酯) (*) (Added L.N. 91 of 2021)
 
+25. | 4-Anilinopiperidine (4- 苯胺基哌啶) (*) (Added L.N. 198 of 2022)
+
+26. | Norfentanyl (去甲芬太尼) (*) (Added L.N. 198 of 2022)
+
+27. | Tert-butyl 4-(phenylamino)piperidine-1-carboxylate (4- 苯胺基哌啶 -1- 羧酸叔丁酯) (*) (Added L.N. 198 of 2022)
+
 (*) | Including the salts of these substances whenever the existence of such salts is possible.
 
 (Schedule 2 replaced L.N. 53 of 1997)
