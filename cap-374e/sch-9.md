@@ -2,9 +2,9 @@
 
 [reg. 56]
 
-Particulars to be Entered on Permits Issued under Part VIII
+Particulars to be Entered on Part VIII Permits
 
-(Format changes—E.R. 2 of 2012)
+(L.N. 197 of 2022) (Format changes—E.R. 2 of 2012)
 
 - 1. Closed Road Permit
 
