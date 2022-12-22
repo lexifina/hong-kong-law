@@ -2,88 +2,88 @@
 
 [regs. 28, 29, 30 & 34]
 
-DIMENSIONS OF THE FIGURES IN THIS SCHEDULE ARE
+(Format changes—E.R. 6 of 2022)
 
-IN MILLIMETRES UNLESS OTHERWISE INDICATED
+Dimensions of the Figures in this Schedule are in Millimetres Unless Otherwise Indicated
 
-FIGURE NO. 1 STOPPING PLACE
+Figure No. 1 Stopping Place
 
-THIS ROAD MARKING WHEN PLACED IN CONJUNCTION WITH THE SIGN IN:—
+This road marking when placed in conjunction with the sign in— (E.R. 6 of 2022)
 
-- (a) FIGURE NO. 2 DEMARCATES THE LIMITS OF A STOPPING PLACE THAT MAY BE USED BY VEHICLE ON SCHEDULED SERVICES.
+- (a) Figure No. 2 demarcates the limits of a stopping place that may be used by vehicle on scheduled services.
 
-- (b) FIGURE NO. 3 DEMARCATES THE LIMITS OF A STOPPING PLACE THAT MAY BE USED BY PUBLIC LIGHT BUSES. FIGURE NO. 2 SCHEDULED SERVICE STOPPING PLACE
+- (b) Figure No. 3 demarcates the limits of a stopping place that may be used by public light buses. Figure No. 2 Scheduled Service Stopping Place
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 1 INDICATES A STOPPING PLACE THAT MAY BE USED BY VEHICLES ON SCHEDULED SERVICES.
+This sign when placed in conjunction with the road marking in Figure No. 1 indicates a stopping place that may be used by vehicles on scheduled services.
 
-FIGURE NO. 3 PUBLIC LIGHT BUS STOPPING PLACE
+Figure No. 3 Public Light Bus Stopping Place
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH THE ROAD MARKING IN FIGURE NO. 1 INDICATES A STOPPING PLACE THAT MAY BE USED BY PUBLIC LIGHT BUSES.
+This sign when placed in conjunction with the road marking in Figure No. 1 indicates a stopping place that may be used by public light buses.
 
-FIGURE NO. 4 SCHEDULED SERVICE STAND
+Figure No. 4 Scheduled Service Stand
 
-PUBLIC LIGHT BUS STAND
+Public Light Bus Stand
 
-TAXI STAND
+Taxi Stand
 
-THIS ROAD MARKING WHEN PLACED IN CONJUNCTION WITH THE SIGN IN:—
+This road marking when placed in conjunction with the sign in— (E.R. 6 of 2022)
 
-- (a) FIGURE NO. 5 DEMARCATES THE LIMITS OF A PART OF THE CARRIAGEWAY UPON WHICH VEHICLES ON SCHEDULED SERVICES ARE PERMITTED TO STAND;
+- (a) Figure No. 5 demarcates the limits of a part of the carriageway upon which vehicles on scheduled services are permitted to stand;
 
-- (b) FIGURE NO. 6 DEMARCATES THE LIMITS OF A PART OF THE CARRIAGEWAY UPON WHICH PUBLIC LIGHT BUSES ARE PERMITTED TO STAND;
+- (b) Figure No. 6 demarcates the limits of a part of the carriageway upon which public light buses are permitted to stand;
 
-- (c) FIGURE NO. 7 DEMARCATES THE LIMITS OF A PART OF THE CARRIAGEWAY UPON WHICH TAXIS ARE PERMITTED TO STAND.
+- (c) Figure No. 7 demarcates the limits of a part of the carriageway upon which taxis are permitted to stand.
 
-WHERE A SIGN IN FIGURE NO. 5, 6 OR 7 IS PLACED IN CONJUNCTION WITH A TIME PLATE IN FIGURE NO. 8 OR 9 AS APPROPRIATE A STAND DESIGNATED BY THIS ROAD MARKING MAY ALSO BE AVAILABLE AT CERTAIN TIMES FOR PARKING AS PERMITTED BY THE TIME PLATE.
+Where a sign in Figure No. 5, 6 or 7 is placed in conjunction with a time plate in Figure No. 8 or 9 as appropriate. A stand designated by this road marking may also be available at certain times for parking as permitted by the time plate.
 
-FIGURE NO. 5 SCHEDULED SERVICE STAND
+Figure No. 5 Scheduled Service Stand
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH THE ROAD MARKING SHOWN IN FIGURE NO. 4 DEMARCATES THE LIMITS OF A PART OF THE CARRIAGEWAY UPON WHICH VEHICLES ON SCHEDULED SERVICES ARE PERMITTED TO STAND. IT MAY ALSO BE PLACED IN CONJUNCTION WITH THE TIME PLATE IN FIGURE NO. 8.
+This sign when placed in conjunction with the road marking shown in Figure No. 4 demarcates the limits of a part of the carriageway upon which vehicles on scheduled services are permitted to stand. It may also be placed in conjunction with the time plate in Figure No. 8.
 
-FIGURE NO. 6 PUBLIC LIGHT BUS STAND
+Figure No. 6 Public Light Bus Stand
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH THE ROAD MARKING SHOWN IN FIGURE NO. 4 DEMARCATES THE LIMITS OF A PART OF THE CARRIAGEWAY UPON WHICH PUBLIC LIGHT BUSES ARE PERMITTED TO STAND. IT MAY ALSO BE PLACED IN CONJUNCTION WITH THE TIME PLATE IN FIGURE NO. 8.
+This sign when placed in conjunction with the road marking shown in Figure No. 4 demarcates the limits of a part of the carriageway upon which public light buses are permitted to stand. It may also be placed in conjunction with the time plate in Figure No. 8.
 
-FIGURE NO. 7 TAXI STAND
+Figure No. 7 Taxi Stand
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH THE ROAD MARKING SHOWN IN FIGURE NO. 4 DEMARCATES THE LIMITS OF A PART OF THE CARRIAGEWAY UPON WHICH TAXIS ARE PERMITTED TO STAND. IT MAY ALSO BE PLACED IN CONJUNCTION WITH THE TIME PLATE IN FIGURE NO. 9 AND THE SUPPLEMENTARY PLATE IN FIGURE NO. 10, 10A, 11 OR 12.
+This sign when placed in conjunction with the road marking shown in Figure No. 4 demarcates the limits of a part of the carriageway upon which taxis are permitted to stand. It may also be placed in conjunction with the time plate in Figure No. 9 and the supplementary plate in Figure No. 10, 10A, 11 or 12.
 
 (L.N. 261 of 1984; L.N. 236 of 1995; L.N. 173 of 1997)
 
-FIGURE NO. 8 TIME PLATE
+Figure No. 8 Time Plate
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SIGNS IN:—
+This sign may be used in conjunction with the signs in— (E.R. 6 of 2022)
 
-- (a) FIGURE NO. 5 TO INDICATE WHEN THE SPACE MAY BE USED AS A SCHEDULED SERVICE STAND AND THAT AT OTHER TIMES IT MAY BE USED FOR THE PARKING OF VEHICLES ON SCHEDULED SERVICES.
+- (a) Figure No. 5 to indicate when the space may be used as a scheduled service stand and that at other times it may be used for the parking of vehicles on scheduled services.
 
-- (b) FIGURE NO. 6 TO INDICATE WHEN THE SPACE MAY BE USED AS A PUBLIC LIGHT BUS STAND AND THAT AT OTHER TIMES IT MAY BE USED FOR THE PARKING OF PUBLIC LIGHT BUSES.
+- (b) Figure No. 6 to indicate when the space may be used as a public light bus stand and that at other times it may be used for the parking of public light buses.
 
-THE WORDING ON THE SIGN MAY BE VARIED TO SPECIFY ANY PERIOD OF TIME OR ANY DAY OR DAYS OR TO DELETE THE REFERENCE TO PARKING THE DIMENSIONS OF THE SIGN MAY BE VARIED TO SUIT ANY VARIATION IN THE WORDING.
+The wording on the sign may be varied to specify any period of time or any day or days or to delete the reference to parking. The dimensions of the sign may be varied to suit any variation in the wording.
 
-FIGURE NO. 9 TIME PLATE
+Figure No. 9 Time Plate
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SIGN IN FIGURE NO. 7 TO INDICATE WHEN THE SPACE MAY BE USED AS A TAXI STAND AND THAT AT OTHER TIMES IT MAY BE USED FOR THE PARKING OF TAXIS.
+This sign may be used in conjunction with the sign in Figure No. 7 to indicate when the space may be used as a taxi stand and that at other times it may be used for the parking of taxis.
 
-THE WORDING ON THE SIGN MAY BE VARIED TO SPECIFY ANY PERIOD OF TIME OR ANY DAY OR DAYS OR TO DELETE REFERENCE TO PARKING. THE DIMENSIONS OF THE SIGN MAY BE VARIED TO SUIT ANY VARIATION IN THE WORDING.
+The wording on the sign may be varied to specify any period of time or any day or days or to delete reference to parking. The dimensions of the sign may be varied to suit any variation in the wording.
 
-FIGURE NO. 10 SUPPLEMENTARY PLATE
+Figure No. 10 Supplementary Plate
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH FIGURE NO. 7 INDICATES THAT THE TAXI STAND MAY BE USED BY TAXIS LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN THE NEW TERRITORIES ONLY, i.e. WITHIN THE PERMITTED AREA FOR NEW TERRITORIES TAXIS SPECIFIED IN SCHEDULE 7 TO THE ROAD TRAFFIC (REGISTRATION AND LICENSING OF VEHICLES) REGULATIONS UNDER CAP. 374. (L.N. 261 of 1984)
+This sign when placed in conjunction with Figure No. 7 indicates that the taxi stand may be used by taxis licensed to be available for hire or to carry passengers within the New Territories only, i.e. within the permitted area for New Territories taxis specified in Schedule 7 to the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) under Cap. 374. (L.N. 261 of 1984; E.R. 6 of 2022)
 
-FIGURE NO. 10A SUPPLEMENTARY PLATE
+Figure No. 10A Supplementary Plate
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH FIGURE NO. 7 INDICATES THAT THE TAXI STAND MAY BE USED BY TAXIS LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN LANTAU ONLY, i. e. WITHIN THE PERMITTED AREA FOR LANTAU TAXIS SPECIFIED IN SCHEDULE 7 TO THE ROAD TRAFFIC (REGISTRATION AND LICENSING OF VEHICLES) REGULATIONS UNDER CAP. 374.
+This sign when placed in conjunction with Figure No. 7 indicates that the taxi stand may be used by taxis licensed to be available for hire or to carry passengers within Lantau only, i.e. within the permitted area for Lantau taxis specified in Schedule 7 to the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) under Cap. 374.
 
-(L.N. 173 of 1997)
+(L.N. 173 of 1997; E.R. 6 of 2022)
 
-FIGURE NO. 11 SUPPLEMENTARY PLATE
+Figure No. 11 Supplementary Plate
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH FIGURE NO. 7 INDICATES THAT THE TAXI STAND MAY BE USED BY TAXIS OTHER THAN THOSE LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN THE NEW TERRITORIES ONLY OR LANTAU ONLY, i. e. WITHIN THE PERMITTED AREA FOR NEW TERRITORIES TAXIS OR LANTAU TAXIS SPECIFIED IN SCHEDULE 7 TO THE ROAD TRAFFIC (REGISTRATION AND LICENSING OF VEHICLES) REGULATIONS UNDER CAP. 374.
+This sign when placed in conjunction with Figure No. 7 indicates that the taxi stand may be used by taxis other than those licensed to be available for hire or to carry passengers within the New Territories only or Lantau only, i.e. within the permitted area for New Territories taxis or Lantau taxis specified in Schedule 7 to the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) under Cap. 374.
 
-(L.N. 173 of 1997)
+(L.N. 173 of 1997; E.R. 6 of 2022)
 
-FIGURE NO. 12 SUPPLEMENTARY PLATE
+Figure No. 12 Supplementary Plate
 
-THIS SIGN WHEN PLACED IN CONJUNCTION WITH FIGURE NO. 7 INDICATES THAT THE TAXI STAND IS A CROSS-HARBOUR TAXI STAND.
+This sign when placed in conjunction with Figure No. 7 indicates that the taxi stand is a cross-harbour taxi stand.
 
 (L.N. 236 of 1995)

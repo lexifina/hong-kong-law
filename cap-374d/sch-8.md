@@ -1,8 +1,10 @@
-# SCHEDULE 8
+# Schedule 8
 
 [reg. 51(3)]
 
-REQUIREMENTS OF A NOTICE UNDER REGULATION 51(3)
+Requirements of a Notice under Regulation 51(3)
+
+(Format changes—E.R. 6 of 2022)
 
 A notice referred to in regulation 51(3) shall—
 

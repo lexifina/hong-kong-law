@@ -1,8 +1,12 @@
-# SCHEDULE 9
+# Schedule 9
 
 [reg. 49A]
 
-- PART I REQUIREMENTS APPLICABLE TO RECEIPTS ISSUED FOR THE PURPOSES OF REGULATION 49A(1) For the purposes of regulation 49A(1), a receipt issued in respect of the payment of any fare for the hiring of a taxi shall—
+(Format changes—E.R. 6 of 2022)
+
+- Part I Requirements Applicable to Receipts Issued for the Purposes of Regulation 49A(1)
+
+- For the purposes of regulation 49A(1), a receipt issued in respect of the payment of any fare for the hiring of a taxi shall—
 
     - (a) be in a form from time to time specified by the Commissioner;
 
@@ -28,7 +32,9 @@
 
     - (d) be printed on paper with a white background.
 
-- PART II REQUIREMENTS APPLICABLE TO RECEIPTS ISSUED FOR THE PURPOSES OF REGULATION 49A(2) For the purposes of regulation 49A(2)—
+- Part II Requirements Applicable to Receipts Issued for the Purposes of Regulation 49A(2)
+
+- For the purposes of regulation 49A(2)—
 
     - (a) a receipt issued in respect of the payment of any fare for the hiring of a taxi shall set out by completion in manuscript of a pre-printed form complying with the requirements of subparagraph (b)—
 
