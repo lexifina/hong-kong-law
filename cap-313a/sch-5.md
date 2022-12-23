@@ -1230,4 +1230,292 @@ RESTRICTED AREAS, ETC.
 
 - (L.N. 69 of 2019)
 
-Note: The geographical co-ordinates of paragraphs 16 to 35 are represented by the WGS 84. (L.N. 148 of 2008; L.N. 82 of 2017; L.N. 69 of 2019)
+- 36. Tseung Kwan O Cross Bay Bridge Area No. 1
+
+  - (a) 17 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º17.649΄ | north,
+
+  - longitude | 114º15.620΄ | east;
+
+  - (ii) | latitude | 22º17.601΄ | north,
+
+  - longitude | 114º15.734΄ | east;
+
+  - (iii) | latitude | 22º17.552΄ | north,
+
+  - longitude | 114º15.710΄ | east;
+
+  - (iv) | latitude | 22º17.599΄ | north,
+
+  - longitude | 114º15.596΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 37. Tseung Kwan O Cross Bay Bridge Area No. 2
+
+  - (a) 12 metres above sea level;
+
+  - (b) the areas of the waters of Hong Kong respectively bounded by—
+
+  - (i) | straight lines joining the following positions—
+
+  - (A) | latitude | 22º17.713΄ | north,
+
+  - longitude | 114º15.467΄ | east;
+
+  - (B) | latitude | 22º17.649΄ | north,
+
+  - longitude | 114º15.620΄ | east;
+
+  - (C) | latitude | 22º17.599΄ | north,
+
+  - longitude | 114º15.596΄ | east;
+
+  - (D) | latitude | 22º17.664΄ | north,
+
+  - longitude | 114º15.442΄ | east;
+
+  - (ii) | straight lines joining the following positions—
+
+  - (A) | latitude | 22º17.601΄ | north,
+
+  - longitude | 114º15.734΄ | east;
+
+  - (B) | latitude | 22º17.570΄ | north,
+
+  - longitude | 114º15.821΄ | east;
+
+  - (C) | latitude | 22º17.518΄ | north,
+
+  - longitude | 114º15.804΄ | east;
+
+  - (D) | latitude | 22º17.552΄ | north,
+
+  - longitude | 114º15.710΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 38. Tseung Kwan O Cross Bay Bridge Area No. 3
+
+  - (a) 6 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º17.570΄ | north,
+
+  - longitude | 114º15.821΄ | east;
+
+  - (ii) | latitude | 22º17.551΄ | north,
+
+  - longitude | 114º15.942΄ | east;
+
+  - (iii) | latitude | 22º17.497΄ | north,
+
+  - longitude | 114º15.939΄ | east;
+
+  - (iv) | latitude | 22º17.518΄ | north,
+
+  - longitude | 114º15.804΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 39. Tseung Kwan O Cross Bay Bridge Area No. 4
+
+  - (a) 3 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º17.551΄ | north,
+
+  - longitude | 114º15.942΄ | east;
+
+  - (ii) | latitude | 22º17.550΄ | north,
+
+  - longitude | 114º16.002΄ | east;
+
+  - (iii) | latitude | 22º17.496΄ | north,
+
+  - longitude | 114º16.002΄ | east;
+
+  - (iv) | latitude | 22º17.497΄ | north,
+
+  - longitude | 114º15.939΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 40. Tseung Kwan O Interchange Area No. 1
+
+  - (a) 6 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º17.731΄ | north,
+
+  - longitude | 114º15.433΄ | east;
+
+  - (ii) | latitude | 22º17.713΄ | north,
+
+  - longitude | 114º15.467΄ | east;
+
+  - (iii) | latitude | 22º17.664΄ | north,
+
+  - longitude | 114º15.442΄ | east;
+
+  - (iv) | latitude | 22º17.683΄ | north,
+
+  - longitude | 114º15.387΄ | east;
+
+  - (v) | latitude | 22º17.713΄ | north,
+
+  - longitude | 114º15.403΄ | east;
+
+  - (vi) | latitude | 22º17.717΄ | north,
+
+  - longitude | 114º15.414΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 41. Tseung Kwan O Interchange Area No. 2
+
+  - (a) 3 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º17.838΄ | north,
+
+  - longitude | 114º15.192΄ | east;
+
+  - (ii) | latitude | 22º17.792΄ | north,
+
+  - longitude | 114º15.260΄ | east;
+
+  - (iii) | latitude | 22º17.751΄ | north,
+
+  - longitude | 114º15.234΄ | east;
+
+  - (iv) | latitude | 22º17.809΄ | north,
+
+  - longitude | 114º15.163΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 42. Tseung Kwan O Interchange Area No. 3
+
+  - (a) 2 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º17.792΄ | north,
+
+  - longitude | 114º15.260΄ | east;
+
+  - (ii) | latitude | 22º17.793΄ | north,
+
+  - longitude | 114º15.287΄ | east;
+
+  - (iii) | latitude | 22º17.817΄ | north,
+
+  - longitude | 114º15.307΄ | east;
+
+  - (iv) | latitude | 22º17.811΄ | north,
+
+  - longitude | 114º15.322΄ | east;
+
+  - (v) | latitude | 22º17.820΄ | north,
+
+  - longitude | 114º15.374΄ | east;
+
+  - (vi) | latitude | 22º17.731΄ | north,
+
+  - longitude | 114º15.433΄ | east;
+
+  - (vii) | latitude | 22º17.717΄ | north,
+
+  - longitude | 114º15.414΄ | east;
+
+  - (viii) | latitude | 22º17.713΄ | north,
+
+  - longitude | 114º15.403΄ | east;
+
+  - (ix) | latitude | 22º17.683΄ | north,
+
+  - longitude | 114º15.387΄ | east;
+
+  - (x) | latitude | 22º17.751΄ | north,
+
+  - longitude | 114º15.234΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 43. Tseung Kwan O Southern Bridge Area No. 1
+
+  - (a) 5.6 metres above sea level;
+
+  - (b) the area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22º18.083΄ | north,
+
+  - longitude | 114º15.821΄ | east;
+
+  - (ii) | latitude | 22º18.075΄ | north,
+
+  - longitude | 114º15.833΄ | east;
+
+  - (iii) | latitude | 22º18.065΄ | north,
+
+  - longitude | 114º15.808΄ | east;
+
+  - (iv) | latitude | 22º18.057΄ | north,
+
+  - longitude | 114º15.820΄ | east.
+
+- (L.N. 234 of 2022)
+
+- 44. Tseung Kwan O Southern Bridge Area No. 2
+
+  - (a) 4 metres above sea level;
+
+  - (b) the areas of the waters of Hong Kong respectively bounded by—
+
+  - (i) | straight lines joining the following positions—
+
+  - (A) | latitude | 22º18.090΄ | north,
+
+  - longitude | 114º15.809΄ | east;
+
+  - (B) | latitude | 22º18.083΄ | north,
+
+  - longitude | 114º15.821΄ | east;
+
+  - (C) | latitude | 22º18.072΄ | north,
+
+  - longitude | 114º15.795΄ | east;
+
+  - (D) | latitude | 22º18.065΄ | north,
+
+  - longitude | 114º15.808΄ | east;
+
+  - (ii) | straight lines joining the following positions—
+
+  - (A) | latitude | 22º18.075΄ | north,
+
+  - longitude | 114º15.833΄ | east;
+
+  - (B) | latitude | 22º18.068΄ | north,
+
+  - longitude | 114º15.845΄ | east;
+
+  - (C) | latitude | 22º18.057΄ | north,
+
+  - longitude | 114º15.820΄ | east;
+
+  - (D) | latitude | 22º18.050΄ | north,
+
+  - longitude | 114º15.832΄ | east.
+
+- (L.N. 234 of 2022)
+
+Note: The geographical co-ordinates of paragraphs 16 to 44 are represented by the WGS 84. (L.N. 148 of 2008; L.N. 82 of 2017; L.N. 69 of 2019; L.N. 234 of 2022)
