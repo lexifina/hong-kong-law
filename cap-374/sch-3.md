@@ -70,7 +70,7 @@ $
 
       - (g) trailer (other than a trailer towed by a private car).
 
-    - (2) For the purposes of an examination of a vehicle that takes place within the period from 30 December 2019 to 28 April 2023 (both dates inclusive), a private car in respect of which a hire car permit is in force is also a specified vehicle. (Added L.N. 102 of 2019. Amended L.N. 172 of 2020; L.N. 180 of 2021)
+    - (2) For the purposes of an examination of a vehicle that takes place within the period from 30 December 2019 to 28 April 2024 (both dates inclusive), a private car in respect of which a hire car permit is in force is also a specified vehicle. (Added L.N. 102 of 2019. Amended L.N. 172 of 2020; L.N. 180 of 2021; L.N. 75 of 2022)
 
   - 3. What is qualified examination An examination of a vehicle is a qualified examination if the examination is an examination required under section 78(1)(d) by notice given under section 78(1A)(b) (required examination) and—
 
@@ -102,7 +102,7 @@ $
 
         - (B) falls within the period from 30 December 2020 to 28 April 2022 (both dates inclusive); and
 
-      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B); or (Amended L.N. 180 of 2021)
+      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B); (Amended L.N. 180 of 2021; L.N. 75 of 2022)
 
     - (d) the examination—
 
@@ -112,7 +112,17 @@ $
 
         - (B) falls within the period from 30 December 2021 to 28 April 2023 (both dates inclusive); and
 
-      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B). (Added L.N. 180 of 2021)
+      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B); or (Added L.N. 180 of 2021. Amended L.N. 75 of 2022)
+
+    - (e) the examination—
+
+      - (i) takes place on a date that—
+
+        - (A) is specified under section 78(1A)(d) within the period from 30 December 2022 to 29 December 2023 (both dates inclusive); and
+
+        - (B) falls within the period from 30 December 2022 to 28 April 2024 (both dates inclusive); and
+
+      - (ii) is the first required examination of the vehicle within the period mentioned in subparagraph (i)(B). (Added L.N. 75 of 2022)
 
   - (Replaced L.N. 172 of 2020)
 
