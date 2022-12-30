@@ -372,4 +372,6 @@ Item | Periods | Rate of interest
 
 184. | On or after 7 November 2022 and before 5 December 2022 (L.N. 209 of 2022; L.N. 230 of 2022) | 0.3167% per annum
 
-185. | On or after 5 December 2022 (L.N. 230 of 2022) | 0.4000% per annum
+185. | On or after 5 December 2022 and before 3 January 2023 (L.N. 230 of 2022; L.N. 238 of 2022) | 0.4000% per annum
+
+186. | On or after 3 January 2023 (L.N. 238 of 2022) | 0.5833% per annum
