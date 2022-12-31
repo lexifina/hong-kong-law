@@ -22,6 +22,8 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Central Ferry Piers Public Transport Interchange (中環碼頭公共運輸交匯處) | Located at Man Kwong Street, Central District, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-003V1, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
 
+- Central (Man Kat Street) Bus Terminus (中環(民吉街)巴士總站) | Located at Man Kat Street, Central District, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-008V1, signed by the Director of Health on 14 October 2022 and deposited in the Land Registry. (L.N. 202 of 2022)
+
 - Chai Wan (East) Bus Terminus (柴灣(東)巴士總站) | Located at Sheung On Street, Chai Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-013V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
 - Chai Wan Station Public Transport Interchange (柴灣站公共運輸交匯處) | Located at Kut Shing Street, Chai Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-011V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
@@ -70,8 +72,6 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Tin Wan Estate Public Transport Interchange (田灣邨公共運輸交匯處) | Located at 15 Tin Wan Street, Aberdeen, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/C014V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
-- Wah Fu (North) Bus Terminus, Aberdeen (香港仔華富(北)巴士總站) | Located at Wah King Street, Aberdeen, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-032V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
-
 - Wah Fu (South) Bus Terminus, Aberdeen (香港仔華富(南)巴士總站) | Located at Wah Fu Road, Aberdeen, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-031V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
 - Wah Kwai Estate Public Transport Interchange, Aberdeen (香港仔華貴邨公共運輸交匯處) | Located at Wah Lung Path, Aberdeen, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-034V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
@@ -80,7 +80,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Yiu Tung Estate Bus Terminus, Shau Kei Wan (筲箕灣耀東邨巴士總站) | Located at Yiu Hing Road, Shau Kei Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-019V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- (L.N. 29 of 2012; L.N. 40 of 2017; L.N. 70 of 2018)
+- (L.N. 29 of 2012; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 202 of 2022)
 
 - Part 2 Kowloon
 
@@ -136,6 +136,8 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Oi Man Estate Bus Terminus, Ho Man Tin (何文田愛民邨巴士總站) | Located at Chung Hau Street, Ho Man Tin, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-043V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
+- On Tai Estate Bus Terminus, Kwun Tong (觀塘安泰邨巴士總站) | Located at On Sau Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-193V1, signed by the Director of Health on 14 October 2022 and deposited in the Land Registry. (L.N. 202 of 2022)
+
 - On Tat Estate Bus Terminus, Kwun Tong (觀塘安達邨巴士總站) | Located at On Sau Road, Kwun Tong, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/O-186V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
 
 - Ping Shek Public Transport Interchange, Ngau Chi Wan (牛池灣坪石公共運輸交匯處) | Located at 8 Clear Water Bay Road, Ngau Chi Wan, Kowloon, and shown coloured orange and edged red on Plan No. DH/TCO/C024V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
@@ -183,6 +185,8 @@ Designated No Smoking Areas in Public Transport Facilities
 - Cheung Hong Bus Terminus, Tsing Yi (青衣長康巴士總站) | Located at Cheung Hong Estate, Ching Hong Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C070V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
 - Cheung On Bus Terminus, Tsing Yi (青衣長安巴士總站) | Located at Cheung On Estate, Tam Kon Shan Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C071V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
+
+- Cheung Wah Bus Terminus, Fanling (粉嶺祥華巴士總站) | Located at Cheung Wah Estate access road, Fanling, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-119V1, signed by the Director of Health on 14 October 2022 and deposited in the Land Registry. (L.N. 202 of 2022)
 
 - Cheung Wang Public Transport Interchange, Tsing Yi (青衣長宏公共運輸交匯處) | Located at Liu To Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-162V3, signed by the Director of Health on 25 September 2019 and deposited in the Land Registry. (L.N. 139 of 2019)
 
@@ -234,7 +238,7 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Hung Fuk Estate Public Transport Interchange, Hung Shui Kiu (洪水橋洪福邨公共運輸交匯處) | Located at Hung Shui Kiu Tin Sam Road, Hung Shui Kiu, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-184V1, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
 
-- Kam Sheung Road Station Public Transport Interchange, Yuen Long (元朗錦上路站公共運輸交匯處) | Located at Tung Wui Road, Pat Heung, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-135V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+- Kam Sheung Road Station Temporary Public Transport Interchange, Yuen Long (元朗錦上路站臨時公共運輸交匯處) | Located at Tung Wui Road, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-194V1, signed by the Director of Health on 14 October 2022 and deposited in the Land Registry. (L.N. 202 of 2022)
 
 - Kam Ying Court Public Transport Interchange, Ma On Shan (馬鞍山錦英苑公共運輸交匯處) | Located at Kam Ying Road, Ma On Shan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-083V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -386,6 +390,8 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Tuen Mun Pier Head Bus Terminus (屯門碼頭巴士總站) | Located at Pierhead Garden, 168–236 Wu Chui Road, Tuen Mun, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C085V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
+- Tung Chung Tat Tung Road Bus Terminus (東涌達東路巴士總站) | Located at Tat Tung Road, Tung Chung, Lantau Island, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-195V1, signed by the Director of Health on 14 October 2022 and deposited in the Land Registry. (L.N. 202 of 2022)
+
 - Wah Ming Bus Terminus, Fanling (粉嶺華明巴士總站) | Located at Lui Ming Road, Fanling, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-126V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
 - Wan Tau Tong Public Transport Interchange, Tai Po (大埔運頭塘公共運輸交匯處) | Located at Fung Wan Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-118V2, signed by the Director of Health on 7 March 2017 and deposited in the Land Registry. (L.N. 40 of 2017)
@@ -404,4 +410,4 @@ Designated No Smoking Areas in Public Transport Facilities
 
 - Yuen Long (West) Bus Terminus (元朗(西)巴士總站) | Located at On Tat Square, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-143V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-- (L.N. 29 of 2012; L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 204 of 2020; L.N. 172 of 2021)
+- (L.N. 29 of 2012; L.N. 17 of 2013; L.N. 40 of 2017; L.N. 70 of 2018; L.N. 204 of 2020; L.N. 172 of 2021; L.N. 202 of 2022)
