@@ -14,11 +14,11 @@ PRODUCT ECO-RESPONSIBILITY ORDINANCE (Chapter 603) 關於指稱觸犯定額罰�
 
 NOTICE OF PARTICULARS OF ALLEGED FIXED PENALTY OFFENCE (Section 28A(2))
 
-英文全名 ( 先寫姓氏 ) / 業務或法團英文名稱*( 如適用 )
+英文全名 ( 先寫姓氏 ) / 業務或法團英文名稱 *( 如適用 )
 
 Full name in English (Surname first) / Name of Business or Corporate in English* (If applicable)
 
-中文全名 / 業務或法團中文名稱*( 如適用 )
+中文全名 / 業務或法團中文名稱 *( 如適用 )
 
 Full name in Chinese / Name of Business or Corporate in Chinese* (If applicable)
 
@@ -26,17 +26,17 @@ Full name in Chinese / Name of Business or Corporate in Chinese* (If applicable)
 
 Chinese Commercial Code (If applicable)
 
-香港身分證 / 護照號碼 / 商業登記號碼*
+香港身分證 / 護照號碼 / 商業登記號碼 *
 
 Hong Kong Identity Card Number / Passport Number / Business Registration Number*
 
-地址 / 註冊或主要辦事處地址*
+地址 / 註冊或主要辦事處地址 *
 
 Address / Registered or Principal Office Address*
 
-性別 ( 如適用 ) ：男 / 女*
+性別 ( 如適用 ) ：男 / 女 *
 
-Sex (If applicable) : Male / Female*
+Sex (If applicable): Male / Female*
 
 聯絡電話 ( 如有的話 )
 
@@ -48,7 +48,7 @@ Contact Telephone Number (if any)
 
 罪行詳情 OFFENCE DETAILS | 在適當方格內加 「✓」。 Tick the appropriate box.
 
-未有按《產品環保責任條例》（第603章）第18A(2)(a)條的規定，在出售貨品時，就直接或間接向顧客提供的每個塑膠購物袋或經預先包裝的每份為數10個或以上的塑膠購物袋，向顧客收取不少於5角的款額 Failed to charge the customer an amount not less than 50 cents for each plastic shopping bag or each pre-packaged pack of 10 or more plastic shopping bags provided directly or indirectly to the customer at the time of the sale under section 18A(2)(a) of the Product Eco-responsibility Ordinance (Chapter 603)
+未有按《產品環保責任條例》（第603章）第18A(2)(a)條的規定，在出售貨品時，就直接或間接向顧客提供的每個塑膠購物袋或經預先包裝的每份為數10個或以上的塑膠購物袋，向顧客收取不少於$1的款額 Failed to charge the customer an amount not less than $1 for each plastic shopping bag or each pre-packaged pack of 10 or more plastic shopping bags provided directly or indirectly to the customer at the time of the sale under section 18A(2)(a) of the Product Eco-responsibility Ordinance (Chapter 603)
 
 日 Day | 月 Month | 年 Year
 
@@ -58,7 +58,7 @@ Contact Telephone Number (if any)
 
 時 Hour | 分 Minute
 
-時間 : Time: | 上午 / 下午* a.m. / p.m.*
+時間 : Time: | 上午 / 下午 * a.m. / p.m.*
 
 地點 Location:
 
@@ -70,7 +70,7 @@ Contact Telephone Number (if any)
 
 職位及地區 Post and District .
 
-*請刪去不適用者。 * Please delete where appropriate. 請細心閱讀背頁所載的附註及繳款辦法。 Please read carefully the notes and payment instructions set out overleaf. 機印所示款項收訖。 Received the sum printed.
+* 請刪去不適用者。 * Please delete where appropriate. 請細心閱讀背頁所載的附註及繳款辦法。 Please read carefully the notes and payment instructions set out overleaf. 機印所示款項收訖。 Received the sum printed.
 
 郵遞繳款回條 Slip for Payment by Post
 
@@ -84,7 +84,7 @@ CRC 139 | 表格 FORM | 編號 SERIAL NUMBER | 金額 AMOUNT
 
 << 預印條紋碼 Preprinted Bar Code >>
 
-附註(請細心閱讀) | NOTES (Please read carefully)
+附註 (請細心閱讀) | NOTES (Please read carefully)
 
 1. 如你在本通知書發出當日後的21天內繳付定額罰款，即可解除就本通知書所指明的罪行而須負的法律責任。你須按照繳款辦法繳付款項。 | 1. You may discharge liability for the offence specified in this notice by paying the Fixed Penalty within 21 days after the date of the issue of this notice. You must make the payment in accordance with the Payment Instructions.
 
@@ -106,7 +106,7 @@ CRC 139 | 表格 FORM | 編號 SERIAL NUMBER | 金額 AMOUNT
 
 (d) 透過電話理財服務繳款 你可使用銀行提供的電話理財服務，透過有關的繳費服務繳付款項。 | (d) Payment through Phone-banking Service You can pay through the bill payment service by using the phone-banking service provided by banks.
 
-(e) 以郵遞方式繳款 你可把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」寄往香港告士打道郵政局信箱28000號庫務署收。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。 | (e) Payment by Post You can pay by sending a cheque, bank draft or cashier order, together with the “Slip for Payment by Post” at the lower portion of this notice, to the Treasury, P.O. Box Number 28000, Gloucester Road Post Office, Hong Kong. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. You must not send cash through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark will be regarded as the date of payment.
+(e) 以郵遞方式繳款 你可把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」寄往庫務署指定的郵政局信箱。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。如欲查詢庫務署指定的郵政局信箱資料，請致電庫務署熱線：2845 8866或瀏覽庫務署網站http://www.try.gov.hk。 | (e) Payment by Post You can pay by sending a cheque, bank draft or cashier order, together with the “Slip for Payment by Post” at the lower portion of this notice, to the post office letter box designated by the Treasury. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. You must not send cash through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark will be regarded as the date of payment. For information on the post office letter box designated by the Treasury, please call the Treasury’s Hotline: 2845 8866 or visit the Treasury’s website http://www.try.gov.hk.
 
 (f) 透過郵政局櫃位繳款 你可在任何郵政局(流動郵政局除外)的櫃位繳付款項。請保持本通知書完整並於繳款時出示。繳款後本通知書會發回作收據。如欲查詢各郵政局地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽香港郵政網站http://www.hongkongpost.com。 | (f) Payment at Post Office Counters You can pay at a counter of any post office (other than a mobile post office). Please keep this notice intact and produce it at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours of post offices, please call the Hongkong Post’s Hotline: 2921 2222 or visit Hongkong Post’s website http://www.hongkongpost.com.
 
@@ -115,6 +115,8 @@ CRC 139 | 表格 FORM | 編號 SERIAL NUMBER | 金額 AMOUNT
 3. 任何支票、銀行匯票或本票均須以「香港特別行政區政府」或「香港特區政府」為收款人，並加以劃線。以支票付款，只在支票首次提交付款銀行獲得兌現的情況下，繳款方為有效。期票不予接受。 | 3. Any cheque, bank draft or cashier order should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. For payment made by cheque, payment is valid only when the cheque is honoured on the first presentation to the drawee bank. Post-dated cheques will not be accepted.
 
 如就本通知書有任何查詢，請致電環境保護署的查詢熱線電話。 For any enquiry about this notice, please call the enquiry hotline of the Environmental Protection Department.
+
+(L.N. 206 of 2022)
 
 _
 
@@ -136,7 +138,7 @@ To: . Full Name (Surname first) / Name of Business or Corporate*
 
 of Address/Registered or Principal Office Address* .
 
-於.年.月.日.時.分，在. (地點)發生一宗違反《產品環保責任條例》(第603章)第18A(2)(a) / 18A(3)*條的罪行，你須為此事件負法律責任。
+於.年.月.日.時.分，在. (地點)發生一宗違反《產品環保責任條例》(第603章)第18A(2)(a)/ 18A(3)*條的罪行，你須為此事件負法律責任。
 
 On . (day) . (month) . (year) at . (hour) . (minute) at . (location) an offence of section 18A(2)(a) / 18A(3)* of the Product Eco-responsibility Ordinance (Chapter 603) was committed for which you are liable.
 
@@ -190,7 +192,7 @@ CRC 139 | 表格 FORM | 編號 SERIAL NUMBER | 金額 AMOUNT
 
 (d) 透過電話理財服務繳款 你可使用銀行提供的電話理財服務，透過有關的繳費服務繳付款項。 | (d) Payment through Phone-banking Service You can pay through the bill payment service by using the phone-banking service provided by banks.
 
-(e) 以郵遞方式繳款 你可把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」寄往香港告士打道郵政局信箱28000號庫務署收。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。 | (e) Payment by Post You can pay by sending a cheque, bank draft or cashier order, together with the “Slip for Payment by Post” at the lower portion of this notice, to the Treasury, P.O. Box Number 28000, Gloucester Road Post Office, Hong Kong. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. You must not send cash through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark will be regarded as the date of payment.
+(e) 以郵遞方式繳款 你可把支票、銀行匯票或本票連同本通知書下半部的「郵遞繳款回條」寄往庫務署指定的郵政局信箱。請將本通知書下半部所示的16位數字編號寫在支票、銀行匯票或本票背面。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期會被視作繳款的日期。如欲查詢庫務署指定的郵政局信箱資料，請致電庫務署熱線：2845 8866或瀏覽庫務署網站http://www.try.gov.hk。 | (e) Payment by Post You can pay by sending a cheque, bank draft or cashier order, together with the “Slip for Payment by Post” at the lower portion of this notice, to the post office letter box designated by the Treasury. Please write the 16-digit serial number shown at the lower portion of this notice on the back of the cheque, bank draft or cashier order. You must not send cash through the post. Please note that no receipt will be issued for payment by post. The date of the relevant post mark will be regarded as the date of payment. For information on the post office letter box designated by the Treasury, please call the Treasury’s Hotline: 2845 8866 or visit the Treasury’s website http://www.try.gov.hk.
 
 (f) 透過郵政局櫃位繳款 你可在任何郵政局(流動郵政局除外)的櫃位繳付款項。請保持本通知書完整並於繳款時出示。繳款後本通知書會發回作收據。如欲查詢各郵政局地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽香港郵政網站http://www.hongkongpost.com。 | (f) Payment at Post Office Counters You can pay at a counter of any post office (other than a mobile post office). Please keep this notice intact and produce it at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours of post offices, please call the Hongkong Post’s Hotline: 2921 2222 or visit Hongkong Post’s website http://www.hongkongpost.com.
 
@@ -237,6 +239,8 @@ Date | Signature
 * 授權人請附上有關授權書。
 
 * For authorized person, please submit a letter of authorization.
+
+(L.N. 206 of 2022)
 
 _
 
@@ -288,11 +292,11 @@ EVIDENTIARY CERTIFICATE (Section 28G(5)(c))
 
 This is to certify that—
 
-- (a) 於.年.月.日，在 . 發生了一宗違反《產品環保責任條例》(第603章)第18A(2)(a)條的罪行，即未有在出售貨品時，就直接或間接向顧客提供的每個塑膠購物袋或經預先包裝的每份為數10個或以上的塑膠購物袋，向顧客收取不少於5角的款額 / 違反《產品環保責任條例》(第603章)第18A(3)條的罪行，即向顧客提供回贈或折扣，以直接抵銷須就出售貨品時直接或間接向顧客提供的每個塑膠購物袋或經預先包裝的每份為數10個或以上的塑膠購物袋，向顧客收取的款額或其任何部分*，.被指稱須對該罪行負法律責任； on . (day) . (month) . (year), at .., an offence of failing to charge the customer an amount not less than 50 cents for each plastic shopping bag or each pre-packaged pack of 10 or more plastic shopping bags provided directly or indirectly to the customer at the time of the sale, contrary to section 18A(2)(a) / offering rebate or discount to the customer with the effect of directly offsetting the amount or any part of the amount charged for each plastic shopping bag or each pre-packaged pack of 10 or more plastic shopping bags provided directly or indirectly to the customer at the time of the sale, contrary to section 18A(3)* of the Product Eco-responsibility Ordinance (Chapter 603) has been committed for which . is alleged to be liable;
+- (a) 於.年.月.日，在 . 發生了一宗違反《產品環保責任條例》(第603章)第18A(2)(a)條的罪行，即未有在出售貨品時，就直接或間接向顧客提供的每個塑膠購物袋或經預先包裝的每份為數10個或以上的塑膠購物袋，向顧客收取不少於$1的款額 / 違反《產品環保責任條例》(第603章)第18A(3)條的罪行，即向顧客提供回贈或折扣，以直接抵銷須就出售貨品時直接或間接向顧客提供的每個塑膠購物袋或經預先包裝的每份為數10個或以上的塑膠購物袋，向顧客收取的款額或其任何部分*，.被指稱須對該罪行負法律責任； on . (day) . (month) . (year), at .., an offence of failing to charge the customer an amount not less than $1 for each plastic shopping bag or each pre-packaged pack of 10 or more plastic shopping bags provided directly or indirectly to the customer at the time of the sale, contrary to section 18A(2)(a) / offering rebate or discount to the customer with the effect of directly offsetting the amount or any part of the amount charged for each plastic shopping bag or each pre-packaged pack of 10 or more plastic shopping bags provided directly or indirectly to the customer at the time of the sale, contrary to section 18A(3)* of the Product Eco-responsibility Ordinance (Chapter 603) has been committed for which . is alleged to be liable;
 
-- (b) 於 . 年 . 月 . 日，. .的地址/註冊或主要辦事處地址* 為.； on .(day) .(month) .(year), the address/registered or principal office address* of . was . ;
+- (b) 於 . 年 . 月 . 日，. .的地址/註冊或主要辦事處地址*為.； on . (day) . (month) . (year), the address / registered or principal office address* of . was . ;
 
-- (c) 於 . 年 . 月 . 日前，(a)段所指明的人士 / 業務或法團*沒有就根據《產品環保責任條例》(第603章)第28D(2)條送達、日期為 . 年 . 月 . 日的繳款通知書(編號 .)內所指明的罪行繳付定額罰款，亦沒有通知環境保護署署長其意欲就該罪行的法律責任提出抗辯。 before . (day) . (month) . (year), the person / business or corporate* specified in paragraph (a) had not paid the Fixed Penalty in respect of the offence specified in Demand Notice Serial Number . dated . (day) . (month) . (year) served under section 28D(2) of the Product Eco-responsibility Ordinance (Chapter 603) and had not notified the Director of Environmental Protection that the person / business or corporate* wished to dispute liability for the offence.
+- (c) 於 . 年 . 月 . 日前，(a)段所指明的人士 / 業務或法團*沒有就根據《產品環保責任條例》(第603章)第28D(2)條送達、日期為 . 年 . 月 . 日的繳款通知書(編號.)內所指明的罪行繳付定額罰款，亦沒有通知環境保護署署長其意欲就該罪行的法律責任提出抗辯。 before . (day) . (month) . (year), the person / business or corporate* specified in paragraph (a) had not paid the Fixed Penalty in respect of the offence specified in Demand Notice Serial Number . dated . (day) . (month) . (year) served under section 28D(2) of the Product Eco-responsibility Ordinance (Chapter 603) and had not notified the Director of Environmental Protection that the person / business or corporate* wished to dispute liability for the offence.
 
 * 請刪去不適用者。 * Please delete where appropriate.
 
@@ -305,3 +309,5 @@ Date
 ( )
 
 For Director of Environmental Protection
+
+(L.N. 206 of 2022)
