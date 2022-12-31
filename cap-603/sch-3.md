@@ -6,6 +6,6 @@ Amount Prescribed for Section 18A(2)
 
 (Replaced 4 of 2014 s. 20)
 
-50 cents
+$1
 
-(Amended 4 of 2014 s. 20)
+(Amended 4 of 2014 s. 20; L.N. 137 of 2022)
