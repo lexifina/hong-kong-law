@@ -1,6 +1,6 @@
 # Schedule 17G
 
-[ss. 50AAC & 58B & Sch. 44]
+[ss. 15H, 50AAC & 58B & Sch. 44] (Amended 17 of 2022 s. 15)
 
 Meaning of Permanent Establishment in Hong Kong
 
