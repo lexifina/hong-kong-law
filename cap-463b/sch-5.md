@@ -54,11 +54,11 @@
 
     - (a) In this formula—
 
-      - N1: number of days of the relevant billing period that do not fall within 2020, 2021 or 2022;
+      - N1: number of days of the relevant billing period that do not fall within 2020, 2021, 2022 or 2023;
 
-      - N2: number of days of the relevant billing period that fall within 2020, 2021 or 2022;
+      - N2: number of days of the relevant billing period that fall within 2020, 2021, 2022 or 2023;
 
-      - R: the rate that is specified for the trade, business or manufacture concerned in column 4 of Schedule 1. (L.N. 177 of 2020; L.N. 186 of 2021)
+      - R: the rate that is specified for the trade, business or manufacture concerned in column 4 of Schedule 1. (L.N. 177 of 2020; L.N. 186 of 2021; L.N. 81 of 2022)
 
     - (b) In paragraph (a)—
 
@@ -66,7 +66,7 @@
 
         - (i) begins before 2020 and ends in or after 2020; or
 
-        - (ii) begins in 2020, 2021 or 2022 and ends after 2022. (L.N. 186 of 2021)
+        - (ii) begins in 2020, 2021, 2022 or 2023 and ends after 2023. (L.N. 81 of 2022)
 
 - (Part III added L.N. 105 of 2019)
 

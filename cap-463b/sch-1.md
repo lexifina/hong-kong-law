@@ -4,7 +4,7 @@
 
 Trade Effluent Surcharge Rates
 
-Item | Trade, business or manufacture | Rate for billing period beginning on a date between 1 August 2008 and 31 July 2009 (both days inclusive) and ending on a date before 1 August 2009 | Rate for billing period beginning on or after 1 August 2009 and ending before 1 January 2020, or beginning on or after 1 January 2023
+Item | Trade, business or manufacture | Rate for billing period beginning on a date between 1 August 2008 and 31 July 2009 (both days inclusive) and ending on a date before 1 August 2009 | Rate for billing period beginning on or after 1 August 2009 and ending before 1 January 2020, or beginning on or after 1 January 2024
 
 $/m3 | $/m3
 
@@ -62,4 +62,4 @@ $/m3 | $/m3
 
 27. | restaurants | 3.05 | 3.05
 
-(Schedule 1 replaced L.N. 106 of 2008. L.N. 199 of 2008; L.N. 105 of 2019; L.N. 177 of 2020; L.N. 186 of 2021)
+(Schedule 1 replaced L.N. 106 of 2008. L.N. 199 of 2008; L.N. 105 of 2019; L.N. 177 of 2020; L.N. 186 of 2021; L.N. 81 of 2022)
