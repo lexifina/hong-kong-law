@@ -112,13 +112,9 @@ The wording may be varied to specify any particular type or class of vehicle.
 
 Figure No. 17 (Repealed 25 of 2020 s. 16) Figure No. 18
 
-Time Plate
+(Repealed 25 of 2020 s. 16)
 
-This plate may be used in conjunction with Figure Nos. 1, 2 or 3 to advise that an approved payment means must be used to operate the parking meter erected adjacent to the parking spaces during the times indicated.
-
-The wording may be changed to specify any period of time and any system of charging that is in effect at these parking spaces, or to specify a new or additional telephone number.
-
-(L.N. 252 of 1991; L.N. 45 of 2000; 25 of 2020 s. 16) Figure No. 18A
+Figure No. 18A
 
 Time Plate
 
