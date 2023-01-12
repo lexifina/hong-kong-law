@@ -1,139 +1,139 @@
-# SCHEDULE
+# Schedule
 
 [s. 4]
 
-PARTICULARS REQUIRED TO BE GIVEN
+Particulars Required to be Given
 
-- A. Persons
+A. | Persons
 
-  - Year and month of birth
+Year and month of birth
 
-  - Sex
+Sex
 
-  - Whether a member of the household
+Whether a member of the household
 
-  - Relationship to head of household
+Relationship to head of household
 
-  - Number of months in Hong Kong in the past 6 months
+Number of months in Hong Kong in the past 6 months
 
-  - Number of months expected to be in Hong Kong in the next 6 months
+Number of months expected to be in Hong Kong in the next 6 months
 
-  - Whereabouts at 3:00 a.m. on 14 March 2001 (“census reference moment”)
+Whereabouts at 3:00 a.m. on 14 March 2001 (census reference moment)
 
-  - Whether usually living at the same premises or on board the same vessel during the 6-month period preceding the census reference moment
+Whether usually living at the same premises or on board the same vessel during the 6-month period preceding the census reference moment
 
-  - Whether expecting to be usually living at the same premises or on board the same vessel during the 6-month period following the census reference moment
+Whether expecting to be usually living at the same premises or on board the same vessel during the 6-month period following the census reference moment
 
-  - If not a member of the household, whether living at another premises in Hong Kong or on board another vessel in Hong Kong
+If not a member of the household, whether living at another premises in Hong Kong or on board another vessel in Hong Kong
 
-  - If not usually living in Hong Kong—
+If not usually living in Hong Kong—
 
-  - whether usually living on the Mainland of China or in Macau
+whether usually living on the Mainland of China or in Macau
 
-  - whether a two-way permit holder from the Mainland of China
+whether a two-way permit holder from the Mainland of China
 
-  - reason for usually living outside Hong Kong
+reason for usually living outside Hong Kong
 
-  - Marital status
+Marital status
 
-  - School attendance
+School attendance
 
-  - Educational attainment—
+Educational attainment—
 
-  - highest level attended
+highest level attended
 
-  - highest level completed
+highest level completed
 
-  - Place of study
+Place of study
 
-  - Mode of transport to place of study
+Mode of transport to place of study
 
-  - Field of education
+Field of education
 
-  - Usual language
+Usual language
 
-  - Ability to speak other languages/dialects
+Ability to speak other languages/dialects
 
-  - Place of birth
+Place of birth
 
-  - Nationality
+Nationality
 
-  - Ethnicity
+Ethnicity
 
-  - Duration of residence in Hong Kong
+Duration of residence in Hong Kong
 
-  - Place of residence 5 years ago
+Place of residence 5 years ago
 
-  - Economic activity status
+Economic activity status
 
-  - Industry
+Industry
 
-  - Occupation
+Occupation
 
-  - Place of work
+Place of work
 
-  - Mode of transport to place of work
+Mode of transport to place of work
 
-  - Earnings from main employment
+Earnings from main employment
 
-  - Whether having secondary employment
+Whether having secondary employment
 
-  - Earnings from secondary employment
+Earnings from secondary employment
 
-  - Cash income from rent
+Cash income from rent
 
-  - Other cash income
+Other cash income
 
-  - Whether owner of premises
+Whether owner of premises
 
-- B. Households
+B. | Households
 
-  - Type of household
+Type of household
 
-  - Household size
+Household size
 
-  - Household composition
+Household composition
 
-  - Household income
+Household income
 
-- C. Premises (other than vessels)
+C. | Premises (other than vessels)
 
-  - Type of premises
+Type of premises
 
-  - Occupancy of premises
+Occupancy of premises
 
-  - Number of households in premises
+Number of households in premises
 
-  - Number of occupants in premises
+Number of occupants in premises
 
-  - Type of accommodation
+Type of accommodation
 
-  - Number of living/dining rooms
+Number of living/dining rooms
 
-  - Number of bedrooms
+Number of bedrooms
 
-  - Number of kitchens
+Number of kitchens
 
-  - Number of bathrooms/toilets
+Number of bathrooms/toilets
 
-  - Number of other rooms
+Number of other rooms
 
-  - Tenure of accommodation
+Tenure of accommodation
 
-  - Rent
+Rent
 
-  - Rates, Government rent and management fee
+Rates, Government rent and management fee
 
-  - Mortgage payment
+Mortgage payment
 
-  - Outstanding mortgage or loan period
+Outstanding mortgage or loan period
 
-- D. Vessels
+D. | Vessels
 
-  - Type of vessel
+Type of vessel
 
-  - Occupancy of vessel
+Occupancy of vessel
 
-  - Number of households on board vessel
+Number of households on board vessel
 
-  - Number of occupants on board vessel
+Number of occupants on board vessel
