@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3 & 5]
 
-RATE SPECIFIED FOR PURPOSES OF SECTION 3(1)
+Rate Specified for Purposes of Section 3(1)
 
 0%
 
