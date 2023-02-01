@@ -2,8 +2,6 @@
 
 [s. 22]
 
-(Not yet in operation)
-
 Amount of Levy
 
 Column 1 | Column 2 | Column 3
