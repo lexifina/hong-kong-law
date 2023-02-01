@@ -12,7 +12,7 @@
 
     - (a) Acetyldihydrocodeine (醋氫可待因) Acryloylfentanyl (丙烯酰芬太尼) (Added L.N. 23 of 2019) Alphacetylmethadol (α-乙酰美沙多) Alphamethadol (α-美沙多) Alprazolam (阿普唑侖) Amfepramone (二乙胺苯丙酮) (Added L.N. 348 of 1998) Aminorex (阿米雷司) Amphetamine (安非他明) Barbitone (巴比妥) Benzylmorphine
 
-    - (3-benzylmorphine) (苄嗎啡 (3-苄嗎啡)) Betacetylmethadol (β-乙酰美沙多) Betamethadol (β-美沙多) Bezitramide (苯腈米特) Bromazepam (溴西泮) Brorphine (溴啡) (Added L.N. 199 of 2022) Brotizolam (溴噻二氮䓬) Camazepam (卡馬西泮) Cannabinol and its tetrahydro derivatives;
+    - (3-benzylmorphine) (苄嗎啡 (3-苄嗎啡)) Betacetylmethadol (β-乙酰美沙多) Betamethadol (β-美沙多) Bezitramide (苯腈米特) Bromazepam (溴西泮) Brorphine (溴啡) (Added L.N. 199 of 2022) Brotizolam (溴噻二氮䓬) Camazepam (卡馬西泮) Cannabidiol (大麻二酚) (Added L.N. 199 of 2022) Cannabinol and its tetrahydro derivatives;
 
     - their 3-alkyl homologues (大麻酚及其四氫衍生物；其3-烷基同系物) Cathine (去甲麻黃碱) (Added L.N. 348 of 1998) Cathinone (卡西酮) Chlordiazepoxide (氯氮䓬) Clobazam (氯巴占) (Amended L.N. 199 of 2022) Clonazepam (氯硝西泮) Clonazolam (氯氮唑侖) (Added L.N. 199 of 2022) Clonitazene (氯尼他秦) Clorazepate (安定羧酸) Clotiazepam (氯噻西泮) Cloxazolam (氯噁唑侖) Cocaine (可卡因) Codeine (可待因) Codoxime (可多克辛) Crotonylfentanyl (巴豆酰芬太尼) (Added L.N. 90 of 2021) Delorazepam (地洛西泮) Desomorphine (地索嗎啡) Dextromoramide (右旋嗎拉胺) Dextropropoxyphene (右旋丙氧吩) Diampromide
 
