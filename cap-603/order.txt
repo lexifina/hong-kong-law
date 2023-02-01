@@ -62,6 +62,16 @@ s-043.md
 s-044.md
 s-045.md
 s-046.md
+s-047.md
+s-049.md
+s-050.md
+s-051.md
+s-052.md
+s-053.md
+s-054.md
+s-055.md
+s-056.md
+s-057.md
 sch-1.md
 sch-2.md
 sch-3.md
@@ -69,3 +79,4 @@ sch-4.md
 sch-5.md
 sch-6.md
 sch-7.md
+sch-8.md
