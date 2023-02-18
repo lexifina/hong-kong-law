@@ -2236,6 +2236,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Prindolol; its salts
 
+- Probenecid
+
 - Probucol
 
 - Procainamide; its salts

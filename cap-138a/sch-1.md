@@ -2388,6 +2388,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Prindolol; its salts
 
+- Probenecid
+
 - Probucol
 
 - Procainamide; its salts

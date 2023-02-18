@@ -2624,6 +2624,8 @@ Poisons List
 
     - Prindolol; its salts
 
+    - Probenecid
+
     - Probucol
 
     - Procainamide; its salts
