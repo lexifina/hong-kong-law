@@ -28,15 +28,15 @@
 
   - $
 
-  - (a) | for each 1 000 cigarettes | 1,906
+  - (a) | for each 1 000 cigarettes | 2,506
 
-  - (b) | cigars | 2,455/kg
+  - (b) | cigars | 3,228/kg
 
-  - (c) | Chinese prepared tobacco | 468/kg
+  - (c) | Chinese prepared tobacco | 615/kg
 
-  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes | 2,309/kg
+  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes | 3,036/kg
 
-  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3; L.N. 32 of 2011 and 10 of 2011 s. 3; L.N. 25 of 2014 and 9 of 2014 s. 3)
+  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3; L.N. 32 of 2011 and 10 of 2011 s. 3; L.N. 25 of 2014 and 9 of 2014 s. 3; L.N. 16 of 2023 and 9 of 2023 s. 3)
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette.
 
