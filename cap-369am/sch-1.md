@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 6]
 
-CALCULATION OF MAXIMUM LENGTH OF WATERTIGHT COMPARTMENTS
+Calculation of Maximum Length of Watertight Compartments
 
-- PART I
+- Part I
 
   - 1. General
 
@@ -16,11 +16,11 @@ CALCULATION OF MAXIMUM LENGTH OF WATERTIGHT COMPARTMENTS
 
     - (2) In this Schedule the symbol “L” denotes the length of the ship as defined in regulation 1.
 
-    - (3) In this Schedule the expression “passenger spaces” (客艙) shall include galleys, laundries and other similar spaces provided for the service of passengers, in addition to space provided for the use of passengers.
+    - (3) In this Schedule the expression passenger spaces (客艙) shall include galleys, laundries and other similar spaces provided for the service of passengers, in addition to space provided for the use of passengers.
 
   - 2. Permissible length Subject to the provisions of paragraph 6, the length of a compartment shall not exceed its permissible length.
 
-- PART II SHIPS OF CLASS I AND SHIPS OF CLASSES II AND II(A) OTHER THAN THOSE WHICH COMPLY WITH PART III OF THIS SCHEDULE
+- Part II Ships of Class I and Ships of Classes II and II(A) other than those which Comply with Part III of this Schedule
 
   - 3. Assumptions of permeability The assumptions of permeability which shall be taken into account in determining the floodable length at any point in ships to which this Part applies shall be follows—
 
@@ -108,7 +108,7 @@ CALCULATION OF MAXIMUM LENGTH OF WATERTIGHT COMPARTMENTS
 
     - 650
 
-    - whichever is the lower, the factor of subdivision F shall be determined in the manner provided in subparagraphs (3) or (4).
+    - whichever is the lower, the factor of subdivision F shall be determined in the manner provided in subparagraph (3) or (4). (E.R. 1 of 2023)
 
     - (6) For the purposes of this paragraph the factors A and B shall be determined by the following formulae—
 
@@ -116,7 +116,7 @@ CALCULATION OF MAXIMUM LENGTH OF WATERTIGHT COMPARTMENTS
 
     - L − 60
 
-    - B = | 30.3 | +.18 (where L = 79 metres and upwards)
+    - B = | 30.3 | + .18 (where L = 79 metres and upwards)
 
     - L − 42
 
@@ -204,7 +204,7 @@ CALCULATION OF MAXIMUM LENGTH OF WATERTIGHT COMPARTMENTS
 
     - (8) Where in any ship the required factor of subdivision is .50 or less, the combined length of any two adjacent compartments shall not exceed the floodable length or twice the permissible length whichever is the less.
 
-- PART III Ships of Classes II and II(A) other than those which Comply with Part II of this Schedule
+- Part III Ships of Classes II and II(A) other than those which Comply with Part II of this Schedule
 
   - 7. General rules for subdivision Subject to the modifications set out in this Part, the maximum length of compartments in ships to which this Part applies shall be determined as if they were ships to which Part II applies.
 
@@ -274,4 +274,4 @@ CALCULATION OF MAXIMUM LENGTH OF WATERTIGHT COMPARTMENTS
 
       - (d) in the case of all ships the length of which is less than 55 metres the factor of subdivision F shall be unity.
 
-- PART IV NO PROVISION
+- Part IV No Provision

@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [reg. 77]
 
-GUARD RAILS, STANCHIONS AND BULWARKS
+Guard Rails, Stanchions and Bulwarks
 
 In order to comply with regulation 77, ships shall be provided with guard rails and stanchions and bulwarks as follows—
 

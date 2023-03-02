@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [reg. 71]
 
-MEASUREMENT OF NOISE LEVELS IN MACHINERY SPACES
+Measurement of Noise Levels in Machinery Spaces
 
 - 1. Noise levels in machinery spaces shall be measured when the largest number of machines that operate simultaneously in service are at their normal service loads. Measurements taken during sea trials at the maximum ahead service speed of the ship will be accepted, as providing the necessary reading.
 

@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 13]
 
-CONSTRUCTION OF WATERTIGHT BULKHEADS, ETC.
+Construction of Watertight Bulkheads, etc.
 
-SHIPS OF CLASSES I TO IIA INCLUSIVE
+Ships of Classes I to IIA Inclusive
 
 - 1. Strength and construction
 

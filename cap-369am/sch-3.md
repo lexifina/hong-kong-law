@@ -1,10 +1,16 @@
-# SCHEDULE 3
+# Schedule 3
 
-[regs. 11A, 11B, 16(4), 19(2) & 31(1)(a), Sch. 1 para. 6(7) & Sch. 2 para. 10(2)]
+[regs. 11A, 11B, 16(4),
 
-STABILITY IN DAMAGED CONDITION
+19(2) & 31(1)(a),
 
-- PART 1
+Sch. 1 para. 6(7) &
+
+Sch. 2 para. 10(2)]
+
+Stability in Damaged Condition
+
+- Part 1
 
   - 1. Assumptions on which calculations are to be based The sufficiency on intact stability of every ship to which Part IIA of these regulations applies shall be determined by calculation which has regard to the design and construction of the ship, and the damaged compartments, and which is in accordance with the following assumptions—
 
@@ -40,7 +46,7 @@ STABILITY IN DAMAGED CONDITION
 
     - (4) Where the ship is fitted with decks, inner skins or longitudinal bulkheads of sufficient tightness to restrict the flow of water, regard shall be had to such restrictions in the calculation.
 
-- PART 2
+- Part 2
 
   - 2. Sufficiency of the stability in the damaged condition as applicable to all passenger ships to which Part IIA of these regulations applies, except post 1990 ships The intact stability of the ship shall be deemed to be sufficient if the calculation specified in paragraph 1 shows that, after the assumed damage, the condition of the ship is as follows—
 
@@ -62,7 +68,7 @@ STABILITY IN DAMAGED CONDITION
 
     - (3) The range of stability in the damaged condition shall be to the satisfaction of the Director.
 
-- PART 3
+- Part 3
 
   - 3. Sufficiency of stability in the damaged condition as applicable to all passenger ships to which Part IIA of these regulations applies and which are post 1990 ships The intact stability of the ship shall be deemed to be sufficient if the calculation specified in paragraph 1 shows that, after the assumed damage, the condition of the ship is as follows—
 

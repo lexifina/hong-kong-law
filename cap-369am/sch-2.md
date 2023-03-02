@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 9A] (L.N. 139 of 1994)
 
-STABILITY INFORMATION
+Stability Information
 
-The information relating to the stability of a ship to be provided for the master pursuant to regulation 9A shall include particulars appropriate to the ship of the matters specified below. Such particulars shall be in the form of a statement unless the contrary is indicated. Metric units shall be used. (L.N. 139 of 1994)
+- The information relating to the stability of a ship to be provided for the master pursuant to regulation 9A shall include particulars appropriate to the ship of the matters specified below. Such particulars shall be in the form of a statement unless the contrary is indicated. Metric units shall be used. (L.N. 139 of 1994)
 
 - 1. The ship’s name, official number, port of registry, gross and net tonnages, principal dimensions, displacement, deadweight, draught to the summer load line and subdivision load lines.
 
