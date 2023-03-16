@@ -1,20 +1,20 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 36(1)]
 
-CLOTHING ITEMS
+Clothing Items
 
 - 1. In this Schedule—
 
   - (a)
 
-    - “Classification List” (分類表) means the Hong Kong Imports and Exports Classification List (Harmonized System) 2007 Edition issued by the Commissioner of Customs and Excise by Government Notice (S.) 59 of 2006 published in the Gazette;
+    - Classification List (分類表) means the Hong Kong Imports and Exports Classification List (Harmonized System) 2007 Edition issued by the Commissioner of Customs and Excise by Government Notice (S.) 59 of 2006 published in the Gazette;
 
   - (b) the descriptions of items of apparel set out in column 3 of the Table below are for ease of reference only.
 
-- 2. The items of apparel which under the Classification List fall within the classification set out in column 2 of the Table below are specified for the purposes of the definition of “clothing item” in section 2 of this Ordinance.
+- 2. The items of apparel which under the Classification List fall within the classification set out in column 2 of the Table below are specified for the purposes of the definition of clothing item in section 2 of this Ordinance.
 
-TABLE
+Table
 
 Category no. | Chapter/heading/ subheading/item no. | Description
 

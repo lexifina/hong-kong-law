@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 7, 9 & 36]
 
-MEMBERS OF THE AUTHORITY AND QUORUM OF MEETINGS
+Members of the Authority and Quorum of Meetings
 
 - 1. Members of the Authority The Authority shall consist of 17 members of whom—
 
