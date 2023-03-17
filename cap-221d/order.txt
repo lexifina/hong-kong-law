@@ -27,4 +27,5 @@ s-022.md
 s-023.md
 s-024.md
 s-025.md
+s-026.md
 sch.md
