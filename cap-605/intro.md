@@ -8,4 +8,6 @@ An Ordinance to provide for—
 
 [22 January 2010] L.N. 235 of 2009
 
+(Format changes—E.R. 1 of 2023)
+
 (Enacting provision omitted—E.R. 2 of 2014)
