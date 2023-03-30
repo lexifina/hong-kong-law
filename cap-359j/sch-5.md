@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 17]
 
-PRELIMINARY INVESTIGATION COMMITTEE
+Preliminary Investigation Committee
 
 - 1. Member ceasing to be member on becoming member of Board A member of the Committee other than the Chairman of the Committee who during the period of his office becomes a member of the Board shall cease to be a member of the Committee.
 

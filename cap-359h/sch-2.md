@@ -1,12 +1,14 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4(1), 9, 13, 26(2) & 45(2)]
 
-FORMS
+Forms
 
-FORM 1 | [s. 4(1)]
+Form 1
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Application for Registration/Provisional Registration as a Radiographer
+[s. 4(1)]
+
+Supplementary Medical Professions Ordinance (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Application for Registration/Provisional Registration as a Radiographer
 
 I.of
 
@@ -34,27 +36,31 @@ From | To
 
 (Chinese)
 
-5. My telephone numbers are ............................... (Home) ................................ (Office). 6. I*†have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
+5. My telephone numbers are ............................... (Home) ................................ (Office). 6. I *†have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
 
-Signed at ...................................... . the ........... day of .......... 19 . | .................................................... (Signature of Applicant)
+Signed at ...................................... . the ........... day of .......... 19 . | } | .................................................... (Signature of Applicant)
 
 Before me,
 
 (Name in block letters) | (Signature)
 
-* Radiographer registered in Part I of the Register/Barrister/Solicitor/ Registered Medical Practitioner/Commissioner for Oaths. (47 of 1997 s. 10(1))
+* Radiographer registered in Part I of the Register/Barrister/Solicitor/ Registered Medical Practitioner/Commissioner for Oaths.
 
 Photograph of Applicant
 
-- † Please supply details of conviction.
+† | Please supply details of conviction.
 
-- * Delete if inappropriate.
+* | Delete if inappropriate.
 
-_
+(47 of 1997 s. 10)
 
-FORM 2A | [s. 9(1)]
+__________
 
-RADIOGRAPHERS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Registration
+Form 2A
+
+[s. 9(1)]
+
+RADIOGRAPHERS BOARD HONG KONG Supplementary Medical Professions Ordinance (Chapter 359) Certificate of Registration
 
 Number of Register: .........................
 
@@ -70,11 +76,13 @@ Secretary, Radiographers Board.
 
 (L.N. 90 of 2004)
 
-_
+__________
 
-FORM 2B | [s. 9(2)]
+Form 2B
 
-RADIOGRAPHERS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Provisional Registration
+[s. 9(2)]
+
+RADIOGRAPHERS BOARD HONG KONG Supplementary Medical Professions Ordinance (Chapter 359) Certificate of Provisional Registration
 
 Number of Register: .........................
 
@@ -92,11 +100,13 @@ Secretary, Radiographers Board.
 
 (L.N. 90 of 2004)
 
-_
+__________
 
-FORM 3 | [s. 13]
+Form 3
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Particulars of a Company carrying on the Business of Practising Radiography
+[s. 13]
+
+Supplementary Medical Professions Ordinance (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Particulars of a Company carrying on the Business of Practising Radiography
 
 Presented by.
 
@@ -124,17 +134,19 @@ Dated this .......... day of ................... 19.........
 
 (State whether director or manager or secretary)
 
-_
+__________
 
-FORM 4 | [s. 26(2)]
+Form 4
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Notice of Inquiry
+[s. 26(2)]
+
+Supplementary Medical Professions Ordinance (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Notice of Inquiry
 
 [Date]
 
 Sir/Madam, On behalf of the Radiographers Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you—
 
-(If the allegation relates to conviction) That you were on the ........ day of ............. 19 ...... at
+(If the allegation relates to conviction) That you were on the . day of ............. 19 ...... at.
 
 .(specify court
 
@@ -150,7 +162,7 @@ briefly the facts alleged); and that in relation to the facts alleged you have b
 
 briefly the fact alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation. or
 
-(If the allegation is that the registered radiographer was not qualified, at the time of his registration, to be registered) That you
+(If the allegation is that the registered radiographer was not qualified, at the time of his registration, to be registered) That you.
 
 .(set out
 
@@ -176,11 +188,13 @@ You are hereby invited to answer in writing the above-mentioned charge(s)/allega
 
 Secretary, Radiographers Board.
 
-_
+__________
 
-FORM 5 | [s. 45(2)]
+Form 5
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Summons to Witness
+[s. 45(2)]
+
+Supplementary Medical Professions Ordinance (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Summons to Witness
 
 In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
 
@@ -188,7 +202,7 @@ And in the matter of (1)
 
 To(2)
 
-You are hereby summoned to appear before the Radiographers Board at
+You are hereby summoned to appear before the Radiographers Board at.
 
 on the .............. day of ...................... , at ............ o’clock in the .............................................................. noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4)
 

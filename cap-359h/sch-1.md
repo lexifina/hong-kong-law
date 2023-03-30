@@ -1,14 +1,14 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-FORM OF REGISTER
+Form of Register
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Register of Radiographers PART I (Category D)
+Supplementary Medical Professions Ordinance (Chapter 359) RADIOGRAPHERS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Register of Radiographers PART I (Category D)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 
@@ -32,7 +32,7 @@ PART I (Category T)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 
@@ -56,7 +56,7 @@ PART II (Category D)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 
@@ -80,7 +80,7 @@ PART II (Category T)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 
@@ -104,7 +104,7 @@ PART III (Category D)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 
@@ -128,7 +128,7 @@ PART IV (Category D)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 
@@ -152,7 +152,7 @@ PART IV (Category T)
 
 REGISTRATION NO. | :
 
-NAME | : | ............................................ ()
+NAME | : | .......................................... ()
 
 ADDRESS | :
 

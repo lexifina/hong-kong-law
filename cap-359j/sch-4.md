@@ -1,12 +1,12 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 16]
 
-EXEMPTIONS FROM THE ORDINANCE
+Exemptions from the Ordinance
 
 Item | Person Exempt | Exempt Section
 
-PART 1
+Part 1
 
 1. A registered medical practitioner while practising medicine | 21(1)
 
@@ -16,7 +16,7 @@ PART 1
 
 4. A veterinary surgeon registered under the Veterinary Surgeons Registration Ordinance (Cap. 529) in relation to any treatment by him of an animal (L.N. 6 of 1999) | 21(1) and (2)
 
-PART 2
+Part 2
 
 5. A day procedure centre, or clinic, within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) and operated by an individual person licensed to operate it under that Ordinance (34 of 2018 s. 179 and E.R. 5 of 2018) | 21(1)
 
@@ -30,9 +30,7 @@ PART 2
 
 6B. A nursing home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence issued or renewed to a corporation under that Ordinance is in force (34 of 2018 s. 179) | 20 and 21(1)
 
-7. (Repealed 34 of 2018 s. 179)
-
-8. (Repealed 34 of 2018 s. 179)
+7-8. (Repealed 34 of 2018 s. 179)
 
 9. A medical clinic carried on by an individual person and registered under the Medical Clinics Ordinance (Cap. 343) | 21(1)
 
