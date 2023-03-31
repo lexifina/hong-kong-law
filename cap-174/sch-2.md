@@ -224,11 +224,11 @@ Dated the day of , .
 
 (Signed) Officer in charge
 
-No. Police station
+Police station
 
 No fee is payable for this permit.
 
-(Amended L.N. 51 of 1974; L.N. 497 of 1994; 8 of 2006 s. 18; E.R. 6 of 2019) _ Form 9
+(Amended L.N. 51 of 1974; L.N. 497 of 1994; 8 of 2006 s. 18; E.R. 6 of 2019; 3 of 2023 s. 15) _ Form 9
 
 [s. 16(2)]
 
@@ -392,7 +392,7 @@ due to (or as a consequence of)
 
 Other significant conditions
 
-│ │ │ │ │ │ │ │ │ │ │ | Deceased’s nationality Dated, the.day of ” profession Signature ” address Registered qualification ” place of birth Residence N.B.—THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE REGISTRAR to whom it should be delivered by the person giving information to him of the particulars required by law to be registered concerning the death. Fine at level 1 or 6 months’ imprisonment for neglect of informant to deliver this certificate to the registrar or a district registrar. The Registrar of Births and Deaths cautions all persons against accepting or using this certificate for any purpose whatever except that of delivering it to himself or a district registrar.
+│ │ │ │ │ │ │ │ │ │ │ | Deceased’s nationality Dated, the.day of ” profession Signature ” address Registered qualification ” place of birth Residence N.B.—THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE REGISTRAR to whom it should be delivered by the person giving information to him of the particulars required by law to be registered concerning the death. Fine at level 1 or 6 months’ imprisonment for neglect of informant to deliver this certificate to a registrar. The Registrar of Births and Deaths cautions all persons against accepting or using this certificate for any purpose whatever except that of delivering it to himself or a district registrar.
 
 Signed
 
@@ -410,21 +410,19 @@ Persons qualified to be informants for the registration of the death, and to who
 
 1. | A relative of the deceased present at the death.
 
-2. | A relative of the deceased in attendance during the last illness.
+2. | A relative of the deceased in attendance during the deceased’s last illness.
 
 3. | A person present at the death.
 
-4. | A person in attendance during the last illness.
+4. | A person in attendance during the deceased’s last illness.
 
-5. | The occupier of the house in which the death occurred.
+5. | An occupier of the house in which the death took place.
 
-6. | An inmate of the house in which the death occurred.
+6. | The person who caused the body of the deceased to be buried.
 
-7. | The person causing the body of the deceased to be buried.
+Penalty for failing to give information within 14 days after the death is fine at level 1 or 6 months’ imprisonment.
 
-Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the General Holidays Ordinance (Chapter 149) shall not be included) next following death is fine at level 1 or 6 months’ imprisonment.
-
-Informants must be prepared to state accurately to the registrar or a district registrar the following particulars—
+Informants must be prepared to state accurately to a registrar the following particulars—
 
 (1) | the date and place of death;
 
@@ -534,7 +532,7 @@ comes under a duty to make a report of that death to the coroner as soon as is r
 
 3. | Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 34 of 2018 s. 161 and E.R. 5 of 2018; 21 of 2020 s. 83) _ Form 19
+(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 34 of 2018 s. 161 and E.R. 5 of 2018; 21 of 2020 s. 83; 3 of 2023 s. 15) _ Form 19
 
 [s. 27(c)]
 
