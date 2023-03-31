@@ -22,7 +22,7 @@ Item | Enactment | Provision
 
 10. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulation 6(1) (to the extent to which it relates to a document specified under regulation 6A(1)(b)) (L.N. 226 of 2021)
 
-11. | Building (Planning) Regulations (Cap. 123 sub. leg. F) | Regulations 51(1) and 64(1) and (2) (L.N. 90 of 2012)
+11. | Building (Planning) Regulations (Cap. 123 sub. leg. F) | Regulation 51(1) (L.N. 226 of 2021)
 
 12-14. | (Repealed L.N. 90 of 2012)
 
