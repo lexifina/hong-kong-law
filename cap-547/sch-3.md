@@ -64,6 +64,6 @@
 
 - 8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
 
-- 9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee
+- 9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Heung Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee
 
-- (Amended E.R. 2 of 2012)
+- (Amended E.R. 2 of 2012; 8 of 2022 s. 20)
