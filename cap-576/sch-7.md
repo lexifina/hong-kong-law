@@ -1,7 +1,5 @@
 # Schedule 7
 
-(See Special Remarks)
-
 [s. 36B]
 
 Rural Representative Oath

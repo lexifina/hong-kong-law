@@ -1,7 +1,5 @@
 # Schedule 1
 
-(See Special Remarks)
-
 [ss. 2, 3, 5, 61 & 67]
 
 Existing Village

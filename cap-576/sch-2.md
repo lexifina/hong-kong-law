@@ -1,7 +1,5 @@
 # Schedule 2
 
-(See Special Remarks)
-
 [ss. 2, 6, 61 & 67]
 
 Indigenous Village
