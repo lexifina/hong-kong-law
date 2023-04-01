@@ -1,0 +1,17 @@
+# 53ZTS. Offence for obstructing person in performance of functions
+
+(1) A person who, without reasonable excuse, obstructs any specified person in the performance of a function under or in carrying into effect any provision of this Ordinance commits an offence and is liable—
+
+- (a) on conviction on indictment to a fine of $1,000,000 and to imprisonment for 2 years; or
+
+- (b) on summary conviction to a fine at level 6 and to imprisonment for 6 months.
+
+(2) In this section—
+
+- specified person (指明人士) means—
+
+  - (a) the Commission;
+
+  - (b) any member, employee, or consultant, agent or adviser, of the Commission; or
+
+  - (c) any person appointed to investigate any matter under this Ordinance.

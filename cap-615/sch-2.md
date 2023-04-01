@@ -1,6 +1,6 @@
 # Schedule 2
 
-[ss. 5, 5A, 6, 7 & 53Z] (Replaced 4 of 2018 s. 26)
+[ss. 5, 5A, 6, 7, 53Z & 53ZVF] (Replaced 4 of 2018 s. 26. Amended 15 of 2022 s. 33)
 
 Requirements Relating to Customer Due Diligence and Record-keeping
 
@@ -60,8 +60,6 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - correspondent banking (代理銀行服務) means the provision of banking services by an authorized institution to another institution to enable the latter to provide services and products to its own customers;
 
-      - customer (客户) includes a client; (Added 4 of 2018 s. 26)
-
       - customer due diligence measures (客戶盡職審查措施) means the measures set out in section 2(1) of this Schedule;
 
       - equivalent jurisdiction (對等司法管轄區) means—
@@ -102,11 +100,15 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (c) a close associate of an individual falling within paragraph (a);
 
-      - pre-existing customer (先前客户), in relation to—
+      - pre-existing customer (先前客户)—
 
-        - (a) a financial institution—means a customer with whom the financial institution has established a business relationship before the date of commencement of this Ordinance; and
+        - (a) in relation to a financial institution other than a licensed VAS provider—means a customer with whom the financial institution has established a business relationship before 1 April 2012;
 
-        - (b) a DNFBP—means a customer with whom the DNFBP has established a business relationship before the date of commencement* of section 26 of the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) (Amendment) Ordinance 2018 (4 of 2018); (Replaced 4 of 2018 s. 26)
+        - (b) (Addition not yet in operation—see 15 of 2022 s. 33)
+
+        - (c) in relation to a DNFBP other than a Category B PMS registrant—means a customer with whom the DNFBP has established a business relationship before 1 March 2018; or
+
+        - (d) in relation to a Category B PMS registrant—means a customer with whom the registrant has established a business relationship before 1 April 2023; (Replaced 15 of 2022 s. 33)
 
       - public body (公共機構) includes—
 
@@ -118,7 +120,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (d) any board, commission, committee or other body, whether paid or unpaid, appointed by the Chief Executive or the Government; and
 
-        - (e) any board, commission, committee or other body that has power to act in a public capacity under or for the purposes of any enactment.
+        - (e) any board, commission, committee or other body that has power to act in a public capacity under or for the purposes of any enactment; (Amended 15 of 2022 s. 33)
+
+    - (Amended 15 of 2022 s. 33)
 
     - (2)
 
@@ -134,10 +138,6 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - (4) For the purposes of this Schedule, a wire transfer is a transaction carried out by an institution (referred to in this Schedule as ordering institution) on behalf of a person by electronic means with a view to making an amount of money available to that person or another person (referred to in this Schedule as recipient) at an institution (referred to in this Schedule as beneficiary institution), which may be the ordering institution or another institution, whether or not one or more other institutions (referred to in this Schedule as intermediary institutions) participate in completion of the transfer of the money.
 
-- Editorial Note:
-
-- * Commencement date: 1 March 2018.
-
 - Part 2 Customer Due Diligence Requirements
 
   - Division 1 General
@@ -146,7 +146,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (1) The following measures are customer due diligence measures applicable to a financial institution or a DNFBP— (Amended 4 of 2018 s. 26)
 
-        - (a) for a financial institution or a DNFBP who is a TCSP licensee, identifying the customer and verifying the customer’s identity on the basis of documents, data or information provided by— (Amended 4 of 2018 s. 26)
+        - (a) for a financial institution, or a DNFBP who is a TCSP licensee or a Category B PMS registrant, identifying the customer and verifying the customer’s identity on the basis of documents, data or information provided by— (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
           - (i) a governmental body;
 
@@ -172,7 +172,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (d) if a person purports to act on behalf of the customer—
 
-          - (i) for a financial institution or a DNFBP who is a TCSP licensee, identifying the person and taking reasonable measures to verify the person’s identity on the basis of documents, data or information provided by— (Amended 4 of 2018 s. 26)
+          - (i) for a financial institution, or a DNFBP who is a TCSP licensee or a Category B PMS registrant, identifying the person and taking reasonable measures to verify the person’s identity on the basis of documents, data or information provided by— (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
             - (A) a governmental body;
 
@@ -524,12 +524,6 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (11) In this section—
 
-        - business day (營業日) means any day other than—
-
-          - (a) a public holiday; or
-
-          - (b) a gale warning day or a black rainstorm warning day as defined by section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1);
-
         - domestic wire transfer (本地電傳轉賬) means a wire transfer in which the ordering institution and the beneficiary institution and, if one or more intermediary institutions are involved in the transfer, the intermediary institution or all the intermediary institutions are financial institutions located in Hong Kong;
 
         - foreign institution (外地機構) means an institution—
@@ -543,6 +537,8 @@ Requirements Relating to Customer Due Diligence and Record-keeping
           - (a) the person from whose account with the ordering institution the money for the wire transfer is paid; or
 
           - (b) in the absence of such an account, the person who instructs the ordering institution to carry out the wire transfer.
+
+      - (Amended 15 of 2022 s. 33)
 
     - 13. Special requirements for remittance transactions
 
