@@ -53,6 +53,12 @@ s-006T.md
 s-006U.md
 s-006V.md
 s-006W.md
+s-006WA.md
+s-006WB.md
+s-006WC.md
+s-006WD.md
+s-006WE.md
+s-006WF.md
 s-006X.md
 s-006Y.md
 s-006Z.md
