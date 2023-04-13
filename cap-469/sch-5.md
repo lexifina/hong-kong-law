@@ -20,19 +20,19 @@ Amount of Compensation
 
     - 56 and above | 48; or
 
-    - (ii) the sum of $537,780; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017; L.N. 62 of 2019; L.N. 44 of 2021)
+    - (ii) the sum of $552,190; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017; L.N. 62 of 2019; L.N. 44 of 2021; L.N. 38 of 2023)
 
   - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— Table 2
 
   - Age | Sum
 
-  - under 40 | $3,417,600
+  - under 40 | $3,508,800
 
-  - 40 to under 56 | $2,563,200
+  - 40 to under 56 | $2,631,600
 
-  - 56 and above | $1,708,800
+  - 56 and above | $1,754,400
 
-- (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017; L.N. 62 of 2019; L.N. 44 of 2021)
+- (Amended 16 of 2003 s. 24; L.N. 128 of 2012; L.N. 33 of 2015; L.N. 32 of 2017; L.N. 62 of 2019; L.N. 44 of 2021; L.N. 38 of 2023)
 
 - 2. For the purpose of this Schedule, earnings include—
 
