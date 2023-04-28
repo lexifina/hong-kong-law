@@ -1054,9 +1054,7 @@ First Column (section) | Second Column (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $132,000
 
-(Added 3 of 2017 s. 8. Amended 20 of 2018 s. 15) For the year of assessment 2018/19 and
-
-for each year after that year
+(Added 3 of 2017 s. 8. Amended 20 of 2018 s. 15) For the years of assessment 2018/19 to 2022/23 inclusive
 
 First Column (section) | Second Column (the prescribed amount)
 
@@ -1106,7 +1104,59 @@ First Column (section) | Second Column (the prescribed amount)
 
 9. | Section 32(1) (single parent allowance) | $ 132,000
 
-(Added 20 of 2018 s. 15)
+(Added 20 of 2018 s. 15. Amended 4 of 2023 s. 3) For the year of assessment 2023/24 and
+
+for each year after that year
+
+First Column (section) | Second Column (the prescribed amount)
+
+1. | Section 28 (basic allowance) | $ 132,000
+
+2. | Section 28A (personal disability allowance) | $ 75,000
+
+3. | Section 29 (married person’s allowance) | $ 264,000
+
+4. | Section 30 (dependent parent allowance)—
+
+(a) | subsection (3)(a) | $ 50,000
+
+(b) | subsection (3)(b) | $ 50,000
+
+(c) | subsection (3A)(a) | $ 25,000
+
+(d) | subsection (3A)(b) | $ 25,000
+
+(e) | subsection (4)(a) | $ 12,000
+
+5. | Section 30A (dependent grandparent allowance)—
+
+(a) | subsection (3)(a) | $ 50,000
+
+(b) | subsection (3)(b) | $ 50,000
+
+(c) | subsection (3A)(a) | $ 25,000
+
+(d) | subsection (3A)(b) | $ 25,000
+
+(e) | subsection (4)(a) | $ 12,000
+
+6. | Section 30B(1) (dependent brother or dependent sister allowance) | $ 37,500
+
+7. | Section 31 (child allowance)—
+
+(a) | subsection (1) | $130,000 for each child
+
+(b) | subsection (1A) | $130,000 for each child
+
+(c) | subsection (5) (in relation to subsection (1)) | $1,170,000
+
+(d) | subsection (5) (in relation to subsection (1A)) | $1,170,000
+
+8. | Section 31A(1) (disabled dependant allowance) | $ 75,000
+
+9. | Section 32(1) (single parent allowance) | $ 132,000
+
+(Added 4 of 2023 s. 3)
 
 Editorial Note:
 
