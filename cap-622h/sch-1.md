@@ -312,7 +312,9 @@ Division 2—Administrative Arrangements
 
       - register of members (成員登記冊) means the register of members of the company;
 
-      - transmittee (承傳人) means a person entitled to a share by reason of the death or bankruptcy of a member or otherwise by operation of law.
+      - transmittee (承傳人) means a person entitled to a share by reason of the death or bankruptcy of a member or otherwise by operation of law; (2 of 2023 s. 9)
+
+      - virtual meeting technology (虛擬會議科技) means a technology that allows a person to listen, speak and vote at a meeting without being physically present at the meeting. (2 of 2023 s. 9)
 
     - (2) Other words or expressions used in these articles have the same meaning as in the Ordinance as in force on the date these articles become binding on the company.
 
@@ -866,7 +868,13 @@ Division 2—Administrative Arrangements
 
         - (a) specify the date and time of the meeting;
 
-        - (b) specify the place of the meeting (and if the meeting is to be held in 2 or more places, the principal place of the meeting and the other place or places of the meeting);
+        - (b) specify either or both of the following—
+
+          - (i) the physical venue of the meeting;
+
+          - (ii) the virtual meeting technology to be used for holding the meeting; (2 of 2023 s. 9)
+
+        - (ba) if 2 or more physical venues are specified under subparagraph (b)(i)—specify the principal venue, and the other venue or venues, of the meeting; (2 of 2023 s. 9)
 
         - (c) state the general nature of the business to be dealt with at the meeting;
 
@@ -920,13 +928,21 @@ Division 2—Administrative Arrangements
 
       - (3) The directors may make whatever arrangements they consider appropriate to enable those attending a general meeting to exercise their rights to speak or vote at it.
 
-      - (4) In determining attendance at a general meeting, it is immaterial whether any 2 or more members attending it are in the same place as each other.
+      - (4) In determining attendance at a general meeting, it is immaterial whether any 2 or more members attending it are in the same physical venue as each other. (2 of 2023 s. 9)
 
-      - (5) Two or more persons who are not in the same place as each other attend a general meeting if their circumstances are such that if they have rights to speak and vote at the meeting, they are able to exercise them.
+      - (5) Two or more persons who are not in the same physical venue as each other attend a general meeting if their circumstances are such that if they have rights to speak and vote at the meeting, they are able to exercise them. (2 of 2023 s. 9)
+
+      - (6) A person attends a general meeting by using virtual meeting technology if—
+
+        - (a) the person uses the virtual meeting technology specified in the notice of the meeting; and
+
+        - (b) where the person has the rights to speak and vote at the meeting, the person is able to exercise them. (2 of 2023 s. 9)
 
     - 43. Quorum for general meetings
 
       - (1) Two members present in person or by proxy constitute a quorum at a general meeting.
+
+      - (1A) For the purposes of paragraph (1), a person who attends a general meeting by using the virtual meeting technology specified in the notice of the meeting is to be regarded as being present while so attending. (2 of 2023 s. 9)
 
       - (2) No business other than the appointment of the chairperson of the meeting is to be transacted at a general meeting if the persons attending it do not constitute a quorum.
 
@@ -964,13 +980,25 @@ Division 2—Administrative Arrangements
 
     - 46. Adjournment
 
-      - (1) If a quorum is not present within half an hour from the time appointed for holding a general meeting, the meeting must—
+      - (1) If a quorum is not present within 30 minutes after the time appointed for holding a general meeting, the meeting must—
 
-        - (a) if called on the request of members, be dissolved; or
+        - (a) if called on the request of members—be dissolved; or
 
-        - (b) in any other case, be adjourned to the same day in the next week, at the same time and place, or to another day and at another time and place that the directors determine.
+        - (b) if not called on the request of members—be adjourned. (2 of 2023 s. 9)
 
-      - (2) If at the adjourned meeting, a quorum is not present within half an hour from the time appointed for holding the meeting, the member or members present in person or by proxy constitute a quorum.
+      - (1A) If a general meeting is adjourned under paragraph (1)(b), the directors must determine—
+
+        - (a) the date and time of the adjourned meeting;
+
+        - (b) either or both of the following—
+
+          - (i) the physical venue of the adjourned meeting;
+
+          - (ii) the virtual meeting technology to be used for holding the adjourned meeting; and
+
+        - (c) if 2 or more physical venues are determined under subparagraph (b)(i)—the principal venue, and the other venue or venues, of the adjourned meeting. (2 of 2023 s. 9)
+
+      - (2) If at the adjourned meeting, a quorum is not present within 30 minutes after the time appointed for holding the meeting, the member or members present in person or by proxy constitute a quorum. (2 of 2023 s. 9)
 
       - (3) The chairperson may adjourn a general meeting at which a quorum is present if—
 
@@ -980,13 +1008,29 @@ Division 2—Administrative Arrangements
 
       - (4) The chairperson must adjourn a general meeting if directed to do so by the meeting.
 
-      - (5) When adjourning a general meeting, the chairperson must specify the date, time and place to which it is adjourned.
+      - (5) When adjourning a general meeting under paragraph (3) or (4), the chairperson must specify—
+
+        - (a) the date and time of the adjourned meeting;
+
+        - (b) either or both of the following—
+
+          - (i) the physical venue of the adjourned meeting;
+
+          - (ii) the virtual meeting technology to be used for holding the adjourned meeting; and
+
+        - (c) if 2 or more physical venues are specified under subparagraph (b)(i)—the principal venue, and the other venue or venues, of the adjourned meeting. (2 of 2023 s. 9)
 
       - (6) Only the business left unfinished at the general meeting may be transacted at the adjourned meeting.
 
       - (7) If a general meeting is adjourned for 30 days or more, notice of the adjourned meeting must be given as for an original meeting.
 
       - (8) If a general meeting is adjourned for less than 30 days, it is not necessary to give any notice of the adjourned meeting.
+
+      - (9) If no notice of an adjourned meeting is given, a person who attends the adjourned meeting by using either of the following virtual meeting technologies is to be regarded as being present while so attending—
+
+        - (a) the virtual meeting technology determined by the directors under paragraph (1A);
+
+        - (b) the virtual meeting technology specified by the chairperson under paragraph (5). (2 of 2023 s. 9)
 
   - Division 2 Voting at General Meetings
 
