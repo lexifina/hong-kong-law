@@ -62,11 +62,13 @@ TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY AIR COMPRESSORS
 
   - (a) a sound level meter meeting the requirements of International Electrotechnical Commission (IEC) publication 651:1979 (type 1). The meter shall be set at “slow” response;
 
-  - (b) an integrating sound level meter effecting analog or digital integration of the squared signal over a given time interval meeting the requirements of IEC 804:1985 (type 1). The meter shall be set at “fast” response.
+  - (b) an integrating sound level meter effecting analog or digital integration of the squared signal over a given time interval meeting the requirements of IEC publication 804:1985 (type 1). The meter must be set at “fast” response; (L.N. 69 of 2023)
 
-- 5.3 Microphone with cable Use shall be made of a microphone with cable complying with IEC publication 651:1979, and calibrated for free field measurement.
+  - (c) a sound level meter meeting the requirements of IEC publication 61672-1 (class 1). (L.N. 69 of 2023)
 
-- 5.4 Weighting network Use shall be made of an A-weighting network meeting the requirements of IEC publication 651:1979.
+- 5.3 Microphone with cable Use shall be made of a microphone with cable complying with IEC publication 651:1979 or 61672-1, and calibrated for free field measurement. (L.N. 69 of 2023)
+
+- 5.4 Weighting network Use shall be made of an A-weighting network meeting the requirements of IEC publication 651:1979 or 61672-1. (L.N. 69 of 2023)
 
 - 5.5 Inspection of the measuring apparatus Before the tests, the acoustic properties of the entire apparatus (measuring instruments including microphone and cable) shall be checked by means of a calibrated sound source with an accuracy of at least 0.5 dB (e.g. a pistonphone); the apparatus shall be checked again immediately after each series of measurements.
 
@@ -154,7 +156,7 @@ TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY AIR COMPRESSORS
 
 - 9. DATA TO BE RECORDED A model report is provided in the Appendix.
 
-- 10. DATA TO BE INCLUDED IN THE REPORT LAID DOWN IN PARAGRAPH 9 The data shall be reported in accordance with paragraph 9. The report shall state clearly that the sound power levels were obtained in accordance with the test conditions. It shall specify that these sound power levels are given in A-weighted dB, reference 10-12 W.
+- 10. DATA TO BE INCLUDED IN THE REPORT LAID DOWN IN PARAGRAPH 9 The data shall be reported in accordance with paragraph 9. The report shall state clearly that the sound power levels were obtained in accordance with the test conditions. It shall specify that these sound power levels are given in A-weighted dB, reference 10−12 W.
 
 - 11. METHOD OF CALCULATING THE AVERAGE LEVEL CORRESPONDING TO THE ROOT MEAN SQUARE VALUE OF THE VARIOUS SOUND PRESSURE LEVELS The root mean square value of the various sound pressure levels resulting from a series of measurements made at different points on the measuring surface (root mean square in space) can be determined by the following formula—
 
