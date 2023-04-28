@@ -28,6 +28,8 @@ or Business Registration No. (if the applicant is a company):
 
 2d. | Telephone No.:
 
+2e. | Email address:
+
 3. | Information on hand held percussive breaker
 
 3a. | Name and address of manufacturer:
@@ -54,11 +56,9 @@ Serial Number
 
 Continue on separate sheet if necessary. Please state clearly each appliance serial number.
 
-3f. | Mass of breaker (see Note 2): . kg
+3f. | Mass of the breaker (see Note 2): . kg
 
 3g. | Supporting document (see Note 3):
-
-* EEC type-examination certificate/Noise testing report
 
 4. | Application fee (see Note 4)
 
@@ -70,13 +70,11 @@ Continue on separate sheet if necessary. Please state clearly each appliance ser
 
 Give any additional information which is thought to be relevant to this application:
 
-Dated this . day of . 19 .
+Dated this . day of . 20 .
 
 Signed
 
 Applicant.
-
-* Delete as necessary.
 
 NOTES：
 
@@ -84,9 +82,21 @@ NOTES：
 
 - 2. The applicant shall submit all relevant trade leaflets, brochures or similar documents for the Authority’s consideration.
 
-- 3. The applicant shall submit for the Authority’s consideration either an EEC type-examination certificate or a noise testing report certificated by a corporate member of the Institute of Acoustics, UK, that the testing was conducted in accordance with the conditions as set out in Schedule 2 to the Noise Control (Hand Held Percussive Breakers) Regulations.
+- 3. The applicant must submit for the Authority’s consideration either—
 
-- 4. The applicant shall submit a fee of $530 for each label applied for. The fee payable on submission of this application will not be refunded. Cheques, drafts or cashier orders shall be made payable to “Hong Kong Government” and crossed.
+  - (a) a noise testing report certificated by—
+
+    - (i) a corporate member of the Hong Kong Institute of Acoustics Limited;
+
+    - (ii) a professional member of the Hong Kong Institute of Qualified Environmental Professionals Limited; or
+
+    - (iii) a registered professional engineer (as defined by section 2(1) of the Engineers Registration Ordinance) in the building services, environmental or mechanical discipline,
+
+  - that the testing was conducted in accordance with the conditions set out in Schedule 2 to the Noise Control (Hand Held Percussive Breakers) Regulations; or
+
+  - (b) supporting documents showing that the hand held percussive breaker complies with a standard that is substantially the same as or more stringent than that set out in Schedule 1 to the Regulations when tested under conditions comparable to those set out in Schedule 2 to the Regulations.
+
+- 4. The applicant shall submit a fee of $530 for each label applied for. The fee payable on submission of this application will not be refunded. Cheques, drafts or cashier orders shall be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed.
 
 - 5. Regulation 8(3) of the Noise Control (Hand Held Percussive Breakers) Regulations provides that not later than 28 days after an application is received by the Authority, the Authority shall issue a noise emission label or labels applied for or serve on the applicant written notice of his refusal to issue the label or labels, and if at the end of those 28 days he has done neither of those things, a label or labels shall be deemed to have been issued.
 
@@ -104,4 +114,4 @@ NOTES：
 
 - 114
 
-(L.N. 262 of 1994; L.N. 65 of 1995; L.N. 498 of 1996; L.N. 583 of 1997; L.N. 309 of 2000; L.N. 185 of 2005; L.N. 102 of 2008; L.N. 44 of 2016)
+(L.N. 262 of 1994; L.N. 65 of 1995; L.N. 498 of 1996; L.N. 583 of 1997; L.N. 309 of 2000; L.N. 185 of 2005; L.N. 102 of 2008; L.N. 44 of 2016; L.N. 70 of 2023)

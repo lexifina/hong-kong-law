@@ -2,7 +2,9 @@
 
 [regs. 7 & 8]
 
-TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY POWERED HAND HELD PERCUSSIVE BREAKERS
+TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY HAND HELD PERCUSSIVE BREAKERS
+
+(L.N. 70 of 2023)
 
 - 1. OBJECT
 
@@ -12,7 +14,7 @@ TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY POWERED HAND HELD PERCUS
 
 - 2. SCOPE
 
-- 2.1 This test is applicable to powered hand held percussive breakers (hereinafter referred to as “appliances”). The test specifies the procedures for use in determining the sound power level of such appliances for the purpose of testing as to conformity under the Noise Control (Hand Held Percussive Breakers) Regulations.
+- 2.1 This test is applicable to hand held percussive breakers (hereinafter referred to as “appliances”). The test specifies the procedures for use in determining the sound power level of such appliances for the purpose of testing as to conformity under the Noise Control (Hand Held Percussive Breakers) Regulations. (L.N. 70 of 2023)
 
 - 3. DEFINITIONS
 
@@ -62,11 +64,13 @@ TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY POWERED HAND HELD PERCUS
 
   - (a) a sound level meter meeting the requirements of International Electrotechnical Commission (IEC) publication 651:1979 (type 1). The meter shall be set at “slow” response;
 
-  - (b) an integrating sound level meter effecting analog or digital integration of the squared signal over a given time interval meeting the requirements of IEC 804:1985 (type 1). The meter shall be set at “fast” response.
+  - (b) an integrating sound level meter effecting analog or digital integration of the squared signal over a given time interval meeting the requirements of IEC publication 804:1985 (type 1). The meter must be set at “fast” response; (L.N. 70 of 2023)
 
-- 5.3 Microphone with cable Use shall be made of a microphone with cable complying with IEC publication 651:1979, and calibrated for free field measurement.
+  - (c) a sound level meter meeting the requirements of IEC publication 61672-1 (class 1). (L.N. 70 of 2023)
 
-- 5.4 Weighting network Use shall be made of an A-weighting network meeting the requirements of IEC publication 651:1979.
+- 5.3 Microphone with cable Use shall be made of a microphone with cable complying with IEC publication 651:1979 or 61672-1, and calibrated for free field measurement. (L.N. 70 of 2023)
+
+- 5.4 Weighting network Use shall be made of an A-weighting network meeting the requirements of IEC publication 651:1979 or 61672-1. (L.N. 70 of 2023)
 
 - 5.5 Inspection of the measuring apparatus Before the tests, the acoustic properties of the entire apparatus (measuring instruments including microphone and cable) shall be checked by means of a calibrated sound source with an accuracy of at least 0.5 dB (e.g. a pistonphone); the apparatus shall be checked again immediately after each series of measurements.
 
@@ -168,7 +172,7 @@ TEST CONDITIONS FOR MEASURING AIRBORNE NOISE EMITTED BY POWERED HAND HELD PERCUS
 
 - gi = 100.1(LpAi − LpAo).
 
-Appendix Model Report TEST REPORT FOR POWERED HAND HELD PERCUSSIVE BREAKERS
+Appendix Model Report TEST REPORT FOR HAND HELD PERCUSSIVE BREAKERS
 
 - 1. Test Article
 
@@ -257,3 +261,5 @@ Appendix Model Report TEST REPORT FOR POWERED HAND HELD PERCUSSIVE BREAKERS
 - —sound-power level;
 
 - —date and time of measurements.
+
+(L.N. 70 of 2023)
