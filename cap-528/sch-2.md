@@ -270,7 +270,7 @@ Acts infringing copyright
 
   - (a) performing the work in public;
 
-  - (b) broadcasting the work or including it in a cable programme service; or
+  - (b) communicating the work to the public; or (Amended 16 of 2022 s. 110)
 
   - (c) doing any of the above in relation to an adaptation of the work,
 

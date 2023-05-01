@@ -32,15 +32,17 @@ Transitional Provisions and Savings in relation to Amendments Effected by the Co
 
 - Editorial Note:
 
-- † | Part 3 (but only to the extent that Part 3 relates to the transitional provisions and savings in relation to the amendments effected by sections 6 (insofar as it relates to the new section 25(1)(c) and (d) of this Ordinance) and 51 of the Copyright (Amendment) Ordinance 2007 (15 of 2007)) came into operation on 25 April 2008—see paragraph (c) of L.N. 47 of 2008 and paragraph (n)(i) of L.N. 48 of 2008. Remaining provisions of Part 3 of this Schedule have not yet come into operation.
+- † | See paragraph (c) of L.N. 47 of 2008, and paragraph (n)(i) of L.N. 48 of 2008 and section 114 of 16 of 2022.
 
-  - Division 1 Transitional provisions and savings in relation to amendments effected by section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c), (e) and (f) of this Ordinance)
+  - Division 1 Transitional provisions and savings in relation to amendments effected by section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c) of this Ordinance) (Amended 16 of 2022 s. 114)
 
     - 3. General provisions
 
-      - (1) Subject to sections 4 and 5 of this Schedule, section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c), (e) and (f) of this Ordinance) applies to copyright works made before, on or after the commencement date* of that section.
+      - (1) Subject to sections 4 and 5 of this Schedule, section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c) of this Ordinance) applies to copyright works made before, on or after the commencement date* of that section.
 
-      - (2) No act done before the commencement date* of section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c), (e) and (f) of this Ordinance) shall be regarded as an infringement of any new right arising by virtue of that section.
+      - (2) No act done before the commencement date* of section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c) of this Ordinance) shall be regarded as an infringement of any new right arising by virtue of that section.
+
+    - (Amended 16 of 2022 s. 114)
 
     - Editorial Note:
 
@@ -48,7 +50,7 @@ Transitional Provisions and Savings in relation to Amendments Effected by the Co
 
     - 4. New rental right: effect of pre-commencement authorization of copying Where—
 
-        - (a) the owner or prospective owner of copyright in any work has, before the commencement date* of section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c), (e) and (f) of this Ordinance), authorized a person to make a copy of the work; and
+        - (a) the owner or prospective owner of copyright in any work has, before the commencement date* of section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c) of this Ordinance), authorized a person to make a copy of the work; and (Amended 16 of 2022 s. 114)
 
         - (b) a new right arises by virtue of that section in relation to that copy,
 
@@ -62,7 +64,7 @@ Transitional Provisions and Savings in relation to Amendments Effected by the Co
 
       - (1) Any new right arising by virtue of section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(c) of this Ordinance) does not apply to a copy of a film acquired by a person before the commencement date* of that section for the purpose of renting it to the public.
 
-      - (2) Any new right arising by virtue of section 6 of the 2007 Amendment Ordinance (insofar as it relates to section 25(1)(e) and (f) of this Ordinance) does not apply to a copy of a comic book acquired by a person before the commencement date of that section for the purpose of renting it to the public.
+      - (2) (Repealed 16 of 2022 s. 114)
 
     - Editorial Note:
 
