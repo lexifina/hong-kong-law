@@ -1,6 +1,6 @@
 # Schedule 16
 
-[ss. 156 & 160]
+[ss. 156, 160 & 161] (Amended 8 of 2012 ss. 156 & 160)
 
 Consequential and Related Amendments
 
@@ -56,27 +56,15 @@ Consequential and Related Amendments
 
   - 16-18. (Omitted as spent—E.R. 2 of 2014)
 
-  - 19. Section 82 amended (Registration—lift workers)
-
-  - (Not yet in operation)
-
-  - Section 82— Repeal subsection (1) Substitute
+  - 19. Section 82 amended (Registration—lift workers) Section 82— Repeal subsection (1) Substitute
 
     - “(1) Subject to section 150, the Registrar may, on application, register a person as a lift worker for all kinds of lift works.”.
 
-  - 20. Section 94 amended (Registration—escalator workers)
-
-  - (Not yet in operation)
-
-  - Section 94— Repeal subsection (1) Substitute
+  - 20. Section 94 amended (Registration—escalator workers) Section 94— Repeal subsection (1) Substitute
 
     - “(1) Subject to section 150, the Registrar may, on application, register a person as an escalator worker for all kinds of escalator works.”.
 
-  - 21. Section 161 added
-
-  - (Not yet in operation)
-
-  - After section 160— Add
+  - 21. Section 161 added After section 160— Add
 
     - “161. Effect of amendments to sections 82 and 94 by sections 19 and 20 of Schedule 16 The amendments to sections 82(1) and 94(1) effected by sections 19 and 20 of Schedule 16 (those 2 sections of Schedule 16) do not affect the validity of a registration granted under section 82(1) or 94(1) before those 2 sections of Schedule 16 come into operation, and an application for renewal of a registration so granted may be made under sections 83 and 95, as appropriate.”.
 
@@ -126,8 +114,4 @@ Consequential and Related Amendments
 
   - 25. (Omitted as spent—E.R. 3 of 2018)
 
-  - 26. Schedule 16 amended (Consequential and Related Amendments)
-
-  - (Not yet in operation)
-
-  - Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012; E.R. 1 of 2013)
+  - 26. Schedule 16 amended (Consequential and Related Amendments) Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012; E.R. 1 of 2013)
