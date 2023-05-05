@@ -537,3 +537,27 @@ SPECIAL ANCHORAGES
   - (h) thence to position latitude 22o18’15” north, longitude 114o08’18” east.
 
 - (L.N. 270 of 1999)
+
+- 5. Multi-purpose Anchorage
+
+  - (a) South Cheung Chau Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22o10.060´ | north,
+
+  - longitude | 114o03.819´ | east;
+
+  - (ii) | latitude | 22o09.291´ | north,
+
+  - longitude | 114o03.819´ | east;
+
+  - (iii) | latitude | 22o09.291´ | north,
+
+  - longitude | 114o02.325´ | east;
+
+  - (iv) | latitude | 22o10.060´ | north,
+
+  - longitude | 114o02.325´ | east.
+
+  - Note: In item 5(a), the geographical co-ordinates of a position are based on the World Geodetic System 1984 (WGS 84).
+
+- (L.N. 28 of 2023)

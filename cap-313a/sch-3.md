@@ -535,3 +535,87 @@ PRINCIPAL FAIRWAYS
   - (d) On the west, a straight line joining the extremities of the northern and southern boundaries.
 
 - (L.N. 180 of 2017)
+
+- 14. Boundaries of the West Lamma Fairway
+
+  - (a) On the east, a straight line joining the following positions—
+
+  - (i) | latitude | 22o15.590´ | north,
+
+  - longitude | 114o05.401´ | east;
+
+  - (ii) | latitude | 22o10.424´ | north,
+
+  - longitude | 114o03.122´ | east.
+
+  - (b) On the west, a straight line joining the following positions—
+
+  - (i) | latitude | 22o15.825´ | north,
+
+  - longitude | 114o04.997´ | east;
+
+  - (ii) | latitude | 22o11.063´ | north,
+
+  - longitude | 114o02.896´ | east.
+
+  - (c) On the north, a straight line joining the extremities of the eastern and western boundaries.
+
+  - (d) On the south, a straight line joining the extremities of the eastern and western boundaries.
+
+- (L.N. 28 of 2023)
+
+- 15. Boundaries of the South Shek Kwu Chau Fairway
+
+  - (a) On the north, a straight line joining the following positions—
+
+  - (i) | latitude | 22o11.063´ | north,
+
+  - longitude | 114o02.896´ | east;
+
+  - (ii) | latitude | 22o11.058´ | north,
+
+  - longitude | 113o57.708´ | east.
+
+  - (b) On the south, a straight line joining the following positions—
+
+  - (i) | latitude | 22o10.424´ | north,
+
+  - longitude | 114o03.122´ | east;
+
+  - (ii) | latitude | 22o10.424´ | north,
+
+  - longitude | 113o58.001´ | east.
+
+  - (c) On the east, a straight line joining the extremities of the northern and southern boundaries.
+
+  - (d) On the west, a straight line joining the extremities of the northern and southern boundaries.
+
+- (L.N. 28 of 2023)
+
+- 16. Boundaries of the Soko Fairway
+
+  - (a) On the north, a straight line joining the following positions—
+
+  - (i) | latitude | 22o11.058´ | north,
+
+  - longitude | 113o57.708´ | east;
+
+  - (ii) | latitude | 22o11.825´ | north,
+
+  - longitude | 113o55.797´ | east.
+
+  - (b) On the south, a straight line joining the following positions—
+
+  - (i) | latitude | 22o10.424´ | north,
+
+  - longitude | 113o58.001´ | east;
+
+  - (ii) | latitude | 22o11.308´ | north,
+
+  - longitude | 113o55.797´ | east.
+
+  - (c) On the east, a straight line joining the extremities of the northern and southern boundaries.
+
+  - (d) On the west, a straight line joining the extremities of the northern and southern boundaries.
+
+- (L.N. 28 of 2023)
