@@ -56,6 +56,14 @@ latitude | 22°29.700΄ | north,
 
 longitude | 114°26.540΄ | east.
 
+9. | South of Cheung Chau Island | An area of 0.7 nautical mile radius centred by position
+
+latitude | 22°09.663΄ | north,
+
+longitude | 114°03.055΄ | east. (Added
+
+L.N. 27 of 2023)
+
 Note: In this Schedule, the geographical co-ordinates of a position are based on the World Geodetic System 1984 (WGS 84).
 
 (Schedule 2 replaced 12 of 2022 s. 9)

@@ -66,4 +66,14 @@ Specified Anchorages
 
 - 210 of 1986)
 
-- (Schedule 3 added 29 of 1985 s. 7)
+- 7. South Cheung Chau Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+- (i) | latitude longitude | 22°10.060΄ 114°03.819΄ | north, east;
+
+- (ii) | latitude longitude | 22°09.291΄ 114°03.819΄ | north, east;
+
+- (iii) | latitude longitude | 22°09.291΄ 114°02.325΄ | north, east;
+
+- (iv) | latitude longitude | 22°10.060΄ 114°02.325΄ | north, east.
+
+- Note: In item 7, the geographical co-ordinates of a position are based on the World Geodetic System 1984 (WGS 84). (Added L.N. 27 of 2023) (Schedule 3 added 29 of 1985 s. 7)
