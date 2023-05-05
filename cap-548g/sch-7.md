@@ -36,6 +36,8 @@ LOCAL VESSELS REQUIRED TO COMPLY WITH REQUIREMENTS OF MERCHANT SHIPPING (PREVENT
 
 - floating workshop (including repair pontoon, welding barge) | ≥80 | ≥80 | ≥80 | ≥80
 
+- gas carrier | of any tonnage | of any tonnage | ─ | ─
+
 - noxious liquid substance carrier | ≥80 | ─ | ─ | ─
 
 - oil carrier | of any tonnage | of any tonnage | ─ | ─
@@ -69,3 +71,5 @@ LOCAL VESSELS REQUIRED TO COMPLY WITH REQUIREMENTS OF MERCHANT SHIPPING (PREVENT
 - cruiser of 400 gross tonnage or above
 
 - open cruiser of 400 gross tonnage or above
+
+- (L.N. 25 of 2023)

@@ -50,6 +50,10 @@ FREEBOARD ASSIGNMENT
 
   - RTL | not permitted | not permitted | not permitted | not permitted
 
+  - gas carrier | HKW | HKLLC | HKLLC | HKLLC | HKLLC
+
+  - RTL | HKLLC | HKLLC | not permitted | not permitted
+
   - hopper barge | HKW | ─ | FAC | ─ | FAC
 
   - RTL(3) | ─ | FAC | ─ | not permitted
@@ -102,7 +106,7 @@ FREEBOARD ASSIGNMENT
 
   - RTL | not permitted | not permitted | not permitted | not permitted
 
-  - (L.N. 70 of 2020)
+  - (L.N. 70 of 2020; L.N. 25 of 2023)
 
   - Abbreviations:
 

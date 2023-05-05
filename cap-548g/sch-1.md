@@ -38,6 +38,8 @@ CATEGORY OF LOCAL VESSELS
 
 - floating workshop | *(1) | *(2)
 
+- gas carrier | *
+
 - hopper barge | *
 
 - II | landing platform | *
@@ -71,6 +73,8 @@ CATEGORY OF LOCAL VESSELS
 - fishing vessel | *(4) | *(8)
 
 - outboard open sampan | *
+
+- (L.N. 25 of 2023)
 
 Notes:
 

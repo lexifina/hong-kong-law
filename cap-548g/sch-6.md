@@ -1,33 +1,53 @@
-# SCHEDULE 6
+# Schedule 6
 
-[ss. 81(2) & 87]
+[ss. 81 & 87]
 
-LOCAL VESSELS TO WHICH SECTION 81(1) OF THIS REGULATION DOES NOT APPLY
+Local Vessels to which Section 81(1) of this Regulation Does Not Apply
 
-- Section 81(1) of this Regulation does not apply to—
+- Part 1 Class II Vessels
 
-  - (a) a Class III vessel that falls within paragraph (a) of Schedule 2; or
+  - 1. A Class II vessel that—
 
-  - (b) a Class III vessel that—
+    - (a) is not a gas carrier;
 
-    - (i) is made of glass reinforced plastic;
+    - (b) is fitted with an engine that uses gaseous fuel; and
 
-    - (ii) is of less than 15 m in length;
+    - (c) is constructed and equipped for the safe use of gaseous fuel.
 
-    - (iii) has a total engine power not exceeding—
+  - 2. A Class II vessel that—
 
-      - (A) 30 kW in the case of a vessel of 5 m or more but less than 6 m in length;
+    - (a) is a gas carrier;
 
-      - (B) 56 kW in the case of a vessel of 6 m or more but less than 8 m in length; or
+    - (b) is fitted with an engine that uses gaseous fuel; and
 
-      - (C) 67 kW in the case of a vessel of 8 m or more but less than 15 m in length;
+    - (c) is constructed and equipped for the safe carrying of liquefied gases in bulk.
 
-    - (iv) is equipped with the following life-saving appliances and fire-fighting apparatus, all of which are in good and serviceable condition—
+- Part 2 Class III Vessels
 
-      - (A) 1 lifejacket for every person on board;
+  - 3. A Class III vessel that falls within paragraph (a) of Schedule 2.
 
-      - (B) 1 lifebuoy;
+  - 4. A Class III vessel that—
 
-      - (C) in the case of a Class III vessel of less than 8 m in length, at least 1 portable dry powder fire extinguisher that has a capacity of not less than 2.7 kg of dry powder and 1 fire bucket that is fitted with a lanyard; and
+    - (a) is made of glass reinforced plastic;
 
-      - (D) in the case of a Class III vessel of 8 m or more in length, at least 2 portable dry powder fire extinguishers, each of capacity of not less than 2.7 kg of dry powder and 2 fire buckets, each fitted with a lanyard.
+    - (b) is of less than 15 m in length;
+
+    - (c) has a total engine power not exceeding—
+
+      - (i) for a vessel of 5 m or more but less than 6 m in length—30 kW;
+
+      - (ii) for a vessel of 6 m or more but less than 8 m in length—56 kW; or
+
+      - (iii) for a vessel of 8 m or more but less than 15 m in length—67 kW; and
+
+    - (d) is equipped with the following life-saving appliances and fire-fighting apparatus, all of which are in good and serviceable condition—
+
+      - (i) at least 1 lifejacket for every person on board;
+
+      - (ii) at least 1 lifebuoy;
+
+      - (iii) for a vessel of less than 8 m in length—at least 1 portable dry powder fire extinguisher that has a capacity of not less than 2.7 kg of dry powder, and 1 fire bucket that is fitted with a lanyard; and
+
+      - (iv) for a vessel of 8 m or more in length—at least 2 portable dry powder fire extinguishers, each of capacity of not less than 2.7 kg of dry powder, and 2 fire buckets, each fitted with a lanyard.
+
+(L.N. 25 of 2023)

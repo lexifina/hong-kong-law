@@ -94,7 +94,9 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - fireman’s axe | ─ | 1
 
-  - (L.N. 70 of 2020) Notes:
+  - (L.N. 70 of 2020)
+
+  - Notes:
 
   - (1) The requirement for a local vessel of 75 m or more in length shall be specified by the Director on a case-by-case basis.
 
@@ -218,7 +220,9 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8)
 
-  - (L.N. 154 of 2019; L.N. 70 of 2020) Notes:
+  - (L.N. 154 of 2019; L.N. 70 of 2020)
+
+  - Notes:
 
   - (1)
 
@@ -292,7 +296,9 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - international shore connection device | 1 for each wing | ─ | ─
 
-  - (L.N. 70 of 2020) Notes:
+  - (L.N. 70 of 2020)
+
+  - Notes:
 
   - (1) Requirements in angle brackets (“< >”) are for new vessels only.
 
@@ -460,7 +466,15 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (5) Requirement in pair of angle brackets (“< >”) is applicable to new vessels only.
 
-- (L.N. 70 of 2020) Table 7 Class III vessels
+- (L.N. 70 of 2020) Table 6B Class II vessels—gas carriers
+
+  - Type of vessel | Requirement
+
+  - gas carrier | there must be on board the gas carrier fire-fighting apparatus for preventing, detecting and dealing with outbreaks of fire on board a vessel carrying liquefied gases in bulk
+
+  - (L.N. 25 of 2023)
+
+- Table 7 Class III vessels
 
   - Fire-fighting apparatus | Category of vessel | A | B(1), (1A) and (1B)
 
@@ -494,7 +508,9 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - <fire detection and alarm system>(6) | engine room | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | ─ | ─
 
-  - (L.N. 154 of 2019; L.N. 70 of 2020) Notes:
+  - (L.N. 154 of 2019; L.N. 70 of 2020)
+
+  - Notes:
 
   - (1) For a fishing sampan made of glass reinforced plastic, only the following fire-fighting apparatus are required—
 
