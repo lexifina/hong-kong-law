@@ -34,6 +34,10 @@ Approved Petroleum Wharves
 
 - 14. | The wharf at Po Lo Tsui on Lamma Island belonging to The Hongkong Electric Co. Ltd. (DD3 Lot No. 2200).
 
+- 15. | The wharf at the east of Soko Islands operated by Hong Kong LNG Terminal Limited. (L.N. 26 of 2023)
+
+- 16. | The wharf at 22 Chun Wang Street, Tseung Kwan O Industrial Estate belonging to ASB BIODIESEL (HONG KONG) LIMIITED (Tseung Kwan O Town Lot No. 39 Section Q, Subsection 1, Subsection 2 and Extension thereto). (L.N. 26 of 2023)
+
 - Part 2 Wharves for Berthing of Type 3 Vessels
 
 - 1. | The wharf at To Kwa Wan belonging to Hong Kong and China Gas Company Limited.

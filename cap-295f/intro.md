@@ -1,6 +1,6 @@
 Dangerous Goods (Shipping) Regulation 2012
 
-(Cap. 295, section 5)
+(Cap. 295, sections 5 and 5AA)
 
 (Enacting provision omitted—E.R. 2 of 2012)
 
