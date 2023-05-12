@@ -57,8 +57,14 @@ s-026A.md
 s-026B.md
 s-026C.md
 s-026D.md
+s-027AA.md
 s-027.md
 s-027A.md
+s-027B.md
+s-027C.md
+s-027D.md
+s-027E.md
+s-027F.md
 s-028.md
 s-029.md
 s-030.md
