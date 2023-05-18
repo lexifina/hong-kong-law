@@ -8,17 +8,11 @@
 
 - 3. (Repealed L.N. 132 of 1990)
 
-- 4. Erskine Detention Centre
-
-- 5. Green Island Reception Centre
-
-- 6. Whitehead Detention Centre
+- 4-6. (Repealed L.N. 50 of 2023)
 
 - 7. (Repealed L.N. 142 of 1992)
 
-- 8. Harbour Detention Centres, i.e. the vessels known as HYF “Man Tin”, HYF “Man Wah”, HYF “Man Kam”, HYF “Man Tai” and HYF “Man Foon”
-
-- 9. Lo Wu Detention Centre
+- 8-9. (Repealed L.N. 50 of 2023)
 
 - 10. (Repealed L.N. 265 of 1993)
 
@@ -28,11 +22,11 @@
 
 - 13. (Repealed L.N. 365 of 1993)
 
-- 14. High Island Detention Centre
+- 14. (Repealed L.N. 50 of 2023)
 
 - 15. (Repealed L.N. 179 of 1994)
 
-- 16. Victoria Prison
+- 16. (Repealed L.N. 50 of 2023)
 
 - 17. Stanley Prison (L.N. 6 of 1990)
 
@@ -42,7 +36,7 @@
 
 - 20. Pik Uk Correctional Institution (L.N. 153 of 1990)
 
-- 21. Kai Tak Vietnamese Migrant Transit Centre (L.N. 141 of 1992)
+- 21. (Repealed L.N. 50 of 2023)
 
 - 22. Custodial ward of Queen Mary Hospital under the control of the Correctional Services Department, except that part of the ward located therein controlled by the police (L.N. 258 of 1992)
 
