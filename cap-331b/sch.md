@@ -12,7 +12,7 @@
 
 - 5. The Immigration Department Detention Quarters within the Hong Kong Airport Building.
 
-- 6. The area of the 13th floor of the Immigration Tower, 7 Gloucester Road, occupied by the Immigration Department set aside as a detention room.
+- 6. (Repealed L.N. 53 of 2023)
 
 - 7. The area of the Hong Kong-Macau Ferry Terminal occupied by the Immigration Department set aside as a detention room.
 
@@ -24,7 +24,7 @@
 
 - 11. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 325 of 1998)
 
-- 12. The area inside the Tuen Mun Ferry Terminal that is set aside as a detention room for use by the Immigration Department. (L.N. 61 of 2004)
+- 12. (Repealed L.N. 53 of 2023)
 
 - 13. The area within the Lok Ma Chau Spur Line Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 71 of 2007)
 
