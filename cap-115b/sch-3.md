@@ -34,7 +34,7 @@
 
 - 24. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 324 of 1998)
 
-- 25. The area inside the Tuen Mun Ferry Terminal that is set aside as a detention room for use by the Immigration Department. (L.N. 60 of 2004)
+- 25. (Repealed L.N. 46 of 2023)
 
 - 26. The area within the Lok Ma Chau Spur Line Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 70 of 2007)
 
