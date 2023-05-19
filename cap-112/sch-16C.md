@@ -1,10 +1,10 @@
 # Schedule 16C
 
-[ss. 20AM, 20AN, 20AO, 20AP & 20AS & Schs. 16D & 17A] (Amended 9 of 2021 s. 11)
+[ss. 20AM, 20AN, 20AO, 20AP & 20AS & Schs. 16D, 16E & 17A] (Amended 9 of 2021 s. 11; 8 of 2023 s. 6)
 
-Classes of Assets Specified for Transactions for Purposes of Sections 20AN and 20AO
+Classes of Assets Specified for Transactions for Purposes of Sections 20AN and 20AO and Schedule 16E
 
-(Amended 9 of 2021 s. 11) (Schedule 16C added 5 of 2019 s. 11)
+(Amended 9 of 2021 s. 11; 8 of 2023 s. 6) (Schedule 16C added 5 of 2019 s. 11)
 
 - Part 1
 

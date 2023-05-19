@@ -290,6 +290,8 @@ s-040AR.md
 s-040AS.md
 s-040AT.md
 s-040AU.md
+s-040AV.md
+s-040AW.md
 s-040B.md
 s-041.md
 s-042.md
@@ -506,6 +508,13 @@ sch-16A.md
 sch-16B.md
 sch-16C.md
 sch-16D.md
+sch-16E.md
+sch-16F.md
+sch-16G.md
+sch-16H.md
+sch-16I.md
+sch-16J.md
+sch-16K.md
 sch-17.md
 sch-17A.md
 sch-17B.md
