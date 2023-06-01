@@ -1,5 +1,3 @@
-## Division 2 Restriction on Carrying on Activities Involving Virtual Assets
-
 # 53ZRF. Offence involving fraudulent or deceptive devices etc. in transactions in virtual assets
 
 (1) A person commits an offence if the person, directly or indirectly, in a transaction involving any virtual assets—

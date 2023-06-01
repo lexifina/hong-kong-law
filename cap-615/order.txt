@@ -109,6 +109,8 @@ s-053ZR.md
 s-053ZRA.md
 s-053ZRB.md
 s-053ZRC.md
+s-053ZRD.md
+s-053ZRE.md
 s-053ZRF.md
 s-053ZRG.md
 s-053ZRH.md
@@ -182,6 +184,7 @@ s-053ZTU.md
 s-053ZTV.md
 s-053ZTW.md
 s-053ZTX.md
+s-053ZTY.md
 s-053ZTZ.md
 s-053ZU.md
 s-053ZUA.md
@@ -287,6 +290,7 @@ sch-3C.md
 sch-3D.md
 sch-3E.md
 sch-3F.md
+sch-3G.md
 sch-3H.md
 sch-3I.md
 sch-3J.md
