@@ -38,9 +38,11 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (c) in relation to a trust, means—
 
-          - (i) an individual who is entitled to a vested interest in more than 25% of the capital of the trust property, whether the interest is in possession or in remainder or reversion and whether it is defeasible or not;
+          - (i) a beneficiary or a class of beneficiaries of the trust entitled to a vested interest in the trust property, whether the interest is in possession or in remainder or reversion and whether it is defeasible or not; (Amended 15 of 2022 s. 33)
 
           - (ii) the settlor of the trust;
+
+          - (iia) the trustee of the trust; (Added 15 of 2022 s. 33)
 
           - (iii) a protector or enforcer of the trust; or
 
@@ -70,6 +72,14 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - Financial Action Task Force (財務行動特別組織) means the Financial Action Task Force on Money Laundering established by the G-7 Summit held in Paris in 1989; (Replaced 4 of 2018 s. 26)
 
+      - former politically exposed person (前政治人物) means—
+
+        - (a) an individual who, being a politically exposed person, has been but is not currently entrusted with a prominent public function in a place outside Hong Kong;
+
+        - (b) a spouse, a partner, a child or a parent of an individual falling within paragraph (a), or a spouse or a partner of a child of such an individual; or
+
+        - (c) a close associate of an individual falling within paragraph (a); (Added 15 of 2022 s. 33)
+
       - identification document (識別文件)—
 
         - (a) in relation to an individual, means his or her identity card, certificate of identity, document of identity or travel document, as defined by section 2(1) of the Immigration Ordinance (Cap. 115);
@@ -90,7 +100,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - politically exposed person (政治人物) means—
 
-        - (a) an individual who is or has been entrusted with a prominent public function in a place outside the People’s Republic of China and—
+        - (a) an individual who is or has been entrusted with a prominent public function in a place outside Hong Kong and— (Amended 15 of 2022 s. 33)
 
           - (i) includes a head of state, head of government, senior politician, senior government, judicial or military official, senior executive of a state-owned corporation and an important political party official; but
 
@@ -104,7 +114,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (a) in relation to a financial institution other than a licensed VAS provider—means a customer with whom the financial institution has established a business relationship before 1 April 2012;
 
-        - (b) (Addition not yet in operation—see 15 of 2022 s. 33)
+        - (b) in relation to a licensed VAS provider—means a customer with whom the licensed VAS provider has established a business relationship before 1 June 2023;
 
         - (c) in relation to a DNFBP other than a Category B PMS registrant—means a customer with whom the DNFBP has established a business relationship before 1 March 2018; or
 
@@ -121,6 +131,14 @@ Requirements Relating to Customer Due Diligence and Record-keeping
         - (d) any board, commission, committee or other body, whether paid or unpaid, appointed by the Chief Executive or the Government; and
 
         - (e) any board, commission, committee or other body that has power to act in a public capacity under or for the purposes of any enactment; (Amended 15 of 2022 s. 33)
+
+      - recognized digital identification system (認可數碼識別系統) means—
+
+        - (a) in relation to a financial institution or a DNFBP who is a TCSP licensee or a Category B PMS registrant, a digital identification system that is a reliable and independent source that is recognized by the relevant authority; or
+
+        - (b) in relation to a DNFBP who is an accounting professional, an estate agent or a legal professional, a digital identification system that is a reliable and independent source that is recognized by the relevant regulatory body; (Added 15 of 2022 s. 33)
+
+      - virtual asset transfer (虛擬資產轉賬)—see section 13A(1) of this Schedule. (Added 15 of 2022 s. 33)
 
     - (Amended 15 of 2022 s. 33)
 
@@ -152,7 +170,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) the relevant authority or any other relevant authority;
 
-          - (iii) an authority in a place outside Hong Kong that performs functions similar to those of the relevant authority or any other relevant authority; or
+          - (iii) an authority in a place outside Hong Kong that performs functions similar to those of the relevant authority or any other relevant authority; (Amended 15 of 2022 s. 33)
+
+          - (iiia) a recognized digital identification system; or (Added 15 of 2022 s. 33)
 
           - (iv) any other reliable and independent source that is recognized by the relevant authority;
 
@@ -162,7 +182,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) the relevant regulatory body;
 
-          - (iii) an authority in a place outside Hong Kong that performs functions similar to those of the relevant regulatory body; or
+          - (iii) an authority in a place outside Hong Kong that performs functions similar to those of the relevant regulatory body; (Amended 15 of 2022 s. 33)
+
+          - (iiia) a recognized digital identification system; or (Added 15 of 2022 s. 33)
 
           - (iv) any other reliable and independent source that is recognized by the relevant regulatory body; (Added 4 of 2018 s. 26)
 
@@ -204,11 +226,27 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (b) before carrying out for the customer an occasional transaction involving an amount equal to or above $120,000 or an equivalent amount in any other currency, whether the transaction is carried out in a single operation or in several operations that appear to the financial institution or the DNFBP to be linked;
 
-        - (c) despite paragraph (b), before carrying out for the customer an occasional transaction that is a wire transfer involving an amount equal to or above $8,000 or an equivalent amount in any other currency, whether the transaction is carried out in a single operation or in several operations that appear to the financial institution to be linked;
+        - (c) (Repealed 15 of 2022 s. 33)
 
         - (d) when the financial institution or the DNFBP suspects that the customer or the customer’s account is involved in money laundering or terrorist financing;
 
         - (e) when the financial institution or the DNFBP doubts the veracity or adequacy of any information previously obtained for the purpose of identifying the customer or for the purpose of verifying the customer’s identity.
+
+      - (1A) Subject to section 4 of this Schedule and despite subsection (1)(b), a financial institution must carry out customer due diligence measures in relation to a customer before carrying out for the customer an occasional transaction that is—
+
+        - (a) a wire transfer involving an amount equal to or above $8,000 or an equivalent amount in any other currency; or
+
+        - (b) a virtual asset transfer involving virtual assets that amount to no less than $8,000,
+
+      - whether the transaction is carried out in a single operation or in several operations that appear to the financial institution to be linked. (Added 15 of 2022 s. 33)
+
+      - (1B) Subject to section 4 of this Schedule and despite subsection (1)(b), a licensed VAS provider must carry out customer due diligence measures in relation to a customer before carrying out for the customer an occasional transaction that—
+
+        - (a) involves an amount equal to or above $8,000 or an equivalent amount in any other currency; and
+
+        - (b) is not a wire transfer or a virtual asset transfer,
+
+      - whether the transaction is carried out in a single operation or in several operations that appear to the licensed VAS provider to be linked. (Added 15 of 2022 s. 33)
 
       - (2) Despite subsection (1)(a), a financial institution or a DNFBP may verify the identity of a customer and any beneficial owner of the customer after establishing a business relationship with the customer if— (Amended 4 of 2018 s. 26)
 
@@ -218,7 +256,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (3) A financial institution or a DNFBP that carries out verification after establishing a business relationship with a customer under subsection (2) must complete the verification as soon as reasonably practicable after establishing the business relationship.
 
-      - (4) If a financial institution or a DNFBP is unable to comply with subsection (1) or (3), the financial institution or the DNFBP— (Amended 4 of 2018 s. 26)
+      - (4) If a financial institution or a DNFBP is unable to comply with subsection (1), (1A), (1B) or (3), the financial institution or the DNFBP— (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
         - (a) must not establish a business relationship or carry out any occasional transaction with that customer; or
 
@@ -228,9 +266,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - 4. Simplified customer due diligence
 
-      - (1) In any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, a financial institution or a DNFBP may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (ab), (c) and (d) of this Schedule in relation to a customer if the financial institution or the DNFBP has reasonable grounds to believe that the customer falls within subsection (3). (Amended 4 of 2018 s. 26)
+      - (1) In any of the circumstances set out in section 3(1)(a) and (b), (1A) and (1B) of this Schedule, a financial institution or a DNFBP may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (ab), (c) and (d) of this Schedule in relation to a customer if the financial institution or the DNFBP has reasonable grounds to believe that the customer falls within subsection (3). (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
-      - (2) If a customer of a financial institution or a DNFBP not falling within subsection (3) has in the customer’s beneficial ownership chain an entity that falls within that subsection, the financial institution or the DNFBP is not required, when carrying out the measure set out in section 2(1)(b) of this Schedule in respect of the beneficial owners in that chain in any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, to identify, or verify the identities of, the beneficial owners of that entity or of any person in that chain beyond that entity. (Amended 4 of 2018 s. 26)
+      - (2) If a customer of a financial institution or a DNFBP not falling within subsection (3) has in the customer’s beneficial ownership chain an entity that falls within that subsection, the financial institution or the DNFBP is not required, when carrying out the measure set out in section 2(1)(b) of this Schedule in respect of the beneficial owners in that chain in any of the circumstances set out in section 3(1)(a) and (b), (1A) and (1B) of this Schedule, to identify, or verify the identities of, the beneficial owners of that entity or of any person in that chain beyond that entity. (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
       - (3) The customer is—
 
@@ -272,7 +310,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (f) the government of an equivalent jurisdiction or a body in an equivalent jurisdiction that performs functions similar to those of a public body.
 
-      - (4) In any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, a financial institution or a DNFBP may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (ab), (c) and (d) of this Schedule in relation to a customer if the financial institution or the DNFBP has reasonable grounds to believe that the product related to the transaction falls within subsection (5). (Amended 4 of 2018 s. 26)
+      - (4) In any of the circumstances set out in section 3(1)(a) and (b), (1A) and (1B) of this Schedule, a financial institution or a DNFBP may, instead of carrying out all the customer due diligence measures, carry out only the measures set out in section 2(1)(a), (ab), (c) and (d) of this Schedule in relation to a customer if the financial institution or the DNFBP has reasonable grounds to believe that the product related to the transaction falls within subsection (5). (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
       - (5) The product is—
 
@@ -286,7 +324,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) a single premium of no more than $20,000 or an equivalent amount in any other currency is payable.
 
-      - (6) If a customer of a financial institution is a solicitor or a firm of solicitors, the financial institution is not required, in any of the circumstances set out in section 3(1)(a), (b) and (c) of this Schedule, to carry out the measure set out in section 2(1)(b) of this Schedule in relation to an account—
+      - (6) If a customer of a financial institution is a solicitor or a firm of solicitors, the financial institution is not required, in any of the circumstances set out in section 3(1)(a) and (b), (1A) and (1B) of this Schedule, to carry out the measure set out in section 2(1)(b) of this Schedule in relation to an account— (Amended 15 of 2022 s. 33)
 
         - (a) that is kept in the name of the customer;
 
@@ -325,6 +363,14 @@ Requirements Relating to Customer Due Diligence and Record-keeping
         - (c) a customer, or a beneficial owner of a customer, of a financial institution or a DNFBP is involved in a situation referred to in section 15 of this Schedule,
 
       - the financial institution or the DNFBP must, in monitoring the business relationship with the customer under this section, take additional measures to compensate for any risk of money laundering or terrorist financing that may be caused by the fact that the customer or beneficial owner is a customer or beneficial owner falling within paragraph (a), (b) or (c).
+
+      - (4) Subsection (3)(a) does not apply in relation to a customer of a financial institution or a DNFBP if the financial institution or the DNFBP has carried out the measure referred to in section 2(1)(a) or (ab) of this Schedule in relation to the customer on the basis of data or information provided by a recognized digital identification system. (Added 15 of 2022 s. 33)
+
+      - (5) Subsection (3)(b) does not apply in relation to a customer, or a beneficial owner of a customer, of a financial institution or a DNFBP if the financial institution or the DNFBP is satisfied that—
+
+        - (a) the customer or the beneficial owner of the customer is a former politically exposed person; and
+
+        - (b) the former politically exposed person does not present a high risk of money laundering or terrorist financing based on an appropriate risk assessment. (Added 15 of 2022 s. 33)
 
     - (Amended 4 of 2018 s. 26)
 
@@ -368,25 +414,29 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
     - 8. Requirements in this Division are additional to those in sections 3 and 5 of this Schedule In addition to complying with the requirements under sections 3 and 5 of this Schedule, a financial institution or a DNFBP must also comply with the requirements under this Division. (Amended 4 of 2018 s. 26)
 
-    - 9. Special requirements when customer is not physically present for identification purposes If a customer has not been physically present for identification purposes, a financial institution or a DNFBP must carry out at least one of the following measures— (Amended 4 of 2018 s. 26)
+    - 9. Special requirements when customer is not physically present for identification purposes
 
-      - (a) further verifying the customer’s identity on the basis of documents, data or information referred to in section 2(1)(a) or (ab) of this Schedule but not previously used for the purposes of verification of the customer’s identity under that section;
+      - (1) If a customer has not been physically present for identification purposes, a financial institution or a DNFBP must carry out at least one of the following measures— (Amended 4 of 2018 s. 26; 15 of 2022 s. 33)
 
-      - (b) taking supplementary measures to verify information relating to the customer that has been obtained by the financial institution or the DNFBP;
+        - (a) further verifying the customer’s identity on the basis of documents, data or information referred to in section 2(1)(a) or (ab) of this Schedule but not previously used for the purposes of verification of the customer’s identity under that section;
 
-      - (c) ensuring that the payment or, if there is more than one payment, the first payment made in relation to the customer’s account is carried out through an account opened in the customer’s name with—
+        - (b) taking supplementary measures to verify information relating to the customer that has been obtained by the financial institution or the DNFBP;
 
-        - (i) an authorized institution; or
+        - (c) ensuring that the payment or, if there is more than one payment, the first payment made in relation to the customer’s account is carried out through an account opened in the customer’s name with—
 
-        - (ii) an institution that—
+          - (i) an authorized institution; or
 
-          - (A) is incorporated or established in an equivalent jurisdiction;
+          - (ii) an institution that—
 
-          - (B) carries on a business similar to that carried on by an authorized institution;
+            - (A) is incorporated or established in an equivalent jurisdiction;
 
-          - (C) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
+            - (B) carries on a business similar to that carried on by an authorized institution;
 
-          - (D) is supervised for compliance with those requirements by authorities in that jurisdiction that perform functions similar to those of the Monetary Authority.
+            - (C) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
+
+            - (D) is supervised for compliance with those requirements by authorities in that jurisdiction that perform functions similar to those of the Monetary Authority.
+
+      - (2) Subsection (1) does not apply in relation to a customer of a financial institution or a DNFBP if the financial institution or the DNFBP has carried out the measure referred to in section 2(1)(a) or (ab) of this Schedule in relation to the customer on the basis of data or information provided by a recognized digital identification system. (Added 15 of 2022 s. 33)
 
     - (Amended 4 of 2018 s. 26)
 
@@ -403,6 +453,12 @@ Requirements Relating to Customer Due Diligence and Record-keeping
         - (a) has obtained approval from the senior management; and
 
         - (b) has taken reasonable measures to establish the customer’s or beneficial owner’s source of wealth and the source of the funds that are involved in the business relationship.
+
+      - (3) Subsections (1) and (2) do not apply in relation to a customer or a beneficial owner of a customer of a financial institution or a DNFBP if the financial institution or the DNFBP is satisfied that—
+
+        - (a) the customer or the beneficial owner of the customer is a former politically exposed person; and
+
+        - (b) the former politically exposed person does not present a high risk of money laundering or terrorist financing based on an appropriate risk assessment. (Added 15 of 2022 s. 33)
 
     - (Amended 4 of 2018 s. 26)
 
@@ -458,9 +514,17 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (c) a wire transfer if—
 
-          - (i) it arises from a transaction that is carried out using a credit card or debit card (such as withdrawing money from a bank account through an automated teller machine with a debit card, obtaining a cash advance on a credit card, or paying for goods or services with a credit or debit card), except when the card is used to effect a transfer of money; and
+          - (i) it arises from a transaction that is carried out using a credit card, debit card or prepaid card such as—
 
-          - (ii) the credit card or debit card number is included in the message or payment form accompanying the transfer.
+            - (A) withdrawing money from a bank account through an automated teller machine with a debit card;
+
+            - (B) obtaining a cash advance on a credit card; or
+
+            - (C) paying for goods or services with a credit card, debit card or prepaid card;
+
+          - (ii) the card is not used as a payment system to effect a person-to-person transfer; and
+
+          - (iii) the number (or equivalent unique identifier) of the credit card, debit card or prepaid card is included in the message or payment form accompanying the transfer. (Replaced 15 of 2022 s. 33)
 
       - (3) Subject to subsection (3A), before carrying out a wire transfer, a financial institution that is an ordering institution must record— (Amended 4 of 2018 s. 26)
 
@@ -571,6 +635,70 @@ Requirements Relating to Customer Due Diligence and Record-keeping
           - (b) in the absence of such an account, the person who instructs the licensed money service operator to carry out the remittance transaction;
 
         - remittance transaction (匯款交易) means a transaction for sending, or arranging for the sending of, money to a place outside Hong Kong.
+
+    - 13A. Special requirements for virtual asset transfer
+
+      - (1) For the purposes of this Schedule, a virtual asset transfer is a transaction carried out—
+
+        - (a) by an institution (ordering institution) on behalf of an originator by transferring any virtual assets; and
+
+        - (b) with a view to making the virtual assets available—
+
+          - (i) to that person or another person (recipient); and
+
+          - (ii) at an institution (beneficiary institution), which may be the ordering institution or another institution,
+
+      - whether or not one or more other institutions (intermediary institutions) participate in completion of the transfer of the virtual assets.
+
+      - (2) Subject to subsection (3), before carrying out a virtual asset transfer, a financial institution that is an ordering institution must obtain and record—
+
+        - (a) the originator’s name;
+
+        - (b) the number of the originator’s account maintained with the financial institution and from which the virtual assets are transferred or, in the absence of such an account, a unique reference number assigned to the virtual asset transfer by the financial institution;
+
+        - (c) the originator’s address, the originator’s customer identification number or identification document number or, if the originator is an individual, the originator’s date and place of birth;
+
+        - (d) the recipient’s name; and
+
+        - (e) the number of the recipient’s account maintained with the beneficiary institution and to which the virtual assets are transferred or, in the absence of such an account, a unique reference number assigned to the virtual asset transfer by the beneficiary institution.
+
+      - (3) Subsection (2)(c) does not apply to a virtual asset transfer involving virtual assets that amount to less than $8,000.
+
+      - (4) A financial institution that is an ordering institution in a virtual asset transfer must submit to the beneficiary institution—
+
+        - (a) for a virtual asset transfer involving virtual assets that amount to not less than $8,000—the information obtained and held under subsection (2)(a), (b), (c), (d) and (e) in relation to the transfer; and
+
+        - (b) for a virtual asset transfer involving virtual assets that amount to less than $8,000—the information obtained and held under subsection (2)(a), (b), (d) and (e) in relation to the transfer,
+
+      - in accordance with codes and guidelines published under any provision of this Ordinance.
+
+      - (5) A financial institution that is a beneficiary institution in a virtual asset transfer must obtain and record the information under subsection (2) submitted to it by the institution from which it receives the transfer instruction.
+
+      - (6) If a financial institution acts as an intermediary institution in a virtual asset transfer, it must transmit all of the information that it receives with the transfer to the institution to which it passes on the transfer instruction.
+
+      - (7) Where a financial institution (instructed institution) is a beneficiary institution or an intermediary institution in a virtual asset transfer—
+
+        - (a) if the institution (instructing institution) from which the instructed institution receives the transfer instruction does not submit all of the information under subsection (2) in connection with the virtual asset transferred to the instructed institution, the instructed institution must as soon as reasonably practicable—
+
+          - (i) obtain the missing information from the instructing institution; and
+
+          - (ii) if the missing information cannot be obtained, either—
+
+            - (A) consider restricting or terminating its business relationship with the instructing institution; or
+
+            - (B) take reasonable measures to mitigate the risk of money laundering or terrorist financing involved; or
+
+        - (b) if the instructed institution is aware that any of the information submitted to it that purports to be information under subsection (2) is incomplete or meaningless, it must as soon as reasonably practicable take reasonable measures to mitigate the risk of money laundering or terrorist financing involved.
+
+      - (8) In this section—
+
+        - originator (匯款人), in relation to a virtual asset transfer, means—
+
+          - (a) the person from whose account with the ordering institution the virtual assets for the virtual asset transfer are transferred; or
+
+          - (b) in the absence of such an account, the person who instructs the ordering institution to carry out the virtual asset transfer.
+
+    - (Added 15 of 2022 s. 33)
 
     - 14. Special requirements for correspondent banking relationships
 
@@ -774,6 +902,8 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (2) A financial institution that carries out wire transfers must establish and maintain effective procedures for identifying and handling wire transfers in relation to which section 12(5) of this Schedule has not been complied with.
 
+      - (2A) A financial institution that carries out virtual asset transfers must establish and maintain effective procedures for identifying and handling virtual asset transfers in relation to which section 13A(4) of this Schedule has not been complied with. (Added 15 of 2022 s. 33)
+
       - (3) A financial institution or a DNFBP must, in respect of each kind of customer, business relationship, product and transaction, establish and maintain effective procedures not inconsistent with this Ordinance for the purpose of carrying out the duties under sections 3, 4, 5, 9, 10 and 15 of this Schedule.
 
     - (Amended 4 of 2018 s. 26)
@@ -795,6 +925,8 @@ Requirements Relating to Customer Due Diligence and Record-keeping
     - (2) Records required to be kept under subsection (1)(a) must be kept for a period of at least 5 years beginning on the date on which the transaction is completed, regardless of whether the business relationship ends during that period.
 
     - (3) Records required to be kept under subsection (1)(b) must be kept throughout the continuance of the business relationship with the customer and for a period of at least 5 years beginning on the date on which the business relationship ends.
+
+    - (3A) Records required to be kept under subsection (1)(b) for an occasional transaction that is carried out in any of the circumstances set out in section 3(1)(b), (1A) and (1B) of this Schedule must be kept for a period of at least 5 years beginning on the date on which the occasional transaction is completed. (Added 15 of 2022 s. 33)
 
     - (4) A relevant authority or a regulatory body may, by notice in writing to a financial institution or a DNFBP, require the financial institution or the DNFBP to keep the records relating to a specified transaction or customer for a period specified by the relevant authority or the regulatory body that is longer than that referred to in subsection (2) or (3), as the case requires, if— (Amended 4 of 2018 s. 26)
 
