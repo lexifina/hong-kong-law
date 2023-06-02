@@ -378,4 +378,6 @@ Item | Periods | Rate of interest
 
 187. | On or after 6 March 2023 and before 3 April 2023 (L.N. 20 of 2023; L.N. 64 of 2023) | 0.7500% per annum
 
-188. | On or after 3 April 2023 (L.N. 64 of 2023) | 0.7667% per annum
+188. | On or after 3 April 2023 and before 5 June 2023 (L.N. 64 of 2023; L.N. 93 of 2023) | 0.7667% per annum
+
+189. | On or after 5 June 2023 (L.N. 93 of 2023) | 0.8083% per annum
