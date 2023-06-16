@@ -25,3 +25,7 @@ Care and attention home | Aged home | Self-care hostel
 5. | Nurse | Unless a health worker is present, 1 nurse for every 60 residents or part thereof, between 7 a.m. and 6 p.m. | Unless a health worker is present, 1 nurse | No nurse required
 
 Note: | As an additional requirement for a care and attention home or an aged home, any 2 persons being a home manager, an ancillary worker, a care worker, a health worker or a nurse shall be on duty between 6 p.m. and 7 a.m.
+
+Editorial Note:
+
+The Residential Care Homes Legislation (Miscellaneous Amendments) Ordinance 2023 (12 of 2023) will be replacing the existing Schedule 1 with a new one. See sections 1 and 50 of 12 of 2023 for details. Please note that section 50 of 12 of 2023 has come into operation on 16 June 2023 in so far as it relates to the new section 6 of Schedule 1.

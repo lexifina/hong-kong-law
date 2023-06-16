@@ -37,3 +37,7 @@ Notes:
   - (b) not more than 60 residents, at least 1 designated person must be on site (whether or not on duty) and 1 other designated person must be on call (whether or not on site) between 6 p.m. and 7 a.m.
 
 - 4. As an additional requirement for a low care level home, at least 1 designated person must be on site (whether or not on duty) and 1 other designated person must be on call (whether or not on site) between 6 p.m. and 7 a.m.
+
+Editorial Note:
+
+The Residential Care Homes Legislation (Miscellaneous Amendments) Ordinance 2023 (12 of 2023) will be replacing the existing Schedule with a new Schedule 1. See sections 1 and 105 of 12 of 2023 for details. Please note that section 105 of 12 of 2023 has come into operation on 16 June 2023 in so far as it relates to the new section 6 of Schedule 1.
