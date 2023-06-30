@@ -36,7 +36,7 @@ The Air Navigation (Dangerous Goods) Regulations
 
     - States concerned has the same meaning as it has in Chapter 1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011; L.N. 182 of 2013)
 
-    - Technical Instructions* means the 2021–2022 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016; L.N. 13 of 2018; L.N. 177 of 2019; L.N. 56 of 2021)
+    - Technical Instructions* means the 2023–2024 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013; L.N. 92 of 2016; L.N. 13 of 2018; L.N. 177 of 2019; L.N. 56 of 2021; L.N. 73 of 2023)
 
     - unit load device means any type of freight container including any container designed for loading on an aircraft.
 
@@ -260,4 +260,4 @@ Table of Comparison
 
 Editorial Note:
 
-* | The text of the 2021–2022 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
+* | The text of the 2023–2024 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
