@@ -158,7 +158,7 @@ Commissioner for Transport | Tsing Sha Control Area (Tolls, Fees and Charges) Re
 
 Commissioner of Correctional Services | Training Centres Ordinance (Cap. 280).
 
-Commissioner of Customs and Excise | Import and Export Ordinance (Cap. 60), sections 7, 12, 27(3) and (3B), 28(2A) and (10), 29A(1) and 33A(1)(b).
+Commissioner of Customs and Excise | Import and Export Ordinance (Cap. 60), sections 7, 12, 13G, 13H, 27(3) and (3B), 28(2A) and (10), 29A(1) and 33A(1)(b). (16 of 2023 s. 4)
 
 Commissioner of Customs and Excise | Import and Export (Registration) Regulations (Cap. 60 sub. leg. E).
 
