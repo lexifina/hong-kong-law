@@ -4,6 +4,6 @@
 
 Major Designated Projects Requiring Environmental Impact Assessment Reports
 
-- 1. Engineering feasibility study of urban development projects with a study area covering more than 20 ha or involving a total population of more than 100 000.
+- 1. An urban development or redevelopment project covering an area of more than 50 ha. (Replaced L.N. 77 of 2023)
 
-- 2. Engineering feasibility study of redevelopment projects with a study area covering more than 100 000 existing or new population.
+- 2. (Repealed L.N. 77 of 2023)
