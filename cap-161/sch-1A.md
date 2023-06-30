@@ -160,6 +160,50 @@ List of Recognized Medical Qualifications
 
 - 75. | (a) Singapore; (b) The United Kingdom | Jointly by— (a) Nanyang Technological University; and (b) Imperial College London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme jointly offered by Nanyang Technological University, Singapore and Imperial College London, the United Kingdom) (Added L.N. 239 of 2022)
 
+- 76. | Australia | University of Western Australia | Doctor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 77. | China | Fudan University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 78. | China | Fudan University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士專業”) (8-year Clinical Medicine (a translation of “臨床醫學專業八年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 79. | China | Shanghai Jiao Tong University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 80. | China | Shanghai Jiao Tong University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士專業”) (8-year Clinical Medicine (a translation of “臨床醫學專業八年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 81. | China | Sun Yat-sen University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 82. | China | Tsinghua University | Doctor of Medicine (a translation of “臨床醫學博士專業”) (8-year Clinical Medicine (Medical Experimental Class) (a translation of “臨床醫學專業八年制(醫學實驗班)”) medical programme) (Added L.N. 110 of 2023)
+
+- 83. | China | Zhejiang University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 84. | The United Kingdom | Newcastle University | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 85. | The United Kingdom | Queen Mary University of London | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme offered at London Campus) (Added L.N. 110 of 2023)
+
+- 86. | The United Kingdom | University of Bristol | Bachelor of Medicine, Bachelor of Surgery (6-year Gateway to Medicine medical programme) (Added L.N. 110 of 2023)
+
+- 87. | The United Kingdom | University of Cambridge | Bachelor of Surgery; Bachelor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 88. | The United Kingdom | University of Leicester | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 89. | The United Kingdom | University of Leicester | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 90. | The United Kingdom | University of Liverpool | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 91. | The United Kingdom | University of Manchester | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 92. | The United Kingdom | University of Oxford | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 93. | The United Kingdom | University of Southampton | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 94. | The United Kingdom | University of Southampton | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 95. | The United States of America | Case Western Reserve University | Doctor of Philosophy; Doctor of Medicine (7-year medical programme) (Added L.N. 110 of 2023)
+
+- 96. | The United States of America | Duke University | Doctor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 97. | The United States of America | University of Colorado | Doctor of Medicine (4-year medical programme offered at Anschutz Medical Campus) (Added L.N. 110 of 2023)
+
 - (Amended L.N. 56 of 2022)
 
 - Part 2
@@ -316,8 +360,56 @@ List of Recognized Medical Qualifications
 
 - 74. | The United States of America | Vanderbilt University | Doctor of Medicine (4-year medical programme) (Added L.N. 239 of 2022)
 
-- 75. | (a) Singapore; (b) The United Kingdom | Jointly by— (a) Nanyang Technological University; and (b) Imperial College London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme jointly offered by Nanyang Technological University, Singapore and Imperial College London, the United Kingdom) (Added L.N. 239 of 2022)
+- 75. | (a) Singapore; (b) The United Kingdom | Jointly by— (a) Nanyang Technological University; and (b) Imperial College London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme jointly offered by Nanyang Technological University, Singapore and Imperial College London, the United Kingdom) (Replaced L.N. 110 of 2023)
 
-- (Amended L.N. 56 of 2022)
+- 76. | Australia | Australian National University | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
 
-(Schedule 1A added 37 of 2021 s. 14)
+- 77. | Australia | University of Western Australia | Doctor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 78. | China | Fudan University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 79. | China | Fudan University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士專業”) (8-year Clinical Medicine (a translation of “臨床醫學專業八年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 80. | China | Shanghai Jiao Tong University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 81. | China | Shanghai Jiao Tong University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士專業”) (8-year Clinical Medicine (a translation of “臨床醫學專業八年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 82. | China | Sun Yat-sen University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 83. | China | Tsinghua University | Doctor of Medicine (a translation of “臨床醫學博士專業”) (8-year Clinical Medicine (Medical Experimental Class) (a translation of “臨床醫學專業八年制(醫學實驗班)”) medical programme) (Added L.N. 110 of 2023)
+
+- 84. | China | Zhejiang University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 110 of 2023)
+
+- 85. | The United Kingdom | Newcastle University | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 86. | The United Kingdom | Queen Mary University of London | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme offered at London Campus) (Added L.N. 110 of 2023)
+
+- 87. | The United Kingdom | University of Birmingham | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 88. | The United Kingdom | University of Bristol | Bachelor of Medicine, Bachelor of Surgery (6-year Gateway to Medicine medical programme) (Added L.N. 110 of 2023)
+
+- 89. | The United Kingdom | University of Cambridge | Bachelor of Surgery; Bachelor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 90. | The United Kingdom | University of Leicester | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 91. | The United Kingdom | University of Leicester | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 92. | The United Kingdom | University of Liverpool | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 93. | The United Kingdom | University of Manchester | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 94. | The United Kingdom | University of Oxford | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 95. | The United Kingdom | University of Sheffield | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 96. | The United Kingdom | University of Southampton | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 97. | The United Kingdom | University of Southampton | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 110 of 2023)
+
+- 98. | The United States of America | Case Western Reserve University | Doctor of Philosophy; Doctor of Medicine (7-year medical programme) (Added L.N. 110 of 2023)
+
+- 99. | The United States of America | Duke University | Doctor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
+
+- 100. | The United States of America | University of Colorado | Doctor of Medicine (4-year medical programme offered at Anschutz Medical Campus) (Added L.N. 110 of 2023)
+
+- (Amended L.N. 56 of 2022) (Schedule 1A added 37 of 2021 s. 14)
