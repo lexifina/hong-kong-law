@@ -24,7 +24,7 @@ Item | Election | Limit
 
 5. | An election to elect a member or members of the Election Committee | $5,000
 
-6. | An election to elect a member or members of a District Council | $3,000
+6. | An election to elect a member or members of a District Council (Amended 19 of 2023 s. 181) | $5,000
 
 7. | An election to elect a member or members of the Heung Yee Kuk | $600
 
@@ -33,3 +33,7 @@ Item | Election | Limit
 9. | An election to elect a Rural Representative (Amended 5 of 2014 s. 73) | $600
 
 (Amended 11 of 2019 s. 16)
+
+Editorial Note:
+
+See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendment by 19 of 2023 to this Schedule.

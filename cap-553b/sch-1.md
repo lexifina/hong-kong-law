@@ -110,7 +110,7 @@ Item | Enactment | Provision
 
 62. | (Repealed L.N. 268 of 2001)
 
-63. | District Councils Ordinance (Cap. 547) | Sections 23(1), 25(1), 34(1)(b), 35(2) and 63(1) and Schedule 5, section 2 (3 of 2013 s. 17)
+63. | District Councils Ordinance (Cap. 547) | Sections 15(1), 17A(1), 23(1), 25(1), 34(1) and (1A)(c) and 35(2) (3 of 2013 s. 17; 19 of 2023 s. 193)
 
 64. | Election (Corrupt and Illegal Conduct) Ordinance (Cap. 554) | Sections 37(1) and (2) and 37A(4) and (6) (L.N. 167 of 2000; 18 of 2011 s. 50)
 
@@ -129,3 +129,7 @@ Item | Enactment | Provision
 72. | Arbitration Ordinance (Cap. 609) | Sections 26(1), 31(7), 32(1)(a) and (3), 33(1), 50, 52, 54(1), 66(2), 67(1), 74(2) and 102(a) (17 of 2010 s. 112)
 
 73. | Private Columbaria Ordinance (Cap. 630) | Sections 21(2)(b)(ii), 23(1)(a) and (3), 39(3)(a), (7) and (8), 40(4), 41(2)(a) and (3), 42(4), 43(2)(a) and (4), 44(1), (3)(b)(i) and (5), 49(3)(b) and (g), 50(1) and (2), 53(1) and (4), 56(2)(b), 57(10), 63(2)(b), 71(b) and (c), 75(1), (4)(a) and (8), 80(4), 84(2), 86(3)(b) and (13), 87(1)(b), 93(1), (3) and (4)(b), 98(1), 107(1)(b)(i), (ii)(A), (iii) and (iv) and 110(4)(b), section 6(1) of Schedule 1, sections 2(2)(b) and (c) and 5 of Schedule 3 and sections 4(3)(a), 13, 15(2) and 18(3) and (4) of Schedule 5 (8 of 2017 s. 133; E.R. 4 of 2017)
+
+Editorial Note:
+
+See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendment by 19 of 2023 to this Schedule.

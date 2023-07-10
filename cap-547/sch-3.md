@@ -1,48 +1,56 @@
 # Schedule 3
 
-[ss. 5, 8 & 9] (Amended 3 of 2013 s. 13) (Format changes—E.R. 1 of 2012)
+(See Special Remarks)
 
-- Part 1 Number of Elected Members (Amended 3 of 2013 s. 13)
+[ss. 5, 8, 11 & 17]
 
-- Item | District Council | Number of elected members
+Composition of District Councils
 
-- 1. | Central and Western District Council | 15
+(Amended 3 of 2013 s. 13; 19 of 2023 s. 78) (Format changes—E.R. 1 of 2012)
 
-- 2. | Eastern District Council | 35
+- Part 1 Number of Members
 
-- 3. | Kowloon City District Council | 25
+- Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6
 
-- 4. | Kwun Tong District Council | 40
+- Item | District Council | Number of appointed members | Number of members to be returned for District Committees constituencies | Number of members to be returned for District Council geographical constituencies | Number of ex officio members
 
-- 5. | Sham Shui Po District Council | 25
+- 1. | Central and Western District Council | 8 | 8 | 4 | 0
 
-- 6. | Southern District Council | 17
+- 2. | Eastern District Council | 12 | 12 | 6 | 0
 
-- 7. | Wan Chai District Council | 13
+- 3. | Kowloon City District Council | 8 | 8 | 4 | 0
 
-- 8. | Wong Tai Sin District Council | 25
+- 4. | Kwun Tong District Council | 16 | 16 | 8 | 0
 
-- 9. | Yau Tsim Mong District Council | 20
+- 5. | Sham Shui Po District Council | 8 | 8 | 4 | 0
 
-- 10. | Islands District Council | 10
+- 6. | Southern District Council | 8 | 8 | 4 | 0
 
-- 11. | Kwai Tsing District Council | 31
+- 7. | Wan Chai District Council | 4 | 4 | 2 | 0
 
-- 12. | North District Council | 18
+- 8. | Wong Tai Sin District Council | 8 | 8 | 4 | 0
 
-- 13. | Sai Kung District Council | 29
+- 9. | Yau Tsim Mong District Council | 8 | 8 | 4 | 0
 
-- 14. | Sha Tin District Council | 41
+- 10. | Islands District Council | 4 | 4 | 2 | 8
 
-- 15. | Tai Po District Council | 19
+- 11. | Kwai Tsing District Council | 13 | 12 | 6 | 1
 
-- 16. | Tsuen Wan District Council | 19
+- 12. | North District Council | 8 | 8 | 4 | 4
 
-- 17. | Tuen Mun District Council | 31
+- 13. | Sai Kung District Council | 12 | 12 | 6 | 2
 
-- 18. | Yuen Long District Council | 39
+- 14. | Sha Tin District Council | 17 | 16 | 8 | 1
 
-- (Amended 33 of 2002 s. 10; L.N. 139 of 2006; L.N. 161 of 2010; 3 of 2013 s. 13; L.N. 181 of 2013; L.N. 12 of 2014; L.N. 8 of 2018)
+- 15. | Tai Po District Council | 8 | 8 | 4 | 2
+
+- 16. | Tsuen Wan District Council | 8 | 8 | 4 | 2
+
+- 17. | Tuen Mun District Council | 13 | 12 | 6 | 1
+
+- 18. | Yuen Long District Council | 16 | 16 | 8 | 6
+
+- (Part 1 replaced 19 of 2023 s. 78)
 
 - Part 2 Rural Committees in Districts
 

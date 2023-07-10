@@ -30,7 +30,7 @@ Item | Enactment | Provision
 
 12. | (Repealed L.N. 152 of 2006)
 
-13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg. A) | Sections 14(2) and 15(6) (L.N. 261 of 2000)
+13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Geographical Constituencies) Regulation (Cap. 541 sub. leg. A) | Sections 14(2) and 15(6) (L.N. 261 of 2000; 19 of 2023 s. 194)
 
 14. | Electoral Affairs Commission (Registration) (Electors for Legislative Council Functional Constituencies) (Voters for Election Committee Subsectors) (Members of Election Committee) Regulation (Cap. 541 sub. leg. B) | Sections 30(2), 31(7) and 31A(2) (L.N. 261 of 2000; L.N. 268 of 2001; 12 of 2014 s. 52)
 
@@ -50,7 +50,7 @@ Item | Enactment | Provision
 
 19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
-20. | District Councils Ordinance (Cap. 547) | Sections 23(2), 25(2), 35(2) and 63(2) (3 of 2013 s. 18)
+20. | District Councils Ordinance (Cap. 547) | Sections 15(2), 17A(4), 23(2), 25(2) and 35(2) (3 of 2013 s. 18; 19 of 2023 s. 194)
 
 21. | (Repealed L.N. 156 of 2013)
 
@@ -65,3 +65,7 @@ Item | Enactment | Provision
 27. | (Repealed L.N. 215 of 2007)
 
 28. | Arbitration Ordinance (Cap. 609) | Section 67(1) (17 of 2010 s. 112)
+
+Editorial Note:
+
+See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendments by 19 of 2023 to this Schedule.
