@@ -14,6 +14,10 @@ Reporting Agencies
 
 - 4. Canossa Hospital (Caritas)
 
+- 4A. Caritas Bianchi College of Careers (Added L.N. 84 of 2023)
+
+- 4B. Caritas Institute of Higher Education (Added L.N. 84 of 2023)
+
 - 5. Caritas-Hong Kong
 
 - 6. Christian Family Service Centre
@@ -28,6 +32,8 @@ Reporting Agencies
 
 - 10. Correctional Services Department
 
+- 10A. CUHK Medical Centre (Added L.N. 84 of 2023)
+
 - 11. Customs and Excise Department
 
 - 12. DACARS, Limited
@@ -38,15 +44,25 @@ Reporting Agencies
 
 - 15. Evangel Hospital
 
+- 15AA. Gleneagles Hospital Hong Kong (Added L.N. 84 of 2023)
+
 - 15A. Glorious Praise Fellowship (Hong Kong) Limited (Added L.N. 57 of 2011)
 
-- 16. Hong Kong Adventist Hospital
+- 15B. Gratia Christian College (Added L.N. 84 of 2023)
+
+- 15C. HKCT Institute of Higher Education (Added L.N. 84 of 2023)
+
+- 15D. HKSH Eastern Medical Centre (Added L.N. 84 of 2023)
+
+- 16. Hong Kong Adventist Hospital—Stubbs Road (Amended L.N. 84 of 2023)
+
+- 16A. Hong Kong Adventist Hospital—Tsuen Wan (Added L.N. 84 of 2023)
 
 - 17. Hong Kong Baptist Hospital
 
 - 18. Hong Kong Baptist University
 
-- 19. Hong Kong Central Hospital
+- 19. (Repealed L.N. 84 of 2023)
 
 - 20. Hong Kong Children & Youth Services
 
@@ -56,13 +72,17 @@ Reporting Agencies
 
 - 23. Hong Kong Lutheran Social Service
 
+- 23A. Hong Kong Metropolitan University (Added L.N. 84 of 2023)
+
 - 24. Hong Kong Playground Association
 
 - 25. Hong Kong Police Force
 
-- 26. Hong Kong Sanatorium and Hospital Limited
+- 26. Hong Kong Sanatorium & Hospital Limited (Amended L.N. 84 of 2023)
 
-- 26A. Hong Kong Sheng Kung Hui Welfare Council (Added L.N. 57 of 2011)
+- 26A. Hong Kong Sheng Kung Hui Welfare Council Limited (Added L.N. 57 of 2011. Amended L.N. 84 of 2023)
+
+- 26B. Hong Kong Shue Yan University (Added L.N. 84 of 2023)
 
 - 27. Hong Kong Young Women’s Christian Association
 
@@ -72,7 +92,7 @@ Reporting Agencies
 
 - 30. KELY Support Group
 
-- 31. Ling Oi Centre, Finnish Evangelical Lutheran Mission
+- 31. (Repealed L.N. 84 of 2023)
 
 - 32. Lingnan University
 
@@ -100,7 +120,7 @@ Reporting Agencies
 
 - 43. The Boys’ and Girls’ Clubs Association of Hong Kong
 
-- 44. The Boys’ Brigade, Hong Kong Limited (Amended L.N. 57 of 2011)
+- 44. The Boys’ Brigade, Hong Kong (Amended L.N. 57 of 2011; L.N. 84 of 2023)
 
 - 45. The Chinese University of Hong Kong
 
@@ -113,6 +133,10 @@ Reporting Agencies
 - 48A. The Education University of Hong Kong (Added 6 of 2016 s. 2)
 
 - 49. The Evangelical Lutheran Church of Hong Kong
+
+- 49A. The Hang Seng University of Hong Kong (Added L.N. 84 of 2023)
+
+- 49B. The Hong Kong Academy for Performing Arts (Added L.N. 84 of 2023)
 
 - 50. The Hong Kong Council of Social Service
 
@@ -136,11 +160,15 @@ Reporting Agencies
 
 - 60. The University of Hong Kong
 
-- 61. Tsuen Wan Adventist Hospital
+- 61. (Repealed L.N. 84 of 2023)
+
+- 61AA. Tung Wah College (Added L.N. 84 of 2023)
 
 - 61A. Tung Wah Group of Hospitals (Added L.N. 57 of 2011)
 
-- 62. Sha Tin International Medical Centre Union Hospital
+- 62. Union Hospital (Amended L.N. 84 of 2023)
+
+- 62A. UOW College Hong Kong (Added L.N. 84 of 2023)
 
 - 63. Vocational Training Council
 
