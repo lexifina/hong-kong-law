@@ -148,6 +148,10 @@ s-081A.md
 s-081B.md
 s-081C.md
 s-081D.md
+s-081DA.md
+s-081DB.md
+s-081DC.md
+s-081DD.md
 s-081E.md
 s-081F.md
 s-082.md
