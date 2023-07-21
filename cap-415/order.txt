@@ -79,6 +79,11 @@ s-077.md
 s-078.md
 s-079.md
 s-080.md
+s-080A.md
+s-080B.md
+s-080C.md
+s-080D.md
+s-080E.md
 s-081.md
 s-082.md
 s-083.md
@@ -107,4 +112,5 @@ sch-1.md
 sch-2.md
 sch-3.md
 sch-4.md
+sch-4A.md
 sch-5.md

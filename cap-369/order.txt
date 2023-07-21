@@ -37,6 +37,17 @@ s-033.md
 s-034.md
 s-034A.md
 s-035.md
+s-035A.md
+s-035B.md
+s-035C.md
+s-035D.md
+s-035E.md
+s-035F.md
+s-035G.md
+s-035H.md
+s-035I.md
+s-035J.md
+s-035K.md
 s-036.md
 s-037.md
 s-038.md
@@ -117,6 +128,7 @@ s-112.md
 s-112A.md
 s-112B.md
 s-113.md
+s-113A.md
 s-114.md
 s-115.md
 s-116.md

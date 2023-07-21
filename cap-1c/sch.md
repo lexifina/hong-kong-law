@@ -316,94 +316,6 @@ Director of Lands | Road Traffic Ordinance (Cap. 374), sections 123(3) and (4) a
 
 Director of Marine | Dangerous Goods (Shipping) Regulation 2012 (Cap. 295 sub. leg. F), sections 4(2) and (3), 8(1) and (2), 9(1) and (2), 15(1) and (2), 19(1), 20(1), 21(1), 23(1), 24(1) and (2), 25(1), (2) and (3), 26(1) and (2) and 27(1) and (2). (29 of 2021 s. 11)
 
-Director of Marine | Merchant Shipping (Safety) Ordinance (Cap. 369), sections 15(2)(i), 17(2)(i), 18(2)(i), 21(2), 31, 38(4), 51(2) and (3), 57(2), 62, 63 and 114(1). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Minimum Passenger Space) Regulations (Cap. 369 sub. leg. E), regulations 16(5), 23(1) and (2), 30(10) and 43. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Anchors and Chain Cables) Regulations (Cap. 369 sub. leg. Q), regulation 11. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg. R), regulations 1(7), 10(4) and 36(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S), regulation 1(4). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Fire Protection) (Ships Built Before 25 May 1980) Regulations (Cap. 369 sub. leg. W), regulations 3(4), 6(2), 31(2), 48(2) and 74(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Fire Appliances) (Ships Built On or After 25 May 1980 but Before 1 September 1984) Regulations (Cap. 369 sub. leg. X), regulations 5(2), 11(4), 33(3), 56(2), 60(2) and 62(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Fire Protection) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. Y), regulations 5(1)(b), 10(4), 31(2)(b), 44(2), 46(2), 58(3), 85(2)(b), 86(2), 101(2)(b), 102(2) and 145. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Grain) Regulations (Cap. 369 sub. leg. AA), regulation 8. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Means of Access) Regulations (Cap. 369 sub. leg. AH), regulation 3(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Passenger Ship Construction) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg. AL), regulations 2, 8(4) and (6), 62(2)(b), 63(2), 78(2)(b), 79(2), 114(2), 128(7)(a) and 131(2)(g). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Passenger Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. AM), regulations 2 and 8(2) and (5). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Protective Clothing and Equipment) Regulations (Cap. 369 sub. leg. AO), regulation 3(4). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Radio Installations Survey) Regulations (Cap. 369 sub. leg. AQ), regulation 3(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Ship’s Manning) Regulation (Cap. 369 sub. leg. AS), section 3. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Subdivision and Damage Stability of Cargo Ships) Regulation (Cap. 369 sub. leg. AT), section 3. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Carriage of Cargoes and Oil Fuel) Regulation (Cap. 369 sub. leg. AV), section 2(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (High Speed Craft) Regulation (Cap. 369 sub. leg. AW), section 12. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Life-Saving Appliances and Arrangements, Musters and Training) Regulation (Cap. 369 sub. leg. AY), section 7(2) and (3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg. H), section 1(4). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Prevention and Control of Pollution) (Charges for Discharge of Polluting Waste) Regulation (Cap. 413 sub. leg. I), section 3(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Prevention of Pollution by Sewage) Regulation (Cap. 413 sub. leg. K), section 3(4). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Prevention of Pollution by Garbage) Regulation (Cap. 413 sub. leg. O), section 14. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Prevention of Air Pollution) Regulation (Cap. 413 sub. leg. P), section 99. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Control of Ballast Water and Sediments) Regulation (Cap. 413 sub. leg. Q), section 40. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Health and Safety: General Duties) Regulation (Cap. 478 sub. leg. C), section 7A. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Hours of Rest) Regulation (Cap. 478 sub. leg. D), section 3(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Safe Movement on Board Ship) Regulation (Cap. 478 sub. leg. G), section 3(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J), section 3(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Code of Safe Working Practices) Regulation (Cap. 478 sub. leg. M), section 3(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Medical Examination) Regulation (Cap. 478 sub. leg. O), section 3(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Safety Officials and Reporting of Accidents, Dangerous Occurrences and Occupational Diseases) Regulation (Cap. 478 sub. leg. R), section 3(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Certification and Watchkeeping) Regulation (Cap. 478 sub. leg. T), section 3(3). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Engine Room Watch Ratings and Electro-technical Ratings) Regulation (Cap. 478 sub. leg. V), section 3(2). (L.N. 9 of 2020; E.R. 3 of 2022)
-
-Director of Marine | Merchant Shipping (Seafarers) (Medical Stores) Regulation (Cap. 478 sub. leg. X), section 3(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Passenger Ships—Training) Regulation (Cap. 478 sub. leg. AD), section 2(2). (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Working and Living Conditions) Regulation (Cap. 478 sub. leg. AF), section 114. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Tankers) Regulation (Cap. 478 sub. leg. AG), section 13. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Navigational Watch) Regulation (Cap. 478 sub. leg. AH), section 12. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Certificates of Proficiency for Able Seafarers) Regulation (Cap. 478 sub. leg. AI), section 14. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Safety, Security and Designated Duties Training) Regulation (Cap. 478 sub. leg. AJ), section 16. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Ships Using Low-flashpoint Fuels) Regulation (Cap. 478 sub. leg. AK), section 13. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Seafarers) (Ships Operating in Polar Waters) Regulation (Cap. 478 sub. leg. AL), section 13. (L.N. 9 of 2020)
-
-Director of Marine | Merchant Shipping (Security of Ships and Port Facilities) Ordinance (Cap. 582), section 14. (L.N. 9 of 2020)
-
 Director of Marketing | Agricultural Products (Marketing) Ordinance (Cap. 277).
 
 Director of Marketing | Marine Fish (Marketing) Ordinance (Cap. 291).
@@ -540,4 +452,4 @@ Secretary for Transport and Logistics | Merchant Shipping (Safety) Ordinance (Ca
 
 Secretary for Transport and Logistics | Roads (Works, Use and Compensation) Ordinance (Cap. 370). (L.N. 144 of 2022)
 
-(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12)
+(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12; 24 of 2023 s. 29)
