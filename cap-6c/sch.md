@@ -26,6 +26,8 @@ This fee includes any fee on answering a petition or setting down for hearing. (
 
 7. | Search in the High Court Registry (other than by a petitioner, trustee, bankrupt or any officer of the court) for a document or file referred to or required (25 of 1998 s. 2) | 18.00
 
+7A. | On an inspection of a copy of the trustee's accounts filed under section 93(4) or (4A) (22 of 2023 s. 88) | 11.00
+
 8. | Office copy of a document, per page or part thereof | 35.00
 
 9. | Allocatur by the Registrar for any costs, charges or disbursements, for every $100 allowed or part thereof | 6.00
