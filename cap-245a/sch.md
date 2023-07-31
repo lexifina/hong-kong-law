@@ -64,7 +64,7 @@ Point number | Northing (m) | Easting (m) | Remarks
 
 22 | 845621 | 833580 | From there SOUTHWEST following the fence and the gate to Point 23, which is located at the junction of the fences.
 
-23 | 844579 | 832783 | From there NORTHWEST following the fence to Point 24, which is located at the junction of the fences.
+23 | 844592 | 832779 | From there NORTHWEST following the fence to Point 24, which is located at the junction of the fences.
 
 24 | 844742 | 832512 | From there SOUTHWEST following the gate and the fence to Point 25, which is located at the junction of the fences.
 
@@ -138,9 +138,9 @@ Point number | Northing (m) | Easting (m) | Remarks
 
 59 | 842954 | 829788 | From there SOUTHEAST following the fence to Point 60, which is located at the northern edge of the pavement.
 
-60 | 842879 | 829815 | From there SOUTHWEST following the northern edge of the pavement underneath the bridge to Point 61, which is located at the junction of the northern edge of the pavement and the river bank of River Indus.
+60 | 842879 | 829815 | From there SOUTHWEST following the northern edge of the pavement underneath the bridge to Point 61, which is located at the junction of the northern edge of the pavement and the river bank of the Ng Tung River.
 
-61 | 842870 | 829799 | From there NORTHWEST following the river bank of River Indus to Point 62, which is located at the intersection of the river bank and the northern edge of the water pipe supports.
+61 | 842870 | 829799 | From there NORTHWEST following the river bank of the Ng Tung River to Point 62, which is located at the intersection of the river bank and the northern edge of the water pipe supports.
 
 62 | 842878 | 829748 | From there SOUTHWEST following the northern edge of the water pipe supports to Point 63, which is located at the intersection of the water pipe supports edge and the wall.
 
@@ -200,4 +200,4 @@ Notes:
 
 - 4. The plans annexed to this Schedule are provided for information only.
 
-(Schedule replaced L.N. 170 of 2011. Amended L.N. 49 of 2013; L.N. 217 of 2015)
+(Schedule replaced L.N. 170 of 2011. Amended L.N. 49 of 2013; L.N. 217 of 2015; L.N. 92 of 2023)
