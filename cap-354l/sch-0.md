@@ -61,3 +61,5 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 27. | Chai Wan Public Fill Barging Point | 11 Ka Yip Street, Chai Wan, Hong Kong. | Plan number FM 10019-32 (L.N. 231 of 2008)
 
 28. | Organic Resources Recovery Centre (Phase 1) | 5 Sham Fung Road, Siu Ho Wan, North Lantau, N.T. | Plan number 60336238/SK4000 (L.N. 74 of 2017)
+
+29. | Organic Resources Recovery Centre (Phase 2) | Kong Nga Po Road, Sha Ling, N.T. | Plan number DN546/0001 (L.N. 78 of 2023)
