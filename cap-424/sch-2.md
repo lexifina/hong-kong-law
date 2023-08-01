@@ -28,19 +28,19 @@ BS EN 14350:2020 “Child care articles—Drinking equipment—Safety requiremen
 
 (b) | BS EN 747-2:2012 + A1:2015 “Furniture—Bunk beds and high beds—Part 2: Test methods”
 
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1427-21 “Standard consumer safety specification for bunk beds” Joint Australian/New Zealand Standard The Joint Australian/New Zealand Standard is established by Standards Australia and Standards New Zealand, and the requirements contained in the Standard are specified in— AS/NZS 4220:2010 “Bunk beds and other elevated beds”
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1427-21e1 “Standard consumer safety specification for bunk beds” Joint Australian/New Zealand Standard The Joint Australian/New Zealand Standard is established by Standards Australia and Standards New Zealand, and the requirements contained in the Standard are specified in— AS/NZS 4220:2010 “Bunk beds and other elevated beds”
 
 International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in—
 
 (a) | ISO 9098-1:1994 “Bunk beds for domestic use—Safety requirements and tests—Part 1: Safety requirements”
 
-(b) | ISO 9098-2:1994 “Bunk beds for domestic use—Safety requirements and tests—Part 2: Test methods” (Amended L.N. 102 of 2017; L.N. 23 of 2021; L.N. 20 of 2022)
+(b) | ISO 9098-2:1994 “Bunk beds for domestic use—Safety requirements and tests—Part 2: Test methods” (Amended L.N. 102 of 2017; L.N. 23 of 2021; L.N. 20 of 2022; L.N. 13 of 2023)
 
 5. Carry cots and similar handled products and stands | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 1466:2014 “Child use and care articles—Carry cots and stands— Safety requirements and test methods” (Amended L.N. 7 of 2016)
 
 6. Child safety barriers for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 1930:2011 “Child use and care articles—Safety barriers—Safety requirements and test methods”
 
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1004-19 “Standard consumer safety specification for expansion gates and expandable enclosures” (Amended L.N. 110 of 2010; L.N. 102 of 2017; L.N. 49 of 2019; L.N. 19 of 2020)
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F1004-21 “Standard consumer safety specification for expansion gates and expandable enclosures” (Amended L.N. 110 of 2010; L.N. 102 of 2017; L.N. 49 of 2019; L.N. 19 of 2020; L.N. 13 of 2023)
 
 7. Children’s cots for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in—
 
@@ -58,11 +58,11 @@ International Standard The International Standard is established by the Internat
 
 8. Children’s high chairs and multi-purpose high chairs for domestic use | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 14988:2017 + A1:2020 “Children’s high chairs—Requirements and test methods”
 
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F404-20 “Standard consumer safety specification for high chairs” International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in—
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F404-21 “Standard consumer safety specification for high chairs” International Standard The International Standard is established by the International Organization for Standardization, and the requirements contained in the Standard are specified in—
 
 (a) | ISO 9221-1:2015 “Furniture—Children’s high chairs—Part 1: Safety requirements”
 
-(b) | ISO 9221-2:2015 “Furniture—Children’s high chairs—Part 2: Test methods” (Amended L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020; L.N. 23 of 2021; L.N. 20 of 2022)
+(b) | ISO 9221-2:2015 “Furniture—Children’s high chairs—Part 2: Test methods” (Amended L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020; L.N. 23 of 2021; L.N. 20 of 2022; L.N. 13 of 2023)
 
 9. Children’s paints | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 71-3:2019 + A1:2021 “Safety of toys—Part 3: Migration of certain elements” ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-17 “Standard consumer safety specification for toy safety”
 
@@ -88,8 +88,8 @@ ASTM F406-19 “Standard consumer safety specification for non-full-size baby cr
 
 (b) | BS EN 1888-2:2018 “Child care articles—Wheeled child conveyances—Part 2: Pushchairs for children above 15 kg up to 22 kg”
 
-ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F833-19 “Standard consumer safety performance specification for carriages and strollers”
+ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F833-21 “Standard consumer safety performance specification for carriages and strollers”
 
-Joint Australian/New Zealand Standard The Joint Australian/New Zealand Standard is established by Standards Australia and Standards New Zealand, and the requirements contained in the Standard are specified in— AS/NZS 2088:2013 “Prams and Strollers—Safety requirements” (Amended L.N. 110 of 2010; L.N. 102 of 2017; L.N. 19 of 2020)
+Joint Australian/New Zealand Standard The Joint Australian/New Zealand Standard is established by Standards Australia and Standards New Zealand, and the requirements contained in the Standard are specified in— AS/NZS 2088:2013 “Prams and Strollers—Safety requirements” (Amended L.N. 110 of 2010; L.N. 102 of 2017; L.N. 19 of 2020; L.N. 13 of 2023)
 
 (Schedule 2 added 5 of 2010 s. 21. Amended L.N. 184 of 2011; 26 of 2012 s. 16; L.N. 30 of 2013; 18 of 2013 s. 17; L.N. 17 of 2015)
