@@ -6,7 +6,7 @@ Tolls and Fees
 
 (Format changes—E.R. 1 of 2022)
 
-- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel, Eastern Harbour Crossing and Tate’s Cairn Tunnel) (7 of 2016 s. 18; 9 of 2018 s. 9)
+- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel, Eastern Harbour Crossing, Tate’s Cairn Tunnel and Western Harbour Crossing) (7 of 2016 s. 18; 9 of 2018 s. 9; 18 of 2023 s. 20)
 
 - Vehicle | Tolls
 
@@ -22,9 +22,9 @@ Tolls and Fees
 
 - 1. | Motor cycles, motor tricycles | $8
 
-- 2. | Taxis | $10
+- 2. | Taxis (18 of 2023 s. 20) | $25
 
-- 3. | Private cars | $20
+- 3. | Private cars (18 of 2023 s. 20) | $30
 
 - 4. | Public and private light buses | $10
 
@@ -52,13 +52,9 @@ Tolls and Fees
 
 - 1. | Motor cycles, motor tricycles | $13
 
-- 2. | Taxis in which no passenger is carried when using the tunnel where—
+- 2. | Taxis (18 of 2023 s. 20) | $25
 
-- (a) if the tunnel is a booth mode tunnel—the tolls for the use of the tunnel are settled at toll booths other than autotoll booths | $15
-
-- (b) if the tunnel is a boothless mode tunnel—the taxis enter the toll area through a traffic lane designated as a prohibited zone for all vehicles except taxis carrying no passengers, at which the traffic sign of the type shown in Figure No. 113 in Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) is used in conjunction with the supplementary plate of the type shown in Figure No. 403A in that Schedule (20 of 2021 s. 35) | $15
-
-- 3. | Taxis other than those specified in item 2 and private cars | $25
+- 3. | Private cars (18 of 2023 s. 20) | $30
 
 - 4. | Public and private light buses | $38
 
@@ -116,6 +112,38 @@ Tolls and Fees
 
 - (9 of 2018 s. 9)
 
+- Part 3B Tolls (for Western Harbour Crossing)
+
+- Column 1 | Column 2 | Column 3
+
+- Item | Vehicle | Tolls
+
+- 1. | Motor cycles, motor tricycles | $25
+
+- 2. | Taxis | $25
+
+- 3. | Private cars | $60
+
+- 4. | Public and private light buses | $85
+
+- 5. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $85
+
+- 6. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | $110
+
+- 7. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 24 tonnes but not exceeding 38 tonnes | $140
+
+- 8. | Public and private single-decked buses | $140
+
+- 9. | Public and private double-decked buses | $200
+
+- 10. | For vehicles with more than 2 axles—
+
+- (a) if the tunnel is a booth mode tunnel | $30 for each additional axle in excess of 2
+
+- (b) if the tunnel is a boothless mode tunnel | No additional toll
+
+- (18 of 2023 s. 20)
+
 - Part 4 Removal Fee
 
   - 1. Interpretation In this Part—
@@ -162,6 +190,8 @@ Tolls and Fees
 
   - Tuen Mun-Chek Lap Kok Tunnel (屯門-赤鱲角隧道) (L.N. 35 of 2020) | $140 | $175 | $215
 
+  - Western Harbour Crossing (西區海底隧道) (18 of 2023 s. 20) | $140 | $175 | $215
+
 - (7 of 2016 s. 18; L.N. 72 of 2018)
 
 - Part 5 Permit Fee
@@ -199,6 +229,8 @@ Tolls and Fees
 - Tseung Kwan O-Lam Tin Tunnel (將軍澳-藍田隧道) (L.N. 35 of 2020) | $82
 
 - Tuen Mun-Chek Lap Kok Tunnel (屯門-赤鱲角隧道) (L.N. 35 of 2020) | $82
+
+- Western Harbour Crossing (西區海底隧道) (18 of 2023 s. 20) | $82
 
 - (7 of 2016 s. 18; L.N. 72 of 2018)
 

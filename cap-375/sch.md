@@ -94,43 +94,15 @@ Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A)
 
 34−36 | (Repealed 9 of 2018 s. 16)
 
-Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D)
-
 37 | (Renumbered as item 33D—see L.N. 100 of 2013)
 
-37A | Section 7(1) | Driving in excess of the speed limit indicated by a speed limit sign by more than 15 kilometres an hour, other than where item 37B or 37C applies | 3
+37A−K | (Repealed 18 of 2023 s. 26)
 
-37B | Section 7(1) | Driving in excess of the speed limit indicated by a speed limit sign by more than 30 kilometres an hour, other than where item 37C applies | 5
-
-37C | Section 7(1) | Driving in excess of the speed limit indicated by a speed limit sign by more than 45 kilometres an hour | 10
-
-37D | Section 7(2)(b)(i) | Driving a bus, medium goods vehicle or heavy goods vehicle in excess of the 70 kilometres per hour speed limit by more than 15 kilometres an hour, other than where item 37E or 37F applies | 3
-
-37E | Section 7(2)(b)(i) | Driving a bus, medium goods vehicle or heavy goods vehicle in excess of the 70 kilometres per hour speed limit by more than 30 kilometres an hour, other than where item 37F applies | 5
-
-37F | Section 7(2)(b)(i) | Driving a bus, medium goods vehicle or heavy goods vehicle in excess of the 70 kilometres per hour speed limit by more than 45 kilometres an hour | 10
-
-37G | Section 7(2)(b)(ii) | Driving a motor cycle, motor tricycle, private car or light goods vehicle and under a probationary driving licence in excess of the 70 kilometres per hour speed limit by more than 15 kilometres an hour, other than where item 37H or 37I applies | 3
-
-37H | Section 7(2)(b)(ii) | Driving a motor cycle, motor tricycle, private car or light goods vehicle and under a probationary driving licence in excess of the 70 kilometres per hour speed limit by more than 30 kilometres an hour, other than where item 37I applies | 5
-
-37I | Section 7(2)(b)(ii) | Driving a motor cycle, motor tricycle, private car or light goods vehicle and under a probationary driving licence in excess of the 70 kilometres per hour speed limit by more than 45 kilometres an hour | 10
-
-37J | Section 8 | Crossing continuous double white lines | 3
-
-37K | Section 10(2) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
-
-Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D) as it was in force immediately before 20 July 2012
-
-38 | Section 7 | Driving in excess of speed limit by more than 15 kilometres an hour, other than where item 39 or 40 applies | 3
-
-39 | Section 7 | Driving in excess of speed limit by more than 30 kilometres an hour, other than where item 40 applies | 5
-
-40 | Section 7 | Driving in excess of speed limit by more than 45 kilometres an hour | 10
+38−40 | (Repealed 18 of 2023 s. 26)
 
 41 | (Renumbered as item 37J—see L.N. 100 of 2013)
 
-42 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+42 | (Repealed 18 of 2023 s. 26)
 
 Tsing Ma Control Area (General) Regulation (Cap. 498 sub. leg. B)
 
@@ -196,4 +168,4 @@ Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B)
 
 59 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24; 24 of 2011 s. 27; L.N. 100 of 2013; 7 of 2016 s. 25; 9 of 2018 s. 16)
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24; 24 of 2011 s. 27; L.N. 100 of 2013; 7 of 2016 s. 25; 9 of 2018 s. 16; 18 of 2023 s. 26)

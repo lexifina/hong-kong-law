@@ -2522,7 +2522,7 @@ Item | Body
 
 118. | West Coast International (Parking) Limited
 
-119. | Western Harbour Tunnel Co. Ltd.
+119. | (Repealed 18 of 2023 s. 28)
 
 120. | Wilson Parking (Hong Kong) Limited
 

@@ -144,7 +144,7 @@ Public Bodies
 
 69. | (Repealed 37 of 2018 s. 171)
 
-70. | Western Harbour Tunnel Company Limited. (Added 72 of 1993 s. 71)
+70. | (Repealed 18 of 2023 s. 22)
 
 71. | Wharf Cable Limited. (Added L.N. 384 of 1993)
 

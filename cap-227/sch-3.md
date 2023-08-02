@@ -58,7 +58,7 @@ Offences to which Defendant May Plead Guilty by Letter
 
 - 14. (Repealed 9 of 2018 s. 14)
 
-- 15. Western Harbour Crossing Any offence against the Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D). (Added L.N. 356 of 1997)
+- 15. (Repealed 18 of 2023 s. 23)
 
 - 16. Tsing Ma Control Area
 

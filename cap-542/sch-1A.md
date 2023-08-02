@@ -308,7 +308,7 @@ Item | Body composing the constituency
 
 151. | West Coast International (Parking) Limited
 
-152. | Western Harbour Tunnel Co. Ltd.
+152. | (Repealed 18 of 2023 s. 27)
 
 153. | Wilson Parking (Hong Kong) Limited
 

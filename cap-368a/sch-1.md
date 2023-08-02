@@ -226,13 +226,27 @@ This sign indicates that buses must keep to the right most lane of a road inside
 
 The word and characters “BUSES” and “巴士” may be replaced by the descriptions of any other motor vehicles to indicate that such vehicles must keep to the right most lane of a road inside a tube of a right-driving tunnel.
 
-(L.N. 60 of 2017) Figure No. 26
+(L.N. 60 of 2017) Figure No. 25A
+
+Keep to Left Most Lane in Left-driving Tunnel
+
+This sign indicates that buses must keep to the left most lane of a road inside a tube of a left-driving tunnel.
+
+The word and characters “BUSES” and “巴士” may be replaced by the descriptions of any other motor vehicles to indicate that such vehicles must keep to the left most lane of a road inside a tube of a left-driving tunnel.
+
+(18 of 2023 s. 19) Figure No. 26
 
 Keep to Right Most Lane or Middle Lane in Right-driving Tunnel
 
 This sign indicates that medium goods vehicles and heavy goods vehicles must keep to the right most lane, or the middle lane, of a road inside a tube of a right-driving tunnel.
 
-(L.N. 60 of 2017) Figure No. 27
+(L.N. 60 of 2017) Figure No. 26A
+
+Keep to Left Most Lane or Middle Lane in Left-driving Tunnel
+
+This sign indicates that medium goods vehicles and heavy goods vehicles must keep to the left most lane, or the middle lane, of a road inside a tube of a left-driving tunnel.
+
+(18 of 2023 s. 19) Figure No. 27
 
 Keep to Two Lanes on the Right in Right-driving Tunnel
 
