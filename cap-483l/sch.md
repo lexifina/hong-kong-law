@@ -2,7 +2,7 @@
 
 [s. 2]
 
-RESTRICTED AREA
+Restricted Area
 
 - 1. The Restricted Area comprises—
 
