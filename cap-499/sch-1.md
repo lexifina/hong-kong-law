@@ -58,9 +58,9 @@ In this Ordinance, unless the context otherwise requires—
 
 - chemical waste (化學廢物) means waste which is chemical waste within the meaning of Waste Disposal (Chemical Waste) (General) Regulation (Cap. 354 sub. leg. C);
 
-- coastal protection area (海濱保護區) means a coastal protection area shown in a draft or approved plan prepared under section 3 of the Town Planning Ordinance (Cap. 131);
+- coastal protection area (海濱保護區) means a coastal protection area shown in a draft plan prepared under the Town Planning Ordinance (Cap. 131) or an approved plan or partly approved plan under that Ordinance; (Amended 25 of 2023 s. 119)
 
-- conservation area (自然保育區) means a conservation area shown in a draft or approved plan prepared under section 3 of the Town Planning Ordinance (Cap. 131);
+- conservation area (自然保育區) means a conservation area shown in a draft plan prepared under the Town Planning Ordinance (Cap. 131) or an approved plan or partly approved plan under that Ordinance; (Amended 25 of 2023 s. 119)
 
 - container backup facilities (貨櫃支援設施) means facilities essential to the handling of containers which do not require (but may have) a waterfront location and includes container yards, empty container storage and repair depots, container freight stations and container vehicle parks;
 
@@ -162,7 +162,11 @@ In this Ordinance, unless the context otherwise requires—
 
 - pier (碼頭) means a structure built out over the water and supported by pillars or piles, used as a landing place for ferries, boats, ships and other vessels including structures accommodating hydrofoil and jetfoil vessels;
 
-- planned use (計劃用途) means the land use proposed in the draft or approved plans prepared under the Town Planning Ordinance (Cap. 131) or any other land use plans published by the Government;
+- planned use (計劃用途) means the land use proposed in— (Amended 25 of 2023 s. 119)
+
+  - (a) a draft plan prepared under the Town Planning Ordinance (Cap. 131) or an approved plan or partly approved plan under that Ordinance; or
+
+  - (b) any other land use plans published by the Government; (Amended 25 of 2023 s. 119)
 
 - primary distributor (主要幹路) means roads forming the major network of the urban area including roads having high capacity junctions, although they may be at grade or grade separated, with segregated pedestrian facilities wherever possible and frontage access limited if not entirely restricted, and with a 24-hour stopping restriction; (Amended E.R. 1 of 2021)
 

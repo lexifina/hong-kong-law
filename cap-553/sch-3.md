@@ -16,9 +16,9 @@ Item | Enactment | Provision
 
 4. | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (Cap. 276) (Added L.N. 151 of 2006) | Section 21(1)
 
-5. | Roads (Works, Use and Compensation) Ordinance (Cap. 370) (Added L.N. 151 of 2006) | Sections 10(1) and (3) and 29(1)
+5. | Roads (Works, Use and Compensation) Ordinance (Cap. 370) (Added L.N. 151 of 2006. Amended 25 of 2023 s. 121) | Section 29(1)
 
-6. | Railways Ordinance (Cap. 519) (Added L.N. 151 of 2006) | Sections 10(1) and (4), 27(6) and (7) and 34(1)
+6. | Railways Ordinance (Cap. 519) (Added L.N. 151 of 2006. Amended 25 of 2023 s. 121) | Sections 27(6) and (7) and 34(1)
 
 7. | Electricity Ordinance (Cap. 406) (Added L.N. 214 of 2007) | Section 52
 

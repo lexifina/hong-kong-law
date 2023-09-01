@@ -6,13 +6,15 @@ APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
 
 - PART I PROVISIONS OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE APPLIED
 
-- Sections 2 to 24 and 36 to 38.
+- Sections 2 to 24, 36, 37, 37A, 38 and 43(1), (2), (3) and (5).
+
+- (25 of 2023 s. 116)
 
 - PART II General Modifications and Additions
 
   - 1.
 
-    - (1) In sections 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14 (except 14(2)(e) and (f)), 15, 16 (except 16(2)(f)), 18 (except 18(2)(e)), 19, 20, 21 (except 21(3)(d)), 22 and 36, repeal “Secretary” wherever it occurs and substitute “Authority”.
+    - (1) In sections 3, 4, 5, 6, 7, 8, 9, 10, 11 (except any reference to “Financial Secretary” in section 11(1AC)), 12, 14 (except 14(2)(e) and (f)), 15, 16 (except 16(2)(f)), 18 (except 18(2)(e)), 19, 20, 21 (except 21(3)(d)), 22 and 36, repeal “Secretary” wherever it occurs and substitute “Authority”. (25 of 2023 s. 116)
 
     - (2) In section 13(5), repeal “The Secretary” and substitute “The Authority”.
 
@@ -38,7 +40,7 @@ APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
 
 - 5 | (a) (Repealed L.N. 281 of 1998) (b) In paragraph (b)(i), repeal “and the use to which he intends the road will be put”.
 
-- 10 | In subsection (1), repeal everything after “both” and substitute a full stop.
+- 11 | In subsection (1AC), repeal “Financial Secretary” (wherever appearing) and substitute “Secretary for Environment and Ecology”. (25 of 2023 s. 116)
 
 - 15 | Repeal subsection (5) and substitute—
 

@@ -1,6 +1,8 @@
 # SCHEDULE 1
 
-[ss. 11, 12, 13, 14 & 22]
+[ss. 11, 12, 13, 14, 22 & 30]
+
+(25 of 2023 s. 115)
 
 COMPENSATION RIGHTS AND ASSESSMENT
 
