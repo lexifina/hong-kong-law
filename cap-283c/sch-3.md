@@ -2,7 +2,9 @@
 
 [ss. 8, 9, 13, 19 & 20]
 
-Hong Kong Housing Authority
+Forms
+
+(L.N. 119 of 2023)
 
 [通知書號碼 ：] [Notice No. ：]
 
@@ -106,19 +108,19 @@ $320 | 105
 
 (b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話將本通知書登記(電話號碼：18013)，選擇“商戶編號” “9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線： 2311 9876。 | (b) By Phone by using PPS Before making payment, please register this notice through a tone phone (Tel. No.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
 
-(c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL位址： http://www.try.gov.hk)。繳款時，請選擇“交通違例(定額罰款)”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s website (URL address: http://www.try.gov.hk). Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+(c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站https://www.try.gov.hk。繳款時，請選擇“交通違例(定額罰款)”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit the Treasury’s website https://www.try.gov.hk. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
-(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
+(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄庫務署指定的郵政局信箱。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。如欲查詢庫務署指定的郵政局信箱資料，請致電庫務署熱線：2845 8866或瀏覽庫務署網站https://www.try.gov.hk。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the post office letter box designated by the Treasury. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment. For information on the post office letter box designated by the Treasury, please call the Treasury’s Hotline: 2845 8866 or visit the Treasury’s website https://www.try.gov.hk.
 
-(e) 在郵政局櫃位繳款 親自或由代理人在任何郵政局(流動郵政局除外)的櫃位繳款。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽其網站(URL位址：https://www.hongkongpost.hk)。本通知書必須保持完整並於繳款時出示。 | (e) At Post Office Counters Payment may be made personally or by an agent at a counter of any post office (other than a mobile post office). For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their website (URL address: https://www.hongkongpost.hk). This notice must be kept intact and produced at the time of payment.
+(e) 在郵政局櫃位繳款 親自或由代理人在任何郵政局(流動郵政局除外)的櫃位繳款。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽香港郵政網站https://www.hongkongpost.hk。本通知書必須保持完整並於繳款時出示。 | (e) At Post Office Counters Payment may be made personally or by an agent at a counter of any post office (other than a mobile post office). For addresses and opening hours, please call the Hongkong Post’s Hotline: 2921 2222 or visit the Hongkong Post’s website https://www.hongkongpost.hk. This notice must be kept intact and produced at the time of payment.
 
-(f) 透過電話理財服務繳款 使用銀行提供的電話理財服務，透過有關的繳費服務繳款。詳情請瀏覽庫務署網站(URL位址： http://www.try.gov.hk)。 | (f) Through Phone-banking Service Pay through bill payment services by using the phone-banking service provided by banks. For details, please visit Treasury’s website (URL address: http://www.try.gov.hk).
+(f) 透過電話理財服務繳款 使用銀行提供的電話理財服務，透過有關的繳費服務繳款。詳情請瀏覽庫務署網站https://www.try.gov.hk。 | (f) Through Phone-banking Service Pay through bill payment services by using the phone-banking service provided by banks. For details, please visit the Treasury’s website https://www.try.gov.hk.
 
 2. 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
 
 3. 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 3. Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
 
-(L.N. 43 of 2003; 25 of 2005 s. 39; 10 of 2008 s. 53; 18 of 2016 s. 20; L.N. 58 of 2018) __________
+(L.N. 43 of 2003; 25 of 2005 s. 39; 10 of 2008 s. 53; 18 of 2016 s. 20; L.N. 58 of 2018; L.N. 119 of 2023) __________
 
 HD735(S) | 表格2 FORM 2
 
@@ -188,13 +190,13 @@ HD735(S)
 
 (b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話將本通知書登記(電話號碼：18013)，選擇“商戶編號” “9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using PPS Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
 
-(c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL位址： http://www.try.gov.hk)。繳款時，請選擇“交通違例(定額罰款)”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s website (URL address: http://www.try.gov.hk). Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+(c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站https://www.try.gov.hk。繳款時，請選擇“交通違例(定額罰款)”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit the Treasury’s website https://www.try.gov.hk. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
-(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
+(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄庫務署指定的郵政局信箱。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。如欲查詢庫務署指定的郵政局信箱資料，請致電庫務署熱線：2845 8866或瀏覽庫務署網站https://www.try.gov.hk。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the post office letter box designated by the Treasury. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment. For information on the post office letter box designated by the Treasury, please call the Treasury’s Hotline: 2845 8866 or visit the Treasury’s website https://www.try.gov.hk.
 
-(e) 在郵政局櫃位繳款 親自或由代理人在任何郵政局(流動郵政局除外)的櫃位繳款。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽其網站(URL位址：https://www.hongkongpost.hk)。本通知書必須保持完整並於繳款時出示。 | (e) At Post Office Counters Payment may be made personally or by an agent at a counter of any post office (other than a mobile post office). For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their website (URL address: https://www.hongkongpost.hk). This notice must be kept intact and produced at the time of payment.
+(e) 在郵政局櫃位繳款 親自或由代理人在任何郵政局(流動郵政局除外)的櫃位繳款。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽香港郵政網站https://www.hongkongpost.hk。本通知書必須保持完整並於繳款時出示。 | (e) At Post Office Counters Payment may be made personally or by an agent at a counter of any post office (other than a mobile post office). For addresses and opening hours, please call the Hongkong Post’s Hotline: 2921 2222 or visit the Hongkong Post’s website https://www.hongkongpost.hk. This notice must be kept intact and produced at the time of payment.
 
-(f) 透過電話理財服務繳款 使用銀行提供的電話理財服務，透過有關的繳費服務繳款。詳情請瀏覽庫務署網站(URL位址： http://www.try.gov.hk)。 | (f) Through Phone-banking Service Pay through bill payment services by using the phone-banking service provided by banks. For details, please visit Treasury’s website (URL address: http://www.try.gov.hk).
+(f) 透過電話理財服務繳款 使用銀行提供的電話理財服務，透過有關的繳費服務繳款。詳情請瀏覽庫務署網站https://www.try.gov.hk。 | (f) Through Phone-banking Service Pay through bill payment services by using the phone-banking service provided by banks. For details, please visit the Treasury’s website https://www.try.gov.hk.
 
 2. 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
 
@@ -224,7 +226,7 @@ Date：
 
 簽名 Signature
 
-(L.N. 43 of 2003; 10 of 2008 s. 53; 18 of 2016 s. 20; L.N. 58 of 2018) __________ Form 3
+(L.N. 43 of 2003; 10 of 2008 s. 53; 18 of 2016 s. 20; L.N. 58 of 2018; L.N. 119 of 2023) __________ Form 3
 
 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation C) CERTIFICATE OF POSTING OF NOTICE (Section 8(8)) This is to certify that
 
