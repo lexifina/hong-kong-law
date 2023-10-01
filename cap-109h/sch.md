@@ -1,6 +1,6 @@
 # Schedule
 
-[ss. 2 & 3] (L.N. 114 of 2019)
+[s. 2] (L.N. 114 of 2019)
 
 Fees in respect of Liquor Licences
 
