@@ -1,6 +1,6 @@
 # Schedule
 
-[regs. 5C, 7D, 22 & 23]
+[regs. 5C, 7D & 22]
 
 (L.N. 100 of 2019)
 
