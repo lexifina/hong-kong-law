@@ -6,9 +6,9 @@ Place of incorporation or principal place of business of member | Number of memb
 
 Belgium, Denmark, France, The Federal Republic of Germany, Italy, The Netherlands, The Republic of Ireland, Spain, United Kingdom | 4
 
-Austria, Norway, Sweden, Switzerland | 1
+Austria, Liechtenstein, Norway, Sweden, Switzerland | 1
 
-India, Iran, Malaysia, Pakistan, Thailand | 1
+India, Iran, Malaysia, Pakistan, Qatar, Thailand, United Arab Emirates | 1
 
 Australia, Indonesia, New Zealand, The Philippines | 1
 
@@ -26,4 +26,4 @@ ___
 
 Total number of elected members | 21
 
-(Replaced L.N. 132 of 1989. Amended L.N. 29 of 1991; 30 of 1991 s. 6; L.N. 7 of 1994)
+(Replaced L.N. 132 of 1989. Amended L.N. 29 of 1991; 30 of 1991 s. 6; L.N. 7 of 1994; L.N. 109 of 2023)
