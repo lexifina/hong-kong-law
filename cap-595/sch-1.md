@@ -48,7 +48,43 @@ and its main diastereoisomers:
 
 (iii) gamma- hexabromocyclododecane | 134237-52-8
 
-(Amended L.N. 73 of 2014; L.N. 194 of 2016)
+8. | Hexachlorobutadiene | 87-68-3
+
+9. | Polychlorinated naphthalenes, including:
+
+(a) dichlorinated naphthalenes
+
+(b) trichlorinated naphthalenes
+
+(c) tetrachlorinated naphthalenes
+
+(d) pentachlorinated naphthalenes
+
+(e) hexachlorinated naphthalenes
+
+(f) heptachlorinated naphthalenes
+
+(g) octachlorinated naphthalene
+
+10. | Decabromodiphenyl ether | 1163-19-5
+
+11. | Short-chain chlorinated paraffins (Alkanes, C10-13, chloro): straight-chain chlorinated hydrocarbons with chain lengths ranging from C10 to C13 and a content of chlorine greater than 48% by weight
+
+For example, the substances with the following CAS registry numbers may contain short-chain chlorinated paraffins:
+
+(a) 85535-84-8
+
+(b) 68920-70-7
+
+(c) 71011-12-6
+
+(d) 85536-22-7
+
+(e) 85681-73-8
+
+(f) 108171-26-2
+
+(Amended L.N. 73 of 2014; L.N. 194 of 2016; L.N. 94 of 2023)
 
 - Part 2 Extent to which Part 2 of Ordinance does not
 

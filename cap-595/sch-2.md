@@ -46,7 +46,7 @@
 
 - 4. | Polychlorinated terphenyls (PCT) | 61788-33-8
 
-- 5. | Short-chain chlorinated paraffins | 85535-84-8
+- 5. | (Repealed L.N. 94 of 2023)
 
 - 6. | Tetraethyl lead | 78-00-2
 
@@ -70,7 +70,15 @@
 
 - 9. | Tris (2,3-dibromopropyl) phosphate | 126-72-7
 
-(Amended L.N. 73 of 2014; L.N. 23 of 2018)
+- 10. | Perfluorooctanoic acid, its salts and related compounds:
+
+- (a) perfluorooctanoic acid (PFOA) | 335-67-1
+
+- (b) salts of perfluorooctanoic acid
+
+- (c) related compounds of perfluorooctanoic acid
+
+(Amended L.N. 73 of 2014; L.N. 23 of 2018; L.N. 94 of 2023)
 
 - Part 2 Extent to which Part 2 of Ordinance does not
 
