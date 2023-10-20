@@ -370,7 +370,7 @@ Poisons List
 
       - (a) the following— Bacillus Calmette-Guérin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
-      - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Tetanus Typhoid Varicella Yellow fever
+      - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Respiratory syncytial virus Rubella Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Tetanus Typhoid Varicella Yellow fever
 
     - Antithymocyte Immunoglobulin
 
@@ -984,6 +984,8 @@ Poisons List
 
     - Desvenlafaxine; its salts
 
+    - Deucravacitinib; its salts
+
     - Dexketoprofen; its salts
 
     - Dexlansoprazole; its salts
@@ -1310,6 +1312,8 @@ Poisons List
 
     - Fesoterodine; its salts; its esters; their salts
 
+    - Filgotinib; its salts
+
     - Filgrastim
 
     - Finasteride
@@ -1431,6 +1435,8 @@ Poisons List
     - Glipizide
 
     - Gliquidone
+
+    - Glofitamab
 
     - Glucagon; its salts
 
@@ -1750,6 +1756,8 @@ Poisons List
 
     - Lurasidone; its salts
 
+    - Lurbinectedin; its salts
+
     - Luspatercept
 
     - Lutetium-177; its salts; when contained in pharmaceutical products
@@ -1781,6 +1789,8 @@ Poisons List
     - Maraviroc; its salts
 
     - Marbofloxacin; its salts
+
+    - Mavacamten; its salts
 
     - Mazindol
 
@@ -2008,6 +2018,8 @@ Poisons List
 
     - Nalbuphine; its salts
 
+    - Naldemedine; its salts
+
     - Nalidixic acid
 
     - Nalmefene; its salts
@@ -2047,6 +2059,8 @@ Poisons List
     - Neratinib; its salts
 
     - Nesiritide
+
+    - Netarsudil; its salts
 
     - Netupitant; its salts
 
@@ -2790,6 +2804,8 @@ Poisons List
 
     - Retigabine; its salts
 
+    - Revefenacin; its salts
+
     - Reviparin; its salts
 
     - Ribavirin; its salts
@@ -2885,6 +2901,8 @@ Poisons List
     - Selexipag; its salts
 
     - Selinexor; its salts
+
+    - Selpercatinib; its salts
 
     - Selumetinib; its salts
 
@@ -3002,6 +3020,8 @@ Poisons List
 
     - Tafluprost
 
+    - Tagraxofusp
+
     - Talazoparib; its salts
 
     - Tamoxifen; its salts
@@ -3012,6 +3032,8 @@ Poisons List
 
     - Tazemetostat; its salts
 
+    - Teclistamab
+
     - Tegaserod; its salts
 
     - Telbivudine; its salts
@@ -3021,6 +3043,8 @@ Poisons List
     - Temozolomide; its salts
 
     - Temsirolimus; its salts; its esters
+
+    - Tenapanor; its salts
 
     - Tenecteplase; its salts
 
@@ -3051,6 +3075,8 @@ Poisons List
     - Tetrabenazine; its salts
 
     - Tetracosactide; its salts
+
+    - Tezepelumab
 
     - Thalidomide; its salts
 
@@ -3344,7 +3370,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023)
 
   - Division B
 
