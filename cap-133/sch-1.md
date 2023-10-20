@@ -36,4 +36,6 @@ Item | Pesticide | CAS registry number
 
 15. | Technical endosulfan and its related isomers | 115-29-7; 959-98-8; 33213-65-9
 
-(Schedule 1 added 14 of 2013 s. 22. Amended L.N. 43 of 2014)
+16. | Pentachlorophenol and its salts and esters | 87-86-5 (for parent compound only)
+
+(Schedule 1 added 14 of 2013 s. 22. Amended L.N. 43 of 2014; L.N. 95 of 2023)
