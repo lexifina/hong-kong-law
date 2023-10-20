@@ -124,11 +124,11 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I Interpretation In these statut
 
     - (a) Bachelors degrees
 
-      - Bachelor of Accounting Bachelor of Architecture Bachelor of Arts Bachelor of Arts and Sciences Bachelor of Arts and Sciences, in disciplines as determined by the Senate from time to time Bachelor of Arts in Architectural Studies Bachelor of Arts in Conservation Bachelor of Arts in Landscape Studies Bachelor of Arts in Urban Studies Bachelor of Biomedical Sciences Bachelor of Business Administration Bachelor of Business Administration in Accounting and Finance Bachelor of Business Administration in International Business and Global Management Bachelor of Business Administration (Information Systems) Bachelor of Business Administration (Law) Bachelor of Chinese Medicine Bachelor of Cognitive Science Bachelor of Criminal Justice Bachelor of Dental Surgery Bachelor of Economics Bachelor of Economics and Finance Bachelor of Education Bachelor of Education in Early Childhood Education and Special Education Bachelor of Education in Language Education Bachelor of Education in Primary Education Bachelor of Engineering Bachelor of Engineering, in engineering disciplines as determined by the Senate from time to time Bachelor of Finance Bachelor of Finance in Asset Management and Private Banking Bachelor of Housing Management Bachelor of Journalism Bachelor of Laws Bachelor of Management Studies Bachelor of Medicine and Bachelor of Surgery Bachelor of Nursing Bachelor of Pharmacy Bachelor of Pharmacy in Chinese Medicine Bachelor of Science Bachelor of Science in Actuarial Science Bachelor of Science in Applied Child Development Bachelor of Science in Applied Medical Sciences Bachelor of Science in Bioinformatics Bachelor of Science in Biomedical Sciences Bachelor of Science in Computer Science Bachelor of Science in Computer Science and Information Systems Bachelor of Science in Computer Studies Bachelor of Science in Engineering Bachelor of Science in Exercise and Health Bachelor of Science in Information Management Bachelor of Science in Nursing Studies Bachelor of Science in Quantitative Finance Bachelor of Science in Quantity Surveying Bachelor of Science in Speech and Hearing Sciences Bachelor of Science in Sports Science and Leisure Management Bachelor of Science in Surveying Bachelor of Social Sciences Bachelor of Social Sciences (Government and Laws) Bachelor of Social Work Bachelor of Traditional Chinese Medicine
+      - Bachelor of Accounting Bachelor of Architecture Bachelor of Arts Bachelor of Arts and Sciences Bachelor of Arts and Sciences, in disciplines as determined by the Senate from time to time Bachelor of Arts in Architectural Studies Bachelor of Arts in Conservation Bachelor of Arts in Humanities and Digital Technologies Bachelor of Arts in Landscape Studies Bachelor of Arts in Urban Studies Bachelor of Biomedical Sciences Bachelor of Business Administration Bachelor of Business Administration (Business Analytics) Bachelor of Business Administration in Accounting and Finance Bachelor of Business Administration in International Business and Global Management Bachelor of Business Administration (Information Systems) Bachelor of Business Administration (Law) Bachelor of Chinese Medicine Bachelor of Cognitive Science Bachelor of Criminal Justice Bachelor of Dental Surgery Bachelor of Economics Bachelor of Economics and Finance Bachelor of Education Bachelor of Education in Early Childhood Education and Special Education Bachelor of Education in Language Education Bachelor of Education in Primary Education Bachelor of Engineering Bachelor of Engineering, in engineering disciplines as determined by the Senate from time to time Bachelor of Finance Bachelor of Finance in Asset Management and Private Banking Bachelor of Housing Management Bachelor of Journalism Bachelor of Laws Bachelor of Management Studies Bachelor of Medicine and Bachelor of Surgery Bachelor of Nursing Bachelor of Pharmacy Bachelor of Pharmacy in Chinese Medicine Bachelor of Psychology Bachelor of Science Bachelor of Science in Actuarial Science Bachelor of Science in Applied Child Development Bachelor of Science in Applied Medical Sciences Bachelor of Science in Bioinformatics Bachelor of Science in Biomedical Sciences Bachelor of Science in Computer Science Bachelor of Science in Computer Science and Information Systems Bachelor of Science in Computer Studies Bachelor of Science in Engineering Bachelor of Science in Exercise and Health Bachelor of Science in Information Management Bachelor of Science in Marketing Analytics and Technology Bachelor of Science in Nursing Studies Bachelor of Science in Quantitative Finance Bachelor of Science in Quantity Surveying Bachelor of Science in Speech and Hearing Sciences Bachelor of Science in Sports Science and Leisure Management Bachelor of Science in Surveying Bachelor of Social Sciences Bachelor of Social Sciences (Government and Laws) Bachelor of Social Work Bachelor of Traditional Chinese Medicine
 
     - (b) Masters degrees
 
-      - Executive Master of Business Administration Juris Doctor Master of Accounting Master of Architecture Master of Architecture (Design) Master of Arts Master of Arts in Applied Linguistics Master of Arts in China Development Studies Master of Arts in Teaching English to Speakers of Other Languages Master of Arts in Transport Policy and Planning Master of Buddhist Counselling Master of Buddhist Studies Master of Business Administration Master of Business Administration (International) Master of Chinese Medicine Master of Chinese Medicine in Acupuncture and Moxibustion Master of Clinical Pharmacy Master of Common Law Master of Data Science Master of Dental Surgery, in dental disciplines as determined by the Senate from time to time Master of Economics Master of Education Master of Expressive Arts Therapy Master of Finance Master of Finance in Financial Technology Master of Financial Engineering Master of Fine Arts Master of Geographic Information Systems Master of Global Management Master of Global Public Policy Master of Housing Management Master of International and Public Affairs Master of Journalism Master of Landscape Architecture Master of Laws Master of Laws, in law disciplines as determined by the Senate from time to time Master of Medical Sciences Master of Nursing Master of Nursing in Advanced Practice Master of Orthodontics Master of Philosophy Master of Psychological Medicine (Psychosis Studies) Master of Public Administration Master of Public Administration (International) Master of Public Health Master of Research in Medicine Master of Science Master of Science in Audiology Master of Science in Business Analytics Master of Science in Chinese Medicines Master of Science in Community Dentistry Master of Science in Computer Science Master of Science in Conservation Master of Science in Construction Project Management Master of Science in Dental Materials Science Master of Science in Electronic Commerce and Internet Computing Master of Science in Engineering Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time Master of Science in Environmental Management Master of Science in Financial Technology and Data Analytics Master of Science in General Dentistry Master of Science in Global Business Management and E-Commerce Master of Science in Implant Dentistry Master of Science in Information Technology in Education Master of Science in Integrated Project Delivery Master of Science in Interdisciplinary Design and Management Master of Science in Library and Information Management Master of Science in Marketing Master of Science in Oral and Maxillofacial Radiology and Diagnostic Imaging Master of Science in Real Estate Master of Science in Real Estate Development Master of Science in Sports Science Master of Science in Urban Analytics Master of Science in Urban Planning Master of Social Sciences Master of Social Service Management Master of Social Work Master of Statistics Master of Traditional Chinese Medicine in Acupuncture and Moxibustion Master of Urban Design
+      - Executive Master of Business Administration Juris Doctor Master of Accounting Master of Advanced Pharmacy Master of Architecture Master of Architecture (Design) Master of Arts Master of Arts in Applied Linguistics Master of Arts in China Development Studies Master of Arts in Teaching English to Speakers of Other Languages Master of Arts in Transport Policy and Planning Master of Buddhist Counselling Master of Buddhist Studies Master of Business Administration Master of Business Administration (International) Master of Chinese Medicine Master of Chinese Medicine in Acupuncture and Moxibustion Master of Clinical Pharmacy Master of Common Law Master of Data Science Master of Dental Surgery, in dental disciplines as determined by the Senate from time to time Master of Economics Master of Education Master of Expressive Arts Therapy Master of Finance Master of Finance in Financial Technology Master of Financial Engineering Master of Fine Arts Master of Geographic Information Systems Master of Global Management Master of Global Public Policy Master of Housing Management Master of International and Public Affairs Master of Journalism Master of Landscape Architecture Master of Laws Master of Laws, in law disciplines as determined by the Senate from time to time Master of Medical Sciences Master of Nursing Master of Nursing in Advanced Practice Master of Orthodontics Master of Philosophy Master of Psychological Medicine (Psychosis Studies) Master of Public Administration Master of Public Administration (International) Master of Public Health Master of Research Master of Research in Medicine Master of Science Master of Science in Artificial Intelligence Master of Science in Audiology Master of Science in Business Analytics Master of Science in Chinese Medicines Master of Science in Community Dentistry Master of Science in Computer Science Master of Science in Conservation Master of Science in Construction Project Management Master of Science in Dental Materials Science Master of Science in Electronic Commerce and Internet Computing Master of Science in Engineering Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time Master of Science in Environmental Management Master of Science in Financial Technology and Data Analytics Master of Science in General Dentistry Master of Science in Global Business Management and E-Commerce Master of Science in Implant Dentistry Master of Science in Information Technology in Education Master of Science in Integrated Project Delivery Master of Science in Interdisciplinary Design and Management Master of Science in Library and Information Management Master of Science in Marketing Master of Science in Nursing Master of Science in Oral and Maxillofacial Radiology and Diagnostic Imaging Master of Science in Real Estate Master of Science in Real Estate Development Master of Science in Sports Science Master of Science in Sustainable Environmental Design Master of Science in Urban Analytics Master of Science in Urban Design and Transport Master of Science in Urban Planning Master of Social Sciences Master of Social Service Management Master of Social Work Master of Statistics Master of Traditional Chinese Medicine in Acupuncture and Moxibustion Master of Urban Design
 
     - (c) Doctors degrees
 
@@ -138,7 +138,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I Interpretation In these statut
 
       - Doctor of Divinity honoris causa Doctor of Laws honoris causa Doctor of Letters honoris causa Doctor of Science honoris causa Doctor of Social Sciences honoris causa
 
-  - (Replaced L.N. 516 of 1994. Amended L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018; L.N. 193 of 2019; L.N. 35 of 2021)
+  - (Replaced L.N. 516 of 1994. Amended L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015; L.N. 11 of 2018; L.N. 193 of 2019; L.N. 35 of 2021; L.N. 112 of 2023)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -148,9 +148,9 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I Interpretation In these statut
 
     - (b) Certificates
 
-      - Certificate in Chinese Language Certificate in Health Economics Certificate in In-Service Education for Teachers Certificate in Medical Sciences Certificate in School Counselling and Guidance Certificate in Social Study Certificates in engineering subjects, as determined by the Senate from time to time Hong Kong Common Professional Examination Certificate in Laws Postgraduate Certificate in Advanced Educational Studies Postgraduate Certificate in Clinical Research Methodology Postgraduate Certificate in Education Postgraduate Certificate in Laws Postgraduate Certificate in Molecular and Diagnostic Pathology Postgraduate Certificate in Psychological Medicine (Psychosis Studies) Postgraduate Certificate in Psychology Postgraduate Certificate in Psycho-oncology Postgraduate Certificate in Public Health
+      - Certificate in Chinese Language Certificate in Health Economics Certificate in In-Service Education for Teachers Certificate in Medical Sciences Certificate in School Counselling and Guidance Certificate in Social Study Certificates in engineering subjects, as determined by the Senate from time to time Hong Kong Common Professional Examination Certificate in Laws Postgraduate Certificate in Academic Practice Postgraduate Certificate in Advanced Educational Studies Postgraduate Certificate in Clinical Research Methodology Postgraduate Certificate in Education Postgraduate Certificate in Laws Postgraduate Certificate in Molecular and Diagnostic Pathology Postgraduate Certificate in Psychological Medicine (Psychosis Studies) Postgraduate Certificate in Psychology Postgraduate Certificate in Psycho-oncology Postgraduate Certificate in Public Health
 
-  - (Replaced L.N. 516 of 1994. Amended L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 11 of 2018)
+  - (Replaced L.N. 516 of 1994. Amended L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 11 of 2018; L.N. 112 of 2023)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (Replaced L.N. 4 of 1968)
 
@@ -850,35 +850,37 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I Interpretation In these statut
 
     - Committee (委員會) means the Disciplinary Committee appointed under paragraph 2;
 
-    - Senate panel (教務委員會小組) means the panel appointed under paragraph 3;
+    - student panel (學生小組) means the panel appointed under paragraph 4; (Amended L.N. 112 of 2023)
 
-    - student panel (學生小組) means the panel appointed under paragraph 4.
+    - teacher panel (教師小組) means the panel appointed under paragraph 3. (Added L.N. 112 of 2023)
+
+  - (Amended L.N. 112 of 2023)
 
   - 2.
 
     - (1) The Disciplinary Committee shall consist of—
 
-      - (a) 3 members of the Senate appointed by the Registrar out of a Senate panel, being the 3 members of the panel highest in order of precedence who have accepted appointment to serve on the Committee; and
+      - (a) 3 members appointed by the Registrar out of a teacher panel who have accepted appointment to serve on the Committee; and (Replaced L.N. 112 of 2023)
 
-      - (b) 2 students appointed by the Registrar out of a student panel, being 2 members of the panel highest in order of precedence who have accepted appointment to serve on the Committee.
+      - (b) 2 students appointed by the Registrar out of a student panel who have accepted appointment to serve on the Committee. (Replaced L.N. 112 of 2023)
 
-    - (2) The Registrar shall make appointments to the Committee in accordance with the procedure laid down in the regulations made by the Committee.
+    - (2) The Registrar is to make appointments to the Committee in accordance with the procedure for compiling the Disciplinary Committee as approved by the Senate. (Replaced L.N. 112 of 2023)
 
     - (3) If the Registrar does not receive sufficient acceptances of appointment to enable him to appoint a full Committee and subject to the power of the Senate to fill vacancies as provided in paragraph 3(3), the Chancellor shall fill vacancies in the Committee from members of the University as defined in Statute IV.
 
   - 3.
 
-    - (1) The Senate panel shall consist of 20 members of the Senate (not being students) appointed in a defined order of precedence by the Senate. (Amended L.N. 58 of 1976; L.N. 115 of 1991)
+    - (1) The teacher panel consists of 30 teachers (not being students) appointed by the Senate. (Replaced L.N. 112 of 2023)
 
-    - (2) Each member of the Senate panel shall appointed for a term of 1 year beginning on 1 July and terminating on 30 June in the following year or upon conclusion of a case upon which he may be then engaged with the Committee, whichever shall last occur, and shall be eligible for re-appointment.
+    - (2) Each member of the teacher panel shall appointed for a term of 1 year beginning on 1 July and terminating on 30 June in the following year or upon conclusion of a case upon which he may be then engaged with the Committee, whichever shall last occur, and shall be eligible for re-appointment.
 
-    - (3) If the Registrar fails to make any appointment from the Senate panel as required under paragraph 2(1)(a) such vacancy may be filled by the Senate by appointing a person from the Senate or from amongst the teachers as defined in section 12(9) of the Ordinance and Statute XII.
+    - (3) If the Registrar fails to make any appointment from the teacher panel as required under paragraph 2(1)(a) such vacancy may be filled by the Senate by appointing a person from the Senate or from amongst the teachers as defined in section 12(9) of the Ordinance and Statute XII.
 
-    - (4) Neither the Vice-Chancellor nor the Dean of Student Affairs shall be eligible for appointment to the Senate panel or as a member of the Committee under the provisions of subparagraph (1) or (3) of paragraph 2 or subparagraph (3) of this paragraph. (Amended L.N. 165 of 1999)
+    - (4) Neither the Vice-Chancellor nor the Dean of Student Affairs shall be eligible for appointment to the teacher panel or as a member of the Committee under the provisions of subparagraph (1) or (3) of paragraph 2 or subparagraph (3) of this paragraph. (Amended L.N. 165 of 1999; L.N. 112 of 2023)
 
   - 4.
 
-    - (1) The student panel shall consist of 20 students appointed in a defined order of precedence by the Council of the Students’ Union of the University.
+    - (1) The student panel consists of 30 students appointed by the Senate. (Replaced L.N. 112 of 2023)
 
     - (2) Each member of the student panel shall be appointed for a term of one year beginning on 1 July and terminating on 30 June in the following year or upon conclusion of a case upon which he may then be engaged with the Committee, whichever shall last occur, and shall be eligible for re-appointment.
 
@@ -886,11 +888,11 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I Interpretation In these statut
 
       - For the purposes of appointment to the student panel and proceedings before the Committee student (學生) shall not include a teacher or a full time employee of the University.
 
-    - (4) The President of the Students’ Union shall submit to the Registrar before 1 June of each year the names and order of precedence of the duly appointed members of the student panel.
+    - (4) (Repealed L.N. 112 of 2023)
 
-  - 5. The Registrar shall before 1 July of each year publish a list of the members of the Committee showing their order of precedence within their respective panels.
+  - 5. The Registrar shall before 1 July of each year publish a list of the members of the Committee within their respective panels. (Amended L.N. 112 of 2023)
 
-  - 6. The Chairman of the Committee shall be the member of the Committee who is highest in the order or precedence of those Senate members and teachers appointed to and present at the Committee; except that where the Registrar has failed to make any appointment from the Senate panel under paragraph 2(1)(a) and the Senate has failed to make any appointment under paragraph 3(3), the Chancellor shall appoint the Chairman.
+  - 6. The Chairman of the Committee must be a member of the teacher panel appointed in accordance with the procedure for compiling the Disciplinary Committee as approved by the Senate. (Replaced L.N. 112 of 2023)
 
   - 7.
 
@@ -954,19 +956,23 @@ STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I Interpretation In these statut
 
       - (i) false pretences, misrepresentation, fraud or personation of others, within or without the University, in connection with academic attainments or financial awards, or otherwise in connection with the University;
 
-      - (j) refusal or failure to comply with any order of the Vice-Chancellor or, if he is not available, a Pro-Vice-Chancellor, prohibiting any conduct which he has reasonable cause to believe is likely—
+      - (j) refusal or failure to comply with any order of the Vice-Chancellor, or his representative, prohibiting any conduct which he has reasonable cause to believe is likely— (Amended L.N. 112 of 2023)
 
-        - (i) to disrupt teaching, study, research or the administration of the University; or
+        - (i) to disrupt teaching, study, research or the administration of the University; (Amended L.N. 112 of 2023)
 
-        - (ii) to obstruct any officer or employee of the University in the performance of his duties;
+        - (ii) to obstruct any officer or employee of the University in the performance of his duties; or (Amended L.N. 112 of 2023)
+
+        - (iii) to bring the University into disrepute; (Added L.N. 112 of 2023)
 
       - (k) refusal or failure to attend upon or comply with any summons before or order of or decision made by the Committee or by the Vice-Chancellor in exercise of his disciplinary powers or by the Council;
 
       - (l) refusal or failure to comply with any order of any officer or teacher prohibiting conduct which he is reasonably satisfied—
 
-        - (i) is disrupting teaching, study, research or the administration of the University; or
+        - (i) is disrupting teaching, study, research or the administration of the University; (Amended L.N. 112 of 2023)
 
-        - (ii) is obstructing any officer or employee of the University in the performance of his duties;
+        - (ii) is obstructing any officer or employee of the University in the performance of his duties; or (Amended L.N. 112 of 2023)
+
+        - (iii) is bringing the University into disrepute; (Added L.N. 112 of 2023)
 
       - (m) refusal or failure to comply with any reasonable order of the warden of a hall relating to regulations governing residence made by the Senate or individual hall rules made in pursuance of such regulations;
 
