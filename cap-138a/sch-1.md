@@ -376,6 +376,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Besifloxacin; its salts; its esters; their salts
 
+- Betahistine; its salts; except when contained in pharmaceutical products containing betahistine hydrochloride or betahistine mesilate (a) labelled with a maximum recommended daily dose of the pharmaceutical product having the equivalent of 48 mg of betahistine hydrochloride or 36 mg of betahistine mesilate; (b) stated for use only in patients of 18 years old or above for relief of vertigo symptoms only; and (c) to be sold in packs for a maximum of 5 days’ use
+
 - Betaxolol; its salts
 
 - Bethanidine; its salts
