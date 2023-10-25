@@ -1,8 +1,8 @@
 # First Schedule
 
-[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29DI, 29DJ, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71, 72 & 73 & 2nd Sch. & Schs. 7, 8, 9 & 10]
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29DI, 29DJ, 29DM, 29DO, 29DV, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71, 72 & 73 & 2nd Sch. & Schs. 7, 8, 9 & 10]
 
-(Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 16 of 2016 s. 31; 2 of 2018 s. 11; 18 of 2018 s. 9; 14 of 2023 s. 5) (Format changes—E.R. 1 of 2015)
+(Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 16 of 2016 s. 31; 2 of 2018 s. 11; 18 of 2018 s. 9; 14 of 2023 s. 5; L.N. 148 of 2023 and 3 of 2024 s. 14) (Format changes—E.R. 1 of 2015)
 
 Nature of Instrument | (A) (B) (C) | Stamp Duty Time for stamping Persons liable
 
@@ -16,7 +16,7 @@ See LEASE and section 16 (Amended 14 of 2014 s. 28)
 
 SCALE 1— (Amended 2 of 2018 s. 11)
 
-Part 1 (Added 2 of 2018 s. 11) | (A) | 15% of the amount or value of the consideration
+Part 1 (Added 2 of 2018 s. 11) | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (B) | 30 days after the execution; but see Note 2 to this sub-head
 
@@ -92,7 +92,7 @@ Note 6
 
 Note 7
 
-This sub-head is subject to sections 29DE, 29DF, 29DG and 29DH (Added 14 of 2014 s. 28)
+This sub-head is subject to sections 29DE, 29DF, 29DG, 29DH and 29DV (Added 14 of 2014 s. 28. Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 Exchange, Instruments effecting—see sections 25(7), 29AIA, 29AO and 29AP (Replaced 2 of 2018 s. 11)
 
@@ -110,7 +110,7 @@ Part 1—for residential property acquired on or after 20 November 2010 but befo
 
 (C) | The same parties as those who are liable in respect of a conveyance on sale specified under sub-head (1)
 
-Part 2—for residential property acquired on or after 27 October 2012
+Part 2—for residential property acquired on or after 27 October 2012 and disposed of before 25 October 2023 (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (a) | if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) | (a) | 20% of the amount or value of the consideration
 
@@ -119,6 +119,20 @@ Part 2—for residential property acquired on or after 27 October 2012
 (c) | if the residential property is disposed of within a period of 36 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) | 10% of the amount or value of the consideration
 
 (Added 2 of 2014 s. 20)
+
+(B) | The same time as that which applies to a conveyance on sale specified under sub-head (1)
+
+(C) | The same parties as those who are liable in respect of a conveyance on sale specified under sub-head (1)
+
+Part 3—for residential property disposed of on or after 25 October 2023
+
+(a) | if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) | (a) | 20% of the amount or value of the consideration
+
+(b) | if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) | 15% of the amount or value of the consideration
+
+(c) | if the residential property is disposed of within a period of 24 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) | 10% of the amount or value of the consideration
+
+(Added L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (B) | The same time as that which applies to a conveyance on sale specified under sub-head (1)
 
@@ -138,7 +152,7 @@ Note 2
 
 (Added 14 of 2011 s. 15)
 
-(1AAB) | CONVEYANCE ON SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 15% of the amount or value of the consideration
+(1AAB) | CONVEYANCE ON SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (B) | The same time as that which applies to a conveyance on sale specified under sub-head (1)
 
@@ -152,7 +166,7 @@ This sub-head is subject to sections 29D, 29DB and 29DC (Added 2 of 2014 s. 20)
 
 SCALE 1— (Amended 2 of 2018 s. 11)
 
-Part 1 (Added 2 of 2018 s. 11) | (A) | 15% of the amount or value of the consideration
+Part 1 (Added 2 of 2018 s. 11) | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (B) | 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head
 
@@ -242,7 +256,7 @@ Note 6 (Repealed 33 of 1998 s. 11)
 
 Note 7
 
-This sub-head is subject to sections 29D, 29DE, 29DF, 29DG and 29DH (Added 14 of 2014 s. 28)
+This sub-head is subject to sections 29D, 29DE, 29DF, 29DG, 29DH and 29DV (Added 14 of 2014 s. 28. Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (1B) | AGREEMENT FOR SALE CHARGEABLE WITH SPECIAL STAMP DUTY
 
@@ -258,7 +272,7 @@ Part 1—for residential property acquired on or after 20 November 2010 but befo
 
 (C) | The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
 
-Part 2—for residential property acquired on or after 27 October 2012
+Part 2—for residential property acquired on or after 27 October 2012 and disposed of before 25 October 2023 (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (a) | if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) | (a) | 20% of the amount or value of the consideration
 
@@ -267,6 +281,20 @@ Part 2—for residential property acquired on or after 27 October 2012
 (c) | if the residential property is disposed of within a period of 36 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) | 10% of the amount or value of the consideration
 
 (Added 2 of 2014 s. 20) | (B) | The same time as that which applies to an agreement for sale specified under sub-head (1A)
+
+(C) | The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
+
+Part 3—for residential property disposed of on or after 25 October 2023
+
+(a) | if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) | (a) | 20% of the amount or value of the consideration
+
+(b) | if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) | 15% of the amount or value of the consideration
+
+(c) | if the residential property is disposed of within a period of 24 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) | 10% of the amount or value of the consideration
+
+(Added L.N. 148 of 2023 and 3 of 2024 s. 14)
+
+(B) | The same time as that which applies to an agreement for sale specified under sub-head (1A)
 
 (C) | The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
 
@@ -288,7 +316,7 @@ Note 4 Notes 2, 3 and 4 to head 1(1A) apply to special stamp duty chargeable on 
 
 (Added 14 of 2011 s. 15)
 
-(1C) | AGREEMENT FOR SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 15% of the amount or value of the consideration
+(1C) | AGREEMENT FOR SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
 
 (B) | The same time as that which applies to an agreement for sale specified under sub-head (1A)
 

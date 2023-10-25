@@ -1,6 +1,8 @@
 # Schedule 12
 
-[ss. 29DJ & 63B]
+[ss. 29DHA & 63B]
+
+(Amended L.N. 148 of 2023 and 3 of 2024 s. 15)
 
 Schemes Specified for Division 6A of Part IIIA
 
