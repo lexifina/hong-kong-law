@@ -1,8 +1,10 @@
 # Schedule 2
 
+[reg. 2] (L.N. 85 of 2023)
+
 - 1. Articles specified under the following items in Schedule 1—
 
-  - (a) items ML1, ML2, ML3, ML4, ML6, ML7 and ML8 in the Munitions List;
+  - (a) items ML1, ML2, ML3, ML4, ML6, ML7, ML8, ML9, ML10 and ML101 in the Munitions List; (L.N. 85 of 2023)
 
   - (b) all of the items in Category 0 of the Dual-use Goods List; and (L.N. 45 of 2010)
 
