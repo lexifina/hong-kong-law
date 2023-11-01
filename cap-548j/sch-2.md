@@ -1,6 +1,6 @@
 # Schedule 2
 
-[ss. 8 & 8A] (L.N. 112 of 2019)
+[s. 8] (L.N. 112 of 2019)
 
 Fees Prescribed for Purposes of Merchant Shipping (Local Vessels) (General) Regulation
 

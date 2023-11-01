@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 4, 5, 5A & 7] (L.N. 112 of 2019)
+[ss. 4, 5 & 7] (L.N. 112 of 2019)
 
 Fees Prescribed for Purposes of Merchant Shipping (Local Vessels) (Certification and Licensing) Regulation
 
