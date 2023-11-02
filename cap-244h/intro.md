@@ -1,5 +1,7 @@
 Drug Addiction Treatment Centres (Appointment) Order
 
-(Made by the Secretary for Security under section 3 of the Drug Addiction Treatment Centres Ordinance (Cap. 244))
+(Cap. 244, section 3)
+
+(Enacting provision omitted—E.R. 4 of 2023)
 
 [18 May 2023]

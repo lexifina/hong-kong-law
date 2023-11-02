@@ -260,7 +260,7 @@ Interpretation
 
       - (b) in relation to a licensed corporation, means the Securities and Futures Commission;
 
-      - (c) in relation to an authorized insurer, licensed individual insurance agent, licensed insurance agency or licensed insurance broker company, means the Insurance Authority; and (Replaced 12 of 2015 s. 162)
+      - (c) in relation to an authorized insurer, licensed individual insurance agent, licensed insurance agency or licensed insurance broker company, means the Insurance Authority; (Replaced 12 of 2015 s. 162. Amended E.R. 4 of 2023)
 
       - (d) in relation to a licensed money service operator or to the Postmaster General, means the Commissioner; (Amended 4 of 2018 s. 25; 15 of 2022 s. 32)
 

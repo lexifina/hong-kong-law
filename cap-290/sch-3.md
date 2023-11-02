@@ -4,7 +4,7 @@
 
 Relevant Provisions of Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption
 
-(Done at the Hague on 29 May 1993) CHAPTER I—SCOPE OF THE CONVENTION Article 2
+(Done at The Hague on 29 May 1993) CHAPTER I—SCOPE OF THE CONVENTION Article 2
 
 (1) The Convention shall apply where a child habitually resident in one Contracting State (“the State of origin”) has been, is being, or is to be moved to another Contracting State (“the receiving State”) either after his or her adoption in the State of origin by spouses or a person habitually resident in the receiving State, or for the purposes of such an adoption in the receiving State or in the State of origin.
 
@@ -210,4 +210,4 @@ Article 37
 
 In relation to a State which with regard to adoption has two or more systems of law applicable to different categories of persons, any reference to the law of that State shall be construed as referring to the legal system specified by the law of that State.
 
-(Schedule 3 added 28 of 2004 s. 34)
+(Schedule 3 added 28 of 2004 s. 34. Amended E.R. 4 of 2023)
