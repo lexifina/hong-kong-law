@@ -8,27 +8,31 @@ Statutes of The Chinese University of Hong Kong
 
 Interpretation
 
-In these Statutes, unless the context otherwise requires—
+- 1. In these Statutes, unless the context otherwise requires— (Amended 28 of 2023 s. 5)
 
-- additional College (新增書院) means a constituent College other than an original College or Shaw College; (Added 18 of 2007 s. 5)
+  - Committee of Overseers (院監會) means the Committee of Overseers of an additional College; (Added 28 of 2023 s. 5)
 
-- College (書院) means a constituent College of the University as provided by section 3; (Added 59 of 1986 s. 4. Amended 18 of 2007 s. 5)
+  - College (書院) means a constituent College of the University as provided by section 3; (Added 59 of 1986 s. 4. Amended 18 of 2007 s. 5)
 
-- Dean (院長) means the Dean of a Faculty or of the Graduate School, as the case may be; (Added L.N. 101 of 1995)
+  - Dean (院長) means the Dean of a Faculty or of the Graduate School, as the case may be; (Added L.N. 101 of 1995)
 
-- Department (學系) means a Department of a Faculty established by the Council on the recommendation of the Senate and Departments (各學系) shall be construed accordingly and, where the context permits, a Department also refers to a School of Studies and Chairman in relation to a Department also refers to Director of a School; (Added L.N. 452 of 1994. Amended L.N. 53 of 2012)
+  - Department (學系) means a Department of a Faculty established by the Council on the recommendation of the Senate and Departments (各學系) shall be construed accordingly and, where the context permits, a Department also refers to a School of Studies and Chairman in relation to a Department also refers to Director of a School; (Added L.N. 452 of 1994. Amended L.N. 53 of 2012)
 
-- Director of a School (專業學院院長) means the Director of a School of Studies; (Added L.N. 174 of 2010)
+  - Director of a School (專業學院院長) means the Director of a School of Studies; (Added L.N. 174 of 2010)
 
-- Graduate School (研究院) means the Graduate School of the University; (Added L.N. 101 of 1995)
+  - Graduate School (研究院) means the Graduate School of the University; (Added L.N. 101 of 1995)
 
-- Ordinance (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109); (Amended L.N. 38 of 2007)
+  - Ordinance (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109); (Amended L.N. 38 of 2007)
 
-- Professor (教授) means Professors carrying the Chinese title of “教授” and those appointed before 1 January 2010 carrying the Chinese title of “講座教授”; (Added L.N. 174 of 2010)
+  - Professor (教授) means Professors carrying the Chinese title of “教授” and those appointed before 1 January 2010 carrying the Chinese title of “講座教授”; (Added L.N. 174 of 2010)
 
-- Provost (常務副校長) means the Provost of the University appointed by the Council; (Added L.N. 53 of 2012)
+  - Provost (常務副校長) means the Provost of the University appointed under paragraph 1 of Statute 7; (Added L.N. 53 of 2012. Amended 28 of 2023 s. 5)
 
-- unit (單位) means an institution established or formed by the Council under section 12 of the Ordinance. (Added L.N. 25 of 2002)
+  - unit (單位) means an institution established or formed by the Council under section 12 of the Ordinance. (Added L.N. 25 of 2002)
+
+- (Amended 28 of 2023 s. 5)
+
+- 2. The Provost is at all times one of the Pro-Vice-Chancellors. (Added 28 of 2023 s. 5)
 
 STATUTE 2
 
@@ -67,6 +71,8 @@ Members of the University
   - (f) the members of the Council;
 
   - (g) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+
+  - (ga) the Masters of the additional Colleges; (Added 28 of 2023 s. 6)
 
   - (h) the members of the Senate;
 
@@ -108,11 +114,11 @@ STATUTE 6
 
 The Vice-Chancellor
 
-- 1. The Vice-Chancellor shall be appointed by the Council after receiving the advice of a committee established by the Council and composed of the Chairman of the Council, 3 members nominated by the Council from among its number and 3 members nominated by the Senate from among its number.
+- 1. The Vice-Chancellor is to be appointed by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being after receiving the advice of a committee established by the Council and composed of the Chairman of the Council, 3 members nominated by the Council from among its number and 3 members nominated by the Senate from among its number.
 
-- 2. The Vice-Chancellor shall hold office for such period and on such terms as may be determined by the Council.
+- 2. The Vice-Chancellor is to hold office for such period and on such terms as may be determined by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being.
 
-- 3. The Vice-Chancellor shall—
+- 3. The Vice-Chancellor is to— (Amended 28 of 2023 s. 7)
 
   - (a) have the right and duty to advise the Council on any matter affecting the policy, finance and administration of the University;
 
@@ -124,19 +130,23 @@ The Vice-Chancellor
 
   - (e) have power in case of emergency to appoint external examiners.
 
+- (Amended 28 of 2023 s. 7)
+
 STATUTE 7
 
 The Provost and the Pro-Vice-Chancellors
 
-The Provost and the Pro-Vice-Chancellors shall be appointed by the Council for such period and on such terms as may be determined by the Council.
+- 1. The Provost is to be appointed by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being, for such period and on such terms as may be determined by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being.
 
-(Replaced L.N. 53 of 2012) STATUTE 8
+- 2. The Pro-Vice-Chancellors are to be appointed by the Council for such period and on such terms as may be determined by the Council.
+
+(Replaced 28 of 2023 s. 8) STATUTE 8
 
 The Treasurer
 
-The Treasurer shall be appointed by the Council and shall hold office for 3 years, and may be re-appointed and when he is re-appointed he shall hold office for a further period or periods of 3 years.
+The Treasurer is to be appointed by the Chancellor and is to hold office for a period of 3 years and may be re-appointed for further periods of 3 years.
 
-STATUTE 9
+(Replaced 28 of 2023 s. 9) STATUTE 9
 
 The Heads of Original Colleges and of Shaw College
 
@@ -224,71 +234,145 @@ STATUTE 11
 
 The Council
 
-- 1. The Council shall consist of—
+- 1. The Council is to consist of— (Amended 28 of 2023 s. 10)
 
-  - (a) the Chairman, who shall be appointed by the Chancellor on the nomination of the Council from persons under subparagraphs (k), (l), (m) and (n);
+  - (a) the Chairman, who is to be appointed by the Chancellor; (Amended 28 of 2023 s. 10)
+
+  - (ab) the Vice-Chairman, who is to be appointed by the Chancellor; (Added 28 of 2023 s. 10)
 
   - (b) the Vice-Chancellor;
 
-  - (c) the Pro-Vice-Chancellors;
+  - (c) the Provost; (Replaced 28 of 2023 s. 10)
+
+  - (ca) one Pro-Vice-Chancellor (other than the Provost) as determined by the Council; (Added 28 of 2023 s. 10)
 
   - (d) the Treasurer;
 
-  - (da) life members appointed by the Council; (Added L.N. 31 of 1981)
+  - (da) (Repealed 28 of 2023 s. 10)
 
-  - (e) in relation to the original Colleges and Shaw College, 2 members elected by the Board of Trustees of each College from among its own members; (Amended 18 of 2007 s. 5)
+  - (e) 6 persons appointed by the Council on the nomination of the Boards of Trustees of the original Colleges and of Shaw College and the Committees of Overseers of the additional Colleges, subject to the following—
 
-  - (f) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+    - (i) the Boards of Trustees of the original Colleges and of Shaw College are to each nominate 1 person from among their own members; and
 
-  - (g) the Dean of each Faculty and of the Graduate School;
+    - (ii) the Committees of Overseers of the additional Colleges are to jointly nominate 2 persons from among their own members; (Replaced 28 of 2023 s. 10)
 
-  - (h) in relation to the original Colleges and Shaw College, one Fellow of each College elected by the College’s Assembly of Fellows; (Amended 18 of 2007 s. 5)
+  - (f) 2 persons elected by, and from among, the Heads of the original Colleges and of Shaw College and the Masters of the additional Colleges, in a manner to be determined by the Council; (Replaced 28 of 2023 s. 10)
 
-  - (i) 3 members elected by the Senate from among the academic members of the Senate;
+  - (g) 2 persons elected by, and from among, the Deans of the Faculties and the Dean of the Graduate School, in a manner to be determined by the Council; (Replaced 28 of 2023 s. 10)
+
+  - (h)-(i) (Repealed 28 of 2023 s. 10)
 
   - (j) (Repealed L.N. 481 of 1997)
 
-  - (k) 6 persons nominated by the Chancellor; (Amended L.N. 481 of 1997)
+  - (k) 6 persons appointed by the Chancellor; (Amended L.N. 481 of 1997; 28 of 2023 s. 10)
 
-  - (l) 3 persons elected by the Members of the Legislative Council, other than Official Members, from among their own number; (Replaced 67 of 1987 s. 2)
+  - (l) 3 persons elected by, and from among, the Members of the Legislative Council; (Replaced 28 of 2023 s. 10)
 
-  - (m) not more than 6 other persons, normally resident in Hong Kong; who shall be elected by the Council; (Amended L.N. 481 of 1997)
+  - (m) not more than 4 persons (other than the persons referred to in subparagraph (a), (ab), (b), (c), (ca), (d), (e), (f), (g), (k) or (l)), ordinarily resident in Hong Kong, appointed by the Council, and at least one of those persons is a graduate of the University; (Replaced 28 of 2023 s. 10)
 
-  - (n) after a date to be appointed by the Council, such number of members of the Convocation not exceeding 3 as shall be determined by the Council from time to time, to be elected by the Convocation in the manner determined by the Council.
+  - (n) 1 member of the Convocation elected by the Convocation, in a manner to be determined by the Council; (Replaced 28 of 2023 s. 10)
+
+  - (o) 1 person elected by, and from among, full-time employees of the University who are members of the academic staff of the University, in a manner to be determined by the Council, and appointed by the Council; (Added 28 of 2023 s. 10)
+
+  - (p) 1 person elected by, and from among, full-time employees of the University who are not members of the academic staff of the University, in a manner to be determined by the Council, and appointed by the Council; (Added 28 of 2023 s. 10)
+
+  - (q) 1 student elected by, and from among, full-time undergraduate students pursuing approved courses of study for a degree of Bachelor of the University, in a manner to be determined by the Council, and appointed by the Council; and (Added 28 of 2023 s. 10)
+
+  - (r) 1 student elected by, and from among, full-time postgraduate students pursuing approved courses of study for a degree of Master or Doctor of the University, or for any other academic award higher than a degree of Bachelor of the University, in a manner to be determined by the Council, and appointed by the Council. (Added 28 of 2023 s. 10)
 
 - 2.
 
-  - (1) Persons who hold appointments in the University shall not be eligible for nomination or election under paragraph 1(k), (l), (m) or (n).
+  - (1) Persons who hold salaried appointments in the University or who are students of the University are not eligible for appointment or election under paragraph 1(a), (ab), (e), (k), (l), (m) or (n). (Replaced 28 of 2023 s. 10)
 
   - (2) (Repealed L.N. 481 of 1997)
 
-- 3. The Chairman of the Council shall hold office for 3 years and may be re-appointed for further periods of 3 years.
+  - (3) To be eligible for election and appointment under paragraph 1(q) or (r), the student must be a full-time student pursuing an approved course of study of the University for a period of not less than 12 months. (Added 28 of 2023 s. 10)
+
+- 3. The Chairman of the Council is to hold office for 3 years and may be re-appointed for further periods of 3 years. (Amended 28 of 2023 s. 10)
 
 - 3A. The Chairman of the Council may confer degrees in the name of the University. (Added 23 of 2002 s. 61)
 
 - 4.
 
-  - (1) The nominated and elected members of the Council shall hold office for 3 years from the date of their nomination or election and shall be eligible for re-nomination or re-election:
+  - (1) Subject to subparagraph (4), members of the Council appointed or elected under paragraph 1(k), (l), (m) or (n)—
 
-    - Provided that a member elected under subparagraphs (e), (h), (i), (l) or (n) of paragraph 1 shall cease to be a member of the Council if he ceases to be a member of the body from among whose members he was elected. (Replaced L.N. 438 of 1993)
+    - (a) hold office for a period of 3 years from the date of their appointment or election, as the case may be; and
 
-  - (1A) If an elected member of the Council ceases to be a member under the proviso to subparagraph (1), the body which elected him shall duly elect a successor whose membership of the Council shall be for a period not exceeding 3 years. The successor shall be eligible for re-election to which subparagraph (2) shall apply. (Added L.N. 438 of 1993)
+    - (b) are eligible for re-appointment or re-election, as the case may be, for further periods of 3 years.
 
-  - (2) A body re-nominating or re-electing a member may re-nominate or re-elect, as the case may be, such member for a period of 3 years or for a period of less than 3 years. (Added L.N. 20 of 1988)
+  - (2) Subject to subparagraph (5), a member of the Council elected and appointed under paragraph 1(o) or (p)—
 
-- 5. Should a nominated or elected member of the Council die or resign during his period of membership, the body which nominated or elected him shall duly nominate or elect, as the case may be, a successor whose membership of the Council shall be for a period not exceeding 3 years. Such successor shall be eligible for re-nomination or re-election, and paragraph 4(2) shall apply thereto. (Amended L.N. 20 of 1988; L.N. 257 of 2000)
+    - (a) holds office for a period of 3 years from the date of his or her appointment; and
 
-- 6. Members of the Council whose membership derives from paragraph 1(b), (c), (d), (f) and (g) shall remain members of the Council for so long as they hold the office or appointment by reason of which they became members of the Council.
+    - (b) is eligible for re-election and re-appointment for further periods of 3 years.
 
-- 7. The Council shall elect from among its members a Vice-Chairman who shall hold office for a period of 2 years and who may be re-elected.
+  - (3) Subject to subparagraphs (4) and (5), members of the Council appointed or elected under paragraph 1(e), (f) or (g)—
+
+    - (a) hold office for a period of 1 year from the date of their appointment or election, as the case may be; and
+
+    - (b) are eligible for re-appointment or re-election, as the case may be, for further periods of 1 year.
+
+  - (4) A member of the Council appointed or elected under paragraph 1(e), (l) or (n) ceases to be a member of the Council if the member ceases to be a member of the body from among whose members the member was appointed or elected, as the case may be.
+
+  - (5) A member of the Council elected under paragraph 1(f) or (g), or elected and appointed under paragraph 1(o) or (p), ceases to be a member of the Council if the member ceases to meet the criteria of eligibility for election.
+
+  - (6) If a member of the Council elected under paragraph 1(l) or (n) dies or resigns during the member’s period of membership, or ceases to be a member of the Council under subparagraph (4), the body that elected the member, or from among whose members the member was elected, as the case may be, must duly elect a successor under the same paragraph—
+
+    - (a) whose membership of the Council must be for a period not exceeding 3 years; and
+
+    - (b) who is eligible for re-election under subparagraph (1)(b).
+
+  - (7) If a member of the Council elected and appointed under paragraph 1(o) or (p) dies or resigns during the member’s period of membership, or ceases to be a member of the Council under subparagraph (5), the full-time employees of the University from among whom the member was elected must duly elect a successor under the same paragraph—
+
+    - (a) whose membership of the Council must be for a period not exceeding 3 years; and
+
+    - (b) who is eligible for re-election and re-appointment under subparagraph (2)(b).
+
+  - (8) If a member of the Council appointed under paragraph 1(e) dies or resigns during the member’s period of membership, or ceases to be a member of the Council under subparagraph (4), the Council must duly appoint a successor under paragraph 1(e)—
+
+    - (a) whose membership of the Council must be for a period not exceeding 1 year; and
+
+    - (b) who is eligible for re-appointment under subparagraph (3)(b).
+
+  - (9) If a member of the Council elected under paragraph 1(f) or (g) dies or resigns during the member’s period of membership, or ceases to be a member of the Council under subparagraph (5), the Heads and the Masters, or the Deans, as the case may be, from among whom the member was elected must duly elect a successor under the same paragraph—
+
+    - (a) whose membership of the Council must be for a period not exceeding 1 year; and
+
+    - (b) who is eligible for re-election under subparagraph (3)(b). (Replaced 28 of 2023 s. 10)
+
+- 5. If a member of the Council appointed under paragraph 1(k) or (m) dies or resigns during the member’s period of membership, the Chancellor or the Council, as the case may be, must duly appoint a successor under the same paragraph—
+
+  - (a) whose membership of the Council must be for a period not exceeding 3 years; and
+
+  - (b) who is eligible for re-appointment under paragraph 4(1)(b). (Replaced 28 of 2023 s. 10)
+
+- 6. Members of the Council whose membership derives from paragraph 1(b), (c), (ca) and (d) are to remain members of the Council for so long as they hold the office by reason of which they became members of the Council. (Amended 28 of 2023 s. 10)
+
+- 6A.
+
+  - (1) Subject to subparagraph (3), a student member of the Council elected and appointed under paragraph 1(q) or (r)—
+
+    - (a) holds office for a period of 1 year from the date of his or her appointment; and
+
+    - (b) is eligible for re-election and re-appointment, but no student may be a member of the Council for more than 2 consecutive terms of office.
+
+  - (2) If a student member of the Council elected and appointed under paragraph 1(q) or (r) dies or resigns during the student member’s period of membership, or ceases to be a member of the Council under subparagraph (3)—
+
+    - (a) (if the student member’s unexpired period of membership is 6 months or longer) a successor is to be elected in a manner to be determined by the Council and appointed by the Council for that unexpired period of membership; or
+
+    - (b) (if the student member’s unexpired period of membership is shorter than 6 months) no successor is to be elected and appointed for that unexpired period of membership.
+
+  - (3) A student member of the Council elected and appointed under paragraph 1(q) or (r) ceases to be a member of the Council if the student member ceases to meet the criteria of eligibility for election and appointment. (Added 28 of 2023 s. 10)
+
+- 7. The Vice-Chairman of the Council is to hold office for a period of 3 years and may be re-appointed for further periods of 3 years. (Replaced 28 of 2023 s. 10)
 
 - 8. Subject to the Ordinance and the Statutes and without derogating from the generality of its power, it is specifically prescribed—
 
-  - (1) that the Council shall have the power—
+  - (1) that the Council is to have the power— (Amended 28 of 2023 s. 10)
 
-    - (a) to make Statutes, provided that no Statute shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
+    - (a) to make Statutes, provided that no Statute is to be made until the Senate is to have had an opportunity of reporting thereon to the Council; (Amended 28 of 2023 s. 10)
 
-    - (b) to make decrees for any purpose for which decrees are or may be authorized to be made, provided that no decree shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
+    - (b) to make decrees for any purpose for which decrees are or may be authorized to be made, provided that no decree is to be made until the Senate is to have had an opportunity of reporting thereon to the Council; (Amended 28 of 2023 s. 10)
 
     - (c) to invest any money belonging to the University;
 
@@ -318,7 +402,7 @@ The Council
 
     - (o) to prescribe fees of the University;
 
-  - (2) that it shall be the duty of the Council—
+  - (2) that it is to be the duty of the Council— (Amended 28 of 2023 s. 10)
 
     - (a) to appoint bankers, auditors and any other agents whom it deems expedient to appoint;
 
@@ -350,11 +434,31 @@ The Council
 
     - (p) to consider reports from the Senate, and if the Council deems it proper to do so, to take action thereon.
 
-- 9. The Council shall meet at least 3 times in each academic year and additionally on the written request of the Chairman of the Council or the Vice-Chancellor or any 5 members of the Council.
+- 9. The Council must meet at least 3 times in each academic year and additionally on the written request of the Chairman of the Council or the Vice-Chancellor or any 5 members of the Council. (Amended 28 of 2023 s. 10)
 
-- 9A. The Council may transact any of its business by circulation of papers, and unless the Vice-Chancellor or 5 members of the Council in writing request the Chairman of the Council to refer any particular item of the business being so transacted to the next meeting of the Council, a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Council. (Added L.N. 256 of 1998)
+- 9A. The Council may transact any of its business by circulation of papers, and unless the Vice-Chancellor or 5 members of the Council in writing request the Chairman of the Council to refer any particular item of the business being so transacted to the next meeting of the Council, a resolution in writing which is approved in writing by a majority of the members of the Council for the time being is to be as valid and effectual as if it had been passed at a meeting of the Council. (Added L.N. 256 of 1998. Amended 28 of 2023 s. 10)
 
-- 10. 7 days’ notice in writing of any meeting of the Council shall be sent by the Secretary to each person entitled to receive notice of the meeting with the agenda thereof, and no business not included in the agenda shall be transacted if the Chairman or any 2 members present object.
+- 9B.
+
+  - (1) The Council may determine—
+
+    - (a) whether student members of the Council or of any committees or other bodies as the Council may establish are allowed to participate in that part of meetings considering any reserved areas of business; and
+
+    - (b) (if they are so allowed) the manner of their participation.
+
+  - (2) Those student members who are allowed to participate in that part of meetings considering any reserved areas of business may, subject to any conditions as the Council may determine, access and read the papers relating to those areas.
+
+  - (3) For the purposes of this Statute, the reserved areas of business are the following—
+
+    - (a) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+
+    - (b) matters affecting the admission and academic assessment of students as individuals;
+
+    - (c) expenditure estimates and other matters concerning the finances of the University.
+
+  - (4) The Chairman of the Council, or the Chairman of the committee or other body established by the Council, as the case may be, may decide in any case of doubt whether or not a matter falls within one of the reserved areas of business referred to in subparagraph (3) and the Chairman’s decision is final. (Added 28 of 2023 s. 10)
+
+- 10. 7 days’ notice in writing of any meeting of the Council must be sent by the Secretary to each person entitled to receive notice of the meeting with the agenda thereof, and no business not included in the agenda is to be transacted if the Chairman or any 2 members present object. (Amended 28 of 2023 s. 10)
 
 - 11. The Council may make for the proper conduct of its business Standing Orders which it may amend or rescind by simple majority at any of its meetings provided that not less than 7 days’ notice has been given in writing by the Secretary to members of the Council of the proposal so to amend or rescind.
 
@@ -410,6 +514,8 @@ The Administrative and Planning Committee
 
   - (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
 
+  - (ca) the Masters of the additional Colleges; (Added 28 of 2023 s. 11)
+
   - (d) the Dean of each Faculty and of the Graduate School;
 
   - (e) the Secretary;
@@ -447,6 +553,8 @@ The Senate
   - (b) the Pro-Vice-Chancellors;
 
   - (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+
+  - (ca) the Masters of the additional Colleges; (Added 28 of 2023 s. 12)
 
   - (d) the Dean of each Faculty and of the Graduate School;
 
@@ -600,7 +708,7 @@ The Faculties and the Graduate School
 
   - (b)-(c) (Repealed L.N. 452 of 1994)
 
-  - (d) the Dean, who shall be Chairman;
+  - (d) the Dean of the Faculty, who shall be Chairman; (Amended 28 of 2023 s. 13)
 
   - (da) the Associate Deans and Assistant Deans of the Faculty; (Added L.N. 174 of 2010)
 
@@ -706,7 +814,7 @@ Fellows
 
 - 6. In relation to the original Colleges and Shaw College, the Assembly of Fellows of each College shall—
 
-  - (a) elect one of their number to be a member of the Council; and
+  - (a) (Repealed 28 of 2023 s. 14)
 
   - (b) when necessary, elect 6 Fellows of varying academic seniority for the purposes of serving on the Committee constituted under paragraph 1 of Statute 9. (Replaced 18 of 2007 s. 5)
 
@@ -792,7 +900,7 @@ The Convocation
 
 - 3B. Any person who has attended an approved course of study for not less than 1 academic year after admission as a registered postgraduate student to a Faculty or a School of Studies and has been awarded a postgraduate diploma by the Senate on satisfactory fulfilment of all the requirements prescribed therefor may register with the Registrar of the University to have his name entered on the Convocation roll. (Added L.N. 167 of 1993. Amended L.N. 174 of 2010)
 
-- 4. The Convocation shall from its own members elect a Chairman and may elect a Vice-Chairman who shall respectively hold office for such periods as the Convocation may determine. No member shall be eligible for election as Chairman or Vice-Chairman unless he is normally resident in Hong Kong. Any retiring Chairman or Vice-Chairman shall be eligible for re-election.
+- 4. The Convocation shall from its own members elect a Chairman and may elect a Vice-Chairman who shall respectively hold office for such periods as the Convocation may determine. No member shall be eligible for election as Chairman or Vice-Chairman unless he is ordinarily resident in Hong Kong. Any retiring Chairman or Vice-Chairman shall be eligible for re-election. (Amended 28 of 2023 s. 15)
 
 - 5. In case of any casual vacancy in the office of Chairman or Vice-Chairman, the Convocation shall elect one of its members to fill the vacancy and the person so elected shall hold office for the remainder of the term for which his predecessor was appointed.
 
@@ -800,7 +908,7 @@ The Convocation
 
 - 7.
 
-  - (1) Subject to subparagraph (2), the Convocation shall from a date to be appointed by the Council elect such number of members of the Convocation not exceeding 3 as the Council shall from time to time determine to be members of the Council.
+  - (1) Subject to subparagraph (2), the Convocation is to elect 1 member of the Convocation, in a manner to be determined by the Council, to be a member of the Council. (Replaced 28 of 2023 s. 15)
 
   - (2) No member of the Convocation shall be eligible for election under subparagraph (1) to serve, or continue to serve, as a member of the Council if he is or becomes a member of the University by virtue of Statute 3, unless he is such a member by virtue of paragraph (m) only, and not at the same time such a member by virtue of any other paragraph, of that Statute, but, save as aforesaid, a member of the Convocation elected under subparagraph (1) shall continue to be a member of the Council, and shall be eligible for re-election, notwithstanding his being a member of the University by virtue of paragraphs (f) and (m) of Statute 3 at the same time so long as he is such a member of the Council by virtue of paragraph 1(n) of Statute 11 only, and not at the same time a member of the Council by virtue of any other paragraph of that Statute. (Amended L.N. 327 of 1996; L.N. 481 of 1997)
 
@@ -822,6 +930,8 @@ Academic Staff
 
   - (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
 
+  - (ca) the Masters of the additional Colleges; (Added 28 of 2023 s. 16)
+
   - (d) the teachers;
 
   - (e) the Librarian; and
@@ -842,7 +952,7 @@ STATUTE 22
 
 Retirement of Certain Officers and Academic Staff
 
-- The Vice-Chancellor, the Pro-Vice-Chancellors and all other salaried officers and teachers—
+- All salaried officers (other than the Vice-Chancellor and the Provost) and teachers— (Amended 28 of 2023 s. 17)
 
   - (a) shall vacate their offices or appointments by 31 July following the date on which they attain the age of 60 years unless the Council by a vote of at least two-thirds of the number of members present shall request any such person to continue in his office or appointment for such period thereafter as it shall from time to time determine; or
 
@@ -856,9 +966,11 @@ Any person wishing to resign from any office or membership of any body shall do 
 
 STATUTE 24
 
-Removal from Office, Membership or Appointment
+Removal from Membership or Appointment
 
-- 1. The Council may for good cause as defined in paragraph 2 remove the Treasurer from his office and any member of the Council other than the Chairman and any person appointed under paragraph 1(k) and (1) of Statute 11 from his membership of the Council.
+(Amended 28 of 2023 s. 18)
+
+- 1. The Council may for good cause as defined in paragraph 2 remove any member of the Council other than the Chairman, the Vice-Chairman, the Treasurer and any person appointed under paragraph 1(k) and (1) of Statute 11 from his membership of the Council. (Amended 28 of 2023 s. 18)
 
 - 2.
 
@@ -870,7 +982,7 @@ Removal from Office, Membership or Appointment
 
     - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
 
-- 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Heads of the original Colleges and of Shaw College, any of the Professors, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council. (Amended 18 of 2007 s. 5; L.N. 174 of 2010)
+- 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Heads of the original Colleges and of Shaw College, the Masters of the additional Colleges, any of the Professors, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council. (Amended 18 of 2007 s. 5; L.N. 174 of 2010; 28 of 2023 s. 18)
 
 - 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
 
@@ -1048,4 +1160,6 @@ The Statutes may be cited as the Statutes of The Chinese University of Hong Kong
 
 Editorial Note:
 
-For the transitional provision relating to the amendments made by the Statute Law (Miscellaneous Provisions) Ordinance 2002 (23 of 2002), see section 65 of that Ordinance.
+1. | For the transitional provision relating to the amendments made by the Statute Law (Miscellaneous Provisions) Ordinance 2002 (23 of 2002), see section 65 of that Ordinance.
+
+2. | For the transitional and saving provisions relating to the amendments made by The Chinese University of Hong Kong (Amendment) Ordinance 2023 (28 of 2023), see sections 19 and 20 of that Ordinance.
