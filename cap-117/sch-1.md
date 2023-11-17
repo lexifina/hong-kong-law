@@ -370,7 +370,7 @@ Voluntary Disposition inter vivos—see section 27
 
 HEAD 2: | HONG KONG STOCK
 
-(1) | CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) | 0.13% of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 16 of 2021 s. 3)
+(1) | CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) | 0.1% of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 16 of 2021 s. 3; 29 of 2023 s. 3)
 
 (B) | 2 days after the sale or purchase if effected in Hong Kong: see section 19(1)(b)(i)
 
@@ -390,7 +390,7 @@ Where the consideration or any part of the consideration consists of any securit
 
 And see sections 2, 4, 19 and 20
 
-(3) | TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) (B) | $5 and 0.26% of the value of the stock; but see Note 4 to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 4 of 2015 s. 5; 16 of 2021 s. 3) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head
+(3) | TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) (B) | $5 and 0.2% of the value of the stock; but see Note 4 to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 4 of 2015 s. 5; 16 of 2021 s. 3; 29 of 2023 s. 3) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head
 
 (C) | The transferor and the transferee; but see Note 1 to this sub-head
 
