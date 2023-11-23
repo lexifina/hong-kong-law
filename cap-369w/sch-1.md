@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 48]
 
-INERT GAS SYSTEMS: STANDARD REQUIREMENTS
+Inert Gas Systems: Standard Requirements
 
 (L.N. 411 of 1995)
 
-- (1) Every fixed inert gas system provided in accordance with regulation 48(1) or (4) shall comply with the following requirements except that the requirements of subparagraphs (h), (i)(ii), (j)(ii), (j)(vii), (j)(ix), (k)(iii), (k)(iv) and (m)(iii)(B), and (s)(viii)(2) need not apply to inert gas systems fitted before 1 June 1981. (L.N. 411 of 1995)
+(1) Every fixed inert gas system provided in accordance with regulation 48(1) or (4) shall comply with the following requirements except that the requirements of subparagraphs (h), (i)(ii), (j)(ii), (j)(vii), (j)(ix), (k)(iii), (k)(iv) and (m)(iii)(B), and (s)(viii)(2) need not apply to inert gas systems fitted before 1 June 1981. (L.N. 411 of 1995)
 
 - (2)
 
@@ -14,7 +14,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (i) The inert gas system shall be designed, constructed and tested to the satisfaction of the Director. It shall be designed and operated so as to render and maintain the atmosphere of the cargo tanks including the slop tanks non-flammable at all times, except where such tanks are to be gas free; and
 
-    - (ii) in the event that the inert gas system becomes unable to meet the operational requirements set out above and it has been assessed that it is impractical to effect a repair, then cargo discharge, deballasting and necessary tank cleaning shall only be resumed when the “emergency procedures” laid down in the “Guidelines for Inert Gas Systems” are complied with.
+    - (ii) in the event that the inert gas system becomes unable to meet the operational requirements set out above and it has been assessed that it is impractical to effect a repair, then cargo discharge, deballasting and necessary tank cleaning shall only be resumed when the “emergency procedures” laid down in the Guidelines for Inert Gas Systems are complied with. (E.R. 4 of 2023)
 
   - (b) The system shall be capable of—
 
@@ -90,7 +90,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
       - (A) the inert gas supply main shall be fitted with branch piping leading to each cargo tank and slop tank. Branch piping for inert gas shall be fitted with either stop valves or equivalent means of control for isolating each tank. Where stop valves are fitted, they shall be provided with locking arrangements, which shall be under the control of a responsible ship’s officer;
 
-      - (B) in combination carriers, the arrangements to isolate the slop tanks containing oil or oil residues from other tanks shall consist of blank flanges which will remain in position at all times when cargoes other than oil are being carried except as provided for in the relevant section of the “Guidelines for Inert Gas Systems”;
+      - (B) in combination carriers, the arrangements to isolate the slop tanks containing oil or oil residues from other tanks shall consist of blank flanges which will remain in position at all times when cargoes other than oil are being carried except as provided for in the relevant section of the Guidelines for Inert Gas Systems; (E.R. 4 of 2023)
 
     - (iii) means shall be provided to protect cargo tanks and slop tanks against the effect of over-pressure or vacuum caused by thermal variations when such tanks are isolated from the inert gas main;
 
@@ -98,11 +98,11 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (v) suitable arrangements shall be provided to enable the inert gas main to be connected to an external supply of inert gas.
 
-  - (l) The arrangements for the venting of all vapours displaced from the cargo tanks during loading or ballasting shall comply with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg.) and shall consist of either one or more mast risers, or a number of high velocity vents. The inert gas supply main may be used for such venting.
+  - (l) The arrangements for the venting of all vapours displaced from the cargo tanks during loading or ballasting shall comply with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg. R) and shall consist of either one or more mast risers, or a number of high velocity vents. The inert gas supply main may be used for such venting. (E.R. 4 of 2023)
 
   - (m) The arrangements for inerting, purging or gas freeing of empty tanks as required by subparagraph (b) shall in addition be approved for the purposes of this Schedule by the Director and shall be such that the accumulation of hydrocarbon vapours in pockets formed by the internal structural members in a tank is minimized and that—
 
-    - (i) on individual cargo tanks or slop tanks the gas outlet pipe, if fitted, shall be positioned as far as practicable from the inert gas/air inlet and in accordance with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg.). The inlet of such outlet pipes may be located at either deck level or at not more than 1 metre above the bottom of the tank;
+    - (i) on individual cargo tanks or slop tanks the gas outlet pipe, if fitted, shall be positioned as far as practicable from the inert gas/air inlet and in accordance with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg. R). The inlet of such outlet pipes may be located at either deck level or at not more than 1 metre above the bottom of the tank; (E.R. 4 of 2023)
 
     - (ii) each gas outlet referred to in sub-subparagraph (i) shall be fitted with suitable blanking arrangements; and
 
@@ -120,9 +120,9 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
       - (B) a negative pressure in excess of 700 millimetres water gauge, if cargo were to be discharged at the maximum rated capacity of the cargo pumps and the inert gas blower were to fail,
 
-    - such devices shall be installed on the inert gas main unless they are installed in the venting system required by regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg.) or on individual cargo tanks;
+    - such devices shall be installed on the inert gas main unless they are installed in the venting system required by regulation 12 of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After 1 September 1984) Regulations (Cap. 369 sub. leg. S) or on individual cargo tanks;
 
-    - (ii) the location and design of the devices referred to above shall be in accordance with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg.).
+    - (ii) the location and design of the devices referred to above shall be in accordance with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg. R). (E.R. 4 of 2023)
 
   - (o) Means shall be provided for continuously indicating the temperature and pressure of the inert gas at the discharge side of the gas blowers, whenever those gas blowers are operating.
 
@@ -160,7 +160,7 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
       - (E) oxygen content referred to in subparagraph (p)(i)(B) in excess of 8% by volume;
 
-      - (F) failure of the power supply to the automatic control system for the gas regulating valve and to the indicating devices referred to in subparagraphs (i) and (p)(i), respectively;
+      - (F) failure of the power supply to the automatic control system for the gas regulating valve and to the indicating devices referred to in subparagraphs (i) and (p)(i) respectively; (E.R. 4 of 2023)
 
       - (G) low water level in the water seal referred to in subparagraph (j)(i);
 
@@ -176,9 +176,9 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
       - (C) failure of the power supply to the automatic control system for the generator;
 
-    - (iii) automatic shut down of the inert gas blowers and gas regulating valve shall be arranged to operate on system designed limits being reached in respect of a pressure, flow rate, level or temperature mentioned in sub-subparagraph (i)(A), (i)(B) or (i)(C);
+    - (iii) automatic shutdown of the inert gas blowers and gas regulating valve shall be arranged to operate on system designed limits being reached in respect of a pressure, flow rate, level or temperature mentioned in sub-subparagraph (i)(A), (i)(B) or (i)(C); (E.R. 4 of 2023)
 
-    - (iv) automatic shut down of the gas regulating valve shall be arranged to operate on failure of the inert gas blowers referred to in subparagraph (g);
+    - (iv) automatic shutdown of the gas regulating valve shall be arranged to operate on failure of the inert gas blowers referred to in subparagraph (g); (E.R. 4 of 2023)
 
     - (v) in relation to sub-subparagraph (i)(E) when the oxygen content of the inert gas exceeds 8%, immediate action shall be taken to reduce the oxygen level. Unless the quality of gas improves, all in-tank operations shall be suspended so as to avoid air being drawn into the tanks and the isolation valve referred to in subparagraph (j)(viii) shall be closed;
 
@@ -186,6 +186,6 @@ INERT GAS SYSTEMS: STANDARD REQUIREMENTS
 
     - (vii) in relation to the water seal mentioned in sub-subparagraph (i)(G) arrangements shall be made to the satisfaction of the Director for the maintenance of an adequate reserve of water at all times and the integrity of the arrangements to permit the automatic formation of the water seal when the gas flow ceases. The audible and visual alarm on the low level of water in the water seal shall operate when the inert gas is not being supplied;
 
-    - (viii) an audible alarm system, independent of that required by sub-subparagraph (i)(H) or automatic shut down of cargo pumps shall be provided to operate on the system designed limit of low pressure in the inert gas main being reached.
+    - (viii) an audible alarm system, independent of that required by sub-subparagraph (i)(H) or automatic shutdown of cargo pumps shall be provided to operate on the system designed limit of low pressure in the inert gas main being reached. (E.R. 4 of 2023)
 
   - (t) A detailed instruction manual for any inert gas system fitted in compliance with this Schedule shall be provided on board by the owner. The manual shall cover the operational safety and maintenance requirements and occupational health hazards relevant to the inert gas system and its application to the cargo tank system. In addition the manual shall include guidance on procedures to be followed in the event of a fault or failure of the inert gas system as described in the Guidelines for Inert Gas Systems.

@@ -1,80 +1,80 @@
-# SCHEDULE 1B
+# Schedule 1B
 
 [reg. 48(2A)(b)]
 
-INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CARRYING CRUDE OIL OR PETROLEUM PRODUCTS
+Inert Gas Systems: Alternative Requirements for Chemical Tankers Carrying Crude Oil or Petroleum Products
 
-- (1)
+(1)
 
-  - (a) Every inert gas system provided in accordance with regulation 48(2A)(b) shall be designed, constructed and tested to the satisfaction of the Director and shall comply with the following requirements.
+- (a) Every inert gas system provided in accordance with regulation 48(2A)(b) shall be designed, constructed and tested to the satisfaction of the Director and shall comply with the following requirements.
 
-  - (b) In this Schedule a reference to a cargo tank includes a reference to a slop tank containing oil residues.
+- (b) In this Schedule a reference to a cargo tank includes a reference to a slop tank containing oil residues.
 
-- (2) The system shall be capable of—
+(2) The system shall be capable of—
 
-  - (a) inerting empty cargo tanks by reducing the oxygen content of the atmosphere in each tank to a level at which combustion cannot be supported;
+- (a) inerting empty cargo tanks by reducing the oxygen content of the atmosphere in each tank to a level at which combustion cannot be supported;
 
-  - (b) maintaining the atmosphere in all parts of each cargo tank designated to carry flammable products requiring protection by an inert gas system with an oxygen content not exceeding 8% by volume and at a positive pressure at all times in port and at sea except when it is necessary for such a tank to be gas-free;
+- (b) maintaining the atmosphere in all parts of each cargo tank designated to carry flammable products requiring protection by an inert gas system with an oxygen content not exceeding 8% by volume and at a positive pressure at all times in port and at sea except when it is necessary for such a tank to be gas-free;
 
-  - (c) eliminating the need for air to enter a tank during normal operations except when it is necessary for such a tank to be gas-free;
+- (c) eliminating the need for air to enter a tank during normal operations except when it is necessary for such a tank to be gas-free;
 
-  - (d) purging empty cargo tank of flammable vapour so that subsequent gas-freeing operations will at no time create a flammable atmosphere within the tanks.
+- (d) purging empty cargo tank of flammable vapour so that subsequent gas-freeing operations will at no time create a flammable atmosphere within the tanks.
 
-- (3)
+(3)
 
-  - (a) The system shall be capable of delivering inert gas to the cargo tanks at a rate of at least 125% of the maximum rate of discharge capacity of the ship expressed as a volume. The Director may accept an inert gas system having a lower delivery capacity provided that the maximum rate of discharge of cargoes from cargo tanks being protected by the system is restricted to 80% of the inert gas capacity.
+- (a) The system shall be capable of delivering inert gas to the cargo tanks at a rate of at least 125% of the maximum rate of discharge capacity of the ship expressed as a volume. The Director may accept an inert gas system having a lower delivery capacity provided that the maximum rate of discharge of cargoes from cargo tanks being protected by the system is restricted to 80% of the inert gas capacity.
 
-  - (b) The system shall be capable of delivering inert gas with an oxygen content of not more than 5% by volume in the inert gas supply main to the cargo tanks at any required rate of flow.
+- (b) The system shall be capable of delivering inert gas with an oxygen content of not more than 5% by volume in the inert gas supply main to the cargo tanks at any required rate of flow.
 
-- (4)
+(4)
 
-  - (a) Suitable fuel in sufficient quantity shall be provided for the inert gas generators.
+- (a) Suitable fuel in sufficient quantity shall be provided for the inert gas generators.
 
-  - (b) The inert gas generators shall be located outside the cargo tank area as defined in the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk. Spaces containing inert gas generators shall have no direct access to accommodation, service or control station spaces but may be located in machinery spaces. If they are not located in machinery spaces, they shall be located in a compartment reserved solely for their use. Such a compartment shall be separated by a gastight steel bulkhead or deck from accommodation, service and control station spaces. Adequate positive-pressure-type mechanical ventilation shall be provided for such a compartment. Access to such compartments located aft shall be only from an open deck outside the cargo tank area. Access shall be located on the end bulkhead not facing the cargo area or on the outboard side of the superstructure or deckhouse at a distance of at least 25% of the length of the ship but not less than 5 metres from the end of the superstructure or deckhouse facing the cargo area. In the case of such a compartment being located in the forecastle, access shall be through the deckhead forward of the cargo area.
+- (b) The inert gas generators shall be located outside the cargo tank area as defined in the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk. Spaces containing inert gas generators shall have no direct access to accommodation, service or control station spaces but may be located in machinery spaces. If they are not located in machinery spaces, they shall be located in a compartment reserved solely for their use. Such a compartment shall be separated by a gastight steel bulkhead or deck from accommodation, service and control station spaces. Adequate positive-pressure-type mechanical ventilation shall be provided for such a compartment. Access to such compartments located aft shall be only from an open deck outside the cargo tank area. Access shall be located on the end bulkhead not facing the cargo area or on the outboard side of the superstructure or deckhouse at a distance of at least 25% of the length of the ship but not less than 5 metres from the end of the superstructure or deckhouse facing the cargo area. In the case of such a compartment being located in the forecastle, access shall be through the deckhead forward of the cargo area.
 
-  - (c) Inert gas piping systems shall not pass through accommodation, service and control station spaces.
+- (c) Inert gas piping systems shall not pass through accommodation, service and control station spaces.
 
-- (5)
+(5)
 
-  - (a) Means shall be provided which will effectively cool the volume of gas specified by paragraph (3) and remove solids and sulphur combustion products. The cooling water arrangements shall be such that an adequate supply of water will always be available without interfering with any essential services on the ship. Provision shall also be made for an alternative supply of cooling water.
+- (a) Means shall be provided which will effectively cool the volume of gas specified by paragraph (3) and remove solids and sulphur combustion products. The cooling water arrangements shall be such that an adequate supply of water will always be available without interfering with any essential services on the ship. Provision shall also be made for an alternative supply of cooling water.
 
-  - (b) Filters or equivalent devices shall be fitted to minimize the amount of water carried over to the inert gas main.
+- (b) Filters or equivalent devices shall be fitted to minimize the amount of water carried over to the inert gas main.
 
-- (6)
+(6)
 
-  - (a) Two air blowers shall be fitted to each inert gas generator, which together shall be capable of delivering to the cargo tanks required to be protected by the system at least the volume of gas required by paragraph (3). The Director may permit only one blower if it is capable of delivering to the protected cargo tanks the total volume of gas required by paragraph (3), provided that sufficient spares for the air blower and its prime mover are carried on board to enable any failure of the air blower and its prime mover to be rectified.
+- (a) Two air blowers shall be fitted to each inert gas generator, which together shall be capable of delivering to the cargo tanks required to be protected by the system at least the volume of gas required by paragraph (3). The Director may permit only one blower if it is capable of delivering to the protected cargo tanks the total volume of gas required by paragraph (3), provided that sufficient spares for the air blower and its prime mover are carried on board to enable any failure of the air blower and its prime mover to be rectified.
 
-  - (b) The inert gas system shall be so designed that the maximum pressure which it can exert on any cargo tank will not exceed the test pressure of that tank.
+- (b) The inert gas system shall be so designed that the maximum pressure which it can exert on any cargo tank will not exceed the test pressure of that tank.
 
-  - (c) Where more than one inert gas generator is provided, suitable shut-off arrangements shall be provided on the discharge outlet of each generator plant.
+- (c) Where more than one inert gas generator is provided, suitable shut-off arrangements shall be provided on the discharge outlet of each generator plant.
 
-  - (d) Arrangements shall be made to vent the inert gas to the atmosphere in case the inert gas produced is sub-standard, e.g. during starting-up or in case of equipment failure.
+- (d) Arrangements shall be made to vent the inert gas to the atmosphere in case the inert gas produced is sub-standard, e.g. during starting-up or in case of equipment failure.
 
-  - (e) Where inert gas generators are served by positive displacement blowers, a pressure relief device shall be provided to prevent excess pressure being developed on the discharge side of the blower.
+- (e) Where inert gas generators are served by positive displacement blowers, a pressure relief device shall be provided to prevent excess pressure being developed on the discharge side of the blower.
 
-- (7) Two fuel oil pumps shall be fitted to each inert gas generator. The Director may permit only one fuel oil pump on condition that sufficient spares for the fuel oil pump and its prime mover are carried on board to enable any failure of the fuel oil pump and its prime mover to be rectified by the ship’s crew.
+(7) Two fuel oil pumps shall be fitted to each inert gas generator. The Director may permit only one fuel oil pump on condition that sufficient spares for the fuel oil pump and its prime mover are carried on board to enable any failure of the fuel oil pump and its prime mover to be rectified by the ship’s crew.
 
-- (8) A gas-regulating valve shall be fitted in the inert gas supply main. This valve shall be automatically controlled to close as required by paragraph (17)(b) and (c). It shall also be capable of automatically regulating the flow of inert gas to the cargo tanks unless other means are provided to control automatically the inert gas flow rate.
+(8) A gas-regulating valve shall be fitted in the inert gas supply main. This valve shall be automatically controlled to close as required by paragraph (17)(b) and (c). It shall also be capable of automatically regulating the flow of inert gas to the cargo tanks unless other means are provided to control automatically the inert gas flow rate.
 
-- (9)
+(9)
 
-  - (a) At least 2 non-return devices, one of which shall be a water seal, shall be fitted in the inert gas supply main in order to prevent the return of flammable vapour to the inert gas generator and to any gas-safe space under all normal conditions of trim, list and motion of the ship. They shall be located between the automatic valve required by paragraph (8) and the first connection to any cargo tank or cargo pipeline. The Director may permit an alternative arrangement or device providing a measure of safety equivalent to that of a water seal.
+- (a) At least 2 non-return devices, one of which shall be a water seal, shall be fitted in the inert gas supply main in order to prevent the return of flammable vapour to the inert gas generator and to any gas-safe space under all normal conditions of trim, list and motion of the ship. They shall be located between the automatic valve required by paragraph (8) and the first connection to any cargo tank or cargo pipeline. The Director may permit an alternative arrangement or device providing a measure of safety equivalent to that of a water seal.
 
-  - (b) The devices referred to in subparagraph (a) shall be located in the cargo tank area on deck.
+- (b) The devices referred to in subparagraph (a) shall be located in the cargo tank area on deck.
 
-  - (c) The water seal referred to in subparagraph (a) shall be capable of being supplied by 2 separate pumps, each of which shall be capable of maintaining an adequate supply at all times.
+- (c) The water seal referred to in subparagraph (a) shall be capable of being supplied by 2 separate pumps, each of which shall be capable of maintaining an adequate supply at all times.
 
-  - (d) The arrangements of the water seal and its associated provisions shall be such that it will prevent back flow of flammable vapours and will ensure the proper functioning of the water seal under operating conditions.
+- (d) The arrangements of the water seal and its associated provisions shall be such that it will prevent back flow of flammable vapours and will ensure the proper functioning of the water seal under operating conditions.
 
-  - (e) Provision shall be made to ensure that any water seal is protected against freezing, in such a way that the integrity of the water seal is not impaired by overheating.
+- (e) Provision shall be made to ensure that any water seal is protected against freezing, in such a way that the integrity of the water seal is not impaired by overheating.
 
-  - (f) A water loop or other approved arrangement shall also be fitted to all associated water supply and drain piping and to all venting or pressure-sensing piping leading to gas-safe spaces. Means shall be provided to prevent such loops from being emptied by vacuum.
+- (f) A water loop or other approved arrangement shall also be fitted to all associated water supply and drain piping and to all venting or pressure-sensing piping leading to gas-safe spaces. Means shall be provided to prevent such loops from being emptied by vacuum.
 
-  - (g) Any water seal or equivalent device and all loop arrangements shall be capable of preventing the return of flammable vapours to an inert gas generator at a pressure equal to the test pressure of the cargo tanks.
+- (g) Any water seal or equivalent device and all loop arrangements shall be capable of preventing the return of flammable vapours to an inert gas generator at a pressure equal to the test pressure of the cargo tanks.
 
-  - (h) The second device shall be a non-return valve or equivalent capable of preventing the return of vapours or liquids or both and fitted between the water seal or the equivalent device required by subparagraph (a) and the first connection from the inert gas main to a cargo tank. It shall be provided with positive means of closure. As an alternative to positive means of closure an additional valve having such means of closure may be provided between the non-return valve and the first connection to the cargo tanks to isolate the water seal or equivalent device.
+- (h) The second device shall be a non-return valve or equivalent capable of preventing the return of vapours or liquids or both and fitted between the water seal or the equivalent device required by subparagraph (a) and the first connection from the inert gas main to a cargo tank. It shall be provided with positive means of closure. As an alternative to positive means of closure an additional valve having such means of closure may be provided between the non-return valve and the first connection to the cargo tanks to isolate the water seal or equivalent device.
 
-  - (i) As an additional safeguard against the possible leakage of flammable liquids or vapours back from the deck main, means shall be provided to permit the section of the line between the valve having positive means of closure referred to in subparagraph (h) and the valve referred to in paragraph (8) to be vented in a safe manner when the first of these valves is closed.
+- (i) As an additional safeguard against the possible leakage of flammable liquids or vapours back from the deck main, means shall be provided to permit the section of the line between the valve having positive means of closure referred to in subparagraph (h) and the valve referred to in paragraph (8) to be vented in a safe manner when the first of these valves is closed.
 
 - (10)
 
@@ -92,7 +92,7 @@ INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CARRYING CRUDE 
 
   - (e) Suitable arrangements shall be provided to enable the inert gas main to be connected to an external supply of inert gas.
 
-- (11) Unless the arrangements for venting of all vapours displaced from the cargo tanks during loading and ballasting comply with the requirements of the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk for controlled venting, such arrangements shall comply with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg.) and shall consist either of one or more mast risers or of a number of high velocity vents. The inert gas supply mains shall not be used for such venting.
+- (11) Unless the arrangements for venting of all vapours displaced from the cargo tanks during loading and ballasting comply with the requirements of the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk for controlled venting, such arrangements shall comply with regulation 70(3) of the Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built Before 1 September 1984) Regulations (Cap. 369 sub. leg. R) and shall consist either of one or more mast risers or of a number of high velocity vents. The inert gas supply mains shall not be used for such venting. (E.R. 4 of 2023)
 
 - (12)
 
@@ -146,7 +146,7 @@ INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CARRYING CRUDE 
 
   - (b) Automatic shutdown of the gas-regulating valve and of the fuel oil supply to the inert gas generator shall be arranged on predetermined limits being reached in respect of subparagraph (a)(i) and (iii).
 
-  - (c) Automatic shutdown of the gas-regulating valve shall be arranged in respect of subparagraph (a)(iv);
+  - (c) Automatic shutdown of the gas-regulating valve shall be arranged in respect of subparagraph (a)(iv). (E.R. 4 of 2023)
 
   - (d) In respect of subparagraph (a)(v), when the oxygen content of the inert gas exceeds 8% by volume, immediate action shall be taken to improve the gas quality. Unless the quality of the inert gas improves all operations in those tanks to which inert gas is being supplied shall be suspended so as to avoid air being draw into the tanks. The deck isolation valve referred to in paragraph (9)(h) shall be closed, and the sub-standard gas shall be vented to atmosphere.
 
@@ -158,4 +158,4 @@ INERT GAS SYSTEMS: ALTERNATIVE REQUIREMENTS FOR CHEMICAL TANKERS CARRYING CRUDE 
 
 - (18) Detailed instruction manuals shall be provided on board, covering the operations, safety and maintenance requirements and occupational health hazards relevant to the inert gas system and its application to the cargo tank system. The manuals shall include guidance on procedures to be followed in the event of a fault or failure of the inert gas system.
 
-(L.N. 411 of 1995)
+(Schedule 1B added L.N. 411 of 1995)

@@ -1,5 +1,9 @@
-MERCHANT SHIPPING (SAFETY) (FIRE PROTECTION) (SHIPS BUILT BEFORE 25 MAY 1980) REGULATIONS
+Merchant Shipping (Safety) (Fire Protection) (Ships Built Before 25 May 1980) Regulations
 
 (Cap. 369, sections 99, 107, 112 and 112B)
 
+(Enacting provision omitted—E.R. 4 of 2023)
+
 [2 August 1991]
+
+(Format changes—E.R. 4 of 2023)
