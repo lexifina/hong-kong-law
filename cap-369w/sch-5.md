@@ -1,14 +1,14 @@
-# SCHEDULE 5
+# Schedule 5
 
 [reg. 69(1)]
 
-BREATHING APPARATUS
+Breathing Apparatus
 
-- (1) Every breathing apparatus shall be either—
+(1) Every breathing apparatus shall be either—
 
-  - (a) a smoke helmet or a smoke mask, in either case provided with an air pump or bellows and an air hose; or
+- (a) a smoke helmet or a smoke mask, in either case provided with an air pump or bellows and an air hose; or
 
-  - (b) a self-contained breathing apparatus.
+- (b) a self-contained breathing apparatus.
 
 Smoke helmet and smoke mask
 
