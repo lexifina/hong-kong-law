@@ -54,7 +54,7 @@ Item | Body
 
 25. | Hong Kong Federation of Women Limited (Amended L.N. 149 of 2002)
 
-26. | The Industrial Evangelistic Fellowship Limited
+26. | (Repealed L.N. 160 of 2023)
 
 27. | Methodist Centre
 
@@ -296,13 +296,13 @@ Item | Body
 
 157. | Hong Kong Sheng Kung Hui Welfare Council Limited (Added L.N. 142 of 2014)
 
-158. | Institute of Active Ageing, The Hong Kong Polytechnic University (Added L.N. 142 of 2014)
+158. | Research Centre for Gerontology and Family Studies, The Hong Kong Polytechnic University (Added L.N. 142 of 2014. Amended L.N. 160 of 2023)
 
 159. | Star Chef Management School operated by Star Chef Management School Company Limited (Added L.N. 142 of 2014)
 
 160. | Haven of Hope Christian Service (Added L.N. 142 of 2014)
 
-161. | The Free Methodist Church of Hong Kong (Added L.N. 1 of 2016)
+161. | (Repealed L.N. 160 of 2023)
 
 162. | Youth Centre of The True Word Lutheran Church operated by The True Word Lutheran Church Limited (Added L.N. 159 of 2019)
 
@@ -311,5 +311,11 @@ Item | Body
 164. | Hong Kong International Aviation Academy Limited (Added L.N. 108 of 2022)
 
 165. | Hong Kong Federation of Women’s Centres Limited (Added L.N. 108 of 2022)
+
+166. | UOW College Hong Kong (Added L.N. 160 of 2023)
+
+167. | The Hong Kong Society for the Blind (Added L.N. 160 of 2023)
+
+168. | TCHK (Added L.N. 160 of 2023)
 
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
