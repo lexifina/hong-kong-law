@@ -1,4 +1,4 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [rules 2 & 3]
 
@@ -6,10 +6,12 @@
 
 Cemeteries
 
-- (a) Aberdeen Chinese Permanent Cemetery.
+- (a) Aberdeen Chinese Permanent Cemetery
 
-- (b) Tsuen Wan Chinese Permanent Cemetery.
+- (b) Tsuen Wan Chinese Permanent Cemetery
 
-- (c) Cape Collinson Chinese Permanent Cemetery.
+- (c) Cape Collinson Chinese Permanent Cemetery
 
-- (d) Junk Bay Chinese Permanent Cemetery. (L.N. 16 of 1989)
+- (d) Junk Bay Chinese Permanent Cemetery (L.N. 16 of 1989)
+
+(E.R. 4 of 2023)

@@ -1,4 +1,4 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [rule 27]
 
@@ -10,7 +10,7 @@ Fee
 
 (a) | Ordinary lot | $ | 280,000
 
-(b) | Exhumable lot allocated for an initial term of 10 years extendable for 1 further term of 6 years (rule 13(2)(a)) —
+(b) | Exhumable lot allocated for an initial term of 10 years extendable for 1 further term of 6 years (rule 13(2)(a))—
 
 (i) | initial allocation | $ | 15,000
 
