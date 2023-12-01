@@ -24,7 +24,7 @@ Vinegar which is derived by fermentation exclusively from a single basic product
 
 Cheese, butter, fermented milk and fermented cream, to which no ingredient has been added other than— (i) lactic products, enzymes and micro-organism cultures essential to the manufacture of the item; or (ii) the salt needed for the manufacture of mature cheese | Section 2
 
-Any food consisting of a single ingredient | Section 2
+Any food consisting of a single ingredient other than hydrogenated oil (L.N. 87 of 2021) | Section 2
 
 Flavourings | Section 2
 

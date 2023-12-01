@@ -90,6 +90,12 @@ Marking and Labelling of Prepackaged Foods
 
     - (b) If a food consists of or contains sulphite in a concentration of 10 parts per million or more, the functional class of the sulphite and its name shall be specified in the list of ingredients. (L.N. 85 of 2004)
 
+  - (4F) If a food consists of or contains hydrogenated oil—
+
+    - (a) the list of ingredients must contain a reference to “hydrogenated oil”; or
+
+    - (b) the name of the oil, as appearing in the list of ingredients, must be qualified by the word “hydrogenated”. (L.N. 87 of 2021)
+
   - (5) Subject to section 58 of the Ordinance and unless the Authority otherwise allows in any particular case, an additive (except an additive specified in subsection (7)) constituting one of the ingredients of a food shall be listed by its functional class and— (L.N. 85 of 2004; L.N. 69 of 2008)
 
     - (a) its specific name; or
