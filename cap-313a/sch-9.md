@@ -1,8 +1,8 @@
-# NINTH SCHEDULE
+# Ninth Schedule
 
 [reg. 38]
 
-TOWING SIGNALS
+Towing Signals
 
 A vessel being towed by tugs shall use the following sound signals on whistle or siren—
 
@@ -20,7 +20,7 @@ A vessel being towed by tugs shall use the following sound signals on whistle or
 
 (vi) | Let go | one long blast followed by four short blasts (—— — — — —)
 
-(vii) | Steering tug take up stern position | four short blasts (— — — —)
+(vii) | Steering tug take up stern position | .......... | four short blasts (— — — —)
 
 2. | Alongside Method
 

@@ -1,10 +1,10 @@
-# SIXTEENTH SCHEDULE
+# Sixteenth Schedule
 
 [reg. 6A]
 
-INFORMATION TO BE PROVIDED TO THE DIRECTOR BY NOTIFICATION OR REPORT UNDER REGULATION 6A
+Information to be Provided to the Director by Notification or Report under Regulation 6A
 
-- PART I ALL VESSELS
+- Part I All Vessels
 
   - 1. Name of vessel.
 
@@ -50,8 +50,8 @@ INFORMATION TO BE PROVIDED TO THE DIRECTOR BY NOTIFICATION OR REPORT UNDER REGUL
 
 - Note:
 
-  - In this Schedule, for the purpose of item 2—
+- In this Schedule, for the purpose of item 2—
 
-    - “MD reference number” (海事處參考編號), in relation to a vessel which arrives at the waters of Hong Kong for the first time, means a reference number assigned by the Director to the vessel for the purpose of reporting arrival and departure of the vessel. (L.N. 117 of 2002)
+    - MD reference number (海事處參考編號), in relation to a vessel which arrives at the waters of Hong Kong for the first time, means a reference number assigned by the Director to the vessel for the purpose of reporting arrival and departure of the vessel. (L.N. 117 of 2002)
 
-  - (L.N. 408 of 1994)
+- (L.N. 408 of 1994)

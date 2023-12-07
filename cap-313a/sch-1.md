@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# First Schedule
 
 [regs. 3, 5 & 6]
 
-VHF CHANNELS
+VHF Channels
 
 Channel | Description
 

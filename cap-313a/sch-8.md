@@ -1,8 +1,8 @@
-# EIGHTH SCHEDULE
+# Eighth Schedule
 
 [reg. 33]
 
-BERTHING AND OTHER SIGNALS
+Berthing and Other Signals
 
 The Ocean Terminal at Tsim Sha Tsui belonging to the Hong Kong & Kowloon Wharf & Godown Co. Ltd. | Answering Pennant—OT
 

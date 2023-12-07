@@ -1,8 +1,8 @@
-# SEVENTEENTH SCHEDULE
+# Seventeenth Schedule
 
 [s. 32A]
 
-TANKER ARRIVAL NOTICE
+Tanker Arrival Notice
 
 - 1. Name of vessel.
 
@@ -40,14 +40,14 @@ TANKER ARRIVAL NOTICE
 
 Note:
 
-- In the Sixteenth Schedule and the Seventeenth Schedule—
+In the Sixteenth Schedule and the Seventeenth Schedule—
 
-  - “International Pollution Prevention Certificate” (國際防止污染證明書) has the same meaning as the definition of “INLS Certificate” in regulation 1(2) of the Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (Cap. 413 sub. leg. B);
+  - International Pollution Prevention Certificate (國際防止污染證明書) has the same meaning as the definition of INLS Certificate in regulation 1(2) of the Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (Cap. 413 sub. leg. B); (E.R. 4 of 2023)
 
-  - “Marpol surveyor” (國際防止船隻污染公約所指的驗船師) has the same meaning as in regulation 1(2) of the Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (Cap. 413 sub. leg. B);
+  - Marpol surveyor (國際防止船隻污染公約所指的驗船師) has the same meaning as in regulation 1(2) of the Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (Cap. 413 sub. leg. B); (E.R. 4 of 2023)
 
-  - “pilot boarding station” (領港員登船站) has the same meaning as in section 10A of the Pilotage Ordinance (Cap. 84);
+  - pilot boarding station (領港員登船站) has the same meaning as in section 10A of the Pilotage Ordinance (Cap. 84);
 
-  - “specified anchorage” (指明的碇泊處) means an area of the waters of Hong Kong specified as such in items 1 to 5 of Schedule 3 to the Pilotage Ordinance (Cap. 84).
+  - specified anchorage (指明的碇泊處) means an area of the waters of Hong Kong specified as such in items 1 to 5 of Schedule 3 to the Pilotage Ordinance (Cap. 84).
 
 - (L.N. 408 of 1994)

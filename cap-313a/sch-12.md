@@ -1,10 +1,8 @@
-# TWELFTH SCHEDULE
+# Twelfth Schedule
 
 [reg. 71]
 
-SHIPPING AND PORT CONTROL ORDINANCE
-
-(Chapter 313) Notice under section 77 of the Shipping and Port Control
+Shipping and Port Control Ordinance (Chapter 313) Notice under section 77 of the Shipping and Port Control
 
 Ordinance to be served on a master of a vessel
 
@@ -70,6 +68,8 @@ This notice was served by me at. on the . day of . 19 . at .*a.m./p.m. by handin
 
 Dated:
 
-(overleaf) Particulars of the section of the Ordinance or
+(overleaf)
+
+Particulars of the section of the Ordinance or
 
 regulation contravened (46 of 1981 s. 15)

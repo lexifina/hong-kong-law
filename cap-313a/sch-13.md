@@ -1,8 +1,8 @@
-# THIRTEENTH SCHEDULE
+# Thirteenth Schedule
 
 [regs. 48, 49, 50, 51, 52 & 68]
 
-PORT DUES AND FEES
+Port Dues and Fees
 
 Item | Purpose or service | Fee $
 
@@ -20,8 +20,6 @@ For a vessel lying at anchor, the higher of—
 
 (L.N. 201 of 2005)
 
-Item | Purpose or service | Fee $
-
 2. | Buoy dues—
 
 For each day or part of a day that a buoy is occupied or reserved—
@@ -30,11 +28,7 @@ For each day or part of a day that a buoy is occupied or reserved—
 
 (b) | A Class B buoy | 2,455
 
-Note: (1) | A buoy may be reserved up to a maximum of 2 days in advance of a vessel’s estimated time of arrival.
-
-(2) | Where in the opinion of the Director it is essential because of the length or draft of a particular ship that adjacent buoys be left vacant, the owner or master of the ship may be charged the hire rate appropriate for each buoy so left vacant.
-
-(3) | In this item, “day” (天) means a period of 24 hours beginning at midnight.
+Note: | (1) A buoy may be reserved up to a maximum of 2 days in advance of a vessel’s estimated time of arrival. (2) Where in the opinion of the Director it is essential because of the length or draft of a particular ship that adjacent buoys be left vacant, the owner or master of the ship may be charged the hire rate appropriate for each buoy so left vacant. (3) In this item, day (天) means a period of 24 hours beginning at midnight.
 
 3. | Port facilities and light dues—
 
@@ -51,8 +45,6 @@ Per 100 tons or part thereof on each occasion of entry to the waters of Hong Kon
 Per 100 tons or part thereof on each occasion of entry to the waters of Hong Kong (L.N. 201 of 2005) | 43
 
 (L.N. 5 of 2011)
-
-Item | Purpose or service | Fee $
 
 4. | Private mooring fee—
 
@@ -94,13 +86,11 @@ For the keeping of private moorings, per month or part thereof, per mooring—
 
 (ii) | Elsewhere in the waters of Hong Kong | 670
 
-Note: In this item, “length” (長度) means the size of vessel, in terms of length overall, which the mooring is able to accommodate.
+Note: In this item, length (長度) means the size of vessel, in terms of length overall, which the mooring is able to accommodate.
 
 5. | Transfer of private moorings—
 
 Upon the transfer of ownership of a private mooring (whether by sale and purchase or otherwise) | 140
-
-Item | Purpose or service | Fee $
 
 6. | Miscellaneous permits and certificates—
 
@@ -118,7 +108,7 @@ Item | Purpose or service | Fee $
 
 (ii) | Elsewhere in the waters of Hong Kong | 875 plus $52 per day or part thereof for every 100 gross tons or part thereof of one half of the ship’s gross tonnage, up to and including the date of completion of the break up
 
-Note: In this sub-item, “the date of completion” (完工日期) means the date of completion specified in the certificate referred to in sub-item (a).
+Note: | In this sub-item, the date of completion (完工日期) means the date of completion specified in the certificate referred to in sub-item (a).
 
 (f) | Fee for a port clearance permit (L.N. 100 of 2009) | 58
 
@@ -132,8 +122,6 @@ Note: In this sub-item, “the date of completion” (完工日期) means the da
 
 (c) | For each uncertified sheet of a Rank Xerox (or similar) copy of a document | 9
 
-Item | Purpose or service | Fee $
-
 8. | Charges for service outside office hours—
 
 Where any officer of the Marine Department is required to perform any service referred to in this Schedule either at the Marine Department, or at any other place at Hong Kong outside office hours, there shall be payable, in addition to the fee prescribed for the service required, the following charges—
@@ -144,13 +132,11 @@ Where any officer of the Marine Department is required to perform any service re
 
 (c) | On Sundays and public holidays (per hour per officer) | 1,850
 
-Note: A service occupying less than an hour will be charged for as 1 hour, according to the scale. Where a service occupies more than 1 hour but not an exact number of hours, the charge will be—
+Note: | A service occupying less than an hour will be charged for as 1 hour, according to the scale. Where a service occupies more than 1 hour but not an exact number of hours, the charge will be—
 
 (a) | if the period in excess of an exact number of hours is 30 minutes or less, half the appropriate fee for 1 hour;
 
 (b) | if the period in excess is more than 30 minutes, the appropriate fee for 1 hour.
-
-Item | Purpose or service | Fee $
 
 9. | Fishing licence fees—
 

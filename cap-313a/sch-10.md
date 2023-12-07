@@ -1,8 +1,8 @@
-# TENTH SCHEDULE
+# Tenth Schedule
 
 [regs. 3 & 12B]
 
-CALLING-IN POINTS
+Calling-in Points
 
 - 1. Eastern Approaches
 
