@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 36]
 
-ESTIMATED NET REVENUE ($000,000’s)
+Estimated Net Revenue ($000,000’s)
 
 Year ending on 31 July in | Minimum Estimated Net Revenue | Maximum Estimated Net Revenue
 
@@ -60,6 +60,6 @@ Year ending on 31 July in | Minimum Estimated Net Revenue | Maximum Estimated Ne
 
 2025 | 929 | 1,098
 
-Note 1: In this Schedule “year” shall be construed with reference to the definition of “year” in section 36 of this Ordinance.
+Note 1: In this Schedule year shall be construed with reference to the definition of year in section 36 of this Ordinance.
 
 Note 2: The period specified in the last item of column 1 may be varied in accordance with the project agreement.

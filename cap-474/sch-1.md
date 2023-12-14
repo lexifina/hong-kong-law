@@ -4,6 +4,8 @@
 
 Tai Lam Tunnel and Yuen Long Approach Road Tolls
 
+(Schedule 1 replaced L.N. 96 of 2019)
+
 Category | Vehicle | Toll $
 
 1. | Motorcycles, motor tricycles | 95
@@ -27,5 +29,3 @@ Category | Vehicle | Toll $
 7. | Public and private single-decked buses | 285
 
 8. | Public and private double-decked buses | 300
-
-(Schedule 1 replaced L.N. 96 of 2019)

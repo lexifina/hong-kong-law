@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 10]
 
 (Amended 22 of 2005 s. 23)
 
-THE GUADALAJARA CONVENTION
+The Guadalajara Convention
 
 Article I In this Convention:
 

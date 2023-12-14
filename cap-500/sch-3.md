@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 13, 15, 16, 17, 18 & 21]
 
-NON-INTERNATIONAL CARRIAGE, AND CARRIAGE OF MAIL AND POSTAL PACKAGES
+Non-international Carriage, and Carriage of Mail and Postal Packages
 
-Application of the Montreal Convention
+(Schedule 3 replaced 22 of 2005 s. 24) Application of the Montreal Convention
 
 The Montreal Convention as adapted and modified in the form hereinafter set out shall apply in respect of the carriage described in section 13 of this Ordinance—
 
@@ -26,7 +26,7 @@ Carriage of Passengers, Baggage and Cargo Article 3—Passengers and Baggage
 
 - (1) In respect of carriage of passengers, an individual or collective document of carriage shall be delivered containing:
 
-  - (a) an indication of the places of departure and destination.
+    - (a) an indication of the places of departure and destination.
 
 - (2) Any other means which preserves the information indicated in paragraph (1) may be substituted for the delivery of the document referred to in that paragraph. If any such other means is used, the carrier shall offer to deliver to the passenger a written statement of the information so preserved.
 
@@ -42,9 +42,9 @@ Article 4—Cargo
 
 Article 5—Contents of Air Waybill or Cargo Receipt The air waybill or the cargo receipt shall include:
 
-  - (a) an indication of the places of departure and destination;
+    - (a) an indication of the places of departure and destination;
 
-  - (c) an indication of the weight of the consignment.
+    - (c) an indication of the weight of the consignment.
 
 Article 6—Document Relating to the
 
@@ -64,9 +64,9 @@ Article 7—Description of Air Waybill
 
 Article 8—Documentation for Multiple Packages When there is more than one package:
 
-  - (a) the carrier of cargo has the right to require the consignor to make out separate air waybills;
+    - (a) the carrier of cargo has the right to require the consignor to make out separate air waybills;
 
-  - (b) the consignor has the right to require the carrier to deliver separate cargo receipts when the other means referred to in paragraph (2) of Article 4 are used.
+    - (b) the consignor has the right to require the carrier to deliver separate cargo receipts when the other means referred to in paragraph (2) of Article 4 are used.
 
 Article 9—Non-compliance with Documentary
 
@@ -152,13 +152,13 @@ Article 18—Damage to Cargo
 
 - (2) However, the carrier is not liable if and to the extent it proves that the destruction, or loss of, or damage to, the cargo resulted from one or more of the following:
 
-  - (a) inherent defect, quality or vice of that cargo;
+    - (a) inherent defect, quality or vice of that cargo;
 
-  - (b) defective packing of that cargo performed by a person other than the carrier or its servants or agents;
+    - (b) defective packing of that cargo performed by a person other than the carrier or its servants or agents;
 
-  - (c) an act of war or an armed conflict;
+    - (c) an act of war or an armed conflict;
 
-  - (d) an act of public authority carried out in connection with the entry, exit or transit of the cargo.
+    - (d) an act of public authority carried out in connection with the entry, exit or transit of the cargo.
 
 - (3) The carriage by air within the meaning of paragraph (1) of this Article comprises the period during which the cargo is in the charge of the carrier.
 
@@ -180,9 +180,9 @@ Injury of Passengers
 
 - (2) The carrier shall not be liable for damages arising under paragraph (1) of Article 17 to the extent that they exceed for each passenger 100 000*1 Special Drawing Rights if the carrier proves that:
 
-  - (a) such damage was not due to the negligence or other wrongful act or omission of the carrier or its servants or agents; or
+    - (a) such damage was not due to the negligence or other wrongful act or omission of the carrier or its servants or agents; or
 
-  - (b) such damage was solely due to the negligence or other wrongful act or omission of a third party.
+    - (b) such damage was solely due to the negligence or other wrongful act or omission of a third party.
 
 Editorial Note:
 
@@ -192,9 +192,9 @@ Article 22—Limits of Liability in Relation to Delay,
 
 Baggage and Cargo
 
-- (1) In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 150*2Special Drawing Rights.
+- (1) In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 150*2 Special Drawing Rights.
 
-- (2) In the carriage of baggage, the liability of the carrier in the case of destruction, loss, damage or delay is limited to 1 000*3Special Drawing Rights for each passenger unless the passenger has made, at the time when the checked baggage was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the passenger’s actual interest in delivery at destination.
+- (2) In the carriage of baggage, the liability of the carrier in the case of destruction, loss, damage or delay is limited to 1 000*3 Special Drawing Rights for each passenger unless the passenger has made, at the time when the checked baggage was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the passenger’s actual interest in delivery at destination.
 
 - (3) In the carriage of cargo, the liability of the carrier in the case of destruction, loss, damage or delay is limited to a sum of 17*4 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the consignor’s actual interest in delivery at destination.
 
@@ -212,9 +212,7 @@ Editorial Note:
 
 *4 | Amended from 19 to 22 with effect from 28 December 2019—see L.N. 189 of 2019.
 
-Article 23—Limits of Liability in Relation to Delay,
-
-Baggage and Cargo
+Article 23—Conversion of Monetary Units
 
 - (1) The sums mentioned in terms of Special Drawing Right in this Schedule shall be deemed to refer to the Special Drawing Right as defined by the International Monetary Fund. Conversion of the sums into Hong Kong dollars shall, in case of judicial proceedings, be made according to the value of Hong Kong dollars in terms of the Special Drawing Right at the date of the judgement.
 
@@ -349,5 +347,3 @@ The expression “days” when used in this Schedule means calendar days, not wo
 Article 52A—Postmaster General of Hong Kong
 
 Nothing herein contained shall impose any liability on the Postmaster General of Hong Kong.
-
-(Schedule 3 replaced 22 of 2005 s. 24)

@@ -1,7 +1,7 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 36]
 
-DATES ON WHICH THE COMPANY IS EXPECTED TO BE ABLE TO EFFECT A TOLL INCREASE
+Dates on which the Company is Expected to be Able to Effect a Toll Increase
 
 1 January 2003 1 January 2010 1 January 2017
