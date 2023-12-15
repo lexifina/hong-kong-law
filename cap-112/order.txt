@@ -300,6 +300,7 @@ s-040AT.md
 s-040AU.md
 s-040AV.md
 s-040AW.md
+s-040AX.md
 s-040B.md
 s-041.md
 s-042.md
@@ -537,6 +538,7 @@ sch-17G.md
 sch-17H.md
 sch-17I.md
 sch-17J.md
+sch-17K.md
 sch-18.md
 sch-19.md
 sch-20.md
