@@ -326,7 +326,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (d) worked skins or pieces thereof of Tupinambis species that were imported before 1 August 2000 are being re-exported, in which case it is sufficient to use the indication “Tupinambis spp.”; or (Amended L.N. 22 of 2021; E.R. 5 of 2021)
 
-    - (e) the species is unknown and the permit or certificate is for a biological sample of the type and size and for the use specified in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18), in which case it is sufficient to use the scientific name of the genus or family. (Added L.N. 22 of 2021)
+    - (e) the species is unknown and the permit or certificate is for a biological sample of the type and size and for the use specified in Annex 4 to Resolution Conf. 12.3 (Rev. CoP19), in which case it is sufficient to use the scientific name of the genus or family. (Added L.N. 22 of 2021. Amended L.N. 125 of 2023)
 
 - Regarding documents for sample collection covered by ATA (which means “temporary admission”) carnets
 
@@ -406,10 +406,10 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
 - (n) | In the case of a certificate of origin, a statement that the specimens originate in the place that issued the certificate.
 
-- Part 3 Requirements Relating to Exemption for Non-Commercial Loan, Donation or Exchange of Museum and Herbarium Specimens, etc. (Amended L.N. 22 of 2021) For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material, or the container used to transport such specimens, samples or material, carry a label issued or approved by a relevant authority shall be met if the label— (Amended L.N. 22 of 2021)
+- Part 3 Requirements Relating to Exemption for Non-Commercial Loan, Donation or Exchange of Museum and Herbarium Specimens, etc. (Amended L.N. 22 of 2021) For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP19) or live plant material, or the container used to transport such specimens, samples or material, carry a label issued or approved by a relevant authority shall be met if the label— (Amended L.N. 22 of 2021; L.N. 125 of 2023)
 
     - (a) bears the acronym “CITES”;
 
-    - (b) identifies the specimens, samples, material or contents of the container as herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) or live plant material (as the case may be) for scientific study, for forensic analysis or for diagnostic purposes; and (Replaced L.N. 22 of 2021)
+    - (b) identifies the specimens, samples, material or contents of the container as herbarium specimens, preserved, dried or embedded museum specimens (including non-live animal specimens), frozen museum specimens, duplicate herbarium specimens, wildlife forensic research specimens, diagnostic samples of the type listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP19) or live plant material (as the case may be) for scientific study, for forensic analysis or for diagnostic purposes; and (Replaced L.N. 22 of 2021. Amended L.N. 125 of 2023)
 
     - (c) sets out the name and address of the sending institution and the codes of the exporting and importing institutions over the signature of a responsible officer of that registered scientific institution.
