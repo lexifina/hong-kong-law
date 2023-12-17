@@ -16,65 +16,241 @@ Tolls and Fees
 
 - (L.N. 35 of 2020)
 
-- Part 2 Tolls (for Cross-Harbour Tunnel) (7 of 2016 s. 18)
+- Part 2 Tolls (for Cross-Harbour Tunnel)
 
-- Vehicle | Tolls
+  - Division 1 Motor Cycles, Motor Tricycles and Private Cars (Monday to Saturday (Excluding Public Holiday))
 
-- 1. | Motor cycles, motor tricycles | $8
+  - Time slot | Starting time | End time (immediately before) | Toll for motor cycles and motor tricycles | Toll for private cars
 
-- 2. | Taxis (18 of 2023 s. 20) | $25
+  - Off-peak (a.m.) | 00:00 | 07:30 | $8 | $20
 
-- 3. | Private cars (18 of 2023 s. 20) | $30
+  - Transitional (off-peak to peak) | 07:30 | 07:48 | $8.8 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $22 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
 
-- 4. | Public and private light buses | $10
+  - Intervals
 
-- 5. | Light goods vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $15
+  - 07:30 | 07:32 | $8.8 | $22
 
-- 6. | Medium goods vehicles of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | $20
+  - 07:32 | 07:34 | $9.6 | $24
 
-- 7. | Heavy goods vehicles of a permitted gross vehicle weight exceeding 24 tonnes | $30
+  - 07:34 | 07:36 | $10.4 | $26
 
-- 8. | Public and private single-decked buses | $10
+  - 07:36 | 07:38 | $11.2 | $28
 
-- 9. | Public and private double-decked buses | $15
+  - 07:38 | 07:40 | $12 | $30
 
-- 10. | For vehicles with more than 2 axles—
+  - 07:40 | 07:42 | $12.8 | $32
 
-- (a) if the tunnel is a booth mode tunnel | $10 for each additional axle in excess of 2
+  - 07:42 | 07:44 | $13.6 | $34
 
-- (b) if the tunnel is a boothless mode tunnel (20 of 2021 s. 35) | No additional toll
+  - 07:44 | 07:46 | $14.4 | $36
+
+  - 07:46 | 07:48 | $15.2 | $38
+
+  - Peak (a.m.) | 07:48 | 10:15 | $16 | $40
+
+  - Transitional (peak to normal) | 10:15 | 10:23 | $15.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $38 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 10:15 | 10:17 | $15.2 | $38
+
+  - 10:17 | 10:19 | $14.4 | $36
+
+  - 10:19 | 10:21 | $13.6 | $34
+
+  - 10:21 | 10:23 | $12.8 | $32
+
+  - Normal | 10:23 | 16:30 | $12 | $30
+
+  - Transitional (normal to peak) | 16:30 | 16:38 | $12.8 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $32 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 16:30 | 16:32 | $12.8 | $32
+
+  - 16:32 | 16:34 | $13.6 | $34
+
+  - 16:34 | 16:36 | $14.4 | $36
+
+  - 16:36 | 16:38 | $15.2 | $38
+
+  - Peak (p.m.) | 16:38 | 19:00 | $16 | $40
+
+  - Transitional (peak to off-peak) | 19:00 | 19:18 | $15.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $38 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 19:00 | 19:02 | $15.2 | $38
+
+  - 19:02 | 19:04 | $14.4 | $36
+
+  - 19:04 | 19:06 | $13.6 | $34
+
+  - 19:06 | 19:08 | $12.8 | $32
+
+  - 19:08 | 19:10 | $12 | $30
+
+  - 19:10 | 19:12 | $11.2 | $28
+
+  - 19:12 | 19:14 | $10.4 | $26
+
+  - 19:14 | 19:16 | $9.6 | $24
+
+  - 19:16 | 19:18 | $8.8 | $22
+
+  - Off-peak (p.m.) | 19:18 | 00:00 (next day) | $8 | $20
+
+  - Division 2 Motor Cycles, Motor Tricycles and Private Cars (Sunday and Public Holiday)
+
+  - Time slot | Toll for motor cycles and motor tricycles | Toll for private cars
+
+  - Starting time | End time (immediately before)
+
+  - 00:00 | 10:11 | $8 | $20
+
+  - 10:11 | 10:13 | $8.4 | $21
+
+  - 10:13 | 10:15 | $9.2 | $23
+
+  - 10:15 | 19:15 | $10 | $25
+
+  - 19:15 | 19:17 | $9.2 | $23
+
+  - 19:17 | 19:19 | $8.4 | $21
+
+  - 19:19 | 00:00 (next day) | $8 | $20
+
+  - Division 3 Taxis
+
+  - Time slot | Toll for taxis
+
+  - Whole day | $25
+
+  - Division 4 Vehicles other than Motor Cycles, Motor Tricycles, Private Cars and Taxis
+
+  - Time slot | Toll for vehicles other than motor cycles, motor tricycles, private cars and taxis
+
+  - Whole day | $50
+
+  - (18 of 2023 s. 20)
 
 - Part 3 Tolls (for Eastern Harbour Crossing)
 
-- Column 1 | Column 2 | Column 3
+  - Division 1 Motor Cycles, Motor Tricycles and Private Cars (Monday to Saturday (Excluding Public Holiday))
 
-- Item | Vehicle | Tolls
+  - Time slot | Starting time | End time (immediately before) | Toll for motor cycles and motor tricycles | Toll for private cars
 
-- 1. | Motor cycles, motor tricycles | $13
+  - Off-peak (a.m.) | 00:00 | 07:30 | $8 | $20
 
-- 2. | Taxis (18 of 2023 s. 20) | $25
+  - Transitional (off-peak to peak) | 07:30 | 07:48 | $8.8 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $22 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
 
-- 3. | Private cars (18 of 2023 s. 20) | $30
+  - Intervals
 
-- 4. | Public and private light buses | $38
+  - 07:30 | 07:32 | $8.8 | $22
 
-- 5. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $38
+  - 07:32 | 07:34 | $9.6 | $24
 
-- 6. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | $50
+  - 07:34 | 07:36 | $10.4 | $26
 
-- 7. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 24 tonnes but not exceeding 38 tonnes | $75
+  - 07:36 | 07:38 | $11.2 | $28
 
-- 8. | Public and private single-decked buses | $50
+  - 07:38 | 07:40 | $12 | $30
 
-- 9. | Public and private double-decked buses | $75
+  - 07:40 | 07:42 | $12.8 | $32
 
-- 10. | For vehicles with more than 2 axles—
+  - 07:42 | 07:44 | $13.6 | $34
 
-- (a) if the tunnel is a booth mode tunnel | $25 for each additional axle in excess of 2
+  - 07:44 | 07:46 | $14.4 | $36
 
-- (b) if the tunnel is a boothless mode tunnel (20 of 2021 s. 35) | No additional toll
+  - 07:46 | 07:48 | $15.2 | $38
 
-- (7 of 2016 s. 18)
+  - Peak (a.m.) | 07:48 | 10:15 | $16 | $40
+
+  - Transitional (peak to normal) | 10:15 | 10:23 | $15.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $38 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 10:15 | 10:17 | $15.2 | $38
+
+  - 10:17 | 10:19 | $14.4 | $36
+
+  - 10:19 | 10:21 | $13.6 | $34
+
+  - 10:21 | 10:23 | $12.8 | $32
+
+  - Normal | 10:23 | 16:30 | $12 | $30
+
+  - Transitional (normal to peak) | 16:30 | 16:38 | $12.8 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $32 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 16:30 | 16:32 | $12.8 | $32
+
+  - 16:32 | 16:34 | $13.6 | $34
+
+  - 16:34 | 16:36 | $14.4 | $36
+
+  - 16:36 | 16:38 | $15.2 | $38
+
+  - Peak (p.m.) | 16:38 | 19:00 | $16 | $40
+
+  - Transitional (peak to off-peak) | 19:00 | 19:18 | $15.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $38 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 19:00 | 19:02 | $15.2 | $38
+
+  - 19:02 | 19:04 | $14.4 | $36
+
+  - 19:04 | 19:06 | $13.6 | $34
+
+  - 19:06 | 19:08 | $12.8 | $32
+
+  - 19:08 | 19:10 | $12 | $30
+
+  - 19:10 | 19:12 | $11.2 | $28
+
+  - 19:12 | 19:14 | $10.4 | $26
+
+  - 19:14 | 19:16 | $9.6 | $24
+
+  - 19:16 | 19:18 | $8.8 | $22
+
+  - Off-peak (p.m.) | 19:18 | 00:00 (next day) | $8 | $20
+
+  - Division 2 Motor Cycles, Motor Tricycles and Private Cars (Sunday and Public Holiday)
+
+  - Time slot | Toll for motor cycles and motor tricycles | Toll for private cars
+
+  - Starting time | End time (immediately before)
+
+  - 00:00 | 10:11 | $8 | $20
+
+  - 10:11 | 10:13 | $8.4 | $21
+
+  - 10:13 | 10:15 | $9.2 | $23
+
+  - 10:15 | 19:15 | $10 | $25
+
+  - 19:15 | 19:17 | $9.2 | $23
+
+  - 19:17 | 19:19 | $8.4 | $21
+
+  - 19:19 | 00:00 (next day) | $8 | $20
+
+  - Division 3 Taxis
+
+  - Time slot | Toll for taxis
+
+  - Whole day | $25
+
+  - Division 4 Vehicles other than Motor Cycles, Motor Tricycles, Private Cars and Taxis
+
+  - Time slot | Toll for vehicles other than motor cycles, motor tricycles, private cars and taxis
+
+  - Whole day | $50
+
+  - (18 of 2023 s. 20)
 
 - Part 3A Tolls (for Tate’s Cairn Tunnel)
 
@@ -114,35 +290,201 @@ Tolls and Fees
 
 - Part 3B Tolls (for Western Harbour Crossing)
 
-- Column 1 | Column 2 | Column 3
+  - Division 1 Motor Cycles, Motor Tricycles and Private Cars (Monday to Saturday (Excluding Public Holiday))
 
-- Item | Vehicle | Tolls
+  - Time slot | Starting time | End time (immediately before) | Toll for motor cycles and motor tricycles | Toll for private cars
 
-- 1. | Motor cycles, motor tricycles | $25
+  - Off-peak (a.m.) | 00:00 | 07:30 | $8 | $20
 
-- 2. | Taxis | $25
+  - Transitional (off-peak to peak) | 07:30 | 08:08 | $8.8 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $22 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
 
-- 3. | Private cars | $60
+  - Intervals
 
-- 4. | Public and private light buses | $85
+  - 07:30 | 07:32 | $8.8 | $22
 
-- 5. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $85
+  - 07:32 | 07:34 | $9.6 | $24
 
-- 6. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | $110
+  - 07:34 | 07:36 | $10.4 | $26
 
-- 7. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight exceeding 24 tonnes but not exceeding 38 tonnes | $140
+  - 07:36 | 07:38 | $11.2 | $28
 
-- 8. | Public and private single-decked buses | $140
+  - 07:38 | 07:40 | $12 | $30
 
-- 9. | Public and private double-decked buses | $200
+  - 07:40 | 07:42 | $12.8 | $32
 
-- 10. | For vehicles with more than 2 axles—
+  - 07:42 | 07:44 | $13.6 | $34
 
-- (a) if the tunnel is a booth mode tunnel | $30 for each additional axle in excess of 2
+  - 07:44 | 07:46 | $14.4 | $36
 
-- (b) if the tunnel is a boothless mode tunnel | No additional toll
+  - 07:46 | 07:48 | $15.2 | $38
 
-- (18 of 2023 s. 20)
+  - 07:48 | 07:50 | $16 | $40
+
+  - 07:50 | 07:52 | $16.8 | $42
+
+  - 07:52 | 07:54 | $17.6 | $44
+
+  - 07:54 | 07:56 | $18.4 | $46
+
+  - 07:56 | 07:58 | $19.2 | $48
+
+  - 07:58 | 08:00 | $20 | $50
+
+  - 08:00 | 08:02 | $20.8 | $52
+
+  - 08:02 | 08:04 | $21.6 | $54
+
+  - 08:04 | 08:06 | $22.4 | $56
+
+  - 08:06 | 08:08 | $23.2 | $58
+
+  - Peak (a.m.) | 08:08 | 10:15 | $24 | $60
+
+  - Transitional (peak to normal) | 10:15 | 10:43 | $23.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $58 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 10:15 | 10:17 | $23.2 | $58
+
+  - 10:17 | 10:19 | $22.4 | $56
+
+  - 10:19 | 10:21 | $21.6 | $54
+
+  - 10:21 | 10:23 | $20.8 | $52
+
+  - 10:23 | 10:25 | $20 | $50
+
+  - 10:25 | 10:27 | $19.2 | $48
+
+  - 10:27 | 10:29 | $18.4 | $46
+
+  - 10:29 | 10:31 | $17.6 | $44
+
+  - 10:31 | 10:33 | $16.8 | $42
+
+  - 10:33 | 10:35 | $16 | $40
+
+  - 10:35 | 10:37 | $15.2 | $38
+
+  - 10:37 | 10:39 | $14.4 | $36
+
+  - 10:39 | 10:41 | $13.6 | $34
+
+  - 10:41 | 10:43 | $12.8 | $32
+
+  - Normal | 10:43 | 16:30 | $12 | $30
+
+  - Transitional (normal to peak) | 16:30 | 16:58 | $12.8 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $32 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 16:30 | 16:32 | $12.8 | $32
+
+  - 16:32 | 16:34 | $13.6 | $34
+
+  - 16:34 | 16:36 | $14.4 | $36
+
+  - 16:36 | 16:38 | $15.2 | $38
+
+  - 16:38 | 16:40 | $16 | $40
+
+  - 16:40 | 16:42 | $16.8 | $42
+
+  - 16:42 | 16:44 | $17.6 | $44
+
+  - 16:44 | 16:46 | $18.4 | $46
+
+  - 16:46 | 16:48 | $19.2 | $48
+
+  - 16:48 | 16:50 | $20 | $50
+
+  - 16:50 | 16:52 | $20.8 | $52
+
+  - 16:52 | 16:54 | $21.6 | $54
+
+  - 16:54 | 16:56 | $22.4 | $56
+
+  - 16:56 | 16:58 | $23.2 | $58
+
+  - Peak (p.m.) | 16:58 | 19:00 | $24 | $60
+
+  - Transitional (peak to off-peak) | 19:00 | 19:38 | $23.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $58 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 19:00 | 19:02 | $23.2 | $58
+
+  - 19:02 | 19:04 | $22.4 | $56
+
+  - 19:04 | 19:06 | $21.6 | $54
+
+  - 19:06 | 19:08 | $20.8 | $52
+
+  - 19:08 | 19:10 | $20 | $50
+
+  - 19:10 | 19:12 | $19.2 | $48
+
+  - 19:12 | 19:14 | $18.4 | $46
+
+  - 19:14 | 19:16 | $17.6 | $44
+
+  - 19:16 | 19:18 | $16.8 | $42
+
+  - 19:18 | 19:20 | $16 | $40
+
+  - 19:20 | 19:22 | $15.2 | $38
+
+  - 19:22 | 19:24 | $14.4 | $36
+
+  - 19:24 | 19:26 | $13.6 | $34
+
+  - 19:26 | 19:28 | $12.8 | $32
+
+  - 19:28 | 19:30 | $12 | $30
+
+  - 19:30 | 19:32 | $11.2 | $28
+
+  - 19:32 | 19:34 | $10.4 | $26
+
+  - 19:34 | 19:36 | $9.6 | $24
+
+  - 19:36 | 19:38 | $8.8 | $22
+
+  - Off-peak (p.m.) | 19:38 | 00:00 (next day) | $8 | $20
+
+  - Division 2 Motor Cycles, Motor Tricycles and Private Cars (Sunday and Public Holiday)
+
+  - Time slot | Toll for motor cycles and motor tricycles | Toll for private cars
+
+  - Starting time | End time (immediately before)
+
+  - 00:00 | 10:11 | $8 | $20
+
+  - 10:11 | 10:13 | $8.4 | $21
+
+  - 10:13 | 10:15 | $9.2 | $23
+
+  - 10:15 | 19:15 | $10 | $25
+
+  - 19:15 | 19:17 | $9.2 | $23
+
+  - 19:17 | 19:19 | $8.4 | $21
+
+  - 19:19 | 00:00 (next day) | $8 | $20
+
+  - Division 3 Taxis
+
+  - Time slot | Toll for taxis
+
+  - Whole day | $25
+
+  - Division 4 Vehicles other than Motor Cycles, Motor Tricycles, Private Cars and Taxis
+
+  - Time slot | Toll for vehicles other than motor cycles, motor tricycles, private cars and taxis
+
+  - Whole day | $50
+
+  - (18 of 2023 s. 20)
 
 - Part 4 Removal Fee
 
