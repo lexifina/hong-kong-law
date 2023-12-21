@@ -9,3 +9,7 @@ An Ordinance to provide for—
 - (d) other ancillary and related matters (including a related amendment to the Road Traffic (Public Service Vehicles) Regulations).
 
 [21 March 2008] L.N. 27 of 2008
+
+(Format changes—E.R. 4 of 2023)
+
+(Enacting provision omitted—E.R. 4 of 2023)
