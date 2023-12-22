@@ -8,9 +8,11 @@ s-004B.md
 s-004C.md
 s-004D.md
 s-004E.md
+s-004F.md
 s-005.md
 s-006.md
 s-007.md
+s-007A.md
 s-008.md
 sch-1.md
 sch-2.md
