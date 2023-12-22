@@ -6,7 +6,7 @@
 
 - Part I Requirements Applicable to Receipts Issued for the Purposes of Regulation 49A(1)
 
-- For the purposes of regulation 49A(1), a receipt issued in respect of the payment of any fare for the hiring of a taxi shall—
+- For the purposes of regulation 49A(1), a receipt issued in respect of the payment of any fare for the hiring of a taxi must— (34 of 2023 s. 34)
 
     - (a) be in a form from time to time specified by the Commissioner;
 
@@ -24,7 +24,11 @@
 
       - (vi) the period of time for which a fare has been included by way of item 3 of Schedule 5 in the fare recorded in respect of such hiring on the taximeter fitted to the taxi;
 
-      - (vii) the amount of the additional fares which have been included by way of item 4 of Schedule 5 in the fare recorded in respect of such hiring on the taximeter fitted to the taxi; and
+      - (vii) the amount of the additional fares which have been included in the fare recorded in respect of such hiring on the taximeter fitted to the taxi— (34 of 2023 s. 34)
+
+        - (A) by way of item 4 of Schedule 5; and
+
+        - (B) (for a fleet taxi) as the agreed booking fee (if any); and (34 of 2023 s. 34)
 
       - (viii) the total amount of the fares recorded in respect of such hiring on the taximeter fitted to the taxi;
 
@@ -36,7 +40,7 @@
 
 - For the purposes of regulation 49A(2)—
 
-    - (a) a receipt issued in respect of the payment of any fare for the hiring of a taxi shall set out by completion in manuscript of a pre-printed form complying with the requirements of subparagraph (b)—
+    - (a) a receipt issued in respect of the payment of any fare for the hiring of a taxi must set out by completion in manuscript of a pre-printed form complying with the requirements of subparagraph (b)— (34 of 2023 s. 34)
 
       - (i) the registration mark of the taxi;
 
@@ -46,12 +50,16 @@
 
       - (iv) the amount of the fares which have been included by way of item 1, 2 or 2a and of item 3 of Schedule 5 in the fare recorded in respect of such hiring on the taximeter fitted to the taxi;
 
-      - (v) the amount of the additional fares which have been included by way of item 4 of Schedule 5 in the fare recorded in respect of such hiring on the taximeter fitted to the taxi;
+      - (v) the amount of the additional fares which have been included in the fare recorded in respect of such hiring on the taximeter fitted to the taxi— (34 of 2023 s. 34)
+
+        - (A) by way of item 4 of Schedule 5; and
+
+        - (B) (for a fleet taxi) as the agreed booking fee (if any); (34 of 2023 s. 34)
 
       - (vi) the total amount of the fares recorded in respect of such hiring on the taximeter fitted to the taxi; and
 
       - (vii) the name of the driver of the taxi; and
 
-    - (b) the pre-printed form referred to in subparagraph (a) shall be in a form from time to time specified by the Commissioner.
+    - (b) the pre-printed form referred to in subparagraph (a) must be in a form from time to time specified by the Commissioner. (34 of 2023 s. 34)
 
   - (L.N. 149 of 1997)

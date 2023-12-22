@@ -66,6 +66,8 @@ Section | Summary of Offence | Maximum Penalty
 
 22(1) | Other vehicles entering taxi ranks, etc. | $2,000
 
+22(1A) | Other vehicles entering fleet taxi stopping places (34 of 2023 s. 45) | $2,000
+
 22(2) | Failure to follow lawful direction of authorized person | $2,000
 
 22(3) | Failure to comply with prescribed traffic sign, etc. | $5,000 and 3 months imprisonment

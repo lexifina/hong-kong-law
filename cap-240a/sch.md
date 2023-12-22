@@ -270,9 +270,9 @@ Using a mobile telephone or other telecommunications equipment or an accessory t
 
 Sounding audible warning device unnecessarily | Regulation 43 | $320
 
-20. | 未經授權而在巴士站、公共小巴站、的士站或公共小巴停車處停車 | 第45條 | $400
+20. | 未經授權而在巴士站、公共小巴站、的士站、車隊的士停車處或公共小巴停車處停車 | 第45條 | $400
 
-Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | Regulation 45 | $400
+Unauthorized stopping at bus stop/public light bus stand/taxi stand/fleet taxi stopping place/public light bus stopping place | Regulation 45 | $400
 
 21. | 在沒有亮着所需車燈的情況下駕駛 | 第47(1)(a)條 | $320
 
@@ -500,7 +500,7 @@ Offence marked with “Ω” carries 10 driving-offence points.
 
 Vehicle owners liable for offences marked with “*”.
 
-(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017; L.N. 14 of 2018) __________
+(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017; L.N. 14 of 2018; 34 of 2023 s. 37) __________
 
 通知書號碼： | 表格 2 | [第2(2)條]
 

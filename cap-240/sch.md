@@ -56,7 +56,7 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 19. | Regulation 43 | Sounding audible warning device unnecessarily | $320
 
-20. | Regulation 45 | Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place (Amended L.N. 6 of 2018) | $400
+20. | Regulation 45 | Unauthorized stopping at bus stop/public light bus stand/taxi stand/fleet taxi stopping place/public light bus stopping place (Amended L.N. 6 of 2018; 34 of 2023 s. 36) | $400
 
 21. | Regulation 47(1)(a) | Driving without necessary lights illuminated | $320
 

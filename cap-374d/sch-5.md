@@ -1,6 +1,6 @@
 # Schedule 5
 
-[regs. 2, 47 & 62 & Sch. 9] (L.N. 219 of 2008; L.N. 151 of 2013)
+[regs. 2, 47, 49 & 62 & Sch. 9] (L.N. 219 of 2008; L.N. 151 of 2013; 34 of 2023 s. 33)
 
 Taxi Fares
 
@@ -82,7 +82,7 @@ Taxi Fares
 
 (vic) | (Repealed L.N. 61 of 2017)
 
-(vii) | For every hiring arranged through telephone booking—
+(vii) | For every hiring of a general taxi arranged through telephone booking— (34 of 2023 s. 33)
 
 (a) | Taxis licensed to operate in Hong Kong and Kowloon | $5.00
 

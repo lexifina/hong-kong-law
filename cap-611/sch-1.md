@@ -14,7 +14,7 @@ Drivers to Whom Idling Prohibition does not Apply
 
 - 2. Passenger transport vehicles
 
-  - (1) Section 5 does not apply to a driver of a taxi that is at a taxi stand.
+  - (1) Section 5 does not apply to a driver of a taxi that is at a taxi stand, or a driver of a fleet taxi that is at a fleet taxi stopping place. (34 of 2023 s. 46)
 
   - (2) Section 5 does not apply to a driver of a green minibus at a green minibus stand if the minibus is the first or second minibus on a particular scheduled service at the stand.
 
@@ -38,6 +38,10 @@ Drivers to Whom Idling Prohibition does not Apply
 
     - bus (巴士) has the same meaning as in the Road Traffic Ordinance (Cap. 374);
 
+    - fleet taxi (車隊的士) has the meaning given by regulation 2(1) of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D); (34 of 2023 s. 46)
+
+    - fleet taxi stopping place (車隊的士停車處), subject to subsection (7), has the meaning given by regulation 2(1) of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D); (34 of 2023 s. 46)
+
     - franchised bus (專利巴士) means a bus in respect of which a franchise is in force under the Public Bus Services Ordinance (Cap. 230);
 
     - green minibus (綠色小巴) means a public light bus on a scheduled service;
@@ -58,7 +62,7 @@ Drivers to Whom Idling Prohibition does not Apply
 
     - taxi stand (的士站) has, subject to subsection (7), the same meaning as in the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
 
-  - (7) For the purposes of this section, an area of road is not a taxi stand, green minibus stand or red minibus stand at any time when a suspension is in force in relation to the area under regulation 32 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
+  - (7) For the purposes of this section, an area of road is not a taxi stand, fleet taxi stopping place, green minibus stand or red minibus stand at any time when a suspension is in force in relation to the area under regulation 32 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D). (34 of 2023 s. 46)
 
 - 3. Vehicles idling for medical, emergency or law enforcement purposes
 
