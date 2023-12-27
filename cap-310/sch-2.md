@@ -2,7 +2,7 @@
 
 [ss. 2, 11 & 18] (Amended 13 of 2010 s. 18)
 
-- 1. The Table in this Schedule sets out the penalty payable under section 11, the prescribed branch registration fee payable under section 7 and regulations made under section 14, and the levy payable under sections 5A, 5B and 7 and regulations made under section 14. (Added 13 of 2010 s. 18)
+- 1. The Table in this Schedule sets out the penalty payable under section 11, the prescribed branch registration fee payable under section 7 and regulations made under section 14, and the levy payable under sections 5A, 5B, 5BA and 7 and regulations made under section 14. (Added 13 of 2010 s. 18. Amended 34 of 2021 s. 24)
 
 - 2. In respect of item 2 of the Table, the prescribed branch registration fee payable in relation to the registration of a branch of a business is the sum specified in column 2 of that item corresponding to the period specified in column 1 of that item within which the following date falls—
 
@@ -34,13 +34,15 @@
 
   - (b) in relation to a simultaneous business registration application—
 
-    - (i) in the case of a levy payable under section 5A(1)(a), the date of making the related incorporation submission; or (Amended 28 of 2012 ss. 912 & 920)
+    - (i) in the case of a levy payable under section 5A(1)(a), the date of making the related incorporation submission; (Amended 28 of 2012 ss. 912 & 920)
 
     - (ii) in the case of a levy payable under section 5B(1)(a)—
 
       - (A) if the related company registration application is made within 1 year of the date of establishment of the non-Hong Kong company’s place of business in Hong Kong, that date; or
 
-      - (B) otherwise, the last anniversary of that date;
+      - (B) otherwise, the last anniversary of that date; or (Amended 34 of 2021 s. 24)
+
+    - (iii) in the case of a levy payable under section 5BA(1)(a), the date on which the related LPF registration application is made; (Added 34 of 2021 s. 24)
 
   - (c) in relation to the issue of a further business registration certificate on the expiry of a business registration certificate, the date of the day following the date of that expiry.
 
@@ -58,9 +60,9 @@
 
 - (Added 13 of 2010 s. 18)
 
-- TABLE
+TABLE
 
-- (Added 13 of 2010 s. 18)
+(Added 13 of 2010 s. 18)
 
 Item | Sum
 
