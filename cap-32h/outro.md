@@ -312,23 +312,7 @@ Form 15 (Repealed L.N. 201 of 1984)
 
 _
 
-Form 16 | [rule 36(1)]
-
-Notice of Order to Wind Up (for Newspaper) Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32)
-
-In the matter of | , Limited.
-
-Winding-up order made | , 19 .
-
-Date and place of first meetings—
-
-Creditors | , 19 | , at
-
-Contributories | , 19 | , at
-
-Official Receiver and Provisional Liquidator
-
-(28 of 2012 ss. 912 & 920; E.R. 6 of 2020)
+Form 16 (Repealed 22 of 2023 s. 82)
 
 _
 
@@ -1122,9 +1106,9 @@ Upon the application of the provisional liquidator of the above-named company, b
 
 And it is ordered that the said liquidator do within 7 days from the date of this order give security to the satisfaction of the provisional liquidator as provided by the Companies (Winding-up) Rules (Cap. 32 sub. leg. H).
 
-And notice of this order is to be gazetted and advertised in the (c). | (c) State name of newspaper (if any).
+And notice of this order is to be published in the (c). | (c) State the medium.
 
-(L.N. 286 of 1997; 46 of 2000 s. 40; E.R. 1 of 2014)
+(L.N. 286 of 1997; 46 of 2000 s. 40; E.R. 1 of 2014; 22 of 2023 s. 82)
 
 _
 
@@ -1696,15 +1680,17 @@ _
 
 Form 51 | [rule 74(b)]
 
-Advertisement of Meeting of Committee of Inspection to Sanction Proposed Call (Title)
+Notice of Meeting of Committee of Inspection to Sanction Proposed Call (Title)
 
-Notice is hereby given that the undersigned liquidator of the above-named company proposes that a call should be made “on all the contributories of the said company”, or, as the case may be, of $ per share, and that he has summoned a meeting of the committee of inspection of the company, to be held at on the day of , 19 , at o’clock in the noon, to obtain their sanction to the proposed call.
+Notice is hereby given that the undersigned liquidator of the above-named company proposes that a call should be made “on all the contributories of the said company”, or, as the case may be, of $ per share, and that he has summoned a meeting of the committee of inspection of the company, to be held at on the day of , , at o’clock in the noon, to obtain their sanction to the proposed call.
 
 Each contributory may attend the meeting, and be heard or make any communication in writing to the liquidator or the members of the committee of inspection in reference to the intended call.
 
-A statement showing the necessity of the proposed call and the purpose for which it is intended may be obtained on application to the liquidator at his office at (a). Dated this day of , 19 . | (a) Insert address.
+A statement showing the necessity of the proposed call and the purpose for which it is intended may be obtained on application to the liquidator at his office at (a). Dated this day of , . | (a) Insert address.
 
 Liquidator
+
+(22 of 2023 s. 82)
 
 _
 
@@ -2048,15 +2034,15 @@ Re | No.
 
 I hereby certify that the following list has been compared with the proofs filed, and that the names of the creditors and the amounts for which the proofs are admitted are correctly stated.
 
-(Signature) Dated the day of , 19 .
+(Signature) Dated the day of , .
 
 I certify that by my books the sum of $ stands to the credit of the above company with the companies liquidation account at the bank and that the sum of $ is required to meet the undermentioned dividends, on proofs which have been duly made and admitted to rank for dividend upon the company, and I have to request that orders for payment may be issued to me.
 
-The dividend is payable on the day of 19 , and notice of declaration thereof was forwarded to the Official Receiver for insertion in the Gazette, on the day of 19 .
+The dividend is payable on the day of , and notice of declaration thereof was forwarded to the Official Receiver for publication in , on the day of .
 
 Liquidator
 
-Date | 19 | .
+Date | .
 
 { | Address to which cheques and money orders should be sent.
 
@@ -2068,7 +2054,7 @@ Sums under $20 | Sums of $20 and above
 
 $ | ￠ | $ | ￠ | $ | ￠
 
-(E.R. 1 of 2014)
+(E.R. 1 of 2014; 22 of 2023 s. 82)
 
 _
 
@@ -2730,7 +2716,7 @@ Total | Other taxed costs
 
 Costs of possession and maintenance of estate .
 
-$ | ￠ | Costs of notices in Gazette and local papers .
+$ | ￠ | Costs of publishing notices.
 
 Less—
 
@@ -2768,7 +2754,7 @@ Dated this day of , 20 .
 
 (Address)
 
-(14 of 2016 s. 173)
+(14 of 2016 s. 173; 22 of 2023 s. 82)
 
 _
 
@@ -2790,7 +2776,7 @@ _
 
 Form 103 | [rule 202]
 
-Notices for Gazette (1) Notice of Winding-up Order (rule 36(1)(c))
+(1) Notice of Winding-up Order (rule 36(1)(c))
 
 Name of company | Address of registered office
 
@@ -2848,17 +2834,19 @@ Name of company Number of matter Liquidator’s address | Address of registered 
 
 Name of company Number of matter Liquidator’s address | Address of registered office Liquidator’s name Date of release
 
-(14 of 2016 s. 173)
+(14 of 2016 s. 173; 22 of 2023 s. 82)
 
 _
 
 Form 104 | [rule 203]
 
-Memorandum of Advertisement or Gazetting (Title)
+Memorandum of Advertisement (Title)
 
-Name of paper | Date of issue | Date of filing | Nature of order, &c.
+Name of medium and (if applicable) issue number | Date of publication of advertisement | Date of filing this memorandum | Nature of order, &c.
 
 (Signed)
+
+(22 of 2023 s. 82)
 
 _
 

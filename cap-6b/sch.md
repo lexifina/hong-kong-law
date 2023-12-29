@@ -18,6 +18,8 @@ Profit and loss account | 148
 
 Statement of accounts under section 88 | 150
 
+Transfer from separate estate to joint estate | 154
+
 Trustee’s trading account | 147
 
 Action:
@@ -25,6 +27,8 @@ Action:
 Order restraining before bankruptcy order | 24
 
 Advertisement:
+
+Memorandum of advertisement | 170
 
 Of day for proceeding with public examination | 54
 
@@ -38,7 +42,7 @@ Bankruptcy Order:
 
 Application to annul | 79
 
-Notice etc. (for local newspaper) | 27
+Notice etc. | 27
 
 Order annulling | 80
 
@@ -160,11 +164,9 @@ Shorthand writer, declaration by | 56
 
 Summons under section 29 | 112
 
-Gazetting and publication in newspaper:
+Publication in newspaper:
 
 Substituted service of petition | 15
-
-Transfer from separate estate to joint estate | 154
 
 Interim trustee:
 
@@ -308,7 +310,7 @@ Notes of shorthand writer if appointed | 57
 
 Notes where shorthand writer not appointed | 58
 
-Notice of day for proceeding with (local newspaper) | 54
+Notice of day for proceeding with | 54
 
 Order appointing time for | 53
 
@@ -424,7 +426,7 @@ Search warrant | 108
 
 To apprehended persons summoned under section 29 | 115
 
-(L.N. 81 of 1998; L.N. 125 of 2007; 1 of 2016 s.13)
+(L.N. 81 of 1998; L.N. 125 of 2007; 1 of 2016 s. 13; 22 of 2023 s. 53)
 
 Forms (E.R. 4 of 2020)
 
@@ -1056,7 +1058,7 @@ _
 
 Form 27 [s. 78(1)(f) & rule 78]
 
-Notice of bankruptcy order, etc. (for local newspaper) (Title)
+Notice of bankruptcy order, etc. (Title)
 
 Bankruptcy order made
 
@@ -1066,7 +1068,7 @@ Official Receiver
 
 Dated this day of .
 
-(L.N. 81 of 1998; L.N. 125 of 2007)
+(L.N. 81 of 1998; L.N. 125 of 2007; 22 of 2023 s. 53)
 
 _
 
@@ -2180,13 +2182,13 @@ _
 
 Form 54 [s. 19 & rule 86]
 
-Notice of day for proceeding with public examination (for local newspaper or Gazette) (Title)
+Notice of day for proceeding with public examination (Title)
 
 Notice is hereby given that the court has appointed day, the day of , at o’clock in the noon, for Proceeding with the public examination of the above-named bankrupt, which, on the day of , was adjourned sine die. Dated this day of .
 
 Official Receiver or Trustee
 
-(L.N. 81 of 1998; L.N. 125 of 2007)
+(L.N. 81 of 1998; L.N. 125 of 2007; 22 of 2023 s. 53)
 
 _
 
@@ -2662,11 +2664,11 @@ Certificate of Discharge (Title)
 
 (d) Insert effective date of discharge. | was discharged from his bankruptcy on (d)
 
-Dated this day of . NOTICE TO BANKRUPT OR PERSONAL REPRESENTATIVE OF BANKRUPT (IF BANKRUPT IS DECEASED)— Should you require advertisement of this order in a local newspaper and/or the Gazette, you should, within ___________ days, notify the trustee, enclosing the prescribed fee, details of which can be obtained by contacting the trustee.
+Dated this day of . NOTICE TO BANKRUPT OR PERSONAL REPRESENTATIVE OF BANKRUPT (IF BANKRUPT IS DECEASED)— Should you require the trustee to publish a notice under rule 92(2) of the Bankruptcy Rules (Cap. 6 sub. leg. A), you should, within ___________ days, notify the trustee, enclosing the prescribed fee, details of which can be obtained by contacting the trustee.
 
 Registrar
 
-(L.N. 81 of 1998)
+(L.N. 81 of 1998; 22 of 2023 s. 53)
 
 _
 
@@ -3346,7 +3348,7 @@ Petitioner’s taxed costs
 
 Court fees and taxing fees
 
-Gazetting and advertising charges
+Charges for publication of notices
 
 Travelling expenses and
 
@@ -3386,7 +3388,7 @@ $ | _
 
 Dated this day of . Trustee
 
-(L.N. 125 of 2007)
+(L.N. 125 of 2007; 22 of 2023 s. 53)
 
 _
 
@@ -3646,11 +3648,13 @@ _
 
 Form 154 [rule 195]
 
-Notice of transfer of separate estate to joint estate for Gazette (Title)
+Notice of transfer of separate estate to joint estate (Title)
 
-Notice is hereby given that there being in the hands of the trustee in the above bankruptcy a surplus estimated at $ arising from the separate estate of [name of separate partner] one of the bankrupts, and there being no separate creditors of such bankrupt, it is the intention of such trustee, at the expiration of days from the appearance of this notice in the Gazette, to transfer such surplus to the credit of the joint estate in the said bankruptcy.
+Notice is hereby given that there being in the hands of the trustee in the above bankruptcy a surplus estimated at $ arising from the separate estate of [name of separate partner] one of the bankrupts, and there being no separate creditors of such bankrupt, it is the intention of such trustee, at the expiration of days from the appearance of this notice in , to transfer such surplus to the credit of the joint estate in the said bankruptcy.
 
 Dated this day of . Trustee
+
+(22 of 2023 s. 53)
 
 _
 
@@ -4194,4 +4198,20 @@ Position with creditor or relationship with creditor or other authority for sign
 
 Remember: There may be resolutions on the other side of this form.
 
-(L.N. 81 of 1998) (Schedule amended L.N. 125 of 2007)
+(L.N. 81 of 1998)
+
+_
+
+Form 170
+
+[rule 11]
+
+Memorandum of Advertisement
+
+(Title)
+
+Name of medium and (if applicable) issue number | Date of publication of advertisement | Date of filing this memorandum | Nature of order etc.
+
+(Signed)
+
+(22 of 2023 s. 53) (Schedule amended L.N. 125 of 2007)

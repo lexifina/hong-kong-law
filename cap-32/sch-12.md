@@ -50,11 +50,11 @@ Summary | Level 4 and 6 months | —
 
 228A(8B) | Person acting as provisional liquidator without having consented to the appointment, or not being a solicitor or certified public accountant (Added 14 of 2016 s. 116) | Summary | $150,000 | —
 
-228A(9A) | Director failing to give notice in the Gazette of the commencement of winding up and appointment of a provisional liquidator (Added 14 of 2016 s. 116) | Summary | level 3 | $300
+228A(9A) | Director failing to give notice by the specified means of the commencement of winding up and appointment of a provisional liquidator (Added 14 of 2016 s. 116. Amended 22 of 2023 s. 65) | Summary | level 3 | $300
 
 228A(13) (relating to subsection (10)) | Provisional liquidator failing to deliver to the Registrar the notice of appointment required under section 228A(10) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
 
-228A(13) (relating to subsection (11)(a)) | Person ceasing to act as provisional liquidator failing to publish in the Gazette the notice required under section 228A(11)(a) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
+228A(13) (relating to subsection (11)(a)) | Person ceasing to act as provisional liquidator failing to publish by the specified means the notice required under section 228A(11)(a) (Added 28 of 2003 s. 119. Amended 22 of 2023 s. 65) | Summary | level 3 | $200
 
 228A(13) (relating to subsection (11)(b)) | Person ceasing to act as provisional liquidator failing to deliver to the Registrar the notice required under section 228A(11)(b) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
 
@@ -64,11 +64,11 @@ Summary | Level 4 and 6 months | —
 
 228B(7) | Provisional liquidator failing to attend a meeting of the creditors or report on the exercise of powers (Added 14 of 2016 s. 116) | Summary | level 5 | —
 
-229(2) | Company failing to advertise in the Gazette notice of resolution to wind up voluntarily | Summary | level 3 | $300
+229(2) | Company failing to give notice of resolution to wind up voluntarily by the specified means (Amended 22 of 2023 s. 65) | Summary | level 3 | $300
 
 233(3) | Director signing a certificate that company being wound up voluntarily can meet its debts within the time set out in the certificate without having reasonable grounds to do so (Amended 28 of 2003 s. 119) | Summary | level 5 and 6 months | —
 
-237A(3) (relating to subsection (1A)) | Liquidator, on forming the opinion that a company in voluntary winding up will not be able to pay its debts in full within the period stated in the certificate of solvency, failing to summon meeting of creditors, or send notice of the meeting to the creditors, or cause notice of the meeting to be advertised (Amended 28 of 2003 s. 119; 14 of 2016 s. 116) | Summary | level 3 | —
+237A(3) (relating to subsection (1A)) | Liquidator, on forming the opinion that a company in voluntary winding up will not be able to pay its debts in full within the period stated in the certificate of solvency, failing to summon meeting of creditors, or send notice of the meeting to the creditors, or cause notice of the meeting to be published by the specified means (Amended 28 of 2003 s. 119; 14 of 2016 s. 116; 22 of 2023 s. 65) | Summary | level 3 | —
 
 237A(3) (relating to subsection (1B)) | Liquidator failing to make a disclosure statement if not disqualified under section 262B(3) (Added 14 of 2016 s. 116) | Summary | level 3 | —
 
@@ -108,11 +108,11 @@ Summary | Level 4 and 6 months | —
 
 250A(4) | Director exercising a power without the sanction of the court (Added 14 of 2016 s. 116) | Summary | level 5 | —
 
-253(4) (relating to subsection (1)(a)) | Liquidator failing to publish in the Gazette the notice of appointment required under section 253(1)(a) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+253(4) (relating to subsection (1)(a)) | Liquidator failing to publish by the specified means the notice of appointment required under section 253(1)(a) (Added 28 of 2003 s. 119. Amended 22 of 2023 s. 65) | Summary | level 3 | $300
 
 253(4) (relating to subsection (1)(b)) | Liquidator failing to deliver to the Registrar the notice of appointment required under section 253(1)(b) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 
-253(4) (relating to subsection (2)(a)) | Person ceasing to act as liquidator failing to publish in the Gazette the notice required under section 253(2)(a) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+253(4) (relating to subsection (2)(a)) | Person ceasing to act as liquidator failing to publish by the specified means the notice required under section 253(2)(a) (Added 28 of 2003 s. 119. Amended 22 of 2023 s. 65) | Summary | level 3 | $300
 
 253(4) (relating to subsection (2)(b)) | Person ceasing to act as liquidator failing to deliver to the Registrar the notice required under section 253(2)(b) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 

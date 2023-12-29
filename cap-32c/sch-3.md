@@ -42,7 +42,7 @@ where the money consists of unclaimed dividends, on each dividend paid out; wher
 
 (b) the total fees taken under this item in respect of undistributed funds or balances shall not exceed $37,500 in each liquidation. (L.N. 221 of 1989; L.N. 173 of 2013)
 
-7. | For insertion in the Gazette of a notice relating to a company which is being wound up by the court (L.N. 221 of 1989; L.N. 173 of 2013) | 330.00
+7. | For the publication of a notice relating to a company which is being wound up by the court (L.N. 221 of 1989; L.N. 173 of 2013; 22 of 2023 s. 67) | 330.00
 
 8. | On an application by a member of the public to the Official Receiver for a search on whether a winding-up petition has been presented against a company (L.N. 221 of 1989; L.N. 173 of 2013) | 80.00
 
