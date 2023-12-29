@@ -18,7 +18,7 @@ This fee includes any fee on answering a petition or setting down for hearing. (
 
 This fee includes any fee on answering a petition or setting down for hearing. (L.N. 127 of 2007)
 
-6. | (a) | Application for early discharge, for the suspension of discharge or for the lifting of a suspension of discharge including any gazetting costs (L.N. 83 of 1998) | 528.00
+6. | (a) | Application for early discharge, for the suspension of discharge or for the lifting of a suspension of discharge including any publication costs (L.N. 83 of 1998; 22 of 2023 s. 54) | 528.00
 
 (b) | and for each creditor notified (L.N. 164 of 1997; L.N. 171 of 2013) | 28.00
 
@@ -74,7 +74,7 @@ for every $1,000 or fraction of $1,000 of the gross amount of assets realized an
 
 17. | Application by a member of the public to the Official Receiver for issue of a non-bankruptcy certificate for a person (L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) | 190.00
 
-18. | For insertion in the Gazette of a notice relating to bankruptcy (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) | 330.00
+18. | For the publication of a notice relating to bankruptcy (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013; 22 of 2023 s. 54) | 330.00
 
 19. | Examination by a creditor of the record signed by the bankrupt under section 19 (L.N. 83 of 1998) | 85.00
 
