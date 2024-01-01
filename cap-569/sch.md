@@ -780,10 +780,6 @@ Election Committee
 
         - specified oath (指明誓言) means an oath taken under the law that the oath-taker will uphold the Basic Law and bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China.
 
-    - Editorial Note:
-
-    - See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendment by 19 of 2023 to this section.
-
     - 5N. Determination of validity of registration The Candidate Eligibility Review Committee must, as soon as practicable after a registration form that complies with this Part and the EAC Regulations is submitted in accordance with those Regulations, determine whether or not the proposed registration is valid in accordance with Annex I to the Basic Law and this Ordinance.
 
     - 5O. Application of the Elections (Corrupt and Illegal Conduct) Ordinance The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the registration and designation of persons to be ex-officio members of the Election Committee under section 5I or 5J in the same way as it applies to and in relation to a subsector election and so applies as if the persons to be registered were candidates at a subsector election.
@@ -1011,10 +1007,6 @@ Election Committee
       - (3) In this section—
 
         - specified oath (指明誓言) means an oath taken under the law that the oath-taker will uphold the Basic Law and bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China. (Added 14 of 2021 s. 420)
-
-    - Editorial Note:
-
-    - See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendment by 19 of 2023 to this section.
 
     - 9A. When a person is disqualified from being a nominee for certain subsectors
 
@@ -1383,10 +1375,6 @@ Election Committee
       - (3) In this section—
 
         - specified oath (指明誓言) means an oath taken under the law that the oath-taker will uphold the Basic Law and bear allegiance to the Hong Kong Special Administrative Region of the People’s Republic of China. (Added 14 of 2021 s. 430)
-
-    - Editorial Note:
-
-    - See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendment by 19 of 2023 to this section.
 
     - 18A. When a person is disqualified from being a candidate for certain subsectors (Amended 14 of 2021 s. 431)
 
