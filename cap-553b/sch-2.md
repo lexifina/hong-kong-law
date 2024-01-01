@@ -65,7 +65,3 @@ Item | Enactment | Provision
 27. | (Repealed L.N. 215 of 2007)
 
 28. | Arbitration Ordinance (Cap. 609) | Section 67(1) (17 of 2010 s. 112)
-
-Editorial Note:
-
-See section 1 of the District Councils (Amendment) Ordinance 2023 (19 of 2023) for details of the commencement arrangement for the amendments by 19 of 2023 to this Schedule.
