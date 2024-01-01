@@ -105,6 +105,9 @@ s-015L.md
 s-015M.md
 s-015N.md
 s-015O.md
+s-015OA.md
+s-015OB.md
+s-015OC.md
 s-015P.md
 s-015Q.md
 s-015R.md
@@ -577,3 +580,4 @@ sch-52.md
 sch-53.md
 sch-54.md
 sch-55.md
+sch-56.md

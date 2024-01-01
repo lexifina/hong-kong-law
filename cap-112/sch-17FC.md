@@ -1,6 +1,8 @@
 # Schedule 17FC
 
-[ss. 15L, 51C, 80 & 82A & Sch. 55]
+[ss. 15L, 15OA, 15P, 51C, 80 & 82A & Schs. 55 & 56]
+
+(Amended 32 of 2023 s. 11)
 
 Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
@@ -20,6 +22,12 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
       - non-qualifying expenditure (不合資格開支)—see section 6 of this Schedule;
 
+      - qualifying general IP income (合資格一般知識產權收入) means any income derived from qualifying intellectual property in respect of—
+
+        - (a) the exhibition or use of, or a right to exhibit or use, (whether in or outside Hong Kong) the property; or
+
+        - (b) the imparting of, or undertaking to impart, knowledge directly or indirectly connected with the use (whether in or outside Hong Kong) of the property; (Added 32 of 2023 s. 11)
+
       - qualifying intellectual property (合資格知識產權) means—
 
         - (a) a patent granted under the Patents Ordinance (Cap. 514) (Cap. 514) or under the law of any place outside Hong Kong;
@@ -28,11 +36,13 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
         - (c) a copyright subsisting in software under the Copyright Ordinance (Cap. 528) or under the law of any place outside Hong Kong;
 
-      - qualifying IP income (合資格知識產權收入) means income derived from qualifying intellectual property in respect of—
+      - qualifying IP disposal gain (合資格知識產權處置收益) means any gain or profit derived from the sale of qualifying intellectual property; (Added 32 of 2023 s. 11)
 
-        - (a) the exhibition or use of, or a right to exhibit or use, (whether in or outside Hong Kong) the property; or
+      - qualifying IP income (合資格知識產權收入) means— (Amended 32 of 2023 s. 11)
 
-        - (b) the imparting of, or undertaking to impart, knowledge directly or indirectly connected with the use (whether in or outside Hong Kong) of the property;
+        - (a) any qualifying general IP income; or
+
+        - (b) any qualifying IP disposal gain; (Amended 32 of 2023 s. 11)
 
       - qualifying R&D expenditure (合資格研發開支)—see section 5 of this Schedule;
 
@@ -42,9 +52,17 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
       - specified period (指明期間), in relation to an MNE entity to which any qualifying IP income accrues, means the period—
 
-        - (a) beginning on 1 January 2023 or on an earlier date elected by the entity; and
+        - (a) if the income is qualifying general IP income—
 
-        - (b) ending on the last day of the entity’s basis period of the year of assessment during which the income accrues.
+          - (i) beginning on 1 January 2023 or on an earlier date elected by the entity; and
+
+          - (ii) ending on the last day of the entity’s basis period of the year of assessment during which the income accrues; or
+
+        - (b) if the income is a qualifying IP disposal gain—
+
+          - (i) beginning on 1 January 2024 or on an earlier date elected by the entity; and
+
+          - (ii) ending on the last day of the entity’s basis period of the year of assessment during which the income accrues. (Amended 32 of 2023 s. 11)
 
     - (3) For the purposes of this Schedule—
 
@@ -190,15 +208,25 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
     - (1) This section applies if—
 
-      - (a) any qualifying IP income received by an MNE entity is chargeable to profits tax for a year of assessment because of section 15I(1); and
+      - (a) any qualifying general IP income received by an MNE entity is chargeable to profits tax for a year of assessment because of section 15I(1); and
 
-      - (b) during the basis period of that year of assessment, a loss is sustained in respect of the qualifying intellectual property to which the income relates.
+      - (b) during the basis period of that year of assessment, a loss (general loss) is sustained in respect of the qualifying intellectual property to which the income relates.
 
-    - (2) The qualifying portion of the loss may be set off against the MNE entity’s assessable profits for that year of assessment.
+    - (1A) This section also applies if—
 
-    - (3) Any amount of the qualifying portion of the loss not so set off may be carried forward and set off, in accordance with section 19C, against the MNE entity’s assessable profits for subsequent years of assessment.
+      - (a) an MNE entity sustains a loss (sale loss) from a sale in a territory outside Hong Kong of qualifying intellectual property;
 
-    - (4) The qualifying portion of a loss sustained in respect of qualifying intellectual property is to be ascertained in accordance with the following formula—
+      - (b) the proceeds of the sale are received in Hong Kong by the MNE entity during the basis period of a year of assessment; and
+
+      - (c) had a gain been derived from the sale and received in Hong Kong by the MNE entity, the gain, or part of the gain, would have been chargeable to profits tax because of section 15I(1). (Added 32 of 2023 s. 11)
+
+    - (2) The qualifying portion of the general loss or sale loss may, subject to subsection (3A), be set off against the MNE entity’s assessable profits for that year of assessment.
+
+    - (3) Any amount of the qualifying portion of the general loss or sale loss not so set off may, subject to subsection (3A), be carried forward and set off, in accordance with section 19C, against the MNE entity’s assessable profits for subsequent years of assessment.
+
+    - (3A) A sale loss may only be set off to the extent that the assessable profits concerned are derived from specified foreign-sourced income that is chargeable to profits tax because of section 15I(1). (Added 32 of 2023 s. 11)
+
+    - (4) The qualifying portion of a general loss or sale loss sustained in respect of qualifying intellectual property is to be ascertained in accordance with the following formula— (Amended 32 of 2023 s. 11)
 
     - QP = L × (1 – F)
 
@@ -206,11 +234,11 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
     - L | means the loss; and
 
-    - F | means the R&D fraction applicable to the qualifying IP income to which the qualifying intellectual property relates.
+    - F | means the R&D fraction applicable to the qualifying intellectual property.
 
-    - (5) To avoid doubt, the non-qualifying portion of a loss sustained in respect of qualifying intellectual property must not be set off against any assessable profits of the MNE entity.
+    - (5) To avoid doubt, the non-qualifying portion of a general loss or sale loss sustained in respect of qualifying intellectual property must not be set off against any assessable profits of the MNE entity.
 
-    - (6) The non-qualifying portion of a loss sustained in respect of qualifying intellectual property is to be ascertained in accordance with the following formula—
+    - (6) The non-qualifying portion of a general loss or sale loss sustained in respect of qualifying intellectual property is to be ascertained in accordance with the following formula— (Amended 32 of 2023 s. 11)
 
     - NP = L × F
 
@@ -218,7 +246,37 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
     - L | means the loss; and
 
-    - F | means the R&D fraction applicable to the qualifying IP income to which the qualifying intellectual property relates.
+    - F | means the R&D fraction applicable to the qualifying intellectual property.
+
+    - (7) For ascertaining the R&D fraction applicable to qualifying intellectual property under subsections (4) and (6), sections 4, 5 and 6 of this Schedule are to apply with the following modifications—
+
+      - (a) in section 1(2) of this Schedule, the following definition is substituted for the definition of specified period—
+
+          - “specified period (指明期間), in relation to an MNE entity that sustains a loss in respect of qualifying intellectual property, means the period—
+
+            - (a) if the loss is a general loss within the meaning of section 7(1)(b) of this Schedule—
+
+              - (i) beginning on 1 January 2023 or on an earlier date elected by the entity; and
+
+              - (ii) ending on the last day of the entity’s basis period of the year of assessment during which the loss is sustained; or
+
+            - (b) if the loss is a sale loss within the meaning of section 7(1A)(a) of this Schedule—
+
+              - (i) beginning on 1 January 2024 or on an earlier date elected by the entity; and
+
+              - (ii) ending on the last day of the entity’s basis period of the year of assessment during which the loss is sustained.”;
+
+      - (b) in section 4(1) of this Schedule—
+
+        - (i) the words “qualifying intellectual property (subject intellectual property) held” are substituted for the words “qualifying IP income received”; and
+
+        - (ii) the words “subject intellectual property” are substituted for the words “qualifying intellectual property to which the qualifying IP income relates (subject intellectual property)”;
+
+      - (c) in sections 5(1) and 6(1) of this Schedule, the words “qualifying intellectual property (subject intellectual property) held” are substituted for the words “qualifying IP income received”;
+
+      - (d) in sections 5(2) and 6(2) of this Schedule, the words “subject intellectual property” are substituted for the words “qualifying intellectual property to which the qualifying IP income relates (subject intellectual property)”. (Added 32 of 2023 s. 11)
+
+  - (Amended 32 of 2023 s. 11)
 
   - 8. Effect of withdrawal, abandonment and refusal of patent application
 
@@ -276,9 +334,17 @@ Qualifying IP Income: Nexus Requirement for Ascertaining Excepted Portion etc.
 
       - (a) qualifying IP income accrues to an MNE entity during the period—
 
-        - (i) beginning on 1 January 2023; and
+        - (i) if the income is qualifying general IP income—
 
-        - (ii) ending on the last day of the entity’s basis period of the year of assessment beginning on 1 April 2024; and
+          - (A) beginning on 1 January 2023; and
+
+          - (B) ending on the last day of the entity’s basis period of the year of assessment beginning on 1 April 2024; or
+
+        - (ii) if the income is a qualifying IP disposal gain—
+
+          - (A) beginning on 1 January 2024; and
+
+          - (B) ending on the last day of the entity’s basis period of the year of assessment beginning on 1 April 2025; and (Amended 32 of 2023 s. 11)
 
       - (b) the entity is unable to ascertain the R&D fraction applicable to the income under Part 2 of this Schedule because there are insufficient records.
 

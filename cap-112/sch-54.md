@@ -1,6 +1,8 @@
 # Schedule 54
 
-[s. 50AAA]
+[ss. 15OA & 50AAA]
+
+(Amended 32 of 2023 s. 12)
 
 Specifications for Section 50AAA in relation to Unilateral Tax Credits
 
@@ -11,6 +13,10 @@ Specifications for Section 50AAA in relation to Unilateral Tax Credits
   - 1. Interpretation of Schedule 54 In this Schedule—
 
     - adequate interest (足夠權益)—see section 50AAAC;
+
+    - disposal gain (處置收益) has the meaning given by section 15H(1); (Added 32 of 2023 s. 12)
+
+    - equity interest disposal gain (股權權益處置收益) has the meaning given by section 15H(1); (Added 32 of 2023 s. 12)
 
     - Hong Kong resident person (香港居民人士) has the meaning given by section 50AAC(1);
 
@@ -54,6 +60,10 @@ Specifications for Section 50AAA in relation to Unilateral Tax Credits
 
       - as ascertained when determining whether the subject person has an adequate interest in the investee company, is to be included in the tax credit.
 
-    - (4) For the purposes of section 50AAA(4), the following transitional arrangement is specified for the specification of specified foreign-sourced income under subsection (1)(a): section 50AAA applies in relation to profits tax payable for a year of assessment beginning on or after 1 April 2022 in respect of income accrued and received on or after 1 January 2023.
+    - (4) For the purposes of section 50AAA(4), the following transitional arrangement is specified for the specification of specified foreign-sourced income under subsection (1)(a)— (Amended 32 of 2023 s. 12)
+
+      - (a) in relation to any specified foreign-sourced income that is a disposal gain (other than equity interest disposal gain)—section 50AAA applies in relation to profits tax payable for a year of assessment beginning on or after 1 April 2023 in respect of income accrued and received on or after 1 January 2024;
+
+      - (b) in relation to other specified foreign-sourced income—section 50AAA applies in relation to profits tax payable for a year of assessment beginning on or after 1 April 2022 in respect of income accrued and received on or after 1 January 2023. (Amended 32 of 2023 s. 12)
 
     - (5) For the purposes of the definition of similar tax in section 50AAA(7), the following tax is specified: profits tax.
