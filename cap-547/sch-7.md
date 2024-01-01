@@ -1,7 +1,5 @@
 # Schedule 7
 
-(See Special Remarks)
-
 [ss. 60A & 82]
 
 Financial Assistance: Specified Rate

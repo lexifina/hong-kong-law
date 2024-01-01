@@ -1,7 +1,5 @@
 # Schedule 4A
 
-(See Special Remarks)
-
 [ss. 14, 19, 21, 26A,
 
 31A & 82]

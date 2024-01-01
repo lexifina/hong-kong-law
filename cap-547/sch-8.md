@@ -1,7 +1,5 @@
 # Schedule 8
 
-(See Special Remarks)
-
 [s. 6]
 
 District Council Geographical Constituencies for Seventh Term of Office of District Councils

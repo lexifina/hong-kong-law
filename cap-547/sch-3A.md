@@ -1,7 +1,5 @@
 # Schedule 3A
 
-(See Special Remarks)
-
 [ss. 5A & 8]
 
 Establishment of District Committees Constituencies

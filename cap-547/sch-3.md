@@ -1,7 +1,5 @@
 # Schedule 3
 
-(See Special Remarks)
-
 [ss. 5, 8, 11 & 17]
 
 Composition of District Councils
