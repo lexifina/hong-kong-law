@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 6]
 
-NOISE EMISSION LABEL
+Noise Emission Label
 
 (light green label) (Actual size 150 mm × 150 mm)
 

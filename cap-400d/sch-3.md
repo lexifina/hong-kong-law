@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 8]
 
-FORM 1
+Form 1
 
 Noise Control Ordinance (Chapter 400) APPLICATION FOR A NOISE EMISSION LABEL
 

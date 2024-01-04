@@ -1,5 +1,9 @@
-NOISE CONTROL (AIR COMPRESSORS) REGULATIONS
+Noise Control (Air Compressors) Regulations
 
 (Cap. 400, section 27)
 
+(Enacting provision omitted—E.R. 4 of 2023)
+
 [1 March 1992]
+
+(Format changes—E.R. 4 of 2023)

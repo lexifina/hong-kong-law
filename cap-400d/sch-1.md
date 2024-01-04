@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 5 & 8]
 
-NOISE EMISSION STANDARD
+Noise Emission Standard
 
 Mass of the Breaker | Maximum Permissible Sound Power Level in dB(A)
 
