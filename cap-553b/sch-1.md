@@ -30,15 +30,7 @@ Item | Enactment | Provision
 
 18. | (Repealed L.N. 194 of 2015)
 
-19. | Commercial Bathhouses Regulation (Cap. 132 sub. leg. I) | Section 5(1)
-
-20. | Food Business Regulation (Cap. 132 sub. leg. X) | Section 32(1)
-
-21. | Frozen Confections Regulation (Cap. 132 sub. leg. AC) | Section 18(1)
-
-22. | Milk Regulation (Cap. 132 sub. leg. AQ) | Section 15(1)
-
-23. | Offensive Trades Regulation (Cap. 132 sub. leg. AX) | Section 9(2)
+19-23. | (Repealed 2 of 2024 s. 10)
 
 24. | (Repealed L.N. 152 of 2006)
 
@@ -58,7 +50,7 @@ Item | Enactment | Provision
 
 32. | Marriage Ordinance (Cap. 181) | Section 14(1)
 
-33. | Aerial Ropeways (Safety) Ordinance (Cap. 211) | Section 7
+33. | (Repealed 2 of 2024 s. 10)
 
 34-36. | (Repealed L.N. 152 of 2006)
 

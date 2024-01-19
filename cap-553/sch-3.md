@@ -38,4 +38,28 @@ Item | Enactment | Provision
 
 15. | Building (Minor Works) Regulation (Cap. 123 sub. leg. N) (Added L.N. 225 of 2021) | Section 46(2)(a)
 
+16. | Commercial Bathhouses Regulation (Cap. 132 sub. leg. I) (Added 2 of 2024 s. 9) | Section 5(1)
+
+17. | Food Business Regulation (Cap. 132 sub. leg. X) (Added 2 of 2024 s. 9) | Section 32(1)
+
+18. | Frozen Confections Regulation (Cap. 132 sub. leg. AC) (Added 2 of 2024 s. 9) | Section 18(1)
+
+19. | Milk Regulation (Cap. 132 sub. leg. AQ) (Added 2 of 2024 s. 9) | Section 15(1)
+
+20. | Offensive Trades Regulation (Cap. 132 sub. leg. AX) (Added 2 of 2024 s. 9) | Section 9(2)
+
+21. | Aerial Ropeways (Safety) Ordinance (Cap. 211) (Added 2 of 2024 s. 9) | Section 7
+
+22. | News Agencies Registration Regulations (Cap. 268 sub. leg. A) (Added 2 of 2024 s. 9) | Regulation 12
+
+23. | Newspapers Registration and Distribution Regulations (Cap. 268 sub. leg. B) (Added 2 of 2024 s. 9) | Regulation 11
+
+24. | Road Traffic Ordinance (Cap. 374) (Added 2 of 2024 s. 9) | Sections 79, 84(1)(d) and 85(1)(c)
+
+25. | Film Censorship Ordinance (Cap. 392) (Added 2 of 2024 s. 9) | Sections 8A(3), 9(4), 14A(2), 15B(9), 15I(1), 15K(12), 17(2)(c) and (4), 18(2), (3)(c) and (5) and 19(3), (4)(c) and (6)
+
+26. | Film Censorship Regulations (Cap. 392 sub. leg. A) (Added 2 of 2024 s. 9) | Regulation 8(a)
+
+27. | Land Drainage Ordinance (Cap. 446) (Added 2 of 2024 s. 9) | Section 45(1)
+
 (Schedule 3 added 14 of 2004 s. 28)
