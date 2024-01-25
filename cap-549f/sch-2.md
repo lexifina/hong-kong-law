@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 31]
 
-OFFENCES AND PENALTIES
+Offences and Penalties
 
 Column 1 Section | Column 2 Fine | Column 3 Imprisonment
 

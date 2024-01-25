@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 40]
 
-CERTIFICATE FOR MANUFACTURER
+Certificate for Manufacturer
 
 CHINESE MEDICINE ORDINANCE
 

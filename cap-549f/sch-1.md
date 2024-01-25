@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3 & 5]
 
-MINIMUM REQUIREMENTS REGARDING KNOWLEDGE AND EXPERIENCE OF RESPONSIBLE PERSONS
+Minimum Requirements regarding Knowledge and Experience of Responsible Persons
 
 - 1. A responsible person nominated under section 114(2)(b) of the Ordinance shall—
 

@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 39]
 
-MANUFACTURER LICENCE
+Manufacturer Licence
 
 CHINESE MEDICINE ORDINANCE
 

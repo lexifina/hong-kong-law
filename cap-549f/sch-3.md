@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 38]
 
-CERTIFICATE OF SALE OF PROPRIETARY CHINESE MEDICINE
+Certificate of Sale of Proprietary Chinese Medicine
 
 CHINESE MEDICINE ORDINANCE
 
