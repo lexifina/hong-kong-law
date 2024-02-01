@@ -15,6 +15,9 @@ s-013.md
 s-014.md
 s-015.md
 s-016.md
+s-016A.md
+s-016B.md
+s-016C.md
 s-017.md
 s-018.md
 s-018A.md
