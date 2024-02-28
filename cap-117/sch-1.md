@@ -16,7 +16,31 @@ See LEASE and section 16 (Amended 14 of 2014 s. 28)
 
 SCALE 1— (Amended 2 of 2018 s. 11)
 
-Part 1 (Added 2 of 2018 s. 11) | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
+Part 1
+
+(a) | where the amount or value of the consideration does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (A) | (a) | $100
+
+(b) | where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,528,240 and the instrument is certified in accordance with section 29 at $3,528,240 | (b) | $100 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000
+
+(c) | where the amount or value of the consideration exceeds $3,528,240 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29 at $4,500,000 | (c) | 1.5% of the amount or value of the consideration
+
+(d) | where the amount or value of the consideration exceeds $4,500,000 but does not exceed $4,935,480 and the instrument is certified in accordance with section 29 at $4,935,480 | (d) | $67,500 plus 10% of the amount by which the amount or value of the consideration exceeds $4,500,000
+
+(e) | where the amount or value of the consideration exceeds $4,935,480 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29 at $6,000,000 | (e) | 2.25% of the amount or value of the consideration
+
+(f) | where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,642,860 and the instrument is certified in accordance with section 29 at $6,642,860 | (f) | $135,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000
+
+(g) | where the amount or value of the consideration exceeds $6,642,860 but does not exceed $9,000,000 and the instrument is certified in accordance with section 29 at $9,000,000 | (g) | 3% of the amount or value of the consideration
+
+(h) | where the amount or value of the consideration exceeds $9,000,000 but does not exceed $10,080,000 and the instrument is certified in accordance with section 29 at $10,080,000 | (h) | $270,000 plus 10% of the amount by which the amount or value of the consideration exceeds $9,000,000
+
+(i) | where the amount or value of the consideration exceeds $10,080,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29 at $20,000,000 | (i) | 3.75% of the amount or value of the consideration
+
+(j) | where the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,120 and the instrument is certified in accordance with section 29 at $21,739,120 | (j) | $750,000 plus 10% of the amount by which the amount or value of the consideration exceeds $20,000,000
+
+(k) | in any other case | (k) | 4.25% of the amount or value of the consideration
+
+(Replaced L.N. 26 of 2024 and 8 of 2024 s. 6)
 
 (B) | 30 days after the execution; but see Note 2 to this sub-head
 
@@ -124,7 +148,7 @@ Part 2—for residential property acquired on or after 27 October 2012 and dispo
 
 (C) | The same parties as those who are liable in respect of a conveyance on sale specified under sub-head (1)
 
-Part 3—for residential property disposed of on or after 25 October 2023
+Part 3—for residential property disposed of on or after 25 October 2023 but before 28 February 2024 (Amended L.N. 26 of 2024 and 8 of 2024 s. 6)
 
 (a) | if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) | (a) | 20% of the amount or value of the consideration
 
@@ -133,6 +157,12 @@ Part 3—for residential property disposed of on or after 25 October 2023
 (c) | if the residential property is disposed of within a period of 24 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) | 10% of the amount or value of the consideration
 
 (Added L.N. 148 of 2023 and 3 of 2024 s. 14)
+
+(B) | The same time as that which applies to a conveyance on sale specified under sub-head (1)
+
+(C) | The same parties as those who are liable in respect of a conveyance on sale specified under sub-head (1)
+
+Part 4—for residential property disposed of on or after 28 February 2024 (Added L.N. 26 of 2024 and 8 of 2024 s. 6) | (A) | 0% of the amount or value of the consideration
 
 (B) | The same time as that which applies to a conveyance on sale specified under sub-head (1)
 
@@ -152,7 +182,7 @@ Note 2
 
 (Added 14 of 2011 s. 15)
 
-(1AAB) | CONVEYANCE ON SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
+(1AAB) | CONVEYANCE ON SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 0% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14; L.N. 26 of 2024 and 8 of 2024 s. 6 )
 
 (B) | The same time as that which applies to a conveyance on sale specified under sub-head (1)
 
@@ -166,7 +196,31 @@ This sub-head is subject to sections 29D, 29DB and 29DC (Added 2 of 2014 s. 20)
 
 SCALE 1— (Amended 2 of 2018 s. 11)
 
-Part 1 (Added 2 of 2018 s. 11) | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
+Part 1
+
+(a) | where the amount or value of the consideration does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (A) | (a) | $100
+
+(b) | where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,528,240 and the instrument is certified in accordance with section 29G at $3,528,240 | (b) | $100 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000
+
+(c) | where the amount or value of the consideration exceeds $3,528,240 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29G at $4,500,000 | (c) | 1.5% of the amount or value of the consideration
+
+(d) | where the amount or value of the consideration exceeds $4,500,000 but does not exceed $4,935,480 and the instrument is certified in accordance with section 29G at $4,935,480 | (d) | $67,500 plus 10% of the amount by which the amount or value of the consideration exceeds $4,500,000
+
+(e) | where the amount or value of the consideration exceeds $4,935,480 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29G at $6,000,000 | (e) | 2.25% of the amount or value of the consideration
+
+(f) | where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,642,860 and the instrument is certified in accordance with section 29G at $6,642,860 | (f) | $135,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000
+
+(g) | where the amount or value of the consideration exceeds $6,642,860 but does not exceed $9,000,000 and the instrument is certified in accordance with section 29G at $9,000,000 | (g) | 3% of the amount or value of the consideration
+
+(h) | where the amount or value of the consideration exceeds $9,000,000 but does not exceed $10,080,000 and the instrument is certified in accordance with section 29G at $10,080,000 | (h) | $270,000 plus 10% of the amount by which the amount or value of the consideration exceeds $9,000,000
+
+(i) | where the amount or value of the consideration exceeds $10,080,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29G at $20,000,000 | (i) | 3.75% of the amount or value of the consideration
+
+(j) | where the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,120 and the instrument is certified in accordance with section 29G at $21,739,120 | (j) | $750,000 plus 10% of the amount by which the amount or value of the consideration exceeds $20,000,000
+
+(k) | in any other case | (k) | 4.25% of the amount or value of the consideration
+
+(Replaced L.N. 26 of 2024 and 8 of 2024 s. 6)
 
 (B) | 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head
 
@@ -284,7 +338,7 @@ Part 2—for residential property acquired on or after 27 October 2012 and dispo
 
 (C) | The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
 
-Part 3—for residential property disposed of on or after 25 October 2023
+Part 3—for residential property disposed of on or after 25 October 2023 but before 28 February 2024 (Amended L.N. 26 of 2024 and 8 of 2024 s. 6)
 
 (a) | if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) | (a) | 20% of the amount or value of the consideration
 
@@ -293,6 +347,12 @@ Part 3—for residential property disposed of on or after 25 October 2023
 (c) | if the residential property is disposed of within a period of 24 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) | 10% of the amount or value of the consideration
 
 (Added L.N. 148 of 2023 and 3 of 2024 s. 14)
+
+(B) | The same time as that which applies to an agreement for sale specified under sub-head (1A)
+
+(C) | The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
+
+Part 4—for residential property disposed of on or after 28 February 2024 (Added L.N. 26 of 2024 and 8 of 2024 s. 6) | (A) | 0% of the amount or value of the consideration
 
 (B) | The same time as that which applies to an agreement for sale specified under sub-head (1A)
 
@@ -316,7 +376,7 @@ Note 4 Notes 2, 3 and 4 to head 1(1A) apply to special stamp duty chargeable on 
 
 (Added 14 of 2011 s. 15)
 
-(1C) | AGREEMENT FOR SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 7.5% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14)
+(1C) | AGREEMENT FOR SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) | 0% of the amount or value of the consideration (Amended L.N. 148 of 2023 and 3 of 2024 s. 14; L.N. 26 of 2024 and 8 of 2024 s. 6)
 
 (B) | The same time as that which applies to an agreement for sale specified under sub-head (1A)
 
@@ -390,7 +450,9 @@ Where the consideration or any part of the consideration consists of any securit
 
 And see sections 2, 4, 19 and 20
 
-(3) | TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) (B) | $5 and 0.2% of the value of the stock; but see Note 4 to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 4 of 2015 s. 5; 16 of 2021 s. 3; 29 of 2023 s. 3) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head
+(3) | TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) | $5 and 0.2% of the value of the stock; but see Note 4 to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 4 of 2015 s. 5; 16 of 2021 s. 3; 29 of 2023 s. 3)
+
+(B) | 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head
 
 (C) | The transferor and the transferee; but see Note 1 to this sub-head
 
