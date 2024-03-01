@@ -1,6 +1,8 @@
 # Schedule 1
 
-[ss. 6, 21, 22 & 52]
+[ss. 2A, 6, 21, 22 & 52]
+
+(Amended 11 of 2023 s. 6)
 
 Classes of Vehicle
 
