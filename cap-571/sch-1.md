@@ -1388,6 +1388,8 @@ Interpretation and General Provisions
 
   - 8. The Asian Infrastructure Investment Bank (Added L.N. 59 of 2016)
 
+  - 9. The New Development Bank (Added L.N. 155 of 2023)
+
 - Part 5 Qualifying Credit Rating
 
   - 1. A Moody’s Investors Service rating of—
