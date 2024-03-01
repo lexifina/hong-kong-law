@@ -1,6 +1,6 @@
 # Schedule 17J
 
-[s. 40AM]
+[s. 40AM & Schs. 57 & 58] (Amended 5 of 2024 s. 23)
 
 Qualifying Amalgamations—Special Tax Treatment
 
@@ -153,6 +153,24 @@ Qualifying Amalgamations—Special Tax Treatment
     - (a) if the shares of the second company are held by the first company on revenue account; and
 
     - (b) to the extent that they are incurred in the production of profits for which the amalgamated company is chargeable to tax under Part 4.
+
+- 9A. Succession of aircraft
+
+  - (1) This section applies to—
+
+    - (a) a company that is an amalgamated company in a qualifying amalgamation (Company A); and
+
+    - (b) a company that is an amalgamating company in the qualifying amalgamation (Company B).
+
+  - (2) Sections 14I, 14IA, 14IB, 14IC, 14ID, 14IE, 14IF, 14IG, 14IH, 14II, 14IJ and 14IK do not apply to Company B in relation to any aircraft succeeded by Company A in the qualifying amalgamation (specified aircraft).
+
+  - (3) Sections 14I, 14IA, 14IB, 14IC, 14ID, 14IE, 14IF, 14IG, 14IH, 14II, 14IJ and 14IK with the modifications set out in Part 2 of Schedule 57, have effect in relation to Company A and a specified aircraft.
+
+  - (4) In this section—
+
+    - aircraft (飛機) has the meaning given by section 14G.
+
+- (Added 5 of 2024 s. 23)
 
 - 10. Succession of machinery or plant, or rights or entitlement to rights, related to R&D activities
 
