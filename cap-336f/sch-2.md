@@ -46,7 +46,7 @@ Fixed Costs on Decree | Amount $ | Costs allowed by Registrar [1st Schedule Para
 
 Court Fees | Disbursements | Total $
 
-Special Procedure | 8,800
+Special Procedure | 9,500
 
 Adultery | 12,600
 
@@ -62,19 +62,25 @@ Fixed Costs on Separate Attendance | Amount $ | Costs allowed by Registrar [1st 
 
 Court Fees | Disbursements | Total $
 
-Custody/Access/ Custody & Access
+Children’s Appointment, or Hearing in respect of Matters of either Custody or Access only or Custody and Access only
 
-Ancillary Relief
+First Appointment, or Hearing in respect of Matters of Ancillary Relief only
 
-Custody, Access & Ancillary Relief/ Ancillary Relief, Custody or Access
+Children’s Appointment and First Appointment, or Hearing in respect of Matters of Custody, Access and Ancillary Relief
+
+Financial Dispute Resolution Hearing or Children’s Dispute Resolution Hearing
 
 Part III
 
-Common Fund Costs | 700
+Fixed Costs on Separate Attendance | Amount $ | Costs allowed by Registrar [1st Schedule Para. 5]
+
+Court Fees | Disbursements | Total $
+
+Common Fund Costs | 1,000
 
 Part IV
 
-Substituted Service | 3,700
+Substituted Service or Dispensing with Service | 5,000
 
 Total of Fixed Costs | Total of Disburse- ments
 
@@ -90,7 +96,7 @@ Solicitors for the *petitioner/ respondent/applicant.
 
 * Delete whichever is inapplicable.
 
-(L.N. 52 of 2000)
+(L.N. 52 of 2000; L.N. 1 of 2024)
 
 _
 
@@ -136,7 +142,7 @@ Item | Amount
 
 3. | Fixed common fund costs under Part III of the Table*
 
-4. | Fixed costs on the substituted service of a petition and any other documents under Part IV of the Table*
+4. | Fixed costs on the substituted service, or the dispensing with service, of a petition or any other documents under Part IV of the Table*
 
 Amounts allowed under paragraph 5 of the First Schedule.
 
@@ -150,4 +156,4 @@ Registrar.
 
 * Table of Fixed Costs in the First Schedule
 
-(L.N. 52 of 2000; E.R. 3 of 2021)
+(L.N. 52 of 2000; E.R. 3 of 2021; L.N. 1 of 2024)
