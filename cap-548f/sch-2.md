@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 9 & 33C] (L.N. 186 of 2016)
 
-SPEED OF LOCAL VESSELS
+Speed of Local Vessels
 
 - 1. In this Schedule, the geographical co-ordinates of a position are based on the World Geodetic System 1984 (WGS 84). (L.N. 179 of 2017)
 

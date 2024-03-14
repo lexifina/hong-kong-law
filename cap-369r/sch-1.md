@@ -2,11 +2,11 @@
 
 [reg. 61]
 
-TABLE 1—FIRE INTEGRITY AND INSULATION STANDARDS OF BULKHEADS SEPARATING CONTROL STATIONS FROM OTHER SPACES
+Table 1—Fire Integrity and Insulation Standards of Bulkheads Separating Control Stations from Other Spaces
 
-SPACE SPACE | (1) | (2) | (3) | (4) | (5) | (6) | (7)
+Space Space | (1) | (2) | (3) | (4) | (5) | (6) | (7)
 
-CONTROL STATION | A01 | A0 | A15 | A0 | A15 | A60 | A15
+Control station | A01 | A0 | A15 | A0 | A15 | A60 | A15
 
 Where | (1) | is control stations
 
@@ -22,22 +22,20 @@ Where | (1) | is control stations
 
 (7) | is machinery spaces other than machinery spaces of Category A
 
-Superscription 1—bulkheads separating the wheelhouse, chartroom and radio room from each other may be alternatively ‘B’ Class bulkheads of B0 standard. TABLE 2—FIRE INTEGRITY AND INSULATION STANDARDS OF
+Superscription 1—bulkheads separating the wheelhouse, chartroom and radio room from each other may be alternatively ‘B’ Class bulkheads of B0 standard. Table 2—Fire Integrity and Insulation Standards of Decks Separating Control Stations from Other Spaces
 
-DECKS SEPARATING CONTROL STATIONS FROM OTHER SPACES
+Space above → ↓ Space below | (1) | (2) | (3) | (4) | (5) | (6) | (7)
 
-SPACE ABOVE → ↓ SPACE BELOW | (1) | (2) | (3) | (4) | (5) | (6) | (7)
+Control stations | (1) | A0 | A0 | A0 | A0 | A0 | A60 | A0
 
-CONTROL STATIONS | (1) | A0 | A0 | A0 | A0 | A0 | A60 | A0
+Corridors | (2) | A0
 
-CORRIDORS | (2) | A0
+Accommodation spaces | (3) | A15
 
-ACCOMMODATION SPACES | (3) | A15
+Stairways | (4) | A0
 
-STAIRWAYS | (4) | A0
+Service spaces | (5) | A15
 
-SERVICE SPACES | (5) | A15
+Machinery spaces of Category A | (6) | A60
 
-MACHINERY SPACES OF CATEGORY A | (6) | A60
-
-MACHINERY SPACES OTHER THAN MACHINERY SPACES OF CATEGORY A | (7) | A15
+Machinery spaces other than machinery spaces of Category A | (7) | A15

@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 5]
 
-REQUIREMENTS OF ELECTRICAL EQUIPMENT AND INSTALLATIONS
+Requirements of Electrical Equipment and Installations
 
 - (1) Electrical equipment and installations referred to in regulations 5 and 10 shall comply with the following requirements, except to the extent that those requirements are inconsistent with the said regulations.
 

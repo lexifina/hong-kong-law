@@ -88,13 +88,13 @@ Prescribed Fees
 
   - (b) any other place | 15 per permit | 15 | 15
 
-  - 3A. During the period from 31 March to 30 September 2022 (both dates inclusive), the table in section 3 of this Schedule has effect as if the fees specified in items 1, 2, 3, 4, 5, 6, 7 and 8 of the table were zero. (L.N. 28 of 2022)
+  - 3A. (Omitted as expired—E.R. 2 of 2024)
 
-  - 3B. Section 3A of this Schedule and this section expire at midnight on 30 September 2022. (L.N. 28 of 2022)
+  - 3B. (Omitted as expired—E.R. 2 of 2024)
 
-  - 3C. During the period from 1 October 2022 to 30 September 2023 (both dates inclusive), the table in section 3 of this Schedule has effect as if the fees specified in items 1, 2, 3, 4, 5, 6, 7 and 8 of the table were zero. (L.N. 84 of 2022)
+  - 3C. (Omitted as expired—E.R. 2 of 2024)
 
-  - 3D. Section 3C of this Schedule and this section expire at midnight on 30 September 2023. (L.N. 84 of 2022)
+  - 3D. (Omitted as expired—E.R. 2 of 2024)
 
 - Part 2 Prescribed Fees for Licences for S2DG
 

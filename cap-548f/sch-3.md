@@ -1,16 +1,16 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 60]
 
-INFORMATION REQUIRED FOR APPLICATION FOR PERMISSION TO ENTER WATERS OF HONG KONG UNDER SECTION 60 OF THIS REGULATION
+Information Required for Application for Permission to Enter Waters of Hong Kong under Section 60 of this Regulation
 
 - 1. In this Schedule—
 
-  - “certificate of ownership number” (擁有權證明書號碼) has the same meaning as in the Merchant Shipping (Local Vessels) (Certification and Licensing) Regulation (Cap. 548 sub. leg. D);
+  - certificate of ownership number (擁有權證明書號碼) has the same meaning as in the Merchant Shipping (Local Vessels) (Certification and Licensing) Regulation (Cap. 548 sub. leg. D);
 
-  - “MD reference number” (海事處參考編號), in relation to a vessel which arrives in the waters of Hong Kong for the first time, means a reference number assigned by the Director to facilitate the reporting of the vessel’s arrival in or departure from those waters;
+  - MD reference number (海事處參考編號), in relation to a vessel which arrives in the waters of Hong Kong for the first time, means a reference number assigned by the Director to facilitate the reporting of the vessel’s arrival in or departure from those waters;
 
-  - “pilot boarding station” (領港員登船區) has the same meaning as in the Pilotage Ordinance (Cap. 84).
+  - pilot boarding station (領港員登船區) has the same meaning as in the Pilotage Ordinance (Cap. 84).
 
 - 2. The information required under section 60(1) or (3) of this Regulation is—
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 4]
 
-DOCUMENTS WHICH MAY BE REQUIRED FOR APPLICATION FOR ARRIVAL CLEARANCE
+Documents which may be Required for Application for Arrival Clearance
 
 - 1. List of crew containing the personal particulars of all crew members of vessel.
 

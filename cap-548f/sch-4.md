@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 91]
 
-DESIGNATED BUNKERING AREAS
+Designated Bunkering Areas
 
 - 1. In this Schedule, a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84).
 
