@@ -102,6 +102,8 @@ Pesticides Listed under Rotterdam Convention and Limitations on Application of S
 
 - 37. | Phorate (Added L.N. 148 of 2019) | 298-02-2
 
+- 38. | Terbufos (Added L.N. 4 of 2024) | 13071-79-9
+
 - Part 2 Extent to which Section 8 does not Apply to Pesticides Specified in Part 1 of this Schedule
 
   - 1. Limitations on application of section 8 to pesticides specified in Part 1 of this Schedule Section 8 does not apply to a pesticide specified in Part 1 of this Schedule if the pesticide—
