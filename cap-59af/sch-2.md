@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 4(2)]
 
-ELIGIBILITY TO BE REGISTERED AS SCHEME OPERATOR
+Eligibility to be Registered as Scheme Operator
 
 - 1. The scheme provides such theoretical and practical training as is necessary to ensure that a person successfully completing the scheme will thereby acquire the competence and skills required for conducting safety audits efficiently and effectively.
 

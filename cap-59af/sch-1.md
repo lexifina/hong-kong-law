@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 4(1)]
 
-ELIGIBILITY TO BE REGISTERED AS SAFETY AUDITOR
+Eligibility to be Registered as Safety Auditor
 
 - 1. Subject to section 3, the person shall—
 
-  - (a) be a registered safety officer under the Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (Cap. 59 sub. leg. Z);
+  - (a) be a registered safety officer under the Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (Cap. 59 sub. leg. Z); (E.R. 2 of 2024)
 
   - (b) have not less than 3 years’ full-time experience, in the 5 years period immediately preceding the application concerned under section 5 of this Regulation, in a managerial post responsible for industrial safety and health matters in respect of an industrial undertaking;
 
@@ -16,7 +16,7 @@ ELIGIBILITY TO BE REGISTERED AS SAFETY AUDITOR
 
     - (i) a scheme conducted by a registered scheme operator; or
 
-    - (ii) before the commencement of this Schedule, a scheme recognized by the Commissioner for the purposes of this Schedule; and
+    - (ii) before the commencement* of this Schedule, a scheme recognized by the Commissioner for the purposes of this Schedule; and
 
   - (e) understand the requirements under legislation in Hong Kong relating to industrial safety and health matters.
 
@@ -27,3 +27,7 @@ ELIGIBILITY TO BE REGISTERED AS SAFETY AUDITOR
   - (a) have not less than 18 months’ full-time experience, in the 3 years immediately preceding that commencement, in a managerial post responsible for industrial safety and health matters in respect of an industrial undertaking; and
 
   - (b) have successfully completed a scheme recognized by the Commissioner for the purposes of this Schedule.
+
+Editorial Note:
+
+* Commencement date: 19 June 2000.

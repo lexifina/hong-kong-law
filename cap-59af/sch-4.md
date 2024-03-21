@@ -1,10 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 2(1) & (3), 8 & 9(2)]
 
-ELEMENTS OF SAFETY MANAGEMENT SYSTEM
-
-(Part 3 is not yet in operation.)
+Elements of Safety Management System
 
 - Part 1
 
@@ -31,6 +29,8 @@ ELEMENTS OF SAFETY MANAGEMENT SYSTEM
   - 2. Safety committees.
 
 - Part 3
+
+- (Not yet in operation)
 
   - 1. Evaluation of job related hazards or potential hazards and development of safety procedures.
 
