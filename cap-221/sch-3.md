@@ -24,4 +24,8 @@ Excepted Offences
 
 - 9. Any offence against section 33 of the Public Order Ordinance (Cap. 245). (Added L.N. 250 of 1972)
 
-- 10. Any offence under section 4 or 10 of the Weapons Ordinance (Cap. 217). (Added 69 of 1981 s. 19) (Added 5 of 1971 s. 12B)
+- 10. Any offence under section 4 or 10 of the Weapons Ordinance (Cap. 217). (Added 69 of 1981 s. 19)
+
+- 11. An offence endangering national security. (Added 6 of 2024 s. 148)
+
+(Added 5 of 1971 s. 12B)

@@ -752,6 +752,8 @@ Election Committee
 
           - (ii) received a free pardon;
 
+        - (ab) has been convicted of an offence endangering national security; (Added 6 of 2024 s. 187)
+
         - (b) on the date of submission of the registration form, is serving a sentence of imprisonment;
 
         - (c) without limiting paragraph (a), where the registration form is submitted within 5 years after the date of the person’s conviction, is or has been convicted—
@@ -979,6 +981,8 @@ Election Committee
           - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
 
           - (ii) received a free pardon;
+
+        - (ab) has been convicted of an offence endangering national security; (Added 6 of 2024 s. 187)
 
         - (b) on the date of nomination, is serving a sentence of imprisonment;
 
@@ -1347,6 +1351,8 @@ Election Committee
           - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
 
           - (ii) received a free pardon;
+
+        - (ca) has been convicted of an offence endangering national security; (Added 6 of 2024 s. 187)
 
         - (d) on the date of nomination or on the date of the subsector election, is serving a sentence of imprisonment;
 
