@@ -1,16 +1,16 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 1 & 26]
 
-APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
+Application of the Roads (Works, Use and Compensation) Ordinance
 
-- PART I PROVISIONS OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE APPLIED
+- Part I Provisions of the Roads (Works, Use and Compensation) Ordinance Applied
 
-- Sections 2 to 24, 36, 37, 37A, 38 and 43(1), (2), (3) and (5).
+- Sections 2 to 24, 36, 37, 37A, 38 and 43(1), (2), (3) and (5)
 
-- (25 of 2023 s. 116)
+- (25 of 2023 s. 116; E.R. 2 of 2024)
 
-- PART II General Modifications and Additions
+- Part II General Modifications and Additions
 
   - 1.
 
@@ -20,7 +20,7 @@ APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
 
     - (3) In section 20(3), repeal “Secretary’s” and substitute “Authority’s”.
 
-  - 2. In sections 14(2)(f), 16(2)(f), 18(2)(e) and 21(3)(d), repeal everything after “under” and substitute— “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL) may serve a written claim upon the Secretary.”.
+  - 2. In sections 14(2)(f), 16(2)(f), 18(2)(e) and 21(3)(d), repeal everything after “under” and substitute— “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL) may serve a written claim upon the Secretary.”. (E.R. 2 of 2024)
 
   - 3. A reference in any section (except section 4) specified in Part I—
 
@@ -32,11 +32,11 @@ APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
 
 - Section applied | Modification or addition
 
-- 2 | (a) In subsection (1)— (i) add— “ “Authority” (監督) has the same meaning as in the Water Pollution Control Ordinance (Cap. 358);”; (ii) in the definition of “claim”, repeal “section 29” and substitute “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL)”; (iii) (Repealed L.N. 106 of 2002) (iv) in the definition of “use”, repeal “road” where it twice occurs and substitute “sewerage”;
+- 2 | (a) In subsection (1)— (i) add— “Authority (監督) has the same meaning as in the Water Pollution Control Ordinance (Cap. 358);”; (ii) in the definition of claim, repeal “section 29” and substitute “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL)”; (E.R. 2 of 2024) (iii) (Repealed L.N. 106 of 2002) (iv) in the definition of use, repeal “road” where it twice occurs and substitute “sewerage”;
 
-- (v) repeal the definition of “works” and substitute— “ “works” (工程) means any thing which may be done by the Authority or may be required by the Authority to be done under or pursuant to Part II, III or IV of the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL);”. (b) Repeal subsections (2) to (4).
+- (v) repeal the definition of works and substitute— “works (工程) means any thing which may be done by the Authority or may be required by the Authority to be done under or pursuant to Part II, III or IV of the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL);”. (E.R. 2 of 2024) (b) Repeal subsections (2) to (4).
 
-- 4 | (a) Repeal subsection (1)(a). (b) In subsection (3), repeal “this Ordinance” and substitute “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL)”. (L.N. 281 of 1998)
+- 4 | (a) Repeal subsection (1)(a). (b) In subsection (3), repeal “this Ordinance” and substitute “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL)”. (L.N. 281 of 1998; E.R. 2 of 2024)
 
 - 5 | (a) (Repealed L.N. 281 of 1998) (b) In paragraph (b)(i), repeal “and the use to which he intends the road will be put”.
 
@@ -46,7 +46,7 @@ APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
 
 - “(5) No person shall, in the exercise of any power of entry referred to in subsection (3), enter upon any land which is occupied without giving to the occupier at least 28 days’ notice of his intention to do so unless— (a) the Authority is of the opinion that an emergency exists which necessitates immediate entry; or (b) the entry is required for the purpose of inspecting any works, structure or apparatus or carrying out any routine maintenance on them.”.
 
-- 24 | Repeal “$5,000” and substitute “$10,000”.
+- 24 | Repeal “level 2” and substitute “level 3”. (E.R. 2 of 2024)
 
 - 36 | (a) (Repealed L.N. 281 of 1998) (b) Repeal paragraph (c)(i).
 

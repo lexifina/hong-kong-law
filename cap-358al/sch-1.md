@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 11, 12, 13, 14, 22 & 30]
 
 (25 of 2023 s. 115)
 
-COMPENSATION RIGHTS AND ASSESSMENT
+Compensation Rights and Assessment
 
-- PART I
+- Part I
 
 - Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
 
@@ -60,7 +60,7 @@ COMPENSATION RIGHTS AND ASSESSMENT
 
 - 10. | Physical or structural damage or disturbance resulting from the restoration of waters undertaken by the Authority under section 13A of the Ordinance, but in the case of a person convicted of an offence referred to in subsection (1) of that section, limited to damage attributable to the negligence of the Authority. | Same as in item 1(a) and (b). | Same as in item 1(a) and (b). | Same as in item 1(a) and (b).
 
-- PART II
+- Part II
 
   - 1. General effect of this Part The provisions in this Part shall, where applicable, have effect for the purpose of assessing compensation under Part I and shall—
 
@@ -70,11 +70,11 @@ COMPENSATION RIGHTS AND ASSESSMENT
 
   - 2. Definitions applicable to Part I In this Schedule—
 
-    - “date of resumption” (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 13(3) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370); (29 of 1998 s. 105)
+    - date of resumption (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 13(3) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370); (29 of 1998 s. 105)
 
-    - “disturbance” (騷擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
+    - disturbance (騷擾) means the dispossession of a person of land or the interruption of or interference with a trade or business, whether such dispossession, interruption or interference is temporary or permanent;
 
-    - “disturbance payment” (騷擾補償金) means a sum equal to—
+    - disturbance payment (騷擾補償金) means a sum equal to—
 
       - (a) the expenditure and loss of money actually and reasonably incurred or to be reasonably incurred and arising from the dispossession of a person of land by reason of the matter for which the claimant is entitled to claim compensation under Part I; and
 
@@ -82,17 +82,17 @@ COMPENSATION RIGHTS AND ASSESSMENT
 
   - except that a disturbance payment shall not include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if that disturbance were a tort;
 
-    - “open market value” (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize;
+    - open market value (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize;
 
-    - “owner” (擁有人), in relation to land, means the person holding that land—
+    - owner (擁有人), in relation to land, means the person holding that land—
 
       - (a) directly under a Government lease; or
 
       - (b) under another title directly from the Government registered in the Land Registry; (29 of 1998 s. 105)
 
-    - “sea-bed” (海床) includes any Government land covered with water in any tidal river or channel connected with the waters of Hong Kong; (29 of 1998 s. 105)
+    - sea-bed (海床) includes any Government land covered with water in any tidal river or channel connected with the waters of Hong Kong; (29 of 1998 s. 105)
 
-    - “works” (工程) means anything which may be done by the Authority or may be required by the Authority to be done under or pursuant to Part II, III or IV of this Regulation.
+    - works (工程) means anything which may be done by the Authority or may be required by the Authority to be done under or pursuant to Part II, III or IV of this Regulation.
 
   - 3. Fluctuations in value of land Subject to sections 8 and 10, where the open market value of any land is relevant for the purposes of assessing compensation under this Regulation, no account shall be taken of any increase or decrease in that value which is attributable to anything done or proposed to be done under this Regulation or to the use of any sewerage, whether before or after the completion of any works (including the existence of any sewerage whether or not in relation to any use to which it is put).
 
@@ -104,17 +104,11 @@ COMPENSATION RIGHTS AND ASSESSMENT
 
   - 5. Unlawful building or development works Compensation may be reduced so far as may be just and equitable in respect of any building or development, or part thereof which has been constructed or modified, or on which building works have been carried out, so as to amount to a contravention of the Buildings Ordinance (Cap. 123) or the Town Planning Ordinance (Cap. 131) being a contravention within the meaning of that Ordinance or to a contravention of a Government lease or other instrument under which land built upon is held. (29 of 1998 s. 105)
 
-  - 6. Compensation where damage results
+  - 6. Compensation where damage results only partly from the works The compensation assessed under item 1, 7 or 10 of Part I shall be reduced to such extent as may be just and equitable having regard to the share in the responsibility for the loss or damage not reasonably attributable to or connected with the works.
 
-  - only partly from the works The compensation assessed under item 1, 7 or 10 of Part I shall be reduced to such extent as may be just and equitable having regard to the share in the responsibility for the loss or damage not reasonably attributable to or connected with the works.
+  - 7. No compensation under item 8 for loss of advertising Where a sign advertising any business, product, service or activity is removed under section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), nothing in item 8 of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
 
-  - 7. No compensation under item 8 for
-
-  - loss of advertising Where a sign advertising any business, product, service or activity is removed under section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), nothing in item 8 of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
-
-  - 8. Set off where compensation paid for loss
-
-  - of value and land later resumed Where compensation under item 3, 4, 5, 6, 8 or 9 of Part I has been paid in respect of the diminution in value of any land and such land or part of such land is subsequently resumed by the Government under this Regulation or any other enabling power, then notwithstanding section 3 or any other provision of law to the same or similar effect, that diminution in value shall be taken into account to reduce the compensation for the resumption of that land in so far as it was taken into account in the assessment of compensation for the diminution in value thereof. (29 of 1998 s. 105)
+  - 8. Set off where compensation paid for loss of value and land later resumed Where compensation under item 3, 4, 5, 6, 8 or 9 of Part I has been paid in respect of the diminution in value of any land and such land or part of such land is subsequently resumed by the Government under this Regulation or any other enabling power, then notwithstanding section 3 or any other provision of law to the same or similar effect, that diminution in value shall be taken into account to reduce the compensation for the resumption of that land in so far as it was taken into account in the assessment of compensation for the diminution in value thereof. (29 of 1998 s. 105)
 
   - 9. Claim by a mortgagee in possession Where under this Regulation a claim for compensation may be made by a mortgagee in possession—
 
@@ -122,9 +116,7 @@ COMPENSATION RIGHTS AND ASSESSMENT
 
     - (b) compensation received by a mortgagee in possession shall be applied by him firstly, to the settlement or reduction of the debt due under the mortgage and then to the payment of any excess to the mortgagor.
 
-  - 10. Limitation on compensation payable
-
-  - under item 9 Compensation shall be payable under item 9 of Part I only to the extent that the carrying out of building works in accordance with an amendment required, or condition imposed, under section 22(1)(c) or (d) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370) does not increase the open market value of the land on which the building works are carried out.
+  - 10. Limitation on compensation payable under item 9 Compensation shall be payable under item 9 of Part I only to the extent that the carrying out of building works in accordance with an amendment required, or condition imposed, under section 22(1)(c) or (d) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370) does not increase the open market value of the land on which the building works are carried out.
 
   - 11. Apportionment of compensation Where there is a dispute between persons owning compensatable interests in any land or building as to the apportionment of the compensation payable or paid, the Lands Tribunal shall, on the application of any such person, apportion that compensation amongst such persons in such manner as may be just and equitable having regard to their respective rights and interests in the land or building.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 3]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Register of Occupational Therapists PART I
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Occupational Therapists (Registration and Disciplinary Procedure) Regulations Register of Occupational Therapists PART I
 
 REGISTRATION NO. | :
 

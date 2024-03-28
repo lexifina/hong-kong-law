@@ -1,12 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 7, 9, 14, 23 & 42]
 
-FORM 1
+Form 1
 
 [reg. 7(1)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Application for Registration/Provisional Registration as an Occupational Therapist
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Occupational Therapists (Registration and Disciplinary Procedure) Regulations Application for Registration/Provisional Registration as an Occupational Therapist
 
 I
 
@@ -50,9 +50,9 @@ Photograph of Applicant
 
 (47 of 1997 s. 10)
 
-_
+__________
 
-FORM 2A
+Form 2A
 
 [reg. 9(1)]
 
@@ -74,15 +74,15 @@ Secretary, Occupational Therapists Board.
 
 (L.N. 87 of 2004)
 
-_
+__________
 
-FORM 2B
+Form 2B
 
 [reg. 9(2)]
 
 OCCUPATIONAL THERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Provisional Registration
 
-Number on Register: .........................
+Number on Register .........................
 
 This is to certify that
 
@@ -102,13 +102,13 @@ Occupational Therapists Board.
 
 (L.N. 87 of 2004)
 
-_
+__________
 
-FORM 3
+Form 3
 
 [reg. 14]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Particulars of a Company carrying on the Business of Practising Occupational Therapy
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Occupational Therapists (Registration and Disciplinary Procedure) Regulations Particulars of a Company carrying on the Business of Practising Occupational Therapy
 
 Presented by
 
@@ -136,13 +136,13 @@ Dated this ......... day of ............ 19 .......
 
 (State whether director or manager or secretary)
 
-_
+__________
 
-FORM 4
+Form 4
 
 [reg. 23(1)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Notice of Inquiry
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Occupational Therapists (Registration and Disciplinary Procedure) Regulations Notice of Inquiry
 
 [Date]
 
@@ -172,9 +172,9 @@ or (If the allegation is that the registered occupational therapist has not comp
 
 or
 
-(If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance)
+(If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on
 
-That on the .......... day of ....................... 19 ......... you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas .............................
+the .......... day of ....................... 19 ......... you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas .............................
 
 (set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the register.
 
@@ -192,13 +192,13 @@ A copy of the Occupational Therapists (Registration and Disciplinary Procedure) 
 
 Secretary, Occupational Therapists Board.
 
-_
+__________
 
-FORM 5
+Form 5
 
 [reg. 42(2)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Summons to Witness
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Occupational Therapists (Registration and Disciplinary Procedure) Regulations Summons to Witness
 
 In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
 
@@ -208,7 +208,7 @@ To (2)
 
 You are hereby summoned to appear before the Occupational Therapists Board at .....................................................................................
 
-on the ................................................................... day of ............ 19 ..........., at ......................... o’clock in the ......... noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4)
+on the ....................... day of ............ 19 ..........., at ..................................................... o’clock in the ......... noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4)
 
 Given under my hand this ............ day of ...................... 19 .......
 

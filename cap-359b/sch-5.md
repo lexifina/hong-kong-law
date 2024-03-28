@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [reg. 17]
 
-PRELIMINARY INVESTIGATION COMMITTEE
+Preliminary Investigation Committee
 
 - 1. Member ceasing to be member on becoming member of Board A member of the Committee who during the period of his office becomes a member of the Board shall cease to be a member of the Committee.
 
@@ -14,7 +14,9 @@ PRELIMINARY INVESTIGATION COMMITTEE
 
   - (a) the appointment of any person to be the Chairman or a member of the Committee lapses by virtue of regulation 17 or terminates by operation of paragraph 1 of this Schedule; or
 
-  - (b) the appointment of any person under paragraph 2 or 3 of this Schedule lapses, then if such person is not thereupon elected or re-elected or appointed or reappointed, as the case may be, to be the Chairman or a member of the Committee, the chairmanship or membership of such person shall continue by virtue of this paragraph for the purposes of the consideration of such complaint or information by the Committee, but for no other purpose, until the Committee has discharged its functions in respect of such complaint or information.
+  - (b) the appointment of any person under paragraph 2 or 3 of this Schedule lapses,
+
+- then if such person is not thereupon elected or re-elected or appointed or reappointed, as the case may be, to be the Chairman or a member of the Committee, the chairmanship or membership of such person shall continue by virtue of this paragraph for the purposes of the consideration of such complaint or information by the Committee, but for no other purpose, until the Committee has discharged its functions in respect of such complaint or information.
 
 - 5. Resignation by Chairman and member of Committee
 
