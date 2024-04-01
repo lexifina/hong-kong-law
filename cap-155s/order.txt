@@ -47,6 +47,7 @@ s-045.md
 s-046.md
 s-047.md
 s-048.md
+s-048A.md
 s-049.md
 s-050.md
 s-051.md
@@ -92,6 +93,7 @@ s-090.md
 s-091.md
 s-092.md
 s-093.md
+s-093A.md
 s-094.md
 s-095.md
 s-096.md
