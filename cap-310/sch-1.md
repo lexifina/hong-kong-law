@@ -66,11 +66,17 @@ Item | Sum
 
 (k) on or after 1 April 1994 and before 1 April 1999 (Amended L.N. 90 of 1999 and 44 of 1999 s. 28) | $ | 2,000
 
-*(l) on or after 1 April 1999—
+*(l) on or after 1 April 1999 and before 1 April 2024— (Amended L.N. 29 of 2024 and L.N. 38 of 2024)
 
 (i) where no election is made under section 6(5C) | $ | 2,000
 
 (ii) where an election is made under section 6(5C) (Added L.N. 90 of 1999 and 44 of 1999 s. 28) | $ | 5,200
+
+(m) on or after 1 April 2024—
+
+(i) where no election is made under section 6(5C) | $ | 2,200
+
+(ii) where an election is made under section 6(5C) (Added L.N. 29 of 2024 and L.N. 38 of 2024) | $ | 5,720
 
 2. | Average of total sales to exempt a business other than a new business, or a business whose profits derive primarily from the sale of services | $ | 30,000
 
@@ -84,4 +90,4 @@ per month
 
 Editorial Note:
 
-* Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed business registration fee in respect of business registration certificates).
+* Please see Endnotes for this Ordinance in Hong Kong e-Legislation (https://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed business registration fee in respect of business registration certificates).
