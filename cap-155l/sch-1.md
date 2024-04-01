@@ -36,6 +36,10 @@ Specifications for Purposes of Certain Definitions in these Rules
 
   - 14. Hong Kong Export Credit Insurance Corporation (L.N. 54 of 2022)
 
+  - 15. Hong Kong Housing Society (L.N. 167 of 2023)
+
+  - 16. West Kowloon Cultural District Authority (L.N. 167 of 2023)
+
 - (E.R. 7 of 2020)
 
 - Part 2 Relevant CCF in respect of Certain Off-balance Sheet Exposures
@@ -62,7 +66,7 @@ Specifications for Purposes of Certain Definitions in these Rules
 
   - 3. European Central Bank
 
-  - 4. European Community
+  - 4. European Union (L.N. 167 of 2023)
 
   - 5. European Financial Stability Facility (L.N. 128 of 2014)
 
