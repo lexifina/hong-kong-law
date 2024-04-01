@@ -82,11 +82,17 @@ Item | Sum
 
 *2. | Prescribed branch registration fee—
 
-(a) on or after 21 February 2011— (Amended L.N. 150 of 2014)
+(a) on or after 21 February 2011 and before 1 April 2024— (Amended L.N. 150 of 2014; L.N. 28 of 2024)
 
 (i) where no election is made under section 6(5C) | $ | 73
 
 (ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $ | 189
+
+(b) on or after 1 April 2024—
+
+(i) where no election is made under section 6(5C) | $ | 80
+
+(ii) where an election is made under section 6(5C) (Added L.N. 28 of 2024) | $ | 208
 
 3. | Levy—
 
@@ -102,14 +108,32 @@ Item | Sum
 
 (ii) where an election is made under section 6(5C) (Added L.N. 91 of 2013) | $ | 750
 
-(c) on or after 17 June 2022—
+(c) on or after 17 June 2022 and before 1 April 2024— (Amended L.N. 28 of 2024)
 
 (i) where no election is made under section 6(5C) | $ | 150
 
 (ii) where an election is made under section 6(5C) (Added L.N. 136 of 2022) | $ | 450
 
+(d) on or after 1 April 2024 and before 1 April 2025—
+
+(i) where no election is made under section 6(5C) | $ | 0
+
+(ii) where an election is made under section 6(5C) (Added L.N. 28 of 2024) | $ | 150
+
+(e) on or after 1 April 2025 and before 1 April 2026—
+
+(i) where no election is made under section 6(5C) | $ | 0
+
+(ii) where an election is made under section 6(5C) (Added L.N. 28 of 2024) | $ | 300
+
+(f) on or after 1 April 2026—
+
+(i) where no election is made under section 6(5C) | $ | 150
+
+(ii) where an election is made under section 6(5C) (Added L.N. 28 of 2024) | $ | 450
+
 (Amended L.N. 57 of 1995; 3 of 1999 s. 17; L.N. 90 of 1999 and 44 of 1999 s. 29; 13 of 2010 s. 18) (Schedule 2 added 33 of 1994 s. 8)
 
 Editorial Note:
 
-* Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed branch registration fee in respect of branch registration certificates).
+* Please see Endnotes for this Ordinance in Hong Kong e-Legislation (https://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed branch registration fee in respect of branch registration certificates).
