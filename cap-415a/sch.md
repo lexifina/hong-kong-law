@@ -1,14 +1,8 @@
-# SCHEDULE
+# Schedule
 
-[regs. 3, 4, 6,
+[regs. 3, 4, 6, 7, 8, 9, 11 & 14]
 
-7, 8, 9,
-
-11 & 14]
-
-- PART 1 Fees for Registry of Shipping and Related Matters
-
-- (other than tonnage measurement and marking of ships)
+- Part 1 Fees for Registry of Shipping and Related Matters (other than tonnage measurement and marking of ships)
 
 - Item | Purpose or service | Fee $
 
@@ -48,7 +42,7 @@
 
 - 17-18. | (Repealed L.N. 90 of 1999 and 44 of 1999 s. 42)
 
-- PART 2 Fees for Tonnage Measurement and Marking of Ships
+- Part 2 Fees for Tonnage Measurement and Marking of Ships
 
 - Note: | 1. | The fees include—
 
@@ -66,11 +60,11 @@
 
 - 3. | In this Part—
 
-- “hourly rate” (每小時收費率) means the rate per hour calculated in accordance with regulation 9;
+- hourly rate (每小時收費率) means the rate per hour calculated in accordance with regulation 9;
 
-- “sister ship” (姊妹船) means a ship—
+- sister ship (姊妹船) means a ship—
 
-- (a) | which corresponds in all respects relevant to the measurement of tonnage with another ship (referred to below as the “principal ship”) the tonnage of which has been ascertained under the Regulations, or which will have been so ascertained, prior to the measurement for tonnage of that ship; and which, in particular and without prejudice to the generality of the foregoing requirement, corresponds with the principal ship in the following respects—
+- (a) | which corresponds in all respects relevant to the measurement of tonnage with another ship (referred to below as the principal ship) the tonnage of which has been ascertained under the Regulations, or which will have been so ascertained, prior to the measurement for tonnage of that ship; and which, in particular and without prejudice to the generality of the foregoing requirement, corresponds with the principal ship in the following respects—
 
 - (i) | it has the same hull form;
 
@@ -86,9 +80,9 @@
 
 - (b) | in respect of which, prior to the commencement of its measurement for tonnage, application is made in writing by or on behalf of the owner for that ship to be treated as a sister ship, accompanied by a declaration that it complies with the foregoing requirements;
 
-- “the Regulations” (規例) means the Merchant Shipping (Registration) (Tonnage) Regulations (Cap. 415 sub. leg. C) and references to specific regulations shall be construed accordingly.
+- the Regulations (規例) means the Merchant Shipping (Registration) (Tonnage) Regulations (Cap. 415 sub. leg. C) and references to specific regulations shall be construed accordingly.
 
-- 4. | In the case of sister ships, the fees for tonnage measurement will be half of the appropriate fee subject to a minimum fee of $7,920 for the principal ship registered in Hong Kong under the same owner.(L.N. 337 of 1994; L.N. 274 of 1995)
+- 4. | In the case of sister ships, the fees for tonnage measurement will be half of the appropriate fee subject to a minimum fee of $7,920 for the principal ship registered in Hong Kong under the same owner. (L.N. 337 of 1994; L.N. 274 of 1995)
 
 - Item | Purpose or service | Fee $
 
@@ -312,7 +306,7 @@
 
 - (a) | Measurement or re-measurement in Hong Kong | 3,205
 
-- (b) | Measurement or re-measurement outside Hong Kong | } | a fee determined by the time involved, charged at the hourly rate.
+- (b) | Measurement or re-measurement outside Hong Kong | a fee determined by the time involved, charged at the hourly rate.
 
 - (c) | Verification in Hong Kong of changes of the particulars recorded on the certificate of registry, not involving re-measurement
 
@@ -364,7 +358,7 @@
 
 - (a) | Markings under section 18 of the Ordinance—
 
-- (i) | The name of a ship registered in Hong Kong or port of registry of such a ship, including lifeboats and lifebuoys carried as part of the ship's equipment | } | a fee determined by the time involved, charged at the hourly rate.
+- (i) | The name of a ship registered in Hong Kong or port of registry of such a ship, including lifeboats and lifebuoys carried as part of the ship’s equipment | a fee determined by the time involved, charged at the hourly rate.
 
 - (ii) | The scale denoting the draught of water
 
@@ -376,7 +370,7 @@
 
 - (L.N. 250 of 1992; L.N. 336 of 1993; L.N. 440 of 1993; L.N. 337 of 1994; L.N. 274 of 1995)
 
-- PART 3 Annual Tonnage Charges
+- Part 3 Annual Tonnage Charges
 
 - Item | Particular | Charge $
 
