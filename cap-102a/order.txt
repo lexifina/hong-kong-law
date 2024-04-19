@@ -51,6 +51,9 @@ s-046A.md
 s-046AB.md
 s-046B.md
 s-047.md
+s-047A.md
+s-047B.md
+s-047D.md
 s-048.md
 s-049.md
 s-050.md
