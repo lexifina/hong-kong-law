@@ -1,8 +1,10 @@
-SUBSIDIZED SCHOOLS PROVIDENT FUND RULES
+Subsidized Schools Provident Fund Rules
 
 (Cap. 279, section 85)
 
 [29 September 1961]
+
+(Format changes—E.R. 2 of 2024)
 
 Editorial Note:
 

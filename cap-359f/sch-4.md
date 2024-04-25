@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 16]
 
-EXEMPTIONS FROM THE ORDINANCE
+Exemptions from the Ordinance
 
 Item | Person Exempt | Exempt Section
 

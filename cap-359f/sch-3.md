@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 10 & 15]
 
-FEES
+Fees
 
 Item | Particular | Fee $
 

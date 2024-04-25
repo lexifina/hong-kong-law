@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-FORM OF REGISTER
+Form of Register
 
 Supplementary Medical Professions Ordinance
 

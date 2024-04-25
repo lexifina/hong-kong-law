@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 7, 9, 14, 23 & 42]
 
-Form 1 | [s. 7(1)]
+Form 1
+
+[s. 7(1)]
 
 Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Application for Registration/Provisional Registration as an Optometrist
 
@@ -52,7 +54,9 @@ Photograph of Applicant
 
 _
 
-Form 2A | [s. 9(1)]
+Form 2A
+
+[s. 9(1)]
 
 OPTOMETRISTS BOARD HONG KONG Supplementary Medical Professions Ordinance (Chapter 359) Certificate of Registration
 
@@ -72,7 +76,9 @@ Secretary, Optometrists Board.
 
 _
 
-Form 2B | [s. 9(2)]
+Form 2B
+
+[s. 9(2)]
 
 OPTOMETRISTS BOARD HONG KONG Supplementary Medical Professions Ordinance (Chapter 359) Certificate of Provisional Registration
 
@@ -94,7 +100,9 @@ Secretary, Optometrists Board.
 
 _
 
-Form 3 | [s. 14]
+Form 3
+
+[s. 14]
 
 Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Particulars of a Company carrying on the Business of Practising Optometry
 
@@ -126,7 +134,9 @@ Dated this .................... day of .......................... 19............
 
 _
 
-Form 4 | [s. 23(1)]
+Form 4
+
+[s. 23(1)]
 
 Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Notice of Inquiry
 
@@ -178,7 +188,9 @@ Secretary, Optometrists Board.
 
 _
 
-Form 5 | [s. 42(2)]
+Form 5
+
+[s. 42(2)]
 
 Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Summons to Witness
 
@@ -188,9 +200,7 @@ And in the matter of (1)
 
 To (2)
 
-You are hereby summoned to appear before the Optometrists Board
-
-at
+You are hereby summoned to appear before the Optometrists Board at
 
 on the . day of ., at . o’clock in the . noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4)
 
