@@ -1,13 +1,19 @@
 # Schedule 1
 
-[regs. 5 & 8]
+[regs. 5, 8 & 9]
 
 Noise Emission Standard
 
-Air Flow | Maximum Permissible Sound Power Level in dB(A)
+Column 1 | Column 2
 
-Below or equal to 10 cubic metres per minute | 100
+Motor power of air compressor in kW (“P”) | Maximum permissible sound power level in dB(A)
 
-Over 10 but below or equal to 30 cubic metres per minute | 102
+15 or below | 97
 
-Above 30 cubic metres per minute | 104
+Over 15 but below 350 | 95 + 2 log P(1)
+
+350 or above | 102
+
+(1) To be rounded off to the nearest integer.
+
+(Schedule 1 replaced L.N. 69 of 2023)

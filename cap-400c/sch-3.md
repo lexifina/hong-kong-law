@@ -56,7 +56,7 @@ Serial Number
 
 Continue on separate sheet if necessary. Please state clearly each appliance serial number.
 
-3f. | Rate of air flow (see Note 2): . m3/min
+3f. | Motor power (see Note 2): . kW
 
 3g. | Supporting document (see Note 3):
 
@@ -106,12 +106,18 @@ NOTES:
 
 - FOR OFFICE USE ONLY
 
-- Permissible limit, dB(A) | No. of labels issued
+- Permissible limit, dB(A) (“P” stands for the motor power of the air compressor) | No. of labels issued
+
+- 97 (P ≤ 15 kW)
+
+- 95 + 2 log P (15 kW < P < 350 kW) | 97
+
+- 98
+
+- 99
 
 - 100
 
-- 102
-
-- 104
+- 102 (P ≥ 350 kW)
 
 (L.N. 260 of 1994; L.N. 65 of 1995; L.N. 497 of 1996; L.N. 582 of 1997; L.N. 308 of 2000; L.N. 184 of 2005; L.N. 101 of 2008; L.N. 43 of 2016; L.N. 69 of 2023)
