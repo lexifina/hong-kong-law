@@ -106,12 +106,22 @@ NOTES：
 
 - FOR OFFICE USE ONLY
 
-- Permissible limit, dB(A) | No. of labels issued
+- Permissible limit, dB(A) (“m” stands for the mass of the breaker) | No. of labels issued
+
+- 105 (10 kg < m ≤ 15 kg)
+
+- 92 + 11 log m (15 kg < m < 30 kg) | 105
+
+- 106
+
+- 107
 
 - 108
 
+- 94 + 11 log m (m ≥ 30 kg) | 110
+
 - 111
 
-- 114
+- 112
 
 (L.N. 262 of 1994; L.N. 65 of 1995; L.N. 498 of 1996; L.N. 583 of 1997; L.N. 309 of 2000; L.N. 185 of 2005; L.N. 102 of 2008; L.N. 44 of 2016; L.N. 70 of 2023)

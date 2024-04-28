@@ -1,13 +1,17 @@
 # Schedule 1
 
-[regs. 5 & 8]
+[regs. 5, 8 & 9]
 
 Noise Emission Standard
 
-Mass of the Breaker | Maximum Permissible Sound Power Level in dB(A)
+Column 1 | Column 2
 
-Above 10 kg and below 20 kg | 108
+Mass of the breaker in kg (“m”) | Maximum permissible sound power level in dB(A)
 
-Equal to or above 20 kg and equal to or below 35 kg | 111
+Over 10 but not over 15 | 105
 
-Above 35 kg | 114
+Over 15 but below 30 | 92 + 11 log m(1)
+
+30 or above | 94 + 11 log m(1)
+
+(1) To be rounded off to the nearest integer. (Schedule 1 replaced L.N. 70 of 2023)
