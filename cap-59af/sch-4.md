@@ -30,8 +30,6 @@ Elements of Safety Management System
 
 - Part 3
 
-- (Not yet in operation)
-
   - 1. Evaluation of job related hazards or potential hazards and development of safety procedures.
 
   - 2. Promotion, development and maintenance of safety and health awareness in a workplace.
