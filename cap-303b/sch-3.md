@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 26]
 
@@ -14,14 +14,14 @@ Dental surgery assistant | Dental exposure involving the taking of plain radiogr
 
 In this Schedule—
 
-- “dental exposure” (牙科照射) means exposure of a person to ionizing radiation for dental purposes;
+- dental exposure (牙科照射) means exposure of a person to ionizing radiation for dental purposes;
 
-- “dental surgery assistant” (牙科手術助理員) means a person employed in a dental surgery to assist a registered dentist within the meaning assigned to that term by the Dentists Registration Ordinance (Cap. 156) in his practice of dentistry;
+- dental surgery assistant (牙科手術助理員) means a person employed in a dental surgery to assist a registered dentist within the meaning assigned to that term by the Dentists Registration Ordinance (Cap. 156) in his practice of dentistry;
 
-- “diagnostic radiographer” (放射診斷技師) means a radiographer whose name is entered in Category D of the register kept in accordance with the Radiographers (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. H);
+- diagnostic radiographer (放射診斷技師) means a radiographer whose name is entered in Category D of the register kept in accordance with the Radiographers (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. H);
 
-- “medical exposure” (醫療照射) means exposure of a person to ionizing radiation either by means of irradiating apparatus or by administration of radioactive substance for a medical diagnostic or medical therapeutic purpose;
+- medical exposure (醫療照射) means exposure of a person to ionizing radiation either by means of irradiating apparatus or by administration of radioactive substance for a medical diagnostic or medical therapeutic purpose;
 
-- “therapeutic radiographer” (放射治療技師) means a radiographer whose name is entered in Category T of the register kept in accordance with the Radiographers (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. H).
+- therapeutic radiographer (放射治療技師) means a radiographer whose name is entered in Category T of the register kept in accordance with the Radiographers (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. H).
 
 (L.N 154 of 1995)

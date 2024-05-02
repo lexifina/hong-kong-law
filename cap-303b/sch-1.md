@@ -1,10 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
-FORM 1 | [reg. 3]
+Form 1
+
+[reg. 3]
 
 RADIATION ORDINANCE
 
-(Chapter 303) APPLICATION FOR IRRADIATING APPARATUS LICENCE
+(Chapter 303) Application for Irradiating Apparatus Licence
 
 I,
 
@@ -14,7 +16,7 @@ hereby make application for a licence to (a)
 
 irradiating apparatus as described hereunder, at (b)
 
-2. (Description of type or types of irradiating apparatus for which a licence is required).
+2. | (Description of type or types of irradiating apparatus for which a licence is required).
 
 3. | My qualifications are as follows (c)
 
@@ -28,7 +30,9 @@ Dated this day of 19 .
 
 __________
 
-FORM 2 | [reg. 4]
+Form 2
+
+[reg. 4]
 
 RADIATION ORDINANCE
 
@@ -36,7 +40,7 @@ RADIATION ORDINANCE
 
 Licence No.
 
-IRRADIATING APPARATUS LICENCE
+Irradiating Apparatus Licence
 
 Fee
 
