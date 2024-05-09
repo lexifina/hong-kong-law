@@ -1,53 +1,297 @@
-# SCHEDULE 2
+# Schedule 2
 
-regulations [2, 8, 10, 11, 12, 17, 59 & 60]
+[regs. 2, 8, 10, 11, 12, 17, 59 & 60]
 
-ROAD MARKINGS
+Road Markings
 
-REGULATORY FIGURE No. 502 ROAD MARKING LONGITUDINAL MARKING-DOUBLE LINES DOUBLE LINES TO INDICATE THAT A VEHICLE MUST NOT BE OVER OR CROSS THE LINES CONTRARY TO REGULATION 11. | REGULATORY FIGURE No. 501 ROAD MARKING LONGITUDINAL MARKING-DOUBLE LINES DOUBLE LINES TO INDICATE THAT A VEHICLE MUST NOT BE OVER OR CROSS EITHER CONTINUOUS LINE CONTRARY TO REGULATION 11.
+Regulatory
 
-REGULATORY FIGURE No. 503A ROAD MARKING LONGITUDINAL MARKINGS—CONTINUOUS DOUBLE LINES WITH HATCHING Continuous double lines and hatched markings to indicate that a vehicle must not be on, over or cross either continuous line contrary to regulation 11. (L.N. 63 of 2017) | REGULATORY FIGURE No. 503 ROAD MARKING LONGITUDINAL MARKINGS-CONTINUOUS DOUBLE LINES WITH HATCHING CONTINUOUS DOUBLE LINES AND HATCHED MARKINGS TO INDICATE THAT A VEHICLE MUST NOT BE ON, OVER OR CROSS EITHER CONTINUOUS LINE CONTRARY TO REGULATION 11.
+Figure No. 501 Road Marking Longitudinal Marking—Double Lines
 
-REGULATORY FIGURE No. 505 ROAD MARKING LONGITUDINAL MARKING-HARD SHOULDER LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC THE EDGE OF THAT PART OF THE CARRIAGEWAY AVAILABLE FOR THROUGH TRAFFIC, OVER WHICH VEHICLES SHALL NOT CROSS EXCEPT IN EMERGENCY. | REGULATORY FIGURE No. 504 ROAD MARKING LONGITUDINAL MARKING-BUS LANE LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC UNDER REGULATION 12 THE BOUNDARY OF A TRAFFIC LANE RESERVED FOR FRANCHISED BUSES AND, WHERE INDICATED ON SIGNS, OTHER VEHICLES.
+Double lines to indicate that a vehicle must not be over or cross either continuous line contrary to regulation 11.
 
-REGULATORY FIGURE No. 507 ROAD MARKING TRANSVERSE MARKING-STOP LINES TRANSVERSE LINES TO INDICATE POSITION BEYOND WHICH VEHICULAR TRAFFIC MUST NOT PROCEED WHEN REQUIRED TO STOP BY THE SIGN SHOWN IN FIGURE No. 101 IN SCHEDULE 1. | REGULATORY FIGURE No. 506 ROAD MARKING TRANSVERSE MARKING-STOP LINE TRANSVERSE LINE TO INDICATE THE POSITION BEYOND WHICH VEHICULAR TRAFFIC MUST NOT PROCEED WHEN REQUIRED TO STOP BY TRAFFIC LIGHT SIGNALS OR THE POLICE.
+Regulatory
 
-REGULATORY FIGURE No. 509 ROAD MARKING DIRECTIONAL ARROWS TO INDICATE TO VEHICULAR TRAFFIC APPROPRIATE TRAFFIC LANES, AND WHEN USED ON THE APPROACH TO A JUNCTION HAVING TRANSVERSE LINES AS IN FIGURE NOS. 506, 507, OR 508 THE DIRECTION IN WHICH VEHICLES IN THE RESPECTIVE TRAFFIC LANES AT THE TRANSVERSE LINE, MUST PROCEED AFTER HAVING PASSED OVER THE LINES. | REGULATORY FIGURE No. 508 ROAD MARKING TRANSVERSE MARKING-GIVE WAY LINES TRANSVERSE LINES TO INDICATE TO VEHICULAR TRAFFIC THAT NO VEHICLE SHALL PROCEED PAST THE LINE WHICH IS NEAREST TO THE MAJOR ROAD INTO THAT ROAD IN SUCH A MANNER OR AT SUCH A TIME AS IS LIKELY TO CAUSE DANGER TO THE DRIVER OF ANY OTHER VEHICLE ON THE MAJOR ROAD OR AS TO NECESSITATE THE DRIVER OF ANY SUCH OTHER VEHICLE TO CHANGE ITS SPEED OR COURSE IN ORDER TO AVOID AN ACCIDENT WITH THE FIRST VEHICLE THE LINES MAY BE USED IN CONJUNCTION WITH THE SIGN IN FIGURE No. 102 IN SCHEDULE 1.
+Figure No. 502 Road Marking Longitudinal Marking—Double Lines
 
-REGULATORY FIGURE No. 511 ROAD MARKING TRAM LANE TO INDICATE TO VEHICULAR TRAFFIC A TRAFFIC LANE RESERVED FOR TRAMS. | REGULATORY FIGURE No. 510 ROAD MARKING BUS LANE TO INDICATE TO VEHICULAR TRAFFIC A TRAFFIC LANE RESERVED FOR FRANCHISED BUSES AND, WHERE INDICATED ON SIGNS, OTHER VEHICLES.
+Double lines to indicate that a vehicle must not be over or cross the lines contrary to regulation 11.
 
-REGULATORY FIGURE No. 513 ROAD MARKING HATCHED TRAFFIC ISLAND MARKING TO INDICATE TO VEHICULAR TRAFFIC THAT PART OF THE CARRIAGEWAY WHICH VEHICULAR TRAFFIC MUST NOT ENTER EXCEPT IN EMERGENCY. (L.N. 63 of 2017) | REGULATORY FIGURE No. 512 ROAD MARKING CHEVRON MARKING TO INDICATE THAT PART OF THE VERGE OR HARD SHOULDER, ON A ROAD BETWEEN THE MAIN CARRIAGEWAY OF THAT ROAD AND THE CARRIAGEWAY OF A SLIP ROAD, OR AT A DIVERGENCE OR CONVERGENCE OF ROADS, WHICH VEHICULAR TRAFFIC MUST NOT ENTER EXCEPT IN EMERGENCY. THE MARKING MAY ALSO FORM AN EXTENSION TO THE MARKING IN FIGURE NO. 501 IN WHICH CASE THE PERIMETER LINES WILL NOT MEET AT THE APEX.
+Regulatory
 
-REGULATORY FIGURE No. 514 ROAD MARKING BOX JUNCTION WHEN PAINTED IN BROAD YELLOW LINES ON A CARRIAGEWAY AT A ROAD JUNCTION INDICATES A BOX JUNCTION INTO WHICH A VEHICLE MAY NOT BE DRIVEN CONTRARY TO REGULATION 10. THE SHAPE OF THE BOX MAY BE MODIFIED TO MEET THE LAYOUT OF A JUNCTION, AND MAY BE MARKED OUT ON ONE CARRIAGEWAY ON A DUAL CARRIAGEWAY ROAD, OR TO COVER ONE DIRECTION OF TRAFFIC FLOW ON A TWO WAY ROAD. ANY CORNER MAY BE CUT AWAY TO A MAXIMUM OF 10% OF THE LENGTH OF THE SIDE AFFECTED TO ACCOMMODATE A CORNER KERB. | REGULATORY FIGURE No. 513A ROAD MARKING HATCHED TRAFFIC ISLAND MARKING To indicate to vehicular traffic that part of the carriageway which vehicular traffic must not enter except in emergency. (L.N. 63 of 2017)
+Figure No. 503 Road Marking Longitudinal Markings—Continuous Double Lines with Hatching
 
-REGULATORY FIGURE No. 516 ROAD MARKING TRAM STOP TO INDICATE THE LIMITS OF A TRAM STOP AND POSITION BEYOND WHICH VEHICULAR TRAFFIC MUST NOT PROCEED WHEN PASSENGERS ARE BOARDING OR ALIGHT FROM A TRAM. | REGULATORY FIGURE No. 515 ROAD MARKING NO STOPPING TO INDICATE TO VEHICULAR TRAFFIC THAT THE STOPPING OF MOTOR VEHICLES EXCEPT FRANCHISED BUSES AT DESIGNATED STOPPING PLACES, IS PROHIBITED AT ALL TIMES, UNLESS THE VEHICLE IS PREVENTED FROM PROCEEDING DUE TO TRAFFIC CONDITIONS. THE MARKING MAY BE USED IN CONJUNCTION WITH THE SIGN SHOWN IN FIGURE No. 140 IN SCHEDULE 1 OR MAY BE USED ALONE.
+Continuous double lines and hatched markings to indicate that a vehicle must not be on, over or cross either continuous line contrary to regulation 11.
 
-REGULATORY FIGURE No. 517A ROAD MARKING BUS STOP To indicate to vehicular traffic the limits of a bus stop. “BUS STOP” and “巴士站” may be repeated according to the length of a bus stop. (L.N. 63 of 2017) | REGULATORY FIGURE No. 517 ROAD MARKING BUS STOP TO INDICATE TO VEHICULAR TRAFFIC THE LIMITS OF A BUS STOP. “BUS STOP” AND“巴士站”MAY BE REPEATED ACCORDING TO THE LENGTH OF A BUS STOP. (L.N. 63 of 2017)
+Regulatory
 
-REGULATORY FIGURE No. 519 ROAD MARKING NO STOPPING TO INDICATE TO VEHICULAR TRAFFIC THAT THE STOPPING OF MOTOR VEHICLES EXCEPT FRANCHISED BUSES AT DESIGNATED STOPPING PLACES, IS PROHIBITED DURING THE PERIOD OR PERIODS INDICATED ON THE SUPPLEMENTARY PLATE TO FIGURE No. 406 IN SCHEDULE 1, USED IN CONJUNCTION WITH THE SIGN SHOWN IN FIGURE No. 140 IN SCHEDULE 1. | REGULATORY FIGURE No. 518 ROAD MARKING LONGITUDINAL MARKING LONGITUDINAL LINE UNDER REGULATION 12 TO WARN OF THE COMMENCEMENT OR FURTHER CONTINUATION OF A TRAFFIC LANE RESERVED FOR BUSES AND, WHERE INDICATED ON SIGNS, OTHER VEHICLES.
+Figure No. 503A Road Marking Longitudinal Markings—Continuous Double Lines with Hatching
 
-REGULATORY FIGURE No. 523 RAIL ONLY TO INDICATE TO VEHICULAR TRAFFIC AN AREA OR TRAFFIC LANE RESERVED FOR VEHICLES OF THE NORTH-WEST RAILWAY. THE WORDS AND CHARACTERS MAY BE WRITTEN AS ‘RAIL ONLY’ ON THE SAME LINE AND“輕鐵專線”ON THE SAME LINE AND THE WHOLE MARKING MAY BE WRITTEN AS“RAIL ONLY輕鐵專線”ALL ON THE SAME LINE. IT MAY BE USED IN CONJUNCTION WITH THE ROAD MARKING 525 IN SCHEDULE 2. (L.N. 242 of 1987) | REGULATORY FIGURE No. 522 TRAM AND NORTH-WEST RAILWAY CROSSING BOX MARKING WHEN PAINTED IN YELLOW LINES AT A LOCATION WHERE TRAM TRACKS OR THE NORTH-WEST RAILWAY JOINS A ROAD AND BECOMES PART OF A ROAD MEANS AN AREA OF THE CARRIAGEWAY ONTO WHICH A VEHICLE OR A VEHICLE OF THE NORTH-WEST RAILWAY OR A TRAM MUST NOT ENTER IN A MANNER WHICH THEN CAUSES ANY PART OF THAT VEHICLE OR TRAM TO REMAIN AT REST WITHIN THE MARKED AREA. (L.N. 242 of 1987)
+Continuous double lines and hatched markings to indicate that a vehicle must not be on, over or cross either continuous line contrary to regulation 11.
 
-REGULATORY FIGURE No. 525 RAIL ONLY AREA WHERE USED IN CONJUNCTION WITH FIGURE No. 523 IN SCHEDULE 2 INDICATES THE BOUNDARY OR BOUNDARIES OF AN AREA OR TRAFFIC LANE RESERVED FOR THE USE OF VEHICLES OF THE NORTH-WEST RAILWAY, AND OTHER VEHICLES SHALL NOT BE ON OR OVER OR CROSS THIS LINE. (L.N. 242 of 1987) | REGULATORY FIGURE No. 524 RAIL STOP TO INDICATE TO VEHICULAR TRAFFIC THE LIMITS OF A RAIL STOP. ‘RAIL STOP’ AND“輕鐵站”MAY BE REPEATED ACCORDING TO THE LENGTH OF A RAIL STOP. (L.N. 242 of 1987)
+(L.N. 63 of 2017) Regulatory
 
-INFORMATORY FIGURE No. 602 ROAD MARKING LONGITUDINAL MARKING-CARRIAGEWAY DIVISION LINE LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC THE DIVISION BETWEEN OPPOSING FLOWS ON A CARRIAGEWAY | INFORMATORY FIGURE No. 601 ROAD MARKING LONGITUDINAL MARKING - LANE LINES ALTERNATIVE METHODS OF MARKING A LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC MOVING IN THE SAME DIRECTION THE DIVISION OF THE CARRIAGEWAY INTO TRAFFIC LANES.
+Figure No. 504 Road Marking Longitudinal Marking—Bus Lane
 
-INFORMATORY FIGURE No. 604 ROAD MARKING INSTRUCTIONS TO INDICATE TO PEDESTRIANS THE DIRECTION OF APPROACHING VEHICULAR TRAFFIC. | INFORMATORY FIGURE No. 603 ROAD MARKING LONGITUDINAL MARKING-WARNING LINE ALTERNATIVE METHODS OF MARKING A LONGITUDINAL LINE TO WARN VEHICULAR TRAFFIC WHEN APPROACHING OR NEGOTIATING A HAZARD NOT TO BE OVER OR CROSS THE LINE UNLESS IT IS SEEN BY THE DRIVER TO BE SAFE TO DO SO. IT MAY BE USED BOTH TO INDICATE THE DIVISION OF THE CARRIAGEWAY INTO LANES AND THE DIVISION OF THE CARRIAGEWAY BETWEEN OPPOSING FLOWS
+Longitudinal line to indicate to vehicular traffic under regulation 12 the boundary of a traffic lane reserved for franchised buses and, where indicated on signs, other vehicles.
 
-INFORMATORY FIGURE No. 606 ROAD MARKING LONGITUDINAL MARKING-EDGE LINE LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC THE EDGE OF THE CARRIAGEWAY AT A ROAD JUNCTION, LAY BY, PASSING PLACE, OR BUS STOP. | INFORMATORY FIGURE No. 605 ROAD MARKING LONGITUDINAL MARKING-EDGE LINE LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC THE EDGE OF THE CARRIAGEWAY AT A ROAD JUNCTION.
+Regulatory
 
-INFORMATORY FIGURE No. 608 ROAD MARKING JUNCTION GIVE WAY WARNING MARKING TO INDICATE TO VEHICULAR TRAFFIC THE APPROACH TO A ROAD JUNCTION AT OR NEAR WHICH IS PLACED THE MARKING SHOWN IN FIGURE No. 508, OR BOTH THE MARKING SHOWN IN FIGURE No. 508, AND THE SIGN SHOWN IN FIGURE No. 102 IN SCHEDULE 1. | INFORMATORY FIGURE No. 607 ROAD MARKING LONGITUDINAL MARKING-EDGE OF CARRIAGEWAY LINE ALTERNATIVE METHODS OF MARKING A LONGITUDINAL LINE TO INDICATE TO VEHICULAR TRAFFIC THE EDGE OF THE CARRIAGEWAY OTHER THAN AT A ROAD JUNCTION, LAY BY, PASSING PLACE, OR BUS STOP.
+Figure No. 505 Road Marking Longitudinal Marking—Hard Shoulder
 
-INFORMATORY FIGURE No. 610 ROAD MARKING END OF BUS LANE TO INDICATE TO VEHICULAR TRAFFIC THE END OF A BUS LANE AND THAT THEY MAY ENTER THE LEFT MOST LANE. THE MARKING MAY BE USED WITH OR WITHOUT THE LETTERS AND CHARACTERS. (L.N. 63 of 2017) | INFORMATORY FIGURE No. 609 ROAD MARKING WARNING ARROW THE ARROW MAY BE REVERSED AND IS USED TO INDICATE WHICH SIDE VEHICULAR TRAFFIC SHOULD TRAVEL PAST A MARKING OF THE TYPE SHOWN IN FIGURE NOS. 501, 502, 504 OR A TEMPORARY OBSTRUCTION ON THE CARRIAGEWAY.
+Longitudinal line to indicate to vehicular traffic the edge of that part of the carriageway available for through traffic, over which vehicles shall not cross except in emergency.
 
-INFORMATORY FIGURE No. 611 ROAD MARKING TO INDICATE TO VEHICULAR TRAFFIC IN ACCORDANCE WITH REGULATION 12 THAT THEY MAY ENTER THE TRAFFIC LANE RESERVED FOR BUSES, BUT ONLY FOR THE PURPOSE OF TURNING LEFT AT THE JUNCTION AHEAD. | INFORMATORY FIGURE No. 610A ROAD MARKING END OF BUS LANE To indicate to vehicular traffic the end of a bus lane and that they may enter the right most lane. The marking may be used with or without the letters and characters. (L.N. 63 of 2017)
+Regulatory
 
-INFORMATORY FIGURE No. 612 ROAD MARKING DECELERATION ARROWS TO INDICATE TO VEHICULAR TRAFFIC THE ENTRANCE TO A DECELERATION LANE AT A ROAD JUNCTION OR ANOTHER PLACE WHERE A TRAFFIC LANE DIVERGES. THE MARKING MAY BE REVERSED. | INFORMATORY FIGURE No. 611A ROAD MARKING To indicate to vehicular traffic in accordance with regulation 12 that they may enter the traffic lane reserved for buses, but only for the purpose of turning right at the junction ahead. (L.N. 63 of 2017)
+Figure No. 506 Road Marking Transverse Marking—Stop Line
 
-INFORMATORY FIGURE No. 614 ROAD MARKING INSTRUCTIONS TO INDICATE TO VEHICULAR TRAFFIC THE APPROACH TO A ROAD JUNCTION AT OR NEAR WHICH IS PLACED THE SIGN SHOWN IN FIGURE No. 101 IN SCHEDULE 1. | INFORMATORY FIGURE No. 613 ROAD MARKING MARKING FOR PEDESTRIAN CROSSING AREA TO INDICATE TO VEHICULAR TRAFFIC THE AREA OF THE CARRIAGEWAY OVER WHICH PEDESTRANS ARE PERMITTED TO CROSS THE ROAD.
+Transverse line to indicate the position beyond which vehicular traffic must not proceed when required to stop by traffic light signals or the police.
 
-INFORMATORY FIGURE No. 616 ROAD MARKING INSTRUCTIONS TO INDICATE TO VEHICULAR TRAFFIC TO GET INTO THE APPROPRIATE LANE AS INDICATED BY TRAFFIC SIGNS OR OTHER ROAD MARKINGS. | INFORMATORY FIGURE No. 615 ROAD MARKING INSTRUCTIONS TO INDICATE TO VEHICULAR TRAFFIC POTENTIAL DANGER AHEAD AND THE NEED TO PROCEED WITH CAUTION.
+Regulatory
 
-INFORMATORY FIGURE No. 618 ROAD HUMP MARKING TO INDICATE TO VEHICULAR TRAFFIC A ROAD HUMP IN ACCORDANCE WITH FIGURE No. 617. (L.N. 22 of 1989) | INFORMATORY FIGURE No. 617 ROAD HUMP FOR USE ON A ROAD WHERE THE SPEED LIMIT IMPOSED DOES NOT EXCEED 50 km/h. (L.N. 22 of 1989)
+Figure No. 507 Road Marking Transverse Marking—Stop Lines
 
-INFORMATORY FIGURE No. 619 ROAD MARKING CYCLISTS THIS MARKING INDICATES THAT THE SECTION OF ROAD ON WHICH IT IS PLACED IS RESERVED FOR BICYCLES OR TRICYCLES. (L.N. 72 of 1990)
+Transverse lines to indicate position beyond which vehicular traffic must not proceed when required to stop by the sign shown in Figure No. 101 in Schedule 1.
+
+Regulatory
+
+Figure No. 508 Road Marking Transverse Marking—Give Way Lines
+
+Transverse lines to indicate to vehicular traffic that no vehicle shall proceed past the line which is nearest to the major road into that road in such a manner or at such a time as is likely to cause danger to the driver of any other vehicle on the major road or as to necessitate the driver of any such other vehicle to change its speed or course in order to avoid an accident with the first vehicle the lines may be used in conjunction with the sign in Figure No. 102 in Schedule 1.
+
+Regulatory
+
+Figure No. 509 Road Marking Directional Arrows
+
+To indicate to vehicular traffic appropriate traffic lanes, and when used on the approach to a junction having transverse lines as in Figure Nos. 506, 507, or 508 the direction in which vehicles in the respective traffic lanes at the transverse line, must proceed after having passed over the lines.
+
+Regulatory
+
+Figure No. 510 Road Marking Bus Lane
+
+To indicate to vehicular traffic a traffic lane reserved for franchised buses and, where indicated on signs, other vehicles.
+
+Regulatory
+
+Figure No. 511 Road Marking Tram Lane
+
+To indicate to vehicular traffic a traffic lane reserved for trams.
+
+Regulatory
+
+Figure No. 512 Road Marking Chevron Marking
+
+To indicate that part of the verge or hard shoulder, on a road between the main carriageway of that road and the carriageway of a slip road, or at a divergence or convergence of roads, which vehicular traffic must not enter except in emergency. The marking may also from an extension to the marking in Figure No. 501 in which case the perimeter lines will not meet at the apex.
+
+Regulatory
+
+Figure No. 513 Road Marking Hatched Traffic Island Marking
+
+To indicate to vehicular traffic that part of the carriageway which vehicular traffic must not enter except in emergency.
+
+(L.N. 63 of 2017) Regulatory
+
+Figure No. 513A Road Marking Hatched Traffic Island Marking
+
+To indicate to vehicular traffic that part of the carriageway which vehicular traffic must not enter except in emergency.
+
+(L.N. 63 of 2017) Regulatory
+
+Figure No. 514 Road Marking Box Junction
+
+When painted in broad yellow lines on a carriageway at a road junction indicates a box junction into which a vehicle may not be driven contrary to regulation 10. The shape of the box may be modified to meet the layout of a junction. And may be marked out on one carriageway on a dual carriageway road. Or to cover one direction of traffic flow on a two way road. Any corner may be cut away to a maximum of 10% of the length of the side affected to accommodate a corner kerb.
+
+Regulatory
+
+Figure No. 515 Road Marking No Stopping
+
+To indicate to vehicular traffic that the stopping of motor vehicles except franchised buses at designated stopping places, is prohibited at all times, unless the vehicle is prevented from proceeding due to traffic conditions. The marking may be used in conjunction with the sign shown in Figure No. 140 in Schedule 1 or may be used alone.
+
+Regulatory
+
+Figure No. 516 Road Marking Tram Stop
+
+To indicate the limits of a tram stop and position beyond which vehicular traffic must not proceed when passengers are boarding or alight from a tram.
+
+Regulatory
+
+Figure No. 517 Road Marking Bus Stop
+
+To indicate to vehicular traffic the limits of a bus stop.
+
+“BUS STOP” and “巴士站” may be repeated according to the length of a bus stop.
+
+(L.N. 63 of 2017) Regulatory
+
+Figure No. 517A Road Marking Bus Stop
+
+To indicate to vehicular traffic the limits of a bus stop.
+
+“BUS STOP” and “巴士站” may be repeated according to the length of a bus stop.
+
+(L.N. 63 of 2017) Regulatory
+
+Figure No. 518 Road Marking Longitudinal Marking
+
+Longitudinal line under regulation 12 to warn of the commencement or further continuation of a traffic lane reserved for buses and, where indicated on signs, other vehicles.
+
+Regulatory
+
+Figure No. 519 Road Marking No Stopping
+
+To indicate to vehicular traffic that the stopping of motor vehicles except franchised buses at designated stopping places, is prohibited during the period or periods indicated on the supplementary plate to Figure No. 406 in Schedule 1, used in conjunction with the sign shown in Figure No. 140 in Schedule 1.
+
+Regulatory
+
+Figure No. 522 Tram and North-west Railway Crossing Box Marking
+
+When painted in yellow lines at a location where tram tracks or the North-west Railway joins a road and becomes part of a road means an area of the carriageway onto which a vehicle or a vehicle of the North-west Railway or a tram must not enter in a manner which then causes any part of that vehicle or tram to remain at rest within the marked area.
+
+(L.N. 242 of 1987) Regulatory
+
+Figure No. 523 Rail Only
+
+To indicate to vehicular traffic an area or traffic lane reserved for vehicles of the North-west Railway. The words and characters may be written as “RAIL ONLY” on the same line and “輕鐵專綫” on the same line and the whole marking may be written as “RAIL ONLY 輕鐵專綫” all on the same line. It may be used in conjunction with the road marking 525 in Schedule 2.
+
+(L.N. 242 of 1987; E.R. 3 of 2024) Regulatory
+
+Figure No. 524 Rail Stop
+
+To indicate to vehicular traffic the limits of a rail stop. “RAIL STOP” and “輕鐵站” may be repeated according to the length of a rail stop.
+
+(L.N. 242 of 1987; E.R. 3 of 2024) Regulatory
+
+Figure No. 525 Rail Only Area
+
+Where used in conjunction with Figure No. 523 in Schedule 2 indicates the boundary or boundaries of an area or traffic lane reserved for the use of vehicles of the North-west Railway, and other vehicles shall not be on or over or cross this line.
+
+(L.N. 242 of 1987) Informatory
+
+Figure No. 601 Road Marking Longitudinal Marking—Lane Lines
+
+Alternative methods of marking a longitudinal line to indicate to vehicular traffic moving in the same direction the division of the carriageway into traffic lanes.
+
+Informatory
+
+Figure No. 602 Road Marking Longitudinal Marking—Carriageway Division Line
+
+Longitudinal line to indicate to vehicular traffic the division between opposing flows on a carriageway. (E.R. 3 of 2024)
+
+Informatory
+
+Figure No. 603 Road Marking Longitudinal Marking—Warning Line
+
+Alternative methods of marking a longitudinal line to warn vehicular traffic when approaching or negotiating a hazard not to be over or cross the line unless it is seen by the driver to be safe to do so. It may be used both to indicate the division of the carriageway into lanes and the division of the carriageway between opposing flows.
+
+Informatory
+
+Figure No. 604 Road Marking Instructions
+
+To indicate to pedestrians the direction of approaching vehicular traffic.
+
+Informatory
+
+Figure No. 605 Road Marking Longitudinal Marking—Edge Line
+
+Longitudinal line to indicate to vehicular traffic the edge of the carriageway at a road junction.
+
+Informatory
+
+Figure No. 606 Road Marking Longitudinal Marking—Edge Line
+
+Longitudinal line to indicate to vehicular traffic the edge of the carriageway at a road junction, lay by, passing place, or bus stop.
+
+Informatory
+
+Figure No. 607 Road Marking Longitudinal Marking—Edge of Carriageway Line
+
+Alternative methods of marking a longitudinal line to indicate to vehicular traffic the edge of the carriageway other than at a road junction, lay by, passing place, or bus stop.
+
+Informatory
+
+Figure No. 608 Road Marking Junction Give Way Warning
+
+Marking to indicate to vehicular traffic the approach to a road junction at or near which is placed the marking shown in Figure No. 508, or both the marking shown in Figure No. 508, and the sign shown in Figure No. 102 in Schedule 1.
+
+Informatory
+
+Figure No. 609 Road Marking Warning Arrow
+
+The arrow may be reversed and is used to indicate which side vehicular traffic should travel past a marking of the type shown in Figure Nos. 501, 502, 504 or a temporary obstruction on the carriageway.
+
+Informatory
+
+Figure No. 610 Road Marking End of Bus Lane
+
+To indicate to vehicular traffic the end of a bus lane and that they may enter the left most lane.
+
+The marking may be used with or without the letters and characters.
+
+(L.N. 63 of 2017) Informatory
+
+Figure No. 610A Road Marking End of Bus Lane
+
+To indicate to vehicular traffic the end of a bus lane and that they may enter the right most lane.
+
+The marking may be used with or without the letters and characters.
+
+(L.N. 63 of 2017) Informatory
+
+Figure No. 611 Road Marking
+
+To indicate to vehicular traffic in accordance with regulation 12 that they may enter the traffic lane reserved for buses, but only for the purpose of turning left at the junction ahead.
+
+Informatory
+
+Figure No. 611A Road Marking
+
+To indicate to vehicular traffic in accordance with regulation 12 that they may enter the traffic lane reserved for buses, but only for the purpose of turning right at the junction ahead.
+
+(L.N. 63 of 2017) Informatory
+
+Figure No. 612 Road Marking Deceleration Arrows
+
+To indicate to vehicular traffic the entrance to a deceleration lane at a road junction or another place where a traffic lane diverges. The marking may be reversed.
+
+Informatory
+
+Figure No. 613 Road Marking Marking for Pedestrian Crossing Area
+
+To indicate to vehicular traffic the area of the carriageway over which pedestrians are permitted to cross the road.
+
+Informatory
+
+Figure No. 614 Road Marking Instructions
+
+To indicate to vehicular traffic the approach to a road junction at or near which is placed the sign shown in Figure No. 101 in Schedule 1.
+
+Informatory
+
+Figure No. 615 Road Marking Instructions
+
+To indicate to vehicular traffic potential danger ahead and the need to proceed with caution.
+
+Informatory
+
+Figure No. 616 Road Marking Instructions
+
+To indicate to vehicular traffic to get into the appropriate lane as indicated by traffic signs or other road markings.
+
+Informatory
+
+Figure No. 617 Road Hump
+
+For use on a road where the speed limit imposed does not exceed 50 km/h.
+
+(L.N. 22 of 1989) Informatory
+
+Figure No. 618 Road Hump Marking
+
+To indicate to vehicular traffic a road hump in accordance with Figure No. 617.
+
+(L.N. 22 of 1989) Informatory
+
+Figure No. 619 Road Marking Cyclists
+
+This marking indicates that the section of road on which it is placed is reserved for bicycles or tricycles.
+
+(L.N. 72 of 1990)

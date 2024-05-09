@@ -1,186 +1,170 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 2, 3, 6, 12, 21, 27, 37, 39, 40, 50, 59 & 65]
 
 (29 of 2021 s. 36)
 
-TRAFFIC SIGNS
+Traffic Signs
 
-REGULATORY
+Regulatory
 
-FIGURE No. 101 STOP
+Figure No. 101 Stop
 
-THIS SIGN MAY BE PLACED ON MINOR ROADS AT THEIR JUNCTION WITH MAJOR ROADS AND SHALL INDICATE THAT EVERY VEHICLE SHALL BEFORE ENTERING THE MAJOR ROAD STOP AT THE TRANSVERSE LINES AS SHOWN IN FIG. No.507 IN SCHEDULE 2 SITED IN CONJUNCTION WITH THE ‘STOP’ SIGN. IF THERE ARE NO TRANSVERSE LINES OR THEY ARE NOT FOR THE TIME BEING VISIBLE, THE VEHICLE SHALL STOP AT THE MAJOR ROAD. NO VEHICLE SHALL PROCEED PAST THE TRANSVERSE LINES OR INTO THE MAJOR ROAD IF THE TRANSVERSE LINES ARE NOT VISIBLE IN SUCH A MANNER OR AT SUCH A TIME AS IS LIKELY TO CAUSE DANGER TO THE DRIVER OF A VEHICLE ON THE MAJOR ROAD OR AS TO NECESSITATE THE DRIVER OF A VEHICLE TO CHANGE COURSE OR HIS SPEED IN ORDER TO AVOID AN ACCIDENT WITH ANOTHER VEHICLE.
+This sign may be placed on minor roads at their junction with major roads and shall indicate that every vehicle shall before entering the major road stop at the transverse lines as shown in Fig. No. 507 in Schedule 2 sited in conjunction with the “stop” sign. If there are no transverse lines or they are not for the time being visible, the vehicle shall stop at the major road. No vehicle shall proceed past the transverse lines or into the major road if the transverse lines are not visible in such a manner or at such a time as is likely to cause danger to the driver of a vehicle on the major road or as to necessitate the driver of a vehicle to change course or his speed in order to avoid an accident with another vehicle.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO 409.
+This sign may be used in conjunction with the supplementary plate in Figure No. 409.
 
-REGULATORY
+(E.R. 3 of 2024) Regulatory
 
-FIGURE No. 102 GIVE WAY
+Figure No. 102 Give Way
 
-THIS SIGN MAY BE PLACED ON MINOR ROADS AT THEIR JUNCTIONS WITH MAJOR ROADS. APART FROM THOSE COVERED BY STOP SIGNS OR OTHER SIGNALS AND SHALL INDICATE THAT NO VEHICLE SHALL PROCEED PAST THE TRANSVERSE LINES IN FIG. No.508 IN SCHEDULE 2 USED IN CONJUNCTION WITH THE ‘GIVE WAY’ SIGN OR ENTER ONTO THE MAJOR ROAD IF THERE ARE NO TRANSVERSE LINES OR THEY ARE NOT FOR THE TIME BEING VISIBLE IN SUCH A MANNER OR AT SUCH A TIME AS IS LIKELY TO CAUSE DANGER TO THE DRIVER OF ANY VEHICLE ON THE MAJOR ROAD OR AS TO NECESSITATE THE DRIVER OF SUCH VEHICLE TO CHANGE ITS SPEED OR COURSE IN ORDER TO AVOID AN ACCIDENT WITH ANOTHER VEHICLE.
+This sign may be placed on minor roads at their junctions with major roads. Apart from those covered by stop signs or other signals and shall indicate that no vehicle shall proceed past the transverse lines in Fig. No. 508 in Schedule 2 used in conjunction with the “give way” sign or enter onto the major road if there are no transverse lines or they are not for the time being visible in such a manner or at such a time as is likely to cause danger to the driver of any vehicle on the major road or as to necessitate the driver of such vehicle to change its speed or course in order to avoid an accident with another vehicle.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 409.
+This sign may be used in conjunction with the supplementary plate in Figure No. 409.
 
-(L.N. 72 of 1990)
+(L.N. 72 of 1990; E.R. 3 of 2024) Regulatory
 
-REGULATORY
+Figure No. 103 Manually Operated Temporary Sign
 
-FIGURE No. 103 MANUALLY OPERATED TEMPORARY SIGN
+This sign is used to indicate to vehicular traffic that it shall not proceed into the length of road where one way working is necessary.
 
-THIS SIGN IS USED TO INDICATE TO VEHICULAR TRAFFIC THAT IT SHALL NOT PROCEED INTO THE LENGTH OF ROAD WHERE ONE WAY WORKING IS NECESSARY.
+Regulatory
 
-REGULATORY
+Figure No. 104 Manually Operated Temporary Sign
 
-FIGURE No. 104 MANUALLY OPERATED TEMPORARY SIGN
+This sign is used to indicate to vehicular traffic that it may proceed into the length of road where one way working is necessary.
 
-THIS SIGN IS USED TO INDICATE TO VEHICULAR TRAFFIC THAT IT MAY PROCEED INTO THE LENGTH OF ROAD WHERE ONE WAY WORKING IS NECESSARY.
+Regulatory
 
-REGULATORY
+Figure No. 105 Stop Police
 
-FIGURE No. 105 STOP POLICE
+This sign is for use by the police to stop vehicles.
 
-THIS SIGN IS FOR USE BY THE POLICE TO STOP VEHICLES
+(E.R. 3 of 2024) Regulatory
 
-REGULATORY
+Figure No. 106 Ahead Only
 
-FIGURE No. 106 AHEAD ONLY
+This sign indicates that vehicles must proceed in the direction indicated by the arrow.
 
-THIS SIGN INDICATES THAT VEHICLES MUST PROCEED IN THE DIRECTION INDICATED BY THE ARROW.
+This sign may be used in conjunction with light signals or bollards and may be used in conjunction with the supplementary plates in Figure Nos. 401, 402, 403, 427, 431, 432.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH LIGHT SIGNALS OR BOLLARDS AND MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 401, 402, 403, 427, 431, 432.
+(L.N. 86 of 2001) Regulatory
 
-(L.N. 86 of 2001)
+Figure No. 107 Turn Left
 
-REGULATORY
+The direction of the arrow may be reversed to give—
 
-FIGURE No. 107 TURN LEFT
+Turn Right
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO GIVE:—
+This sign indicates that vehicles must proceed in the direction shown by the arrow.
 
-TURN RIGHT
+This sign may be used in conjunction with light signals or bollards and may be used in conjunction with the supplementary plates in Figure Nos. 401, 402, 403, 409, 427, 431, 432.
 
-THIS SIGN INDICATES THAT VEHICLES MUST PROCEED IN THE DIRECTION SHOWN BY THE ARROW.
+(L.N. 86 of 2001; E.R. 3 of 2024) Regulatory
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH LIGHT SIGNALS OR BOLLARDS AND MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 401, 402, 403, 409, 427, 431, 432.
+Figure No. 108 Keep Left
 
-(L.N. 86 of 2001)
+The direction of the arrow may be reversed to give—
 
-REGULATORY
+Keep Right
 
-FIGURE No. 108 KEEP LEFT
+The sign indicates that passage must be to the left (or to the right if the direction of the arrow is reversed) of some permanent or temporary obstruction.
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO GIVE:—
+This sign may be used in conjunction with bollards.
 
-KEEP RIGHT
+The sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 409.
 
-THE SIGN INDICATES THAT PASSAGE MUST BE TO THE LEFT (OR TO THE RIGHT IF THE DIRECTION OF THE ARROW IS REVERSED) OF SOME PERMANENT OR TEMPORARY OBSTRUCTION.
+(L.N. 63 of 2017; E.R. 3 of 2024) Regulatory
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH BOLLARDS.
+Figure No. 109 Turn Left Ahead
 
-THE SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 403, 409.
+The direction of the arrow may be reversed to give—
 
-(L.N. 63 of 2017)
+Turn Right Ahead
 
-REGULATORY
+This sign indicates that vehicles must turn in the direction shown by the arrow at the junction ahead.
 
-FIGURE No. 109 TURN LEFT AHEAD
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 401, 402, 403, 409, 427, 431, 432 and with light signals or bollards.
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO GIVE:—
+(L.N. 86 of 2001; E.R. 3 of 2024) Regulatory
 
-TURN RIGHT AHEAD
+Figure No. 110 Slow
 
-THIS SIGN INDICATES THAT VEHICLES MUST TURN IN THE DIRECTION SHOWN BY THE ARROW AT THE JUNCTION AHEAD.
+This sign is for use by the police in an emergency.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 401, 402, 403, 409, 427, 431, 432 AND WITH LIGHT SIGNALS OR BOLLARDS.
+(E.R. 3 of 2024) Regulatory
 
-(L.N. 86 of 2001)
+Figure No. 111 Pedestrian Priority Zone
 
-REGULATORY
+This sign denotes the commencement of a pedestrian priority zone in which vehicles are to give way to pedestrians.
 
-FIGURE No. 110 SLOW
+This sign may be used in conjunction with the supplementary plates in Figure No. 417.
 
-THIS SIGN IS FOR USE BY THE POLICE IN AN EMERGENCY
+Regulatory
 
-REGULATORY
+Figure No. 112 No Entry
 
-FIGURE No. 111 PEDESTRIAN PRIORITY ZONE
+This sign indicates that entry of all vehicular traffic is prohibited.
 
-THIS SIGN DENOTES THE COMMENCEMENT OF A PEDESTRIAN PRIORITY ZONE IN WHICH VEHICLES ARE TO GIVE WAY TO PEDESTRIANS.
+This sign may be used in conjunction with bollards and directional signs.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE No. 417.
+Regulatory
 
-REGULATORY
+Figure No. 113 All Vehicles Prohibited Both Directions
 
-FIGURE No. 112 NO ENTRY
+This sign prohibits entry to all vehicles in both directions. It is however not used by itself but always being qualified by the supplementary plates in Figure Nos. 403, 403A, 404, 405, 406, 427, 429, 431, 432.
 
-THIS SIGN INDICATES THAT ENTRY OF ALL VEHICULAR TRAFFIC IS PROHIBITED.
+(L.N. 291 of 1999; L.N. 86 of 2001; 20 of 2021 s. 94) Regulatory
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH BOLLARDS. AND DIRECTIONAL SIGNS.
+Figure No. 114 All Motor Vehicles Prohibited
 
-REGULATORY
+This sign prohibits the entry of all motor vehicles.
 
-FIGURE No. 113 ALL VEHICLES PROHIBITED BOTH DIRECTIONS
+When only motorcycle symbol is used, this sign prohibits the entry of motorcycles and motor tricycles.
 
-THIS SIGN PROHIBITS ENTRY TO ALL VEHICLES IN BOTH DIRECTIONS. IT IS HOWEVER NOT USED BY ITSELF BUT ALWAYS BEING QUALIFIED BY THE SUPPLEMENTARY PLATES IN FIGURE NOS. 403, 403A, 404, 405, 406, 427, 429, 431, 432.
+When only car symbol is used, this sign prohibits the entry of all motor vehicles except motorcycles and motor tricycles.
 
-(L.N. 291 of 1999; L.N. 86 of 2001; 20 of 2021 s. 94)
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 404, 405, 406, 429 or on direction signs.
 
-REGULATORY
+(L.N. 291 of 1999) Regulatory
 
-FIGURE No. 114 ALL MOTOR VEHICLES PROHIBITED
+Figure No. 115 Buses Prohibited
 
-THIS SIGN PROHIBITS THE ENTRY OF ALL MOTOR VEHICLES.
+This sign prohibits entry to buses.
 
-WHEN ONLY MOTORCYCLE SYMBOL IS USED, THIS SIGN PROHIBITS THE ENTRY OF MOTORCYCLES AND MOTOR TRICYCLES.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 405, 406.
 
-WHEN ONLY CAR SYMBOL IS USED, THIS SIGN PROHIBITS THE ENTRY OF ALL MOTOR VEHICLES EXCEPT MOTORCYCLES AND MOTOR TRICYCLES.
+Regulatory
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 403, 404, 405, 406, 429 OR ON DIRECTION SIGNS.
+Figure No. 116 Public Light Buses Prohibited
 
-(L.N. 291 of 1999)
+This sign prohibits entry to public light buses.
 
-REGULATORY
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 405, 406.
 
-FIGURE No. 115 BUSES PROHIBITED
+Regulatory
 
-THIS SIGN PROHIBITS ENTRY TO BUSES.
+Figure No. 117 Goods Vehicles Prohibited
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 403, 405, 406.
+This sign prohibits entry to all goods vehicles.
 
-REGULATORY
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 401, 404, 405, 406.
 
-FIGURE No. 116 PUBLIC LIGHT BUSES PROHIBITED
+Regulatory
 
-THIS SIGN PROHIBITS ENTRY TO PUBLIC LIGHT BUSES.
+Figure No. 118 All Motor Vehicles except Franchised Buses Prohibited from Using Left Most Lane
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 405, 406.
+For part time operation of the bus lane, the supplementary time plate in Figure No. 406 will be added.
 
-REGULATORY
+The number and direction of arrows may be altered to suit the number of lanes available.
 
-FIGURE No. 117 GOODS VEHICLES PROHIBITED
+The sign may be varied to indicate that motor vehicles except franchised buses are prohibited from using the middle or right most lane.
 
-THIS SIGN PROHIBITS ENTRY TO ALL GOODS VEHICLES
+Where other buses are permitted to use the lane in addition to franchised buses. The symbol in the above sign is to be replaced by “BUS 巴士”.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 401, 404, 405, 406
+(L.N. 72 of 1990; L.N. 63 of 2017) Regulatory
 
-REGULATORY
-
-FIGURE No. 118 ALL MOTOR VEHICLES EXCEPT FRANCHISED BUSES PROHIBITED FROM USING LEFT MOST LANE
-
-FOR PART TIME OPERATION OF THE BUS LANE, THE SUPPLEMENTARY TIME PLATE IN FIGURE NO. 406 WILL BE ADDED.
-
-THE NUMBER AND DIRECTION OF ARROWS MAY BE ALTERED TO SUIT THE NUMBER OF LANES AVAILABLE.
-
-THE SIGN MAY BE VARIED TO INDICATE THAT MOTOR VEHICLES EXCEPT FRANCHISED BUSES ARE PROHIBITED FROM USING THE MIDDLE OR RIGHT MOST LANE.
-
-WHERE OTHER BUSES ARE PERMITTED TO USE THE LANE IN ADDITION TO FRANCHISED BUSES. THE SYMBOL IN THE ABOVE SIGN IS TO BE REPLACED BY “BUS 巴士”.
-
-(L.N. 72 of 1990; L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 118A ALL MOTOR VEHICLES EXCEPT FRANCHISED BUSES PROHIBITED FROM USING RIGHT MOST LANE
+Figure No. 118A All Motor Vehicles except Franchised Buses Prohibited from Using Right Most Lane
 
 For part time operation of the bus lane, the supplementary time plate in Figure No. 406 will be added.
 
@@ -190,23 +174,19 @@ The sign may be varied to indicate that motor vehicles except franchised buses a
 
 Where other buses are permitted to use the lane in addition to franchised buses, the symbol in the above sign is to be replaced by “Bus 巴士”.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 119 Contra-flow Bus Lane
 
-FIGURE No. 119 CONTRA-FLOW BUS LANE
+To indicate in a one way street a traffic lane reserved for franchised buses proceeding in the opposite direction.
 
-TO INDICATE IN A ONE WAY STREET A TRAFFIC LANE RESERVED FOR FRANCHISED BUSES PROCEEDING IN THE OPPOSITE DIRECTION.
+The number of forward arrows may be altered according to the number of forward lanes available to normal traffic.
 
-THE NUMBER OF FORWARD ARROWS MAY BE ALTERED ACCORDING TO THE NUMBER OF FORWARD LANES AVAILABLE TO NORMAL TRAFFIC.
+Where the traffic lane may also be used by other buses, the symbol in the above sign is to be replaced by “BUS 巴士”.
 
-WHERE THE TRAFFIC LANE MAY ALSO BE USED BY OTHER BUSES, THE SYMBOL IN THE ABOVE SIGN IS TO BE REPLACED BY “BUS 巴士”.
+(L.N. 63 of 2017) Regulatory
 
-(L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 119A CONTRA-FLOW BUS LANE
+Figure No. 119A Contra-flow Bus Lane
 
 To indicate in a one way street a traffic lane reserved for franchised buses proceeding in the opposite direction.
 
@@ -214,383 +194,335 @@ The number of forward arrows may be altered according to the number of forward l
 
 Where the traffic lane may also be used by other buses, the symbol in the above sign is to be replaced by “Bus 巴士”.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 120 End of Bus Lane
 
-FIGURE No. 120 END OF BUS LANE
+This sign may be used to indicate the end of the bus lane and may be repeated at the opposite side of the road.
 
-THIS SIGN MAY BE USED TO INDICATE THE END OF THE BUS LANE AND MAY BE REPEATED AT THE OPPOSITE SIDE OF THE ROAD.
+Regulatory
 
-REGULATORY
+Figure No. 121 Learner Drivers Prohibited
 
-FIGURE No. 121 LEARNER DRIVERS PROHIBITED
+This sign prohibits the entry of motor vehicles driven by learner drivers.
 
-THIS SIGN PROHIBITS THE ENTRY OF MOTOR VEHICLES DRIVEN BY LEARNER DRIVERS.
+This sign may be used in conjunction with the supplementary plate in Figure No. 406 indicating the period during which the prohibition is in force.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 406 INDICATING THE PERIOD DURING WHICH THE PROHIBITION IS IN FORCE.
+(L.N. 263 of 1984) Regulatory
 
-(L.N. 263 of 1984)
+Figure No. 122 No Left Turn
 
-REGULATORY
+The symbol and the red diagonal line shall be reversed to give—
 
-FIGURE No. 122 NO LEFT TURN
+No Right Turn
 
-THE SYMBOL AND THE RED DIAGONAL LINE SHALL BE REVERSED TO GIVE—
+This sign indicates that left (or right if the direction of the symbol and the red diagonal line is reversed) turning movements of traffic are prohibited.
 
-NO RIGHT TURN
+The sign may be used in conjunction with traffic light signals and bollards and may be used in conjunction with the supplementary plates in Figure Nos. 401, 403, 406, 427, 431, 432.
 
-THIS SIGN INDICATES THAT LEFT (OR RIGHT IF THE DIRECTION OF THE SYMBOL AND THE RED DIAGONAL LINE IS REVERSED) TURNING MOVEMENTS OF TRAFFIC ARE PROHIBITED.
+(L.N. 86 of 2001; L.N. 63 of 2017) Regulatory
 
-THE SIGN MAY BE USED IN CONJUNCTION WITH TRAFFIC LIGHT SIGNALS AND BOLLARDS AND MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 401, 403, 406, 427, 431, 432.
-
-(L.N. 86 of 2001; L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 123 NO-U-TURNS
-
-THIS SIGN INDICATES THAT THE MAKING OF U-TURNS TO RETURN IN THE DIRECTION FROM WHICH ONE CAME IS PROHIBITED.
-
-THIS SIGN MAY BE USED IN CONJUNCTION WITH TRAFFIC SIGNALS AND THE SUPPLEMENTARY PLATE IN FIGURE NO. 417 OR 420 TO INDICATE THE LENGTH OVER WHICH THE PROHIBITION APPLIES.
-
-(L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 123A NO-U-TURNS
+Figure No. 123 No-U-Turns
 
 This sign indicates that the making of U-turns to return in the direction from which one came is prohibited.
 
 This sign may be used in conjunction with traffic signals and the supplementary plate in Figure No. 417 or 420 to indicate the length over which the prohibition applies.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 123A No-U-Turns
 
-FIGURE No. 124 NO PEDESTRIANS
+This sign indicates that the making of U-turns to return in the direction from which one came is prohibited.
 
-THIS SIGN SHALL INDICATE THAT PEDESTRIANS AND PEDESTRIAN OPERATED OR CONTROLLED VEHICLES ARE PROHIBITED FROM PASSING BEYOND THE SIGN.
+This sign may be used in conjunction with traffic signals and the supplementary plate in Figure No. 417 or 420 to indicate the length over which the prohibition applies.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 417
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 124 No Pedestrians
 
-FIGURE No. 125 RICKSHAWS AND PEDESTRIAN - CONTROLLED VEHICLES PROHIBITED
+This sign shall indicate that pedestrians and pedestrian operated or controlled vehicles are prohibited from passing beyond the sign.
 
-THIS SIGN SHALL INDICATE THAT PEDESTRIAN OPERATED OR CONTROLLED VEHICLES. RICKSHAWS AND HANDCARTS ARE PROHIBITED FROM PASSING BEYOND THE SIGN.
+This sign may be used in conjunction with the supplementary plate in Figure No. 417.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE No. 417.
+(E.R. 3 of 2024) Regulatory
 
-REGULATORY
+Figure No. 125 Rickshaws and Pedestrian-controlled Vehicles Prohibited
 
-FIGURE No. 126 NO PEDESTRIANS NO CYCLISTS
+This sign shall indicate that pedestrian operated or controlled vehicles, rickshaws and handcarts are prohibited from passing beyond the sign.
 
-THIS SIGN SHALL INDICATE THAT BICYCLES, TRICYCLES, PEDESTRIANS AND PEDESTRIAN OPERATED OR CONTROLLED VEHICLES ARE PROHIBITED FROM PASSING BEYOND THE SIGN.
+This sign may be used in conjunction with the supplementary plates in Figure No. 417.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 417.
+Regulatory
 
-REGULATORY
+Figure No. 126 No Pedestrians No Cyclists
 
-FIGURE No. 127 NO CYCLISTS
+This sign shall indicate that bicycles, tricycles, pedestrians and pedestrian operated or controlled vehicles are prohibited from passing beyond the sign.
 
-THIS SIGN SHALL INDICATE THAT BICYCLES AND TRICYCLES ARE PROHIBITED FROM PASSING BEYOND THE SIGN.
+This sign may be used in conjunction with the supplementary plate in Figure No. 417.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 417.
+Regulatory
 
-REGULATORY
+Figure No. 127 No Cyclists
 
-FIGURE No. 128 SILENT ZONE
+This sign shall indicate that bicycles and tricycles are prohibited from passing beyond the sign.
 
-THIS SIGN MAY BE USED ON A ROAD TO INDICATE THAT THE USE OF AN AUDIBLE WARNING SYSTEM IS PROHIBITED WITHIN THE AREA COVERED BY THE RESTRICTION.
+This sign may be used in conjunction with the supplementary plate in Figure No. 417.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 406, 417, 420.
+Regulatory
 
-REGULATORY
+Figure No. 128 Silent Zone
 
-FIGURE No. 129 NO OVERTAKING
+This sign may be used on a road to indicate that the use of an audible warning system is prohibited within the area covered by the restriction.
 
-THIS SIGN PROHIBITS THE OVERTAKING OF MOTOR VEHICLES.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 406, 417, 420.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 417 OR 420.
+Regulatory
 
-(L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 129A NO OVERTAKING
+Figure No. 129 No Overtaking
 
 This sign prohibits the overtaking of motor vehicles.
 
 This sign may be used in conjunction with the supplementary plate in Figure No. 417 or 420.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 129A No Overtaking
 
-FIGURE No. 130 KEEP LEFT
+This sign prohibits the overtaking of motor vehicles.
 
-THIS SIGN INDICATES THAT VEHICLES MUST USE THE LEFT MOST LANE EXCEPT WHEN OVERTAKING.
+This sign may be used in conjunction with the supplementary plate in Figure No. 417 or 420.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 130 Keep Left
 
-FIGURE No. 130A KEEP RIGHT
+This sign indicates that vehicles must use the left most lane except when overtaking.
+
+(L.N. 63 of 2017) Regulatory
+
+Figure No. 130A Keep Right
 
 This sign indicates that vehicles must use the right most lane except when overtaking.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 131 Width Limit
 
-FIGURE No. 131 WIDTH LIMIT
+This sign indicates that vehicles exceeding the width indicated are prohibited from entering.
 
-THIS SIGN INDICATES THAT VEHICLES EXCEEDING THE WIDTH INDICATED ARE PROHIBITED FROM ENTERING.
+The numerals on the sign may be altered to suit different width restrictions.
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT WIDTH RESTRICTIONS.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 404, 405.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 404, 405.
+Regulatory
 
-REGULATORY
+Figure No. 132 Prohibition of All Vehicles of Certain Lengths
 
-FIGURE No. 132 PROHIBITION OF ALL VEHICLES OF CERTAIN LENGTHS
+This sign indicates that all vehicles or combinations of vehicles exceeding the length indicated are prohibited.
 
-THIS SIGN INDICATES THAT ALL VEHICLES OR COMBINATIONS OF VEHICLES EXCEEDING THE LENGTH INDICATED ARE PROHIBITED
+The numerals on the sign may be altered to suit different length restrictions.
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT LENGTH RESTRICTIONS.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 404, 405.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 403, 404, 405.
+(E.R. 3 of 2024) Regulatory
 
-REGULATORY
+Figure No. 133 Height Limit
 
-FIGURE No. 133 HEIGHT LIMIT
+This sign indicates that vehicles with an over-all height in excess of the height indicated are prohibited from entering.
 
-THIS SIGN INDICATES THAT VEHICLES WITH AN OVER-ALL HEIGHT IN EXCESS OF THE HEIGHT INDICATED ARE PROHIBITED FROM ENTERING.
+The numerals on the sign may be altered to suit different height restrictions.
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT HEIGHT RESTRICTIONS.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 404, 405.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 403, 404, 405.
+Regulatory
 
-REGULATORY
+Figure No. 134 Weight Limit
 
-FIGURE No. 134 WEIGHT LIMIT
+This sign indicates that vehicles with a gross vehicle weight in excess of the weight indicated are prohibited from passing the sign.
 
-THIS SIGN INDICATES THAT VEHICLES WITH A GROSS VEHICLE WEIGHT IN EXCESS OF THE WEIGHT INDICATED ARE PROHIBITED FROM PASSING THE SIGN.
+The numerals on the sign may be altered to suit different weight restrictions.
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT WEIGHT RESTRICTIONS.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 404, 405, 406.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 403, 404, 405, 406.
+Regulatory
 
-REGULATORY
+Figure No. 135 Axle Weight Limit
 
-FIGURE No. 135 AXLE WEIGHT LIMIT
+This sign indicates that vehicles with an axle weight in excess of the weight indicated are prohibited from passing the sign.
 
-THIS SIGN INDICATES THAT VEHICLES WITH AN AXLE WEIGHT IN EXCESS OF THE WEIGHT INDICATED ARE PROHIBITED FROM PASSING THE SIGN.
+The numerals on the sign may be altered to suit different weight restrictions.
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT WEIGHT RESTRICTIONS.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 403, 404, 405, 406.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 403, 404, 405, 406.
+Regulatory
 
-REGULATORY
+Figure No. 136 Speed Limit
 
-FIGURE No. 136 SPEED LIMIT
+This sign indicates that a speed limit of 50 km per hour is imposed on the section of the road immediately following the sign.
 
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 50 km PER HOUR IS IMPOSED ON THE SECTION OF THE ROAD IMMEDIATELY FOLLOWING THE SIGN.
+The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic.
 
-THE SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AND/OR ON A CENTRAL RESERVATION IN THE CASE OF A DUAL CARRIAGEWAY AT THE START OF A RESTRICTION FACING ONCOMING TRAFFIC.
+The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 
-THE 300mm SIZED SIGN MAY ALSO BE ERECTED AT INTERVALS ALONG THE ROAD TO REMIND MOTORISTS OF THE SPEED LIMIT IN FORCE.
+The numerals in the sign may be altered to suit the speed limit required.
 
-THE NUMERALS IN THE SIGN MAY BE ALTERED TO SUIT THE SPEED LIMIT REQUIRED.
+This sign may be used without the letters “km/h”.
 
-THIS SIGN MAY BE USED WITHOUT THE LETTERS “km/h”.
+(L.N. 291 of 1999; E.R. 3 of 2024) Regulatory
 
-(L.N. 291 of 1999)
+Figure No. 137 Footway & Cycleway
 
-REGULATORY
+Sign to indicate an adjoining cycleway and footway and that the cycleway is to be used by pedal cyclists only and the footway by pedestrians only.
 
-FIGURE No. 137 FOOTWAY & CYCLEWAY
+The symbols may be reversed to show the footway and cycleway on opposite sides.
 
-SIGN TO INDICATE AN ADJOINING CYCLEWAY AND FOOTWAY AND THAT THE CYCLEWAY IS TO BE USED BY PEDAL CYCLISTS ONLY AND THE FOOTWAY BY PEDESTRIANS ONLY.
+Where the cycleway is provided alongside route for other vehicular traffic the cyclist must use the former.
 
-THE SYMBOLS MAY BE REVERSED TO SHOW THE FOOTWAY AND CYCLEWAY ON OPPOSITE SIDES.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 417, 428.
 
-WHERE THE CYCLEWAY IS PROVIDED ALONGSIDE ROUTE FOR OTHER VEHICULAR TRAFFIC THE CYCLIST MUST USE THE FORMER.
+(L.N. 305 of 1989) Regulatory
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 417, 428.
+Figure No. 138 Cycles Only
 
-(L.N. 305 of 1989)
+This sign indicates that the route is to be used by pedal cyclists only where such a route is provided alongside a route for other vehicular traffic the cycles must use the former.
 
-REGULATORY
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 417, 428.
 
-FIGURE No. 138 CYCLES ONLY
+(L.N. 305 of 1989; E.R. 3 of 2024) Regulatory
 
-THIS SIGN INDICATES THAT THE ROUTE IS TO BE USED BY PEDAL CYCLISTS ONLY WHERE SUCH A ROUTE IS PROVIDED ALONG SIDE A ROUTE FOR OTHER VEHICULAR TRAFFIC THE CYCLES MUST USE THE FORMER.
+Figure No. 139 One Way Traffic
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 417, 428.
+This sign informs motorists of the direction of permitted traffic flow on a one way street it may be placed at the entry to the one way street and at convenient locations along that street where other streets join it.
 
-(L.N. 305 of 1989)
+Regulatory
 
-REGULATORY
+Figure No. 140 No Stopping
 
-FIGURE No. 139 ONE WAY TRAFFIC
+This sign indicates that the stopping of motor vehicles except for franchised buses at designated bus stops is prohibited unless the vehicle is prevented from proceeding due to traffic conditions.
 
-THIS SIGN INFORMS MOTORISTS OF THE DIRECTION OF PERMITTED TRAFFIC FLOW ON A ONE WAY STREET IT MAY BE PLACED AT THE ENTRY TO THE ONE WAY STREET AND AT CONVENIENT LOCATIONS ALONG THAT STREET WHERE OTHER STREETS JOIN IT.
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 406, 407, 408, 417, 420, 427, 429, 430.
 
-REGULATORY
+(L.N. 291 of 1999; L.N. 66 of 2005) Regulatory
 
-FIGURE No. 140 NO STOPPING
+Figure No. 141
 
-THIS SIGN INDICATES THAT THE STOPPING OF MOTOR VEHICLES EXCEPT FOR FRANCHISED BUSES AT DESIGNATED BUS STOPS IS PROHIBITED UNLESS THE VEHICLE IS PREVENTED FROM PROCEEDING DUE TO TRAFFIC CONDITIONS.
+(Repealed L.N. 66 of 2005) Regulatory
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 406, 407, 408, 417, 420, 427, 429, 430.
+Figure No. 142
 
-(L.N. 291 of 1999; L.N. 66 of 2005)
+(Repealed L.N. 66 of 2005) Regulatory
 
-REGULATORY
+Figure No. 143
 
-FIGURE No. 141
+(Repealed L.N. 66 of 2005) Regulatory
 
-(Repealed L.N. 66 of 2005)
+Figure No. 144
 
-REGULATORY
+(Repealed L.N. 66 of 2005) Regulatory
 
-FIGURE No. 142
+Figure No. 145 Hard Shoulder
 
-(Repealed L.N. 66 of 2005)
+This sign shall be erected to indicate that the part of the verge adjacent to the carriageway, and demarcated by the road marking shown in Figure No. 505 in Schedule 2, is for use by vehicles in emergencies only, and not for the parking of vehicles or for use as part of the carriageway for through vehicles.
 
-REGULATORY
+Regulatory
 
-FIGURE No. 143
+Figure No. 146 Traffic Cone
 
-(Repealed L.N. 66 of 2005)
+Conical traffic cone to delineate the edge of a route for vehicular traffic to avoid a part of the carriageway.
 
-REGULATORY
+The white and red colours may be achieved by means of a reflective material.
 
-FIGURE No. 144
+(L.N. 72 of 1990) Regulatory
 
-(Repealed L.N. 66 of 2005)
+Figure No. 147 Traffic Cone
 
-REGULATORY
+Cylindrical traffic cone to indicate the temporary division of traffic flows in opposing directions on one carriageway, or to mark a boundary between two carriageways of a dual carriageway which may not be crossed except for fire service, ambulance, police or customs and excise purposes, or to delineate the edge of a temporary diversion of a route for vehicular traffic.
 
-FIGURE No. 145 HARD SHOULDER
+The white colours shall be achieved by means of a reflective material. The red colours may be achieved by means of a reflective material.
 
-THIS SIGN SHALL BE ERECTED TO INDICATE THAT THE PART OF THE VERGE ADJACENT TO THE CARRIAGEWAY, AND DEMARCATED BY THE ROAD MARKING SHOWN IN FIGURE No. 505 IN SCHEDULE 2, IS FOR USE BY VEHICLES IN EMERGENCIES ONLY, AND NOT FOR THE PARKING OF VEHICLES OR FOR USE AS PART OF THE CARRIAGEWAY FOR THROUGH VEHICLES.
+Regulatory
 
-REGULATORY
+Figure No. 148 Stopping Place Indicator
 
-FIGURE No. 146 TRAFFIC CONE
+This sign is to indicate to vehicular traffic the place beyond which traffic shall not proceed when a temporary red light signal is displayed and no stop line is placed on the carriageway.
 
-CONICAL TRAFFIC CONE TO DELINEATE THE EDGE OF A ROUTE FOR VEHICULAR TRAFFIC TO AVOID A PART OF THE CARRIAGEWAY.
+Regulatory
 
-THE WHITE AND RED COLOURS MAY BE ACHIEVED BY MEANS OF A REFLECTIVE MATERIAL.
+Figure No. 149 Road Closed
 
-(L.N. 72 of 1990)
+This sign may be placed on or near a road to indicate that the road has been closed.
 
-REGULATORY
+This sign may be used with the supplementary plates in Figure Nos. 405 and 433.
 
-FIGURE No. 147 TRAFFIC CONE
+(L.N. 16 of 2007) Regulatory
 
-CYLINDRICAL TRAFFIC CONE TO INDICATE THE TEMPORARY DIVISION OF TRAFFIC FLOWS IN OPPOSING DIRECTIONS ON ONE CARRIAGEWAY, OR TO MARK A BOUNDARY BETWEEN TWO CARRIAGEWAYS OF A DUAL CARRIAGEWAY WHICH MAY NOT BE CROSSED EXCEPT FOR FIRE SERVICE, AMBULANCE, POLICE OR CUSTOMS AND EXCISE PURPOSES, OR TO DELINEATE THE EDGE OF A TEMPORARY DIVERSION OF A ROUTE FOR VEHICULAR TRAFFIC.
+Figure No. 150 Entry Point
 
-THE WHITE COLOURS SHALL BE ACHIEVED BY MEANS OF A REFLECTIVE MATERIAL. THE RED COLOURS MAY BE ACHIEVED BY MEANS OF A REFLECTIVE MATERIAL.
+This sign is used to regulate traffic movements at car parks, filling stations or other premises with more than one access to the road. It is used in conjunction with the signs at Figure Nos 151, 152, 153.
 
-REGULATORY
+Regulatory
 
-FIGURE No. 148 STOPPING PLACE INDICATOR
+Figure No. 151 Exit Point
 
-THIS SIGN IS TO INDICATE TO VEHICULAR TRAFFIC THE PLACE BEYOND WHICH TRAFFIC SHALL NOT PROCEED WHEN A TEMPORARY RED LIGHT SIGNAL IS DISPLAYED AND NO STOP LINE IS PLACED ON THE CARRIAGEWAY.
+This sign is used to regulate traffic movements at car parks, filling stations or other premises with more than one access to the road. It is used in conjunction with the signs at Figure Nos. 150, 152, 153.
 
-REGULATORY
+Regulatory
 
-FIGURE No. 149 ROAD CLOSED
+Figure No. 152 Exit Restriction
 
-THIS SIGN MAY BE PLACED ON OR NEAR A ROAD TO INDICATE THAT THE ROAD HAS BEEN CLOSED.
+This sign is used to regulate traffic movements at car parks, filling stations or other premises with more than one access to the road. It is used in conjunction with the signs at Figure Nos. 150, 151, 153.
 
-THIS SIGN MAY BE USED WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 405 AND 433.
+Regulatory
 
-(L.N. 16 of 2007)
+Figure No. 153 Access Restriction
 
-REGULATORY
+This sign is used to regulate traffic movements at car parks, filling stations or other premises with more than one access to the road. It is used in conjunction with the signs at Figure Nos. 150, 151, 152.
 
-FIGURE No. 150 ENTRY POINT
+Regulatory
 
-THIS SIGN IS USED TO REGULATE TRAFFIC MOVEMENTS AT CAR PARKS, FILLING STATIONS OR OTHER PREMISES WITH MORE THAN ONE ACCESS TO THE ROAD. IT IS USED IN CONJUNCTION WITH THE SIGNS AT FIGURE NOS 151, 152, 153.
+Figure No. 154 Cyclists Dismount
 
-REGULATORY
+This sign indicates to cyclists that they must dismount and use the pedestrian crossing when crossing the road.
 
-FIGURE No. 151 EXIT POINT
+Regulatory
 
-THIS SIGN IS USED TO REGULATE TRAFFIC MOVEMENTS AT CAR PARKS, FILLING STATIONS OR OTHER PREMISES WITH MORE THAN ONE ACCESS TO THE ROAD. IT IS USED IN CONJUNCTION WITH THE SIGNS AT FIGURE NOS. 150, 152, 153
+Figure No. 155 Cycling Restriction
 
-REGULATORY
+This sign shall indicate that cycling is prohibited beyond the sign and cyclists must dismount and push their bicycle or tricycle if they wish to proceed beyond the sign.
 
-FIGURE No. 152 EXIT RESTRICTION
+(L.N. 72 of 1990) Regulatory
 
-THIS SIGN IS USED TO REGULATE TRAFFIC MOVEMENTS AT CAR PARKS, FILLING STATIONS OR OTHER PREMISES WITH MORE THAN ONE ACCESS TO THE ROAD. IT IS USED IN CONJUNCTION WITH THE SIGNS AT FIGURE NOS. 150, 151, 153.
+Figure No. 156 End of Cycling Restriction
 
-REGULATORY
+This sign shall indicate the end of a cycling restriction indicated by the traffic sign of the type shown in Figure No. 155.
 
-FIGURE No. 153 ACCESS RESTRICTION
+(L.N. 72 of 1990) Regulatory
 
-THIS SIGN IS USED TO REGULATE TRAFFIC MOVEMENTS AT CAR PARKS, FILLING STATIONS OR OTHER PREMISES WITH MORE THAN ONE ACCESS TO THE ROAD. IT IS USED IN CONJUNCTION WITH THE SIGNS AT FIGURE NOS. 150, 151, 152.
+Figure No. 159 Vehicles of the North-west Railway and Trams Only
 
-REGULATORY
+This sign prohibits the entry of all vehicles except vehicles of the North-west Railway and trams and such vehicles as are authorized to enter by the Kowloon-Canton Railway Corporation, the MTR Corporation Limited or the Hong Kong Tramways Limited, as the case may be, and prohibits the entry of all persons except those persons authorized to enter by the Kowloon-Canton Railway Corporation, the MTR Corporation Limited or the Hong Kong Tramways Limited, as the case may be.
 
-FIGURE No. 154 CYCLISTS DISMOUNT
+(L.N. 242 of 1987; 11 of 2007 s. 36) Regulatory
 
-THIS SIGN INDICATES TO CYCLISTS THAT THEY MUST DISMOUNT AND USE THE PEDESTRIAN CROSSING WHEN CROSSING THE ROAD.
+Figure No. 160 Vehicles of the North-west Railway Speed Limit
 
-REGULATORY
+This sign indicates that a speed limit of 10 km per hour is imposed on all vehicles of the North-west Railway on the section of road immediately following the sign, notwithstanding any other speed limit that may be imposed on all other vehicles. This sign may be erected on both sides of the road at the start of the restriction facing oncoming vehicles of the North-west Railway.
 
-FIGURE No. 155 CYCLING RESTRICTION
+The numerals on the sign may be altered to suit the speed limit required.
 
-THIS SIGN SHALL INDICATE THAT CYCLING IS PROHIBITED BEYOND THE SIGN AND CYCLISTS MUST DISMOUNT AND PUSH THEIR BICYCLE OR TRICYCLE IF THEY WISH TO PROCEED BEYOND THE SIGN.
+(L.N. 242 of 1987) Regulatory
 
-(L.N. 72 of 1990)
+Figure No. 161 Goods Vehicles Keep to Left Most Lane
 
-REGULATORY
+This sign indicates that goods vehicles with a gross vehicle weight in excess of that indicated must keep to the left most lane within the area covered by the restriction.
 
-FIGURE No. 156 END OF CYCLING RESTRICTION
+The numerals on the sign may be altered to suit different weight limits.
 
-THIS SIGN SHALL INDICATE THE END OF A CYCLING RESTRICTION INDICATED BY THE TRAFFIC SIGN OF THE TYPE SHOWN IN FIGURE No. 155.
+This sign may be used in conjunction with the supplementary plate in Figure No. 417.
 
-(L.N. 72 of 1990)
+(L.N. 147 of 1990; L.N. 63 of 2017) Regulatory
 
-REGULATORY
-
-FIGURE No. 159 VEHICLES OF THE NORTH-WEST RAILWAY AND TRAMS ONLY
-
-THIS SIGN PROHIBITS THE ENTRY OF ALL VEHICLES EXCEPT VEHICLES OF THE NORTH-WEST RAILWAY AND TRAMS AND SUCH VEHICLES AS ARE AUTHORIZED TO ENTER BY THE KOWLOON-CANTON RAILWAY CORPORATION, THE MTR CORPORATION LIMITED OR THE HONG KONG TRAMWAYS LIMITED, AS THE CASE MAY BE, AND PROHIBITS THE ENTRY OF ALL PERSONS EXCEPT THOSE PERSONS AUTHORIZED TO ENTER BY THE KOWLOON-CANTON RAILWAY CORPORATION, THE MTR CORPORATION LIMITED OR THE HONG KONG TRAMWAYS LIMITED, AS THE CASE MAY BE.
-
-(L.N. 242 of 1987; 11 of 2007 s. 36)
-
-REGULATORY
-
-FIGURE No. 160 VEHICLES OF THE NORTH-WEST RAILWAY SPEED LIMIT
-
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 10 km PER HOUR IS IMPOSED ON ALL VENICLES OF THE NORTH-WEST RAILWAY ON THE SECTION OF ROAD IMMEDIATELY FOLLOWING THE SIGN, NOTWITHSTANDING ANY OTHER SPEED LIMIT THAT MAY BE IMPOSED ON ALL OTHER VENICLES. THIS SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AT THE START OF THE RESTRICTION FACING ONCOMING VENICLES OF THE NORTH-WEST RAILWAY.
-
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT THE SPEED LIMIT REQUIRED.
-
-(L.N. 242 of 1987)
-
-REGULATORY
-
-FIGURE No. 161 GOODS VEHICLES KEEP TO LEFT MOST LANE
-
-THIS SIGN INDICATES THAT GOODS VEHICLES WITH A GROSS VEHICLE WEIGHT IN EXCESS OF THAT INDICATED MUST KEEP TO THE LEFT MOST LANE WITHIN THE AREA COVERED BY THE RESTRICTION.
-
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT WEIGHT LIMITS.
-
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 417.
-
-(L.N. 147 of 1990; L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 161A GOODS VEHICLES KEEP TO RIGHT MOST LANE
+Figure No. 161A Goods Vehicles Keep to Right Most Lane
 
 This sign indicates that goods vehicles with a gross vehicle weight in excess of that indicated must keep to the right most lane within the area covered by the restriction.
 
@@ -598,45 +530,37 @@ The numerals on the sign may be altered to suit different weight limits.
 
 This sign may be used in conjunction with the supplementary plate in Figure No. 417.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 162 Go to Weighstation
 
-FIGURE No. 162 GO TO WEIGHSTATION
+This sign when displayed indicates that the vehicle passing the sign must proceed to the weighstation at the next junction.
 
-THIS SIGN WHEN DISPLAYED INDICATES THAT THE VEHICLE PASSING THE SIGN MUST PROCEED TO THE WEIGHSTATION AT THE NEXT JUNCTION.
+The direction of the arrow may be altered.
 
-THE DIRECTION OF THE ARROW MAY BE ALTERED.
+(L.N. 147 of 1990) Regulatory
 
-(L.N. 147 of 1990)
+Figure No. 163 End of Rail Only Lane
 
-REGULATORY
+This sign may be used to indicate the end of rail only lane for vehicles of the North-west Railway.
 
-FIGURE No. 163 END OF RAIL ONLY LANE
+The word “rail” and characters “輕鐵” may be changed to “tram” and “電車” to indicate the end of tram only lane for trams.
 
-THIS SIGN MAY BE USED TO INDICATE THE END OF RAIL ONLY LANE FOR VEHICLES OF THE NORTH-WEST RAILWAY.
+(L.N. 291 of 1999) Regulatory
 
-THE WORD “rail” AND CHARACTERS “輕鐵” MAY BE CHANGED TO “tram” AND “電車” TO INDICATE THE END OF TRAM ONLY LANE FOR TRAMS.
+Figure No. 164 All Motor Vehicles except Franchised Buses Prohibited from Using Left Most Lane
 
-(L.N. 291 of 1999)
+The operation time period may be varied to specify any periods of time or times or in 24-hour time display without the words “am” and “上午” or “pm” and “下午”, and to specify any day or days. “Except General Holidays” and “公眾假期例外” may be deleted for operation on all days.
 
-REGULATORY
+The number and direction of arrows may be altered to suit the number of lanes available.
 
-FIGURE No. 164 ALL MOTOR VEHICLES EXCEPT FRANCHISED BUSES PROHIBITED FROM USING LEFT MOST LANE
+The sign may be varied to indicate that motor vehicles except franchised buses are prohibited from using the middle or right most lane.
 
-THE OPERATION TIME PERIOD MAY BE VARIED TO SPECIFY ANY PERIODS OF TIME OR TIMES OR IN 24-HOUR TIME DISPLAY WITHOUT THE WORDS “am” AND “上午” OR “pm” AND “下午”, AND TO SPECIFY ANY DAY OR DAYS. “EXCEPT GENERAL HOLIDAYS” AND “公眾假期例外” MAY BE DELETED FOR OPERATION ON ALL DAYS.
+Where other buses are permitted to use the lane in addition to franchised buses, the symbol in the above sign is to be replaced by “BUS 巴士”.
 
-THE NUMBER AND DIRECTION OF ARROWS MAY BE ALTERED TO SUIT THE NUMBER OF LANES AVAILABLE.
+(L.N. 86 of 2001; L.N. 63 of 2017) Regulatory
 
-THE SIGN MAY BE VARIED TO INDICATE THAT MOTOR VEHICLES EXCEPT FRANCHISED BUSES ARE PROHIBITED FROM USING THE MIDDLE OR RIGHT MOST LANE.
-
-WHERE OTHER BUSES ARE PERMITTED TO USE THE LANE IN ADDITION TO FRANCHISED BUSES, THE SYMBOL IN THE ABOVE SIGN IS TO BE REPLACED BY “BUS 巴士”.
-
-(L.N. 86 of 2001: L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 164A ALL MOTOR VEHICLES EXCEPT FRANCHISED BUSES PROHIBITED FROM USING RIGHT MOST LANE
+Figure No. 164A All Motor Vehicles except Franchised Buses Prohibited from Using Right Most Lane
 
 The operation time period may be varied to specify any periods of time or times or in 24-hour time display without the words “am” and “上午” or “pm” and “下午”, and to specify any day or days. “Except General Holidays” and “公眾假期例外” may be deleted for operation on all days.
 
@@ -646,117 +570,95 @@ The sign may be varied to indicate that motor vehicles except franchised buses a
 
 Where other buses are permitted to use the lane in addition to franchised buses, the symbol in the above sign is to be replaced by “Bus 巴士”.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 165 “No Stopping” Zone
 
-FIGURE No. 165 “NO STOPPING” ZONE
+This sign shall be erected facing oncoming vehicles to indicate the start of a no stopping zone where restrictions on stopping for all vehicles except franchised buses at designated bus stops apply. The times may be varied to specify any periods of time or times or in 24-hour time display without the words “am” and “上午” and/or “pm” and “下午”.
 
-THIS SIGN SHALL BE ERECTED FACING ONCOMING VEHICLES TO INDICATE THE START OF A NO STOPPING ZONE WHERE RESTRICTIONS ON STOPPING FOR ALL VEHICLES EXCEPT FRANCHISED BUSES AT DESIGNATED BUS STOPS APPLY. THE TIMES MAY BE VARIED TO SPECIFY ANY PERIODS OF TIME OR TIMES OR IN 24-HOUR TIME DISPLAY WITHOUT THE WORDS “am” AND “上午” AND/OR “pm” AND “下午”.
+Yellow background in the upper part of the sign may be varied to white for use at intervals along the route as reminders of the restrictions in force.
 
-YELLOW BACKGROUND IN THE UPPER PART OF THE SIGN MAY BE VARIED TO WHITE FOR USE AT INTERVALS ALONG THE ROUTE AS REMINDERS OF THE RESTRICTIONS IN FORCE.
+The sign may be used in conjunction with the supplementary plates in Figure Nos. 429, 430.
 
-THE SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 429, 430.
+(L.N. 86 of 2001) Regulatory
 
-(L.N. 86 of 2001)
+Figure No. 166 “No Stopping” Zone End
 
-REGULATORY
+This sign shall be erected facing oncoming vehicles to indicate the end of the no stopping zone.
 
-FIGURE No. 166 “NO STOPPING” ZONE END
+(L.N. 86 of 2001) Regulatory
 
-THIS SIGN SHALL BE ERECTED FACING ONCOMING VEHICLES TO INDICATE THE END OF THE NO STOPPING ZONE.
+Figure No. 167 Public Light Bus “No Stopping” Zone
 
-(L.N. 86 of 2001)
+This sign indicates the start of a zone where the stopping of public light buses is prohibited unless the vehicle is prevented from proceeding due to traffic conditions.
 
-REGULATORY
+The times may be varied to suit any periods of time or times or in 24-hour time display without the words “am” and “上午” and/or “pm” and “下午”.
 
-FIGURE No. 167 PUBLIC LIGHT BUS “NO STOPPING” ZONE
+The sign shall be erected facing oncoming vehicles to indicate the start of the restriction.
 
-THIS SIGN INDICATES THE START OF A ZONE WHERE THE STOPPING OF PUBLIC LIGHT BUSES IS PROHIBITED UNLESS THE VEHICLE IS PREVENTED FROM PROCEEDING DUE TO TRAFFIC CONDITIONS.
+Yellow background in the upper part of the sign may be varied to white for use at intervals along the route as reminders of the restrictions in force.
 
-THE TIMES MAY BE VARIED TO SUIT ANY PERIODS OF TIME OR TIMES OR IN 24-HOUR TIME DISPLAY WITHOUT THE WORDS “am” AND “上午” AND/OR “pm” AND “下午”.
+The public light bus symbol may be varied to the bus symbol shown in Figure No. 115 or the goods vehicle symbol shown in Figure No. 117 to indicate the start of no stopping zone for buses or goods vehicles respectively.
 
-THE SIGN SHALL BE ERECTED FACING ONCOMING VEHICLES TO INDICATE THE START OF THE RESTRICTION.
+The sign may be used in conjunction with the supplementary plate in Figure No. 429.
 
-YELLOW BACKGROUND IN THE UPPER PART OF THE SIGN MAY BE VARIED TO WHITE FOR USE AT INTERVALS ALONG THE ROUTE AS REMINDERS OF THE RESTRICTIONS IN FORCE.
+(L.N. 86 of 2001) Regulatory
 
-THE PUBLIC LIGHT BUS SYMBOL MAY BE VARIED TO THE BUS SYMBOL SHOWN IN FIGURE No. 115 OR THE GOODS VEHICLE SYMBOL SHOWN IN FIGURE No. 117 TO INDICATE THE START OF NO STOPPING ZONE FOR BUSES OR GOODS VEHICLES RESPECTIVELY.
+Figure No. 168 End of Public Light Bus “No Stopping” Zone
 
-THE SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 429.
+This sign shall be erected facing oncoming vehicles to indicate the end of a public light bus “no stopping” zone.
 
-(L.N. 86 of 2001)
+The public light bus symbol may be varied to the bus symbol shown in Figure No. 115 or the goods vehicle symbol shown in Figure No. 117 to indicate the end of no stopping zone for buses or goods vehicles respectively.
 
-REGULATORY
+(L.N. 86 of 2001) Regulatory
 
-FIGURE No. 168 END OF PUBLIC LIGHT BUS “NO STOPPING” ZONE
+Figure No. 169 Keep Left
 
-THIS SIGN SHALL BE ERECTED FACING ONCOMING VEHICLES TO INDICATE THE END OF A PUBLIC LIGHT BUS “NO STOPPING” ZONE.
+This sign is a variation in size of Figure No. 130.
 
-THE PUBLIC LIGHT BUS SYMBOL MAY BE VARIED TO THE BUS SYMBOL SHOWN IN FIGURE No. 115 OR THE GOODS VEHICLE SYMBOL SHOWN IN FIGURE No. 117 TO INDICATE THE END OF NO STOPPING ZONE FOR BUSES OR GOODS VEHICLES RESPECTIVELY.
+This sign indicates that vehicles must use the left most lane except when overtaking.
 
-(L.N. 86 of 2001)
+(L.N. 86 of 2001; L.N. 63 of 2017) Regulatory
 
-REGULATORY
-
-FIGURE No. 169 KEEP LEFT
-
-THIS SIGN IS A VARIATION IN SIZE OF FIGURE No. 130.
-
-THIS SIGN INDICATES THAT VEHICLES MUST USE THE LEFT MOST LANE EXCEPT WHEN OVERTAKING.
-
-(L.N. 86 of 2001; L.N. 63 of 2017)
-
-REGULATORY
-
-FIGURE No. 169A KEEP RIGHT
+Figure No. 169A Keep Right
 
 This sign is a variation in size of Figure No. 130A.
 
 This sign indicates that vehicles must use the right most lane except when overtaking.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Regulatory
 
-REGULATORY
+Figure No. 170 Lane Signal
 
-FIGURE No. 170 LANE SIGNAL
+This sign when displayed above a traffic lane indicates that vehicles may proceed or continue to do so in that lane beneath or beyond the sign and in the direction opposite to that in which the sign faces.
 
-THIS SIGN WHEN DISPLAYED ABOVE A TRAFFIC LANE INDICATES THAT VEHICLES MAY PROCEED OR CONTINUE TO DO SO IN THAT LANE BENEATH OR BEYOND THE SIGN AND IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE SIGN FACES.
+(L.N. 62 of 2007) Regulatory
 
-(L.N. 62 of 2007)
+Figure No. 171 Lane Signal
 
-REGULATORY
+This sign when displayed above a traffic lane indicates that vehicles shall not proceed beneath or beyond the sign in that lane in the direction opposite to that in which the sign faces.
 
-FIGURE No. 171 LANE SIGNAL
+(L.N. 62 of 2007) Regulatory
 
-THIS SIGN WHEN DISPLAYED ABOVE A TRAFFIC LANE INDICATES THAT VEHICLES SHALL NOT PROCEED BENEATH OR BEYOND THE SIGN IN THAT LANE IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE SIGN FACES.
+Figure No. 172 Lane Signal Proceed Left or Keep Left
 
-(L.N. 62 of 2007)
+The direction of the arrow may be reversed to indicate—
 
-REGULATORY
+Proceed Right or Keep Right
 
-FIGURE No. 172 LANE SIGNAL PROCEED LEFT OR KEEP LEFT
+This sign when displayed above a traffic lane indicates that vehicles must proceed or keep to the lane on the left-hand side (or to the lane on the right-hand side if the direction of the arrow is reversed) of the lane above which the sign is displayed.
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO INDICATE—
+(L.N. 62 of 2007; L.N. 63 of 2017) Regulatory
 
-PROCEED RIGHT OR KEEP RIGHT
+Figure No. 173 Variable Speed Limit
 
-THIS SIGN WHEN DISPLAYED ABOVE A TRAFFIC LANE INDICATES THAT VEHICLES MUST PROCEED OR KEEP TO THE LANE ON THE LEFT-HAND SIDE (OR TO THE LANE ON THE RIGHT-HAND SIDE IF THE DIRECTION OF THE ARROW IS REVERSED) OF THE LANE ABOVE WHICH THE SIGN IS DISPLAYED.
+This sign indicates that a speed limit of 80 km per hour is imposed on the section of the road immediately following the sign.
 
-(L.N. 62 of 2007; L.N. 63 of 2017)
+The numerals in the sign may be altered to suit the speed limit in force.
 
-REGULATORY
+(L.N. 62 of 2007) Regulatory
 
-FIGURE No. 173 VARIABLE SPEED LIMIT
-
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 80 km PER HOUR IS IMPOSED ON THE SECTION OF THE ROAD IMMEDIATELY FOLLOWING THE SIGN.
-
-THE NUMERALS IN THE SIGN MAY BE ALTERED TO SUIT THE SPEED LIMIT IN FORCE.
-
-(L.N. 62 of 2007)
-
-REGULATORY
-
-FIGURE No. 174 DANGEROUS GOODS PROHIBITED
+Figure No. 174 Dangerous Goods Prohibited
 
 (1) This sign indicates that the following vehicles are prohibited from passing beyond the sign—
 
@@ -816,199 +718,473 @@ FIGURE No. 174 DANGEROUS GOODS PROHIBITED
 
 (3) This sign may be used with the supplementary plate in Figure No. 434.
 
-(L.N. 153 of 2007; 29 of 2021 s. 36)
+(L.N. 153 of 2007; 29 of 2021 s. 36) Warning
 
-WARNING
+Figure No. 201 Stop or Give Way Sign Ahead
 
-FIGURE No. 201 STOP OR GIVE WAY SIGN AHEAD
+This sign warns of the approach to a “stop” or “give way” sign. It shall be used in conjunction with either of the supplementary plates shown in Figure Nos. 421, 422 indicating whether the approach is to “stop” or “give way” and the distance to the control.
 
-THIS SIGN WARNS OF THE APPROACH TO A ‘STOP’ OR ‘GIVE WAY’ SIGN. IT SHALL BE USED IN CONJUNCTION WITH EITHER OF THE SUPPLEMENTARY PLATES SHOWN IN FIGURE NOS. 421, 422 INDICATING WHETHER THE APPROACH IS TO ‘STOP’ OR ‘GIVE WAY’ AND THE DISTANCE TO THE CONTROL.
+(E.R. 3 of 2024) Warning
 
-WARNING
+Figure No. 202 Traffic Merges from Left
 
-FIGURE No. 202 TRAFFIC MERGES FROM LEFT
+The symbol may be reversed to give—
 
-THE SYMBOL MAY BE REVERSED TO GIVE
+Traffic Merges from Right
 
-TRAFFIC MERGES FROM RIGHT
+This sign indicates to motorists that although they are proceeding along a major road they are approaching a point where traffic will be merging (from right or left) on to their road.
 
-THIS SIGN INDICATES TO MOTORISTS THAT ALTHOUGH THEY ARE PROCEEDING ALONG A MAJOR ROAD THEY ARE APPROACHING A POINT WHERE TRAFFIC WILL BE MERGING (FROM RIGHT OR LEFT) ON TO THEIR ROAD.
+It may be used in conjunction with the supplementary plate in Figure No. 418.
 
-IT MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 418.
+(E.R. 3 of 2024) Warning
 
-WARNING
+Figure No. 203 Merging into Traffic on Right
 
-FIGURE No. 203 MERGING INTO TRAFFIC ON RIGHT
+The symbol may be reversed to give—
 
-THE SYMBOL MAY BE REVERSED TO GIVE
+Merging into Traffic on Left
 
-MERGING INTO TRAFFIC ON LEFT
+This sign indicates to motorists that they are approaching a major road and will be expected to merge with moving traffic on the major road.
 
-THIS SIGN INDICATES TO MOTORISTS THAT THEY ARE APPROACHING A MAJOR ROAD AND WILL BE EXPECTED TO MERGE WITH MOVING TRAFFIC ON THE MAJOR ROAD.
+This sign may be used in conjunction with the supplementary plate in Figure No. 418.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 418.
+(E.R. 3 of 2024) Warning
 
-WARNING
+Figure No. 204 Dual-carriageway Road Ends
 
-FIGURE No. 204 DUAL-CARRIAGEWAY ROAD ENDS
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 410, 418.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 410, 418.
+Warning
 
-WARNING
-
-FIGURE No. 205 TWO-WAY TRAFFIC
-
-THIS SIGN INFORMS ROAD USERS OF THE START OF A SECTION OF THE ROAD WHICH IS CARRYING TWO-WAY TRAFFIC ON THE SAME CARRIAGEWAY WHEN, ON THE PREVIOUS SECTION, TRAFFIC WAS CARRIED ON A ROAD COMPRISING ONE-WAY TRAFFIC CARRIAGEWAYS.
-
-(L.N. 63 of 2017)
-
-WARNING
-
-FIGURE No. 205A TWO-WAY TRAFFIC
+Figure No. 205 Two-way Traffic
 
 This sign informs road users of the start of a section of the road which is carrying two-way traffic on the same carriageway when, on the previous section, traffic was carried on a road comprising one-way traffic carriageways.
 
-(L.N. 63 of 2017)
+(L.N. 63 of 2017) Warning
 
-WARNING
+Figure No. 205A Two-way Traffic
 
-FIGURE No. 206 A ROAD OF TWO-WAY TRAFFIC ACROSS A ONE-WAY CARRIAGEWAY AHEAD
+This sign informs road users of the start of a section of the road which is carrying two-way traffic on the same carriageway when, on the previous section, traffic was carried on a road comprising one-way traffic carriageways.
 
-THIS SIGN INFORMS ROAD USERS ON A ONE-WAY CARRIAGEWAY THAT THEY ARE APPROACHING A ROAD WHICH JOINS OR CROSSES THE CARRIAGEWAY AND HAS TWO-WAY TRAFFIC.
+(L.N. 63 of 2017) Warning
 
-(L.N. 63 of 2017)
-
-WARNING
-
-FIGURE No. 206A A ROAD OF TWO-WAY TRAFFIC ACROSS A ONE-WAY CARRIAGEWAY AHEAD
+Figure No. 206 A Road of Two-way Traffic across a One-way Carriageway Ahead
 
 This sign informs road users on a one-way carriageway that they are approaching a road which joins or crosses the carriageway and has two-way traffic.
 
+(L.N. 63 of 2017) Warning
+
+Figure No. 206A A Road of Two-way Traffic across a One-way Carriageway Ahead
+
+This sign informs road users on a one-way carriageway that they are approaching a road which joins or crosses the carriageway and has two-way traffic.
+
+(L.N. 63 of 2017) Warning
+
+Figure No. 207 Traffic Signals Ahead
+
+This sign may be used in conjunction with the supplementary plate in Figure No. 418. It may be used to warn of permanent or temporary control of traffic ahead by traffic signals.
+
+Warning
+
+Figure No. 208 Bend to Left Ahead
+
+This symbol may be reversed to point to the right to give—
+
+Bend to Right Ahead
+
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 410, 416.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 209 Double Bend First to Right Ahead
+
+This symbol may be reversed to give—
+
+Double Bend First to Left Ahead
+
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 410, 416.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 210 Sharp Deviation
+
+This sign may be used where there is a sharp deviation in the road to the left or may be reversed to indicate a sharp deviation to the right. It is to be placed on the bend or deviation facing the approaching traffic. It may be used singly or on long bends multiple deviation signs may be used.
+
+This sign may also be used on roundabouts.
+
+Warning
+
+Figure No. 211 Road Narrows on Both Sides Ahead
+
+This sign indicates that the road ahead becomes narrower on both sides.
+
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 410, 411, 418, 419, 420 to warn of a temporary narrowing caused by road works or obstructions.
+
+Warning
+
+Figure No. 212 Road Narrows on Right Ahead
+
+The symbol may be reversed to give—
+
+Road Narrows on Left Ahead
+
+This sign indicates a road narrowing ahead on one side.
+
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 410, 411, 418, 419, 420 to warn of a temporary narrowing caused by road works or obstructions.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 213 Cross Roads Ahead
+
+This sign indicates the approach to cross roads.
+
+This sign may be used in conjunction with the supplementary plate in Figure No. 418.
+
+Warning
+
+Figure No. 214 T-junction Ahead
+
+This sign indicates the motorist is approaching a T-junction ahead.
+
+This sign may be used in conjunction with the supplementary plate in Figure No. 418. The symbol may be reversed.
+
+Warning
+
+Figure No. 215 Side Road to Right Ahead
+
+The symbol may be reversed to give—
+
+Side Road to Left Ahead
+
+This sign indicates the approach to a side road junction. This sign may be used in conjunction with the supplementary plate in Figure No. 418.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 216 Staggered Junction Left Turn First Ahead
+
+This symbol may be reversed to give—
+
+Staggered Junction Right Turn First Ahead
+
+This sign may be used in conjunction with the supplementary plate in Figure No. 418.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 217 Roundabout Ahead
+
+This sign may be used in conjunction with the supplementary plate in Figure No. 410 or 418.
+
 (L.N. 63 of 2017)
 
-WARNING
+Warning
 
-FIGURE No. 207 TRAFFIC SIGNALS AHEAD
+Figure No. 217A Roundabout Ahead
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 418. IT MAY BE USED TO WARN OF PERMANENT OR TEMPORARY CONTROL OF TRAFFIC AHEAD BY TRAFFIC SIGNALS
+This sign may be used in conjunction with the supplementary plate in Figure No. 410 or 418.
 
-WARNING
+(L.N. 63 of 2017)
 
-FIGURE No. 208 BEND TO LEFT AHEAD
+Warning
 
-THIS SYMBOL MAY BE REVERSED TO POINT TO THE RIGHT TO GIVE
+Figure No. 218 Steep Hill Downwards Ahead
 
-BEND TO RIGHT AHEAD
+This sign indicating a steep hill, downwards, may be used at or near the top of a hill when the gradient of the hill is 1:10 or steeper. The sign may be used in conjunction with the supplementary plates in Figure Nos. 418, 419, 420, 423, 424, 425. The numerals on the sign may be changed to indicate different hill gradients.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 410, 416.
+Warning
 
-WARNING
+Figure No. 219 Steep Hill Upwards Ahead
 
-FIGURE No. 209 DOUBLE BEND FIRST TO RIGHT AHEAD
+This sign indicating a steep hill upward may be used at or near the foot of a hill when the gradient of a hill is 1:10 or steeper. This sign may be used in conjunction with the supplementary plates in Figure Nos. 418, 419, 420, 423, 424, 425. The numerals on the sign may be changed to indicate different hill gradients.
 
-THIS SYMBOL MAY BE REVERSED TO GIVE
+Warning
 
-DOUBLE BEND FIRST TO LEFT AHEAD
+Figure No. 220 Uneven Road Surface
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 410, 416.
+This sign may be used to indicate any uneven road surface ahead whether of a permanent or temporary nature. This sign may be used in conjunction with the supplementary plate in Figure No. 418.
 
-WARNING
+Warning
 
-FIGURE No. 210 SHARP DEVIATION
+Figure No. 221 Height Restricted Ahead
 
-THIS SIGN MAY BE USED WHERE THERE IS A SHARP DEVIATION IN THE ROAD TO THE LEFT OR MAY BE REVERSED TO INDICATE A SHARP DEVIATION TO THE RIGHT. IT IS TO BE PLATED ON THE BEND OR DEVIATION FACING THE APPROACHING TRAFFIC. IT MAY BE USED SINGLY OR ON LONG BENDS MULTIPLE DEVIATION SIGNS MAY BE USED.
+This sign warns of a height restriction ahead. This sign may be used in conjunction with the supplementary plates in Figure Nos. 418, 419. The numerals in the above sign may be altered to cater for different height restrictions.
 
-THE SIGN MAY ALSO BE USED ON ROUNDABOUTS.
+Warning
 
-WARNING
+Figure No. 222 Height Restriction
 
-FIGURE No. 211 ROAD NARROWS ON BOTH SIDES AHEAD
+This sign may be erected at the location where the height is restricted to indicate over which width the headroom so indicated is available.
 
-THIS SIGN INDICATES THAT THE ROAD AHEAD BECOMES NARROWER ON BOTH SIDES.
+Warning
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 410, 411, 418, 419, 420 TO WARN OF A TEMPORARY NARROWING CAUSED BY ROAD WORKS OR OBSTRUCTIONS.
+Figure No. 223 Pedestrian Crossing Ahead
 
-WARNING
+This sign may be used in conjunction with the supplementary plate in Figure No. 418.
 
-FIGURE No. 212 ROAD NARROWS ON RIGHT AHEAD
+Warning
 
-THE SYMBOL MAY BE REVERSED TO GIVE
+Figure No. 224 Disabled Persons Ahead
 
-ROAD NARROWS ON LEFT AHEAD
+This sign indicates to motorists that they are likely to encounter disabled persons crossing the road ahead. This sign may be used in conjunction with the supplementary plate in Figure No. 418.
 
-THIS SIGN INDICATES A ROAD NARROWING AHEAD ON ONE SIDE.
+Warning
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 410, 411, 418, 419, 420 TO WARN OF A TEMPORARY NARROWING CAUSED BY ROAD WORKS OR OBSTRUCTIONS.
+Figure No. 225 Children
 
-WARNING
+This sign gives warning of the approach to an area where children are likely to be playing near or crossing the road. It may be used to indicate the approach to a school or playground exit. This sign may be used in conjunction with the supplementary plates in Figure Nos. 412, 413.
 
-FIGURE No. 213 CROSS ROADS AHEAD
+Warning
 
-THIS SIGN INDICATES THE APPROACH TO CROSS ROADS.
+Figure No. 226 Horses
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418.
+This sign indicates that motorists are approaching a length of road on which they are likely to encounter horses. This sign may be used in conjunction with the supplementary plate in Figure No. 420.
 
-WARNING
+Warning
 
-FIGURE No. 214 T-JUNCTION AHEAD
+Figure No. 227 Cattle
 
-THIS SIGN INDICATES THE MOTORIST IS APPROACHING A T-JUNCTION AHEAD.
+This sign indicates that motorists are approaching a length of road on which they are likely to encounter cattle or water buffalo. This sign may be used in conjunction with the supplementary plate in Figure No. 420.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418. THE SYMBOL MAY BE REVERSED.
+Warning
 
-WARNING
+Figure No. 228 Level Crossing with Barrier Ahead
 
-FIGURE No. 215 SIDE ROAD TO RIGHT AHEAD
+This sign may be used in conjunction with the supplementary plate in Figure No. 418.
 
-THE SYMBOL MAY BE REVERSED TO GIVE:— SIDE ROAD TO LEFT AHEAD THIS SIGN INDICATES THE APPROACH TO A SIDE ROAD JUNCTION.
+Warning
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418. WARNING FIGURE No. 216 STAGGERED JUNCTION LEFT TURN FIRST AHEAD THIS SYMBOL MAY BE REVERSED TO GIVE:— STAGGERED JUNCTION RIGHT TURN FIRST AHEAD THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418 WARNING FIGURE No. 217 ROUNDABOUT AHEAD THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 410 OR 418. (L.N. 63 of 2017) WARNING FIGURE No. 217A ROUNDABOUT AHEAD This sign may be used in conjunction with the supplementary plate in Figure No. 410 or 418. (L.N. 63 of 2017) WARNING FIGURE No. 218 STEEP HILL DOWNWARDS AHEAD THIS SIGN INDICATING A STEEP HILL, DOWNWARDS, MAY BE USED AT OR NEAR THE TOP OF A HILL WHEN THE GRADIENT OF THE HILL IS 1:10 OR STEEPER. THE SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 418, 419, 420, 423, 424, 425. THE NUMERALS ON THE SIGN MAY BE CHANGED TO INDICATE DIFFERENT HILL GRADIENTS. WARNING FIGURE No. 219 STEEP HILL UPWARDS AHEAD THIS SIGN INDICATING A STEEP HILL UPWARD MAY BE USED AT OR NEAR THE FOOT OF A HILL WHEN THE GRADIENT OF A HILL IS 1:10 OR STEEPER. THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 418, 419, 420, 423, 424, 425. THE NUMERALS ON THE SIGN MAY BE CHANGED TO INDICATE DIFFERENT HILL GRADIENTS. WARNING FIGURE No. 220 UNEVEN ROAD SURFACE THIS SIGN MAY BE USED TO INDICATE ANY UNEVEN ROAD SURFACE AHEAD WHETHER OF A PERMANENT OR TEMPORARY NATURE.
+Figure No. 229 Overhead Cable
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418. WARNING FIGURE No. 221 HEIGHT RESTRICTED AHEAD THIS SIGN WARNS OF A HEIGHT RESTRICTION AHEAD.
+This sign warns of the approach to an overhead cable. It will be used in conjunction with the supplementary plates in Figure Nos. 418, 426.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 418, 419.
+Warning
 
-THE NUMERALS IN THE ABOVE SIGN MAY BE ALTERED TO CATER FOR DIFFERENT HEIGHT RESTRICTIONS. WARNING FIGURE No. 222 HEIGHT RESTRICTION THIS SIGN MAY BE ERECTED AT THE LOCATION WHERE THE HEIGHT IS RESTRICTED TO INDICATE OVER WHICH WIDTH THE HEADROOM SO INDICATED IS AVAILABLE. WARNING FIGURE No. 223 PEDESTRIAN CROSSING AHEAD THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418. WARNING FIGURE No. 224 DISABLED PERSONS AHEAD THIS SIGN INDICATES TO MOTORISTS THAT THEY ARE LIKELY TO ENCOUNTER DISABLED PERSONS CROSSING THE ROAD AHEAD.
+Figure No. 230 Low Flying Aircraft
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 418. WARNING FIGURE No. 225 CHILDREN THIS SIGN GIVES WARNING OF THE APPROACH TO AN AREA WHERE CHILDREN ARE LIKELY TO BE PLAYING NEAR OR CROSSING THE ROAD. IT MAY BE USED TO INDICATE THE APPROACH TO A SCHOOL OR PLAYGROUND EXIT.
+or
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 412, 413. WARNING FIGURE No. 226 HORSES THIS SIGN INDICATES THAT MOTORISTS ARE APPROACHING A LENGTH OF ROAD ON WHICH THEY ARE LIKELY TO ENCOUNTER HORSES.
+Sudden Aircraft Noise
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 420. WARNING FIGURE No. 227 CATTLE THIS SIGN INDICATES THAT MOTORISTS ARE APPROACHING A LENGTH OF ROAD ON WHICH THEY ARE LIKELY TO ENCOUNTER CATTLE OR WATER BUFFALO.
+This sign warns motorists that they are passing near an airfield and that they could be startled by the sudden appearance or noise of a low flying aircraft.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 420. WARNING FIGURE No. 228 LEVEL CROSSING WITH BARRIER AHEAD THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418. WARNING FIGURE No. 229 OVERHEAD CABLE THIS SIGN WARNS OF THE APPROACH TO AN OVERHEAD CABLE. IT WILL BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 418, 426. WARNING FIGURE No. 230 LOW FLYING AIRCRAFT OR SUDDEN AIRCRAFT NOISE THIS SIGN WARNS MOTORISTS THAT THEY ARE PASSING NEAR AN AIRFIELD AND THAT THEY COULD BE STARTLED BY THE SUDDEN APPEARANCE OR NOISE OF A LOW FLYING AIRCRAFT. WARNING FIGURE No. 231 QUAYSIDE OR RIVERBANK AHEAD THIS SIGN ADVISES THAT THE ROAD IS ABOUT TO LEAD ON TO A QUAYSIDE OR RIVERBANK
+Warning
 
-THIS SIGN MAY BE USED WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418 WARNING FIGURE No. 232 ADVANCE WARNING OF BUS LANE THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 418 TO INDICATE THE DISTANCE TO THE START OF THE BUS LANE.
+Figure No. 231 Quayside or Riverbank Ahead
 
-FOR PART TIME OPERATION OF THE BUS LANE, THE SUPPLEMENTARY TIME PLATE IN FIGURE No. 406 IS TO BE ADDED.
+This sign advises that the road is about to lead on to a quayside or riverbank. This sign may be used with the supplementary plate in Figure No. 418.
 
-WHERE OTHER BUSES ARE PERMITTED TO USE THE LEFT MOST LANE IN ADDITION TO FRANCHISED BUSES, THE SYMBOL IN THE ABOVE SIGN IS TO BE REPLACED BY “BUS 巴士”. (L.N. 63 of 2017) WARNING FIGURE No. 232A ADVANCE WARNING OF BUS LANE This sign may be used in conjunction with the supplementary plate in Figure No. 418 to indicate the distance to the start of the bus lane. For part time operation of the bus lane, the supplementary time plate in Figure No. 406 is to be added. Where other buses are permitted to use the right most lane in addition to franchised buses, the symbol in the above sign is to be replaced by “Bus 巴士”. (L.N. 63 of 2017) WARNING FIGURE No. 233 ADVANCE DIRECTION SIGN FOR SIDE ROADS FOR PART TIME OPERATION OF THE BUS LANE, THE SUPPLEMENTARY TIME PLATE IN FIGURE NO. 406 IS TO BE ADDED.
+(E.R. 3 of 2024) Warning
 
-THE ARROWS OR THE SYMBOL ON THIS SIGN MAY BE REVERSED OR THE POSITION OF THE ARROWS OR THE SYMBOL MAY BE ALTERED TO SUIT THE PARTICULAR REQUIREMENTS.
+Figure No. 232 Advance Warning of Bus Lane
 
-WHERE OTHER BUSES ARE PERMITTED TO USE THE LEFT MOST LANE OR RIGHT MOST LANE IN ADDITION TO FRANCHISED BUSES, THE SYMBOL IN THE ABOVE SIGN IS TO BE REPLACED BY “BUS 巴士”. (L.N. 63 of 2017) WARNING FIGURE No. 234 WARNING OF BUS LANE THIS SIGN IS PLACED ON THE EDGE OF THE CARRIAGEWAY FACING INTO THE CARRIAGEWAY AT PEDESTRIAN CROSSING POINTS TO WARN OF THE POSSIBILITY OF FAST MOVING BUSES IN THE BUS LANE.
+This sign may be used in conjunction with the supplementary plate in Figure No. 418 to indicate the distance to the start of the bus lane. For part time operation of the bus lane, the supplementary time plate in Figure No. 406 is to be added. Where other buses are permitted to use the left most lane in addition to franchised buses, the symbol in the above sign is to be replaced by “BUS 巴士”.
 
-IT WILL NORMALLY BE USED IN CONJUNCTION WITH ‘LOOK LEFT’ OR ‘LOOK RIGHT’ CARRIAGEWAY MARKINGS.
+(L.N. 63 of 2017)
 
-THIS SIGN MAY BE USED WITHOUT THE WORDS “BUS LANE” AND CHARACTERS “巴士線”. “LOOK LEFT” MAY BE CHANGED TO “LOOK RIGHT” WARNING FIGURE No. 235 STEEP ROAD THIS SIGN MAY BE USED TO ADVISE CYCLISTS NOT TO RIDE THEIR CYCLES DOWN STEEP HILLS, PARTICULARLY IN AREAS WHERE MOTOR VEHICLES ARE NOT PERMITTED OR RESTRICTED IN USE. WARNING FIGURE No. 236 KEEP TO THE LEFT THIS SIGN MAY BE USED TO ADVISE CYCLISTS TO KEEP TO THE LEFT, AND MAY BE USED ON ROADS WHERE MOTOR VEHICLES ARE NOT PERMITTED OR ARE RESTRICTED IN USE. WARNING FIGURE No. 236A KEEP TO THE RIGHT This sign may be used to advise cyclists to keep to the right, and may be used on roads where motor vehicles are not permitted or are restricted in use. (L.N. 63 of 2017) WARNING FIGURE No. 237 FALLING OR FALLEN ROCK THIS SIGN WARNS OF THE POSSIBILITY OF ROCK ON OR NEAR THE CARRIAGEWAY AND ALSO THE DANGER OF FURTHER FALLS TAKING PLACE. IT MAY ALSO BE USED AS A TEMPORARY SIGN.
+Warning
 
-THIS SIGN MAY BE USED WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 420. THE SYMBOL MAY BE REVERSED. WARNING FIGURE No. 238 LOOSE CHIPPINGS AHEAD THIS SIGN MAY BE USED TEMPORARILY IN ADVANCE OF A RECENTLY SURFACE DRESSED ROAD OR OTHER ROAD WHERE THERE IS A POSSIBILITY OF LOOSE CHIPPINGS OR STONES ON THE ROAD SURFACE TO INDICATE THAT THERE IS A DANGER OF FLYING STONES FROM VENICLES’ WHEELS.
+Figure No. 232A Advance Warning of Bus Lane
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH OTHER SIGNS ON THE SUPPLEMENTARY PLATE IN FIGURE No. 420. WARNING FIGURE No. 239 SLIPPERY ROAD THIS SIGN MAY BE USED AS A TEMPORARY SIGN TO WARN OF A DANGEROUS CONDITION ON THE ROAD SURFACE AHEAD. IT MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 417, 420. WARNING FIGURE No. 240 OTHER DANGER AHEAD THIS SIGN WARNS OF POTENTIAL DANGER AHEAD.
+This sign may be used in conjunction with the supplementary plate in Figure No. 418 to indicate the distance to the start of the bus lane.
 
-THE SIGN WILL ALWAYS BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 414, OR 417, OR 418. WARNING FIGURE No. 241 ROAD WORKS AHEAD THIS SIGN INDICATES THAT ROAD WORKS ARE BEING CARRIED OUT ON THE ROAD AHEAD.
+For part time operation of the bus lane, the supplementary time plate in Figure No. 406 is to be added.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 415, 417, 418, 419, 420. WARNING FIGURE No. 242 RIGHT MOST LANE CLOSED AHEAD ALTERNATIVELY THE RED BAR IN THE ABOVE DIAGRAM MAY BE PLACED ACROSS THE LEFT MOST LANE TO GIVE:— LEFT MOST LANE CLOSED AHEAD OR THE RED BAR MAY BE PLACED ACROSS BOTH THE LEFT MOST AND RIGHT MOST LANES TO GIVE:— LEFT MOST AND RIGHT MOST LANES CLOSED AHEAD OR THE RED BAR MAY BE PLACED ACROSS THE MIDDLE LANE TO GIVE:— MIDDLE LANE CLOSED AHEAD THESE SIGNS ARE USED ON ONE-WAY 3-LANE ROADS OR ON ONE CARRIAGEWAY OF A DUAL CARRIAGEWAY ROAD CONSISTING OF 3 LANES TO INDICATE A TEMPORARY LANE CLOSURE, THE RED BAR INDICATING WHICH LANE IS CLOSED.
+Where other buses are permitted to use the right most lane in addition to franchised buses, the symbol in the above sign is to be replaced by “Bus 巴士”.
 
-THEY MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 417, 418, 419 OR 420. (L.N. 63 of 2017) WARNING FIGURE No. 243 RIGHT 2 LANES CLOSED AHEAD RED BARS MAY BE PLACED ACROSS THE LEFT MOST AND MIDDLE LANES TO GIVE:— LEFT 2 LANES CLOSED AHEAD THESE SIGNS ARE USED ON ONE-WAY 3-LANE ROADS OR ON ONE CARRIAGEWAY OF A DUAL CARRIAGEWAY ROAD CONSISTING OF 3 LANES TO INDICATE THE TEMPORARY CLOSURE OF TWO LANES. THE RED BARS INDICATING WHICH LANES ARE CLOSED.
+(L.N. 63 of 2017)
 
-THEY MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 417, 418, 419 OR 420. (L.N. 63 of 2017) WARNING FIGURE No. 244 MIDDLE LANE CLOSED AHEAD THIS SIGN IS USED ON A 3-LANE TWO-WAY ROAD TO INDICATE THAT THE MIDDLE LANE IS TEMPORARILY CLOSED.
+Warning
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO. 417, 418, 419 OR 420. (L.N. 63 of 2017) WARNING FIGURE No. 244A MIDDLE LANE CLOSED AHEAD This sign is used on a 3-lane two-way road to indicate that the middle lane is temporarily closed. This sign may be used in conjunction with the supplementary plate in Figure No. 417, 418, 419 or 420. (L.N. 63 of 2017) WARNING FIGURE No. 245 RIGHT LANE CLOSED AHEAD THE SYMBOLS MAY BE REVERSED TO GIVE:— LEFT LANE CLOSED AHEAD THESE SIGNS MAY BE USED ON ONE WAY 2-LANE ROADS OR ON ONE CARRIAGEWAY OF A DUAL CARRIAGEWAY ROAD CONSISTING OF 2 LANES TO INDICATE A TEMPORARY LANE CLOSURE AHEAD OF THE RIGHT/LEFT LANE.
+Figure No. 233 Advance Direction Sign for Side Roads
 
-THEY MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE NOS. 417, 418, 419, 420. WARNING FIGURE No. 246 DIVERSION TO ANOTHER CARRIAGEWAY TO RIGHT AHEAD THE SYMBOL MAY BE REVERSED TO GIVE:— DIVERSION TO ANOTHER CARRIAGEWAY TO LEFT AHEAD THIS SIGN WILL BE USED TO DIVERT TRAFFIC FROM ONE CARRIAGEWAY OF A DUAL CARRIAGEWAY ROAD TO THE OTHER CARRIAGEWAY
+For part time operation of the bus lane, the supplementary time plate in Figure No. 406 is to be added. The arrows or the symbol on this sign may be reversed or the position of the arrows or the symbol may be altered to suit the particular requirements. Where other buses are permitted to use the left most lane or right most lane in addition to franchised buses, the symbol in the above sign is to be replaced by “BUS 巴士”.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIG. Nos. 418, 419. WARNING FIGURE No. 247 TEMPORARY SHARP DEVIATION THIS IS A TEMPORARY SIGN AND MAY BE PLACED IN CONJUNCTION WITH OTHER TEMPORARY SIGNS TO INDICATE A SHARP DEVIATION TO THE LEFT TO AVOID ROAD WORKS OR OTHER TEMPORARY OBSTRUCTIONS IN THE CARRIAGEWAY. THE SIGN MAY BE REVERSED TO INDICATE A SHARP DEVIATION TO THE RIGHT. WARNING FIGURE No. 248 BARRICADE THIS BARRICADE IS FOR TEMPORARY USE TO INDICATE THE EXTENT OF OBSTRUCTIONS OR EXCAVATIONS AND/OR THAT A LANE OR CARRIAGEWAY IS CLOSED. IT MAY BE EXTENDED TO ANY LENGTH BY THE ADDITION OF ALTERNATE WHOLE RED AND WHITE RECTANGLES. WARNING FIGURE No. 249 RAMP THIS IS A TEMPORARY SIGN TO INDICATE TO MOTORISTS A SUDDEN CHANGE OF LEVEL IN THE ROAD SURFACE. WARNING FIGURE No. 250 RAMP AHEAD THIS IS A TEMPORARY SIGN TO WARN OF A SUDDEN CHANGE OF LEVEL IN THE ROAD SURFACE AHEAD. WARNING FIGURE No. 251 SLOW WET TAR THIS IS A TEMPORARY SIGN TO WARN OF ROAD SURFACING WORKS. WARNING FIGURE No. 252 ROAD AHEAD CLOSED THIS SIGN WARNS THE MOTORIST THAT THE ROAD AHEAD IS CLOSED. WARNING FIGURE No. 253 TRAFFIC CONTROL AHEAD THIS SIGN IS USED TO INDICATE THAT THERE IS MANUAL CONTROL OF TRAFFIC AHEAD BY THE USE OF STOP/GO SIGNS. WARNING FIGURE No. 254 CROSSING NOT IN USE THIS IS A TEMPORARY SIGN TO INDICATE TO PEDESTRIANS THAT A PEDESTRIAN CROSSING IS NOT IN USE AS SUCH A CROSSING. WARNING FIGURE No. 255 PEDESTRIANS THIS SIGN ADVISES PEDESTRIANS OF THE DIRECTION OF A TEMPORARY FOOTWAY. THE ARROW MAY BE REVERSED OR A DOUBLE HEADED ARROW MAY BE USED. WARNING FIGURE No. 256 HAZARD MARKER These alternative markers may be used to indicate the edge of a carriageway or an obstruction near that edge and—
+(L.N. 63 of 2017)
+
+Warning
+
+Figure No. 234 Warning of Bus Lane
+
+This sign is placed on the edge of the carriageway facing into the carriageway at pedestrian crossing points to warn of the possibility of fast moving buses in the bus lane. It will normally be used in conjunction with “LOOK LEFT” (望左) or “LOOK RIGHT” (望右) carriageway markings. This sign may be used without the words “BUS LANE” and characters “巴士綫”. “LOOK LEFT” (望左) may be changed to “LOOK RIGHT” (望右).
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 235 Steep Road
+
+This sign may be used to advise cyclists not to ride their cycles down steep hills, particularly in areas where motor vehicles are not permitted or restricted in use.
+
+Warning
+
+Figure No. 236 Keep to the Left
+
+This sign may be used to advise cyclists to keep to the left, and may be used on roads where motor vehicles are not permitted or are restricted in use.
+
+Warning
+
+Figure No. 236A Keep to the Right
+
+This sign may be used to advise cyclists to keep to the right, and may be used on roads where motor vehicles are not permitted or are restricted in use.
+
+(L.N. 63 of 2017)
+
+Warning
+
+Figure No. 237 Falling or Fallen Rock
+
+This sign warns of the possibility of rock on or near the carriageway and also the danger of further falls taking place. It may also be used as a temporary sign. This sign may be used with the supplementary plate in Figure No. 420. The symbol may be reversed.
+
+Warning
+
+Figure No. 238 Loose Chippings Ahead
+
+This sign may be used temporarily in advance of a recently surface dressed road or other road where there is a possibility of loose chippings or stones on the road surface to indicate that there is a danger of flying stones from vehicles’ wheels. This sign may be used in conjunction with other signs on the supplementary plate in Figure No. 420.
+
+Warning
+
+Figure No. 239 Slippery Road
+
+This sign may be used as a temporary sign to warn of a dangerous condition on the road surface ahead. It may be used in conjunction with the supplementary plates in Figure Nos. 417, 420.
+
+Warning
+
+Figure No. 240 Other Danger Ahead
+
+This sign warns of potential danger ahead. The sign will always be used in conjunction with the supplementary plates in Figure No. 414, or 417, or 418.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 241 Road Works Ahead
+
+This sign indicates that road works are being carried out on the road ahead. This sign may be used in conjunction with the supplementary plates in Figure Nos. 415, 417, 418, 419, 420.
+
+Warning
+
+Figure No. 242 Right Most Lane Closed Ahead
+
+Alternatively the red bar in the above diagram may be placed across the left most lane to give—
+
+Left Most Lane Closed Ahead
+
+Or the red bar may be placed across both the left most and right most lanes to give—
+
+Left Most and Right Most Lanes Closed Ahead
+
+Or the red bar may be placed across the middle lane to give—
+
+Middle Lane Closed Ahead
+
+These signs are used on one-way 3-lane roads or on one carriageway of a dual carriageway road consisting of 3 lanes to indicate a temporary lane closure, the red bar indicating which lane is closed. They may be used in conjunction with the supplementary plate in Figure No. 417, 418, 419 or 420.
+
+(L.N. 63 of 2017; E.R. 3 of 2024)
+
+Warning
+
+Figure No. 243 Right 2 Lanes Closed Ahead
+
+Red bars may be placed across the left most and middle lanes to give—
+
+Left 2 Lanes Closed Ahead
+
+These signs are used on one-way 3-lane roads or on one carriageway of a dual carriageway road consisting of 3 lanes to indicate the temporary closure of two lanes, the red bars indicating which lanes are closed. They may be used in conjunction with the supplementary plate in Figure No. 417, 418, 419 or 420.
+
+(L.N. 63 of 2017; E.R. 3 of 2024)
+
+Warning
+
+Figure No. 244 Middle Lane Closed Ahead
+
+This sign is used on a 3-lane two-way road to indicate that the middle lane is temporarily closed. This sign may be used in conjunction with the supplementary plate in Figure No. 417, 418, 419 or 420.
+
+(L.N. 63 of 2017)
+
+Warning
+
+Figure No. 244A Middle Lane Closed Ahead
+
+This sign is used on a 3-lane two-way road to indicate that the middle lane is temporarily closed.
+
+This sign may be used in conjunction with the supplementary plate in Figure No. 417, 418, 419 or 420.
+
+(L.N. 63 of 2017)
+
+Warning
+
+Figure No. 245 Right Lane Closed Ahead
+
+The symbols may be reversed to give—
+
+Left Lane Closed Ahead
+
+These signs may be used on one way 2-lane roads or on one carriageway of a dual carriageway road consisting of 2 lanes to indicate a temporary lane closure ahead of the right/ left lane. They may be used in conjunction with the supplementary plates in Figure Nos. 417, 418, 419, 420.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 246 Diversion to Another Carriageway to Right Ahead
+
+The symbol may be reversed to give—
+
+Diversion to Another Carriageway to Left Ahead
+
+This sign will be used to divert traffic from one carriageway of a dual carriageway road to the other carriageway. This sign may be used in conjunction with the supplementary plates in Fig. Nos. 418, 419.
+
+(E.R. 3 of 2024) Warning
+
+Figure No. 247 Temporary Sharp Deviation
+
+This is a temporary sign and may be placed in conjunction with other temporary signs to indicate a sharp deviation to the left to avoid road works or other temporary obstructions in the carriageway. The sign may be reversed to indicate a sharp deviation to the right.
+
+Warning
+
+Figure No. 248 Barricade
+
+This barricade is for temporary use to indicate the extent of obstructions or excavations and/or that a lane or carriageway is closed. It may be extended to any length by the addition of alternate whole red and white rectangles.
+
+Warning
+
+Figure No. 249 Ramp
+
+This is a temporary sign to indicate to motorists a sudden change of level in the road surface.
+
+Warning
+
+Figure No. 250 Ramp Ahead
+
+This is a temporary sign to warn of a sudden change of level in the road surface ahead.
+
+Warning
+
+Figure No. 251 Slow Wet Tar
+
+This is a temporary sign to warn of road surfacing works.
+
+Warning
+
+Figure No. 252 Road Ahead Closed
+
+This sign warns the motorist that the road ahead is closed.
+
+Warning
+
+Figure No. 253 Traffic Control Ahead
+
+This sign is used to indicate that there is manual control of traffic ahead by the use of stop/go signs.
+
+Warning
+
+Figure No. 254 Crossing Not in Use
+
+This is a temporary sign to indicate to pedestrians that a pedestrian crossing is not in use as such a crossing.
+
+Warning
+
+Figure No. 255 Pedestrians
+
+This sign advises pedestrians of the direction of a temporary footway. The arrow may be reversed or a double headed arrow may be used.
+
+Warning
+
+Figure No. 256 Hazard Marker
+
+These alternative markers may be used to indicate the edge of a carriageway or an obstruction near that edge and—
 
 - (a) the portion of each sign coloured red may be coloured white or amber;
 
@@ -1042,499 +1218,455 @@ THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIG. Nos. 
 
   - (ii) on the left edge of the central reservation of a dual carriageway, the signs are to be erected so as to display the colour amber instead of the colour white.
 
-(L.N. 63 of 2017) WARNING FIGURE No. 257 PEDESTRIANS AHEAD THIS SIGN WARNS MOTORIST OF THE POSSIBLE PRESENCE OF PEDESTRIANS ON OR ADJACENT TO THE ROAD AHEAD. WARNING FIGURE No. 258 AMBER LIGHTS INTERMITTENT AMBER LIGHTS WHICH MAY BE USED IN CONJUNCTION WITH THE SIGN SHOWN IN FIGURE No. 225 IN SCHEDULE 1.
+(L.N. 63 of 2017) Warning
 
-EACH LAMP SHALL SHOW AN INTERMITTENT LIGHT AT A RATE OF FLASHING OF NOT LESS THAN 60 NOR MORE THAN 90 FLASHES PER MINUTE AND IN SUCH A MANNER THAT THE LIGHT OF ONE LAMP IS ALWAYS SHOWN AT A TIME WHEN LIGHT OF THE OTHER LAMP IS NOT SHOWN. WARNING FIGURE No. 259 FOG OR MIST AHEAD THIS SIGN INDICATES TO MOTORISTS THAT THEY ARE LIKELY TO ENCOUNTER FOG OR MIST AHEAD AND THEY SHOULD USE DIPPED HEADLIGHTS WHERE THIS IS ENCOUNTERED.
+Figure No. 257 Pedestrians Ahead
 
-(L.N. 72 of 1990)
+This sign warns motorist of the possible presence of pedestrians on or adjacent to the road ahead.
 
-WARNING
+Warning
 
-FIGURE No. 260 CYCLEWAY AHEAD
+Figure No. 258 Amber Lights
 
-THIS SIGN INDICATES THAT THERE MAY BE CYCLISTS ON OR CROSSING THE ROAD AHEAD.
+Intermittent amber lights which may be used in conjunction with the sign shown in Figure No. 225 in Schedule 1. Each lamp shall show an intermittent light at a rate of flashing of not less than 60 nor more than 90 flashes per minute and in such a manner that the light of one lamp is always shown at a time when light of the other lamp is not shown.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 417, 418, 419 AND 420.
+Warning
 
-(L.N. 72 of 1990)
+Figure No. 259 Fog or Mist Ahead
 
-WARNING
+This sign indicates to motorists that they are likely to encounter fog or mist ahead and they should use dipped headlights where this is encountered.
 
-FIGURE No. 261 PEDESTRIAN ON OR CROSSING ROAD AHEAD
+(L.N. 72 of 1990) Warning
 
-THIS SIGN WARNS MOTORISTS OF THE POSSIBLE PRESENCE OF PEDESTRIANS ON ADJACENT TO OR CROSSING THE ROAD AHEAD.
+Figure No. 260 Cycleway Ahead
 
-(L.N. 72 of 1990)
+This sign indicates that there may be cyclists on or crossing the road ahead.
 
-WARNING
+This sign may be used in conjunction with the supplementary plates in Figure Nos. 417, 418, 419 and 420.
 
-FIGURE No. 262 VEHICLES OF THE NORTH-WEST RAILWAY OR TRAMS AHEAD
+(L.N. 72 of 1990) Warning
 
-THIS SIGN MAY BE USED TO WARN VEHICULAR OR PEDESTRIAN TRAFFIC OF THE NORTH-WEST RAILWAY OR TRAM TRACK IN OR CROSSING THE ROAD AHEAD WHERE VEHICLES OF THE NORTH-WEST RAILWAY OR TRAMS MAY BE OPERATING.
+Figure No. 261 Pedestrian on or Crossing Road Ahead
 
-(L.N. 242 of 1987)
+This sign warns motorists of the possible presence of pedestrians on adjacent to or crossing the road ahead.
 
-WARNING
+(L.N. 72 of 1990) Warning
 
-FIGURE No. 263 ROAD HUMP OR HUMPS AHEAD
+Figure No. 262 Vehicles of the North-west Railway or Trams Ahead
 
-THIS SIGN INDICATES A ROAD HUMP IN ACCORDANCE WITH FIGURE No. 617 OR A SERIES OF SUCH HUMPS HAS BEEN PLACED ACROSS THE ROAD AHEAD.
+This sign may be used to warn vehicular or pedestrian traffic of the North-west Railway or tram track in or crossing the road ahead where vehicles of the North-west Railway or trams may be operating.
 
-(L.N. 22 of 1989)
+(L.N. 242 of 1987) Warning
 
-WARNING
+Figure No. 263 Road Hump or Humps Ahead
 
-FIGURE No. 264 ADVANCE WARNING OF RAIL ONLY LANE FOR VEHICLES OF THE NORTH-WEST RAILWAY OR TRAM ONLY LANE FOR TRAMS
+This sign indicates a road hump in accordance with Figure No. 617 or a series of such humps has been placed across the road ahead.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH A SUPPLEMENTARY PLATE IN FIGURE No. 418 TO INDICATE THE DISTANCE TO THE START OF RAIL ONLY LANE FOR VEHICLES OF THE NORTH-WEST RAILWAY OR TRAM ONLY LANE FOR TRAMS.
+(L.N. 22 of 1989) Warning
 
-(L.N. 291 of 1999)
+Figure No. 264 Advance Warning of Rail Only Lane for Vehicles of the North-west Railway or Tram Only Lane for Trams
 
-WARNING
+This sign may be used in conjunction with a supplementary plate in Figure No. 418 to indicate the distance to the start of rail only lane for vehicles of the North-west Railway or tram only lane for trams.
 
-FIGURE No. 265 ADVANCE DIRECTION SIGN FOR SIDE ROADS (FOR THE NORTH-WEST RAILWAY VEHICLE OR TRAM)
+(L.N. 291 of 1999) Warning
 
-THIS ARROWS OR SYMBOLS ON THIS SIGN MAY BE REVERSED OR THE POSITION OF THE ARROWS AND SYMBOL ALTERED TO SUIT THE PARTICULAR REQUIREMENTS.
+Figure No. 265 Advance Direction Sign for Side Roads (for the North-west Railway Vehicle or Tram)
 
-(L.N. 291 of 1999)
+The arrows or symbols on this sign may be reversed or the position of the arrows and symbol altered to suit the particular requirements.
 
-INFORMATORY
+(L.N. 291 of 1999) Informatory
 
-FIGURE No. 301
+Figure No. 301
 
-THIS SIGN IS FOR USE BY THE POLICE AT ACCIDENT SITES.
+This sign is for use by the police at accident sites.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 302 PASS EITHER SIDE
+Figure No. 302 Pass Either Side
 
-THIS SIGN INFORMS MOTORISTS THAT VEHICLES MAY PASS EITHER SIDE OF A TEMPORARY OR PERMANENT OBSTRUCTION IN THE CARRIAGEWAY. THIS SIGN MAY BE USED IN CONJUNCTION WITH BOLLARDS.
+This sign informs motorists that vehicles may pass either side of a temporary or permanent obstruction in the carriageway. This sign may be used in conjunction with bollards.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 303
+Figure No. 303
 
-ADVISORY SIGN GIVING ADVANCE NOTIFICATION OF THE START OF A DUAL CARRIAGEWAY ROAD.
+Advisory sign giving advance notification of the start of a dual carriageway road.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 304 SINGLE TRACK ROAD WITH PASSING PLACES
+Figure No. 304 Single Track Road with Passing Places
 
-ADVISORY SIGN AT THE COMMENCEMENT OF A ROAD WITH ONLY SUFFICIENT WIDTH FOR ONE VEHICLE EXCEPT AT PASSING PLACES.
+Advisory sign at the commencement of a road with only sufficient width for one vehicle except at passing places.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 305 DISTANCE INDICATORS
+Figure No. 305 Distance Indicators
 
-THESE SIGNS INDICATE DISTANCE IN HUNDREDS OF METRES TO THE NEXT POINT AT WHICH VEHICLES MAY LEAVE A ROAD.
+These signs indicate distance in hundreds of metres to the next point at which vehicles may leave a road.
 
-THE SLOPE OF THE BARS SHALL BE REVERSED WHEN ERECTED ON THE RIGHT HAND SIDE OF A CARRIAGEWAY.
+The slope of the bars shall be reversed when erected on the right hand side of a carriageway.
 
-THE THREE HUNDRED METRE SIGN MAY BE OMITTED FROM THE SEQUENCE OF SIGNS.
+The three hundred metre sign may be omitted from the sequence of signs.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 306 GET IN LANE
+Figure No. 306 Get in Lane
 
-THIS SIGN INFORMS OF A DIVERGENCE OF ROUTES AHEAD WITH SEPARATE LANES FOR DIFFERENT DESTINATIONS IT WILL BE PLACED IN CONJUNCTION WITH OTHER SIGNS OR ROAD MARKINGS.
+This sign informs of a divergence of routes ahead with separate lanes for different destinations it will be placed in conjunction with other signs or road markings.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 307 CENSUS POINT
+Figure No. 307 Census Point
 
-THIS SIGN INFORMS THE MOTORIST OF THE LOCATION OF A CENSUS POINT.
+This sign informs the motorist of the location of a census point.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 308 STOP AT CENSUS POINT
+Figure No. 308 Stop at Census Point
 
-THIS SIGN ADVISES MOTORISTS TO STOP, IF SO REQUIRED, AT THE CENSUS POINT FOR INTERVIEW IN CONNECTION WITH A TRAFFIC SURVEY.
+This sign advises motorists to stop, if so required, at the census point for interview in connection with a traffic survey.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 309 SLOW AT CENSUS POINT
+Figure No. 309 Slow at Census Point
 
-THIS SIGN ADVISES MOTORISTS TO DRIVE SLOWLY PAST THE CENSUS POINT WHERE THEY MAY BE STOPPED FOR INTERVIEW IN CONNECTION WITH A TRAFFIC SURVEY.
+This sign advises motorists to drive slowly past the census point where they may be stopped for interview in connection with a traffic survey.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 310 NO THROUGH ROAD
+Figure No. 310 No Through Road
 
-THIS SIGN INFORMS MOTORISTS THAT THERE IS NO THROUGH ROAD AHEAD FOR MOTOR VEHICLES.
+This sign informs motorists that there is no through road ahead for motor vehicles.
 
-INFORMATORY
+Informatory
 
-FIGURE No. 311 NO THROUGH ROAD ON SIDE ROAD TO LEFT
+Figure No. 311 No Through Road on Side Road to Left
 
-WITH THE SYMBOL REVERSED THE SIGN WILL GIVE :— NO THROUGH ROAD ON SIDE ROAD TO RIGHT THESE SIGNS GIVE ADVANCE INFORMATION OF NO THROUGH ROAD ON ROAD TO LEFT (OR RIGHT IF THE DIRECTION OF THE SYMBOL IS REVERSED). (L.N. 63 of 2017) INFORMATORY FIGURE No. 312 THIS SIGN INFORMS MOTORISTS OF THE DIRECTION THEY MAY PROCEED, IN THE RESPECTIVE LANES, AND THAT THE LEFT MOST LANE IS FOR TRAFFIC TURNING LEFT ONLY.
+With the symbol reversed the sign will give—
 
-THE MIDDLE LANE MAY BE OMITTED AND THE SYMBOLS OTHERWISE VARIED TO ACCORD WITH THE CIRCUMSTANCES. THE WORDS “EXCEPT BUSES” (巴士例外) MAY BE ADDED ABOVE THE RED BAR. (L.N. 63 of 2017) INFORMATORY FIGURE No. 313 PASSING PLACE THIS SIGN IS FOR USE ON ROADS, TO DENOTE PLACES WHERE SLOWER VEHICLES MAY PULL OFF THE ROAD TO ALLOW FOLLOWING VEHICLES TO PASS, OR IN CONJUNCTION WITH FIGURE No. 304 (SINGLE TRACK ROAD) TO ALLOW OPPOSING VEHICLES TO PASS EACH OTHER. INFORMATORY FIGURE No. 314 FOR USE BY THE POLICE AT ROAD BLOCKS INFORMATORY FIGURE No. 315 GOODS VEHICLES PROCEED OR KEEP TO LEFT MOST LANE THIS SIGN WARNS DRIVERS OF GOODS VEHICLES WITH A GROSS VEHICLE WEIGHT IN EXCESS OF THE WEIGHT INDICATED THAT THEY SHOULD PROCEED OR KEEP TO THE LEFT MOST LANE BEFORE THE START OF THE RESTRICTION INDICATED BY THE SIGN IN FIGURE No. 161.
+No Through Road on Side Road to Right
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT WEIGHT LIMITS. (L.N. 147 of 1990; L.N. 63 of 2017) INFORMATORY FIGURE No. 315A GOODS VEHICLES PROCEED OR KEEP TO RIGHT MOST LANE This sign warns drivers of goods vehicles with a gross vehicle weight in excess of the weight indicated that they should proceed or keep to the right most lane before the start of the restriction indicated by the sign in Figure No. 161A. The numerals on the sign may be altered to suit different weight limits. (L.N. 63 of 2017)
+These signs give advance information of no through road on road to left (or right if the direction of the symbol is reversed).
 
-INFORMATORY
+(L.N. 63 of 2017; E.R. 3 of 2024)
 
-FIGURE No. 316 GOODS VEHICLES KEEP TO LEFT MOST LANE AHEAD
+Informatory
 
-THIS SIGN WARNS DRIVERS OF GOODS VEHICLES WITH A GROSS VEHICLE WEIGHT IN EXCESS OF THE WEIGHT INDICATED THAT THEY ARE APPROACHING A MAJOR ROAD, AND THAT THEY SHOULD KEEP TO THE LEFT MOST LANE OF THE MAJOR ROAD BEFORE THE START OF THE RESTRICTION INDICATED BY THE SIGN IN FIGURE No. 161.
+Figure No. 312
 
-THE NUMERALS ON THE SIGN MAY BE ALTERED TO SUIT DIFFERENT WEIGHT LIMITS.
+This sign informs motorists of the direction they may proceed, in the respective lanes, and that the left most lane is for traffic turning left only. The middle lane may be omitted and the symbols otherwise varied to accord with the circumstances. The words “except buses” (巴士例外) may be added above the red bar.
+
+(L.N. 63 of 2017)
+
+Informatory
+
+Figure No. 313 Passing Place
+
+This sign is for use on roads, to denote places where slower vehicles may pull off the road to allow following vehicles to pass, or in conjunction with Figure No. 304 (Single Track Road) to allow opposing vehicles to pass each other.
+
+Informatory
+
+Figure No. 314
+
+For use by the police at road blocks
+
+Informatory
+
+Figure No. 315 Goods Vehicles Proceed or Keep to Left Most Lane
+
+This sign warns drivers of goods vehicles with a gross vehicle weight in excess of the weight indicated that they should proceed or keep to the left most lane before the start of the restriction indicated by the sign in Figure No. 161. The numerals on the sign may be altered to suit different weight limits.
 
 (L.N. 147 of 1990; L.N. 63 of 2017)
 
-INFORMATORY
+Informatory
 
-FIGURE No. 316A GOODS VEHICLES KEEP TO RIGHT MOST LANE AHEAD
+Figure No. 315A Goods Vehicles Proceed or Keep to Right Most Lane
 
-This sign warns drivers of goods vehicles with a gross vehicle weight in excess of the weight indicated that they are approaching a major road, and that they should keep to the right most lane of the major road before the start of the restriction indicated by the sign in Figure No. 161A.
+This sign warns drivers of goods vehicles with a gross vehicle weight in excess of the weight indicated that they should proceed or keep to the right most lane before the start of the restriction indicated by the sign in Figure No. 161A.
 
 The numerals on the sign may be altered to suit different weight limits.
 
 (L.N. 63 of 2017)
 
-SUPPLEMENTARY
+Informatory
 
-PLATE
+Figure No. 316 Goods Vehicles Keep to Left Most Lane Ahead
 
-FIGURE No. 401
+This sign warns drivers of goods vehicles with a gross vehicle weight in excess of the weight indicated that they are approaching a major road, and that they should keep to the left most lane of the major road before the start of the restriction indicated by the sign in Figure No. 161.
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE Nos. 106, 107, 109, 117 AND 122 AND INDICATES THAT GOODS VEHICLES WITH A GROSS VEHICLE WEIGHT IN TONNES OVER THAT SPECIFIED MUST PROCEED OR TURN IN THE DIRECTION, OR ARE PROHIBITED FROM THE TRAFFIC MOVEMENTS INDICATED BY THE SIGNS.
+The numerals on the sign may be altered to suit different weight limits.
 
-THE NUMERALS ON THE PLATE MAY BE ALTERED TO SUIT DIFFERENT GROSS VEHICLE WEIGHTS.
+(L.N. 147 of 1990; L.N. 63 of 2017) Informatory
 
-(L.N. 86 of 2001)
+Figure No. 316A Goods Vehicles Keep to Right Most Lane Ahead
 
-SUPPLEMENTARY
+This sign warns drivers of goods vehicles with a gross vehicle weight in excess of the weight indicated that they are approaching a major road, and that they should keep to the right most lane of the major road before the start of the restriction indicated by the sign in Figure No. 161A.
 
-PLATE
+The numerals on the sign may be altered to suit different weight limits.
 
-FIGURE No. 402
+(L.N. 63 of 2017) Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE NOS. 106, 107, 109.
+Plate Figure No. 401
 
-SUPPLEMENTARY
+This plate may be used with the signs in Figure Nos. 106, 107, 109, 117 and 122 and indicates that goods vehicles with a gross vehicle weight in tonnes over that specified must proceed or turn in the direction, or are prohibited from the traffic movements indicated by the signs.
 
-PLATE
+The numerals on the plate may be altered to suit different gross vehicle weights.
 
-FIGURE No. 403
+(L.N. 86 of 2001) Supplementary
 
-THIS PLATE WILL BE USED ATTACHED TO SIGNS TO INDICATE THE EXCEPTION OF FRANCHISED BUSES TO THE PARTICULAR RESTRICTIONS IN FIGURE NOS. 106, 107, 108, 109, 113, 114, 115, 122, 132, 133, 134, 135.
+Plate Figure No. 402
 
-THE WORDS ‘FRANCHISED BUSES’ MAY BE VARIED TO ACCORD WITH THE SPECIFIED TYPE OR CLASS OF VEHICLE EXCEPTED.
+This plate may be used with the signs in Figure Nos. 106, 107, 109.
 
-SUPPLEMENTARY
+Supplementary
 
-PLATE
+Plate Figure No. 403
 
-FIGURE No. 403A
+This plate will be used attached to signs to indicate the exception of franchised buses to the particular restrictions in Figure Nos. 106, 107, 108, 109, 113, 114, 115, 122, 132, 133, 134, 135.
+
+The words “franchised buses” may be varied to accord with the specified type or class of vehicle excepted.
+
+(E.R. 3 of 2024) Supplementary
+
+Plate Figure No. 403A
 
 This plate will be used attached to the sign in Figure No. 113 to indicate the exception of taxis carrying no passengers to the particular prohibition indicated by the sign.
 
 The words “taxis carrying no passengers” and “非載客的士” may be varied to accord with the specified type or class of vehicle excepted.
 
-(20 of 2021 s. 94)
+(20 of 2021 s. 94) Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 404
 
-PLATE
+This plate may be used with the signs in Figure Nos. 113, 114, 117, 131, 132, 133, 134, 135.
 
-FIGURE No. 404
+Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE NOS. 113, 114, 117, 131, 132, 133, 134, 135.
+Plate Figure No. 405
 
-SUPPLEMENTARY
+This plate may be used with the signs in Figure Nos. 113, 114, 115, 116, 117, 131, 132, 133, 134, 135, 149.
 
-PLATE
+The Commissioner for Transport is authorised to issue a permit.
 
-FIGURE No. 405
+Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE NOS. 113, 114, 115, 116, 117, 131, 132, 133, 134, 135, 149.
+Plate Figure No. 406
 
-THE COMMISSIONER FOR TRANSPORT IS AUTHORISED TO ISSUE A PERMIT.
+Time Plate
 
-SUPPLEMENTARY
+This plate may be used with the sign in Figure No. 113, 114, 115, 116, 117, 118, 118A, 121, 122, 128, 134, 135, 140, 232, 232A or 233 to indicate the period of time during which the prohibitions or restrictions indicated by the sign apply the wording may be varied to specify any periods of time.
 
-PLATE
+This plate may also be used in conjunction with Figure No. 429 to indicate the period of time of the specified day or days during which the prohibitions or restrictions apply.
 
-FIGURE No. 406 TIME PLATE
+(L.N. 291 of 1999; L.N. 63 of 2017) Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 113, 114, 115, 116, 117, 118, 118A, 121, 122, 128, 134, 135, 140, 232, 232A OR 233 TO INDICATE THE PERIOD OF TIME DURING WHICH THE PROHIBITIONS OR RESTRICTIONS INDICATED BY THE SIGN APPLY THE WORDING MAY BE VARIED TO SPECIFY ANY PERIODS OF TIME.
+Plate Figure No. 407
 
-THIS PLATE MAY ALSO BE USED IN CONJUNCTION WITH FIGURE No. 429 TO INDICATE THE PERIOD OF TIME OF THE SPECIFIED DAY OR DAYS DURING WHICH THE PROHIBITIONS OR RESTRICTIONS APPLY.
+The arrow may be reversed to indicate operation in other direction.
 
-(L.N. 291 of 1999; L.N. 63 of 2017)
+This plate may be used with the sign in Figure No. 140 to indicate the direction in which the prohibitions apply.
 
-SUPPLEMENTARY
+Supplementary
 
-PLATE
+Plate Figure No. 408
 
-FIGURE No. 407
+This plate may be used with the sign in Figure No. 140 to indicate that the restriction or prohibition applies in both directions.
 
-THE ARROW MAY BE REVERSED TO INDICATE OPERATION IN OTHER DIRECTION.
+(E.R. 3 of 2024) Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 140 TO INDICATE THE DIRECTION IN WHICH THE PROHIBITIONS APPLY.
+Plate Figure No. 409
 
-SUPPLEMENTARY
+Dual Carriageway
 
-PLATE
+This plate may be used with the signs in Figure Nos. 101, 102, 107, 108, 109.
 
-FIGURE No. 408
+Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE No. 140 TO INDICATE THAT THE RESTRICTION OR PROHIBITION APPLIES IN BOTH DIRECTIONS
+Plate Figure No. 410
 
-SUPPLEMENTARY
+This plate may only be used with the sign in Figure No. 204, 208, 209, 211, 212, 217 or 217A.
 
-PLATE
+(L.N. 63 of 2017) Supplementary
 
-FIGURE No. 409 DUAL CARRIAGEWAY
+Plate Figure No. 411
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE Nos. 101, 102, 107, 108, 109.
+This plate may be used with the signs in Figure Nos. 211, 212 indicating a change in road width and a convergence of traffic to single file.
 
-SUPPLEMENTARY
+The legend may be varied to read “Single track road” (單行路).
 
-PLATE
+(E.R. 3 of 2024) Supplementary
 
-FIGURE No. 410
+Plate Figure No. 412
 
-THIS PLATE MAY ONLY BE USED WITH THE SIGN IN FIGURE NO. 204, 208, 209, 211, 212, 217 OR 217A.
+This plate may be used with the sign in Figure No. 225.
 
-(L.N. 63 of 2017)
+Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 413
 
-PLATE
+Playground
 
-FIGURE No. 411
+This plate may be used with the sign in Figure No. 225.
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE Nos. 211, 212 INDICATING A CHANGE IN ROAD WIDTH AND A CONVERGENCE OF TRAFFIC TO SINGLE FILE.
+(E.R. 3 of 2024) Supplementary
 
-THE LEGEND MAY BE VARIED TO READ “SINGLE TRACK ROAD” (單行路)
+Plate Figure No. 414
 
-SUPPLEMENTARY
+This plate may be used with the sign at Figure No. 240 indicating the nature of the danger.
 
-PLATE
+The legend may be varied to suit particular dangers, the permitted variants are dust cloud (塵土), smoke (煙霧), blasting (爆石), landslide (山泥傾瀉), flood (路面水浸), surveying (測量), fallen tree (樹木傾倒).
 
-FIGURE No. 412
+Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 225.
+Plate Figure No. 415
 
-SUPPLEMENTARY
+Line Painting etc.
 
-PLATE
+This plate may be used with the sign in Figure No. 241 (road works ahead), so as to indicate the nature of the road works.
 
-FIGURE No. 413 PLAYGROUND
+Permitted variants of the legend are tree cutting (砍伐樹木), sign cleaning (清洗路牌), grass cutting (進行剪草), gully emptying (清理溝渠), blasting (爆石), surfacing (鋪築路面), surveying (進行測量).
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 225
+Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 416
 
-PLATE
+Safe Speed
 
-FIGURE No. 414
+This plate may be used with signs in Figure Nos. 208, 209 to indicate the safe speed on a bend or series of bends.
 
-THIS PLATE MAY BE USED WITH THE SIGN AT FIGURE No.240 INDICATING THE NATURE OF THE DANGER.
+The numerals in the sign may be altered to suit the speed limit required.
 
-THE LEGEND MAY BE VARIED TO SUIT PARTICULAR DANGERS, THE PERMITTED VARIANTS ARE DUST CLOUD (塵土), SMOKE (煙霧), BLASTING (爆石), LANDSLIDE (山泥傾瀉), FLOOD (路面水浸), SURVEYING (測量), FALLEN TREE (樹木傾倒).
+Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 417
 
-PLATE
+This plate when used in conjunction with the sign in Figure No. 111, 123, 123A, 124, 125, 126, 127, 128, 129, 129A, 137, 138, 140, 161, 161A, 239, 240, 241, 242, 243, 244, 244A or 245 to indicate the end of the prohibitions or restrictions.
 
-FIGURE No. 415 LINE PAINTING ETC.
+(L.N. 305 of 1989; L.N. 147 of 1990; L.N. 63 of 2017) Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 241 (ROAD WORKS AHEAD), SO AS TO INDICATE THE NATURE OF THE ROAD WORKS.
+Plate Figure No. 418
 
-PERMITTED VARIANTS OF THE LEGEND ARE TREE CUTTING (砍伐樹木), SIGN CLEANING (清洗路牌), GRASS CUTTING (進行剪草), GULLY EMPTYING (清理溝渠), BLASTING (爆石), SURFACING (鋪築路面), SURVEYING (進行測量).
+This plate may be used with the sign in Figure No. 202, 203, 204, 207, 211, 212, 213, 214, 215, 216, 217, 217A, 218, 219, 220, 221, 223, 224, 228, 229, 231, 232, 232A, 240, 241, 242, 243, 244, 244A, 245, 246 or 264 to indicate the distance to a hazard.
 
-SUPPLEMENTARY
+The numerals may be varied.
 
-PLATE
+(L.N. 291 of 1999; L.N. 63 of 2017) Supplementary
 
-FIGURE No. 416 SAFE SPEED
+Plate Figure No. 419
 
-THIS PLATE MAY BE USED WITH SIGNS IN FIGURE NOS. 208, 209 TO INDICATE THE SAFE SPEED ON A BEND OR SERIES OF BENDS.
+This plate may be used with the sign in Figure No. 211, 212, 218, 219, 221, 241, 242, 243, 244, 244A, 245 or 246 to indicate the distance to a hazard.
 
-THE NUMERALS IN THE SIGN MAY BE ALTERED TO SUIT THE SPEED LIMIT REQUIRED.
+The numerals may be varied.
 
-SUPPLEMENTARY
+(L.N. 63 of 2017) Supplementary
 
-PLATE
+Plate Figure No. 420
 
-FIGURE No. 417
+This plate may be used with the sign in Figure No. 123, 123A, 128, 129, 129A, 140, 211, 212, 218, 219, 226, 227, 237, 238, 239, 241, 242, 243, 244, 244A or 245 to indicate the length over which the prohibition or the hazard exists.
 
-THIS PLATE WHEN USED IN CONJUNCTION WITH THE SIGN IN FIGURE NO. 111, 123, 123A, 124, 125, 126, 127, 128, 129, 129A, 137, 138, 140, 161, 161A, 239, 240, 241, 242, 243, 244, 244A OR 245 TO INDICATE THE END OF THE PROHIBITIONS OR RESTRICTIONS.
+The numerals may be varied.
 
-(L.N. 305 of 1989; L.N. 147 of 1990; L.N. 63 of 2017)
+(L.N. 63 of 2017) Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 421
 
-PLATE
+This plate may be used with the “stop or give way sign ahead” sign in Figure No. 201 to indicate the distance to a junction controlled by a “stop” sign.
 
-FIGURE No. 418
+The numerals may be varied.
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 202, 203, 204, 207, 211, 212, 213, 214, 215, 216, 217, 217A, 218, 219, 220, 221, 223, 224, 228, 229, 231, 232, 232A, 240, 241, 242, 243, 244, 244A, 245, 246 OR 264 TO INDICATE THE DISTANCE TO A HAZARD.
+(E.R. 3 of 2024) Supplementary
 
-THE NUMERALS MAY BE VARIED.
+Plate Figure No. 422
 
-(L.N. 291 of 1999; L.N. 63 of 2017)
+This plate may be used with the stop or give way sign ahead, sign in Figure No. 201 to indicate the distance to a junction controlled by “give way” sign.
 
-SUPPLEMENTARY
+The numerals may be varied.
 
-PLATE
+(E.R. 3 of 2024) Supplementary
 
-FIGURE No. 419
+Plate Figure No. 423
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 211, 212, 218, 219, 221, 241, 242, 243, 244, 244A, 245 OR 246 TO INDICATE THE DISTANCE TO A HAZARD.
+This plate may be used with the steep hill sign in Figure Nos. 218, 219.
 
-THE NUMERALS MAY BE VARIED.
+The numerals may be varied.
 
-(L.N. 63 of 2017)
+Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 424
 
-PLATE
+This plate may be used with the steep hill signs in Figure Nos. 218, 219.
 
-FIGURE No. 420
+Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 123, 123A, 128, 129, 129A, 140, 211, 212, 218, 219, 226, 227, 237, 238, 239, 241, 242, 243, 244, 244A OR 245 TO INDICATE THE LENGTH OVER WHICH THE PROHIBITION OR THE HAZARD EXISTS.
+Plate Figure No. 425
 
-THE NUMERALS MAY BE VARIED.
+This plate may be used with the steep hill signs in Figure Nos. 218, 219.
 
-(L.N. 63 of 2017)
+Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 426
 
-PLATE
+This plate may be used with “overhead cable” sign in Figure No. 229 to show the permissible height of the vehicle to avoid danger.
 
-FIGURE No. 421
+The numerals may be varied.
 
-THIS PLATE MAY BE USED WITH THE ‘STOP OR GIVE WAY SIGN AHEAD’ SIGN IN FIGURE NO. 201 TO INDICATE THE DISTANCE TO A JUNCTION CONTROLLED BY A ‘STOP’ SIGN.
+(E.R. 3 of 2024) Supplementary
 
-THE NUMERALS MAY BE VARIED.
+Plate Figure No. 427
 
-SUPPLEMENTARY
+This plate is for use in conjunction with the signs in Figure Nos. 106, 107, 109, 113, 122, 140 to indicate that the direction of traffic movement or the prohibition indicated by the signs is limited to the motor vehicle or the class of motor vehicle or the description of motor vehicle specified in the plate the wording may be varied to “Lantau taxis” and “大嶼山的士”, “N T taxis” and “新界的士” or “Urban taxis” and “市區的士”, or to specify any type, class or description of motor vehicle.
 
-PLATE
+(L.N. 263 of 1984; L.N. 86 of 2001) Supplementary
 
-FIGURE No. 422
+Plate Figure No. 428
 
-THIS PLATE MAY BE USED WITH THE STOP OR GIVE WAY SIGN AHEAD, SIGN IN FIGURE No. 201 TO INDICATE THE DISTANCE TO A JUNCTION CONTROLLED BY ‘GIVE WAY’ SIGN.
+This plate may be used with the signs in Figure Nos. 137, 138 to indicate that children under 11 years of age are permitted to ride bicycles or tricycles unaccompanied by adults.
 
-THE NUMERALS MAY BE VARIED.
+(L.N. 305 of 1989) Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 429
 
-PLATE
+Day Plate
 
-FIGURE No. 423
-
-THIS PLATE MAY BE USED WITH THE STEEP HILL SIGN IN FIGURE Nos. 218, 219.
-
-THE NUMERALS MAY BE VARIED.
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 424
-
-THIS PLATE MAY BE USED WITH THE STEEP HILL SIGNS IN FIGURE Nos. 218, 219.
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 425
-
-THIS PLATE MAY BE USED WITH THE STEEP HILL SIGNS IN FIGURE NOS. 218, 219.
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 426
-
-THIS PLATE MAY BE USED WITH ‘OVERHEAD CABLE’ SIGN IN FIGURE No. 229 TO SHOW THE PERMISSIBLE HEIGHT OF THE VEHICLE TO AVOID DANGER.
-
-THE NUMERALS MAY BE VARIED.
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 427
-
-THIS PLATE IS FOR USE IN CONJUNCTION WITH THE SIGNS IN FIGURE Nos. 106, 107, 109, 113, 122, 140 TO INDICATE THAT THE DIRECTION OF TRAFFIC MOVEMENT OR THE PROHIBITION INDICATED BY THE SIGNS IS LIMITED TO THE MOTOR VEHICLE OR THE CLASS OF MOTOR VEHICLE OR THE DESCRIPTION OF MOTOR VEHICLE SPECIFIED IN THE PLATE THE WORDING MAY BE VARIED TO “Lantau taxis” AND “大嶼山的士”, “N T taxis” AND “新界的士” OR “Urban taxis” AND “市區的士”, OR TO SPECIFY ANY TYPE, CLASS OR DESCRIPTION OF MOTOR VEHICLE.
-
-(L.N. 263 of 1984; L.N. 86 of 2001)
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 428
-
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE NOS. 137, 138 TO INDICATE THAT CHILDREN UNDER 11 YEARS OF AGE ARE PERMITTED TO RIDE BICYCLES OR TRICYCLES UNACCOMPANIED BY ADULTS.
-
-(L.N. 305 of 1989)
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE NO 429 DAY PLATE
-
-This plate may be used with the signs in Figure Nos. 113, 114, 140, 165 and 167 to indicate the day or days during which the prohibitions or restrictions indicated by the signs apply. The wording may be varied to “Except General Holidays” and “公眾假期例外” or to specify any day or days.
+This plate may be used with the signs in Figure Nos. 113, 114, 140, 165 and 167 to indicate the day or days during which the prohibitions or restrictions indicated by the signs apply. The wording may be varied to “Except General Holidays” and “公眾假期例外” or specify any day or days.
 
 This plate may also be used in conjunction with Figure Nos. 406 and 431 to indicate the period of time of the specified day or days during which the prohibitions or restrictions apply.
 
-(L.N. 15 of 1997; L.N. 86 of 2001; L.N. 66 of 2005)
+(L.N. 15 of 1997; L.N. 86 of 2001; L.N. 66 of 2005) Supplementary
 
-SUPPLEMENTARY
+Plate Figure No. 430
 
-PLATE
+This plate may be used with the signs in Figure Nos. 140 and 165 to indicate the exception of taxis to the no stopping restriction for setting down passengers and their belongings only.
 
-FIGURE No. 430
+The word “taxi” and characters “的士” may be omitted or varied to “Lantau taxis” and “大嶼山的士”, “N T taxis” and “新界的士” or “Urban taxis” and “市區的士” respectively, or to specify any type, class or description of motor vehicle excepted.
 
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE Nos. 140 AND 165 TO INDICATE THE EXCEPTION OF TAXIS TO THE NO STOPPING RESTRICTION FOR SETTING DOWN PASSENGERS AND THEIR BELONGINGS ONLY.
+The words “drop off” and characters “落客” may be varied to “pick up” and “上客” to indicate the exception to the no stopping restriction for picking up passengers and their belongings only; “pick up or drop off” and “上落客” for picking up or setting down passengers and their belongings only; “loading” and “上貨” for loading goods only; “unloading” and “落貨” for unloading goods only; or “loading or unloading” and “上落貨” for loading or unloading goods only.
 
-THE WORD “taxi” AND CHARACTERS “的士” MAY BE OMITTED OR VARIED TO “Lantau taxis” AND “大嶼山的士”, “N T taxis” AND “新界的士” OR “Urban taxis” AND “市區的士” RESPECTIVELY, OR TO SPECIFY ANY TYPE, CLASS OR DESCRIPTION OF MOTOR VEHICLE EXCEPTED.
+(L.N. 291 of 1999; L.N. 86 of 2001; L.N. 66 of 2005) Supplementary
 
-THE WORDS “drop off” AND CHARACTERS “落客” MAY BE VARIED TO “ pick up “ AND “上客” TO INDICATE THE EXCEPTION TO THE NO STOPPING RESTRICTION FOR PICKING UP PASSENGERS AND THEIR BELONGINGS ONLY; “pick up or drop off” AND “上落客” FOR PICKING UP OR SETTING DOWN PASSENGERS AND THEIR BELONGINGS ONLY; “loading” AND “上貨” FOR LOADING GOODS ONLY; “unloading” AND “落貨” FOR UNLOADING GOODS ONLY; OR “loading or unloading” AND “上落貨” FOR LOADING OR UNLOADING GOODS ONLY.
+Plate Figure No. 431
 
-(L.N. 291 of 1999; L.N. 86 of 2001; L.N. 66 of 2005)
+Time Plate
 
-SUPPLEMENTARY
+This plate is a variation in size and format of Figure No. 406.
 
-PLATE
+This plate may be used with the sign in Figure No. 106, 107, 109, 113, 114, 115, 116, 117, 118, 118A, 121, 122, 128, 134, 135, 140, 232, 232A or 233 to indicate the period of time during which the prohibitions or restrictions indicated by the sign apply. The wording may be varied to specify any period of time or times or in 24-hour time display without the words “am” and “上午” or “pm” and “下午”.
 
-FIGURE No. 431 TIME PLATE
+This plate may also be used in conjunction with Figure No. 429 to indicate the day or days during which the prohibitions or restrictions indicated by the sign apply.
 
-THIS PLATE IS A VARIATION IN SIZE AND FORMAT OF FIGURE NO. 406.
+(L.N. 86 of 2001; L.N. 63 of 2017) Supplementary
 
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 106, 107, 109, 113, 114, 115, 116, 117, 118, 118A, 121, 122, 128, 134, 135, 140, 232, 232A OR 233 TO INDICATE THE PERIOD OF TIME DURING WHICH THE PROHIBITIONS OR RESTRICTIONS INDICATED BY THE SIGN APPLY. THE WORDING MAY BE VARIED TO SPECIFY ANY PERIOD OF TIME OR TIMES OR IN 24-HOUR TIME DISPLAY WITHOUT THE WORDS “am” AND “上午” OR “pm” AND “下午”.
+Plate Figure No. 432
 
-THIS PLATE MAY ALSO BE USED IN CONJUNCTION WITH FIGURE No. 429 TO INDICATE THE DAY OR DAYS DURING WHICH THE PROHIBITIONS OR RESTRICTIONS INDICATED BY THE SIGN APPLY.
+Vehicle Length
 
-(L.N. 86 of 2001; L.N. 63 of 2017)
+This plate may be used in conjunction with the signs in Figure Nos. 106, 107, 109, 113, 122 to indicate that all motor vehicles with a length in metres exceeding that specified must proceed or turn or are prohibited as indicated by the signs.
 
-SUPPLEMENTARY
+The numerals on the plate may be altered to suit different length restrictions.
 
-PLATE
+(L.N. 86 of 2001) Supplementary
 
-FIGURE No. 432 VEHICLE LENGTH
-
-THIS PLATE MAY BE USED IN CONJUNCTION WITH THE SIGNS IN FIGURE Nos. 106, 107, 109, 113, 122 TO INDICATE THAT ALL MOTOR VEHICLES WITH A LENGTH IN METRES EXCEEDING THAT SPECIFIED MUST PROCEED OR TURN OR ARE PROHIBITED AS INDICATED BY THE SIGNS.
-
-THE NUMERALS ON THE PLATE MAY BE ALTERED TO SUIT DIFFERENT LENGTH RESTRICTIONS.
-
-(L.N. 86 of 2001)
-
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 433
+Plate Figure No. 433
 
 This plate may be used with the sign in Figure No. 149 to indicate the exception of taxis to the particular restriction indicated by that sign within the specified period of time. This plate may also be used without any reference to time on it to indicate a 24-hour exception to that restriction.
 
@@ -1542,13 +1674,9 @@ The word “taxis” and characters “的士” may be varied to “N T taxis�
 
 The times on this plate may be varied to specify any period of time or times or in 24-hour time display without the words “am” and “上午” and/or “pm” and “下午”.
 
-(L.N. 16 of 2007)
+(L.N. 16 of 2007) Supplementary
 
-SUPPLEMENTARY
-
-PLATE
-
-FIGURE No. 434
+Plate Figure No. 434
 
 This sign may be used with the sign in Figure No. 174 to indicate the Class or Classes of dangerous goods referred to in that figure.
 

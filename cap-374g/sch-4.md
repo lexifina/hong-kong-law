@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [regs. 2, 3, 30 & 59]
 
-ZEBRA CROSSING AND LIGHT SIGNAL CROSSINGS
+Zebra Crossing and Light Signal Crossings
 
 - 1.
 
@@ -26,9 +26,9 @@ ZEBRA CROSSING AND LIGHT SIGNAL CROSSINGS
 
   - (2) A pattern of lines shall, subject as hereinafter provided, consist of—
 
-    - (a) a transverse white broken line (hereinafter referred to as a “give-way line”) placed on the carriageway 1 m from and parallel to the nearer line of studs indicating the limits of the zebra crossing and shall extend across the carriageway in the manner indicated in Figure No. 802; and
+    - (a) a transverse white broken line (hereinafter referred to as a give-way line) placed on the carriageway 1 m from and parallel to the nearer line of studs indicating the limits of the zebra crossing and shall extend across the carriageway in the manner indicated in Figure No. 802; and
 
-    - (b) 2 or more longitudinal white broken lines (hereinafter referred to as “zig-zag lines”) placed on the carriageway or, where the road is a dual carriageway road, on each part of the carriageway, each zig-zag line containing not less than 8 nor more than 18 marks and extending away from the zebra crossing at a point 150 mm from the nearest part of the give-way line on the same side of the zebra crossing to a point 150 mm from the nearest part of a terminal line of the size and type shown in the said Figure (hereinafter referred to as a “terminal line”).
+    - (b) 2 or more longitudinal white broken lines (hereinafter referred to as zig-zag lines) placed on the carriageway or, where the road is a dual carriageway road, on each part of the carriageway, each zig-zag line containing not less than 8 nor more than 18 marks and extending away from the zebra crossing at a point 150 mm from the nearest part of the give-way line on the same side of the zebra crossing to a point 150 mm from the nearest part of a terminal line of the size and type shown in the said Figure (hereinafter referred to as a terminal line).
 
   - (3) Where the Commissioner is satisfied in relation to a particular area of carriageway in the vicinity of a zebra crossing that by reason of the layout of, or character of, the roads in the vicinity of the zebra crossing it would be impracticable to lay the pattern of lines as shown in Figure No. 802 and in accordance with subparagraph (2), any of the following variations as respects the pattern shall be permitted—
 
@@ -48,7 +48,7 @@ ZEBRA CROSSING AND LIGHT SIGNAL CROSSINGS
 
   - (1) A zebra crossing shall be marked with a yellow globe not less than 280 mm nor more than 500 mm in diameter mounted on a post or bracket at or near each end of the zebra crossing so that the height of the lowest part of the globe is not less than 2 m nor more than 3 m above the surface of the ground in the immediate vicinity.
 
-  - (2) Where a globe is mounted or attached to a post specially provided for that purpose, the post shall be coloured with alternate black and white bands, each band being not less than 280 mm nor more than 330 mm in depth, except that the lowest band shall be coloured black and be not less than 280 mm nor more than 1000 mm in depth.
+  - (2) Where a globe is mounted or attached to a post specially provided for that purpose, the post shall be coloured with alternate black and white bands, each band being not less than 280 mm nor more than 330 mm in depth, except that the lowest band shall be coloured black and be not less than 280 mm nor more than 1 000 mm in depth.
 
   - (3) A globe may be illuminated by a flashing light or by a constant light.
 
@@ -66,24 +66,44 @@ ZEBRA CROSSING AND LIGHT SIGNAL CROSSINGS
 
   - (b) square or circular in plan, the sides of a square stud not being less than 95 mm nor more than 110 mm in length and the diameter of a circular stud not being less than 95 mm nor more than 110 mm; and
 
-  - (c) so fixed that they do not project more than 16 mm above the carriageway at their highest points nor more than 7 mm at their edges. REGULATORY FIGURE No. 801 INDICATION OF ZEBRA PEDESTRIAN CROSSING REGULATORY FIGURE No. 802 INDICATION OF ZEBRA CONTROLLED AREA PATTERN OF LINES ON ONE OR BOTH SIDES OF A CROSSING INDICATING ZEBRA CONTROLLED AREA.
+  - (c) so fixed that they do not project more than 16 mm above the carriageway at their highest points nor more than 7 mm at their edges.
 
-  - EACH ZIG-ZAG LINE NEED NOT CONTAIN THE SAME NUMBER OF MARKS. REGULATORY FIGURE No. 803 PEDESTRIAN CROSSING INDICATION OF A LIGHT SIGNAL CROSSING UNDER REGULATION 33.
+Regulatory
 
-  - A PEDESTRIAN REFUGE OR CENTRAL RESERVATION MAY BE PROVIDED APPROXIMATELY AS SHOWN
+Figure No. 801 Indication of Zebra Pedestrian Crossing
 
-  - THE CROSSING ON EACH SIDE OF A PEDESTRIAN REFUGE IF PROVIDED SHALL BE TREATED AS A CROSSING ON A SEPARATE CARRIAGEWAY. REGULATORY FIGURE No. 804
+Regulatory
 
-  - SCHOOL CROSSING PATROL SIGN REGULATORY FIGURE No. 805 SCHOOL CROSSING PATROL SIGN
+Figure No. 802 Indication of Zebra Controlled Area
 
-- (L.N. 72 of 1990)
+Pattern of lines on one or both sides of a crossing indicating zebra controlled area.
 
-- REGULATORY
+Each zig-zag line need not contain the same number of marks.
 
-- FIGURE No. 806 LIGHT SIGNAL CROSSING
+Regulatory
 
-- YELLOW STRIPED MARKINGS
+Figure No. 803 Pedestrian Crossing
 
-- YELLOW MARKINGS TO INDICATE A LIGHT SIGNAL CROSSING ACROSS WHICH A VEHICLE MAY NOT BE DRIVEN CONTRARY TO REGULATION 10A.
+Indication of a light signal crossing under regulation 33.
 
-- (L.N. 72 of 1990)
+A pedestrian refuge or central reservation may be provided approximately as shown.
+
+The crossing on each side of a pedestrian refuge if provided shall be treated as a crossing on a separate carriageway.
+
+Regulatory
+
+Figure No. 804 School Crossing Patrol Sign
+
+Regulatory
+
+Figure No. 805 School Crossing Patrol Sign
+
+(L.N. 72 of 1990) Regulatory
+
+Figure No. 806 Light Signal Crossing
+
+Yellow Striped Markings
+
+Yellow markings to indicate a light signal crossing across which a vehicle may not be driven contrary to regulation 10A.
+
+(L.N. 72 of 1990)

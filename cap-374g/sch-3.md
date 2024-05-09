@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [regs. 2, 3, 16, 21 & 33]
 
-LIGHT SIGNALS
+Light Signals
 
 - 1. Light signals prescribed by regulation 16 shall be of the size, colour and type prescribed by paragraph 2, 3, 4, 5, 6, 7 or 8. (L.N. 242 of 1987)
 
@@ -180,26 +180,20 @@ LIGHT SIGNALS
 
   - (b) may be affixed to the light signals referred to in paragraph 2 of this Schedule.
 
-- (L.N. 242 of 1987)
+- (L.N. 242 of 1987) Regulatory
 
-- REGULATORY
+- Figure No. 701 Light Signal Crossing
 
-- FIGURE No. 701
+- The signals shall be arranged vertically, the red signal being above the green signal.
 
-- LIGHT SIGNAL CROSSING
+- Informatory
 
-- THE SIGNALS SHALL BE ARRANGED VERTICALLY, THE RED SIGNAL BEING ABOVE THE GREEN SIGNAL.
+- Figure No. 702 Light Signal Crossing
 
-- INFORMATORY
+- Regulatory
 
-- FIGURE No. 702
+- Figure No. 703 The Signal
 
-- LIGHT SIGNAL CROSSING
-
-- REGULATORY
-
-- FIGURE No. 703 THE SIGNAL
-
-- VEHICLE OF THE NORTH-WEST RAILWAY SIGNAL
+- Vehicle of the North-west Railway signal
 
 - (L.N. 242 of 1987)
