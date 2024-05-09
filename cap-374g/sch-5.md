@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [reg. 20]
 
-LIGHTING, SIGNING AND GUARDING OF ROAD WORKS
+Lighting, Signing and Guarding of Road Works
 
 - 1. The location of signs, road markings, barriers and road hazard warning lanterns at road works shall be in accordance with that set down in the Code of Practice.
 
@@ -42,4 +42,4 @@ LIGHTING, SIGNING AND GUARDING OF ROAD WORKS
 
 - 4.
 
-  - In this Schedule “Code of Practice” (工作守則) means the Code of Practice for the Lighting, Signing and Guarding of Road Works prescribed by the Director under the Ordinance.
+  - In this Schedule Code of Practice (工作守則) means the Code of Practice for the Lighting, Signing and Guarding of Road Works prescribed by the Director under the Ordinance.
