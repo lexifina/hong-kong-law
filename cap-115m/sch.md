@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [rule 2]
 
