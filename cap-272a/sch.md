@@ -2,7 +2,7 @@
 
 [regs. 3, 5, 6 & 15]
 
-FORM 1 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Form 1 Motor Vehicles Insurance (Third Party Risks) Ordinance
 
 (Chapter 272) Certificate of Insurance
 
@@ -30,9 +30,9 @@ Authorized Insurer.
 
 (G.N.A. 8 of 1957; L.N. 169 of 1989; 25 of 2005 s. 37)
 
-_
+__________
 
-FORM 2 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Form 2 Motor Vehicles Insurance (Third Party Risks) Ordinance
 
 (Chapter 272) Certificate of Insurance
 
@@ -60,9 +60,9 @@ Authorized Insurer.
 
 (G.N.A. 8 of 1957)
 
-_
+__________
 
-FORM 3 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Form 3 Motor Vehicles Insurance (Third Party Risks) Ordinance
 
 (Chapter 272) Certificate of Insurance
 
@@ -72,9 +72,9 @@ Authorized Insurer.
 
 (G.N.A. 78 of 1952)
 
-_
+__________
 
-FORM 4 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Form 4 Motor Vehicles Insurance (Third Party Risks) Ordinance
 
 (Chapter 272) Certificate of Security
 
@@ -96,9 +96,9 @@ Certificate No. | Security No.
 
 * Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
 
-_
+__________
 
-FORM 5 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Form 5 Motor Vehicles Insurance (Third Party Risks) Ordinance
 
 (Chapter 272) Certificate of Deposit
 
@@ -112,9 +112,9 @@ on behalf of
 
 (L.N. 54 of 1968; L.N. 16 of 1977; L.N. 216 of 1985)
 
-_
+__________
 
-FORM 6 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Form 6 Motor Vehicles Insurance (Third Party Risks) Ordinance
 
 (Chapter 272) Certificate of Foreign Insurance
 
