@@ -3222,6 +3222,8 @@ Scheduled Species
 
 - Isostichopus fuscus <Brown sea cucumber> (Ecuador)
 
+- Thelenota spp. <Sea cucumbers>
+
 - Appendix I | Appendix II | Appendix III
 
 - HOLOTHURIIDA
