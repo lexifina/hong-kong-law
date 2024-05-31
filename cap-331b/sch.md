@@ -10,7 +10,7 @@
 
 - 4. San Uk Ling Holding Centre.
 
-- 5. The Immigration Department Detention Quarters within the Hong Kong Airport Building.
+- 5. The area within the Hong Kong International Airport that is set aside as detention quarters for use by the Immigration Department. (L.N. 40 of 2024)
 
 - 6. (Repealed L.N. 53 of 2023)
 
@@ -37,3 +37,5 @@
 - 17. The area within the West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) that is set aside as detention quarters for use by the Immigration Department. (L.N. 110 of 2018)
 
 - 18. The area within the Passenger Terminal Building at Heung Yuen Wai Boundary Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 163 of 2018)
+
+- 19. The detention centre at 2nd floor of the Enforcement Tower of the Immigration Headquarters, 61 Po Yap Road, Tseung Kwan O. (L.N. 40 of 2024)
