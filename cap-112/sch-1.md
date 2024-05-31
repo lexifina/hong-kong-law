@@ -40,6 +40,18 @@ For the years of assessment 2004/05 to 2007/08 inclusive | — | 16%.
 
 (Added 24 of 2003 s. 9. Amended 21 of 2008 s. 7)
 
-For the year of assessment 2008/09 and for each year after that year | — | 15%.
+For the years of assessment 2008/09 to 2023/24 inclusive | — | 15%.
 
-(Added 21 of 2008 s. 7)
+(Added 21 of 2008 s. 7. Amended 10 of 2024 s. 19)
+
+For the year of assessment 2024/25 and for each year after that year—
+
+(a) for salaries tax, provisional salaries tax and tax under personal assessment—
+
+(i) on the first $5,000,000 | — | 15%;
+
+(ii) on the remainder | — | 16%;
+
+(b) for other taxes | — | 15%.
+
+(Added 10 of 2024 s. 19)
