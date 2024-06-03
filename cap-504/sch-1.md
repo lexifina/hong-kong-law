@@ -2,6 +2,10 @@
 
 [ss. 2, 4 & 55]
 
+Reporting of Deaths
+
+(Amended L.N. 162 of 2023)
+
 - Part 1 Reportable Deaths
 
   - 1. Any death of a person where a registered medical practitioner is unable to accurately state the medical cause of the death in the certificate of the cause of death.
@@ -70,13 +74,33 @@
 
     - (b) is a patient the subject of an order under section 31 or 36 of that Ordinance and the death occurs in a hospital other than such a mental hospital.
 
-  - 16. Any death of a person where the death occurred in any premises in which the care of persons is carried on for reward or other financial consideration (other than in any premises which comprise— (Amended 34 of 2018 s. 185)
+  - 16. Any death of a person (deceased) that occurred in any premises in which the care of persons (including the deceased immediately before the death) is provided for reward, except—
 
-    - (a) a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which a licence under that Ordinance is in force;
+    - (a) if the deceased died in a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) (Cap. 633) in respect of which a licence within the meaning of Cap. 633 is in force;
 
-    - (b) a scheduled nursing home within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which an exemption granted under section 128 of that Ordinance is in force; or
+    - (b) if the deceased died in a scheduled nursing home within the meaning of Cap. 633 in respect of which an exemption granted under section 128 of Cap. 633 is in force;
 
-    - (c) a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence under that Ordinance is in force). (Amended 34 of 2018 s. 185 and E.R. 5 of 2018)
+    - (c) if the deceased died in a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Regulation (Cap. 459 sub. leg. A) in respect of which a licence within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) (Cap. 459) is in force;
+
+    - (d) if—
+
+      - (i) the deceased died in a residential care home within the meaning of Cap. 459 (not being a nursing home referred to in subparagraph (c)) in respect of which a licence within the meaning of Cap. 459 is in force;
+
+      - (ii) the deceased was, before the death, diagnosed as having a terminal illness;
+
+      - (iii) a registered medical practitioner has attended the deceased during his or her last illness within 14 days before the death; and
+
+      - (iv) the cause of death stated in the certificate of the cause of death of the deceased is a natural cause; or
+
+    - (e) if—
+
+      - (i) the deceased died in a residential care home for PWDs within the meaning of the Residential Care Homes (Persons with Disabilities) Ordinance (Cap. 613) in respect of which a licence, or a certificate of exemption, within the meaning of that Ordinance is in force;
+
+      - (ii) the deceased was, before the death, diagnosed as having a terminal illness;
+
+      - (iii) a registered medical practitioner has attended the deceased during his or her last illness within 14 days before the death; and
+
+      - (iv) the cause of death stated in the certificate of the cause of death of the deceased is a natural cause. (Replaced L.N. 162 of 2023)
 
   - 17. Any death of a person where the death was caused by homicide.
 
