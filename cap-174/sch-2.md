@@ -514,13 +514,33 @@ comes under a duty to make a report of that death to the coroner as soon as is r
 
 (b) | is a patient the subject of an order under section 31 or 36 of that Ordinance and the death occurs in a hospital other than such a mental hospital.
 
-(16) | Any death of a person where the death occurred in any premises in which the care of persons is carried on for reward or other financial consideration (other than in any premises which comprise—
+(16) | Any death of a person (deceased) that occurred in any premises in which the care of persons (including the deceased immediately before the death) is provided for reward, except—
 
-(a) | a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which a licence under that Ordinance is in force;
+(a) | if the deceased died in a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) (Cap. 633) in respect of which a licence within the meaning of Cap. 633 is in force;
 
-(b) | a scheduled nursing home within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) for which an exemption granted under section 128 of that Ordinance is in force; or
+(b) | if the deceased died in a scheduled nursing home within the meaning of Cap. 633 in respect of which an exemption granted under section 128 of Cap. 633 is in force;
 
-(c) | a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) for which a licence under that Ordinance is in force).
+(c) | if the deceased died in a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Regulation (Cap. 459 sub. leg. A) in respect of which a licence within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) (Cap. 459) is in force;.
+
+(d) | if—
+
+(i) the deceased died in a residential care home within the meaning of Cap. 459 (not being a nursing home referred to in sub-subparagraph (c)) in respect of which a licence within the meaning of Cap. 459 is in force;
+
+(ii) the deceased was, before the death, diagnosed as having a terminal illness;
+
+(iii) a registered medical practitioner has attended the deceased during his or her last illness within 14 days before the death; and
+
+(iv) the cause of death stated in the certificate of the cause of death of the deceased is a natural cause; or
+
+(e) | if—
+
+(i) the deceased died in a residential care home for PWDs within the meaning of the Residential Care Homes (Persons with Disabilities) Ordinance (Cap. 613) in respect of which a licence, or a certificate of exemption, within the meaning of that Ordinance is in force;
+
+(ii) the deceased was, before the death, diagnosed as having a terminal illness;
+
+(iii) a registered medical practitioner has attended the deceased during his or her last illness within 14 days before the death; and
+
+(iv) the cause of death stated in the certificate of the cause of death of the deceased is a natural cause.
 
 (17) | Any death of a person where the death was caused by homicide.
 
@@ -532,7 +552,7 @@ comes under a duty to make a report of that death to the coroner as soon as is r
 
 3. | Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 34 of 2018 s. 161 and E.R. 5 of 2018; 21 of 2020 s. 83; 3 of 2023 s. 15) _ Form 19
+(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 34 of 2018 s. 161 and E.R. 5 of 2018; 21 of 2020 s. 83; 3 of 2023 s. 15; L.N. 161 of 2023) _ Form 19
 
 [s. 27(c)]
 
