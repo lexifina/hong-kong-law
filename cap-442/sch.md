@@ -378,7 +378,7 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (e) | A decision of the Director of Marine to impose any condition under section 23. (Added 14 of 2009 s. 40)
 
-69. | Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) | A decision of the Director of Social Welfare under section 7, 8, 9 or 10(1). (Added 12 of 2011 s. 31)
+69. | Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) | A decision of the Director of Social Welfare under section 8, 9 or 10(1). (Added 12 of 2011 s. 31. Amended 12 of 2023 s. 113)
 
 70. | Residential Care Homes (Persons with Disabilities) Ordinance (Cap. 613) | A decision of the Director of Social Welfare under section 7, 8, 9(1), 11 or 12. (Added 12 of 2011 s. 31)
 
