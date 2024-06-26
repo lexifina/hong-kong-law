@@ -18,9 +18,9 @@ Financial Penalties
 
 - 1B | 7AB | Employer to provide statements (18 of 2008 s. 25) | 10,000 | 20,000 | 50,000
 
-- 1C | 7AD(1) | Approved trustee to check calculations of contributions (18 of 2008 s. 25) | 10,000 | 20,000 | 50,000
+- 1C-1D | (Repealed 40 of 2021 s. 102)
 
-- 1D | 7AD(2) | Approved trustee to take actions required by Authority (18 of 2008 s. 25) | 10,000 | 20,000 | 50,000
+- 1E | 7AD(2) | Approved trustee to take actions reasonably required by Authority with regard to contribution (40 of 2021 s. 102) | 10,000 | 20,000 | 50,000
 
 - 2 | 7C(1)(b) | Self-employed person to pay contribution | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
@@ -28,7 +28,7 @@ Financial Penalties
 
 - 2B | 19B(5)(a) | Approved trustee to pay special contributions into specified sub-accounts (30 of 2008 s. 9) | 10,000 | 10,000 | 10,000
 
-- 2C | 19B(5)(b) | Approved trustee to notify scheme members of payment of special contributions (30 of 2008 s. 9) | 10,000 | 10,000 | 10,000
+- 2C | (Repealed 40 of 2021 s. 102)
 
 - 2D | 19C(4) | Requirements with respect to giving of information or documents to Authority (30 of 2008 s. 9) | 10,000 | 10,000 | 10,000
 
@@ -36,7 +36,7 @@ Financial Penalties
 
 - 2F | 19E(4)(a) | Approved trustee to withdraw sums from specified accounts and pay them to Authority (30 of 2008 s. 9) | 10,000 | 10,000 | 10,000
 
-- 2G | 19E(4)(b) | Approved trustee to notify scheme members of withdrawal of sums from their accounts (30 of 2008 s. 9) | 10,000 | 10,000 | 10,000
+- 2G | (Repealed 40 of 2021 s. 102)
 
 - 2H | 19P(3)(a) | Approved trustee to take actions under section 19P(3)(a) of the Ordinance (40 of 2021 s. 102) | If approved trustee fails to comply with section 19P(3)(a) of the Ordinance— (a) for the first occasion on which the trustee fails to do so—a daily penalty of $10,000 for each day on which the failure continues; (b) for the second occasion on which the trustee fails to do so—a daily penalty of $20,000 for each day on which the failure continues; and (c) for the third or subsequent occasion on which the trustee fails to do so—a daily penalty of $50,000 for each day on which the failure continues
 
@@ -80,7 +80,7 @@ Financial Penalties
 
 - 4F | 34DB(3) | Approved trustee must not invest according to default investment strategy the accrued benefits in pre-existing account of scheme member who the trustee is aware has reached 60 years of age before the commencement date* of Part 4AA of the Ordinance unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
-- 4G | 34DC(1) | Approved trustee to ensure transferred benefits remain invested in the same manner as they were invested immediately before the transfer unless scheme member otherwise instructs (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+- 4G | (Repealed 40 of 2021 s. 102)
 
 - 4H | 34DD(1) | Approved trustee to ensure only payments for services complying with section 34DD(3) of the Ordinance may be charged to or imposed on scheme member etc. relating to DIS constituent fund (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
@@ -105,6 +105,8 @@ Financial Penalties
 - 4R | 34DK(2) | Approved trustee not to invest accrued benefits invested in guaranteed fund according to default investment strategy unless the market value of those benefits is not less than the value guaranteed by the fund (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
 
 - 4S | 34DM | Approved trustee to continue to invest part of accrued benefits in pre-existing account unless having received specific investment instructions (9 of 2016 s. 26) | 10,000 | 20,000 | 50,000
+
+- 4T | 43BA(7) | Approved trustee to take actions reasonably required by Authority (40 of 2021 s. 102) | 10,000 | 20,000 | 50,000
 
 - Editorial Note:
 
@@ -186,13 +188,13 @@ Financial Penalties
 
 - 16 | 56 | Requirements with respect to provision of annual benefit statements to scheme members | 5,000 | 10,000 | 20,000
 
-- 16A | 56A | Requirements with respect to provision of contribution summaries for TVC accounts to scheme members (7 of 2019 s. 24) | 5,000 | 10,000 | 20,000
+- 16A | (Repealed 40 of 2021 s. 102)
 
 - 17 | 57 | Approved trustee to assist employers and scheme members | 5,000 | 10,000 | 20,000
 
 - 18 | 58 | Requirements with respect to changes of approved trustee’s business particulars | 5,000 | 10,000 | 20,000
 
-- 19 | 59 | Requirements with respect to changing payment of voluntary contributions | 5,000 | 10,000 | 20,000
+- 19 | (Repealed 40 of 2021 s. 102)
 
 - 20 | 60 | Approved trustee to ensure presence of independent trustee at meetings | 5,000 | 10,000 | 20,000
 
@@ -250,21 +252,19 @@ Financial Penalties
 
 - 46-47 | (Repealed 1 of 2015 s. 51)
 
-- 48 | 125(1) and (3) | Approved trustee to ascertain relevant income and basis of contribution of self-employed person | 5,000 | 10,000 | 20,000
-
-- 49 | 132 | Approved trustee to check calculations of mandatory contribution | 10,000 | 20,000 | 50,000
+- 48-49 | (Repealed 40 of 2021 s. 102)
 
 - 50-51 | (Repealed 1 of 2008 s. 69)
 
-- 52 | 135 | Approved trustee to inform Authority of failure to pay mandatory contribution (1 of 2008 s. 69) | 10,000 | 20,000 | 50,000
+- 52 | (Repealed 40 of 2021 s. 102)
 
 - 52A | 135A | Approved trustee to take actions required by Authority (1 of 2008 s. 69) | 10,000 | 20,000 | 50,000
 
-- 53 | 136(5) | Approved trustee to inform Authority of non-payment of arrears and contribution surcharge (2 of 2002 s. 21) | 10,000 | 20,000 | 50,000
+- 53 | (Repealed 40 of 2021 s. 102)
 
 - 54 | 136(10) | Participating employer and self-employed person to comply with requirement of a notice served under section 136 | 10,000 | 20,000 | 50,000
 
-- 55 | 137 | Approved trustee to check calculations of arrears and contribution surcharge | 10,000 | 20,000 | 50,000
+- 55 | (Repealed 40 of 2021 s. 102)
 
 - 56 | 139 | Participating employer to give monthly pay-records to scheme members | 10,000 | 20,000 | 50,000
 
@@ -278,23 +278,23 @@ Financial Penalties
 
 - 60 | 145(5), (6) and (7A), 146(7), (8) and (9A), 147(5) and 148(6) | Participating employer to give notice to trustee under sections 145(5), (6) and (7A), 146(7), (8) and (9A), 147(5) and 148(6) (1 of 2008 s. 26) | 5,000 | 10,000 | 20,000
 
+- 60A | 145A | Approved trustee to transfer accrued benefits to master trust scheme (40 of 2021 s. 102) | 10,000 | 20,000 | 50,000
+
 - 61 | 148(7) | Self-employed person to give notice to trustee under section 148(7) | 5,000 | 10,000 | 20,000
 
-- 62 | 152 | Approved trustee to notify scheme member of options of transfer of accrued benefits | 10,000 | 20,000 | 50,000
+- 62 | (Repealed 40 of 2021 s. 102)
 
 - 63 | 153 | Duty of approved trustee on being notified of election of transfer of accrued benefits | 10,000 | 20,000 | 50,000
 
-- 64 | 154(1) and (3) | Approved trustee to give transfer statement to scheme members (1 of 2015 s. 51) | 10,000 | 20,000 | 50,000
+- 64 | (Repealed 40 of 2021 s. 102)
 
-- 64A | 154(2) and (2A) | Transferor trustee to give information to transferee trustee (1 of 2015 s. 51) | 10,000 | 20,000 | 50,000
+- 64A | (Repealed 40 of 2021 s. 102)
 
-- 65 | 155 | Duty of approved trustee with respect to confirmation of transfer of accrued benefits | 10,000 | 20,000 | 50,000
-
-- 66 | (Repealed 40 of 2021 s. 102)
+- 65-66 | (Repealed 40 of 2021 s. 102)
 
 - 67 | 157 | Approved trustee to comply with Authority’s requirement not to give effect to election (40 of 2021 s. 102) | 10,000 | 20,000 | 50,000
 
-- 68 | 163(5) | Approved trustee to give notice to Authority under section 163(5) | 10,000 | 20,000 | 50,000
+- 68 | (Repealed 40 of 2021 s. 102)
 
 - 69 | (Repealed 1 of 2015 s. 51)
 
@@ -306,19 +306,11 @@ Financial Penalties
 
 - 71A | 169A | Requirements with respect to treatment of unclaimed accrued benefits or accrued benefits that have not been paid (40 of 2021 s. 102) | 10,000 | 20,000 | 50,000
 
-- 72 | 170 | Duty of approved trustee when scheme member cannot be located | 10,000 | 20,000 | 50,000
+- 72-74 | (Repealed 40 of 2021 s. 102)
 
-- 73 | 171 | Duty of approved trustee if claimant of accrued benefits cannot subsequently be located | 10,000 | 20,000 | 50,000
+- 74A-74B | (Repealed 40 of 2021 s. 102)
 
-- 74 | 172 | Duty of approved trustee to notify scheme member who has reached retirement age of his entitlement (1 of 2008 s. 34) | 10,000 | 20,000 | 50,000
-
-- 74A | 172A | Duty of approved trustee when scheme member whose accrued benefits are retained in a scheme cannot be located (1 of 2008 s. 34) | 10,000 | 20,000 | 50,000
-
-- 74B | 172B | Approved trustee to submit to Authority particulars of scheme members who have unclaimed benefits (1 of 2008 s. 34) | 10,000 | 20,000 | 50,000
-
-- 75 | 173 | Requirements with respect to disposal of unclaimed benefits in employer sponsored scheme | 10,000 | 20,000 | 50,000
-
-- 76 | (Repealed 40 of 2021 s. 102)
+- 75-76 | (Repealed 40 of 2021 s. 102)
 
 - 77 | 189 | Approved trustee to pay levy to administrator of compensation fund | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
