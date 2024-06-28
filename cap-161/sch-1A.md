@@ -204,6 +204,48 @@ List of Recognized Medical Qualifications
 
 - 97. | The United States of America | University of Colorado | Doctor of Medicine (4-year medical programme offered at Anschutz Medical Campus) (Added L.N. 110 of 2023)
 
+- 98. | Canada | University of Alberta | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 106 of 2024)
+
+- 99. | Canada | University of British Columbia | Doctor of Medicine and Doctor of Philosophy (7-year medical programme) (Added L.N. 106 of 2024)
+
+- 100. | Canada | University of Toronto | Doctor of Medicine and Doctor of Philosophy (8-year to 9-year medical programme) (Added L.N. 106 of 2024)
+
+- 101. | China | Capital Medical University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 102. | China | Capital Medical University | Bachelor of Medicine; Master of Medicine (a translation of “醫學學士；醫學碩士”) (8-year (“5+3”) Integrated Clinical Medicine (a translation of “臨床醫學專業(“5+3”)一體化八年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 103. | China | Fudan University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine medical programme in Paediatric Clinical Medicine (a translation of “臨床醫學專業五年制(兒科學方向)醫學課程”)) (Added L.N. 106 of 2024)
+
+- 104. | China | Huazhong University of Science and Technology | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 105. | China | Huazhong University of Science and Technology | Bachelor of Medicine, Bachelor of Surgery (a translation of “醫學學士”) (6-year Clinical Medicine medical programme in MBBS (a translation of “臨床醫學專業六年制MBBS班醫學課程”)) (Added L.N. 106 of 2024)
+
+- 106. | China | Sun Yat-sen University | Bachelor of Medicine, Bachelor of Surgery (a translation of “醫學學士”) (6-year Clinical Medicine medical programme in MBBS (a translation of “臨床醫學MBBS六年制醫學課程”)) (Added L.N. 106 of 2024)
+
+- 107. | China | Sun Yat-sen University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士專業”) (8-year Clinical Medicine (a translation of “臨床醫學專業八年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 108. | The United Kingdom | King’s College London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 106 of 2024)
+
+- 109. | The United Kingdom | University of Cambridge | Doctor of Philosophy; Bachelor of Surgery, Bachelor of Medicine (9-year medical programme) (Added L.N. 106 of 2024)
+
+- 110. | The United Kingdom | University of Southampton | Bachelor of Medicine, Bachelor of Surgery (5-year European Medicine Programme) (Added L.N. 106 of 2024)
+
+- 111. | The United States of America | Cornell University | Doctor of Medicine and Doctor of Philosophy (7-year medical programme) (Added L.N. 106 of 2024)
+
+- 112. | The United States of America | Duke University | Doctor of Medicine and Doctor of Philosophy (7.5-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 113. | The United States of America | Icahn School of Medicine at Mount Sinai | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 114. | The United States of America | Northwestern University | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 115. | The United States of America | Stanford University | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 116. | The United States of America | The University of Texas Health Science Center at Houston | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 117. | The United States of America | University of Chicago | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 118. | The United States of America | University of Florida | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 106 of 2024)
+
 - (Amended L.N. 56 of 2022)
 
 - Part 2
@@ -410,6 +452,62 @@ List of Recognized Medical Qualifications
 
 - 99. | The United States of America | Duke University | Doctor of Medicine (4-year medical programme) (Added L.N. 110 of 2023)
 
-- 100. | The United States of America | University of Colorado | Doctor of Medicine (4-year medical programme offered at Anschutz Medical Campus) (Added L.N. 110 of 2023)
+- 100. | The United States of America | University of Colorado | Doctor of Medicine (4-year medical programme offered at Anschutz Medical Campus) (Replaced L.N. 106 of 2024)
+
+- 101. | Australia | Monash University | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 106 of 2024)
+
+- 102. | Australia | Monash University | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 106 of 2024)
+
+- 103. | Australia | University of New South Wales | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 106 of 2024)
+
+- 104. | Australia | University of Western Australia | Bachelor of Medicine, Bachelor of Surgery (4.5-year medical programme) (Added L.N. 106 of 2024)
+
+- 105. | Australia | University of Western Australia | Bachelor of Medicine, Bachelor of Surgery (6-year medical programme) (Added L.N. 106 of 2024)
+
+- 106. | Canada | University of Alberta | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 106 of 2024)
+
+- 107. | Canada | University of British Columbia | Doctor of Medicine and Doctor of Philosophy (7-year medical programme) (Added L.N. 106 of 2024)
+
+- 108. | Canada | University of Toronto | Doctor of Medicine and Doctor of Philosophy (8-year to 9-year medical programme) (Added L.N. 106 of 2024)
+
+- 109. | China | Capital Medical University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 110. | China | Capital Medical University | Bachelor of Medicine; Master of Medicine (a translation of “醫學學士；醫學碩士”) (8-year (“5+3”) Integrated Clinical Medicine (a translation of “臨床醫學專業(“5+3”)一體化八年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 111. | China | Fudan University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine medical programme in Paediatric Clinical Medicine (a translation of “臨床醫學專業五年制(兒科學方向)醫學課程”)) (Added L.N. 106 of 2024)
+
+- 112. | China | Huazhong University of Science and Technology | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 113. | China | Huazhong University of Science and Technology | Bachelor of Medicine, Bachelor of Surgery (a translation of “醫學學士”) (6-year Clinical Medicine medical programme in MBBS (a translation of “臨床醫學專業六年制MBBS班醫學課程”)) (Added L.N. 106 of 2024)
+
+- 114. | China | Sun Yat-sen University | Bachelor of Medicine, Bachelor of Surgery (a translation of “醫學學士”) (6-year Clinical Medicine medical programme in MBBS (a translation of “臨床醫學MBBS六年制醫學課程”)) (Added L.N. 106 of 2024)
+
+- 115. | China | Sun Yat-sen University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士專業”) (8-year Clinical Medicine (a translation of “臨床醫學專業八年制”) medical programme) (Added L.N. 106 of 2024)
+
+- 116. | The United Kingdom | King’s College London | Bachelor of Medicine, Bachelor of Surgery (5-year medical programme) (Added L.N. 106 of 2024)
+
+- 117. | The United Kingdom | University of Bristol | Bachelor of Medicine, Bachelor of Surgery (4-year medical programme) (Added L.N. 106 of 2024)
+
+- 118. | The United Kingdom | University of Cambridge | Doctor of Philosophy; Bachelor of Surgery, Bachelor of Medicine (9-year medical programme) (Added L.N. 106 of 2024)
+
+- 119. | The United Kingdom | University of Southampton | Bachelor of Medicine, Bachelor of Surgery (5-year European Medicine Programme) (Added L.N. 106 of 2024)
+
+- 120. | The United States of America | Cornell University | Doctor of Medicine and Doctor of Philosophy (7-year medical programme) (Added L.N. 106 of 2024)
+
+- 121. | The United States of America | Duke University | Doctor of Medicine and Doctor of Philosophy (7.5-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 122. | The United States of America | Icahn School of Medicine at Mount Sinai | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 123. | The United States of America | Northwestern University | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 124. | The United States of America | Stanford University | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 125. | The United States of America | The University of Texas Health Science Center at Houston | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 126. | The United States of America | University of California, Los Angeles | Doctor of Medicine (4-year Charles R. Drew University of Medicine and Science/University of California, Los Angeles Medical Education Programme) (Added L.N. 106 of 2024)
+
+- 127. | The United States of America | University of Chicago | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
+
+- 128. | The United States of America | University of Florida | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 106 of 2024)
 
 - (Amended L.N. 56 of 2022) (Schedule 1A added 37 of 2021 s. 14)
