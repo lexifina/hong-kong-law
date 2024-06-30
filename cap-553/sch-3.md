@@ -34,7 +34,7 @@ Item | Enactment | Provision
 
 13. | Buildings Ordinance (Cap. 123) (Added L.N. 225 of 2021) | Sections 3(11), (11A)(b) and (11C), 8C(6)(b) and 35(1)(a) and (b)
 
-14. | Building (Administration) Regulations (Cap. 123 sub. leg. A) (Added L.N. 225 of 2021) | Regulation 6(1) (to the extent to which it relates to a document that is not one specified under regulation 6A(1)(a))
+14. | Building (Administration) Regulations (Cap. 123 sub. leg. A) (Added L.N. 225 of 2021. Amended L.N. 225 of 2021) | Regulation 6(1)
 
 15. | Building (Minor Works) Regulation (Cap. 123 sub. leg. N) (Added L.N. 225 of 2021) | Section 46(2)(a)
 
