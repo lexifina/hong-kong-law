@@ -14,7 +14,7 @@ Item | Enactment | Provision
 
 4. | (Repealed 15 of 2004 s. 62)
 
-5. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulation 12(1), (2), (3) and (5) (to the extent to which it relates to a document specified under regulation 6A(1)(c)) (L.N. 226 of 2021)
+5. | (Repealed L.N. 226 of 2021)
 
 6. | Registration of Persons Regulations (Cap. 177 sub. leg. A) | Regulation 4(1)
 
