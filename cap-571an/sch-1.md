@@ -58,13 +58,11 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6
 
 Item | Currency | Floating rate index | Tenor | Optionality | Constant notional
 
-1. | USD | LIBOR | 28 days to 10 years | No | Yes
+1. | (Repealed L.N. 150 of 2023)
 
 2. | EUR | EURIBOR | 28 days to 10 years | No | Yes
 
-3. | GBP | LIBOR | 28 days to 10 years | No | Yes
-
-4. | JPY | LIBOR | 28 days to 10 years | No | Yes
+3-4. | (Repealed L.N. 150 of 2023)
 
 5. | HKD | HIBOR | 28 days to 10 years | No | Yes
 
@@ -74,13 +72,11 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6
 
 Item | Currency | Floating rate index | Tenor | Optionality | Constant notional
 
-1. | USD | LIBOR | 28 days to 10 years | No | Yes
+1. | (Repealed L.N. 150 of 2023)
 
 2. | EUR | EURIBOR | 28 days to 10 years | No | Yes
 
-3. | GBP | LIBOR | 28 days to 10 years | No | Yes
-
-4. | JPY | LIBOR | 28 days to 10 years | No | Yes
+3-4. | (Repealed L.N. 150 of 2023)
 
 5. | HKD | HIBOR | 28 days to 10 years | No | Yes
 
@@ -92,6 +88,12 @@ Item | Currency | Floating rate index | Tenor | Optionality | Constant notional
 
 1. | USD | Fed Funds | 7 days to 2 years | No | Yes
 
-2. | EUR | EONIA | 7 days to 2 years | No | Yes
+2. | EUR (L.N. 150 of 2023) | €STR | 7 days to 3 years | No | Yes
 
-3. | GBP | SONIA | 7 days to 2 years | No | Yes
+3. | GBP (L.N. 150 of 2023) | SONIA | 7 days to 50 years | No | Yes
+
+4. | JPY (L.N. 150 of 2023) | TONA | 7 days to 30 years | No | Yes
+
+5. | USD (L.N. 150 of 2023) | SOFR | 7 days to 50 years | No | Yes
+
+6. | HKD (L.N. 150 of 2023) | HONIA | 7 days to 10 years | No | Yes
