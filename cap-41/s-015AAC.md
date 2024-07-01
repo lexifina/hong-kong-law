@@ -1,12 +1,14 @@
-# 15AAC. Offence to provide false information in connection with application for approval under section 15
+# 15AAC. Offence to provide false information in connection with application for approval under section 15AAAB(2)(a)
 
-(1) A person commits an offence if the person, in connection with an application for the approval under section 15—
+(Amended 20 of 2023 s. 28)
+
+(1) A person commits an offence if the person, in connection with an application for the approval under section 15AAAB(2)(a)— (Amended 20 of 2023 s. 28)
 
 - (a) makes a statement that is false or misleading in a material particular; and
 
 - (b) knows that, or is reckless as to whether, the statement is false or misleading in the material particular.
 
-(2) A person commits an offence if the person, in connection with an application for the approval under section 15—
+(2) A person commits an offence if the person, in connection with an application for the approval under section 15AAAB(2)(a)— (Amended 20 of 2023 s. 28)
 
 - (a) omits a material particular from a statement with the result that the statement is rendered false or misleading; and
 

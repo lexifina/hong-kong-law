@@ -1,0 +1,35 @@
+# 25AAD. Non-HK insurer may elect to maintain separate accounts and funds in accordance with section 25AA(6)
+
+(1) A non-HK insurer (other than a designated insurer and an insurer in relation to which a permission under section 25AAC(1) is in effect) may, by a written notice, elect to comply with section 25AA(6), instead of section 25AA(4).
+
+(2) The notice under subsection (1) must—
+
+- (a) be in the specified form;
+
+- (b) be served on the Authority; and
+
+- (c) state the date on which the insurer intends the election to take effect (intended effective date).
+
+(3) The election under subsection (1) takes effect—
+
+- (a) if the notice is served on the Authority at least 14 days before the intended effective date—on the intended effective date; or
+
+- (b) otherwise—on the expiry of 14 days after the date on which the notice is served on the Authority.
+
+(4) The insurer may, by a written notice, withdraw the election under subsection (1).
+
+(5) The notice of withdrawal under subsection (4) must—
+
+- (a) be in the specified form;
+
+- (b) be served on the Authority; and
+
+- (c) state the date on which the insurer intends the withdrawal to take effect (intended withdrawal date).
+
+(6) The withdrawal under subsection (4) takes effect—
+
+- (a) if the notice of withdrawal is served on the Authority at least 14 days before the intended withdrawal date—on the intended withdrawal date; or
+
+- (b) otherwise—on the expiry of 14 days after the date on which the notice of withdrawal is served on the Authority.
+
+(Added 20 of 2023 s. 44)

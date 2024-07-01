@@ -2,7 +2,7 @@
 
 (Replaced 12 of 2015 s. 89)
 
-[ss. 2, 3, 8, 10, 22, 23, 50A, 51, 64ZZC & 138 & Sch. 3] (Replaced 12 of 2015 s. 89)
+[ss. 2, 3, 8, 21B, 22, 25A, 51, 64ZZC & 138] (Replaced 12 of 2015 s. 89. Amended 20 of 2023 s. 97)
 
 Classes of Insurance Business
 
@@ -220,9 +220,9 @@ Classes of Insurance Business
 
 - Part 5 Transitional Provisions
 
-- Where immediately before the commencement of this Ordinance an insurer was authorized under an Ordinance repealed or amended by this Ordinance to carry on any of the former classes shown in column 1 of the table below, the appropriate corresponding business as respects that insurer shall, for the purposes of this Ordinance, be the corresponding business shown in column 2 of the table.
+- Where immediately before the commencement* of this Ordinance an insurer was authorized under an Ordinance repealed or amended by this Ordinance to carry on any of the former classes shown in column 1 of the table below, the appropriate corresponding business as respects that insurer shall, for the purposes of this Ordinance, be the corresponding business shown in column 2 of the table.
 
-- TABLE
+- Table
 
 - Former Classes | Corresponding Business
 
@@ -233,3 +233,7 @@ Classes of Insurance Business
 - Marine insurance business | Group 3
 
 - Motor vehicle insurance business | Group 2
+
+- Editorial Note:
+
+- * Commencement date: 30 June 1983.
