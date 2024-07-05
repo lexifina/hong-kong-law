@@ -99,6 +99,15 @@ s-079.md
 s-080.md
 s-081.md
 s-082.md
+s-082A.md
+s-082B.md
+s-082C.md
+s-082D.md
+s-082E.md
+s-082F.md
+s-082G.md
+s-082H.md
+s-082I.md
 s-083.md
 s-084.md
 s-085.md
@@ -109,4 +118,5 @@ s-089.md
 s-090.md
 s-090A.md
 s-091.md
+sch-1.md
 sch.md
