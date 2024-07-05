@@ -50,6 +50,10 @@ Qualifying Amalgamations—Special Tax Treatment
 
   - (b) for which an election has been made under section 40AM(1).
 
+- Editorial Note:
+
+- * Commencement date: 11 June 2021.
+
 - 3. Succession of business and asset etc.
 
   - (1) Despite section 40AG, the trade, profession or business carried on by each amalgamating company in a qualifying amalgamation in Hong Kong immediately before the date of amalgamation is, unless the Commissioner is notified otherwise, treated as being carried on by the amalgamated company in Hong Kong beginning on the date of amalgamation.
@@ -476,7 +480,7 @@ Qualifying Amalgamations—Special Tax Treatment
 
     - (b) set off against the assessable profits of the amalgamated company.
 
-  - (3) Subject to subsections (4) and (5), sections 19C, 19CAB, 19CAC and 19CB apply in relation to any qualifying loss of the amalgamating company as if the amalgamated company were the amalgamating company for the purposes of—
+  - (3) Subject to subsections (4) and (5), sections 19C, 19CAB, 19CAC, 19CB, 19CD, 19CE, 19CF and 19CG apply in relation to any qualifying loss of the amalgamating company as if the amalgamated company were the amalgamating company for the purposes of— (Amended 17 of 2024 s. 13)
 
     - (a) carrying forward the qualifying loss; and
 
@@ -506,13 +510,13 @@ Qualifying Amalgamations—Special Tax Treatment
 
         - (i) that is sustained in a trade, profession or business carried on by the amalgamating company before the date of amalgamation; and
 
-        - (ii) that is not set off under section 19C, 19CAB, 19CAC or 19CB; or
+        - (ii) that is not set off under section 19C, 19CAB, 19CAC, 19CB, 19CD, 19CE, 19CF or 19CG; or
 
       - (b) the amalgamating company’s share of loss—
 
         - (i) that is incurred in a trade, profession or business carried on by the amalgamating company in a partnership with another person before the date of amalgamation; and
 
-        - (ii) that is not set off under section 19C, 19CAB, 19CAC or 19CB;
+        - (ii) that is not set off under section 19C, 19CAB, 19CAC, 19CB, 19CD, 19CE, 19CF or 19CG; (Amended 17 of 2024 s. 13)
 
     - qualifying loss (合資格虧損), in relation to an amalgamating company and the amalgamated company in a qualifying amalgamation, means such part of a pre-amalgamation loss of the amalgamating company that was incurred at any time after the amalgamating company and the amalgamated company entered into a qualifying relationship.
 
@@ -526,7 +530,7 @@ Qualifying Amalgamations—Special Tax Treatment
 
   - (1) This section applies if the amalgamated company in a qualifying amalgamation has any pre-amalgamation loss.
 
-  - (2) Subject to subsections (3) and (4), sections 19C, 19CAB, 19CAC and 19CB apply in relation to a pre-amalgamation loss of the amalgamated company.
+  - (2) Subject to subsections (3) and (4), sections 19C, 19CAB, 19CAC, 19CB, 19CD, 19CE, 19CF and 19CG apply in relation to a pre-amalgamation loss of the amalgamated company. (Amended 17 of 2024 s. 13)
 
   - (3) In relation to an amalgamating company in the qualifying amalgamation, except as provided for in subsection (4), a pre-amalgamation loss of the amalgamated company cannot be used to set off against—
 
@@ -554,13 +558,13 @@ Qualifying Amalgamations—Special Tax Treatment
 
         - (i) that is sustained in a trade, profession or business carried on by the amalgamated company before the date of amalgamation; and
 
-        - (ii) that is not set off under section 19C, 19CAB, 19CAC or 19CB; or
+        - (ii) that is not set off under section 19C, 19CAB, 19CAC, 19CB, 19CD, 19CE, 19CF or 19CG; or
 
       - (b) the amalgamated company’s share of loss—
 
         - (i) that is incurred in a trade, profession or business carried on by the amalgamated company in partnership with another person before the date of amalgamation; and
 
-        - (ii) that is not set off under section 19C, 19CAB, 19CAC or 19CB;
+        - (ii) that is not set off under section 19C, 19CAB, 19CAC, 19CB, 19CD, 19CE, 19CF or 19CG; (Amended 17 of 2024 s. 13)
 
     - qualifying loss (合資格虧損), in relation to the amalgamated company and an amalgamating company in a qualifying amalgamation, means such part of a pre-amalgamation loss of the amalgamated company that was incurred at any time after the amalgamated company and the amalgamating company entered into a qualifying relationship.
 
@@ -645,7 +649,3 @@ Qualifying Amalgamations—Special Tax Treatment
   - (2) If the condition specified in subsection (3) is met, any refund of the contributions or voluntary contributions (whichever is applicable) received by, or accrued to, the amalgamated company on or after the date of amalgamation is deemed to be a trading receipt arising in, or derived from, Hong Kong of a trade, profession or business carried on by the amalgamated company in Hong Kong.
 
   - (3) The condition is that the refund would have been deemed to be the amalgamating company’s trading receipt chargeable to tax under Part 4 but for the amalgamation.
-
-Editorial Note:
-
-* Commencement date: 11 June 2021.

@@ -182,6 +182,11 @@ s-019CA.md
 s-019CAB.md
 s-019CAC.md
 s-019CB.md
+s-019CC.md
+s-019CD.md
+s-019CE.md
+s-019CF.md
+s-019CG.md
 s-019D.md
 s-019E.md
 s-020.md
@@ -329,6 +334,8 @@ s-040AU.md
 s-040AV.md
 s-040AW.md
 s-040AX.md
+s-040AY.md
+s-040AZ.md
 s-040B.md
 s-041.md
 s-042.md
@@ -562,6 +569,7 @@ sch-17F.md
 sch-17FA.md
 sch-17FB.md
 sch-17FC.md
+sch-17FD.md
 sch-17G.md
 sch-17H.md
 sch-17I.md
