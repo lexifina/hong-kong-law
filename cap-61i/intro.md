@@ -1,4 +1,6 @@
-Loans Ordinance Resolution of the Legislative Council
+Resolution of the Legislative Council (Capital Works Reserve Fund) (8 May 2024)
+
+(E.R. 4 of 2024)
 
 Resolution made and passed by the Legislative Council under section 3(1) of the Loans Ordinance (Cap. 61) on 8 May 2024.
 

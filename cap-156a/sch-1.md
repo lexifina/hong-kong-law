@@ -1,4 +1,4 @@
-# FIRST SCHEDULE
+# First Schedule
 
 Form 1
 
@@ -104,11 +104,11 @@ Name | Address | Date of Registration | Qualifications
 
 Fee paid: $835. | Photograph
 
-Registrar.
+Registrar
 
 19
 
-(L.N. 177 of 1977; 34 of 1995 s. 11; 11 of 2006 s. 34)
+(L.N. 177 of 1977; 34 of 1995 s. 11; 11 of 2006 s. 34; E.R. 4 of 2024)
 
 _ Form 4
 
@@ -134,7 +134,7 @@ Business | Residential
 
 (Signature)
 
-(State whether director or manager or secretary).
+(State whether director or manager or secretary)
 
 Dated this day of , 19 .
 
@@ -146,7 +146,7 @@ Dated this day of , 19 .
 
 (d) | State whether director, manager or a person who performs dental operations in connexion with the business of the company.
 
-_
+(E.R. 4 of 2024) _
 
 Form 6
 
@@ -158,7 +158,7 @@ DENTISTS REGISTRATION ORDINANCE (Chapter 156) Notice of Inquiry
 
 Sir/Madam,
 
-On behalf of the Dental Council of Hong Kong notice is hereby given to you that, in consequence of a complaint made against you to the Council/information received by the Council, an inquiry is to be held into the following charge(s) against you:—
+On behalf of the Dental Council of Hong Kong notice is hereby given to you that, in consequence of a complaint made against you to the Council/information received by the Council, an inquiry is to be held into the following charge(s) against you—
 
 (If the charge relates to conviction) That you were on the . day of ., 19. at (specify court recording the conviction) convicted of (set out particulars of the conviction in sufficient detail to identify the case).
 
@@ -200,9 +200,9 @@ If you desire to make any application that the inquiry should be postponed, you 
 
 A copy of the Dentists (Registration and Disciplinary Procedure) Regulations is sent herewith for your information.
 
-Secretary.
+Secretary
 
-(L.N. 118 of 1968; 80 of 1997 s. 102; 37 of 2000 s. 3; 11 of 2006 s. 34)
+(L.N. 118 of 1968; 80 of 1997 s. 102; 37 of 2000 s. 3; 11 of 2006 s. 34; E.R. 4 of 2024)
 
 _
 
@@ -224,7 +224,7 @@ You are hereby summoned to appear before the Dental Council of Hong Kong at .
 
 Given under my hand this . day of
 
-Chairman, Dental Council of Hong Kong.
+Chairman, Dental Council of Hong Kong
 
 Note: | (1) | Insert name of registered dentist.
 
@@ -233,3 +233,5 @@ Note: | (1) | Insert name of registered dentist.
 (3) | Delete if not required.
 
 (4) | Specify the books, documents or other things to be produced.
+
+(E.R. 4 of 2024)

@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [ss. 9(2), 11A, 12B & 32, regs. 4, 6 & 8B] (11 of 2006 s. 35)
 
-FEES
+Fees
 
 Item | Particular | Fee $
 
