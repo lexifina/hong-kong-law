@@ -462,7 +462,7 @@ The Council
 
 - 11. The Council may make for the proper conduct of its business Standing Orders which it may amend or rescind by simple majority at any of its meetings provided that not less than 7 days’ notice has been given in writing by the Secretary to members of the Council of the proposal so to amend or rescind.
 
-- 12. The quorum at any meeting of the Council shall be 12.
+- 12. The quorum at any meeting of the Council is not less than one-half of the whole membership of the Council for the time being. (Amended 28 of 2023 s. 10)
 
 STATUTE 11A
 
@@ -1160,6 +1160,4 @@ The Statutes may be cited as the Statutes of The Chinese University of Hong Kong
 
 Editorial Note:
 
-1. | For the transitional provision relating to the amendments made by the Statute Law (Miscellaneous Provisions) Ordinance 2002 (23 of 2002), see section 65 of that Ordinance.
-
-2. | For the transitional and saving provisions relating to the amendments made by The Chinese University of Hong Kong (Amendment) Ordinance 2023 (28 of 2023), see sections 19 and 20 of that Ordinance.
+For the transitional and saving provisions relating to the amendments made by The Chinese University of Hong Kong (Amendment) Ordinance 2023 (28 of 2023), see sections 19 and 20 of that Ordinance.
