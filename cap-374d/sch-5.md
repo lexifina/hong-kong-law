@@ -6,37 +6,37 @@ Taxi Fares
 
 (Format changes—E.R. 2 of 2014)
 
-1. | Taxis licensed to operate in Hong Kong and Kowloon (L.N. 353 of 1988; L.N. 75 of 1998; L.N. 12 of 2008; L.N. 219 of 2008) | (A) | $27.00 for the first 2 kilometres or any part of those 2 kilometres;
+1. | Taxis licensed to operate in Hong Kong and Kowloon (L.N. 353 of 1988; L.N. 75 of 1998; L.N. 12 of 2008; L.N. 219 of 2008) | (A) | $29.00 for the first 2 kilometres or any part of those 2 kilometres;
 
-(B) | $1.90 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $93.50; and
+(B) | $2.10 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $102.50; and
 
-(C) | $1.30 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $93.50.
+(C) | $1.40 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $102.50.
 
-2. | Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995; L.N. 225 of 1996; L.N. 15 of 1998; L.N. 219 of 2008) | (A) | $22.00 for the first 2 kilometres or any part of those 2 kilometres;
+2. | Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995; L.N. 225 of 1996; L.N. 15 of 1998; L.N. 219 of 2008) | (A) | $24.00 for the first 2 kilometres or any part of those 2 kilometres;
 
-(B) | $1.70 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $175.00; and
+(B) | $1.90 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $195.00; and
 
-(C) | $1.50 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $175.00.
+(C) | $1.60 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $195.00.
 
-2a. | Taxis licensed to operate in the New Territories (L.N. 353 of 1988; L.N. 12 of 2008; L.N. 9 of 2009) | (A) | $23.50 for the first 2 kilometres or any part of those 2 kilometres;
+2a. | Taxis licensed to operate in the New Territories (L.N. 353 of 1988; L.N. 12 of 2008; L.N. 9 of 2009) | (A) | $25.50 for the first 2 kilometres or any part of those 2 kilometres;
 
-(B) | $1.70 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $74.50; and
+(B) | $1.90 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $82.50; and
 
-(C) | $1.30 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $74.50.
+(C) | $1.40 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $82.50.
 
 3. | Waiting Time
 
-(i) | Taxis licensed to operate in Hong Kong and Kowloon (L.N. 219 of 2008) | (A) | $1.90 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $93.50; and
+(i) | Taxis licensed to operate in Hong Kong and Kowloon (L.N. 219 of 2008) | (A) | $2.10 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $102.50; and
 
-(B) | $1.30 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $93.50.
+(B) | $1.40 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $102.50.
 
-(ii) | Taxis licensed to operate within Lantau (L.N. 219 of 2008) | (A) | $1.70 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $175.00; and
+(ii) | Taxis licensed to operate within Lantau (L.N. 219 of 2008) | (A) | $1.90 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $195.00; and
 
-(B) | $1.50 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $175.00.
+(B) | $1.60 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $195.00.
 
-(iii) | Taxis licensed to operate in the New Territories (L.N. 9 of 2009) | (A) | $1.70 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $74.50; and
+(iii) | Taxis licensed to operate in the New Territories (L.N. 9 of 2009) | (A) | $1.90 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $82.50; and
 
-(B) | $1.30 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $74.50.
+(B) | $1.40 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $82.50.
 
 3a. | (Repealed L.N. 211 of 1991)
 
@@ -90,4 +90,4 @@ Taxi Fares
 
 (c) | Taxis licensed to operate within Lantau (L.N. 140 of 1990) | $5.00
 
-(L.N. 33 of 1984; L.N. 261 of 1984; L.N. 52 of 1986; L.N. 51 of 1987; L.N. 248 of 1987; L.N. 385 of 1987; L.N. 353 of 1988; L.N. 206 of 1989; L.N. 140 of 1990; L.N. 194 of 1990; L.N. 6 of 1992; L.N. 382 of 1993; L.N. 6 of 1994; L.N. 653 of 1994; L.N. 562 of 1995; L.N. 69 of 1997; L.N. 69 of 2011; L.N. 151 of 2013; L.N. 20 of 2017; L.N. 103 of 2022)
+(L.N. 33 of 1984; L.N. 261 of 1984; L.N. 52 of 1986; L.N. 51 of 1987; L.N. 248 of 1987; L.N. 385 of 1987; L.N. 353 of 1988; L.N. 206 of 1989; L.N. 140 of 1990; L.N. 194 of 1990; L.N. 6 of 1992; L.N. 382 of 1993; L.N. 6 of 1994; L.N. 653 of 1994; L.N. 562 of 1995; L.N. 69 of 1997; L.N. 69 of 2011; L.N. 151 of 2013; L.N. 20 of 2017; L.N. 103 of 2022; L.N. 78 of 2024)
