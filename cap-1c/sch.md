@@ -16,7 +16,7 @@ Chief Justice | Companies (Winding Up and Miscellaneous Provisions) Ordinance (C
 
 Chief Justice | Juvenile Offenders Ordinance (Cap. 226), section 3A(2).
 
-Chief Secretary for Administration | Rules of the High Court (Cap. 4 sub. leg. A), Order 69, rule 2, and Order 70, rule 3.
+Chief Secretary for Administration | The Rules of the High Court (Cap. 4 sub. leg. A), Order 69, rule 2, and Order 70, rule 3. (E.R. 4 of 2024)
 
 Chief Secretary for Administration | Evidence Ordinance (Cap. 8), sections 19A(1) and 40(5).
 
@@ -414,6 +414,8 @@ Secretary for Constitutional and Mainland Affairs | Sex Discrimination Ordinance
 
 Secretary for Constitutional and Mainland Affairs | Personal Data (Privacy) Ordinance (Cap. 486), section 14(6) and sections 2(2) and (3) and 3(2) of Schedule 2.
 
+Secretary for Culture, Sports and Tourism | Books Registration Ordinance (Cap. 142). (L.N. 144 of 2022)
+
 Secretary for Development | Buildings Ordinance (Cap. 123).
 
 Secretary for Education | Non-local Higher and Professional Education (Regulation) Ordinance (Cap. 493), section 8(1)(a)(ii)(B).
@@ -423,8 +425,6 @@ Secretary for Education | Hong Kong Council for Accreditation of Academic and Vo
 Secretary for Home and Youth Affairs | Probate and Administration Ordinance (Cap. 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K. (L.N. 144 of 2022)
 
 Secretary for Home and Youth Affairs | New Territories Ordinance (Cap. 97), sections 15, 16 and 18. (L.N. 144 of 2022)
-
-Secretary for Culture, Sports and Tourism | Books Registration Ordinance (Cap. 142). (L.N. 144 of 2022)
 
 Secretary for Home and Youth Affairs | Hotel and Guesthouse Accommodation Ordinance (Cap. 349), sections 19(1) and 20(1), (2), (4)(b)(ii) and (5). (6 of 2020 s. 43; L.N. 144 of 2022)
 
@@ -452,4 +452,4 @@ Secretary for Transport and Logistics | Merchant Shipping (Safety) Ordinance (Ca
 
 Secretary for Transport and Logistics | Roads (Works, Use and Compensation) Ordinance (Cap. 370). (L.N. 144 of 2022)
 
-(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12; 24 of 2023 s. 29)
+(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12; 24 of 2023 s. 29; E.R. 4 of 2024)
