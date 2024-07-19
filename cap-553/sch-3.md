@@ -62,4 +62,12 @@ Item | Enactment | Provision
 
 27. | Land Drainage Ordinance (Cap. 446) (Added 2 of 2024 s. 9) | Section 45(1)
 
+28. | Slaughterhouses Regulation (Cap. 132 sub. leg. BU) (Added L.N. 80 of 2024) | Section 10(1)
+
+29. | Swimming Pools Regulation (Cap. 132 sub. leg. CA) (Added L.N. 80 of 2024) | Section 5(1)
+
+30. | Places of Public Entertainment Regulations (Cap. 172 sub. leg. A) (Added L.N. 80 of 2024) | Regulations 3(1)(a), 5(1) and (2) and 162(1), (3), (4) and (9)(b)
+
+31. | Human Reproductive Technology Ordinance (Cap. 561) (Added L.N. 80 of 2024) | Section 43
+
 (Schedule 3 added 14 of 2004 s. 28)
