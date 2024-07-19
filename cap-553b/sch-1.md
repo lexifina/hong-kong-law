@@ -32,11 +32,7 @@ Item | Enactment | Provision
 
 25. | Public Cemeteries Regulation (Cap. 132 sub. leg. BI) | Section 5(a)
 
-26. | Slaughterhouses Regulation (Cap. 132 sub. leg. BU) | Section 10(1)
-
-27. | Swimming Pools Regulation (Cap. 132 sub. leg. CA) | Section 5(1)
-
-28. | Places of Public Entertainment Regulations (Cap. 172 sub. leg. A) | Regulations 3(1), 5(1) and (2) and 162(1), (3), (4) and (5)
+26-28. | (Repealed L.N. 81 of 2024)
 
 29. | Births and Deaths Registration Ordinance (Cap. 174) | Sections 12(2)(b)(i) and (c)(i) and 12A(b)(i) and (c)(i) (8 of 2006 s. 50)
 
