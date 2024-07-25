@@ -1,16 +1,20 @@
-# SCHEDULE 8
+# Schedule 8
 
 [ss. 87 & 88]
 
-TRANSITIONAL PROVISIONS
+Transitional Provisions
 
 - 1. Interpretation In this Schedule—
 
-  - “relevant day” (有關日期) means the day of commencement of this Regulation;
+  - relevant day (有關日期) means the day of commencement* of this Regulation;
 
-  - “repealed Launches and Ferry Vessels Regulations” (已廢除的《小輪及渡輪船隻規例》) means the Merchant Shipping (Launches and Ferry Vessels) Regulations (Cap. 313 sub. leg. E) repealed under section 91(1) of the Ordinance;
+  - repealed Launches and Ferry Vessels Regulations (已廢除的《小輪及渡輪船隻規例》) means the Merchant Shipping (Launches and Ferry Vessels) Regulations (Cap. 313 sub. leg. E) repealed under section 91(1) of the Ordinance;
 
-  - “repealed Miscellaneous Craft Regulations” (已廢除的《雜類航行器規例》) means the Merchant Shipping (Miscellaneous Craft) Regulations (Cap. 313 sub. leg. F) repealed under section 91(1) of the Ordinance.
+  - repealed Miscellaneous Craft Regulations (已廢除的《雜類航行器規例》) means the Merchant Shipping (Miscellaneous Craft) Regulations (Cap. 313 sub. leg. F) repealed under section 91(1) of the Ordinance.
+
+- Editorial Note:
+
+- * Commencement date: 2 January 2007.
 
 - 2. Arrangement in respect of previously issued certificates of inspection and certificates of survey
 
@@ -68,7 +72,7 @@ TRANSITIONAL PROVISIONS
 
   - (4)
 
-    - In subsection (3), “relevant fee regulation” (有關費用規例) means the Merchant Shipping (Fees) Regulations (Cap. 281 sub. leg. F) that were in force immediately before the relevant day.
+    - In subsection (3), relevant fee regulation (有關費用規例) means the Merchant Shipping (Fees) Regulations (Cap. 281 sub. leg. F) that were in force immediately before the relevant day.
 
 - 7. Deferred application of section 42(1) of this Regulation on certain Class II vessels Section 42(1) of this Regulation shall not apply to a Class II vessel—
 

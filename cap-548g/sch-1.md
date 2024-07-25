@@ -1,97 +1,97 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 87]
 
-CATEGORY OF LOCAL VESSELS
+Category of Local Vessels
 
-- Class | Types | Category
+Class | Types | Category
 
-- A | B
+A | B
 
-- I | ferry vessel | *
+I | ferry vessel | *
 
-- floating restaurant | *
+floating restaurant | *
 
-- launch | *
+launch | *
 
-- multi-purposes vessel | *
+multi-purposes vessel | *
 
-- primitive vessel | *
+primitive vessel | *
 
-- stationary vessel | *(1) | *(2)
+stationary vessel | *(1) | *(2)
 
-- crane barge | *(1) | *(2)
+crane barge | *(1) | *(2)
 
-- dangerous goods carrier | *(1) | *(2)
+dangerous goods carrier | *(1) | *(2)
 
-- dredger | *
+dredger | *
 
-- dry cargo vessel | *(3) | *
+dry cargo vessel | *(3) | *
 
-- dumb lighter | *
+dumb lighter | *
 
-- edible oil carrier | *
+edible oil carrier | *
 
-- flat-top work barge | *(4) | *
+flat-top work barge | *(4) | *
 
-- floating dock | *
+floating dock | *
 
-- floating workshop | *(1) | *(2)
+floating workshop | *(1) | *(2)
 
-- gas carrier | *
+gas carrier | *
 
-- hopper barge | *
+hopper barge | *
 
-- II | landing platform | *
+II | landing platform | *
 
-- landing pontoon | *
+landing pontoon | *
 
-- noxious liquid substance carrier | *
+noxious liquid substance carrier | *
 
-- oil carrier | *
+oil carrier | *
 
-- pilot boat | *(1) | *(2)
+pilot boat | *(1) | *(2)
 
-- special purpose vessel | *
+special purpose vessel | *
 
-- stationary vessel | *(5) | *
+stationary vessel | *(5) | *
 
-- transportation boat | *
+transportation boat | *
 
-- transportation sampan | *
+transportation sampan | *
 
-- tug | *
+tug | *
 
-- water boat | *(4) | *(2)
+water boat | *(4) | *(2)
 
-- work boat | *(1) | *(2)
+work boat | *(1) | *(2)
 
-- III | fish carrier | *(4) | *
+III | fish carrier | *(4) | *
 
-- fishing sampan | *(6) and (7)
+fishing sampan | *(6) and (7)
 
-- fishing vessel | *(4) | *(8)
+fishing vessel | *(4) | *(8)
 
-- outboard open sampan | *
+outboard open sampan | *
 
-- (L.N. 25 of 2023)
+(L.N. 25 of 2023)
 
 Notes:
 
 “*” means applicable.
 
-- (1) Applicable only to new vessels.
+(1) Applicable only to new vessels.
 
-- (2) Applicable only to local vessels that are not new vessels.
+(2) Applicable only to local vessels that are not new vessels.
 
-- (3) Dry cargo vessels that are of wooden construction and operate solely within the waters of Hong Kong are categorized as Category B vessels. In any other case, they are categorized as Category A vessels.
+(3) Dry cargo vessels that are of wooden construction and operate solely within the waters of Hong Kong are categorized as Category B vessels. In any other case, they are categorized as Category A vessels.
 
-- (4) Flat-top work barges, water boats, fish carriers and fishing vessels that are of wooden construction are categorized as Category B vessels. In any other case, they are categorized as Category A vessels.
+(4) Flat-top work barges, water boats, fish carriers and fishing vessels that are of wooden construction are categorized as Category B vessels. In any other case, they are categorized as Category A vessels.
 
-- (5) New vessels that are kitchen boats only.
+(5) New vessels that are kitchen boats only.
 
-- (6) Fishing sampans made of glass reinforced plastic and less than 15 m in length.
+(6) Fishing sampans made of glass reinforced plastic and less than 15 m in length.
 
-- (7) Fishing sampans that are of wooden construction and less than 8 m in length.
+(7) Fishing sampans that are of wooden construction and less than 8 m in length.
 
-- (8) Fishing vessels that are of wooden construction and 8 m or more in length.
+(8) Fishing vessels that are of wooden construction and 8 m or more in length.

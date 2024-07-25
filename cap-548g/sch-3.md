@@ -1,10 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
-[ss. 32(2) & 87 & Schs. 2 & 8]
+[ss. 32(2) & 87 &
 
-PROVISION OF LIFE-SAVING APPLIANCES
+Schs. 2 & 8]
 
-- PART 1 GENERAL REQUIREMENTS
+Provision of Life-saving Appliances
+
+- Part 1 General Requirements
 
   - 1. Replacement of life-saving appliances Where a life-saving appliance on a local vessel is marked with an expiry date, the appliance shall be replaced on or before that date.
 
@@ -116,27 +118,27 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
   - (L.N. 154 of 2019)
 
-- PART 2 SPECIFIC REQUIREMENTS
+- Part 2 Specific Requirements
 
 - Table 1
 
-  - (i) Class I vessels
+    - (i) Class I vessels
 
-  - (ii) Class IV vessels that are licensed to carry more than 60 passengers
+    - (ii) Class IV vessels that are licensed to carry more than 60 passengers
 
-  - (iii) Class IV vessels that are licensed to carry 13 to 60 passengers but are let for hire or reward
+    - (iii) Class IV vessels that are licensed to carry 13 to 60 passengers but are let for hire or reward
 
-  - Operation area Life-saving appliances | Specified sheltered waters, a typhoon shelter or anywhere within waters of Hong Kong
+    - Operation area Life-saving appliances | Specified sheltered waters, a typhoon shelter or anywhere within waters of Hong Kong
 
-  - lifebuoy | minimum number per Table 2
+    - lifebuoy | minimum number per Table 2
 
-  - buoyant lifeline(3) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
+    - buoyant lifeline(3) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
 
-  - self-igniting light(4) | 2
+    - self-igniting light(4) | 2
 
-  - (L.N. 187 of 2016; L.N. 154 of 2019)
+    - (L.N. 187 of 2016; L.N. 154 of 2019)
 
-  - Notes:
+- Notes:
 
   - (1)-(2) (Repealed L.N. 154 of 2019)
 
@@ -152,35 +154,37 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
 - Table 2 Minimum number of lifebuoys as required in Table 1
 
-  - Vessel length (L) (m) | Number of lifebuoys
+- Vessel length (L) (m) | Number of lifebuoys
 
-  - (L)<12 | 2
+- (L)<12 | 2
 
-  - 12≤(L)<15 | 4
+- 12≤(L)<15 | 4
 
-  - 15≤(L)<18 | 6
+- 15≤(L)<18 | 6
 
-  - 18≤(L)<21 | 8
+- 18≤(L)<21 | 8
 
-  - 21≤(L)<24 | 10
+- 21≤(L)<24 | 10
 
-  - (L)≥24 | 12
+- (L)≥24 | 12
 
 - Table 3
 
-  - (i) Class II vessels that operate within waters of Hong Kong
+    - (i) Class II vessels that operate within waters of Hong Kong
 
-  - (ii) Class IV vessels that are licensed to carry not more than 12 passengers but are let for hire or reward
+    - (ii) Class IV vessels that are licensed to carry not more than 12 passengers but are let for hire or reward
 
-  - Operation area Life-saving appliances | Specified sheltered waters, a typhoon shelter or anywhere within waters of Hong Kong
+- Operation area Life-saving appliances | Specified sheltered waters, a typhoon shelter or anywhere within waters of Hong Kong
 
-  - lifebuoy(1) and (4) | minimum number per Table 5
+- lifebuoy(1) and (4) | minimum number per Table 5
 
-  - buoyant lifeline(4), (6) and (7) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
+- buoyant lifeline(4), (6) and (7) | 1 for vessel (L)<12 m 2 for vessel (L)≥12 m
 
-  - <self-igniting light (for vessel (L)≥37 m)>(5) | 2
+- <self-igniting light (for vessel (L)≥37 m)>(5) | 2
 
-  - (L.N. 154 of 2019) Notes:
+- (L.N. 154 of 2019)
+
+- Notes:
 
   - (1)
 
@@ -208,27 +212,29 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
 - Table 4 Class II vessels that operate within river trade limits
 
-  - Type of vessel Life-saving appliances | Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
+- Type of vessel Life-saving appliances | Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
 
-  - lifebuoy | minimum number per Table 5
+- lifebuoy | minimum number per Table 5
 
-  - line throwing appliance | 1(2)
+- line throwing appliance | 1(2)
 
-  - buoyant apparatus | 100%(1), (3) and (4)
+- buoyant apparatus | 100%(1), (3) and (4)
 
-  - inflatable liferaft | 100%(1) | 100%(1), (3) and (4)
+- inflatable liferaft | 100%(1) | 100%(1), (3) and (4)
 
-  - <motor lifeboat>(5) | 100%(1) and (6)
+- <motor lifeboat>(5) | 100%(1) and (6)
 
-  - VHF (very high frequency) radio installation | 1 | 1(4)
+- VHF (very high frequency) radio installation | 1 | 1(4)
 
-  - buoyant lifeline(7) | 2
+- buoyant lifeline(7) | 2
 
-  - self-igniting light | 2
+- self-igniting light | 2
 
-  - rocket parachute flare(4) | 6
+- rocket parachute flare(4) | 6
 
-  - (L.N. 187 of 2016; L.N. 154 of 2019; L.N. 70 of 2020) Notes:
+- (L.N. 187 of 2016; L.N. 154 of 2019; L.N. 70 of 2020)
+
+- Notes:
 
   - (1) Where the required quantity of life-saving appliances is expressed as a percentage, it means the percentage of the total number of persons on board.
 
@@ -260,41 +266,43 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
 - Table 5 Minimum number of lifebuoys as required in Tables 3 and 4
 
-  - Vessel length (L) (m) | Number of lifebuoys
+- Vessel length (L) (m) | Number of lifebuoys
 
-  - (L)<12 | 1
+- (L)<12 | 1
 
-  - 12≤(L)<24 | 2
+- 12≤(L)<24 | 2
 
-  - 24≤(L)<37 | 4
+- 24≤(L)<37 | 4
 
-  - (L)≥37 | 6
+- (L)≥37 | 6
 
 - Table 6 Class III vessels
 
-  - Life-saving appliances | Category of vessel | A | B(1A)
+- Life-saving appliances | Category of vessel | A | B(1A)
 
-  - Vessel length (L) (m) | (L)<24 | 24≤(L) <45(1) | (L)<24 | 24≤(L) <45(1)
+- Vessel length (L) (m) | (L)<24 | 24≤(L)<45(1) | (L)<24 | 24≤(L)<45(1)
 
-  - lifebuoy | 2 | 4 | 2(3) | 2 or <4>(5)
+- lifebuoy | 2 | 4 | 2(3) | 2 or <4>(5)
 
-  - buoyant apparatus (for vessel (L)>30 m) | ─ | 100%(2) | ─
+- buoyant apparatus (for vessel (L)>30 m) | ─ | 100%(2) | ─
 
-  - inflatable liferaft | 100%(2) (type, equipment, location and arrangement of liferaft shall be in accordance with the relevant plans approved under Part 3 of this Regulation) | ─
+- inflatable liferaft | 100%(2) (type, equipment, location and arrangement of liferaft shall be in accordance with the relevant plans approved under Part 3 of this Regulation) | ─
 
-  - buoyant lifeline(6) | 2 | 2(2)
+- buoyant lifeline(6) | 2 | 2(2)
 
-  - <self-activating smoke>(5) | 1(7) | 1(7)
+- <self-activating smoke>(5) | 1(7) | 1(7)
 
-  - self-igniting light | 1(7) | 2(7) | 1(7) | 2(7)
+- self-igniting light | 1(7) | 2(7) | 1(7) | 2(7)
 
-  - <rocket parachute flare>(5) | 4(7) | 4(7)
+- <rocket parachute flare>(5) | 4(7) | 4(7)
 
-  - <radar transponder>(5) | 1(7) | 1(7)
+- <radar transponder>(5) | 1(7) | 1(7)
 
-  - radiocommunications equipment | description, quantity, type, function and location of equipment shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─
+- radiocommunications equipment | description, quantity, type, function and location of equipment shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─
 
-  - (L.N. 154 of 2019) Notes:
+- (L.N. 154 of 2019)
+
+- Notes:
 
   - (1A) For a Class III vessel that falls within paragraph (a) or (b) of Schedule 2, instead of the life-saving appliances stated in the Table, a quantity of suitable lifejackets or lifebuoys, or a combination of both, that is adequate for the total number of persons on board is required. (L.N. 154 of 2019)
 
@@ -334,31 +342,25 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
     - (b) is exempted under section 69(1) of the Ordinance from complying with section 28(1) of the Ordinance.
 
-- Table 7 Class IV vessels that are licensed to carry not
+- Table 7 Class IV vessels that are licensed to carry not more than 60 passengers and are not let for hire or reward and operate within waters of Hong Kong
 
-- more than 60 passengers and are not let for
+- Life-saving appliances | Quantity
 
-- hire or reward and operate within
+- lifebuoy | Vessel length (L) (m) | Number
 
-- waters of Hong Kong
+- L<12 | 1
 
-  - Life-saving appliances | Quantity
+- 12≤(L)<21 | 2
 
-  - lifebuoy | Vessel length (L) (m) | Number
+- 21≤(L)<37 | 4
 
-  - L<12 | 1
+- (L)≥37 | 6
 
-  - 12≤(L)<21 | 2
+- buoyant lifeline(2) | 1
 
-  - 21≤(L)<37 | 4
+- (L.N. 154 of 2019)
 
-  - (L)≥37 | 6
-
-  - buoyant lifeline(2) | 1
-
-  - (L.N. 154 of 2019)
-
-  - Notes:
+- Notes:
 
   - (1) (Repealed L.N. 154 of 2019)
 
@@ -370,17 +372,17 @@ PROVISION OF LIFE-SAVING APPLIANCES
 
 - Table 8
 
-  - (i) A Class IV vessel that is licensed before 1 August 2020 to carry not more than 60 passengers and is let for hire or reward (except a Class IV vessel that is an open cruiser)
+    - (i) A Class IV vessel that is licensed before 1 August 2020 to carry not more than 60 passengers and is let for hire or reward (except a Class IV vessel that is an open cruiser)
 
-  - (ii) A Class IV vessel that is an open cruiser licensed to carry not more than 60 passengers and is let for hire or reward
+    - (ii) A Class IV vessel that is an open cruiser licensed to carry not more than 60 passengers and is let for hire or reward
 
-  - (iii) A Class IV vessel of more than 150 gross tonnage and is licensed before 1 August 2020
+    - (iii) A Class IV vessel of more than 150 gross tonnage and is licensed before 1 August 2020
 
-  - Life-saving appliances | Number
+- Life-saving appliances | Number
 
-  - Lifebuoy | sufficient for use by the maximum number of persons that the vessel is licensed to carry(1)
+- Lifebuoy | sufficient for use by the maximum number of persons that the vessel is licensed to carry(1)
 
-  - Note:
+- Note:
 
   - (1) For a Class IV vessel that is an open cruiser licensed to carry not more than 60 passengers and is let for hire or reward, this requirement is exempted if the passengers on board the vessel wear suitable lifejackets while the vessel is underway.
 

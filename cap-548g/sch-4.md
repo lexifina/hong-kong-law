@@ -1,20 +1,22 @@
-# SCHEDULE 4
+# Schedule 4
 
-[ss. 33(2) & 87 & Schs. 2 & 8]
+[ss. 33(2) & 87 &
 
-FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
+Schs. 2 & 8]
 
-- PART 1 GENERAL REQUIREMENTS
+Fire Protection and Provision of Fire-fighting Apparatus
+
+- Part 1 General Requirements
 
   - 1. Interpretation In this Schedule, unless the context otherwise requires—
 
-    - “cargo pump room” (貨泵房) means a room in which any pump used for loading, discharging or transferring cargoes is located;
+    - cargo pump room (貨泵房) means a room in which any pump used for loading, discharging or transferring cargoes is located;
 
-    - “engine room” (輪機室) means a space which contains propulsion machinery and generators;
+    - engine room (輪機室) means a space which contains propulsion machinery and generators;
 
-    - “machinery space” (機艙) means a space which contains internal combustion engines, electrical machinery, ventilation and air conditioning machinery and any similar space;
+    - machinery space (機艙) means a space which contains internal combustion engines, electrical machinery, ventilation and air conditioning machinery and any similar space;
 
-    - “service space” (服務艙) include galleys, pantries containing cooking appliances, lockers and store rooms, workshops (other than those forming part of machinery spaces) and any similar space and any trunk to such space.
+    - service space (服務艙) include galleys, pantries containing cooking appliances, lockers and store rooms, workshops (other than those forming part of machinery spaces) and any similar space and any trunk to such space.
 
   - 2. Operation and installation requirement
 
@@ -54,49 +56,49 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
       - (b) placed in a position where they will be easily accessible from the spaces in which they are intended to be used and, in particular, one of the portable fire extinguishers intended to be used in any space shall be placed near the entrance to that space.
 
-- PART 2 SPECIFIC REQUIREMENTS
+- Part 2 Specific Requirements
 
 - Table 1
 
-  - (i) Class I vessels (excluding floating restaurants, and stationary vessels that are ceremonial boats)
+    - (i) Class I vessels (excluding floating restaurants, and stationary vessels that are ceremonial boats)
 
-  - (ii) Class IV vessels that are licensed to carry more than 60 passengers
+    - (ii) Class IV vessels that are licensed to carry more than 60 passengers
 
-  - (iii) Class IV vessels that are licensed to carry 13 to 60 passengers but are let for hire or reward
+    - (iii) Class IV vessels that are licensed to carry 13 to 60 passengers but are let for hire or reward
 
-  - Vessel length (L) (m) Fire-fighting apparatus | (L)<15 | 15≤(L)<24 | 24≤(L)<60 | 60≤(L)<75(1)
+- Vessel length (L) (m) Fire-fighting apparatus | (L)<15 | 15≤(L)<24 | 24≤(L)<60 | 60≤(L)<75(1)
 
-  - portable fire extinguisher | passenger accommodation space | 1 on each deck (minimum 2) | 1 within not more than 10 m walking distance , but at least 2 on each deck
+- portable fire extinguisher | passenger accommodation space | 1 on each deck (minimum 2) | 1 within not more than 10 m walking distance , but at least 2 on each deck
 
-  - wheel house | 1
+- wheel house | 1
 
-  - galley | 1
+- galley | 1
 
-  - engine control room | 1
+- engine control room | 1
 
-  - engine room | 3 | 4 | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 4 and not more than 6 in each room
+- engine room | 3 | 4 | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 4 and not more than 6 in each room
 
-  - machinery space | 1 within each space
+- machinery space | 1 within each space
 
-  - <fixed CO2 fire extinguishing system> (2) and (3) | engine room | ─ | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- <fixed CO2 fire extinguishing system> (2) and (3) | engine room | ─ | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - <fire detection and alarm system>(3) | ─ | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- <fire detection and alarm system>(3) | ─ | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - main fire pump | power | ─ | 1(4) | 1(5) | 1
+- main fire pump | power | — | 1(4) | 1(5) | 1
 
-  - manual | ─ | ─
+- manual | — | —
 
-  - emergency fire pump | power | ─ | 1(4) | 1(4)
+- emergency fire pump | power | — | 1(4) | 1(4)
 
-  - manual
+- manual
 
-  - fire main + hose + hydrant + jet nozzle | ─ | 1 set | 1 set to be provided for each pump(6)
+- fire main + hose + hydrant + jet nozzle | — | 1 set | 1 set to be provided for each pump(6)
 
-  - fireman’s axe | ─ | 1
+- fireman’s axe | — | 1
 
-  - (L.N. 70 of 2020)
+- (L.N. 70 of 2020)
 
-  - Notes:
+- Notes:
 
   - (1) The requirement for a local vessel of 75 m or more in length shall be specified by the Director on a case-by-case basis.
 
@@ -122,45 +124,45 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
 - Table 2 Class I vessels—floating restaurants, and stationary vessels that are ceremonial boats
 
-  - Fire-fighting apparatus | Floating restaurant and <ceremonial boat>(1) and (2)
+- Fire-fighting apparatus | Floating restaurant and <ceremonial boat>(1) and (2)
 
-  - portable fire extinguisher | dining space | 1 within not more than 10 m walking distance, but at least 2 within the space
+- portable fire extinguisher | dining space | 1 within not more than 10 m walking distance, but at least 2 within the space
 
-  - service space | 1
+- service space | 1
 
-  - machinery space | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 2 and not more than 6 within each space
+- machinery space | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 2 and not more than 6 within each space
 
-  - <fixed CO2 fire extinguishing system>(2) | machinery space | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- <fixed CO2 fire extinguishing system>(2) | machinery space | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - <fire detection and alarm system>(2) | service space | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- <fire detection and alarm system>(2) | service space | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - machinery space
+- machinery space
 
-  - main fire pump | power(1) | 2
+- main fire pump | power(1) | 2
 
-  - emergency fire pump | power(1) | 1
+- emergency fire pump | power(1) | 1
 
-  - fire main + hose | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- fire main + hose | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - hydrant(1) | deck | quantity, size, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- hydrant(1) | deck | quantity, size, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - machinery space | 1
+- machinery space | 1
 
-  - nozzle | jet | quantity, size, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- nozzle | jet | quantity, size, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - spray | 1 on each deck 1 in each machinery space
+- spray | 1 on each deck 1 in each machinery space
 
-  - <automatic sprinkler system>(2) | dining space | quantity, type, size, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulations
+- <automatic sprinkler system>(2) | dining space | quantity, type, size, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulations
 
-  - service space
+- service space
 
-  - <fire station>(2) and (3) | 2 on each deck
+- <fire station>(2) and (3) | 2 on each deck
 
-  - <fire control plan>(2) | 2 on each deck
+- <fire control plan>(2) | 2 on each deck
 
-  - <fire roster>(2) | 1 on each deck
+- <fire roster>(2) | 1 on each deck
 
-  - Notes:
+- Notes:
 
   - (1) If no independent fire pump is installed on a stationary vessel that is a kitchen boat, the fire pump available shall be capable of delivering at least one jet of water from one hydrant to the kitchen boat.
 
@@ -168,61 +170,61 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (3) Each fire station shall be provided with the following appliances—
 
-  - portable fire extinguisher | 2
+- portable fire extinguisher | 2
 
-  - water bucket with lanyard (on main deck only) | 1
+- water bucket with lanyard (on main deck only) | 1
 
-  - fire hose (20 mm diameter) | 1 on each deck
+- fire hose (20 mm diameter) | 1 on each deck
 
-  - starting button for fire pump | 1 on each deck
+- starting button for fire pump | 1 on each deck
 
-  - nozzle | jet | 1
+- nozzle | jet | 1
 
-  - spray | 1
+- spray | 1
 
-  - fireman’s axe | 1 on each deck
+- fireman’s axe | 1 on each deck
 
-  - fire blanket | 1 on each deck
+- fire blanket | 1 on each deck
 
 - Table 3
 
-  - (i) Class II vessels (excluding floating docks, floating workshops, oil carriers and stationary vessels that are kitchen boats) that operate within waters of Hong Kong(1)
+    - (i) Class II vessels (excluding floating docks, floating workshops, oil carriers and stationary vessels that are kitchen boats) that operate within waters of Hong Kong(1)
 
-  - (ii) Class IV vessels that are licensed to carry not more than 12 passengers but are let for hire or reward
+    - (ii) Class IV vessels that are licensed to carry not more than 12 passengers but are let for hire or reward
 
-  - Vessel length (L) (m) Fire-fighting apparatus | (L)<12 | 12≤(L)<24 | 24≤(L)<75(2)
+- Vessel length (L) (m) Fire-fighting apparatus | (L)<12 | 12≤(L)<24 | 24≤(L)<75(2)
 
-  - For Class II Category A or B vessels(3) and Class IV vessels
+- For Class II Category A or B vessels(3) and Class IV vessels
 
-  - portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
+- portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
 
-  - wheel house | 1
+- wheel house | 1
 
-  - galley | 1
+- galley | 1
 
-  - engine control room | 1
+- engine control room | 1
 
-  - engine room | 2 | 3 | 4
+- engine room | 2 | 3 | 4
 
-  - machinery space | 1 within each space
+- machinery space | 1 within each space
 
-  - fire bucket with lanyard(4) | 1 | 2 | 3
+- fire bucket with lanyard(4) | 1 | 2 | 3
 
-  - For Class II Category A vessels only
+- For Class II Category A vessels only
 
-  - main fire | power | 1(5) | 1(5) | 1(6)
+- main fire pump | power | 1(5) | 1(5) | 1(6)
 
-  - pump | manual | ─
+- manual | ─
 
-  - emergency fire pump | power | ─ | ─ | 1(5) and (7)
+- emergency fire pump | power | ─ | ─ | 1(5) and (7)
 
-  - manual
+- manual
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8)
+- fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8)
 
-  - (L.N. 154 of 2019; L.N. 70 of 2020)
+- (L.N. 154 of 2019; L.N. 70 of 2020)
 
-  - Notes:
+- Notes:
 
   - (1)
 
@@ -248,57 +250,53 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
     - (b) 1 spray nozzle on each deck and in each engine room.
 
-- Table 4 Class II vessels—floating docks, floating workshops and
+- Table 4 Class II vessels—floating docks, floating workshops and stationary vessels that are kitchen boats and operate within waters of Hong Kong
 
-- stationary vessels that are kitchen boats and operate
+- Type of Vessel Fire-fighting apparatus | Floating dock | Floating workshop (including welding barge) | Kitchen boat
 
-- within waters of Hong Kong
+- portable fire extinguisher | service space | 1 within each space
 
-  - Type of Vessel Fire-fighting apparatus | Floating dock | Floating workshop (including welding barge) | Kitchen boat
+- galley | 1 within not more than 10 m walking distance, but at least 2 on each deck, and not less than half must be foam/CO2 fire extinguishers
 
-  - service space | 1 within each space
+- workshop
 
-  - galley | 1 within not more than 10 m walking distance, but at least 2 on each deck, and not less than half must be foam/CO2 fire extinguishers
+- engine control room | at least 2 and not more than 6 in each room
 
-  - workshop
+- machinery space | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 2 and not more than 6 within each space
 
-  - portable fire extinguisher | engine control room | at least 2 and not more than 6 in each room
+- <non-portable fire extinguisher>(1) | 1 for each wing | ─ | ─
 
-  - machinery space | 1 for each 750 kW or part thereof of the power output of the engine and electric motor, but at least 2 and not more than 6 within each space
+- fixed CO2 fire extinguishing system | machinery space | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─ | ─
 
-  - <non-portable fire extinguisher>(1) | 1 for each wing | ─ | ─
+- main fire pump | power | 1 for each wing | (L)<24 m | (L)≥24 m | 1(2)
 
-  - fixed CO2fire extinguishing system | machinery space | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─ | ─
+- 1 | 1
 
-  - main fire pump | power | 1 for each wing | (L)<24 m | (L)≥24 m | 1(2)
+- manual | ─ | ─
 
-  - 1 | 1
+- emergency fire pump | power | 1(3) | ─ | 1 | ─
 
-  - manual | ─ | ─
+- manual | ─
 
-  - emergency fire pump | power | 1(3) | ─ | 1 | ─
+- fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - manual | ─
+- spray nozzle | 1 on each deck 2 within each machinery space | 1 on each deck 1 within each machinery space
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- foam applicator + 2 × 20 L mobile foam | machinery space | 1 for each wing | ─ | ─
 
-  - spray nozzle | 1 on each deck 2 within each machinery space | 1 on each deck 1 within each machinery space
+- fireman’s axe | 1 for each wing | 1 | 1
 
-  - foam applicator + 2 × 20 L mobile foam | machinery space | 1 for each wing | ─ | ─
+- fire blanket | ─ | ─ | 1 within not more than 10 m walking distance on deck fitted with stoves
 
-  - fireman’s axe | 1 for each wing | 1 | 1
+- fireman’s outfit | 1 for each wing | ─ | ─
 
-  - fire blanket | ─ | ─ | 1 within not more than 10 m walking distance on deck fitted with stoves
+- fire control plan | 1 for each wing | ─ | 1
 
-  - fireman’s outfit | 1 for each wing | ─ | ─
+- international shore connection device | 1 for each wing | ─ | ─
 
-  - fire control plan | 1 for each wing | ─ | 1
+- (L.N. 70 of 2020)
 
-  - international shore connection device | 1 for each wing | ─ | ─
-
-  - (L.N. 70 of 2020)
-
-  - Notes:
+- Notes:
 
   - (1) Requirements in angle brackets (“< >”) are for new vessels only.
 
@@ -306,49 +304,47 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (3) Not required if each main fire pump is independently driven.
 
-- Table 5 Class II vessels(1) that are not oil carriers and operate
+- Table 5 Class II vessels(1) that are not oil carriers and operate within river trade limits
 
-- within river trade limits
+- Vessel length (L) (m) Fire-fighting apparatus | (L)<24 | 24≤(L)<37 | 37≤(L)<50 | 50≤(L)<60 | 60≤(L)<75(2)
 
-  - Vessel length (L) (m) Fire-fighting apparatus | (L)<24 | 24≤(L)<37 | 37≤(L)<50 | 50≤(L)<60 | 60≤(L)<75(2)
+- portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
 
-  - portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
+- wheel house | 1
 
-  - wheel house | 1
+- galley | 1
 
-  - galley | 1
+- engine control rooms | 1
 
-  - engine control rooms | 1
+- engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
 
-  - engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
+- machinery space | 1 within each space
 
-  - machinery space | 1 within each space
+- non-portable fire extinguisher | engine room | ─ | ─ | 1(3) | 1(3) | 1
 
-  - non-portable fire extinguisher | engine room | ─ | ─ | 1(3) | 1(3) | 1
+- fixed CO2 fire extinguishing system | engine room(5) | ─ | ─ | ─ | ─ | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - fixed CO2 fire extinguishing system | engine room(5) | ─ | ─ | ─ | ─ | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- main fire pump | power | 1(4) | 1 | 1 | 1 | 2
 
-  - main fire pump | power | 1(4) | 1 | 1 | 1 | 2
+- manual | ─ | ─ | ─ | ─
 
-  - manual | ─ | ─ | ─ | ─
+- emergency fire pump | power | ─ | 1(4) | 1(4) | 1(4) | 1(4)
 
-  - emergency fire pump | power | ─ | 1(4) | 1(4) | 1(4) | 1(4)
+- manual | ─ | ─
 
-  - manual | ─ | ─
+- fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- hydrant | engine room | — | 1 | 1 | 1 | 2
 
-  - hydrant | engine room | ─ | 1 | 1 | 1 | 2
+- spray nozzle | — | 1 on each deck 1 in each engine room | 1 on each deck 1 in each engine room | 2 on each deck 1 in each engine room | 2 on each deck 2 in each engine room
 
-  - spray nozzle | ─ | 1 on each deck 1 in each engine room | 1 on each deck 1 in each engine room | 2 on each deck 1 in each engine room | 2 on each deck 2 in each engine room
+- foam applicator + 2 × 20 L mobile foam | — | — | — | — | 1
 
-  - foam applicator + 2 × 20 L mobile foam | ─ | ─ | ─ | ─ | 1
+- fireman’s outfit | — | — | 1 | 1 | 1
 
-  - fireman’s outfit | ─ | ─ | 1 | 1 | 1
+- international shore connection device | — | — | — | 1 | 1
 
-  - international shore connection device | ─ | ─ | ─ | 1 | 1
-
-  - Notes:
+- Notes:
 
   - (1) If a dumb lighter and hopper barge is at all times accompanied by another local vessel (e.g. a tug), fire-fighting apparatus may be provided according to the scale at Table 3.
 
@@ -362,49 +358,49 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
 - Table 6 Class II vessels—oil carriers that operate within river trade limits
 
-  - Vessel length (L) (m) Fire-fighting apparatus | (L)<24 | 24≤(L)<37 | 37≤(L)<50 | 50≤(L)<60 | 60≤(L)<75(1)
+- Vessel length (L) (m) Fire-fighting apparatus | (L)<24 | 24≤(L)<37 | 37≤(L)<50 | 50≤(L)<60 | 60≤(L)<75(1)
 
-  - portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
+- portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
 
-  - wheel house | 1
+- wheel house | 1
 
-  - galley | 1
+- galley | 1
 
-  - engine control rooms | 1
+- engine control rooms | 1
 
-  - engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
+- engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
 
-  - machinery space | 1 within each space
+- machinery space | 1 within each space
 
-  - non-portable fire extinguisher | engine room | ─ | ─ | 1 | 1 | 1
+- non-portable fire extinguisher | engine room | — | — | 1 | 1 | 1
 
-  - fixed CO2 fire extinguishing system(2) | engine room | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- fixed CO2 fire extinguishing system(2) | engine room | gas quantity, storage, piping, nozzle, alarm, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - cargo pump room
+- cargo pump room
 
-  - main fire pump | power | 1(3) | 1 | 1 | 1 | 2
+- main fire pump | power | 1(3) | 1 | 1 | 1 | 2
 
-  - emergency fire pump | power | 1(4) | 1(4) | 1(4) | 1(4) | 1(4)
+- emergency fire pump | power | 1(4) | 1(4) | 1(4) | 1(4) | 1(4)
 
-  - manual | ─ | ─
+- manual | ─ | ─
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
+- fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - hydrant | engine room | ─ | 1 | 1 | 1 | 2
+- hydrant | engine room | ─ | 1 | 1 | 1 | 2
 
-  - spray nozzle | 1 on each deck | 1 on each deck 2 in each engine room | 1 on each deck 2 in each engine room | 2 on each deck 2 in each engine room | 3 on each deck 2 in each engine room
+- spray nozzle | 1 on each deck | 1 on each deck 2 in each engine room | 1 on each deck 2 in each engine room | 2 on each deck 2 in each engine room | 3 on each deck 2 in each engine room
 
-  - foam applicator + 2 × 20 L mobile foam | engine room | ─ | 1 | 1 | 1 | 1
+- foam applicator + 2 × 20 L mobile foam | engine room | ─ | 1 | 1 | 1 | 1
 
-  - cargo manifold area | ─ | 1 | 1 | 1 | 1
+- cargo manifold area | ─ | 1 | 1 | 1 | 1
 
-  - fireman’s outfit | ─ | 1 | 1 | 2 | 3
+- fireman’s outfit | ─ | 1 | 1 | 2 | 3
 
-  - fire control plan | 1 | 1 | 1 | 1 | 1
+- fire control plan | 1 | 1 | 1 | 1 | 1
 
-  - international shore connection device | ─ | ─ | 1 | 1 | 1
+- international shore connection device | ─ | ─ | 1 | 1 | 1
 
-  - Notes:
+- Notes:
 
   - (1) The requirement for a Class II vessel of 75 m or more in length shall be specified by the Director on a case-by-case basis.
 
@@ -416,49 +412,49 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
 - Table 6A Class II vessels—oil carriers that operate within waters of Hong Kong
 
-  - Vessel length (L) (m) Fire-fighting Apparatus | (L) <24 | 24≤(L) <37 | 37≤(L) <50 | 50≤(L) <60 | 60≤(L) <75(1)
+- Vessel length (L) (m) Fire-fighting apparatus | (L) <24 | 24≤(L) <37 | 37≤(L) <50 | 50≤(L) <60 | 60≤(L) <75(1)
 
-  - portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
+- portable fire extinguisher | accommodation space | 1 on each deck | 2 on each deck
 
-  - wheel house | 1
+- wheel house | 1
 
-  - galley | 1
+- galley | 1
 
-  - engine control rooms | 1
+- engine control rooms | 1
 
-  - engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
+- engine room | 3 | 4 | 1 within not more than 10 m walking distance, but at least 4 in each room
 
-  - machinery space | 1 within each space
+- machinery space | 1 within each space
 
-  - non-portable fire extinguisher | engine room | — | — | 1 | 1 | 1
+- non-portable fire extinguisher | engine room | — | — | 1 | 1 | 1
 
-  - fixed CO2 fire extinguishing system(2) | engine room | gas quantity, storage, piping, nozzle, alarm, location and arrangement must be in accordance with the relevant plans approved under Part 3 of this Regulation
+- fixed CO2 fire extinguishing system(2) | engine room | gas quantity, storage, piping, nozzle, alarm, location and arrangement must be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - cargo pump room
+- cargo pump room
 
-  - main fire pump | power | 1(3) | 1 | 1 | 1 | 2
+- main fire pump | power | 1(3) | 1 | 1 | 1 | 2
 
-  - emergency fire pump | power | 1(4) | 1(4) | 1(4) | 1(4) | 1(4)
+- emergency fire pump | power | 1(4) | 1(4) | 1(4) | 1(4) | 1(4)
 
-  - manual | — | —
+- manual | — | —
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement must be in accordance with the relevant plans approved under Part 3 of this Regulation
+- fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement must be in accordance with the relevant plans approved under Part 3 of this Regulation
 
-  - hydrant | engine room | — | 1 | 1 | 1 | 2
+- hydrant | engine room | — | 1 | 1 | 1 | 2
 
-  - spray nozzle | 1 on each deck | 1 on each deck 2 in each engine room | 1 on each deck 2 in each engine room | 2 on each deck 2 in each engine room | 3 on each deck 2 in each engine room
+- spray nozzle | 1 on each deck | 1 on each deck 2 in each engine room | 1 on each deck 2 in each engine room | 2 on each deck 2 in each engine room | 3 on each deck 2 in each engine room
 
-  - foam applicator + 2 × 20 L mobile foam | engine room | — | 1 | 1 | 1 | 1
+- foam applicator + 2 × 20 L mobile foam | engine room | — | 1 | 1 | 1 | 1
 
-  - cargo manifold area | — | 1 | 1 | 1 | 1
+- cargo manifold area | — | 1 | 1 | 1 | 1
 
-  - fire control plan | <1>(5) | 1
+- fire control plan | <1>(5) | 1
 
-  - Notes:
+- Notes:
 
   - (1) The requirement for a Class II vessel of 75 m or more in length is to be specified by the Director on a case-by-case basis.
 
-  - (2) In vessels having cargoes with flash point exceeding 60℃ (closed cup test), such system may be substituted by a non-portable fire extinguisher if it can be satisfactorily demonstrated that the jet of the fire extinguishing media can reach any part of the engine room and cargo pump room.
+  - (2) In vessels having cargoes with flash point exceeding 60°C (closed cup test), such system may be substituted by a non-portable fire extinguisher if it can be satisfactorily demonstrated that the jet of the fire extinguishing media can reach any part of the engine room and cargo pump room.
 
   - (3) The fire pump may be propulsion engine driven, provided that it can be readily engaged to the engine.
 
@@ -466,51 +462,51 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (5) Requirement in pair of angle brackets (“< >”) is applicable to new vessels only.
 
-- (L.N. 70 of 2020) Table 6B Class II vessels—gas carriers
+- (L.N. 70 of 2020; E.R. 4 of 2024) Table 6B Class II vessels—gas carriers
 
-  - Type of vessel | Requirement
+- Type of vessel | Requirement
 
-  - gas carrier | there must be on board the gas carrier fire-fighting apparatus for preventing, detecting and dealing with outbreaks of fire on board a vessel carrying liquefied gases in bulk
+- gas carrier | there must be on board the gas carrier fire-fighting apparatus for preventing, detecting and dealing with outbreaks of fire on board a vessel carrying liquefied gases in bulk
 
-  - (L.N. 25 of 2023)
+- (L.N. 25 of 2023)
 
 - Table 7 Class III vessels
 
-  - Fire-fighting apparatus | Category of vessel | A | B(1), (1A) and (1B)
+- Fire-fighting apparatus | Category of vessel | A | B(1), (1A) and (1B)
 
-  - Vessel length (L) (M) | (L)<30 | 30≤(L)<45(2) | (L)<10 | (L)≥10(2)
+- Vessel length (L) (M) | (L)<30 | 30≤(L)<45(2) | (L)<10 | (L)≥10(2)
 
-  - portable fire extinguisher | accommodation space | 1 | 2 | 1 | 1 within not more than 10 m walking distance, but at least 2 and not more than 4 within each space
+- portable fire extinguisher | accommodation space | 1 | 2 | 1 | 1 within not more than 10 m walking distance, but at least 2 and not more than 4 within each space
 
-  - wheel house | 1 | 1
+- wheel house | 1 | 1
 
-  - engine room | 2 | 4
+- engine room | 2 | 4
 
-  - machinery space | 1 | 1
+- machinery space | 1 | 1
 
-  - non-portable fire extinguisher | engine room | ─ | 1 | ─ | ─
+- non-portable fire extinguisher | engine room | — | 1 | — | —
 
-  - main fire pump | power | 1(4) | 1 | ─ | ─
+- main fire pump | power | 1(4) | 1 | — | —
 
-  - emergency | power | 1 | 1 | ─ | <1>(5) and (6)
+- emergency fire pump | power | 1 | 1 | — | <1>(5) and (6)
 
-  - fire pump | manual
+- manual
 
-  - fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | ─ | <1 set>(5) and (6)
+- fire main + hose + hydrant + jet nozzle | quantity, size, length, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation | — | <1 set>(5) and (6)
 
-  - hydrant | engine room | 1 | 1 | ─ | ─
+- hydrant | engine room | 1 | 1 | — | —
 
-  - spray nozzle(7) | 1 on each deck 1 in each engine room | 1 on each deck 1 in each engine room | ─ | ─
+- spray nozzle(7) | 1 on each deck 1 in each engine room | 1 on each deck 1 in each engine room | — | —
 
-  - fire bucket with lanyard | 2 | 2 | 1 | 2
+- fire bucket with lanyard | 2 | 2 | 1 | 2
 
-  - additional requirements for a Class III vessel with any engine room that may be periodically unattended when the vessel is being used or operated
+- additional requirements for a Class III vessel with any engine room that may be periodically unattended when the vessel is being used or operated
 
-  - <fire detection and alarm system>(6) | engine room | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | ─ | ─
+- <fire detection and alarm system>(6) | engine room | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | quantity, type, location and arrangement shall be in accordance with the relevant plans approved under Part 3 of this Regulation(8) | — | —
 
-  - (L.N. 154 of 2019; L.N. 70 of 2020)
+- (L.N. 154 of 2019; L.N. 70 of 2020)
 
-  - Notes:
+- Notes:
 
   - (1) For a fishing sampan made of glass reinforced plastic, only the following fire-fighting apparatus are required—
 
@@ -544,43 +540,39 @@ FIRE PROTECTION AND PROVISION OF FIRE-FIGHTING APPARATUS
 
   - (8) The fire detection and alarm system may be waived, provided the location of the machinery space facilitates the detection of fire by persons on board.
 
-- Table 8 Class IV vessels that are licensed to carry not more than 60
+- Table 8 Class IV vessels that are licensed to carry not more than 60 passengers and are not let for hire or reward and operate within waters of Hong Kong
 
-- passengers and are not let for hire or reward and operate
+- Vessel length (L) (m) Fire-fighting apparatus | (L)<5.5 | 5.5≤(L)≤9 | 9<(L)<15 | 15≤(L)<24 | (L)≥24
 
-- within waters of Hong Kong
+- portable fire extinguisher(2) | 1.4 kg | 1(1) | 2 | ─ | ─ | ─
 
-  - Vessel length (L) (m) Fire-fighting apparatus | (L)<5.5 | 5.5≤(L)≤9 | 9<(L)<15 | 15≤(L)<24 | (L)≥24
+- 2.3 kg | ─ | ─ | 2 | ─ | ─
 
-  - portable fire extinguisher(2) | 1.4 kg | 1(1) | 2 | ─ | ─ | ─
+- 4.5 kg | ─ | ─ | ─ | 2 | 2
 
-  - 2.3 kg | ─ | ─ | 2 | ─ | ─
+- engine room | ─ | ─ | 2(3) | 2(3) | 2(3)
 
-  - 4.5 kg | ─ | ─ | ─ | 2 | 2
+- fire bucket with lanyard(4) | 1 (or 1 bailer) | 2 | 2 | 2 | 3
 
-  - engine room | ─ | ─ | 2(3) | 2(3) | 2(3)
+- main fire pump | power | ─ | ─ | ─ | 1(5) | 1
 
-  - fire bucket with lanyard(4) | 1 (or 1 bailer) | 2 | 2 | 2 | 3
+- manual | ─ | ─ | ─ | ─
 
-  - main fire pump | power | ─ | ─ | ─ | 1(5) | 1
+- emergency fire pump | power | ─ | ─ | ─ | ─ | 1(5)
 
-  - manual | ─ | ─ | ─ | ─
+- manual | ─ | ─ | ─ | ─
 
-  - emergency fire pump | power | ─ | ─ | ─ | ─ | 1(5)
+- hydrant | ─ | ─ | ─ | capable of delivering one jet of water having a throw of not less than 6 m which can be directed on to any part of the vessel through a hose with a 10 mm diameter nozzle
 
-  - manual | ─ | ─ | ─ | ─
+- hose | ─ | ─ | ─ | 1 | 2
 
-  - hydrant | ─ | ─ | ─ | capable of delivering one jet of water having a throw of not less than 6 m which can be directed on to any part of the vessel through a hose with a 10 mm diameter nozzle
+- nozzle | jet | ─ | ─ | ─ | 1 | 2
 
-  - hose | ─ | ─ | ─ | 1 | 2
+- spray | ─ | ─ | ─ | ─ | 1
 
-  - nozzle | jet | ─ | ─ | ─ | 1 | 2
+- fireman’s axe | ─ | ─ | ─ | ─ | 1
 
-  - spray | ─ | ─ | ─ | ─ | 1
-
-  - fireman’s axe | ─ | ─ | ─ | ─ | 1
-
-  - Notes:
+- Notes:
 
   - (1)
 

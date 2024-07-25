@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 7(2)(a) & (b), 15(1)(a) & 87 & Schs. 3, 4 & 6]
 
-LOCAL VESSELS TO WHICH PARTS 3 AND 4 OF THIS REGULATION DO NOT APPLY
+Local Vessels to which Parts 3 and 4 of this Regulation do not Apply
 
 - Parts 3 and 4 of this Regulation do not apply to a Class II vessel or Class III vessel that complies with the requirements in Schedules 3 and 4 (as applicable) and meets the following descriptions— (L.N. 154 of 2019)
 
@@ -48,4 +48,4 @@ LOCAL VESSELS TO WHICH PARTS 3 AND 4 OF THIS REGULATION DO NOT APPLY
 
 - Note:
 
-  - “extreme breadth” (最大寬度), in relation to a local vessel, means the athwartship distance between the extremity of the outermost permanent structure on the port side and the extremity of the outermost permanent structure on the starboard side of the vessel.
+  - extreme breadth (最大寬度), in relation to a local vessel, means the athwartship distance between the extremity of the outermost permanent structure on the port side and the extremity of the outermost permanent structure on the starboard side of the vessel.

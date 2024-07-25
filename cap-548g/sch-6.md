@@ -2,7 +2,7 @@
 
 [ss. 81 & 87]
 
-Local Vessels to which Section 81(1) of this Regulation Does Not Apply
+Local Vessels to which Section 81(1) of this Regulation does not Apply
 
 - Part 1 Class II Vessels
 
@@ -50,4 +50,4 @@ Local Vessels to which Section 81(1) of this Regulation Does Not Apply
 
       - (iv) for a vessel of 8 m or more in length—at least 2 portable dry powder fire extinguishers, each of capacity of not less than 2.7 kg of dry powder, and 2 fire buckets, each fitted with a lanyard.
 
-(L.N. 25 of 2023)
+(Schedule 6 replaced L.N. 25 of 2023)
