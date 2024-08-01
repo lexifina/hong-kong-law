@@ -6,7 +6,7 @@ Protected Wild Animals
 
 Note: | The protected wild animals are those specified in Column 2. The names given in Column 1, Column 3 and Column 4 are for information only.
 
-Column 1 ORDER/Family | Column 2 Scientific Name | Column 3 Common Name | Column 4 Chinese Name
+Column 1 ORDER/Family | Column 2 Scientific Name | Column 3 English Common Name | Column 4 Chinese Common Name
 
 MAMMALIA | MAMMALS | 哺乳類
 
@@ -26,7 +26,7 @@ MAMMALIA | MAMMALS | 哺乳類
 
 Sciuridae | Sciuridae, all species of all genera | Squirrels | 松鼠
 
-CETACEA | Cetacea, all species of all genera and all families | Cetaceans (Dolphins, whales, porpoises) | 鯨屬(海豚、鯨魚、小鯨)
+CETACEA | Cetacea, all species of all genera and all families | Cetaceans (Dolphins, whales, porpoises) | 鯨屬(海豚、鯨魚、 小鯨)
 
 CARNIVORA
 
@@ -52,7 +52,7 @@ Aves, all species of all genera, all families and all orders | All wild birds | 
 
 REPTILIA | REPTILES | 爬蟲類
 
-TESTUDINES | Testudines, all species of all genera and all families | Chelonians (Turtles, terrapins, tortoises, etc.) | 龜鱉屬(海龜、鱉、龜等)
+TESTUDINES | Testudines, all species of all genera and all families | Chelonians (Turtles, terrapins, tortoises, etc.) | 龜鱉屬(海龜、鱉、 龜等)
 
 SERPENTES
 
@@ -80,4 +80,4 @@ LEPIDOPTERA
 
 Papilionidae | Troides helena | Birdwing Butterfly | 黃扇蝶
 
-(Schedule 2 replaced L.N. 182 of 1992)
+(Schedule 2 replaced L.N. 182 of 1992. Amended 11 of 2024 s. 14)

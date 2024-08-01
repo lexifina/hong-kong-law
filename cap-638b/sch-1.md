@@ -6,6 +6,8 @@ Ordinances under which Penalty Notices are Issued
 
 - 1. Buildings Ordinance (Cap. 123)
 
+- 1A. Wild Animals Protection Ordinance (Cap. 170) (11 of 2024 s. 21)
+
 - 2. Fixed Penalty (Traffic Contraventions) Ordinance (Cap. 237)
 
 - 3. Fixed Penalty (Criminal Proceedings) Ordinance (Cap. 240)

@@ -1,6 +1,6 @@
 # Schedule 6
 
-[ss. 13 & 22] (Amended 77 of 1996 s. 20)
+[ss. 2, 13 & 22] (Amended 77 of 1996 s. 20; 11 of 2024 s. 16)
 
 Areas in which Entry or Presence is Restricted
 
