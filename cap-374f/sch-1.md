@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 2] (L.N. 148 of 2002)
 
-APPROVED PROTECTIVE HELMETS
+Approved Protective Helmets
 
 - 1. Protective helmets bearing a marking applied by the manufacturer indicating compliance with the specifications contained in—
 
