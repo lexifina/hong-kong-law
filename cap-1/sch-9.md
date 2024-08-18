@@ -40,8 +40,6 @@ Temporary Provisions
 
   - Commonwealth citizen (英聯邦公民) means a person who has the status of a Commonwealth citizen under the British Nationality Act 1981 (1981 c. 61 U.K.)#;
 
-  - Crown Agents (英聯邦代辦) means the persons or body for the time being acting as Crown Agents for Oversea Governments and Administrations;
-
   - Order in Council (樞密院頒令) means an order made by Her Majesty in Her Privy Council (being the Lords and others for the time being of Her Majesty’s Most Honourable Privy Council);
 
   - Parliament (國會) means the Parliament of England, the Parliament of Great Britain and the Parliament of the United Kingdom;
@@ -55,6 +53,12 @@ Temporary Provisions
     - (b) when used with reference to citizenship or nationality, Great Britain, Northern Ireland, the Channel Islands and the Isle of Man;
 
   - Victoria (維多利亞) means the area within the boundaries specified in Schedule 1 to this Ordinance.
+
+- (Amended 21 of 2024 s. 59)
+
+- Editorial Note:
+
+- # Please see L.N. 308 of 1993.
 
 - 2. Modifications A British enactment shall be judicially noticed as such and shall be read with such modifications as to names, localities, courts, officers, persons, moneys, penalties or otherwise as may be necessary to make the same applicable to the circumstances of Hong Kong.
 
@@ -83,7 +87,3 @@ Temporary Provisions
   - the Crown, then that reference to the Crown shall be construed as a reference to the State.
 
   - (2) Subsection (1) does not prejudice the operation of section 2A(2)(c) of this Ordinance, whether before, on or after the commencement of this section.
-
-Editorial Note:
-
-\# Please see L.N. 308 of 1993.

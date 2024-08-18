@@ -14,7 +14,7 @@ Fire Safety Measures to be Complied with by Owners of Specified Commercial Build
 
     - (iii) a manual fire alarm system to alert occupants of the building in the event of fire;
 
-    - (iv) a fire hydrant and hosereel system as a source of water supply for fire fighting;
+    - (iv) a fire hydrant and hose reel system as a source of water supply for fire fighting; (Amended 21 of 2024 s. 101)
 
     - (v) an automatic sprinkler system with or without a direct link to the Fire Services Department, to control the spread of fire and sound an alarm; and
 

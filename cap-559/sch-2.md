@@ -18,7 +18,7 @@ Determination of Well-known Trade Marks
 
     - (d) the duration and geographical area of any registrations, or any applications for registration, of the trade mark, to the extent that they reflect use or recognition of the trade mark;
 
-    - (e) the record of successful enforcement of rights in the trade mark, in particular, the extent to which the trade mark has been recognized as a well-known trade mark by competent authorities in foreign jurisdictions; and
+    - (e) the record of successful enforcement of rights in the trade mark, in particular, the extent to which the trade mark has been recognized as a well-known trade mark by competent authorities in non-Hong Kong jurisdictions; and (Amended 21 of 2024 s. 78)
 
     - (f) the value associated with the trade mark.
 
@@ -38,7 +38,7 @@ Determination of Well-known Trade Marks
 
   - (6)
 
-    - For the purpose of subsection (2)(e), competent authorities in foreign jurisdictions (外地主管當局) means administrative, judicial or quasi-judicial authorities in jurisdictions other than Hong Kong that are competent to determine whether a trade mark is a well-known trade mark, or in enforcing the protection of well-known trade marks, in their respective jurisdictions.
+    - For the purpose of subsection (2)(e), competent authorities in non-Hong Kong jurisdictions (非香港司法管轄區的主管當局) means administrative, judicial or quasi-judicial authorities in jurisdictions other than Hong Kong that are competent to determine whether a trade mark is a well-known trade mark, or in enforcing the protection of well-known trade marks, in their respective jurisdictions. (Amended 21 of 2024 s. 78)
 
 - 2. Factors not required to be established For the purpose of determining whether a trade mark is well known in Hong Kong, it is not necessary to establish—
 

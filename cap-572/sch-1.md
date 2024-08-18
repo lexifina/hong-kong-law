@@ -8,7 +8,7 @@ Fire Safety Measures to be Complied with by Owners of Composite Buildings in Res
 
   - (a) a requirement to provide or improve an automatic sprinkler system, with or without a direct link to the Fire Services Department, to control the spread of fire and sound an alarm;
 
-  - (b) a requirement to provide or improve a fire hydrant and hosereel system as a source of water supply for fire fighting;
+  - (b) a requirement to provide or improve a fire hydrant and hose reel system as a source of water supply for fire fighting; (Amended 21 of 2024 s. 114)
 
   - (c) a requirement to provide or improve a manual fire alarm system to alert occupants of the building in the event of fire;
 

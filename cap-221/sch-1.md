@@ -40,13 +40,13 @@ Form 4
 
 Notice of Trial of Indictment In the High Court of Hong Kong
 
-To A.B. Take notice that you will answer to this indictment [or to the indictment whereof this is a true copy] at the High Court, Victoria, on the day of 19 .
+To A.B. Take notice that you will answer to this indictment [or to the indictment whereof this is a true copy] at the High Court, on the day of 19 .
 
 (Signed)
 
 Registrar.
 
-(Replaced 63 of 1971 s. 10. Amended 25 of 1998 s. 2)
+(Replaced 63 of 1971 s. 10. Amended 25 of 1998 s. 2; 21 of 2024 s. 78)
 
 _
 

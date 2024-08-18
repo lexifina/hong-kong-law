@@ -66,11 +66,11 @@ Permanent Residents of the Hong Kong Special Administrative Region
 
       - (iii) whether he has a reasonable means of income to support himself and his family;
 
-      - (iv) whether he has paid his taxes in accordance with the law;
+      - (iv) whether he has paid his taxes in accordance with the law; and
 
-    - (b) to make a declaration in the form the Director stipulates that he has taken Hong Kong as his place of permanent residence; the declaration for a person under the age of 21 years must be made by one of his parents or by a legal guardian; and
+    - (b) to make a declaration in the form the Director stipulates that he has taken Hong Kong as his place of permanent residence; the declaration for a person under the age of 21 years must be made by one of his parents or by a legal guardian. (Amended 21 of 2024 s. 16)
 
-    - (c) to be settled in Hong Kong at the time of the declaration.
+    - (c) (Repealed 21 of 2024 s. 16)
 
   - (2) A person claiming to have the status of a permanent resident of the Hong Kong Special Administrative Region under paragraph 2(d) does not have the status of a permanent resident in the Hong Kong Special Administrative Region until he has applied to the Director and the application has been approved by the Director.
 

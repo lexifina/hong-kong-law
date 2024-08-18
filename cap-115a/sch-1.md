@@ -160,7 +160,7 @@ of | ; and
 
 of
 
-hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums—
+hereby acknowledges/acknowledge that he/they severally will pay to the Government the following sum/sums—
 
 the said | the sum of $
 
@@ -186,7 +186,7 @@ Signature
 
 * Delete where inapplicable.
 
-(L.N. 166 of 1995) _
+(L.N. 166 of 1995; 21 of 2024 s. 78) _
 
 FORM NO. 3 IMMIGRATION ORDINANCE (Chapter 115) Section 14(1) ALIEN REGISTRATION CARD
 
@@ -298,9 +298,9 @@ day of . 19 .
 
 Dated this . day of . 19 .
 
-Governor
+Chief Executive
 
-(48 of 1992 s. 14; L.N. 166 of 1995) _
+(48 of 1992 s. 14; L.N. 166 of 1995; 21 of 2024 s. 78) _
 
 FORM NO. 7 IMMIGRATION ORDINANCE (Chapter 115) Section 31(2) WARRANT FOR FURTHER DETENTION
 
@@ -318,9 +318,9 @@ of . 19 .
 
 Dated this . day of . 19 .
 
-Governor
+Chief Executive
 
-(L.N. 166 of 1995) _
+(L.N. 166 of 1995; 21 of 2024 s. 78) _
 
 FORM NO. 8 IMMIGRATION ORDINANCE (Chapter 115) Section 36(1) RECOGNIZANCE
 
@@ -416,7 +416,7 @@ the said
 
 * | of . ,
 
-hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums—
+hereby acknowledges/acknowledge that he/they severally will pay to the Government the following sum/sums—
 
 the said | the sum of $
 
@@ -452,7 +452,7 @@ Sworn Interpreter | Magistrate (or Magistrate’s Clerk)
 
 * Delete where inappropriate.
 
-(L.N. 279 of 1977; L.N. 166 of 1995) _
+(L.N. 279 of 1977; L.N. 166 of 1995; 21 of 2024 s. 78) _
 
 FORM NO. 8B IMMIGRATION ORDINANCE (Chapter 115) Section 37G/46A* APPLICATION FOR FORFEITURE OF PROPERTY
 
@@ -536,7 +536,7 @@ Whereas
 
 of
 
-is required by the Governor under section 55(2) of the Immigration Ordinance to enter into this recognizance on the rescission by the Governor, subject to the condition(s) specified below, of the deportation order made against him:
+is required by the Chief Executive under section 55(2) of the Immigration Ordinance to enter into this recognizance on the rescission by the Chief Executive, subject to the condition(s) specified below, of the deportation order made against him:
 
 Now—
 
@@ -546,7 +546,7 @@ the said
 
 * | of .;
 
-hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums—
+hereby acknowledges/acknowledge that he/they severally will pay to the Government the following sum/sums—
 
 the said | the sum of $
 
@@ -572,7 +572,7 @@ Signature
 
 * Delete where inapplicable.
 
-(82 of 1993 s. 16; L.N. 166 of 1995; E.R. 1 of 2019) _
+(82 of 1993 s. 16; L.N. 166 of 1995; E.R. 1 of 2019; 21 of 2024 s. 78) _
 
 FORM NO. 12
 

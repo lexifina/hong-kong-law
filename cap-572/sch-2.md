@@ -6,7 +6,7 @@ Fire Safety Measures to be Complied with by Owners of Composite Buildings in Res
 
 - 1. Provision of fire service installations and equipment In relation to the provision of fire service installations and equipment, requirements with which an owner of a composite building, in respect of a part intended for domestic purposes, and an owner of a domestic building can be directed to comply under section 5(1) and (2) of this Ordinance are the following—
 
-  - (a) a requirement to provide or improve a fire hydrant and hosereel system as a source of water supply for fire fighting;
+  - (a) a requirement to provide or improve a fire hydrant and hose reel system as a source of water supply for fire fighting; (Amended 21 of 2024 s. 115)
 
   - (b) a requirement to provide or improve a manual fire alarm system to alert occupants of the building in the event of fire; and
 

@@ -50,7 +50,7 @@ Modification of Road Traffic Ordinance
 
       - (a) all references in the Regulations to “the Commissioner”, not being a reference to “the Commissioner of Police” or “the Government” shall be substituted by references to “the Authority”;
 
-      - (b) all references to “Crown land” shall be replaced by “Bylaw Area”.
+      - (b) the reference to “Government land” shall be replaced by “Bylaw Area”. (21 of 2024 s. 78)
 
     - (2) For the avoidance of doubt, these regulations shall not be construed howsoever to prejudice or limit the rights of the Authority or operators of car parks and car parking places which are to be operated on a commercial basis, in determining the terms and conditions, including fees chargeable, on which such car parks and car parking places are to be offered for use to the public.
 
@@ -186,7 +186,7 @@ Modification of Road Traffic Ordinance
 
   - 8. In regulation 27(1), after the word “he” where it twice appears, there shall be added “or it”.
 
-  - 9. In regulation 29, in the definition of pedestrian road, for the words “unleased Crown land”, there shall be substituted the words “any designated road”.
+  - 9. In regulation 29, in the definition of pedestrian road, for the words “unleased Government land”, there shall be substituted the words “any designated road”. (21 of 2024 s. 78)
 
   - 10. In regulation 39(a)(iv), after the words “, traffic warden in uniform”, there shall be added “, an Authorized Person in uniform”.
 
@@ -198,7 +198,7 @@ Modification of Road Traffic Ordinance
 
       - (i) after the words “The Commissioner”, there shall be added “or the Authority with the approval of the Commissioner”;
 
-      - (ii) in paragraph (a), for the words “unleased Crown land”, there shall be substituted “designated road”.
+      - (ii) in paragraph (a), for the words “unleased Government land”, there shall be substituted “designated road”. (21 of 2024 s. 78)
 
   - 12. In regulation 52(1)—
 
