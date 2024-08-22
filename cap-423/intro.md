@@ -3,3 +3,7 @@ An Ordinance to establish the Employees Retraining Board as a body corporate, to
 (Amended 5 of 1997 s. 2)
 
 [16 October 1992]
+
+(Format changes—E.R. 4 of 2024)
+
+(Enacting provision omitted—E.R. 4 of 2024)

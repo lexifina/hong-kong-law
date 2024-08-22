@@ -4,6 +4,8 @@
 
 Training Bodies
 
+(Format changes—E.R. 2 of 2012)
+
 Item | Body
 
 1. | Vocational Training Council
@@ -318,4 +320,4 @@ Item | Body
 
 168. | TCHK (Added L.N. 160 of 2023)
 
-(Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
+(Schedule 2 replaced L.N. 269 of 1999)

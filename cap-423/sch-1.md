@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3(4), 24 & 31]
 
-PROVISIONS AS RESPECTS THE BOARD AND THE MEMBERS THEREOF
+Provisions as respects the Board and the Members thereof
 
 Seal and status
 
