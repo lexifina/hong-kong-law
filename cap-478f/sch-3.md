@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 8(1)(c)(iii) & 16]
 
-PARTICULARS REQUIRED TO BE CONTAINED IN RETURNS OF MISSING PERSONS
+Particulars Required to be Contained in Returns of Missing Persons
 
 - 1. Ship from which person is missing
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 8(1)(c)(i) & 16]
 
-PARTICULARS REQUIRED TO BE CONTAINED IN RETURNS OF BIRTHS
+Particulars Required to be Contained in Returns of Births
 
 - 1. Ship in which birth occurred
 

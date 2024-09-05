@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 8(1)(c)(ii), 9, 11(2) & 16]
 
-PARTICULARS REQUIRED TO BE CONTAINED IN RETURNS OF DEATHS
+Particulars Required to be Contained in Returns of Deaths
 
 - 1. Ship in which death occurred or in which the deceased was employed
 

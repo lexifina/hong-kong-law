@@ -1,8 +1,10 @@
-# SCHEDULE
+# Schedule
 
-[regs. 4(1) & 8(1)]
+[regs. 2, 4(1), 6(1) & 8(1)]
 
-LOADING OF GRAIN IN BULK IN ACCORDANCE WITH THE GRAIN CODE
+(E.R. 5 of 2024)
+
+Loading of Grain in Bulk in Accordance with the Grain Code
 
 - 1. Stowage of bulk grain
 
@@ -20,7 +22,7 @@ LOADING OF GRAIN IN BULK IN ACCORDANCE WITH THE GRAIN CODE
 
   - (e) If there is no bulk grain or other cargo above a lower cargo space containing grain, the hatch covers shall be secured in an approved manner having regard to the mass and permanent arrangements provided for securing such covers.
 
-  - (f) When bulk grain is stowed on top of closed ‘tween-deck hatch covers which are not grain-tight, such covers shall be made grain-tight by taping the joints, covering the entire hatchway with tarpaulins or separation cloths, or other suitable means.
+  - (f) When bulk grain is stowed on top of closed ’tween-deck hatch covers which are not grain-tight, such covers shall be made grain-tight by taping the joints, covering the entire hatchway with tarpaulins or separation cloths, or other suitable means.
 
   - (g) After loading, all free grain surfaces in partly filled compartments shall be level.
 
@@ -30,7 +32,7 @@ LOADING OF GRAIN IN BULK IN ACCORDANCE WITH THE GRAIN CODE
 
     - (ii) strapping or lashing as described in A17 or A18 of the Grain Code.
 
-  - (i) Lower cargo spaces and ‘tween-deck spaces in way thereof may be loaded as one compartment provided that, in calculating transverse heeling moments, proper account is taken of the flow of grain into the lower spaces.
+  - (i) Lower cargo spaces and ’tween-deck spaces in way thereof may be loaded as one compartment provided that, in calculating transverse heeling moments, proper account is taken of the flow of grain into the lower spaces.
 
   - (j) In “filled compartments, trimmed”, “filled compartments, untrimmed” and partly filled compartments, longitudinal divisions may be installed as a device to reduce the adverse heeling effect of grain shift provided that:
 
@@ -38,7 +40,7 @@ LOADING OF GRAIN IN BULK IN ACCORDANCE WITH THE GRAIN CODE
 
     - (ii) the construction meets the requirements of A11, A12 and A13 of the Grain Code; and
 
-    - (iii) in ‘tween-decks the division extends from deck to deck and in other cargo spaces the division extends downwards from the underside of the deck or hatch covers, as described in paragraph (2) of the Notes on figure B2-1 in B2.8.2, paragraph (3) of the Notes on figure B.2-3 in B2.9.2 or B5.2 of the Grain Code, as applicable.
+    - (iii) in ’tween-decks the division extends from deck to deck and in other cargo spaces the division extends downwards from the underside of the deck or hatch covers, as described in paragraph (2) of the Notes on figure B2-1 in B2.8.2, paragraph (3) of the Notes on figure B.2-3 in B2.9.2 or B5.2 of the Grain Code, as applicable.
 
 - 2. Stability requirements
 

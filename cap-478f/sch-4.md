@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 10 & 16]
 
-PARTICULARS REQUIRED TO BE SENT BY CORONERS IN RESPECT OF DEATHS
+Particulars Required to be Sent by Coroners in respect of Deaths
 
 - 1. Ship in which death occurred or in which the deceased was employed
 
