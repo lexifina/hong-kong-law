@@ -412,7 +412,7 @@ Driver not taking all reasonable precautions to ensure safety of passengers of a
 
 Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | Regulation 45(1)(h) | $400
 
-49. | 沒有將的士計程錶設定於記錄位置 | 第49(2)條 | $320
+§49. | 沒有將的士計程錶設定於記錄位置 | 第49(2)條 | $320
 
 Not setting taxi meter to recording position | Regulation 49(2) | $320
 
@@ -484,23 +484,27 @@ Overtaking another vehicle on its left-hand side on a left-driving expressway | 
 
 Overtaking another vehicle on its right-hand side on a right-driving expressway | Regulation 13A(1) | $450
 
-\# | 凡有“#”符號的罪行每宗記3分。
+\# | 有“#”符號的罪行，每宗記3分違例駕駛分數。
 
-Offences marked with “#” carry 3 driving-offence points.
+Offence marked with “#” carries 3 driving-offence points.
 
-! | 凡有“!”符號的罪行每宗記5分。
+! | 有“!”符號的罪行，每宗記5分違例駕駛分數。
 
 Offence marked with “!” carries 5 driving-offence points.
 
-Ω | 凡有“Ω”符號的罪行每宗記10分。
+Ω | 有“Ω”符號的罪行，每宗記10分違例駕駛分數。
 
 Offence marked with “Ω” carries 10 driving-offence points.
 
-* | 凡有“*”符號的罪行，車主均須負法律責任。
+§ | 有“§”符號的罪行，每宗記3分的士司機違例記分。
+
+Offence marked with “§” carries 3 taxi-driver-offence points.
+
+* | 有“*”符號的罪行，車主均須負法律責任。
 
 Vehicle owners liable for offences marked with “*”.
 
-(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017; L.N. 14 of 2018; 34 of 2023 s. 37) __________
+(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36; 10 of 2008 s. 51; 18 of 2016 s. 18; L.N. 156 of 2017; L.N. 14 of 2018; 34 of 2023 s. 37; 35 of 2023 s. 45) __________
 
 通知書號碼： | 表格 2 | [第2(2)條]
 
