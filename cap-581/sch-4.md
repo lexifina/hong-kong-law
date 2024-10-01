@@ -1,6 +1,6 @@
 # Schedule 4
 
-[ss. 2, 15, 48, 54 & 57] (Amended 11 of 2010 s. 13; 2 of 2016 s. 11)
+[ss. 2, 15, 48, 54, 57 & 58] (Amended 11 of 2010 s. 13; 2 of 2016 s. 11; 19 of 2024 s. 11)
 
 Contributions to Fund
 
@@ -10,13 +10,13 @@ Contributions to Fund
 
     - amount of relevant deposits (有關存款款額), in relation to a Scheme member, means, subject to subsection (2), the aggregate amount held by all depositors of the Scheme member, being the sum arrived at by adding up any of the following amounts held by each of the depositors of the Scheme member—
 
-      - (a) the amount of all relevant deposits held by one person, as a depositor, with the Scheme member in that person’s own right, up to a limit of $500,000;
+      - (a) the amount of all relevant deposits held by one person, as a depositor, with the Scheme member in that person’s own right, up to a limit of $800,000;
 
-      - (b) the amount of all relevant deposits held by a depositor, as a bare trustee under one bare trust, with the Scheme member, up to a limit of $500,000;
+      - (b) the amount of all relevant deposits held by a depositor, as a bare trustee under one bare trust, with the Scheme member, up to a limit of $800,000;
 
-      - (c) the amount of all relevant deposits held by a depositor with the Scheme member in one client account, up to a limit of $500,000; or
+      - (c) the amount of all relevant deposits held by a depositor with the Scheme member in one client account, up to a limit of $800,000; or
 
-      - (d) the amount of all relevant deposits held by a depositor, as a trustee under one trust, with the Scheme member, up to a limit of $500,000; (Replaced 11 of 2010 s. 13. Amended 2 of 2016 s. 11)
+      - (d) the amount of all relevant deposits held by a depositor, as a trustee under one trust, with the Scheme member, up to a limit of $800,000; (Replaced 11 of 2010 s. 13. Amended 2 of 2016 s. 11; 19 of 2024 s. 11)
 
     - build-up levy (建立期徵費) means the build-up levy payable by a Scheme member under section 3(4);
 
@@ -128,9 +128,13 @@ Contributions to Fund
 
   - (8) For the avoidance of doubt, the percentage specified in column 2 of the Table in subsection (5) may be revised by way of an amendment to this section before, during or after the year in which the target fund size is reached for the first time after the commencement of this Schedule.
 
-  - (9)
+  - (9) In this section—
 
-    - In this section, specified amendment (指明的修訂) means an amendment to the definition of specified percentage in section 2(3).
+    - specified amendment (指明的修訂) means—
+
+      - (a) an amendment to the definition of specified percentage in section 2(3); or
+
+      - (b) an amendment to increase the dollar amount specified in section 27(1) or (2) of this Ordinance. (Replaced 19 of 2024 s. 11)
 
 - Editorial Note:
 

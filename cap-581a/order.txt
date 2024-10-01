@@ -8,6 +8,7 @@ s-006.md
 s-006A.md
 s-006B.md
 s-006C.md
+s-006CA.md
 s-006D.md
 s-006E.md
 s-006F.md
