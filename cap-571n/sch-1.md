@@ -40,6 +40,8 @@ Type 9 | $5,000,000
 
 Type 10 (L.N. 29 of 2011) | $5,000,000
 
+Type 13 (L.N. 56 of 2023) | $10,000,000
+
 Table 2 Required Liquid Capital
 
 Regulated activity | Minimum amount of required liquid capital
@@ -95,3 +97,5 @@ Type 10—
 (a) in the case where the licensed corporation in question is subject to the specified licensing condition | $100,000
 
 (b) in any other case (L.N. 29 of 2011) | $3,000,000
+
+Type 13 (L.N. 56 of 2023) | $3,000,000
