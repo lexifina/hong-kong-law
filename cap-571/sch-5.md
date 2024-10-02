@@ -30,7 +30,9 @@ Regulated Activities
 
 - #Type 11 : | dealing in OTC derivative products or advising on OTC derivative products; (Added 6 of 2014 s. 53)
 
-- @Type 12 : | providing client clearing services for OTC derivative transactions. (Added 6 of 2014 s. 53)
+- @Type 12 : | providing client clearing services for OTC derivative transactions; (Added 6 of 2014 s. 53. Amended L.N. 62 of 2023)
+
+- Type 13 : | providing depositary services for relevant CISs. (Added L.N. 62 of 2023)
 
 - Editorial Note:
 
@@ -376,6 +378,16 @@ Regulated Activities
 
   - debt securities (債務證券) means debenture stocks, loan stocks, debentures, bonds, notes, indexed bonds, convertible debt securities, bonds with warrants, non-interest bearing debt securities, and other securities or instruments acknowledging, evidencing or creating indebtedness; (Added L.N. 28 of 2011)
 
+  - depositary (存管人), in relation to a relevant CIS, means—
+
+    - (a) if the relevant CIS is constituted in the form of a trust—the person who is appointed as a trustee under the trust deed constituting or governing the relevant CIS; or
+
+    - (b) if the relevant CIS is constituted in any other form—
+
+      - (i) the person who is appointed as the custodian (by whatever name called) of the relevant CIS under a written agreement entered into by the person with the relevant CIS; or
+
+      - (ii) the person who, under an arrangement made with the relevant CIS, is in fact the custodian of the relevant CIS; (Added L.N. 62 of 2023)
+
   - excluded services (豁除服務) means—
 
     - #(a) services for trading in OTC derivative products that do not fall within paragraph (a), (b) or (c) of the definition of automated trading services and which are provided—
@@ -536,6 +548,12 @@ Regulated Activities
 
     - gathering, collating, disseminating or distributing information concerning the indebtedness or credit history of any person; (Added L.N. 28 of 2011)
 
+  - providing depositary services for relevant CISs (為相關集體投資計劃提供存管服務) means providing both of the following services for 1 or more relevant CISs by a depositary (other than a delegate or subdelegate of the depositary, irrespective of whether the delegate or subdelegate is appointed by the depositary)—
+
+    - (a) the custody and safekeeping of relevant CIS property;
+
+    - (b) the oversight of the relevant CIS to ensure that it is operated in accordance with its scheme documents; (Added L.N. 62 of 2023)
+
   - real estate investment scheme management (房地產投資計劃管理), in relation to a person, means providing a service of operating a collective investment scheme for another person by the person, where—
 
     - (a) the property that is being managed under the scheme consists primarily of immovable property; and
@@ -543,6 +561,36 @@ Regulated Activities
     - (b)
 
     - the scheme is authorized under section 104 of this Ordinance; (Added L.N. 197 of 2005)
+
+  - relevant CIS (相關集體投資計劃) means a collective investment scheme authorized under section 104 other than any of the following—
+
+    - (a) a registered scheme as defined by section 2(1) of the Mandatory Provident Fund Schemes Ordinance (Cap. 485), or a constituent fund (as defined by that section 2(1)) of the registered scheme;
+
+    - (b) an approved pooled investment fund as defined by section 2 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A) that is offered only to all or any of the following—
+
+      - (i) professional investors;
+
+      - (ii) employers as defined by section 2(1) of the Mandatory Provident Fund Schemes Ordinance (Cap. 485);
+
+      - (iii) pooling agreements as defined by section 2(4) of the Occupational Retirement Schemes Ordinance (Cap. 426); (Added L.N. 62 of 2023)
+
+  - relevant CIS property (相關集體投資計劃財產), in relation to a relevant CIS, means—
+
+    - (a) if the relevant CIS is constituted in the form of a trust—the property held on or subject to trust under the trust deed constituting or governing the relevant CIS; or
+
+    - (b) if the relevant CIS is constituted in any other form—the property of the relevant CIS; (Added L.N. 62 of 2023)
+
+  - scheme documents (計劃文件), in relation to a relevant CIS, means—
+
+    - (a) if the relevant CIS is constituted in the form of a trust—the trust deed constituting or governing the relevant CIS;
+
+    - (b) if the relevant CIS is constituted in any other form—the documents governing the formation or constitution of the relevant CIS; and
+
+    - (c) other documents setting out the requirements relating to—
+
+      - (i) the custody and safekeeping of any relevant CIS property; or
+
+      - (ii) the oversight of the operations of the relevant CIS; (Added L.N. 62 of 2023)
 
   - securities margin financing (證券保證金融資) means providing a financial accommodation in order to facilitate—
 
