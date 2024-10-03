@@ -4,6 +4,8 @@
 
 Contents of Medical Fitness Certificate
 
+(Schedule 2 replaced L.N. 74 of 2016)
+
 - 1. The following particulars of the holder of the medical fitness certificate—
 
   - (a) name;
@@ -37,5 +39,3 @@ Contents of Medical Fitness Certificate
 - 5. The expiry date of the medical fitness certificate.
 
 - 6. The name of the issuer of the medical fitness certificate and the place where the issuer is qualified to practise medicine.
-
-(Schedule 2 replaced L.N. 74 of 2016)

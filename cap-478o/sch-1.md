@@ -4,6 +4,8 @@
 
 Medical Standards, Requirements and Criteria for Seafarers
 
+(Schedule 1 replaced L.N. 74 of 2016)
+
 - The medical standards, requirements and criteria for seafarers are those as specified in the following appendices to the Guidelines—
 
 - Appendix A | Vision Standards
@@ -15,5 +17,3 @@ Medical Standards, Requirements and Criteria for Seafarers
 - Appendix D | Fitness Criteria for Medication Use
 
 - Appendix E | Fitness Criteria for Common Medical Conditions
-
-(Schedule 1 replaced L.N. 74 of 2016)
