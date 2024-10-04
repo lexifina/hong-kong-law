@@ -386,4 +386,6 @@ Item | Periods | Rate of interest
 
 191. | On or after 4 September 2023 and before 3 June 2024 (L.N. 122 of 2023; L.N. 89 of 2024) | 0.9250% per annum
 
-192. | On or after 3 June 2024 (L.N. 89 of 2024) | 0.8833% per annum
+192. | On or after 3 June 2024 and before 7 October 2024 (L.N. 89 of 2024; L.N. 121 of 2024) | 0.8833% per annum
+
+193. | On or after 7 October 2024 (L.N. 121 of 2024) | 0.8000% per annum
