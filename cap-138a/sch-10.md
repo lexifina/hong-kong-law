@@ -1142,9 +1142,13 @@ Poisons List
 
     - Efalizumab
 
+    - Efanesoctocog alfa
+
     - Efavirenz; its salts
 
     - Efinaconazole; its salts
+
+    - Eladocagene exuparvovec
 
     - Elaterin
 
@@ -1276,6 +1280,8 @@ Poisons List
 
     - Etoxeridine; its salts
 
+    - Etranacogene dezaparvovec
+
     - Etravirine
 
     - Etretinate
@@ -1283,6 +1289,8 @@ Poisons List
     - Etryptamine; its salts
 
     - Everolimus; its salts; its esters; their salts
+
+    - Evocalcet; its salts; its esters; their salts
 
     - Evolocumab
 
@@ -1420,6 +1428,8 @@ Poisons List
 
     - Gallamine; its salts; its quaternary compounds
 
+    - Gallium-68; its salts; when contained in pharmaceutical products
+
     - Gallopamil; its salts
 
     - Galsulfase
@@ -1437,6 +1447,8 @@ Poisons List
     - Gemfibrozil
 
     - Gemtuzumab ozogamicin
+
+    - Germanium-68; its salts; when contained in pharmaceutical products
 
     - Gilteritinib; its salts
 
@@ -1613,6 +1625,8 @@ Poisons List
     - Ipilimumab
 
     - Iprindole; its salts
+
+    - Iptacopan; its salts
 
     - Irbesartan; its salts
 
@@ -2368,8 +2382,6 @@ Poisons List
 
     - Antihistamine substances
 
-    - Atropine
-
     - Betiatide
 
     - Bicisate
@@ -2892,6 +2904,8 @@ Poisons List
 
     - Romosozumab
 
+    - Ropeginterferon alfa-2b
+
     - Ropinirole; its salts
 
     - Ropivacaine; its salts
@@ -2903,6 +2917,8 @@ Poisons List
     - Rosuvastatin; its salts
 
     - Rotigotine; its salts
+
+    - Roxadustat; its salts
 
     - Rufinamide; its salts
 
@@ -2927,6 +2943,8 @@ Poisons List
     - Satralizumab
 
     - Savin, oil of
+
+    - Savolitinib; its salts
 
     - Saxagliptin; its salts
 
@@ -2984,6 +3002,8 @@ Poisons List
 
     - Solifenacin; its salts; its esters; their salts
 
+    - Solriamfetol; its salts
+
     - Somapacitan
 
     - Somatostatin
@@ -3039,6 +3059,8 @@ Poisons List
     - Sunitinib; its salts
 
     - Suprarenal gland, the active principles of; their salts; their derivatives; their salts
+
+    - Surufatinib; its salts
 
     - Sutoprofen; its salts
 
@@ -3178,6 +3200,8 @@ Poisons List
 
     - Tisagenlecleucel
 
+    - Tislelizumab
+
     - Tixagevimab
 
     - Tizanidine; its salts
@@ -3215,6 +3239,8 @@ Poisons List
     - Topotecan; its salts
 
     - Torasemide
+
+    - Toripalimab
 
     - Trabectedin; its salts; its esters
 
@@ -3414,7 +3440,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024)
 
   - Division B
 
