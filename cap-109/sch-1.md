@@ -8,17 +8,69 @@
 
 - Type of Liquor | Rate
 
-- Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C | 100%
-
 - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 0%
 
 - Wine | 0%
 
-- (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 28 of 2002 and 17 of 2002 s. 2; L.N. 32 of 2007 and 13 of 2007 s. 2; L.N. 33 of 2008 and 15 of 2008 s. 3)
+- (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 28 of 2002 and 17 of 2002 s. 2; L.N. 32 of 2007 and 13 of 2007 s. 2; L.N. 33 of 2008 and 15 of 2008 s. 3; L.N. 136 of 2024 and L.N. 193 of 2024)
+
+  - 1A. Duty is payable on any bottle of liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C, as assessed—
+
+    - (a) if the volume of liquor in the bottle (subject volume) is not more than 1 litre—at the following rates (expressed as a percentage of the value of the bottle of liquor as construed in accordance with section 26A)—
+
+      - (i) on the first $200—100%;
+
+      - (ii) on the remainder—10%; or
+
+    - (b) if the subject volume is more than 1 litre—in accordance with the following formula—
+
+    - A = D × L
+
+    - where: | A | means the amount of duty payable;
+
+    - D | means the duty-per-litre for the bottle of liquor as assessed in accordance with paragraph 1B; and
+
+    - L | means the subject volume in litres.
+
+  - (Added L.N. 136 of 2024 and L.N. 193 of 2024)
+
+  - 1B. The duty-per-litre for the bottle of liquor is to be assessed at the following rates (expressed as a percentage of the value-per-litre for the bottle of liquor as calculated in accordance with paragraph 1C)—
+
+    - (a) on the first $200—100%;
+
+    - (b) on the remainder—10%.
+
+  - (Added L.N. 136 of 2024 and L.N. 193 of 2024)
+
+  - 1C. The value-per-litre for the bottle of liquor is to be calculated in accordance with the following formula—
+
+  - P = V ÷ L
+
+  - where: | P | means the value-per-litre for the bottle of liquor;
+
+  - V | means the value of the bottle of liquor as construed in accordance with section 26A; and
+
+  - L | means the subject volume in litres.
+
+  - (Added L.N. 136 of 2024 and L.N. 193 of 2024)
+
+  - 1D. For the purposes of paragraphs 1A, 1B and 1C, if 2 or more bottles of such liquor are packaged as a single item of goods—
+
+    - (a) they are to be regarded as a single bottle of liquor; and
+
+    - (b) the total volume of liquor in the bottles is to be regarded as the subject volume.
+
+  - (Added L.N. 136 of 2024 and L.N. 193 of 2024)
 
   - 2. Where there is no or insufficient information available from which the Commissioner (or any officer authorized by him in that behalf) is able to determine the value of any quantity of liquor of less than 12 litres, imported at any time in one consignment, he may assess the duty payable on such liquor at the rate of $160 per litre.
 
   - 3. (Repealed 57 of 2000 s. 9)
+
+  - 4. In paragraphs 1A, 1B, 1C and 1D—
+
+    - bottle (瓶、瓶子) includes a barrel and any other container.
+
+  - (Added L.N. 136 of 2024 and L.N. 193 of 2024)
 
 - (Part I replaced 45 of 1994 s. 4)
 
