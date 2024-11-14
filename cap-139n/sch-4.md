@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 2, 7 & 8]
 
-IDENTIFICATION OF FOOD ANIMALS
+Identification of Food Animals
 
 (1) | (2)
 

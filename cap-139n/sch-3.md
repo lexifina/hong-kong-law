@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
-[ss. 2 & 4(2)]
+[ss. 2 & 4]
 
-MAXIMUM RESIDUE LIMIT (MRL) IN MILK
+(E.R. 6 of 2024)
+
+Maximum Residue Limit (MRL) in Milk
 
 (1) | (2) | (3) | (4) | (5)
 
