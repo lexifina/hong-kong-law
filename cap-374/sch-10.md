@@ -40,7 +40,7 @@ Requirements Applicable to Vehicle Emission Testing Centres
 
   - 6. | Fees
 
-  - (a) Fee payable for designation or renewal of designation of a place as a vehicle emission testing centre. | $2,840
+  - (a) Fee payable for the designation, or the renewal of the designation, of a place as a vehicle emission testing centre. (Amended 13 of 2024 s. 63) | $2,840
 
   - (b) Fee payable in respect of a test of a motor vehicle—
 

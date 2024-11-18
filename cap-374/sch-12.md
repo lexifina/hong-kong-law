@@ -18,7 +18,7 @@ Requirements Applicable to Driving Improvement Schools and Taxi Service Improvem
 
     - (c) grounds exist for a creditor to present a bankruptcy petition against the proprietor or the proprietor has entered into liquidation or has entered into any composition with his creditors or has suffered any distress or execution to be levied upon his goods.
 
-  - 3. The Commissioner may from time to time determine the fees payable for designation, or renewal of designation, of a driving improvement school.
+  - 3. The Commissioner may from time to time determine the fees payable for the designation, or the renewal of the designation, of a driving improvement school. (Amended 13 of 2024 s. 64)
 
   - 4. The Commissioner shall cause notice of the fees he has determined under section 3 of this Schedule to be published in the Gazette. (Amended 35 of 2023 s. 58)
 

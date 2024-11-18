@@ -40,7 +40,7 @@ Requirements Applicable to Car Testing Centres
 
   - 6. | Fees
 
-  - (a) | Fee payable for designation or renewal of designation of a place as a car testing centre. (Amended L.N. 529 of 1996; L.N. 35 of 1998; L.N. 146 of 1998) | $12,100
+  - (a) | Fee payable for the designation, or the renewal of the designation, of a place as a car testing centre. (Amended L.N. 529 of 1996; L.N. 35 of 1998; L.N. 146 of 1998; 13 of 2024 s. 62) | $12,100
 
   - (b) | Fees to be charged in respect of an examination—
 

@@ -4,29 +4,29 @@
 
 Fees
 
-(Format changes—E.R. 2 of 2012)
+(Format changes—E.R. 2 of 2012) Miscellaneous Fees (13 of 2024 s. 70)
 
 Fee $
 
-Certificate of particulars in the register fee (L.N. 201 of 1995) | 45
+1. | Certificate of particulars in the register fee (L.N. 201 of 1995) | 45
 
-Registration fee (L.N. 201 of 1995; L.N. 171 of 2005; L.N. 92 of 2015; L.N. 158 of 2017) | 100
+2. | Registration fee (L.N. 201 of 1995; L.N. 171 of 2005; L.N. 92 of 2015; L.N. 158 of 2017) | 100
 
-Transfer of registration mark fee | 560
+3. | Transfer of registration mark fee | 560
 
-Transfer of ownership fee
+4. | Transfer of ownership fee
 
 (a) motor cycles and motor tricycles | 250
 
 (b) all other vehicles (40 of 1991 s. 7) | 1,000
 
-Duplicate registration document fee, duplicate vehicle licence fee other than in the case of a rickshaw, or duplicate certificate of allocation fee (25 of 2005 s. 27) | 60
+5. | Duplicate registration document fee, duplicate vehicle licence fee other than in the case of a rickshaw, or duplicate certificate of allocation fee (25 of 2005 s. 27) | 60
 
-Duplicate vehicle licence fee in the case of a rickshaw (L.N. 92 of 2015; L.N. 158 of 2017) | 20
+6. | Duplicate vehicle licence fee in the case of a rickshaw (L.N. 92 of 2015; L.N. 158 of 2017) | 20
 
-Duplicate trade licence or permit (L.N. 92 of 2015; L.N. 158 of 2017) | 86
+7. | Duplicate trade licence or permit (L.N. 92 of 2015; L.N. 158 of 2017) | 86
 
-(L.N. 300 of 1990; L.N. 267 of 1994; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998) Annual Licence Fees
+(L.N. 300 of 1990; L.N. 267 of 1994; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998; 13 of 2024 s. 70) Annual Licence Fees
 
 Fee $
 
