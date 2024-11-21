@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 3, 4(3), 5(1), (2) & (3) & 7 & Sch. 3]
 
-SPECIAL EFFECTS OPERATOR LICENCES
+Special Effects Operator Licences
 
 Column 1 | Column 2 | Column 3 | Column 4
 

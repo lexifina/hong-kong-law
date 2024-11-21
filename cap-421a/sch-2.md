@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
-[ss. 29 & 35]
+[ss. 29, 33 & 35]
 
-PROVISIONS THAT MAY BE APPLIED IN RABIES CONTROL AREAS
+(E.R. 6 of 2024)
+
+Provisions that may be Applied in Rabies Control Areas
 
 Confinement
 

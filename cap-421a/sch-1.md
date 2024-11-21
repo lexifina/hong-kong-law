@@ -1,10 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
-[ss. 3, 12, 31, 34 & 35]
+[ss. 3, 12, 19A, 21, 31, 34 & 35]
 
-FEES
+(E.R. 6 of 2024)
 
-- PART I LICENCE AND PERMIT FEES
+Fees
+
+- Part I Licence and Permit Fees
 
 - Fee $
 
@@ -28,9 +30,9 @@ FEES
 
 - 10. | Licence in respect of a dog vaccinated by a person authorized under section 5 of the Ordinance who is not a public officer | 46
 
-- PART II DETENTION FEES
+- Part II Detention Fees
 
-- 1. | For detention of an animal in a quarantine centre (other than a licensed quarantine centre)—
+  - 1. For detention of an animal in a quarantine centre (other than a licensed quarantine centre)—
 
 - Fee per day or part thereof $
 

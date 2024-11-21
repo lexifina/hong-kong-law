@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 11]
 
-DISCHARGE PERMITS NOT REQUIRED FOR NON-PYROTECHNIC SPECIAL EFFECTS MATERIALS
+Discharge Permits not Required for Non-Pyrotechnic Special Effects Materials
 
 - 1. A discharge permit is not required for the discharge of non-pyrotechnic special effects materials if—
 

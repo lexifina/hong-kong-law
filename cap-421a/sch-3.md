@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 27A, 28 & 35] (L.N. 466 of 1996)
 
-DEVICE TO BE IMPLANTED IN A DOG
+Device to be Implanted in a Dog
 
 (L.N. 466 of 1996)
 
