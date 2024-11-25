@@ -492,8 +492,6 @@ Scheduled Species
 
 - Felidae spp.A1, A4 <Cats> (Except the species included in Appendix I)
 
-- Appendix I | Appendix II | Appendix III
-
 - Acinonyx jubatusA5 <Cheetah>
 
 - Caracal caracal <African caracal> (Only the population of Asia; all other populations are included in Appendix II)
@@ -1122,11 +1120,11 @@ Scheduled Species
 
 - Lemuridae spp. <Lemurs>
 
+- Appendix I | Appendix II | Appendix III
+
 - Lepilemuridae
 
 - Lepilemuridae spp. <Sportive lemurs>
-
-- Appendix I | Appendix II | Appendix III
 
 - Lorisidae
 
@@ -1598,6 +1596,8 @@ Scheduled Species
 
 - Atrichornis clamosus <Noisy scrub-bird>
 
+- Appendix I | Appendix II | Appendix III
+
 - Cotingidae
 
 - Cephalopterus ornatus <Amazonian umbrellabird> (Colombia)
@@ -1634,6 +1634,8 @@ Scheduled Species
 
 - Amandava formosa <Green avadavat>
 
+- Appendix I | Appendix II | Appendix III
+
 - Lonchura oryzivora <Java sparrow>
 
 - Poephila cincta cincta <Southern black-throated finch>
@@ -1651,6 +1653,8 @@ Scheduled Species
 - Carduelis hornemanni <Hoary redpoll> (Ukraine) (Only the population of Ukraine)
 
 - Carduelis spinus <Eurasian siskin> (Ukraine) (Only the population of Ukraine)
+
+- Appendix I | Appendix II | Appendix III
 
 - Carduelis yarrellii <Yellow-faced siskin>
 
@@ -1688,6 +1692,8 @@ Scheduled Species
 
 - Dasyornis longirostris <Long-billed bristlebird>
 
+- Appendix I | Appendix II | Appendix III
+
 - Erithacus rubecula <European robin> (Ukraine) (Only the population of Ukraine)
 
 - Ficedula parva <Red-breasted flycatcher> (Ukraine) (Only the population of Ukraine)
@@ -1710,6 +1716,8 @@ Scheduled Species
 
 - Luscinia megarhynchos <Common nightingale> (Ukraine) (Only the population of Ukraine)
 
+- Appendix I | Appendix II | Appendix III
+
 - Luscinia svecica <Bluethroat> (Ukraine) (Only the population of Ukraine)
 
 - Monticola saxatilis <Common rock thrush> (Ukraine) (Only the population of Ukraine)
@@ -1724,9 +1732,13 @@ Scheduled Species
 
 - Sylvia curruca <Lesser whitethroat> (Ukraine) (Only the population of Ukraine)
 
+- Appendix I | Appendix II | Appendix III
+
 - Sylvia nisoria <Barred warbler> (Ukraine) (Only the population of Ukraine)
 
 - Terpsiphone bourbonnensis <Rodrigues brush-warbler> (Mauritius)
+
+- Appendix I | Appendix II | Appendix III
 
 - Turdus merula <Eurasian blackbird> (Ukraine) (Only the population of Ukraine)
 
@@ -1769,6 +1781,8 @@ Scheduled Species
 - Troglodytidae
 
 - Troglodytes troglodytes <Eurasian wren> (Ukraine) (Only the population of Ukraine)
+
+- Appendix I | Appendix II | Appendix III
 
 - Zosteropidae
 
@@ -2042,8 +2056,6 @@ Scheduled Species
 
 - Melanosuchus nigerA12 <Black caiman> (Except the populations of Brazil and Ecuador, which are included in Appendix II)
 
-- Appendix I | Appendix II | Appendix III
-
 - Crocodylidae
 
 - Crocodylus acutusA13 <American crocodile> (Except the populations of Colombia [Integrated Management District of Mangroves of the Bay of Cispata, Tinajones, La Balsa and Surrounding Areas, Department of Córdoba], Cuba and Mexico, which are included in Appendix II)
@@ -2057,8 +2069,6 @@ Scheduled Species
 - Crocodylus mindorensis <Mindoro crocodile>
 
 - Crocodylus moreletiiA14 <Belize crocodile, Morelet’s crocodile> (Except the populations of Belize and Mexico, which are included in Appendix II)
-
-- Appendix I | Appendix II | Appendix III
 
 - Crocodylus niloticusA15, A16 <African crocodile, Nile crocodile> (Except the populations of Botswana, Egypt, Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, the United Republic of Tanzania, Zambia and Zimbabwe, which are included in Appendix II)
 
@@ -2133,6 +2143,8 @@ Scheduled Species
 - Physignathus cocincinus <Chinese water dragon>
 
 - Saara spp. <Mastigures, spiny-tailed lizards>
+
+- Appendix I | Appendix II | Appendix III
 
 - Tympanocryptis spp. <Earless dragons> (Australia)
 
@@ -2230,6 +2242,8 @@ Scheduled Species
 
 - Cnemaspis psychedelica <Psychedelic rock gecko>
 
+- Appendix I | Appendix II | Appendix III
+
 - Cyrtodactylus jeyporensis <Jeypore hill gecko>
 
 - Dactylocnemis spp. <Sticky-toed geckos> (New Zealand)
@@ -2257,6 +2271,8 @@ Scheduled Species
 - Paroedura androyensis <Grandidier’s Madagascar ground gecko>
 
 - Paroedura masobe <Masobe gecko>
+
+- Appendix I | Appendix II | Appendix III
 
 - Phelsuma spp. <Day geckos>
 
@@ -2309,6 +2325,8 @@ Scheduled Species
 - Toropuku spp. <Sticky-toed geckos> (New Zealand)
 
 - Tukutuku spp. <Sticky-toed geckos> (New Zealand)
+
+- Appendix I | Appendix II | Appendix III
 
 - Underwoodisaurus spp. <Thick-tailed geckos> (Australia)
 
@@ -2401,6 +2419,8 @@ Scheduled Species
 - Tiliqua rugosa <Shingleback lizard> (Australia)
 
 - Tiliqua scincoides intermedia <Northern blue-tongued skink> (Australia)
+
+- Appendix I | Appendix II | Appendix III
 
 - Tiliqua scincoides scincoides <Eastern blue-tongued skink> (Australia)
 
@@ -2608,6 +2628,8 @@ Scheduled Species
 
 - Graptemys barbouri <Barbour’s map turtle>
 
+- Appendix I | Appendix II | Appendix III
+
 - Graptemys ernsti <Escambia map turtle>
 
 - Graptemys gibbonsi <Pascagoula map turtle>
@@ -2752,6 +2774,8 @@ Scheduled Species
 
 - Sternotherus spp. <Musk turtles>
 
+- Appendix I | Appendix II | Appendix III
+
 - Platysternidae
 
 - Platysternidae spp. <Big-headed turtle>
@@ -2798,9 +2822,9 @@ Scheduled Species
 
 - Amyda cartilaginea <Southeast Asian softshell turtle>
 
-- Apalone spp. <American softshell turtles> (Except the subspecies included in Appendix I)
-
 - Appendix I | Appendix II | Appendix III
+
+- Apalone spp. <American softshell turtles> (Except the subspecies included in Appendix I)
 
 - Apalone spinifera atra <Cuatro Cienegas softshell>
 
@@ -2903,6 +2927,8 @@ Scheduled Species
 - Dendrobatidae
 
 - Adelphobates spp. <Poison frogs>
+
+- Appendix I | Appendix II | Appendix III
 
 - Ameerega spp. <Poison frogs>
 
@@ -3074,6 +3100,8 @@ Scheduled Species
 
 - Potamotrygon marquesi <Marques river stingray>
 
+- Appendix I | Appendix II | Appendix III
+
 - Potamotrygon motoro <Ocellate river stingray> (Colombia)
 
 - Potamotrygon orbignyi <Smooth back river stingray> (Colombia)
@@ -3178,6 +3206,8 @@ Scheduled Species
 
 - Totoaba macdonaldi <MacDonald’s weakfish>
 
+- Appendix I | Appendix II | Appendix III
+
 - SILURIFORMES
 
 - Loricariidae
@@ -3253,6 +3283,8 @@ Scheduled Species
 - Poecilotheria spp. <Ornamental tarantulas>
 
 - Sericopelma angustum <Costa Rican red tarantula>
+
+- Appendix I | Appendix II | Appendix III
 
 - Sericopelma embrithes <Barro Island brown tarantula>
 
@@ -3331,6 +3363,8 @@ Scheduled Species
 - Trogonoptera spp. <Birdwing butterflies>
 
 - Troides spp. <Birdwing butterflies>
+
+- Appendix I | Appendix II | Appendix III
 
 - PHYLUM ANNELIDA
 
@@ -3588,6 +3622,14 @@ Scheduled Species
 
 - Podophyllum hexandrum #2 <Himilayan may-apple>
 
+- BIGNONIACEAE
+
+- Handroanthus spp. #17 <Trumpet trees>
+
+- Roseodendron spp. #17 <Trumpet trees>
+
+- Tabebuia spp. #17 <Trumpet trees>
+
 - Appendix I | Appendix II | Appendix III
 
 - BROMELIACEAE
@@ -3762,13 +3804,13 @@ Scheduled Species
 
 - Dionaea muscipula #4 <Venus flytrap>
 
+- Appendix I | Appendix II | Appendix III
+
 - EBENACEAE
 
 - Diospyros spp. #5 <Malagasy ebonies> (Only the populations of Madagascar; no other population is included in the Appendices)
 
 - EUPHORBIACEAE
-
-- Appendix I | Appendix II | Appendix III
 
 - Euphorbia spp.P2 #4 <Euphorbias, spurges> (Succulent species only, except the species included in Appendix I and Euphorbia misera <Cliff spurge>, which is not included in the Appendices)
 
@@ -3842,13 +3884,15 @@ Scheduled Species
 
 - Dalbergia nigra <Brazilian rosewood>
 
-- Dipteryx panamensis (Costa Rica, Nicaragua)
+- Dipteryx spp. #17 <Cumaru, tonka>
 
 - Guibourtia demeusei #15
 
 - Guibourtia pellegriniana #15
 
 - Guibourtia tessmannii #15
+
+- Appendix I | Appendix II | Appendix III
 
 - Paubrasilia echinata #10 <Brazil wood>
 
