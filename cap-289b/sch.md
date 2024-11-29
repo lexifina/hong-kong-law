@@ -390,4 +390,6 @@ Item | Periods | Rate of interest
 
 193. | On or after 7 October 2024 and before 4 November 2024 (L.N. 121 of 2024; L.N. 161 of 2024) | 0.8000% per annum
 
-194. | On or after 4 November 2024 (L.N. 161 of 2024) | 0.7167% per annum
+194. | On or after 4 November 2024 and before 2 December 2024 (L.N. 161 of 2024; L.N. 174 of 2024) | 0.7167% per annum
+
+195. | On or after 2 December 2024 (L.N. 174 of 2024) | 0.5500% per annum
