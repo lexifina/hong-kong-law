@@ -20,7 +20,7 @@
 
 - 9. The area of the 2nd floor, Central Government Pier, Road D3, New Central Reclamation Area, Central, occupied by the Immigration Department set aside as a detention room.
 
-- 10. The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon. (L.N. 537 of 1997)
+- 10. (Repealed L.N. 40 of 2024)
 
 - 11. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 325 of 1998)
 
