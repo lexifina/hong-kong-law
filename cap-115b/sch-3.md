@@ -30,7 +30,7 @@
 
 - 22. (Repealed L.N. 14 of 2010)
 
-- 23. The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon. (L.N. 538 of 1997)
+- 23. (Repealed L.N. 39 of 2024)
 
 - 24. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 324 of 1998)
 
