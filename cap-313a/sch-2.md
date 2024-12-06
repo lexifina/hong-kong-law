@@ -24,6 +24,8 @@ VHF Sectors
 
 - 3. Harbour The area of the waters of Hong Kong bounded—
 
+  - (aa) by a straight line drawn along the Cheung Tsing Bridge; (L.N. 124 of 2024)
+
   - (a) by longitude 114°00.000´ east between the points where it intersects the northern shore of Lantau Island and the mainland;
 
   - (b) by a straight line drawn from position latitude 22°15.952´ north, longitude 114°01.410´ east to position latitude 22°15.477´ north, longitude 114°01.666´ east;
@@ -36,7 +38,9 @@ VHF Sectors
 
   - (f) by a straight line drawn from the westernmost point of Green Island to position latitude 22°19.000´ north, longitude 114°06.459´ east; (L.N. 171 of 2017)
 
-  - (g) by a straight line drawn from position latitude 22°19.000´ north, longitude 114°06.459´ east to position latitude 22°19.431´ north, longitude 114°07.358´ east. (L.N. 171 of 2017)
+  - (g) by a straight line drawn from position latitude 22°19.000´ north, longitude 114°06.459´ east to position latitude 22°19.291´ north, longitude 114°07.299´ east; (L.N. 171 of 2017; L.N. 124 of 2024)
+
+  - (h) by a straight line drawn from position latitude 22°19.291´ north, longitude 114°07.299´ east to position latitude 22°19.605´ north, longitude 114°06.700´ east. (L.N. 124 of 2024)
 
 - (L.N. 171 of 2017)
 
@@ -46,7 +50,7 @@ VHF Sectors
 
   - (b) by a straight line drawn from the westernmost point of Green Island to position latitude 22°19.000´ north, longitude 114°06.459´ east;
 
-  - (c) by a straight line drawn from position latitude 22°19.000´ north, longitude 114°06.459´ east to position latitude 22°19.431´ north, longitude 114°07.358´ east;
+  - (c) by a straight line drawn from position latitude 22°19.000´ north, longitude 114°06.459´ east to position latitude 22°19.291´ north, longitude 114°07.299´ east; (L.N. 124 of 2024)
 
   - (d) by a straight line drawn from the westernmost extremity of Siu Chau Wan Point to the westernmost extremity of A Kung Ngam Point (sometimes known as Kung Am).
 
@@ -63,6 +67,14 @@ VHF Sectors
   - (d) by a straight line drawn from position latitude 22°10.968´ north, longitude 114°06.847´ east to position latitude 22°08.910´ north, longitude 114°04.657´ east.
 
 - (L.N. 171 of 2017)
+
+- 6. Kwai Chung Control Station The area of the waters of Hong Kong bounded—
+
+  - (a) by a straight line drawn along the Cheung Tsing Bridge;
+
+  - (b) by a straight line drawn from position latitude 22°19.291´ north, longitude 114°07.299´ east to position latitude 22°19.605´ north, longitude 114°06.700´ east.
+
+- (L.N. 124 of 2024)
 
 Note:
 

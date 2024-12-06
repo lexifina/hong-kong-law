@@ -12,31 +12,27 @@ Restricted Areas, etc.
 
   - (a) 17 metres above sea level;
 
-  - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii), (iii) to (iv), (iv) to (v), and (v) to (vi)— (L.N. 470 of 1996)
+  - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii) and (iii) to (iv)— (L.N. 470 of 1996; L.N. 124 of 2024)
 
-  - (i) | latitude | 22°21΄53˝ | north,
+  - (i) | latitude | 22°21.792´ | north,
 
-  - longitude | 114°06΄34˝ | east;
+  - longitude | 114°06.716´ | east;
 
-  - (ii) | latitude | 22°21΄53˝ | north,
+  - (ii) | latitude | 22°21.789´ | north,
 
-  - longitude | 114°06΄18˝ | east;
+  - longitude | 114°06.442 | east;
 
-  - (iii) | latitude | 22°20΄37˝ | north,
+  - (iii) | latitude | 22°20.792´ | north,
 
-  - longitude | 114°06΄30˝ | east;
+  - longitude | 114°06.744´ | east;
 
-  - (iv) | latitude | 22°20΄36˝ | north,
+  - (iv) | latitude | 22°20.843´ | north,
 
-  - longitude | 114°06΄34˝ | east;
+  - longitude | 114°06.930 | east. (L.N. 124 of 2024)
 
-  - (v) | latitude | 22°20΄54˝ | north,
+  - (v) | (Repealed L.N. 124 of 2024)
 
-  - longitude | 114°06΄39˝ | east;
-
-  - (vi) | latitude | 22°20΄56˝ | north,
-
-  - longitude | 114°06΄47˝ | east.
+  - (vi) | (Repealed L.N. 124 of 2024)
 
 - (L.N. 309 of 1993)
 
@@ -46,309 +42,309 @@ Restricted Areas, etc.
 
   - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii), and (iii) to (iv)—
 
-  - (i) | latitude | 22°14΄49˝ | north,
+  - (i) | latitude | 22°14.718´ | north,
 
-  - longitude | 114°09΄33˝ | east;
+  - longitude | 114°09.689´ | east;
 
-  - (ii) | latitude | 22°14΄44˝ | north,
+  - (ii) | latitude | 22°14.635´ | north,
 
-  - longitude | 114°09΄27˝ | east;
+  - longitude | 114°09.588´ | east;
 
-  - (iii) | latitude | 22°14΄50˝ | north,
+  - (iii) | latitude | 22°14.739´ | north,
 
-  - longitude | 114°09΄21˝ | east;
+  - longitude | 114°09.492´ | east;
 
-  - (iv) | latitude | 22°14΄52˝ | north,
+  - (iv) | latitude | 22°14.787´ | north,
 
-  - longitude | 114°09΄25˝ | east.
+  - longitude | 114°09.589´ | east. (L.N. 124 of 2024)
 
 - (L.N. 309 of 1993)
 
 - 5. Hong Kong International Airport Approach Area No. 1 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
-- (a) | latitude | 22°17΄39˝ | north,
+- (a) | latitude | 22°17.650´ | north,
 
-- longitude | 113°54΄02˝ | east;
+- longitude | 113°54.033´ | east;
 
-- (b) | latitude | 22°17΄34˝ | north,
+- (b) | latitude | 22°17.567´ | north,
 
-- longitude | 113°53΄58˝ | east;
+- longitude | 113°53.967´ | east;
 
-- (c) | latitude | 22°17΄16˝ | north,
+- (c) | latitude | 22°17.267´ | north,
 
-- longitude | 113°53΄01˝ | east;
+- longitude | 113°53.017´ | east;
 
-- (d) | latitude | 22°17΄40˝ | north,
+- (d) | latitude | 22°17.667´ | north,
 
-- longitude | 113°52΄51˝ | east;
+- longitude | 113°52.850´ | east;
 
-- (e) | latitude | 22°17΄59˝ | north,
+- (e) | latitude | 22°17.983´ | north,
 
-- longitude | 113°53΄49˝ | east.
+- longitude | 113°53.817´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 6. Hong Kong International Airport Approach Area No. 2 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
-- (a) | latitude | 22°18΄38˝ | north,
+- (a) | latitude | 22°18.633´ | north,
 
-- longitude | 113°56΄26˝ | east;
+- longitude | 113°56.433´ | east;
 
-- (b) | latitude | 22°18΄39˝ | north,
+- (b) | latitude | 22°18.650´ | north,
 
-- longitude | 113°56΄29˝ | east;
+- longitude | 113°56.483´ | east;
 
-- (c) | latitude | 22°18΄35˝ | north,
+- (c) | latitude | 22°18.583´ | north,
 
-- longitude | 113°56΄31˝ | east;
+- longitude | 113°56.517´ | east;
 
-- (d) | latitude | 22°18΄33˝ | north,
+- (d) | latitude | 22°18.550´ | north,
 
-- longitude | 113°56΄23˝ | east.
+- longitude | 113°56.383´ | east. (L.N. 124 of 2024)
 
 - (L.N. 83 of 2017)
 
 - 7. Hong Kong International Airport Approach Area No. 3 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (f), (g) to (l), and (m) to (r)—
 
-- (a) | latitude | 22°18΄24˝ | north,
+- (a) | latitude | 22°18.400´ | north,
 
-- longitude | 113°53΄47˝ | east;
+- longitude | 113°53.783´ | east;
 
-- (b) | latitude | 22°18΄06˝ | north,
+- (b) | latitude | 22°18.100´ | north,
 
-- longitude | 113°52΄50˝ | east;
+- longitude | 113°52.833´ | east;
 
-- (c) | latitude | 22°18΄30˝ | north,
+- (c) | latitude | 22°18.500´ | north,
 
-- longitude | 113°52΄40˝ | east;
+- longitude | 113°52.667´ | east;
 
-- (d) | latitude | 22°18΄40˝ | north,
+- (d) | latitude | 22°18.667´ | north,
 
-- longitude | 113°53΄13˝ | east;
+- longitude | 113°53.217´ | east;
 
-- (e) | latitude | 22°19΄01˝ | north,
+- (e) | latitude | 22°19.017´ | north,
 
-- longitude | 113°53΄41˝ | east;
+- longitude | 113°53.683´ | east;
 
-- (f) | latitude | 22°19΄08˝ | north,
+- (f) | latitude | 22°19.133´ | north,
 
-- longitude | 113°54΄02˝ | east;
+- longitude | 113°54.033´ | east;
 
-- (g) | latitude | 22°19΄20˝ | north,
+- (g) | latitude | 22°19.333´ | north,
 
-- longitude | 113°53΄56˝ | east;
+- longitude | 113°53.933´ | east;
 
-- (h) | latitude | 22°18΄48˝ | north,
+- (h) | latitude | 22°18.800´ | north,
 
-- longitude | 113°52΄16˝ | east;
+- longitude | 113°52.267´ | east;
 
-- (i) | latitude | 22°19΄18˝ | north,
+- (i) | latitude | 22°19.300´ | north,
 
-- longitude | 113°52΄06˝ | east;
+- longitude | 113°52.100´ | east;
 
-- (j) | latitude | 22°20΄26˝ | north,
+- (j) | latitude | 22°20.433´ | north,
 
-- longitude | 113°55΄36˝ | east;
+- longitude | 113°55.600´ | east;
 
-- (k) | latitude | 22°19΄56˝ | north,
+- (k) | latitude | 22°19.933´ | north,
 
-- longitude | 113°55΄47˝ | east;
+- longitude | 113°55.783´ | east;
 
-- (l) | latitude | 22°19΄48˝ | north,
+- (l) | latitude | 22°19.800´ | north,
 
-- longitude | 113°55΄22˝ | east;
+- longitude | 113°55.367´ | east;
 
-- (m) | latitude | 22°19΄38˝ | north,
+- (m) | latitude | 22°19.633´ | north,
 
-- longitude | 113°55΄38˝ | east;
+- longitude | 113°55.633´ | east;
 
-- (n) | latitude | 22°19΄39˝ | north,
+- (n) | latitude | 22°19.650´ | north,
 
-- longitude | 113°56΄19˝ | east;
+- longitude | 113°56.317´ | east;
 
-- (o) | latitude | 22°19΄50˝ | north,
+- (o) | latitude | 22°19.833´ | north,
 
-- longitude | 113°56΄51˝ | east;
+- longitude | 113°56.850´ | east;
 
-- (p) | latitude | 22°19΄36˝ | north,
+- (p) | latitude | 22°19.600´ | north,
 
-- longitude | 113°56΄56˝ | east;
+- longitude | 113°56.933´ | east;
 
-- (q) | latitude | 22°19΄22˝ | north,
+- (q) | latitude | 22°19.367´ | north,
 
-- longitude | 113°56΄51˝ | east;
+- longitude | 113°56.850´ | east;
 
-- (r) | latitude | 22°19΄20˝ | north,
+- (r) | latitude | 22°19.333´ | north,
 
-- longitude | 113°56΄46˝ | east.
+- longitude | 113°56.767´ | east. (L.N. 124 of 2024)
 
 - (L.N. 173 of 2021)
 
 - 8. Hong Kong International Airport Approach Area No. 4 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-- (a) | latitude | 22°20΄29˝ | north,
+- (a) | latitude | 22°20.483´ | north,
 
-- longitude | 113°59΄09˝ | east;
+- longitude | 113°59.150´ | east;
 
-- (b) | latitude | 22°20΄03˝ | north,
+- (b) | latitude | 22°20.050´ | north,
 
-- longitude | 113°59΄09˝ | east;
+- longitude | 113°59.150´ | east;
 
-- (c) | latitude | 22°20΄03˝ | north,
+- (c) | latitude | 22°20.050´ | north,
 
-- longitude | 113°58΄41˝ | east;
+- longitude | 113°58.683´ | east;
 
-- (d) | latitude | 22°20΄29˝ | north,
+- (d) | latitude | 22°20.483´ | north,
 
-- longitude | 113°58΄41˝ | east;
+- longitude | 113°58.683´ | east;
 
-- (e) | latitude | 22°20΄29˝ | north,
+- (e) | latitude | 22°20.483´ | north,
 
-- longitude | 113°59΄09˝ | east.
+- longitude | 113°59.150´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 9. Hong Kong International Airport Approach Area No. 5 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (c), and (d) to (f)—
 
-- (a) | latitude | 22°18΄52˝ | north,
+- (a) | latitude | 22°18.867´ | north,
 
-- longitude | 113°56΄33˝ | east;
+- longitude | 113°56.550´ | east;
 
-- (b) | latitude | 22°18΄57˝ | north,
+- (b) | latitude | 22°18.950´ | north,
 
-- longitude | 113°56΄50˝ | east;
+- longitude | 113°56.833´ | east;
 
-- (c) | latitude | 22°18΄56˝ | north,
+- (c) | latitude | 22°18.933´ | north,
 
-- longitude | 113°56΄51˝ | east;
+- longitude | 113°56.850´ | east;
 
-- (d) | latitude | 22°18΄49˝ | north,
+- (d) | latitude | 22°18.817´ | north,
 
-- longitude | 113°56΄53˝ | east;
+- longitude | 113°56.883´ | east;
 
-- (e) | latitude | 22°18΄33˝ | north,
+- (e) | latitude | 22°18.550´ | north,
 
-- longitude | 113°56΄59˝ | east;
+- longitude | 113°56.983´ | east;
 
-- (f) | latitude | 22°18΄22˝ | north,
+- (f) | latitude | 22°18.367´ | north,
 
-- longitude | 113°56΄25˝ | east.
+- longitude | 113°56.417´ | east. (L.N. 124 of 2024)
 
 - (L.N. 83 of 2017)
 
 - 10. Hong Kong International Airport Approach Area No. 6 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-- (a) | latitude | 22°20΄40˝ | north,
+- (a) | latitude | 22°20.667´ | north,
 
-- longitude | 113°59΄09˝ | east;
+- longitude | 113°59.150´ | east;
 
-- (b) | latitude | 22°19΄51˝ | north,
+- (b) | latitude | 22°19.850´ | north,
 
-- longitude | 113°59΄09˝ | east;
+- longitude | 113°59.150´ | east;
 
-- (c) | latitude | 22°19΄51˝ | north,
+- (c) | latitude | 22°19.850´ | north,
 
-- longitude | 113°58΄41˝ | east;
+- longitude | 113°58.683´ | east;
 
-- (d) | latitude | 22°20΄40˝ | north,
+- (d) | latitude | 22°20.667´ | north,
 
-- longitude | 113°58΄41˝ | east;
+- longitude | 113°58.683´ | east;
 
-- (e) | latitude | 22°20΄40˝ | north,
+- (e) | latitude | 22°20.667´ | north,
 
-- longitude | 113°59΄09˝ | east.
+- longitude | 113°59.150´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 11. Hong Kong International Airport Approach Area No. 7 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (j), (k) to (m), and (n) to (o)—
 
-- (a) | latitude | 22°17΄15˝ | north,
+- (a) | latitude | 22°17.250´ | north,
 
-- longitude | 113°53΄40˝ | east;
+- longitude | 113°53.667´ | east;
 
-- (b) | latitude | 22°16΄53˝ | north,
+- (b) | latitude | 22°16.883´ | north,
 
-- longitude | 113°52΄32˝ | east;
+- longitude | 113°52.533´ | east;
 
-- (c) | latitude | 22°17΄55˝ | north,
+- (c) | latitude | 22°17.917´ | north,
 
-- longitude | 113°52΄00˝ | east;
+- longitude | 113°52.000´ | east;
 
-- (d) | latitude | 22°18΄32˝ | north,
+- (d) | latitude | 22°18.533´ | north,
 
-- longitude | 113°52΄00˝ | east;
+- longitude | 113°52.000´ | east;
 
-- (e) | latitude | 22°18΄34˝ | north,
+- (e) | latitude | 22°18.567´ | north,
 
-- longitude | 113°52΄06˝ | east;
+- longitude | 113°52.100´ | east;
 
-- (f) | latitude | 22°19΄13˝ | north,
+- (f) | latitude | 22°19.217´ | north,
 
-- longitude | 113°51΄52˝ | east;
+- longitude | 113°51.867´ | east;
 
-- (g) | latitude | 22°20΄30˝ | north,
+- (g) | latitude | 22°20.500´ | north,
 
-- longitude | 113°55΄50˝ | east;
+- longitude | 113°55.833´ | east;
 
-- (h) | latitude | 22°19΄48˝ | north,
+- (h) | latitude | 22°19.800´ | north,
 
-- longitude | 113°56΄06˝ | east;
+- longitude | 113°56.100´ | east;
 
-- (i) | latitude | 22°20΄10˝ | north,
+- (i) | latitude | 22°20.167´ | north,
 
-- longitude | 113°57΄19˝ | east;
+- longitude | 113°57.317´ | east;
 
-- (j) | latitude | 22°19΄19˝ | north,
+- (j) | latitude | 22°19.317´ | north,
 
-- longitude | 113°57΄38˝ | east;
+- longitude | 113°57.633´ | east;
 
-- (k) | latitude | 22°19΄07˝ | north,
+- (k) | latitude | 22°19.117´ | north,
 
-- longitude | 113°57΄42˝ | east;
+- longitude | 113°57.700´ | east;
 
-- (l) | latitude | 22°18΄36˝ | north,
+- (l) | latitude | 22°18.600´ | north,
 
-- longitude | 113°57΄54˝ | east;
+- longitude | 113°57.900´ | east;
 
-- (m) | latitude | 22°18΄08˝ | north,
+- (m) | latitude | 22°18.133´ | north,
 
-- longitude | 113°56΄27˝ | east;
+- longitude | 113°56.450´ | east;
 
-- (n) | latitude | 22°17΄42˝ | north,
+- (n) | latitude | 22°17.700´ | north,
 
-- longitude | 113°55΄04˝ | east;
+- longitude | 113°55.067´ | east;
 
-- (o) | latitude | 22°17΄31˝ | north,
+- (o) | latitude | 22°17.517´ | north,
 
-- longitude | 113°54΄30˝ | east.
+- longitude | 113°54.500´ | east. (L.N. 124 of 2024)
 
 - (L.N. 173 of 2021)
 
 - 12. Hong Kong International Airport Approach Area No. 8 The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (d), and (e) to (f)—
 
-- (a) | latitude | 22°22΄57˝ | north,
+- (a) | latitude | 22°22.950´ | north,
 
-- longitude | 113°52΄40˝ | east;
+- longitude | 113°52.667´ | east;
 
-- (b) | latitude | 22°22΄57˝ | north,
+- (b) | latitude | 22°22.950´ | north,
 
-- longitude | 113°53΄10˝ | east;
+- longitude | 113°53.167´ | east;
 
-- (c) | latitude | 22°22΄43˝ | north,
+- (c) | latitude | 22°22.717´ | north,
 
-- longitude | 113°53΄17˝ | east;
+- longitude | 113°53.283´ | east;
 
-- (d) | latitude | 22°22΄24˝ | north,
+- (d) | latitude | 22°22.400´ | north,
 
-- longitude | 113°53΄05˝ | east;
+- longitude | 113°53.083´ | east;
 
-- (e) | latitude | 22°22΄28˝ | north,
+- (e) | latitude | 22°22.467´ | north,
 
-- longitude | 113°52΄56˝ | east;
+- longitude | 113°52.933´ | east;
 
-- (f) | latitude | 22°22΄47˝ | north,
+- (f) | latitude | 22°22.783´ | north,
 
-- longitude | 113°52΄41˝ | east.
+- longitude | 113°52.683´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997; 24 of 2005 s. 50)
 
@@ -358,21 +354,21 @@ Restricted Areas, etc.
 
   - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii), and (iii) to (iv)—
 
-  - (i) | latitude | 22°17΄48˝ | north,
+  - (i) | latitude | 22°17.709´ | north,
 
-  - longitude | 113°56΄10˝ | east;
+  - longitude | 113°56.313´ | east;
 
-  - (ii) | latitude | 22°17΄43˝ | north,
+  - (ii) | latitude | 22°17.625´ | north,
 
-  - longitude | 113°56΄16˝ | east;
+  - longitude | 113°56.413´ | east;
 
-  - (iii) | latitude | 22°17΄30˝ | north,
+  - (iii) | latitude | 22°17.409´ | north,
 
-  - longitude | 113°56΄02˝ | east; (L.N. 602 of 1997)
+  - longitude | 113°56.180´ | east;
 
-  - (iv) | latitude | 22°17΄32˝ | north,
+  - (iv) | latitude | 22°17.442´ | north,
 
-  - longitude | 113°55΄54˝ | east.
+  - longitude | 113°56.047´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997)
 
@@ -382,21 +378,21 @@ Restricted Areas, etc.
 
   - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii), and (iii) to (iv)—
 
-  - (i) | latitude | 22°20΄46˝ | north,
+  - (i) | latitude | 22°20.765´ | north,
 
-  - longitude | 114°03΄00˝ | east;
+  - longitude | 114°02.997´ | east;
 
-  - (ii) | latitude | 22°20΄49˝ | north,
+  - (ii) | latitude | 22°20.926´ | north,
 
-  - longitude | 114°03΄15˝ | east;
+  - longitude | 114°03.242´ | east;
 
-  - (iii) | latitude | 22°20΄28˝ | north,
+  - (iii) | latitude | 22°20.561´ | north,
 
-  - longitude | 114°03΄42˝ | east;
+  - longitude | 114°03.550´ | east;
 
-  - (iv) | latitude | 22°20΄26˝ | north,
+  - (iv) | latitude | 22°20.432´ | north,
 
-  - longitude | 114°03΄21˝ | east.
+  - longitude | 114°03.349´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997)
 
@@ -408,161 +404,161 @@ Restricted Areas, etc.
 
   - (b) the area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (i) to (ii), and (iii) to (iv)—
 
-  - (i) | latitude | 22°21΄18˝ | north,
+  - (i) | latitude | 22°21.300´ | north,
 
-  - longitude | 114°03΄54˝ | east;
+  - longitude | 114°03.900´ | east;
 
-  - (ii) | latitude | 22°21΄29˝ | north,
+  - (ii) | latitude | 22°21.483´ | north,
 
-  - longitude | 114°04΄45˝ | east;
+  - longitude | 114°04.750´ | east;
 
-  - (iii) | latitude | 22°21΄04˝ | north,
+  - (iii) | latitude | 22°21.067´ | north,
 
-  - longitude | 114°04΄54˝ | east;
+  - longitude | 114°04.900´ | east;
 
-  - (iv) | latitude | 22°20΄48˝ | north,
+  - (iv) | latitude | 22°20.800´ | north,
 
-  - longitude | 114°03΄57˝ | east.
+  - longitude | 114°03.950´ | east. (L.N. 124 of 2024)
 
 - (L.N. 228 of 1997)
 
 - 16. Ngong Shuen Chau Barracks Area The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
-- (a) | latitude | 22°19΄05.4000˝ | north,
+- (a) | latitude | 22°19.090´ | north,
 
-- longitude | 114°07΄52.8000˝ | east;
+- longitude | 114°07.880´ | east;
 
-- (b) | latitude | 22°19΄02.5000˝ | north,
+- (b) | latitude | 22°19.042´ | north,
 
-- longitude | 114°07΄51.2000˝ | east;
+- longitude | 114°07.853´ | east;
 
-- (c) | latitude | 22°18΄59.7130˝ | north,
+- (c) | latitude | 22°18.995´ | north,
 
-- longitude | 114°07΄57.6390˝ | east;
+- longitude | 114°07.961´ | east;
 
-- (d) | latitude | 22°18΄48.2090˝ | north,
+- (d) | latitude | 22°18.803´ | north,
 
-- longitude | 114°07΄59.5210˝ | east;
+- longitude | 114°07.992´ | east;
 
-- (e) | latitude | 22°18΄45.7060˝ | north,
+- (e) | latitude | 22°18.762´ | north,
 
-- longitude | 114°08΄03.9010˝ | east;
+- longitude | 114°08.065´ | east;
 
-- (f) | latitude | 22°18΄48.9450˝ | north,
+- (f) | latitude | 22°18.816´ | north,
 
-- longitude | 114°08΄08.7410˝ | east;
+- longitude | 114°08.146´ | east;
 
-- (g) | latitude | 22°18΄50.9190˝ | north,
+- (g) | latitude | 22°18.849´ | north,
 
-- longitude | 114°08΄19.6010˝ | east;
+- longitude | 114°08.327´ | east;
 
-- (h) | latitude | 22°18΄54.5320˝ | north,
+- (h) | latitude | 22°18.909´ | north,
 
-- longitude | 114°08΄22.0750˝ | east;
+- longitude | 114°08.368´ | east;
 
-- (i) | latitude | 22°19΄00.6000˝ | north,
+- (i) | latitude | 22°19.010´ | north,
 
-- longitude | 114°08΄20.5000˝ | east;
+- longitude | 114°08.342´ | east;
 
-- (j) | latitude | 22°18΄56.9000˝ | north,
+- (j) | latitude | 22°18.948´ | north,
 
-- longitude | 114°08΄23.5000˝ | east;
+- longitude | 114°08.392´ | east;
 
-- (k) | latitude | 22°18΄50.4000˝ | north,
+- (k) | latitude | 22°18.840´ | north,
 
-- longitude | 114°08΄33.3000˝ | east;
+- longitude | 114°08.555´ | east;
 
-- (l) | latitude | 22°18΄52.0000˝ | north,
+- (l) | latitude | 22°18.867´ | north,
 
-- longitude | 114°08΄33.2000˝ | east;
+- longitude | 114°08.553´ | east;
 
-- (m) | latitude | 22°18΄56.0600˝ | north,
+- (m) | latitude | 22°18.934´ | north,
 
-- longitude | 114°08΄36.6610˝ | east;
+- longitude | 114°08.611´ | east;
 
-- (n) | latitude | 22°18΄59.7980˝ | north,
+- (n) | latitude | 22°18.997´ | north,
 
-- longitude | 114°08΄40.7230˝ | east;
+- longitude | 114°08.679´ | east;
 
-- (o) | latitude | 22°19΄03.9930˝ | north,
+- (o) | latitude | 22°19.067´ | north,
 
-- longitude | 114°08΄42.7310˝ | east;
+- longitude | 114°08.712´ | east;
 
-- (p) | latitude | 22°19΄09.7310˝ | north,
+- (p) | latitude | 22°19.162´ | north,
 
-- longitude | 114°08΄43.5140˝ | east;
+- longitude | 114°08.725´ | east;
 
-- (q) | latitude | 22°19΄15.0000˝ | north,
+- (q) | latitude | 22°19.250´ | north,
 
-- longitude | 114°08΄53.4910˝ | east;
+- longitude | 114°08.892´ | east;
 
-- (r) | latitude | 22°19΄19.3570˝ | north,
+- (r) | latitude | 22°19.323´ | north,
 
-- longitude | 114°08΄52.9500˝ | east;
+- longitude | 114°08.883´ | east;
 
-- (s) | latitude | 22°19΄24.9670˝ | north,
+- (s) | latitude | 22°19.416´ | north,
 
-- longitude | 114°08΄49.8190˝ | east;
+- longitude | 114°08.830´ | east;
 
-- (t) | latitude | 22°19΄27.8000˝ | north,
+- (t) | latitude | 22°19.463´ | north,
 
-- longitude | 114°08΄45.2000˝ | east;
+- longitude | 114°08.753´ | east;
 
-- (u) | latitude | 22°19΄26.2000˝ | north,
+- (u) | latitude | 22°19.437´ | north,
 
-- longitude | 114°08΄43.6000˝ | east.
+- longitude | 114°08.727´ | east. (L.N. 124 of 2024)
 
 - (L.N. 140 of 2000)
 
 - 17. Ngong Shuen Chau Naval Basin Area The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
-- (a) | latitude | 22°19΄05.4000˝ | north,
+- (a) | latitude | 22°19.090´ | north,
 
-- longitude | 114°07΄52.8000˝ | east;
+- longitude | 114°07.880´ | east;
 
-- (b) | latitude | 22°19΄02.5000˝ | north,
+- (b) | latitude | 22°19.042´ | north,
 
-- longitude | 114°07΄51.2000˝ | east;
+- longitude | 114°07.853´ | east;
 
-- (c) | latitude | 22°18΄59.7130˝ | north,
+- (c) | latitude | 22°18.995´ | north,
 
-- longitude | 114°07΄57.6390˝ | east;
+- longitude | 114°07.961´ | east;
 
-- (d) | latitude | 22°18΄48.2090˝ | north,
+- (d) | latitude | 22°18.803´ | north,
 
-- longitude | 114°07΄59.5210˝ | east;
+- longitude | 114°07.992´ | east;
 
-- (e) | latitude | 22°18΄45.7060˝ | north,
+- (e) | latitude | 22°18.762´ | north,
 
-- longitude | 114°08΄03.9010˝ | east;
+- longitude | 114°08.065´ | east;
 
-- (f) | latitude | 22°18΄48.9450˝ | north,
+- (f) | latitude | 22°18.816´ | north,
 
-- longitude | 114°08΄08.7410˝ | east;
+- longitude | 114°08.146´ | east;
 
-- (g) | latitude | 22°18΄50.9190˝ | north,
+- (g) | latitude | 22°18.849´ | north,
 
-- longitude | 114°08΄19.6010˝ | east;
+- longitude | 114°08.327´ | east;
 
-- (h) | latitude | 22°18΄54.5320˝ | north,
+- (h) | latitude | 22°18.909´ | north,
 
-- longitude | 114°08΄22.0750˝ | east;
+- longitude | 114°08.368´ | east;
 
-- (i) | latitude | 22°19΄00.6000˝ | north,
+- (i) | latitude | 22°19.010´ | north,
 
-- longitude | 114°08΄20.5000˝ | east;
+- longitude | 114°08.342´ | east;
 
-- (j) | latitude | 22°18΄56.9000˝ | north,
+- (j) | latitude | 22°18.948´ | north,
 
-- longitude | 114°08΄23.5000˝ | east;
+- longitude | 114°08.392´ | east;
 
-- (k) | latitude | 22°18΄50.4000˝ | north,
+- (k) | latitude | 22°18.840´ | north,
 
-- longitude | 114°08΄33.3000˝ | east;
+- longitude | 114°08.555´ | east;
 
-- (l) | latitude | 22°18΄53.6000˝ | north,
+- (l) | latitude | 22°18.893´ | north,
 
-- longitude | 114°08΄33.1000˝ | east.
+- longitude | 114°08.552´ | east. (L.N. 124 of 2024)
 
 - (L.N. 140 of 2000)
 
@@ -1518,4 +1514,6 @@ Restricted Areas, etc.
 
 - (L.N. 234 of 2022)
 
-Note: The geographical co-ordinates of paragraphs 16 to 44 are represented by the WGS 84. (L.N. 148 of 2008; L.N. 82 of 2017; L.N. 69 of 2019; L.N. 234 of 2022)
+Note:
+
+In this Schedule, a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 124 of 2024)

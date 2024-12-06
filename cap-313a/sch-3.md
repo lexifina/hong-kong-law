@@ -4,7 +4,7 @@
 
 Principal Fairways
 
-- 1A. In this Schedule, the geographical co-ordinates of a position are based on the World Geodetic System 1984 (WGS 84). (L.N. 180 of 2017)
+- 1A. In this Schedule, a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 180 of 2017; L.N. 124 of 2024)
 
 - 1. Boundaries of the Southern Fairway
 

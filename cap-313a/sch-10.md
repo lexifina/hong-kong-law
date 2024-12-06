@@ -70,4 +70,10 @@ Calling-in Points
 
   - (b) Cheung Tsing Bridge (L.N. 171 of 2017)
 
-- (L.N. 408 of 1994; L.N. 81 of 1997)
+- 9. Mirs Bay Approaches
+
+  - (a) Shek Ngau Chau
+
+  - (b) Crooked Island (L.N. 124 of 2024)
+
+(L.N. 408 of 1994; L.N. 81 of 1997)

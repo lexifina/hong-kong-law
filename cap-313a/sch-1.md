@@ -18,6 +18,8 @@ VHF sector
 
 63 | Lantau South
 
+74 | Kwai Chung Control Station
+
 Other
 
 06 | Disaster
@@ -36,4 +38,4 @@ Notes:
 
 (4) | The boundaries of the VHF sectors are delineated in the Second Schedule.
 
-(L.N. 408 of 1994; L.N. 171 of 2017)
+(L.N. 408 of 1994; L.N. 171 of 2017; L.N. 124 of 2024)
