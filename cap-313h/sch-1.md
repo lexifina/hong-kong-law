@@ -10,6 +10,6 @@ Item | Name of terminal | Boundaries of terminal | Boundaries of restricted area
 
 2. | Hong Kong—Macau Ferry Terminal | The boundaries delineated in red on the plan Serial No. DM20 dated 2 February 1987, signed by the Director and deposited in his office. | The boundaries edged in red on the plan Serial No. DM17 dated 3 May 1985, signed by the Director and deposited in his office.
 
-3. | Tuen Mun Ferry Terminal | The boundaries that enclose an area coloured pink on the plans Serial Nos. DM25 and DM25/1 to DM25/3 dated 20 February 2004, signed by the Director and deposited in his office. | The boundaries that enclose an area coloured pink on the plans Serial Nos. DM26/1 to DM26/3 dated 20 February 2004, signed by the Director and deposited in his office.
+3. | (Repealed L.N. 125 of 2024)
 
 (Schedule 1 added L.N. 57 of 2004)
