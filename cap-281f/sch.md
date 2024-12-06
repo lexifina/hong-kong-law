@@ -740,7 +740,21 @@
 
 - 4. | For examination of all plans and stability information | a fee determined by the time involved, charged at the hourly rate
 
-- Sections P, Q and R (Repealed 43 of 1999 s. 91)
+- Sections P, Q and R (Repealed 43 of 1999 s. 91) Section S—Ships Carrying Industrial Personnel and IP Safety Certificate
+
+- Purpose or service | Fee
+
+- The following fees are payable—
+
+- 1. | For a survey of a ship to which the Merchant Shipping (Safety) (Ships Carrying Industrial Personnel) Regulation (Cap. 369 sub. leg. BG) (Cap. 369BG) applies | a fee determined by the time involved, charged at the hourly rate.
+
+- 2. | For the issue of an IP Safety Certificate (as defined by section 2 of Cap. 369BG) (IP Safety Certificate) | $565
+
+- 3. | For the issue of a certified true copy of an IP Safety Certificate | $565
+
+- 4. | For the alteration of an IP Safety Certificate | $565
+
+- (L.N. 123 of 2024)
 
 - __________
 
