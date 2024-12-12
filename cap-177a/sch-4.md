@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [reg. 26A]
 
-APPEALS TO REGISTRATION OF PERSONS TRIBUNAL
+Appeals to Registration of Persons Tribunal
 
 - 1. Copy of notice of appeal to be delivered to Commissioner of Registration On receipt of a notice of appeal from an appellant, the Tribunal shall, as soon as practicable, provide the Commissioner of Registration with a copy of such notice.
 

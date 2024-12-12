@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 2(1), 4A, 5, 11A & 12(1B)] (9 of 2003 s. 20)
 
-CONTENTS OF FORMS OF IDENTITY CARD
+Contents of Forms of Identity Card
 
 - 1. Every identity card shall include—
 
@@ -26,9 +26,7 @@ CONTENTS OF FORMS OF IDENTITY CARD
 
     - (ii) (where the applicant does not have a right of abode in Hong Kong) the conditions of stay (including a limit of stay) imposed in relation to him under section 11 of the Immigration Ordinance (Cap. 115). (9 of 2003 s. 20)
 
-- 2.
-
-- A permanent identity card shall include the following statement—
+- 2. A permanent identity card shall include the following statement—
 
 - “The holder of this card has the right of abode in Hong Kong
 

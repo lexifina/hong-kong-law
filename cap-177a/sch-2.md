@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
-[s. 10; regs. 5, 13, 14 & 26] (9 of 2003 s. 21)
+[regs. 5, 13, 14 & 26] (9 of 2003 s. 21; E.R. 6 of 2024)
 
-FEES
+Fees
 
 Item | Particular | Fee $
 
