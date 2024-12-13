@@ -140,7 +140,7 @@ Adhesives; anti-fouling compositions; builders’ materials; ceramics; distemper
 
 - Mercury, oxides of | Canker and wound paints (for trees) containing not more than 3%, weight in weight, of yellow mercuric oxide
 
-- Nicotine | Tobacco (L.N. 234 of 2015)
+- Nicotine | Tobacco in any conventional smoking product (as defined by section 2(1) of the Smoking (Public Health) Ordinance (Cap. 371)) (L.N. 177 of 2024)
 
 - Nitric acid | Substances containing less than 9%, weight in weight, of nitric acid (HNO2)
 

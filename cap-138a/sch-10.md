@@ -86,6 +86,8 @@ Poisons List
 
     - Aclidinium; its salts
 
+    - Adagrasib; its salts
+
     - Adalimumab
 
     - Adapalene; its salts; its esters
@@ -178,7 +180,7 @@ Poisons List
 
     - Morphine; its esters and ethers
 
-    - Nicotine (except when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy)
+    - Nicotine (except when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy); any compound containing the chemical structure of 3-(1-methylpyrrolidin-2-yl)pyridine substituted to any degree or without substitution
 
     - Nux Vomica, alkaloids of
 
@@ -656,6 +658,8 @@ Poisons List
 
     - Capecitabine; its salts
 
+    - Capivasertib; its salts
+
     - Capmatinib; its salts
 
     - Captodiamine; its salts
@@ -946,6 +950,8 @@ Poisons List
 
     - Dalteparin; its salts
 
+    - Danicopan; its salts
+
     - Dapagliflozin; its salts
 
     - Dapoxetine; its salts
@@ -981,6 +987,8 @@ Poisons List
     - Degarelix; its salts
 
     - Dehydroemetine; its salts
+
+    - Delafloxacin; its salts; its esters; their salts
 
     - Delamanid; its salts
 
@@ -1148,7 +1156,11 @@ Poisons List
 
     - Efinaconazole; its salts
 
+    - Elacestrant; its salts
+
     - Eladocagene exuparvovec
+
+    - Elapegademase
 
     - Elaterin
 
@@ -1420,6 +1432,8 @@ Poisons List
 
     - Furethidine; its salts
 
+    - Futibatinib; its salts
+
     - Gabapentin; its salts
 
     - Gadoxetic acid; its salts
@@ -1684,6 +1698,8 @@ Poisons List
 
     - Labetalol; its salts
 
+    - Labuvirtide
+
     - Lacidipine; its salts
 
     - Lacosamide; its salts
@@ -1777,6 +1793,8 @@ Poisons List
     - Lomustine
 
     - Lonazolac; its salts
+
+    - Loncastuximab tesirine
 
     - Lopinavir; its salts
 
@@ -2018,6 +2036,8 @@ Poisons List
 
     - Molybdate (99Mo); its salts; when contained in pharmaceutical products
 
+    - Momelotinib; its salts
+
     - Montelukast; its salts
 
     - Moracizine; its salts
@@ -2142,6 +2162,8 @@ Poisons List
 
     - Nirmatrelvir; its salts
 
+    - Nirsevimab
+
     - Nisoldipine
 
     - Nitrendipine
@@ -2185,6 +2207,8 @@ Poisons List
     - Ocriplasmin
 
     - Octreotide; its salts
+
+    - Odevixibat; its salts; its esters; their salts
 
     - Ofatumumab
 
@@ -2317,6 +2341,8 @@ Poisons List
     - Pegaspargase
 
     - Pegfilgrastim
+
+    - Pegunigalsidase alfa
 
     - Pegvisomant; its salts
 
@@ -2840,6 +2866,8 @@ Poisons List
 
     - Repaglinide; its salts; its esters
 
+    - Repotrectinib; its salts
+
     - Reproterol; its salts
 
     - Rescinnamine
@@ -2947,6 +2975,8 @@ Poisons List
     - Savolitinib; its salts
 
     - Saxagliptin; its salts
+
+    - Sebelipase alfa
 
     - Secukinumab
 
@@ -3083,6 +3113,8 @@ Poisons List
     - Tagraxofusp
 
     - Talazoparib; its salts
+
+    - Talquetamab
 
     - Tamoxifen; its salts
 
@@ -3260,6 +3292,8 @@ Poisons List
 
     - Tremelimumab
 
+    - Treosulfan; its salts
+
     - Tretamine; its salts
 
     - Tretinoin
@@ -3398,7 +3432,11 @@ Poisons List
 
     - Vortioxetine; its salts
 
+    - Vosoritide
+
     - Voxilaprevir; its salts
+
+    - Vutrisiran; its salts
 
     - Warfarin; its salts
 
@@ -3440,7 +3478,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015 L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024)
 
   - Division B
 
@@ -3504,7 +3542,7 @@ Poisons List
 
       - (d) included in Schedule 3; or (E.R. 5 of 2020)
 
-      - (e) in the following list— Acetyldihydrocodeine; its salts Alkaloids of belladonna; their salts Alkaloids of ephedra; their salts Atropine; its salts Bambuterol; its salts Benzydamine; its salts Butropium; its salts Codeine; its salts Dextromethorphan; its salts Diclofenac; its salts Dihydrocodeine; its salts Ethylmorphine; its salts Fenoterol; its salts Formoterol; its salts Homatropine; its salts Hyoscine; its salts Hyoscyamine; its salts Ipratropium; its salts Methylaminoheptane; its salts Morphine; its salts Nicocodine; its salts Nicotine (except when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy) Norcodeine; its salts Orciprenaline; its salts Papaverine; its salts Phenylpropanolamine; its salts Pholcodine; its salts Procaterol; its salts Salmeterol; its salts Terbutaline; its salts Tretoquinol; its salts
+      - (e) in the following list— Acetyldihydrocodeine; its salts Alkaloids of belladonna; their salts Alkaloids of ephedra; their salts Atropine; its salts Bambuterol; its salts Benzydamine; its salts Butropium; its salts Codeine; its salts Dextromethorphan; its salts Diclofenac; its salts Dihydrocodeine; its salts Ethylmorphine; its salts Fenoterol; its salts Formoterol; its salts Homatropine; its salts Hyoscine; its salts Hyoscyamine; its salts Ipratropium; its salts Methylaminoheptane; its salts Morphine; its salts Nicocodine; its salts Nicotine (except when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy); any compound containing the chemical structure of 3-(1-methylpyrrolidin-2-yl)pyridine substituted to any degree or without substitution Norcodeine; its salts Orciprenaline; its salts Papaverine; its salts Phenylpropanolamine; its salts Pholcodine; its salts Procaterol; its salts Salmeterol; its salts Terbutaline; its salts Tretoquinol; its salts
 
     - Phenazone; its salts
 
@@ -3516,7 +3554,7 @@ Poisons List
 
     - Terbinafine; its salts; when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled only for the treatment of tinea pedis or tinea cruris, or both
 
-    - (L.N. 234 of 2015; L.N. 235 of 2015; L.N. 194 of 2022)
+    - (L.N. 234 of 2015; L.N. 235 of 2015; L.N. 194 of 2022; L.N. 177 of 2024)
 
   - Division B
 
