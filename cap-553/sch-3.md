@@ -70,4 +70,8 @@ Item | Enactment | Provision
 
 31. | Human Reproductive Technology Ordinance (Cap. 561) (Added L.N. 80 of 2024) | Section 43
 
+32. | Limited Partnerships Ordinance (Cap. 37) (Added L.N. 143 of 2024) | Section 12
+
+33. | Gas Safety (Gas Supply) Regulations (Cap. 51 sub. leg. B) (Added L.N. 143 of 2024) | Regulation 4(2) and (3)
+
 (Schedule 3 added 14 of 2004 s. 28)
