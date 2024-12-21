@@ -1,8 +1,8 @@
 # First Schedule
 
-[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29DI, 29DJ, 29DM, 29DO, 29DV, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71, 72 & 73 & 2nd Sch. & Schs. 7, 8, 9 & 10]
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AIA, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BAB, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29DI, 29DJ, 29DM, 29DO, 29DV, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70, 71, 72 & 73 & 2nd Sch. & Schs. 7, 8, 9, 10 & 11A]
 
-(Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 16 of 2016 s. 31; 2 of 2018 s. 11; 18 of 2018 s. 9; 14 of 2023 s. 5; L.N. 148 of 2023 and 3 of 2024 s. 14) (Format changes—E.R. 1 of 2015)
+(Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28; 4 of 2015 s. 5; 12 of 2016 s. 26; 16 of 2016 s. 31; 2 of 2018 s. 11; 18 of 2018 s. 9; 14 of 2023 s. 5; L.N. 148 of 2023 and 3 of 2024 s. 14; 33 of 2024 s. 7) (Format changes—E.R. 1 of 2015)
 
 Nature of Instrument | (A) (B) (C) | Stamp Duty Time for stamping Persons liable
 
@@ -438,17 +438,13 @@ HEAD 2: | HONG KONG STOCK
 
 (C) | The agent or, where no agent, the principal effecting the sale or purchase
 
-And see sections 2, 4, 5, 5A, 6, 19, 20, 23, 24, 27 and 45
+And see sections 2, 4, 5, 5A, 6, 19, 23, 24, 27 and 45 (Amended 33 of 2024 s. 7)
 
 Note
 
 Where the consideration or any part of the consideration consists of any security not being stock, the amount due upon such security for principal and interest on the date on which the contract note falls to be executed shall be taken to be its value at that date
 
-(2) | CONTRACT NOTE in respect of jobbing business on every note required to be made under section 19(1) | (A) (B) | $5 2 days after the sale or purchase: see section 19(1)(b)(i)
-
-(C) | The exchange participant effecting the sale or purchase (Amended 12 of 2000 s. 23)
-
-And see sections 2, 4, 19 and 20
+(2) | (Repealed 33 of 2024 s. 7)
 
 (3) | TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) | $5 and 0.2% of the value of the stock; but see Note 4 to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4; 4 of 2015 s. 5; 16 of 2021 s. 3; 29 of 2023 s. 3)
 
@@ -472,7 +468,13 @@ A foreclosure order shall not be duly stamped unless the Collector has stamped i
 
 Note 4
 
-Stamp duty under this sub-head is not payable on a transfer specified in Part 3 of Schedule 8 or Part 3 of Schedule 9 (Added 4 of 2015 s. 5. Amended 12 of 2016 s. 26)
+Stamp duty under this sub-head is not payable on a transfer specified in— (Added 4 of 2015 s. 5. Amended 12 of 2016 s. 26; 33 of 2024 s. 7)
+
+(a) | Part 3 of Schedule 8;
+
+(b) | Part 3 of Schedule 9; or
+
+(c) | Part 3 of Schedule 11A (Amended 33 of 2024 s. 7)
 
 (4) | TRANSFER of any other kind | (A) | $5; but see Notes 1 and 2 to this sub-head (Amended 4 of 2015 s. 5)
 
@@ -494,7 +496,15 @@ No stamp duty under this sub-head shall be payable on a transfer executed by a r
 
 Note 2
 
-Stamp duty under this sub-head is not payable on a transfer specified in Part 4 of Schedule 8, Part 4 of Schedule 9 or Part 3 of Schedule 10 (Added 4 of 2015 s. 5. Amended 12 of 2016 s. 26; 16 of 2016 s. 31)
+Stamp duty under this sub-head is not payable on a transfer specified in— (Added 4 of 2015 s. 5. Amended 12 of 2016 s. 26; 16 of 2016 s. 31; 33 of 2024 s. 7)
+
+(a) | Part 4 of Schedule 8;
+
+(b) | Part 4 of Schedule 9;
+
+(c) | Part 3 of Schedule 10; or
+
+(d) | Part 4 of Schedule 11A (Amended 33 of 2024 s. 7)
 
 HEAD 3: | HONG KONG BEARER INSTRUMENT
 

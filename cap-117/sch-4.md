@@ -1,6 +1,6 @@
 # Fourth Schedule
 
-[ss. 19(1D) & 63(c)]
+[ss. 19(1D) & 63] (Amended 33 of 2024 s. 8)
 
 Exempted Transaction Specified for the Purposes of Section 19(1D) of this Ordinance
 
