@@ -12,7 +12,10 @@ s-008.md
 s-009.md
 s-010.md
 s-010A.md
+s-010B.md
 s-011.md
 sch-1.md
 sch-1A.md
+sch-1B.md
+sch-1C.md
 sch-2.md
