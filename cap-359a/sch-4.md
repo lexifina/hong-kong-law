@@ -10,7 +10,7 @@ Part 1
 
 1. | A registered medical practitioner while practising medicine | 21(1)
 
-2. | A dentist registered under section 8 of the Dentists Registration Ordinance (Cap. 156) but who is not qualified to be so registered by virtue of having been registered under the repealed Dentists Registration Ordinance 1940 (1 of 1940, see Cap. 156, 1950 Ed.) while practising dentistry (34 of 1995 s. 41) | 21(1)
+2. | A registered dentist as defined by section 2(1) of the Dentists Registration Ordinance (Cap. 156) while practising dentistry (22 of 2024 s. 130) | 21(1)
 
 3. | A student in the course of undergoing any course of training to be a medical laboratory technologist, in medicine or in dentistry at the University of Hong Kong, The Chinese University of Hong Kong or The Hong Kong Polytechnic University (L.N. 640 of 1994) | 21(1)
 

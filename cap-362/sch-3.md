@@ -6,6 +6,8 @@ Exempt Persons
 
 (Schedule 3 added 25 of 2012 s. 23)
 
+(Note : Amendment made by the Dentists Registration (Amendment) Ordinance 2024 (22 of 2024) to this Schedule is partially commenced—see L.N. 146 of 2024.)
+
 - 1. A certified public accountant as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50). (Replaced L.N. 66 of 2022)
 
 - 1A. A corporate practice as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588). (Added L.N. 66 of 2022)
@@ -14,7 +16,7 @@ Exempt Persons
 
 - 3. A person whose name is entered in the register of pharmacists under section 5 of the Pharmacy and Poisons Ordinance (Cap. 138).
 
-- 4. A registered dentist as defined by section 2(1) of the Dentists Registration Ordinance (Cap. 156) or a person deemed by section 30 of that Ordinance to be a registered dentist for the purpose of section 3 of that Ordinance.
+- 4. A registered dentist, or a person with provisional registration, within the meaning of the Dentists Registration Ordinance (Cap. 156), or a person deemed to be a registered dentist under that Ordinance. (Replaced 22 of 2024 s. 132)
 
 - 5. A person whose name is recorded in the roll maintained under regulation 4(2) of the Ancillary Dental Workers (Dental Hygienists) Regulations (Cap. 156 sub. leg. B).
 

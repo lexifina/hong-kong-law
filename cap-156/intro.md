@@ -1,4 +1,6 @@
-To amend the law relating to dentists by making more comprehensive provisions.
+To provide for a regulatory framework in respect of the practice of dentistry.
+
+(Amended 22 of 2024 s. 3)
 
 [1 October 1959] G.N.A. 60 of 1959
 
