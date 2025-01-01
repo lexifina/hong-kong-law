@@ -16,6 +16,10 @@ Item | Matter | Fee $
 
 (c) one or both of the foods specified in items 18 and 19 of Schedule 2 to the Food Business Regulation | 540
 
+(d) any two or more of the foods specified in items 1 to 21 (other than items 17 to 19) of Schedule 2 to the Food Business Regulation (L.N. 158 of 2024) | 810
+
+(e) one or both of the foods specified in items 18 and 19, and any one or more of the foods specified in items 1 to 21 (other than items 17 to 19), of Schedule 2 to the Food Business Regulation (L.N. 158 of 2024) | 810
+
 2. | The issue of a duplicate of a permission mentioned in item 1 | 85
 
 (Schedule 3 added L.N. 84 of 2013)
