@@ -86,6 +86,8 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Dominican Republic | 2021
 
+- Ecuador, Republic of | 2026
+
 - El Salvador, Republic of | 2021
 
 - Estonia, Republic of | 2018
@@ -192,6 +194,8 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Norway, Kingdom of | 2018
 
+- Oman, Sultanate of | 2026
+
 - Pakistan, Islamic Republic of | 2021
 
 - Panama, Republic of | 2021
@@ -244,6 +248,8 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Swiss Confederation | 2018
 
+- Thailand, Kingdom of | 2026
+
 - Trinidad and Tobago, Republic of | 2021
 
 - Tunisia, Republic of | 2021
@@ -266,7 +272,7 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Vanuatu, Republic of | 2018
 
-- (Replaced 6 of 2019 s. 9)
+- (Replaced 6 of 2019 s. 9. Amended L.N. 71 of 2024)
 
 - Note—
 
@@ -292,15 +298,13 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Austria, Republic of
 
-- Bahamas, Commonwealth of the
+- Azerbaijan, Republic of
 
-- Bahrain, Kingdom of
+- Bahamas, Commonwealth of the
 
 - Barbados
 
 - Belgium, Kingdom of
-
-- Belize
 
 - Bermuda
 
@@ -337,6 +341,8 @@ Reportable Jurisdictions and Participating Jurisdictions
 - Denmark, Kingdom of
 
 - Dominica, Commonwealth of
+
+- Ecuador, Republic of
 
 - Estonia, Republic of
 
@@ -376,9 +382,15 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Italian Republic
 
+- Jamaica
+
 - Japan
 
 - Jersey
+
+- Kazakhstan, Republic of
+
+- Kenya, Republic of
 
 - Korea, Republic of
 
@@ -398,27 +410,29 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Malaysia
 
-- Malta
+- Maldives, Republic of
 
-- Marshall Islands, Republic of the
+- Malta
 
 - Mauritius, Republic of
 
 - Monaco, Principality of
 
-- Montserrat
-
-- Nauru, Republic of
-
 - Netherlands, Kingdom of the
 
 - New Zealand
 
-- Niue
+- Nigeria, Federal Republic of
 
 - Norway, Kingdom of
 
+- Oman, Sultanate of
+
+- Pakistan, Islamic Republic of
+
 - Panama, Republic of
+
+- Peru, Republic of
 
 - Poland, Republic of
 
@@ -434,15 +448,11 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Saint Lucia
 
-- Saint Vincent and the Grenadines
-
 - Samoa, Independent State of
 
 - San Marino, Republic of
 
 - Saudi Arabia, Kingdom of
-
-- Seychelles, Republic of
 
 - Singapore, Republic of
 
@@ -460,7 +470,7 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Swiss Confederation
 
-- Trinidad and Tobago, Republic of
+- Thailand, Kingdom of
 
 - Turkey, Republic of
 
@@ -474,4 +484,4 @@ Reportable Jurisdictions and Participating Jurisdictions
 
 - Uruguay, Oriental Republic of
 
-- Vanuatu, Republic of
+- Vanuatu, Republic of (Amended L.N. 71 of 2024)
