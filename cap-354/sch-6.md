@@ -4,9 +4,9 @@
 
 & Seventh Schedule]
 
-Waste to which Sections 20A(1)(a) and 20B(1)(a) Apply
+Waste Specified for Purposes of Sections 20A(1)(a) and 20B(1)(a)
 
-(Format changes—E.R. 2 of 2018) In this Schedule—
+(Amended 29 of 2024 s. 8) (Format changes—E.R. 2 of 2018) In this Schedule—
 
   - (a) the first digits of the code number of the Harmonised Commodity Description and Coding System (or Harmonised System) are, wherever possible, listed in column 2 opposite an entry as a possible cross reference to the Harmonised System;
 
@@ -128,10 +128,6 @@ GB050 | Tantalum bearing tin slags with less than 0.5% tin
 
 GC—Other waste containing metals
 
-GC010 | Electrical assemblies consisting only of metals or alloys
-
-GC020 | Electronic scrap (e.g. printed circuit boards, electronic components, wire, etc.) and reclaimed electronic components suitable for base and precious metal recovery
-
 GC030 | ex890800 | Vessels and other floating structures for breaking up, properly emptied of any cargo and other materials arising from the operation of the vessel which may have been classified as a dangerous substance or waste
 
 GC040 | Motor vehicle wrecks, drained of liquids
@@ -145,6 +141,8 @@ GC052 | — | precious metal bearing catalysts
 GC053 | — | transition metal catalysts (e.g. chromium, cobalt, copper, iron, nickel, manganese, molybdenum, tungsten, vanadium, zinc)
 
 GC070 | ex261900 | Slag arising from the manufacture of iron or steel2 excluding those slags which have been specifically produced to meet both national and relevant international requirements and standards, including environmental protection specifications
+
+(Amended 29 of 2024 s. 8)
 
 GD—Waste from mining operations: this waste to be in non-dispersible form
 
@@ -394,9 +392,7 @@ GO030 | Deactivated fungus mycelium from penicillin production to be used as ani
 
 GO040 | Waste photographic film base and waste photographic film not containing silver
 
-GO050 | Single use cameras without batteries
-
-(Added 14 of 1995 s. 10)
+(Added 14 of 1995 s. 10. Amended 29 of 2024 s. 8)
 
 1 Mercury is specifically excluded as a component of these metals or their alloys or amalgams.
 

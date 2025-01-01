@@ -2,11 +2,11 @@
 
 [ss. 20A, 20B & 20H &
 
-Sixth Schedule]
+Sixth Schedule & Schedule 7A] (Amended 29 of 2024 s. 9)
 
-Waste to which Sections 20A(1)(b) and 20B(1)(b) Apply
+Waste Specified for Purposes of Sections 20A(1)(b) and 20B(1)(b)
 
-(Format changes—E.R. 2 of 2018) In this Schedule—
+(Amended 29 of 2024 s. 9) (Format changes—E.R. 2 of 2018) In this Schedule—
 
   - (a) the first digits of the code number of the Harmonised Commodity Description and Coding System (or Harmonised System) are, wherever possible, listed in column 2 opposite an entry as a possible cross reference to the Harmonised System;
 
@@ -100,9 +100,15 @@ AA210 | Spent electrolytic solutions from copper electrorefining and electrowinn
 
 AA220 | Spent etching solutions containing dissolved copper (Added 6 of 2006 s. 23)
 
-AA1180 | Waste electronic and electrical assemblies or scrap contaminated with any substance to an extent which renders the waste as chemical waste (Added 6 of 2006 s. 23)
+AA1181 | Any of the following waste—
 
-AB—Waste containing principally inorganic constituents,
+(a) waste electrical equipment or waste electronic equipment that contains, or is contaminated with, a substance to an extent that renders such waste as chemical waste;
+
+(b) waste component of electrical equipment or electronic equipment that contains, or is contaminated with, a substance to an extent that renders such waste as chemical waste;
+
+(c) waste that— (i) arises from the processing of any waste mentioned in paragraph (a) or (b) (e.g. fractions arising from shredding or dismantling); and (ii) contains, or is contaminated with, a substance to an extent that renders such waste as chemical waste. (Added 29 of 2024 s. 9)
+
+(Amended 29 of 2024 s. 9) AB—Waste containing principally inorganic constituents,
 
 which may contain metals and organic materials
 

@@ -84,6 +84,7 @@ s-040.md
 s-041.md
 s-042.md
 s-043.md
+s-044.md
 sch-1.md
 sch-2.md
 sch-3.md
@@ -91,6 +92,7 @@ sch-4.md
 sch-5.md
 sch-6.md
 sch-7.md
+sch-7A.md
 sch-8.md
 sch-9.md
 sch-10.md
