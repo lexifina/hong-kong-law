@@ -32,21 +32,13 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
         - credit risk (信用風險)
 
-        - Fitch Ratings (惠譽評級)
-
         - IRB approach (IRB計算法)
-
-        - Japan Credit Rating Agency, Ltd. (日本格付研究所株式會社)
 
         - local currency (本地貨幣)
 
-        - Moody’s Investors Service (穆迪投資者服務)
-
-        - Rating and Investment Information, Inc. (評級及投資資料有限公司)
-
-        - S&P Global Ratings (標普全球評級)
-
         - standardized (credit risk) approach (標準(信用風險)計算法) (L.N. 84 of 2019)
+
+  - (L.N. 170 of 2023)
 
 - Part 2 Classes of Assets which may be Included in HQLA for
 
@@ -62,11 +54,11 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
     - (d) subject to section 2 of Part 3 of this Schedule, marketable debt securities that are issued by the sovereign or central bank of a country and denominated in the local currency of that country, or that are EF debt securities, and which, under the standardized (credit risk) approach—
 
-      - (i) do not qualify for 0% risk-weight under section 55(2) of the Capital Rules; or
+      - (i) do not qualify for 0% risk-weight under section 55(1) of the Capital Rules; or (L.N. 170 of 2023)
 
       - (ii) qualify for 0% risk-weight only by virtue of section 56(1) or (2) of the Capital Rules; and
 
-    - (e) subject to section 3 of Part 3 of this Schedule, marketable debt securities that are issued by the sovereign or central bank of a country and denominated in a currency that is not the local currency of that country and which do not, under the standardized (credit risk) approach, qualify for 0% risk-weight under section 55(2) of the Capital Rules.
+    - (e) subject to section 3 of Part 3 of this Schedule, marketable debt securities that are issued by the sovereign or central bank of a country and denominated in a currency that is not the local currency of that country and which do not, under the standardized (credit risk) approach, qualify for 0% risk-weight under section 55(1) of the Capital Rules. (L.N. 170 of 2023)
 
   - 2. Level 2A assets The following assets are level 2A assets for the purposes of these Rules—
 
@@ -94,13 +86,13 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (a) it qualifies, in the calculation of credit risk under the standardized (credit risk) approach, for 0% risk-weight—
 
-        - (i) subject to subsections (2) and (3), under section 55(2) of the Capital Rules in any case where the debt security is issued or guaranteed by a sovereign or central bank or is an EF debt security;
+        - (i) subject to subsections (2) and (3), under section 55(1) of the Capital Rules in any case where the debt security is issued or guaranteed by a sovereign or central bank or is an EF debt security;
 
-        - (ii) under section 57(2)(b) of the Capital Rules in any case where the debt security is issued or guaranteed by a public sector entity;
+        - (ii) under section 57(3) of the Capital Rules in any case where the debt security is issued or guaranteed by a public sector entity;
 
-        - (iii) under section 56(4) of the Capital Rules in any case where the debt security is issued or guaranteed by a relevant international organization; and
+        - (iii) under section 56(3) of the Capital Rules in any case where the debt security is issued or guaranteed by a relevant international organization; and
 
-        - (iv) under section 58 of the Capital Rules in any case where the debt security is issued or guaranteed by a multilateral development bank;
+        - (iv) under section 58(1) of the Capital Rules in any case where the debt security is issued or guaranteed by a multilateral development bank; (L.N. 170 of 2023)
 
       - (b) it is traded in large, deep and active markets, characterized by a low level of concentration, and where debt securities of that type can be monetized through direct sale or repo-style transactions;
 
@@ -136,7 +128,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (a) it qualifies, in the calculation of credit risk under the standardized (credit risk) approach, for 20% risk-weight—
 
-        - (i) subject to subsections (2) and (3), under section 55(2) of the Capital Rules in any case where the debt security is issued or guaranteed by a sovereign or central bank; and
+        - (i) subject to subsections (2) and (3), under section 55(1) of the Capital Rules in any case where the debt security is issued or guaranteed by a sovereign or central bank; and (L.N. 170 of 2023)
 
         - (ii) under section 57 of the Capital Rules in any case where the debt security is issued or guaranteed by a public sector entity;
 
@@ -158,9 +150,19 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
     - (1) A marketable debt security does not fall within section 2(b) of Part 2 of this Schedule unless—
 
-      - (a) subject to subsection (2), if the debt security is issued by a corporate incorporated outside India, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1;
+      - (a) subject to subsection (2), if the debt security is issued by a corporate incorporated outside the home jurisdiction of a Type B ECAI, it has an ECAI issue specific rating that—
 
-      - (b) subject to subsection (2), if the debt security is issued by a corporate incorporated in India, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table C (for a long-term ECAI issue specific rating) or Table E (for short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1;
+        - (i) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1 or 2; or
+
+        - (ii) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1; (L.N. 170 of 2023)
+
+      - (b) subject to subsection (2), if the debt security is issued by a corporate incorporated in the home jurisdiction of a Type B ECAI, it has an ECAI issue specific rating assigned by a Type A ECAI or that Type B ECAI that—
+
+        - (i) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1 or 2;
+
+        - (ii) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1; or
+
+        - (iii) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs (for a long-term ECAI issue specific rating assigned by that Type B ECAI) or the ST ECAI rating mapping table for Type B ECAIs (for a short-term ECAI issue specific rating assigned by that Type B ECAI), would result in the debt security being assigned a credit quality grade of 1; (L.N. 170 of 2023)
 
       - (c) if the debt security does not have an ECAI issue specific rating and the category 1 institution holding the debt security has the Monetary Authority’s approval to use the IRB approach under section 8 of the Capital Rules (or, if the institution is incorporated outside Hong Kong, it has the approval of the relevant banking supervisory authority to use an internal ratings-based approach that reflects the standards issued by the Basel Committee for calculation of its regulatory capital for credit risk), it is internally rated by the institution as having a probability of default corresponding to the credit quality grade required under paragraph (a) or (b);
 
@@ -172,7 +174,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (g) it is not a structured financial instrument or subordinated debt security.
 
-    - (2) If a marketable debt security has more than one ECAI issue specific rating, the category 1 institution holding the debt security must, for the purposes of subsection (1)(a) and (b), apply section 69(2) of the Capital Rules to determine the ECAI issue specific rating of the debt security.
+    - (2) If a marketable debt security has more than one ECAI issue specific rating, the category 1 institution holding the debt security must, for the purposes of subsection (1)(a) and (b), apply section 54E(2) of the Capital Rules to determine the ECAI issue specific rating of the debt security. (L.N. 170 of 2023)
 
     - (3) A marketable debt security, for meeting the criterion specified in subsection (1)(e), must not have experienced a decline of more than 10% of its market price, or (if it is used as collateral in a repo-style transaction) an increase in haircut of more than 10 percentage points, within—
 
@@ -186,7 +188,11 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (a) it is issued by a person other than the category 1 institution holding the covered bond or any of the institution’s associated entities;
 
-      - (b) subject to subsection (2), it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table B (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the covered bond being assigned a credit quality grade of 1;
+      - (b) subject to subsection (2), it has an ECAI issue specific rating that—
+
+        - (i) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating assigned by a Type A ECAI), would result in the covered bond being assigned a credit quality grade of 1 or 2; or
+
+        - (ii) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating assigned by a Type A ECAI), would result in the covered bond being assigned a credit quality grade of 1; (L.N. 170 of 2023)
 
       - (c) if the covered bond does not have an ECAI issue specific rating and the category 1 institution holding the covered bond has the Monetary Authority’s approval to use the IRB approach under section 8 of the Capital Rules (or, if the institution is incorporated outside Hong Kong, it has the approval of the relevant banking supervisory authority to use an internal ratings-based approach that reflects the standards issued by the Basel Committee for calculation of its regulatory capital for credit risk), it is internally rated by the institution as having a probability of default corresponding to the credit quality grade required under paragraph (b);
 
@@ -194,7 +200,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (e) subject to subsection (3), it has a proven record as a reliable source of liquidity in those markets, even during a period of financial stress.
 
-    - (2) If a covered bond has more than one ECAI issue specific rating, the category 1 institution holding the covered bond must, for the purposes of subsection (1)(b), apply section 69(2) of the Capital Rules to determine the ECAI issue specific rating of the covered bond.
+    - (2) If a covered bond has more than one ECAI issue specific rating, the category 1 institution holding the covered bond must, for the purposes of subsection (1)(b), apply section 54E(2) of the Capital Rules to determine the ECAI issue specific rating of the covered bond. (L.N. 170 of 2023)
 
     - (3) A covered bond, for meeting the criterion specified in subsection (1)(e), must not have experienced a decline of more than 10% of its market price, or (if it is used as collateral in a repo-style transaction) an increase in haircut of more than 10 percentage points, within—
 
@@ -206,17 +212,27 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
     - (1) A marketable debt security does not fall within section 3(a) of Part 2 of this Schedule unless—
 
-      - (a) subject to subsection (2), if the debt security is issued by a corporate incorporated outside India, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3;
+      - (a) subject to subsection (2), if the debt security is issued by a corporate incorporated outside the home jurisdiction of a Type B ECAI, it has an ECAI issue specific rating that—
 
-      - (b) subject to subsection (2), if the debt security is issued by a corporate incorporated in India, it has an ECAI issue specific rating that—
+        - (i) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4; or
 
-        - (i) if mapped to the scale of credit quality grades in Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3; and
+        - (ii) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1, 2 or 3; (L.N. 170 of 2023)
 
-        - (ii) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) or Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4;
+      - (b) subject to subsection (2), if the debt security is issued by a corporate incorporated in the home jurisdiction of a Type B ECAI, it has an ECAI issue specific rating assigned by a Type A ECAI or that Type B ECAI that—
 
-      - (ba) subject to subsection (2), if the debt security is issued by a sovereign or central bank, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table A in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3; (L.N. 84 of 2019)
+        - (i) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4;
 
-      - (bb) subject to subsection (2), if the debt security is issued by a public sector entity, it has an ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table B or Part 1 of Table C (for a long-term ECAI issue specific rating) or Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security being assigned a credit quality grade of 1, 2 or 3; (L.N. 84 of 2019)
+        - (ii) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating assigned by a Type A ECAI), would result in the debt security being assigned a credit quality grade of 1, 2 or 3; or
+
+        - (iii) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs (for a long-term ECAI issue specific rating assigned by that Type B ECAI) or the ST ECAI rating mapping table for Type B ECAIs (for a short-term ECAI issue specific rating assigned by that Type B ECAI), would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4; (L.N. 170 of 2023)
+
+      - (ba) subject to subsection (2), if the debt security is issued by a sovereign or central bank, it has an ECAI issue specific rating assigned by a Type A ECAI that, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs, would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4; (L.N. 170 of 2023)
+
+      - (bb) subject to subsection (2), if the debt security is issued by a public sector entity, it has an ECAI issue specific rating assigned by a Type A ECAI that—
+
+        - (i) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating), would result in the debt security being assigned a credit quality grade of 1, 2, 3 or 4; or
+
+        - (ii) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating), would result in the debt security being assigned a credit quality grade of 1, 2 or 3; (L.N. 170 of 2023)
 
       - (c) if the debt security does not have an ECAI issue specific rating and the category 1 institution holding the debt security has the Monetary Authority’s approval to use the IRB approach under section 8 of the Capital Rules (or, if the institution is incorporated outside Hong Kong, it has the approval of the relevant banking supervisory authority to use an internal ratings-based approach that reflects the standards issued by the Basel Committee for calculation of its regulatory capital for credit risk), it is internally rated by the institution as having a probability of default corresponding to the credit quality grade required under paragraph (a), (b), (ba) or (bb);
 
@@ -228,7 +244,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (g) it is not a structured financial instrument or subordinated debt security.
 
-    - (2) If a marketable debt security has more than one ECAI issue specific rating, the category 1 institution holding the debt security must, for the purposes of subsection (1)(a), (b), (ba) and (bb), apply section 69(2) of the Capital Rules to determine the ECAI issue specific rating of the debt security.
+    - (2) If a marketable debt security has more than one ECAI issue specific rating, the category 1 institution holding the debt security must, for the purposes of subsection (1)(a), (b), (ba) and (bb), apply section 54E(2) of the Capital Rules to determine the ECAI issue specific rating of the debt security. (L.N. 170 of 2023)
 
     - (3) A marketable debt security, for meeting the criterion specified in subsection (1)(e), must not have experienced a decline of more than 20% of its market price, or (if it is used as collateral in a repo-style transaction) an increase in haircut of more than 20 percentage points, within—
 
@@ -246,21 +262,15 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (b) it is issued, and its underlying assets are originated, by a person other than the category 1 institution holding the RMBS or any of the institution’s associated entities;
 
-      - (c) subject to subsection (2), if the RMBS is issued by a public sector entity, financial institution or corporate incorporated outside India, it has a long-term ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table B or Part 1 of Table C, as the case requires, in Schedule 6 to the Capital Rules, would result in the RMBS being assigned a credit quality grade of 1;
+      - (c) subject to subsection (2), if the RMBS is issued by a public sector entity, financial institution or corporate incorporated outside the home jurisdiction of a Type B ECAI, it has a long-term ECAI issue specific rating assigned by a Type A ECAI that, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs, would result in the RMBS being assigned a credit quality grade of 1 or 2; (L.N. 170 of 2023)
 
-      - (d) subject to paragraph (e) and subsection (2), if the RMBS is issued by a public sector entity, financial institution or corporate incorporated in India, it has a long-term ECAI issue specific rating that, if mapped to the scale of credit quality grades in Table B or Table C, as the case requires, in Schedule 6 to the Capital Rules, would result in the RMBS being assigned a credit quality grade of 1;
+      - (d) subject to paragraph (e) and subsection (2), if the RMBS is issued by a public sector entity, financial institution or corporate incorporated in the home jurisdiction of a Type B ECAI, it has a long-term ECAI issue specific rating—
 
-      - (e) it does not have any of the following ECAI issue specific ratings in the case of Table B or Part 1 of Table C, as the case requires, in Schedule 6 to the Capital Rules—
+        - (i) assigned by a Type A ECAI that, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs, would result in the RMBS being assigned a credit quality grade of 1 or 2; or
 
-        - (i) S&P Global Ratings AA-; (L.N. 84 of 2019)
+        - (ii) assigned by that Type B ECAI that, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs, would result in the RMBS being assigned a credit quality grade of 1; (L.N. 170 of 2023)
 
-        - (ii) Moody’s Investors Service Aa3;
-
-        - (iii) Fitch Ratings AA-;
-
-        - (iv) Rating and Investment Information, Inc. AA-;
-
-        - (v) Japan Credit Rating Agency, Ltd. AA-;
+      - (e) it does not have an ECAI issue specific rating assigned by a Type A ECAI that is, or is ranked lower than, AA- or Aa3 (or its equivalent rating); (L.N. 170 of 2023)
 
       - (f) it is traded in large, deep and active markets, characterized by a low level of concentration, and where RMBS of that type can be monetized through direct sale or repo-style transactions;
 
@@ -270,7 +280,7 @@ Classes of Assets which may be Included in HQLA for Calculating LCR and Qualifyi
 
       - (i) it is subject to regulations which require issuers of the RMBS to retain an interest in the RMBS.
 
-    - (2) If an RMBS has more than one ECAI issue specific rating, the category 1 institution holding the RMBS must, for the purposes of subsection (1)(c) and (d), apply section 69(2) of the Capital Rules to determine the ECAI issue specific rating of the RMBS.
+    - (2) If an RMBS has more than one ECAI issue specific rating, the category 1 institution holding the RMBS must, for the purposes of subsection (1)(c) and (d), apply section 54E(2) of the Capital Rules to determine the ECAI issue specific rating of the RMBS. (L.N. 170 of 2023)
 
     - (3) An RMBS, for meeting the criterion specified in subsection (1)(g), must not have experienced a decline of more than 20% of its market price, or (if it is used as collateral in a repo-style transaction) an increase in haircut of more than 20 percentage points, within—
 

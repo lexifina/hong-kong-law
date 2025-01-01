@@ -50,23 +50,23 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
   - (a) a marketable debt security or prescribed instrument has a qualifying ECAI issue specific rating if any of the following conditions is met—
 
-    - (i) the ECAI issue specific rating of the debt security or instrument—
+    - (i) the ECAI issue specific rating of the debt security or instrument assigned by a Type A ECAI—
 
-      - (A) if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2; or
+      - (A) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3; or
 
-      - (B) if mapped to the scale of credit quality grades in Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1 or 2;
+      - (B) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 1 or 2; (L.N. 170 of 2023)
 
-    - (ii) without limiting subparagraph (i), for a debt security or instrument issued by a corporate incorporated in India, the ECAI issue specific rating of the debt security or instrument—
+    - (ii) without limiting subparagraph (i), for a debt security or instrument issued by a corporate incorporated in the home jurisdiction of a Type B ECAI, the ECAI issue specific rating of the debt security or instrument assigned by that Type B ECAI—
 
-      - (A) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3; or
+      - (A) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs (for a long-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3; or
 
-      - (B) if mapped to the scale of credit quality grades in Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3;
+      - (B) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type B ECAIs (for a short-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 1, 2 or 3; (L.N. 170 of 2023)
 
   - (b) the issuer or guarantor of a marketable debt security or prescribed instrument has a qualifying ECAI issuer rating if any of the following conditions is met—
 
-    - (i) the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 1 or 2;
+    - (i) the ECAI issuer rating of the issuer or guarantor assigned by a Type A ECAI, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs, would result in the issuer or guarantor being assigned a credit quality grade of 1, 2 or 3;
 
-    - (ii) without limiting subparagraph (i), for an issuer or guarantor that is a corporate incorporated in India, the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Part 2 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 1, 2 or 3; and
+    - (ii) without limiting subparagraph (i), for an issuer or guarantor that is a corporate incorporated in the home jurisdiction of a Type B ECAI, the ECAI issuer rating of the issuer or guarantor assigned by that Type B ECAI, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs, would result in the issuer or guarantor being assigned a credit quality grade of 1, 2 or 3; and (L.N. 170 of 2023)
 
   - (c) a marketable debt security or prescribed instrument has a qualifying ECAI rating if—
 
@@ -80,23 +80,23 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
   - (a) a marketable debt security or prescribed instrument has an investment-grade issue specific rating if any of the following conditions is met—
 
-    - (i) the ECAI issue specific rating of the debt security or instrument—
+    - (i) the ECAI issue specific rating of the debt security or instrument assigned by a Type A ECAI—
 
-      - (A) if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 3; or
+      - (A) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs (for a long-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 4; or
 
-      - (B) if mapped to the scale of credit quality grades in Part 1 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 3;
+      - (B) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type A ECAIs (for a short-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 3; (L.N. 170 of 2023)
 
-    - (ii) without limiting subparagraph (i), for a debt security or instrument issued by a corporate incorporated in India, the ECAI issue specific rating of the debt security or instrument—
+    - (ii) without limiting subparagraph (i), for a debt security or instrument issued by a corporate incorporated in the home jurisdiction of a Type B ECAI, the ECAI issue specific rating of the debt security or instrument assigned by that Type B ECAI—
 
-      - (A) if mapped to the scale of credit quality grades in Part 2 of Table C (for a long-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 4; or
+      - (A) if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs (for a long-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 4; or
 
-      - (B) if mapped to the scale of credit quality grades in Part 2 of Table E (for a short-term ECAI issue specific rating) in Schedule 6 to the Capital Rules, would result in the debt security or instrument being assigned a credit quality grade of 4;
+      - (B) if mapped to the scale of credit quality grades in accordance with the ST ECAI rating mapping table for Type B ECAIs (for a short-term ECAI issue specific rating), would result in the debt security or instrument being assigned a credit quality grade of 4; (L.N. 170 of 2023)
 
   - (b) the issuer or guarantor of a marketable debt security or prescribed instrument has an investment-grade issuer rating if any of the following conditions is met—
 
-    - (i) the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Table A, Table B or Part 1 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 3;
+    - (i) the ECAI issuer rating of the issuer or guarantor assigned by a Type A ECAI, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type A ECAIs, would result in the issuer or guarantor being assigned a credit quality grade of 4; (L.N. 170 of 2023)
 
-    - (ii) without limiting subparagraph (i), for an issuer or guarantor that is a corporate incorporated in India, the ECAI issuer rating of the issuer or guarantor, if mapped to the scale of credit quality grades in Part 2 of Table C in Schedule 6 to the Capital Rules, would result in the issuer or guarantor being assigned a credit quality grade of 4; and
+    - (ii) without limiting subparagraph (i), for an issuer or guarantor that is a corporate incorporated in the home jurisdiction of a Type B ECAI, the ECAI issuer rating of the issuer or guarantor assigned by that Type B ECAI, if mapped to the scale of credit quality grades in accordance with the LT ECAI rating mapping table for Type B ECAIs, would result in the issuer or guarantor being assigned a credit quality grade of 4; and (L.N. 170 of 2023)
 
   - (c) a marketable debt security or prescribed instrument has an investment-grade rating if—
 
@@ -192,7 +192,9 @@ Liquidity Conversion Factors Applicable to Assets and Liabilities in Calculation
 
 - Item | Deduction from liquefiable assets | Liquidity conversion factor
 
-- 1. | Debt securities or prescribed instruments with a remaining term to maturity of not more than one month issued by a category 2 institution (other than any debt security or prescribed instrument that the Monetary Authority has approved to be excluded from inclusion in this Table where the institution concerned has demonstrated to the satisfaction of the Monetary Authority that the treatment to be accorded to the debt security or instrument for the purpose of the calculation of qualifying liabilities is appropriate) | 100%
+- 1. | Debt securities or prescribed instruments with a remaining term to maturity of not more than one month issued by a category 2 institution (other than any debt security or prescribed instrument that the Monetary Authority has approved to be | 100%
+
+- excluded from inclusion in this Table where the institution concerned has demonstrated to the satisfaction of the Monetary Authority that the treatment to be accorded to the debt security or instrument for the purpose of the calculation of qualifying liabilities is appropriate)
 
 - Table C
 

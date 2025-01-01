@@ -84,7 +84,7 @@ Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
 (c) | loans provided by the institution to the Monetary Authority for the account of the Exchange Fund or central banks, having a remaining term to maturity of 6 months or more—
 
-(i) | loans that are subject to a risk-weight of 20% or less under section 55(2) of the Capital Rules | N/A | 50% | 65% | 65%
+(i) | loans that are subject to a risk-weight of 20% or less under section 55(1) of the Capital Rules (L.N. 170 of 2023) | N/A | 50% | 65% | 65%
 
 (ii) | loans not covered by sub-sub-item (i) | N/A | 50% | 85% | 85%
 
