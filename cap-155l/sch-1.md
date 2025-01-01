@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 2, 73, 120, 157A, 166, 182 & 226MD] (L.N. 156 of 2012; L.N. 44 of 2020)
+[ss. 2, 139, 166, 182 & 226MD & Sch. 6] (L.N. 156 of 2012; L.N. 44 of 2020; L.N. 167 of 2023)
 
 Specifications for Purposes of Certain Definitions in these Rules
 

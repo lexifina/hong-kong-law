@@ -36,19 +36,19 @@ Requirements to be Met for Minority Interests and Capital Instruments Issued by 
 
   - (1A) If the subsidiary is incorporated in Hong Kong, the surplus CET1 capital of the subsidiary is calculated as the CET1 capital of the subsidiary less the lower of—
 
-    - (a) the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the subsidiary, calculated on a solo basis or a solo-consolidated basis, as the case may be, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+    - (a) the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the subsidiary, calculated on a solo basis or a solo-consolidated basis, as the case may be, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
       - (i) subject to subsection (2), the minimum CET1 capital ratio that the subsidiary must comply with, on a solo basis or a solo-consolidated basis, as the case may be, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
       - (ii) the buffer level applicable to the subsidiary under section 3G; and
 
-    - (b) the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+    - (b) the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
       - (i) subject to subsection (2), the minimum CET1 capital ratio that the institution must comply with, on a consolidated basis, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
       - (ii) the buffer level applicable to the institution under section 3G. (L.N. 212 of 2015; L.N. 167 of 2023)
 
-  - (1B) If the subsidiary is not incorporated in Hong Kong, the surplus CET1 capital of the subsidiary is calculated as the CET1 capital of the subsidiary less the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+  - (1B) If the subsidiary is not incorporated in Hong Kong, the surplus CET1 capital of the subsidiary is calculated as the CET1 capital of the subsidiary less the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
     - (a) subject to subsection (2), the minimum CET1 capital ratio that the institution must comply with, on a consolidated basis, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
@@ -78,19 +78,19 @@ Requirements to be Met for Minority Interests and Capital Instruments Issued by 
 
   - (1A) If the subsidiary is incorporated in Hong Kong, the surplus Tier 1 capital of the subsidiary is calculated as the Tier 1 capital of the subsidiary less the lower of—
 
-    - (a) the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the subsidiary, calculated on a solo basis or a solo-consolidated basis, as the case may be, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+    - (a) the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the subsidiary, calculated on a solo basis or a solo-consolidated basis, as the case may be, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
       - (i) subject to subsection (3), the minimum Tier 1 capital ratio that the subsidiary must comply with, on a solo basis or a solo-consolidated basis, as the case may be, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
       - (ii) the buffer level applicable to the subsidiary under section 3G; and
 
-    - (b) the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+    - (b) the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
       - (i) subject to subsection (3), the minimum Tier 1 capital ratio that the institution must comply with, on a consolidated basis, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
       - (ii) the buffer level applicable to the institution under section 3G. (L.N. 212 of 2015; L.N. 167 of 2023)
 
-  - (1B) If the subsidiary is not incorporated in Hong Kong, the surplus Tier 1 capital of the subsidiary is calculated as the Tier 1 capital of the subsidiary less the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+  - (1B) If the subsidiary is not incorporated in Hong Kong, the surplus Tier 1 capital of the subsidiary is calculated as the Tier 1 capital of the subsidiary less the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
     - (a) subject to subsection (3), the minimum Tier 1 capital ratio that the institution must comply with, on a consolidated basis, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
@@ -122,19 +122,19 @@ Requirements to be Met for Minority Interests and Capital Instruments Issued by 
 
   - (1A) If the subsidiary is incorporated in Hong Kong, the surplus Total capital of the subsidiary is calculated as the Total capital of the subsidiary less the lower of—
 
-    - (a) the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the subsidiary, calculated on a solo basis or a solo-consolidated basis, as the case may be, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+    - (a) the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the subsidiary, calculated on a solo basis or a solo-consolidated basis, as the case may be, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
       - (i) subject to subsection (3), the minimum Total capital ratio that the subsidiary must comply with, on a solo basis or a solo-consolidated basis, as the case may be, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
       - (ii) the buffer level applicable to the subsidiary under section 3G; and
 
-    - (b) the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+    - (b) the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
       - (i) subject to subsection (3), the minimum Total capital ratio that the institution must comply with, on a consolidated basis, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
       - (ii) the buffer level applicable to the institution under section 3G. (L.N. 212 of 2015; L.N. 167 of 2023)
 
-  - (1B) If the subsidiary is not incorporated in Hong Kong, the surplus Total capital of the subsidiary is calculated as the Total capital of the subsidiary less the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018)
+  - (1B) If the subsidiary is not incorporated in Hong Kong, the surplus Total capital of the subsidiary is calculated as the Total capital of the subsidiary less the portion of the sum of the risk-weighted amount for credit risk, risk-weighted amount for market risk, risk-weighted amount for CVA risk, risk-weighted amount for operational risk and risk-weighted amount for sovereign concentration risk of the authorized institution calculated on a consolidated basis, that relates to the subsidiary, multiplied by a percentage equal to the sum of— (L.N. 222 of 2018; L.N. 167 of 2023)
 
     - (a) subject to subsection (3), the minimum Total capital ratio that the institution must comply with, on a consolidated basis, under section 3B and, if applicable, as varied by the Monetary Authority under section 97F of the Ordinance (specified minimum ratio); and
 
