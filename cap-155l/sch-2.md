@@ -1,8 +1,8 @@
 # Schedule 2
 
-[ss. 7, 8, 9, 10, 186 & 259 & Sch. 3]
+[ss. 8, 9, 10 & 259 & Sch. 3]
 
-(L.N. 175 of 2017)
+(L.N. 175 of 2017; L.N. 167 of 2023)
 
 Minimum Requirements to be Satisfied for Approval under Section 8 of these Rules to Use IRB Approach
 
@@ -38,9 +38,9 @@ Minimum Requirements to be Satisfied for Approval under Section 8 of these Rules
 
       - (A) plays an essential role in the institution’s ongoing internal capital adequacy assessment; or
 
-      - (B) will eventually play, within a period and in a manner agreed to by the Monetary Authority, an essential role in the institution’s ongoing internal capital adequacy assessment once the systems and procedures being developed by the institution as at the date of the institution’s application to use the IRB approach under section 8 of these Rules for conducting the assessment are implemented in accordance with a plan agreed to by the Monetary Authority;
+      - (B) will eventually play, within a period and in a manner agreed to by the Monetary Authority, an essential role in the institution’s ongoing internal capital adequacy assessment once the systems and procedures being developed by the institution as at the date of the institution’s application to use the IRB approach under section 8 of these Rules for conducting the assessment are implemented in accordance with a plan agreed to by the Monetary Authority; and (L.N. 167 of 2023)
 
-    - (vii) is applied by the institution so as to satisfy the minimum IRB coverage ratio set out in section 11 of these Rules; and
+    - (vii) (Repealed L.N. 167 of 2023)
 
     - (viii) enables the institution to comply with the Banking (Disclosure) Rules (Cap. 155 sub. leg. M) in respect of any disclosures by the institution in respect of— (L.N. 156 of 2012)
 

@@ -1,100 +1,134 @@
 # Schedule 7
 
-[ss. 2, 51, 86, 92, 94, 163, 226BJ, 226K & 226MK] (L.N. 222 of 2018; L.N. 44 of 2020 and E.R. 3 of 2021)
+[ss. 2, 92, 94, 163, 226BJ, 226K & 226MK] (L.N. 222 of 2018; L.N. 44 of 2020 and E.R. 3 of 2021; L.N. 167 of 2023)
 
 Standard Supervisory Haircuts
 
 (L.N. 44 of 2020)
 
-- 1. The standard supervisory haircuts for taking into account the volatilities of the values of exposures (including exposures in the form of unsegregated collateral posted) and collateral are set out in the Table. (L.N. 44 of 2020)
+- 1. The standard supervisory haircuts for taking into account the volatilities of the values of exposures (including exposures in the form of unsegregated collateral posted) and collateral are set out in Tables A, B and C.
 
-  - Table Part 1 Standard Supervisory Haircuts for Debt Securities
+- Table A
 
-  - Standard supervisory haircuts
+- Standard Supervisory Haircuts for Debt Securities other than Securitization Issues
 
-  - Item | Types of exposure or recognized collateral | Credit quality grade/short- term credit quality grade | Residual maturity | Non- securitization exposures (sovereign issuers) | Non- securitization exposures (other issuers) | Securitization exposures (excluding re- securitization exposures)
+- Part 1
 
-  - 1. | Debt securities with ECAI issue specific ratings | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1% | 2%
+- Debt Securities Issued by Sovereigns or Sovereign Issuers
 
-  - (b) more than 1 year but not more than 5 years | 2% | 4% | 8%
+- Column 1 | Column 2 | Column 3 | Column 4
 
-  - (c) more than 5 years | 4% | 8% | 16%
+- Item | Type of exposure or recognized collateral | Residual maturity of debt security | Standard supervisory haircuts
 
-  - 2. | Recognized collateral that falls within any of section 79(1)(e) to (la) of these Rules | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1% | 2%
+- 1. | (a) A debt security— (i) issued by a sovereign or sovereign issuer; and (ii) having an ECAI issue specific rating mapped to a credit quality grade of 1 or 2 in the LT ECAI rating mapping table for Type A ECAIs or a credit quality grade of 1 in the ST ECAI rating mapping table for Type A ECAIs | (a) not more than one year | 0.5%
 
-  - (b) more than 1 year but not more than 5 years | 2% | 4% | 8%
+- (b) more than one year but not more than 5 years | 2%
 
-  - (c) more than 5 years | 4% | 8% | 16%
+- (c) more than 5 years | 4%
 
-  - 3. | Debt securities with ECAI issue specific ratings | grades 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2% | 4%
+- (b) A debt security that— (i) does not have an ECAI issue specific rating; and (ii) is issued by a sovereign having an ECAI issuer rating mapped to a credit quality grade of 1 or 2 in the LT ECAI rating mapping table for Type A ECAIs
 
-  - (b) more than 1 year but not more than 5 years | 3% | 6% | 12%
+- 2. | (a) A debt security— (i) issued by a sovereign or sovereign issuer; and (ii) having an ECAI issue specific rating mapped to a credit quality grade of 3 or 4 in the LT ECAI rating mapping table for Type A ECAIs or a credit quality grade of 2 or 3 in the ST ECAI rating mapping table for Type A ECAIs | (a) not more than one year | 1%
 
-  - (c) more than 5 years | 6% | 12% | 24%
+- (b) more than one year but not more than 5 years | 3%
 
-  - 4. | Recognized collateral that falls within any of section 79(1)(e) to (la) of these Rules | grades 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2% | 4%
+- (c) more than 5 years | 6%
 
-  - (b) more than 1 year but not more than 5 years | 3% | 6% | 12%
+- (b) A debt security that— (i) does not have an ECAI issue specific rating; and (ii) is issued by a sovereign having an ECAI issuer rating mapped to a credit quality grade of 3 or 4 in the LT ECAI rating mapping table for Type A ECAIs
 
-  - (c) more than 5 years | 6% | 12% | 24%
+- 3. | (a) A debt security— (i) issued by a sovereign or sovereign issuer; and (ii) having an ECAI issue specific rating mapped to a credit quality grade of 5 in the LT ECAI rating mapping table for Type A ECAIs | all | 15%
 
-  - 5. | Debt securities with long-term ECAI issue specific ratings (L.N. 212 of 2015) | grade 4 (in relation to Table A, Table B or Part 1 of Table C in Schedule 6) | All | 15% | 25% | 25%
+- (b) A debt security that— (i) does not have an ECAI issue specific rating; and (ii) is issued by a sovereign having an ECAI issuer rating mapped to a credit quality grade of 5 in the LT ECAI rating mapping table for Type A ECAIs
 
-  - 6. | Recognized collateral that falls within section 79(1)(e), (f) or (h) of these Rules | grade 4 (in relation to Table A in Schedule 6) | All | 15% | not applicable | not applicable
+- Part 2
 
-  - 7. | Debt securities without ECAI issue specific ratings issued by banks that satisfy the criteria set out in section 79(1)(m) of these Rules (L.N. 212 of 2015) | not applicable | (a) not more than 1 year | not applicable | 2% | not applicable
+- Debt Securities Issued by Issuers other than Sovereigns and Sovereign Issuers
 
-  - (b) more than 1 year but not more than 5 years | not applicable | 6% | not applicable
+- Column 1 | Column 2 | Column 3 | Column 4
 
-  - (c) more than 5 years | not applicable | 12% | not applicable
+- Item | Type of exposure or recognized collateral | Residual maturity of debt security | Standard supervisory haircuts
 
-  - 8. | Recognized collateral that falls within section 79(1)(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2% | not applicable
+- 1. | A debt security having an ECAI issue specific rating mapped to one of the following credit quality grades— (a) 1 or 2 in the LT ECAI rating mapping table for Type A ECAIs; (b) 1 in the ST ECAI rating mapping table for Type A ECAIs; (c) 1 or 2 in the LT ECAI rating mapping table or ST ECAI rating mapping table for Type B ECAIs | (a) not more than one year | 1%
 
-  - (b) more than 1 year but not more than 5 years | not applicable | 6% | not applicable
+- (b) more than one year but not more than 3 years | 3%
 
-  - (c) more than 5 years | not applicable | 12% | not applicable
+- (c) more than 3 years but not more than 5 years | 4%
 
-  - (L.N. 156 of 2012; L.N. 175 of 2017)
+- (d) more than 5 years but not more than 10 years | 6%
 
-  - Part 2 Standard Supervisory Haircuts for Assets other than
+- (e) more than 10 years | 12%
 
-  - Debt Securities
+- 2. | A debt security having an ECAI issue specific rating mapped to one of the following credit quality grades— (a) 3 or 4 in the LT ECAI rating mapping table for Type A ECAIs; (b) 2 or 3 in the ST ECAI rating mapping table for Type A ECAIs; (c) 3 or 4 in the LT ECAI rating mapping table or ST ECAI rating mapping table for Type B ECAIs | (a) not more than one year | 2%
 
-  - Item | Types of exposure or recognized collateral | Standard supervisory haircuts
+- (b) more than one year but not more than 3 years | 4%
 
-  - 1. | Cash where both the exposure and collateral are in the same currency | 0%
+- (c) more than 3 years but not more than 5 years | 6%
 
-  - 2. | Recognized collateral which falls within section 79(1)(a), (b) or (c) of these Rules where the exposure is in the same currency as that of the recognized collateral (L.N. 156 of 2012) | 0%
+- (d) more than 5 years but not more than 10 years | 12%
 
-  - 3. | Equities in the main index (including convertible bonds) and gold | 15%
+- (e) more than 10 years | 20%
 
-  - 4. | Recognized collateral which falls within section 79(1)(d) or (n) of these Rules (L.N. 156 of 2012) | 15%
+- 3. | A debt security issued by a bank that— (a) does not have an ECAI issue specific rating; and (b) meets the criteria set out in section 79(1)(l) | (a) not more than one year | 2%
 
-  - 5. | Other equities (including convertible bonds) listed on a recognized exchange | 25%
+- (b) more than one year but not more than 3 years | 4%
 
-  - 6. | Recognized collateral which falls within section 80(1)(b) of these Rules (L.N. 156 of 2012) | 25%
+- (c) more than 3 years but not more than 5 years | 6%
 
-  - 7. | Collective investment schemes | highest haircut applicable to any financial instruments in which the scheme can invest
+- (d) more than 5 years but not more than 10 years | 12%
 
-  - 8. | Recognized collateral which falls within section 79(1)(o) or 80(1)(c) of these Rules (L.N. 156 of 2012) | highest haircut applicable to any financial instruments in which the scheme can invest
+- (e) more than 10 years | 20%
 
-  - Part 3 Standard Supervisory Haircuts for Exposures and Collateral
+- Table B
 
-  - which Do not Fall within Parts 1 and 2 of this Table
+- Standard Supervisory Haircuts for Securitization Issues other than Re-securitization Exposures
 
-  - Item | Types of exposure or recognized collateral | Standard supervisory haircuts
+- Column 1 | Column 2 | Column 3 | Column 4
 
-  - 1. | Exposures and recognized collateral of repo-style transactions which satisfy the criteria set out in section 82(2) of these Rules | 0%
+- Item | Type of exposure or recognized collateral | Residual maturity of securitization issue | Standard supervisory haircuts
 
-  - 2. | Exposures arising from currency mismatch | 8%
+- 1. | Securitization issue having an ECAI issue specific rating mapped to— (a) a credit quality grade of 1, 2, 3 or 4 in the LT ECAI rating mapping table for securitization exposures; or (b) a credit quality grade of 1 in the ST ECAI rating mapping table for securitization exposures | (a) not more than one year | 2%
 
-  - 3. | Exposures of transactions under which the financial instruments lent by an authorized institution do not fall within Parts 1 and 2 of this Table | 25%
+- (b) more than one year but not more than 5 years | 8%
 
-  - 4. | Recognized collateral which does not fall within section 80(1)(a), (b) and (c) of these Rules received by an authorized institution under repo-style transactions booked in the trading book (L.N. 156 of 2012) | 25%
+- (c) more than 5 years | 16%
 
-  - 5. | Exposures not specified in this Table | 25%
+- 2. | Securitization issue having an ECAI issue specific rating mapped to— (a) a credit quality grade of 5, 6, 7, 8, 9 or 10 in the LT ECAI rating mapping table for securitization exposures; or (b) a credit quality grade of 2 or 3 in the ST ECAI rating mapping table for securitization exposures | (a) not more than one year | 4%
 
-- 2. In the Table in section 1—
+- (b) more than one year but not more than 5 years | 12%
+
+- (c) more than 5 years | 24%
+
+- Table C
+
+- Standard Supervisory Haircuts for Exposures and Collateral not Falling within Table A or B in this Section
+
+- Column 1 | Column 2 | Column 3
+
+- Item | Type of exposure or recognized collateral | Standard supervisory haircuts
+
+- 1. | Exposures in the form of cash | 0%
+
+- 2. | Recognized collaterals that fall within section 79(1)(a), (b) or (c) | 0%
+
+- 3. | Exposures arising from currency mismatch | 8%
+
+- 4. | Equities (including convertible bonds) included in main indices | 20%
+
+- 5. | Gold bullion | 20%
+
+- 6. | Equities (including convertible bonds) listed on recognized exchanges that do not fall within item 4 | 30%
+
+- 7. | Units or shares in collective investment schemes | (a) the highest haircut applicable to any financial instruments in which the scheme can invest; or (b) if the authorized institution concerned is able to use the look-through approach (within the meaning of section 226ZG) to determine the risk-weighted amount of the underlying exposures of the scheme—the weighted average haircut applicable to the financial instruments held by the scheme
+
+- 8. | Exposures arising from financial instruments sold, lent, or posted as collateral under securities financing transactions where the financial instruments do not fall within Table A or B in this section or item 4, 6 or 7 | 30%
+
+- 9. | Securities received under repo-style transactions booked in trading book where the securities— (a) do not fall within Table A or B in this section or item 4, 6 or 7; and (b) are eligible for being included in trading book | 30%
+
+- 10. | Exposures not specified in this Table | 30%
+
+- (L.N. 167 of 2023)
+
+- 2. In the Tables in section 1— (L.N. 167 of 2023)
 
   - (a) the haircuts may only be applied to an exposure or collateral—
 
@@ -108,11 +142,15 @@ Standard Supervisory Haircuts
 
     - (ii) whose applicable minimum holding period or margin period of risk determined under these Rules is 10 business days; (L.N. 44 of 2020)
 
-  - (b) sovereign issuers include sovereign foreign public sector entities and multilateral development banks; (L.N. 175 of 2017)
+  - (b) sovereign issuer (官方實體發行人) means—
 
-  - (c) in the case of a debt security issued by a multilateral development bank (whether it is recognized collateral mentioned in section 79(1)(h) of these Rules or not), the credit quality grade or short-term credit quality grade applicable to the debt security is determined by mapping the ECAI issue specific rating concerned to a scale of credit quality grades in accordance with Table A or Part 1 of Table E in Schedule 6; (L.N. 175 of 2017)
+    - (i) a sovereign foreign public sector entity; or
 
-  - (ca) in the case of a debt security or recognized collateral that is a securitization exposure, the credit quality grade or short-term credit quality grade applicable to the securitization exposure is determined by mapping the ECAI issue specific rating concerned to a scale of credit quality grades in accordance with Part 1 of Table C or Part 1 of Table E in Schedule 6; (L.N. 175 of 2017)
+    - (ii) a multilateral development bank where an exposure to it would be eligible for a risk-weight of 0% under section 58; (L.N. 167 of 2023)
+
+  - (c) (Repealed L.N. 167 of 2023)
+
+  - (ca) (Repealed L.N. 167 of 2023)
 
   - (d)
 
@@ -122,37 +160,9 @@ Standard Supervisory Haircuts
 
     - (i) unless subparagraph (ii) applies—means recognized collateral within the meaning of section 51(1) or recognized financial collateral within the meaning of section 139(1); or
 
-    - (ii) in relation to the calculation of default risk exposure by using the SA-CCR approach or IMM(CCR) approach—means collateral referred to in section 226BJ(5) or 226H(3); (L.N. 44 of 2020)
+    - (ii) in relation to the calculation of default risk exposure by using the SA-CCR approach or IMM(CCR) approach—means collateral referred to in section 226BJ(5) or 226H(3). (L.N. 44 of 2020; L.N. 167 of 2023)
 
-  - (f)
-
-    - other issuers (其他發行人) includes public sector entities which are not sovereign foreign public sector entities; (L.N. 137 of 2011)
-
-  - (g)
-
-    - ECAI issue specific rating (ECAI特定債項評級)—
-
-      - (i) in relation to a debt security (other than a securitization issue) issued by a bank, a securities firm, a corporate incorporated outside India, or any other issuer that is not a corporate incorporated in India, means a short-term credit assessment rating or long-term credit assessment rating that—
-
-        - (A) is assigned to the debt security by an ECAI within the meaning of paragraph (a), (b), (c), (d) or (e) of the definition of external credit assessment institution in section 2(1) of these Rules; and
-
-        - (B) is for the time being neither withdrawn nor suspended by that ECAI;
-
-      - (ii) in relation to a debt security (other than a securitization issue) issued by a corporate incorporated in India, means a short-term credit assessment rating or long-term credit assessment rating that—
-
-        - (A) is assigned to the debt security by an ECAI; and
-
-        - (B) is for the time being neither withdrawn nor suspended by that ECAI; or
-
-      - (iii) in relation to a debt security that is a securitization issue, has the meaning given by section 227A; (L.N. 222 of 2018)
-
-  - (h)
-
-    - long-term ECAI issue specific rating (長期ECAI特定債項評級)——
-
-      - (i) in relation to a debt security (other than a securitization issue) issued by a sovereign, a sovereign foreign public sector entity, or a multilateral development bank, means an ECAI issue specific rating assigned to the debt security by an ECAI (within the meaning of paragraph (a), (b), (c), (d) or (e) of the definition of external credit assessment institution in section 2(1) of these Rules) that is a long-term credit assessment rating; or
-
-      - (ii) in relation to a debt security that is a securitization issue, means an ECAI issue specific rating (within the meaning of section 227A) assigned to the securitization issue that is a long-term credit assessment rating. (L.N. 222 of 2018)
+  - (f)-(h) (Repealed L.N. 167 of 2023)
 
 - 3. The standard supervisory haircut must be adjusted by using Formula 33 if any of the following, determined under these Rules, is not 10 business days—
 
@@ -162,12 +172,12 @@ Standard Supervisory Haircuts
 
   - (c) the minimum holding period of the unsegregated collateral concerned.
 
-  - Formula 33 Adjustment of Standard Supervisory Haircuts where—
+- Formula 33 Adjustment of Standard Supervisory Haircuts where—
 
-  - H | = | haircut applicable to an exposure or recognized collateral, as the case requires, capped at 100%;
+- H | = | haircut applicable to an exposure or recognized collateral, as the case requires, capped at 100%;
 
-  - H10 | = | standard supervisory haircut appropriate for the type of exposure or recognized collateral to which the exposure or recognized collateral belongs; and
+- H10 | = | standard supervisory haircut appropriate for the type of exposure or recognized collateral to which the exposure or recognized collateral belongs; and
 
-  - P | = | the following, as the case requires, determined in accordance with these Rules— (i) the minimum holding period or the margin period of risk of the transaction giving rise to the exposure or of the transaction giving rise to the exposure secured by the recognized collateral; or (ii) the minimum holding period of the unsegregated collateral.
+- P | = | the following, as the case requires, determined in accordance with these Rules— (i) the minimum holding period or the margin period of risk of the transaction giving rise to the exposure or of the transaction giving rise to the exposure secured by the recognized collateral; or (ii) the minimum holding period of the unsegregated collateral.
 
-  - (L.N. 44 of 2020)
+- (L.N. 44 of 2020)

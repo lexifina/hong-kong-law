@@ -1,6 +1,8 @@
 # Schedule 4B
 
-[ss. 2 & 39 & Schs. 4D & 4H]
+[ss. 2 & 39 & Sch. 4D]
+
+(L.N. 167 of 2023)
 
 Qualifying Criteria to be Met to be Additional Tier 1 Capital
 

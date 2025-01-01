@@ -1,91 +1,65 @@
 # Schedule 6
 
-[ss. 2, 55, 59, 60, 61, 61A, 79, 139, 226BW, 226MD, 243, 281 & 287 & Sch. 7] (L.N. 137 of 2011; L.N. 156 of 2012; L.N. 175 of 2017; L.N. 44 of 2020; L.N. 54 of 2022)
+[ss. 2, 51, 64, 71, 105, 118, 163 & 235]
 
-Credit Quality Grades
+Credit Conversion Factors
 
-Table A Sovereign Exposures
+- 1. The CCF applicable to an off-balance sheet exposure specified in column 2 of the Table is specified in column 3 of the Table opposite the exposure.
 
-Credit quality grade (sovereigns) | S&P Global Ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
+- Table
 
-1 | AAA AA+ AA AA- | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA- | AAA AA+ AA AA- | AAA AA+ AA AA-
+- Column 1 | Column 2 | Column 3
 
-2 | A+ A A- | A1 A2 A3 | A+ A A- | A+ A A- | A+ A A-
+- Item | Off-balance sheet exposure | CCF
 
-3 | BBB+ BBB BBB- | Baa1 Baa2 Baa3 | BBB+ BBB BBB- | BBB+ BBB BBB- | BBB+ BBB BBB-
+- 1. | Direct credit substitutes | 100%
 
-4 | BB+ BB BB- | Ba1 Ba2 Ba3 | BB+ BB BB- | BB+ BB BB- | BB+ BB BB-
+- 2. | Asset sales with recourse | 100%
 
-5 | B+ B B- | B1 B2 B3 | B+ B B- | B+ B B- | B+ B B-
+- 3. | Sale and repurchase agreements (excluding those that are repo-style transactions) | 100%
 
-6 | CCC+ CCC CCC- CC C D | Caa1 Caa2 Caa3 Ca C | CCC CC C D | CCC+ CCC CCC- CC C D | CCC CC C D
+- 4. | Forward asset purchases | 100%
 
-(L.N. 137 of 2011; L.N. 222 of 2018) Table B Bank and Securities Firm Exposures
+- 5. | Forward forward deposits placed | 100%
 
-Credit quality grade (banks and securities firms) | S&P Global Ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
+- 6. | Partly paid-up shares and securities | 100%
 
-1 | AAA AA+ AA AA- | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA- | AAA AA+ AA AA- | AAA AA+ AA AA-
+- 7. | Note issuance and revolving underwriting facilities | 50%
 
-2 | A+ A A- | A1 A2 A3 | A+ A A- | A+ A A- | A+ A A-
+- 8. | Transaction-related contingencies | 50%
 
-3 | BBB+ BBB BBB- | Baa1 Baa2 Baa3 | BBB+ BBB BBB- | BBB+ BBB BBB- | BBB+ BBB BBB-
+- 9. | Trade-related contingencies | 20%
 
-4 | BB+ BB BB- B+ B B- | Ba1 Ba2 Ba3 B1 B2 B3 | BB+ BB BB- B+ B B- | BB+ BB BB- B+ B B- | BB+ BB BB- B+ B B-
+- 10. | Exempt commitments | 0%
 
-5 | CCC+ CCC CCC- CC C D | Caa1 Caa2 Caa3 Ca C | CCC CC C D | CCC+ CCC CCC- CC C D | CCC CC C D
+- 11. | Commitments that do not fall within any of items 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 and that— (a) may be cancelled at any time unconditionally by the authorized institution concerned without prior notice; or (b) provide for automatic cancellation due to deterioration in the creditworthiness of the person to whom the institution has made the commitment | 10%
 
-(L.N. 137 of 2011; L.N. 222 of 2018) Table C Corporate Exposures Part 1
+- 12. | Commitments that do not fall within any of items 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11 | 40%
 
-Credit quality grade (corporates) | S&P Global Ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd. | Risk- weight
+- 13. | Off-balance sheet exposures that do not fall within— (a) for the purposes of the STC approach—any other item in this Schedule and sections 68C and 71(2) and (5); or (b) for the purposes of the BSC approach—any other item in this Schedule and sections 117C and 118(2) and (3) | The CCF specified in Part 2 of Schedule 1 applicable to the exposures or 100% if no such CCF is specified
 
-1 | AAA AA+ AA AA- | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA- | AAA AA+ AA AA- | AAA AA+ AA AA- | 20%
+- 2. In the Table in section 1 of this Schedule—
 
-2 | A+ A A- | A1 A2 A3 | A+ A A- | A+ A A- | A+ A A- | 50%
+  - commitment (承諾) means any contractual arrangement that has been offered by an authorized institution and accepted by its customer to extend credit, purchase assets or issue credit substitutes, including such an arrangement—
 
-3 | BBB+ BBB BBB- | Baa1 Baa2 Baa3 | BBB+ BBB BBB- | BBB+ BBB BBB- | BBB+ BBB BBB- | 100%
+    - (a) that is in the form of a general banking facility consisting of 2 or more credit lines;
 
-4 | BB+ BB BB- | Ba1 Ba2 Ba3 | BB+ BB BB- | BB+ BB BB- | BB+ BB BB- | 100%
+    - (b) that can be unconditionally cancelled by the institution at any time without prior notice to the customer; or
 
-5 | B+ B B- CCC+ CCC CCC- CC C D | B1 B2 B3 Caa1 Caa2 Caa3 Ca C | B+ B B- CCC CC C D | B+ B B- CCC+ CCC CCC- CC C D | B+ B B- CCC CC C D | 150%
+    - (c) that can be cancelled by the institution if the customer fails to meet conditions set out in the facility documentation, including conditions that must be met by the customer prior to any initial or subsequent drawdown under the arrangement;
 
-Part 2
+  - exempt commitment (獲豁免承諾), in relation to an authorized institution, means a commitment that satisfies all of the following conditions—
 
-Credit quality grade (corporates) | CARE Ratings Limited | CRISIL Ratings Limited | ICRA Limited | Risk- weight
+    - (a) the person to whom the institution has made the commitment is a corporate (within the meaning of section 51(1) or 105, as the case requires);
 
-1 | CARE AAA CARE AAA (Is) | CRISIL AAA | [ICRA]AAA | 20%
+    - (b) the credit quality of the person is closely monitored by the institution on an ongoing basis;
 
-2 | CARE AA+ CARE AA CARE AA- CARE AA+ (Is) CARE AA (Is) CARE AA- (Is) | CRISIL AA+ CRISIL AA CRISIL AA- | [ICRA]AA+ [ICRA]AA [ICRA]AA- | 30%
+    - (c) the institution receives no fees or commissions to establish or maintain the commitment;
 
-3 | CARE A+ CARE A CARE A- CARE A+ (Is) CARE A (Is) CARE A- (Is) | CRISIL A+ CRISIL A CRISIL A- | [ICRA]A+ [ICRA]A [ICRA]A- | 50%
+    - (d) the person is required to apply to the institution for the initial and each subsequent drawdown;
 
-4 | CARE BBB+ CARE BBB CARE BBB- CARE BBB+ (Is) CARE BBB (Is) CARE BBB- (Is) | CRISIL BBB+ CRISIL BBB CRISIL BBB- | [ICRA]BBB+ [ICRA]BBB [ICRA]BBB- | 100%
+    - (e) the institution has full authority, regardless of the fulfilment by the person of the conditions set out in the facility documentation, over the execution of each drawdown;
 
-5 | CARE BB+ CARE BB CARE BB- CARE B+ CARE B CARE B- CARE C+ CARE C CARE C- CARE D CARE BB+ (Is) CARE BB (Is) CARE BB- (Is) CARE B+ (Is) CARE B (Is) CARE B- (Is) CARE C+ (Is) CARE C (Is) CARE C- (Is) CARE D (Is) | CRISIL BB+ CRISIL BB CRISIL BB- CRISIL B+ CRISIL B CRISIL B- CRISIL C+ CRISIL C CRISIL C- CRISIL D | [ICRA]BB+ [ICRA]BB [ICRA]BB- [ICRA]B+ [ICRA]B [ICRA]B- [ICRA]C+ [ICRA]C [ICRA]C- [ICRA]D | 150%
+    - (f) the institution’s decision on the execution of each drawdown is only made after assessing the creditworthiness of the person immediately prior to drawdown.
 
-(L.N. 137 of 2011; L.N. 222 of 2018; L.N. 54 of 2022) Table D (Repealed L.N. 54 of 2022) Table E Short-term Exposures (Banks, Securities Firms and Corporates) Part 1
-
-Short-term credit quality grade (banks, securities firms and corporates) | S&P Global Ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd. | Risk- weight
-
-1 | A-1+ A-1 | P-1 | F1+ F1 | a-1+ a-1 | J-1+ J-1 | 20%
-
-2 | A-2 | P-2 | F2 | a-2 | J-2 | 50%
-
-3 | A-3 | P-3 | F3 | a-3 | J-3 | 100%
-
-4 | B B-1 B-2 B-3 C D | NP | B C D | b c | NJ D | 150%
-
-Part 2
-
-Short-term credit quality grade (corporates) | CARE Ratings Limited | CRISIL Ratings Limited | ICRA Limited | Risk- weight
-
-1 | CARE A1+ | CRISIL A1+ | [ICRA]A1+ | 20%
-
-2 | CARE A1 | CRISIL A1 | [ICRA]A1 | 30%
-
-3 | CARE A2+ CARE A2 | CRISIL A2+ CRISIL A2 | [ICRA]A2+ [ICRA]A2 | 50%
-
-4 | CARE A3+ CARE A3 | CRISIL A3+ CRISIL A3 | [ICRA]A3+ [ICRA]A3 | 100%
-
-5 | CARE A4+ CARE A4 CARE D | CRISIL A4+ CRISIL A4 CRISIL D | [ICRA]A4+ [ICRA]A4 [ICRA]D | 150%
-
-(L.N. 137 of 2011; L.N. 222 of 2018; L.N. 54 of 2022)
+- (Schedule 6 replaced L.N. 167 of 2023)

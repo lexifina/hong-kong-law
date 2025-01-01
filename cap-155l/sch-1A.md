@@ -1,10 +1,12 @@
 # Schedule 1A
 
-[s. 226N]
+[s. 322J] (L.N. 167 of 2023)
 
-Transactions and Contracts not Subject to CVA Capital Charge
+Transactions and Contracts not Subject to CVA Risk Capital Charge
 
-- 1. Excepted transactions and contracts The following transactions and contracts are specified for the purposes of section 226N of these Rules—
+(L.N. 167 of 2023)
+
+- 1. Excepted transactions and contracts The following transactions and contracts are specified for the purposes of section 322J(1) of these Rules—
 
   - (a) OTC derivative transactions and SFTs with a qualifying CCP where the authorized institution concerned is a clearing member of the CCP; (L.N. 44 of 2020)
 
@@ -18,7 +20,7 @@ Transactions and Contracts not Subject to CVA Capital Charge
 
     - (i) the exposures are—
 
-      - (A) credit risk exposures other than default risk exposures in respect of OTC derivative transactions and (if the Monetary Authority requires the institution to calculate a CVA capital charge in respect of its SFTs under section 10A(6) of these Rules) SFTs; or
+      - (A) credit risk exposures other than default risk exposures in respect of OTC derivative transactions and (if the Monetary Authority requires the institution to calculate a CVA risk capital charge in respect of its SFTs under section 322J(2) of these Rules) SFTs; or (L.N. 167 of 2023)
 
       - (B) default risk exposures in respect of OTC derivative transactions and SFTs that fall within paragraph (a), (b), (c), (ca) or (e); and (L.N. 44 of 2020)
 

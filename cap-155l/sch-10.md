@@ -42,14 +42,14 @@ Requirements to be Satisfied for Synthetic Securitization Transaction to be Elig
 
   - (a) the SPE in the securitization transaction concerned may be recognized as a credit protection provider for the purposes of section 98 or 99 if—
 
-    - (i) the SPE owns assets that fall within one or more than one category of asset specified in section 80(1)(a), (b) and (c) and none of the SPE’s assets is a securitization exposure;
+    - (i) the SPE owns assets that fall within one or more than one category of asset specified in sections 79(1) (excluding section 79(1)(o)) and 80(1)(b) and (c) and none of the SPE’s assets is a securitization exposure; (L.N. 167 of 2023)
 
     - (ii) relevant legal documentation provides that the SPE’s assets can be applied to pay any amounts that the SPE may become obliged to pay from time to time to the originating institution pursuant to the credit protection concerned;
 
     - (iii) there are no claims or contingent claims (other than those for administrative fees, operating expenses and other similar payments) that rank senior to, or equally with, the rights of the originating institution receiving payments pursuant to the credit protection; and
 
-    - (iv) the arrangements through which the security interests in the SPE’s assets are granted for the benefit of the originating institution and the control procedures in place, if they were carried out by an authorized institution, would satisfy the requirements under section 77(a), (b), (c), (d), (e), (ea) and (f); and (L.N. 44 of 2020)
+    - (iv) the arrangements through which the security interests in the SPE’s assets are granted for the benefit of the originating institution and the control procedures in place, if they were carried out by an authorized institution, would meet the criteria specified in section 77(2); and (L.N. 44 of 2020; L.N. 167 of 2023)
 
-  - (b) if the underlying exposures concerned consist of securitization exposures, the reference to “a corporate that has an ECAI issuer rating” in sections 98(a)(vi) and 99(1)(b)(vi) is to be construed as a reference to a corporate specified in section 243(3).
+  - (b) if the underlying exposures concerned consist of securitization exposures, the reference to “an entity not listed in subparagraphs (i) to (vii) that has an ECAI issuer rating” in section 99A(2)(a)(viii) is taken to be a reference to an entity specified in section 243(3). (L.N. 167 of 2023)
 
 - (L.N. 175 of 2017)

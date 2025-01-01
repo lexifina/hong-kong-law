@@ -1,6 +1,6 @@
 # Schedule 4F
 
-[ss. 2, 43, 47, 48, 70AAC & 117AD] (L.N. 54 of 2022)
+[ss. 2, 43, 47, 48, 70A & 117F] (L.N. 54 of 2022; L.N. 167 of 2023)
 
 Deduction of Holdings where Authorized Institution has Insignificant LAC Investments in Financial Sector Entities that are outside Scope of Consolidation under Section 3C Requirement
 
@@ -210,13 +210,13 @@ Deduction of Holdings where Authorized Institution has Insignificant LAC Investm
 
     - (d) the institution may, with the prior consent of the Monetary Authority, temporarily exclude certain investments if they have been made in the context of resolving, or providing financial assistance to reorganize, a distressed financial sector entity.
 
-  - (2) For the purposes of subsection (1)(b), an authorized institution must risk-weight the underwriting positions referred to in that subsection in accordance with the applicable risk-weight under Part 4, 5, 6 or 8 of these Rules, as the case requires.
+  - (2) For the purposes of subsection (1)(b), an authorized institution must risk-weight the underwriting positions referred to in that subsection in accordance with one or more of Parts 4, 5, 6 and 8 of these Rules, as the case requires. (L.N. 167 of 2023)
 
   - (3) An authorized institution may, with the prior consent of the Monetary Authority, map the capital instrument referred to in subsection (1)(c) to Additional Tier 1 capital or Tier 2 capital, as appropriate, whichever is of the closest corresponding quality for the purposes of the deduction.
 
 - 5. Undeducted insignificant LAC investments to be risk-weighted
 
-  - (1) The amount of an authorized institution’s holdings of insignificant LAC investments in financial sector entities that are covered either by the 10% threshold or by the 5% threshold and that are not deducted from the institution’s CET1 capital, Additional Tier 1 capital or Tier 2 capital under section 2 or 3 of this Schedule is to continue to be risk-weighted in accordance with the applicable risk-weight under Part 4, 5, 6 or 8 of these Rules, as the case requires.
+  - (1) The amount of an authorized institution’s holdings of insignificant LAC investments in financial sector entities that are covered either by the 10% threshold or by the 5% threshold and that are not deducted from the institution’s CET1 capital, Additional Tier 1 capital or Tier 2 capital under section 2 or 3 of this Schedule is to continue to be risk-weighted in accordance with one or more of Parts 4, 5, 6 and 8 of these Rules, as the case requires. (L.N. 167 of 2023)
 
   - (2) For determining the investments that are covered by the 10% threshold and are subject to risk-weighting, the amount of holdings of the investments must be allocated on a pro rata basis between those below and those above that threshold.
 

@@ -1,6 +1,6 @@
 # Schedule 2A
 
-[ss. 10B, 10D, 226D & 226Q]
+[ss. 10B, 10D & 226D & Sch. 1B] (L.N. 167 of 2023)
 
 Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of these Rules to Use IMM(CCR) Approach
 
@@ -122,19 +122,21 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
 - 2. Specific requirements relating to relevant models Without limiting section 1 of this Schedule, an authorized institution must demonstrate to the satisfaction of the Monetary Authority that—
 
-  - (a) the relevant models specify the forecast of the probability distribution of changes in the market value of a netting set attributable to changes in relevant market factors and calculate the institution’s counterparty default risk exposure for the netting set at each future date given the changes in the market factors;
+  - (a) the relevant models specify the forecast of the probability distribution of changes in the market value of a netting set attributable to changes in relevant market factors and calculate the institution’s counterparty credit risk exposure for the netting set at each future date given the changes in the market factors;
 
-  - (b) the relevant models capture and accurately reflect, on a continuing basis, all material factors affecting counterparty default risk inherent in the institution’s transactions;
+  - (b) the relevant models capture and accurately reflect, on a continuing basis, all material factors affecting counterparty credit risk inherent in the institution’s transactions;
 
   - (c) the relevant models capture transaction specific information in order to aggregate exposures at netting set level;
 
-  - (d) the institution calculates counterparty default risk on the basis of a distribution of exposures that accounts for the possible non-normality of the distribution of exposures;
+  - (d) the institution calculates counterparty credit risk on the basis of a distribution of exposures that accounts for the possible non-normality of the distribution of exposures;
 
-  - (e) the relevant models have a proven track record of acceptable accuracy in measuring counterparty default risk;
+  - (e) the relevant models have a proven track record of acceptable accuracy in measuring counterparty credit risk;
 
   - (f) the relevant models used for pricing options account for the non-linearity of option value with respect to market risk factors; and
 
   - (g) the relevant models are capable of estimating EE on a daily basis (unless the institution is able to otherwise demonstrate to the satisfaction of the Monetary Authority that a less frequent calculation is warranted) and the EE is estimated along a time profile of forecasting horizons that adequately reflects the time structure of future cash flows and maturity of transactions.
+
+- (L.N. 167 of 2023)
 
 - 3. Specific requirements relating to integrity of modelling process Without limiting sections 1 and 2 of this Schedule, an authorized institution must demonstrate to the satisfaction of the Monetary Authority that—
 
@@ -148,7 +150,7 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
     - (i) before including a transaction in a netting set, the transaction is covered by a valid bilateral netting agreement or a valid cross-product netting agreement, as the case may be, and the legal enforceability of the agreement has been verified by legal staff; and
 
-    - (ii) before recognizing the effect of collateral in the calculation of counterparty default risk, the collateral meets the legal certainty standards set out in section 77 of these Rules;
+    - (ii) before recognizing the effect of collateral in the calculation of counterparty credit risk, the collateral meets the legal certainty standards set out in section 77 of these Rules; (L.N. 167 of 2023)
 
   - (e) the institution, when calibrating its relevant models using historical market data—
 
@@ -224,7 +226,7 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
     - (i) who are qualified and trained to do so and who are independent of the staff and management responsible for originating counterparty credit risk and the development of the relevant models; and
 
-    - (ii) whose aim is to ascertain whether the relevant models are conceptually sound, able to capture all material factors affecting counterparty default risk, and continue to perform as intended;
+    - (ii) whose aim is to ascertain whether the relevant models are conceptually sound, able to capture all material factors affecting counterparty credit risk, and continue to perform as intended; (L.N. 167 of 2023)
 
   - (b) the validation referred to in paragraph (a) must meet the following requirements—
 
@@ -232,7 +234,7 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
       - (A) when a relevant model is initially developed and thereafter regularly at a frequency that is adequate to reflect the recent performance of the model; and
 
-      - (B) when any significant changes are made to a relevant model or when there have been significant structural changes in the market or changes to the composition of the institution’s portfolio of exposures that might lead to the relevant model concerned no longer being adequate to capture all material factors affecting counterparty default risk;
+      - (B) when any significant changes are made to a relevant model or when there have been significant structural changes in the market or changes to the composition of the institution’s portfolio of exposures that might lead to the relevant model concerned no longer being adequate to capture all material factors affecting counterparty credit risk; (L.N. 167 of 2023)
 
     - (ii) the validation assesses the accuracy, comprehensiveness and consistency of the relevant models in respect of the results generated by the models at both the institution-wide level and the netting set level;
 
@@ -242,11 +244,11 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
       - (B) define assessment criteria and describe the process by which unacceptable performance will be determined and remedied;
 
-      - (C) ensure that the relevant models cover all factors and products that have a material contribution to counterparty default risk exposure;
+      - (C) ensure that the relevant models cover all factors and products that have a material contribution to counterparty credit risk exposure; (L.N. 167 of 2023)
 
       - (D) ensure that all counterparties for which the relevant models are used are covered by the validation;
 
-      - (E) ensure that both the assumptions and approximations underlying the relevant models are prudent and appropriate for the measurement of the institution’s counterparty default risk exposures; and
+      - (E) ensure that both the assumptions and approximations underlying the relevant models are prudent and appropriate for the measurement of the institution’s counterparty credit risk exposures; and (L.N. 167 of 2023)
 
       - (F) define how representative counterparty portfolios are constructed under paragraph (d)(v) for the purposes of the validation;
 
@@ -266,7 +268,7 @@ Minimum Requirements to be Satisfied for Approval under Section 10B(2)(a) of the
 
       - (B) for collateralized transactions, prediction time horizons that reflect typical margin periods of risk applied in such transactions and long time horizons that are at least one year;
 
-    - (iii) tests the pricing models used to calculate counterparty default risk exposure for a given scenario of future shocks to market risk factors and against appropriate independent benchmarks;
+    - (iii) tests the pricing models used to calculate counterparty credit risk exposure for a given scenario of future shocks to market risk factors and against appropriate independent benchmarks; (L.N. 167 of 2023)
 
     - (iv) verifies that transactions are assigned to an appropriate netting set within the relevant models;
 

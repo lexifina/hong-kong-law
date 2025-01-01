@@ -16,11 +16,13 @@
 
 - (c) the adjusted notional of a derivative contract falling within the asset class of equity-related derivative contracts or commodity-related derivative contracts is—
 
-  - (i) if the underlying exposure of the contract is an equity or a commodity—the product of the current market price of 1 unit of the equity or commodity and the number of units referenced by the contract;
+  - (i) subject to subparagraph (iv), if the underlying exposure of the contract is an equity or a commodity—the product of the current market price of 1 unit of the equity or commodity and the number of units referenced by the contract; (L.N. 167 of 2023)
 
-  - (ii) if the underlying exposure of the contract is an index (including an index on volatility)—the product of the current level of the index and the value of each index point designated in the contract; or
+  - (ii) subject to subparagraph (iv), if the underlying exposure of the contract is an index (including an index on volatility)—the product of the current level of the index and the value of each index point designated in the contract; (L.N. 167 of 2023)
 
-  - (iii) if the contract is a volatility transaction—the product of the current value of the volatility measure specified in the contract and the contractual notional amount of the contract.
+  - (iii) if the contract is a volatility transaction—the product of the current value of the volatility measure specified in the contract and the contractual notional amount of the contract; or (L.N. 167 of 2023)
+
+  - (iv) if the notional amount of the contract is a fixed amount that is expressly stated in the contract—that stated notional amount. (L.N. 167 of 2023)
 
 (2) The supervisory duration of a derivative contract falling within the asset class of interest rate contracts or credit-related derivative contracts is calculated by using Formula 23AZ.
 

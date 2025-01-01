@@ -14,7 +14,7 @@ Transitional Provisions for Banking (Capital) (Amendment) Rules 2020
 
     - (b) the CCP is a CCP in a jurisdiction in which the jurisdiction’s SA-CCR rule is published on or before 30 June 2021; and
 
-    - (c) the earliest date by which any bank subject to the jurisdiction’s SA-CCR rule must begin to use the applicable SA-CCR method to calculate the exposure amount of counterparty default risk (mandatory compliance date) does not fall on a date before 1 July 2021.
+    - (c) the earliest date by which any bank subject to the jurisdiction’s SA-CCR rule must begin to use the applicable SA-CCR method to calculate the exposure amount of counterparty credit risk (mandatory compliance date) does not fall on a date before 1 July 2021. (L.N. 167 of 2023)
 
   - (3) Subsection (1) ceases to apply to a CCP in a jurisdiction on the mandatory compliance date for the jurisdiction’s SA-CCR rule.
 
@@ -26,7 +26,7 @@ Transitional Provisions for Banking (Capital) (Amendment) Rules 2020
 
       - (ii) where a branch of the CCP is involved—the branch is located in the jurisdiction;
 
-    - (b) a law, regulation or directive (however described) of a jurisdiction to implement a calculation method for measuring counterparty default risk exposures of banks based on the standardized approach to counterparty credit risk, set out in the Basel CCR Rules (within the meaning given in section 226V(1)) (Basel SA-CCR approach), is the jurisdiction’s SA-CCR rule;
+    - (b) a law, regulation or directive (however described) of a jurisdiction to implement a calculation method for measuring counterparty credit risk exposures of banks based on the standardized approach to counterparty credit risk, set out in the Basel CCR Rules (within the meaning given in section 226V(1)) (Basel SA-CCR approach), is the jurisdiction’s SA-CCR rule; (L.N. 167 of 2023)
 
     - (c) the Basel SA-CCR approach, or that approach as modified under a jurisdiction’s SA-CCR rule, is the applicable SA-CCR method.
 
