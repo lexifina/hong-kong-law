@@ -360,10 +360,6 @@ Schedule 2 Dangerous Goods
 
 - 1167 | DIVINYL ETHER, STABILIZED / PG I | 3 | None | 25 | 50 | None | None | None
 
-- 1169 | EXTRACTS, AROMATIC, LIQUID / PG II | 3 | None | 25 | 150 | None | 5 | 1
-
-- 1169 | EXTRACTS, AROMATIC, LIQUID / PG III | 3 | None | 25 | 150 | None | 5 | 1
-
 - 1170 | ETHANOL (also known as ETHYL ALCOHOL) or ETHANOL SOLUTION (also known as ETHYL ALCOHOL SOLUTION) / PG II | 3 | None | 25 | 150 | None | 1 | 1 | An aqueous solution containing not more than 24% alcohol by volume is not subject to the Dangerous Goods Ordinance (Cap. 295).
 
 - 1170 | ETHANOL (also known as ETHYL ALCOHOL) or ETHANOL SOLUTION (also known as ETHYL ALCOHOL SOLUTION) / PG III | 3 | None | 25 | 150 | None | 5 | 1 | An aqueous solution containing not more than 24% alcohol by volume is not subject to the Dangerous Goods Ordinance (Cap. 295).
@@ -414,9 +410,9 @@ Schedule 2 Dangerous Goods
 
 - 1196 | ETHYLTRICHLOROSILANE / PG II | 3 | 8 | 25 | 150 | None | None | None
 
-- 1197 | EXTRACTS, FLAVOURING, LIQUID / PG II | 3 | None | 25 | 150 | None | 5 | None
+- 1197 | EXTRACTS, LIQUID / PG II | 3 | None | 25 | 150 | None | 5 | 1 | For flavour or aroma
 
-- 1197 | EXTRACTS, FLAVOURING, LIQUID / PG III | 3 | None | 25 | 150 | None | 5 | None
+- 1197 | EXTRACTS, LIQUID / PG III | 3 | None | 25 | 150 | None | 5 | 1 | For flavour or aroma
 
 - 1198 | FORMALDEHYDE SOLUTION, FLAMMABLE / PG III | 3 | 8 | 25 | 150 | None | 5 | None
 
@@ -1668,7 +1664,7 @@ Schedule 2 Dangerous Goods
 
 - 1889 | CYANOGEN BROMIDE / PG I | 6.1 | 8 | None | None | None | None | None
 
-- 1891 | ETHYL BROMIDE / PG II | 6.1 | None | 10 | 20 | None | 0.1 | None
+- 1891 | ETHYL BROMIDE / PG II | 3 | 6.1 | 25 | 150 | None | 1 | None
 
 - 1892 | ETHYLDICHLOROARSINE / PG I | 6.1 | None | None | None | None | None | None
 
@@ -2648,7 +2644,7 @@ Schedule 2 Dangerous Goods
 
 - 2521 | DIKETENE, STABILIZED / PG I | 6.1 | 3 | None | None | None | None | None
 
-- 2522 | 2-DIMETHYLAMINOETHYL METHACRYLATE / PG II | 6.1 | None | 10 | 20 | None | 0.1 | None
+- 2522 | 2-DIMETHYLAMINOETHYL METHACRYLATE, STABILIZED / PG II | 6.1 | None | 10 | 20 | None | 0.1 | None
 
 - 2524 | ETHYL ORTHOFORMATE / PG III | 3 | None | 25 | 150 | None | 5 | None
 
@@ -4440,7 +4436,9 @@ Schedule 2 Dangerous Goods
 
 - 3535 | TOXIC SOLID, FLAMMABLE, INORGANIC, N.O.S / PG II | 6.1 | 4.1 | 10 | 20 | None | 0.5 | None
 
-- (L.N. 21 of 2021)
+- 3550 | COBALT DIHYDROXIDE POWDER / PG I | 6.1 | None | None | None | None | None | None | Containing not less than 10% respirable particles
+
+- (L.N. 21 of 2021; L.N. 145 of 2024)
 
 - Part 3 Paint Materials Table
 

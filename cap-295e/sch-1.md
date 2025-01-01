@@ -896,7 +896,13 @@ Schedule 1 Dangerous Goods
 
     - 0510 | ROCKET MOTORS | 1.4C
 
-    - (L.N. 21 of 2021)
+    - 0511 | DETONATORS, ELECTRONIC | 1.1B | Programmable for blasting
+
+    - 0512 | DETONATORS, ELECTRONIC | 1.4B | Programmable for blasting
+
+    - 0513 | DETONATORS, ELECTRONIC | 1.4S | Programmable for blasting
+
+    - (L.N. 21 of 2021; L.N. 145 of 2024)
 
   - Division 3 Special Class 9 Dangerous Goods
 
