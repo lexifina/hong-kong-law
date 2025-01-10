@@ -1,6 +1,8 @@
 # Fourth Schedule
 
-[reg. 19]
+[regs. 19 & 72]
+
+(27 of 2024 s. 12)
 
 Speed of Vessels
 
@@ -192,4 +194,6 @@ Speed of Vessels
 
 - 3. The maximum permitted speed under regulation 19(3) is 5 knots.
 
-- 4. The maximum permitted speed under regulation 19(4) is 5 knots. (Fourth Schedule replaced L.N. 107 of 2000)
+- 4. The maximum permitted speed under regulation 19(4) is 5 knots.
+
+(Fourth Schedule replaced L.N. 107 of 2000)

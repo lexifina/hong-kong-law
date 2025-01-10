@@ -1,6 +1,8 @@
 # First Schedule
 
-[regs. 3, 5 & 6]
+[regs. 3, 5, 6 & 72]
+
+(27 of 2024 s. 9)
 
 VHF Channels
 

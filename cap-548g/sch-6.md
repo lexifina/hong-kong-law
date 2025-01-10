@@ -4,25 +4,9 @@
 
 Local Vessels to which Section 81(1) of this Regulation does not Apply
 
-- Part 1 Class II Vessels
+- Part 1 (Repealed 27 of 2024 s. 34)
 
-  - 1. A Class II vessel that—
-
-    - (a) is not a gas carrier;
-
-    - (b) is fitted with an engine that uses gaseous fuel; and
-
-    - (c) is constructed and equipped for the safe use of gaseous fuel.
-
-  - 2. A Class II vessel that—
-
-    - (a) is a gas carrier;
-
-    - (b) is fitted with an engine that uses gaseous fuel; and
-
-    - (c) is constructed and equipped for the safe carrying of liquefied gases in bulk.
-
-- Part 2 Class III Vessels
+- Part 2 (Heading repealed 27 of 2024 s. 34)
 
   - 3. A Class III vessel that falls within paragraph (a) of Schedule 2.
 

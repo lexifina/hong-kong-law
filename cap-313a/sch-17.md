@@ -1,6 +1,8 @@
 # Seventeenth Schedule
 
-[s. 32A]
+[regs. 32A & 72]
+
+(27 of 2024 s. 22)
 
 Tanker Arrival Notice
 

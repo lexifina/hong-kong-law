@@ -1,6 +1,8 @@
 # Fifth Schedule
 
-[regs. 23, 23A, 23B, 23C & 24] (L.N. 140 of 2000; L.N. 69 of 2019)
+[regs. 23, 23A, 23B, 23C, 24 & 72]
+
+(L.N. 140 of 2000; L.N. 69 of 2019; 27 of 2024 s. 13)
 
 Restricted Areas, etc.
 

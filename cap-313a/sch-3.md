@@ -1,6 +1,8 @@
 # Third Schedule
 
-[reg. 2]
+[regs. 2 & 72]
+
+(27 of 2024 s. 11)
 
 Principal Fairways
 

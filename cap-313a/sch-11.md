@@ -1,6 +1,8 @@
 # Eleventh Schedule
 
-[regs. 68 & 69]
+[regs. 68, 69 & 72]
+
+(27 of 2024 s. 19)
 
 - Part I Prohibited Fishing Areas The following areas of the waters of Hong Kong are prohibited fishing areas for the purposes of regulation 68—
 

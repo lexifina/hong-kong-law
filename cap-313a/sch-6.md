@@ -1,6 +1,8 @@
 # Sixth Schedule
 
-[regs. 2 & 23]
+[regs. 2, 23 & 72]
+
+(27 of 2024 s. 14)
 
 Cable Reserves
 

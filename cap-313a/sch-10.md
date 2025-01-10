@@ -1,6 +1,8 @@
 # Tenth Schedule
 
-[regs. 3 & 12B]
+[regs. 3, 12B & 72]
+
+(27 of 2024 s. 18)
 
 Calling-in Points
 

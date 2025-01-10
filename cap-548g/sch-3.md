@@ -212,7 +212,7 @@ Provision of Life-saving Appliances
 
 - Table 4 Class II vessels that operate within river trade limits
 
-- Type of vessel Life-saving appliances | Oil carrier having cargoes with flash point not exceeding 60°C (closed cup test) | Other vessels
+- Type of vessel Life-saving appliances | Vessels having cargoes in bulk with flash point not exceeding 60°C (closed cup test) | Other vessels
 
 - lifebuoy | minimum number per Table 5
 
@@ -232,7 +232,7 @@ Provision of Life-saving Appliances
 
 - rocket parachute flare(4) | 6
 
-- (L.N. 187 of 2016; L.N. 154 of 2019; L.N. 70 of 2020)
+- (L.N. 187 of 2016; L.N. 154 of 2019; L.N. 70 of 2020; 27 of 2024 s. 33)
 
 - Notes:
 
@@ -240,7 +240,7 @@ Provision of Life-saving Appliances
 
   - (2) This only applies to—
 
-    - (a) a dangerous goods carrier, dry cargo vessel, edible oil carrier, noxious liquid substance carrier, oil carrier, special purpose vessel or water boat that—
+    - (a) a dangerous goods carrier, dry cargo vessel, edible oil carrier, gas carrier, noxious liquid substance carrier, oil carrier, special purpose vessel or water boat that— (27 of 2024 s. 33)
 
       - (i) is of 500 gross tonnage or above;
 

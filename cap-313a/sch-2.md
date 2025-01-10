@@ -1,6 +1,8 @@
 # Second Schedule
 
-[regs. 3, 6 & First Schedule]
+[regs. 3 & 72 & First Schedule]
+
+(27 of 2024 s. 10)
 
 VHF Sectors
 

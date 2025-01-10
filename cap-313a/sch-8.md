@@ -1,6 +1,8 @@
 # Eighth Schedule
 
-[reg. 33]
+[regs. 33 & 72]
+
+(27 of 2024 s. 16)
 
 Berthing and Other Signals
 

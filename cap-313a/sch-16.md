@@ -1,6 +1,8 @@
 # Sixteenth Schedule
 
-[reg. 6A]
+[regs. 6A & 72 & Seventeenth Schedule]
+
+(27 of 2024 s. 21)
 
 Information to be Provided to the Director by Notification or Report under Regulation 6A
 

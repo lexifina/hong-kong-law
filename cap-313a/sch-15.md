@@ -1,6 +1,8 @@
 # Fifteenth Schedule
 
-[regs. 3 & 7]
+[regs. 3 & 72]
+
+(27 of 2024 s. 20)
 
 Seaward Limits of the Vessel Traffic Service Coverage
 

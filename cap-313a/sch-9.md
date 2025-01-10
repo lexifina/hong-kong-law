@@ -1,6 +1,8 @@
 # Ninth Schedule
 
-[reg. 38]
+[regs. 38 & 72]
+
+(27 of 2024 s. 17)
 
 Towing Signals
 

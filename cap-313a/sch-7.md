@@ -1,6 +1,8 @@
 # Seventh Schedule
 
-[reg. 2]
+[regs. 2 & 72]
+
+(27 of 2024 s. 15)
 
 Special Anchorages
 
@@ -500,8 +502,6 @@ Special Anchorages
 
   - longitude | 113°59.427΄ | east.
 
-  - (L.N. 303 of 1994)
-
   - (n) South-east Lamma Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
   - (i) | latitude | 22°10.308΄ | north,
@@ -561,6 +561,8 @@ Special Anchorages
   - longitude | 113°52.947΄ | east.
 
   - (L.N. 124 of 2024)
+
+- (L.N. 303 of 1994)
 
 - 4. Naval Anchorage The area of the waters of Hong Kong bounded by lines drawn—
 

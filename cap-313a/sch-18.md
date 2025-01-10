@@ -1,6 +1,8 @@
 # Schedule 18
 
-[reg. 19]
+[regs. 19 & 72]
+
+(27 of 2024 s. 23)
 
 Restricted Zones
 

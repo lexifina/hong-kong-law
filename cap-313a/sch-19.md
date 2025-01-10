@@ -1,6 +1,8 @@
 # Nineteenth Schedule
 
-[reg. 41A]
+[regs. 41A & 72]
+
+(27 of 2024 s. 24)
 
 Prohibited Anchorage Area
 
