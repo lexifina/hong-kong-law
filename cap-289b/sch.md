@@ -394,4 +394,6 @@ Item | Periods | Rate of interest
 
 195. | On or after 2 December 2024 and before 6 January 2025 (L.N. 174 of 2024; L.N. 194 of 2024) | 0.5500% per annum
 
-196. | On or after 6 January 2025 (L.N. 194 of 2024) | 0.4250% per annum
+196. | On or after 6 January 2025 and before 3 February 2025 (L.N. 194 of 2024; L.N. 9 of 2025) | 0.4250% per annum
+
+197. | On or after 3 February 2025 (L.N. 9 of 2025) | 0.3417% per annum
