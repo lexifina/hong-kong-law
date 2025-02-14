@@ -8,6 +8,8 @@ Paris Convention Countries and WTO Member Countries, Territories and Areas
 
 The following are specified for the purposes of the definition of Paris Convention country in section 2(1) as countries which have acceded to the Paris Convention—
 
+The Islamic Republic of Afghanistan
+
 The Republic of Albania
 
 The People’s Democratic Republic of Algeria
@@ -54,13 +56,15 @@ The Republic of Botswana
 
 The Federative Republic of Brazil
 
-Brunei Darussalam
+Negara Brunei Darussalam
 
 The Republic of Bulgaria
 
 The Burkina Faso
 
 The Republic of Burundi
+
+The Republic of Cabo Verde
 
 Kingdom of Cambodia
 
@@ -80,13 +84,13 @@ The Republic of Colombia
 
 Union of the Comoros
 
-The Democratic Republic of Congo
+The Democratic Republic of the Congo
 
-The Republic of Congo
+The Republic of the Congo
 
 The Republic of Costa Rica
 
-The Republic of Cote d’Ivoire
+The Republic of Côte d’Ivoire
 
 The Republic of Croatia
 
@@ -114,6 +118,10 @@ The Republic of Equatorial Guinea
 
 Republic of Estonia
 
+The Kingdom of Eswatini
+
+The Republic of Fiji
+
 The Republic of Finland
 
 The French Republic
@@ -136,7 +144,7 @@ The Republic of Guinea
 
 The Republic of Guinea-Bissau
 
-The Republic of Guyana
+The Cooperative Republic of Guyana
 
 The Republic of Haiti
 
@@ -148,11 +156,11 @@ The Republic of Honduras
 
 Hungary
 
-The Republic of Iceland
+Iceland
 
 The Republic of India
 
-The Republic of Indonesia
+Republic of Indonesia
 
 The Islamic Republic of Iran
 
@@ -174,6 +182,8 @@ The Republic of Kazakhstan
 
 The Republic of Kenya
 
+The Republic of Kiribati
+
 The Democratic People’s Republic of Korea
 
 Republic of Korea
@@ -186,21 +196,19 @@ The Lao People’s Democratic Republic
 
 Republic of Latvia
 
-The Republic of Lebanon
+The Lebanese Republic
 
 The Kingdom of Lesotho
 
 The Republic of Liberia
 
-Libya
+State of Libya
 
 The Principality of Liechtenstein
 
 The Republic of Lithuania
 
 The Grand Duchy of Luxembourg
-
-The Republic of Macedonia
 
 The Republic of Madagascar
 
@@ -230,7 +238,7 @@ The Republic of Mozambique
 
 The Republic of Namibia
 
-The Federal Democratic Republic of Nepal
+Nepal
 
 The Kingdom of the Netherlands
 
@@ -241,6 +249,8 @@ The Republic of Nicaragua
 The Republic of Niger
 
 The Federal Republic of Nigeria
+
+The Republic of North Macedonia
 
 The Kingdom of Norway
 
@@ -282,7 +292,7 @@ The Republic of San Marino
 
 The Democratic Republic of Sao Tome and Principe
 
-The Kingdom of Saudi Arabia
+Kingdom of Saudi Arabia
 
 The Republic of Senegal
 
@@ -308,9 +318,7 @@ The Republic of the Sudan
 
 The Republic of Suriname
 
-The Kingdom of Swaziland
-
-The Kingdom of Sweden
+Sweden
 
 Swiss Confederation
 
@@ -328,7 +336,7 @@ The Republic of Trinidad and Tobago
 
 The Republic of Tunisia
 
-The Republic of Turkey
+Republic of Türkiye
 
 Turkmenistan
 
@@ -350,11 +358,11 @@ Oriental Republic of Uruguay
 
 The Republic of Uzbekistan
 
-The Bolivarian Republic of Venezuela
+Bolivarian Republic of Venezuela
 
 The Socialist Republic of Viet Nam
 
-The Republic of Yemen
+Republic of Yemen
 
 The Republic of Zambia
 
@@ -364,13 +372,7 @@ WTO member countries, territories and areas (not including Paris Convention coun
 
 The following are specified as being countries, territories or areas which have acceded to the World Trade Organisation Agreement—
 
-The Islamic Republic of Afghanistan
-
-The Republic of Cabo Verde
-
 European Union
-
-The Republic of Fiji
 
 The Macao Special Administrative Region
 
@@ -382,6 +384,8 @@ Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
 The Solomon Islands
 
+Democratic Republic of Timor-Leste
+
 The Republic of Vanuatu
 
-(Amended L.N. 341 of 1998; L.N. 66 of 2002; L.N. 217 of 2005; L.N. 252 of 2009; L.N. 62 of 2013; L.N. 68 of 2014; L.N. 121 of 2015; L.N. 16 of 2017)
+(Amended L.N. 341 of 1998; L.N. 66 of 2002; L.N. 217 of 2005; L.N. 252 of 2009; L.N. 62 of 2013; L.N. 68 of 2014; L.N. 121 of 2015; L.N. 16 of 2017; L.N. 169 of 2024)
