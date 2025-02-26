@@ -18,11 +18,11 @@ SCALE 1— (Amended 2 of 2018 s. 11)
 
 Part 1
 
-(a) | where the amount or value of the consideration does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (A) | (a) | $100
+(a) | where the amount or value of the consideration does not exceed $4,000,000 and the instrument is certified in accordance with section 29 at $4,000,000 | (A) | (a) | $100 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(b) | where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,528,240 and the instrument is certified in accordance with section 29 at $3,528,240 | (b) | $100 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000
+(b) | where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,323,780 and the instrument is certified in accordance with section 29 at $4,323,780 | (b) | $100 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(c) | where the amount or value of the consideration exceeds $3,528,240 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29 at $4,500,000 | (c) | 1.5% of the amount or value of the consideration
+(c) | where the amount or value of the consideration exceeds $4,323,780 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29 at $4,500,000 | (c) | 1.5% of the amount or value of the consideration (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
 (d) | where the amount or value of the consideration exceeds $4,500,000 but does not exceed $4,935,480 and the instrument is certified in accordance with section 29 at $4,935,480 | (d) | $67,500 plus 10% of the amount by which the amount or value of the consideration exceeds $4,500,000
 
@@ -50,11 +50,11 @@ Part 2 (Repealed L.N. 231 of 2020 and 2 of 2021 s. 10)
 
 SCALE 2— (Added 14 of 2014 s. 28)
 
-(a) | where the amount or value of the consideration does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (A) | (a) | $100 (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
+(a) | where the amount or value of the consideration does not exceed $4,000,000 and the instrument is certified in accordance with section 29 at $4,000,000 | (A) | (a) | $100 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(b) | where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,528,240 and the instrument is certified in accordance with section 29 at $3,528,240 | (b) | $100 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000 (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
+(b) | where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,323,780 and the instrument is certified in accordance with section 29 at $4,323,780 | (b) | $100 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(c) | where the amount or value of the consideration exceeds $3,528,240 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29 at $4,500,000 | (c) | 1.5% of the amount or value of the consideration (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
+(c) | where the amount or value of the consideration exceeds $4,323,780 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29 at $4,500,000 | (c) | 1.5% of the amount or value of the consideration (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
 (d) | where the amount or value of the consideration exceeds $4,500,000 but does not exceed $4,935,480 and the instrument is certified in accordance with section 29 at $4,935,480 | (d) | $67,500 plus 10% of the amount by which the amount or value of the consideration exceeds $4,500,000 (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
 
@@ -198,11 +198,11 @@ SCALE 1— (Amended 2 of 2018 s. 11)
 
 Part 1
 
-(a) | where the amount or value of the consideration does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (A) | (a) | $100
+(a) | where the amount or value of the consideration does not exceed $4,000,000 and the instrument is certified in accordance with section 29G at $4,000,000 | (A) | (a) | $100 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(b) | where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,528,240 and the instrument is certified in accordance with section 29G at $3,528,240 | (b) | $100 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000
+(b) | where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,323,780 and the instrument is certified in accordance with section 29G at $4,323,780 | (b) | $100 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(c) | where the amount or value of the consideration exceeds $3,528,240 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29G at $4,500,000 | (c) | 1.5% of the amount or value of the consideration
+(c) | where the amount or value of the consideration exceeds $4,323,780 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29G at $4,500,000 | (c) | 1.5% of the amount or value of the consideration (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
 (d) | where the amount or value of the consideration exceeds $4,500,000 but does not exceed $4,935,480 and the instrument is certified in accordance with section 29G at $4,935,480 | (d) | $67,500 plus 10% of the amount by which the amount or value of the consideration exceeds $4,500,000
 
@@ -230,11 +230,11 @@ Part 2 (Repealed L.N. 231 of 2020 and 2 of 2021 s. 10)
 
 SCALE 2— (Added 14 of 2014 s. 28)
 
-(a) | where the amount or value of the consideration does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (A) | (a) | $100 (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
+(a) | where the amount or value of the consideration does not exceed $4,000,000 and the instrument is certified in accordance with section 29G at $4,000,000 | (A) | (a) | $100 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(b) | where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,528,240 and the instrument is certified in accordance with section 29G at $3,528,240 | (b) | $100 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000 (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
+(b) | where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,323,780 and the instrument is certified in accordance with section 29G at $4,323,780 | (b) | $100 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
-(c) | where the amount or value of the consideration exceeds $3,528,240 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29G at $4,500,000 | (c) | 1.5% of the amount or value of the consideration (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
+(c) | where the amount or value of the consideration exceeds $4,323,780 but does not exceed $4,500,000 and the instrument is certified in accordance with section 29G at $4,500,000 | (c) | 1.5% of the amount or value of the consideration (Replaced L.N. 34 of 2025 and 12 of 2025 s. 4)
 
 (d) | where the amount or value of the consideration exceeds $4,500,000 but does not exceed $4,935,480 and the instrument is certified in accordance with section 29G at $4,935,480 | (d) | $67,500 plus 10% of the amount by which the amount or value of the consideration exceeds $4,500,000 (Replaced L.N. 15 of 2023 and 10 of 2023 s. 4)
 
