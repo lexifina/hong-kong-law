@@ -1,6 +1,6 @@
 # First Schedule
 
-[reg. 6]
+[regs. 6 & 40D] (L.N. 178 of 2024)
 
 Overall Dimensions of Vehicles
 
@@ -18,7 +18,7 @@ Light Bus | 7.5 metres | 2.3 metres | 3.0 metres
 
 Bus
 
-Single-decked | 12.0 metres | 2.5 metres | 3.5 metres
+Single-decked | 12.0 metres | 2.5 metres | 4.0 metres
 
 Double-decked | 12.0 metres | 2.5 metres | 4.6 metres
 
@@ -42,4 +42,4 @@ Trailer | 13.5 metres | 2.5 metres | 4.6 metres
 
 Pedestrian-controlled Vehicle | 4.3 metres | 1.6 metres | —
 
-(L.N. 39 of 2020)
+(L.N. 39 of 2020; L.N. 178 of 2024)

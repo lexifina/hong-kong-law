@@ -80,7 +80,7 @@ Direction Indicators
 
         - Provided in either case that the vehicle is not being used, except in a case of emergency, to tow a trailer other than one with less than 4 wheels or a four-wheeled trailer having 2 close-coupled wheels on each side;
 
-      - (ii) in any other case be not less than 80 square centimetres in extent.
+      - (ii) in any other case be not less than 20 square centimetres in extent. (L.N. 178 of 2024)
 
   - 3.
 
@@ -106,11 +106,17 @@ Direction Indicators
 
     - (2) In the case of a vehicle on either side of which two direction indicators are fitted in accordance with paragraph 3 an indicator showing a flashing light to the front may be combined with an electric lamp showing a white light to the front being a lamp required to be carried by or under any enactment provided that—
 
-      - (a) the power of the lamp does not exceed 7 watts; and
+      - (a) if the lamp is fitted with an electric bulb—the power of the lamp does not exceed 7 watts; and
 
-      - (b) the indicator is fitted with a separate electric circuit and either a separate electric bulb or a separate electric filament.
+      - (b) the indicator is fitted with a separate electric circuit and— (L.N. 178 of 2024)
 
-  - 5. The total power of the bulb or bulbs illuminating any indicator carried in compliance with this Part shall be not less than 15 watts and not more than 36 watts.
+        - (i) a separate electric bulb;
+
+        - (ii) a separate electric filament; or
+
+        - (iii) a separate LED module. (L.N. 178 of 2024)
+
+  - 5. If a direction indicator carried in compliance with this Part is fitted with one or more electric bulbs, the rated wattage of the bulb or the total rated wattage of all the bulbs must be not less than 15 watts and not more than 36 watts. (L.N. 178 of 2024)
 
   - 6. Where a vehicle is equipped on any side with direction indicators in respect of which the provisions of paragraphs 1 and 2 are complied with, an additional indicator may be carried on the side at the rear of the vehicle provided that any such indicator complies with the provisions of paragraph 3 of Part I.
 
@@ -176,7 +182,7 @@ Direction Indicators
 
     - (1) One or more additional indicators may be fitted on the side (excluding the front or rear) of any motor vehicle or trailer to which direction indicators have been fitted in accordance with the foregoing provisions of this Part.
 
-    - (2) The requirements of paragraph 13 as to the minimum total rated wattage of the bulb or bulbs illuminating any indicator shall not apply to an additional indicator.
+    - (2) The requirements of paragraph 13(a) as to the minimum rated wattage of the bulb or the minimum total rated wattage of all the bulbs illuminating an indicator does not apply to an additional indicator. (L.N. 178 of 2024)
 
   - 7. Every direction indicator other than a flank indicator or an additional indicator shall be so designed and fitted to a vehicle that the minimum illuminated area showing to the front and the minimum illuminated area showing to the rear in accordance with the diagram relating to that indicator shall be—
 
@@ -184,7 +190,7 @@ Direction Indicators
 
     - (b) not less than 25 square centimetres in extent in the case of a trailer which has less than 4 wheels or is a four-wheeled trailer having 2 close-coupled wheels on each side; and
 
-    - (c) not less than 80 square centimetres in extent in any other case.
+    - (c) not less than 20 square centimetres in extent in any other case. (L.N. 178 of 2024)
 
   - 8. Every direction indicator of a kind to which a diagram in Part IV applies and which is fitted to a vehicle in compliance with this Part shall have an illuminated area of at least 2 square centimetres visible within a reasonable distance at any point between not less than 15 degrees above and not less than 15 degrees below the horizontal throughout at least each inboard angle and at least each outboard angle (excluding any blind angle not exceeding 10 degrees) shown in the diagram relating to that kind of indicator:
 
@@ -202,7 +208,11 @@ Direction Indicators
 
   - 12. A direction indicator fitted to a vehicle in compliance with this Part shall be optically separated from any other lamp carried by the vehicle.
 
-  - 13. Except as provided in paragraph 6(2), the total rated wattage of the bulb or bulbs illuminating any direction indicator fitted to a vehicle in compliance with this Part shall be not less than 15 watts nor more than 36 watts and the rated wattage of each bulb shall be indelibly marked upon the glass or the metal cap thereof in a readily legible manner.
+  - 13. If a direction indicator fitted to a vehicle in compliance with this Part is fitted with one or more electric bulbs, the bulb or bulbs must comply with the following requirements—
+
+    - (a) except as provided in paragraph 6(2), the rated wattage of the bulb or the total rated wattage of all the bulbs must be not less than 15 watts and not more than 36 watts; and
+
+    - (b) the rated wattage of each bulb must be indelibly marked on the glass or metal cap of the bulb in a readily legible manner. (L.N. 178 of 2024)
 
   - 14. Any direction indicator intended to indicate a right hand turn shall be fitted only to the right of the longitudinal axis of the vehicle and one intended to indicate a left hand turn shall be fitted only to the left of that axis.
 
@@ -226,11 +236,13 @@ Direction Indicators
 
       - (i) when in operation it shall show a flashing light;
 
-      - (ii) the total power of the bulb or bulbs illuminating the indicator shall be not less than 15 watts and not more than 36 watts;
+      - (ii) the requirement of paragraph 2A is complied with; (L.N. 178 of 2024)
 
       - (iii) the minimum illuminated area shall be not less than 2 250 square millimetres in extent if the trailer to which it is fitted has less than 4 wheels or is a four-wheeled trailer having 2 close-coupled wheels on each side and not less than 7 740 square millimetres in extent in any other case; and
 
       - (iv) the centre of the illuminated area shall be not more than 400 millimetres nearer to the longitudinal axis of the trailer than is the outermost part of the trailer on the same side.
+
+  - 2A. For the purposes of paragraph 2(b)(ii), if the indicator is fitted with one or more electric bulbs, the rated wattage of the bulb or the total rated wattage of all the bulbs is not less than 15 watts and not more than 36 watts. (L.N. 178 of 2024)
 
   - 3. Every direction indicator shall, when in operation, be visible at a reasonable distance from any point to the rear of the trailer.
 

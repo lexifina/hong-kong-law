@@ -30,7 +30,11 @@ Stop Lamps
 
   - 3. Every stop lamp shall show a steady red light, when the braking system which operates the lamp is applied, visible to the rear of the vehicle at any point between at least 15 degrees above and 15 degrees below the horizontal throughout an angle of at least 45 degrees in the horizontal plane on each side of a line parallel to the longitudinal axis of the vehicle and passing through the centre of the illuminated area of the lamp.
 
-  - 4. The total rating of the filament illuminated in a stop lamp shall not be less than 15 watts nor more than 36 watts and the rated wattage of that filament shall be indelibly marked upon the glass or the metal cap of the filament lamp in a readily legible manner.
+  - 4. For the electric bulb or sealed beam lamp with which a stop lamp is fitted—
+
+    - (a) the rated wattage of the bulb or sealed beam lamp must be not less than 15 watts and not more than 36 watts; and
+
+    - (b) the rated wattage of the bulb or sealed beam lamp must be indelibly marked on its glass or metal cap in a readily legible manner. (L.N. 178 of 2024)
 
   - 5. No part of the illuminated area of a stop lamp shall be less than 400 millimetres or more than 1 500 millimetres above the level of the ground except that the said measurement of 1 500 millimetres may be increased to 2 100 millimetres, if it is not practicable by reason of the structure of the vehicle at its rear for the said measurement of 1 500 millimetres to be complied with.
 
