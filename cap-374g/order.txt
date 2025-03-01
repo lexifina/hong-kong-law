@@ -50,6 +50,7 @@ s-040.md
 s-041.md
 s-041A.md
 s-042.md
+s-042A.md
 s-043.md
 s-044.md
 s-045.md
