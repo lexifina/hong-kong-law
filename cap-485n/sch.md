@@ -15,3 +15,5 @@ Item | Pre-existing scheme | Material day
 4. | SHKP MPF Employer Sponsored Scheme (L.N. 82 of 2024) | 2 October 2024
 
 5. | BEA (MPF) Value Scheme (L.N. 82 of 2024) | 29 October 2024
+
+6. | BEA (MPF) Master Trust Scheme (L.N. 187 of 2024) | 5 March 2025
