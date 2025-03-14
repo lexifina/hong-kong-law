@@ -180,7 +180,7 @@ Item | Body
 
 88. | Aberdeen Kai-fong Welfare Association Limited (Added L.N. 279 of 2008)
 
-89. | Asia-Pacific Institute of Ageing Studies, Lingnan University (Added L.N. 60 of 2009)
+89. | (Repealed L.N. 37 of 2025)
 
 90. | Monita Hair & Beauty Academy (Added L.N. 221 of 2009)
 
@@ -308,7 +308,7 @@ Item | Body
 
 162. | Youth Centre of The True Word Lutheran Church operated by The True Word Lutheran Church Limited (Added L.N. 159 of 2019)
 
-163. | MTR Academy (HK) Company Limited (Added L.N. 93 of 2020)
+163. | (Repealed L.N. 37 of 2025)
 
 164. | Hong Kong International Aviation Academy Limited (Added L.N. 108 of 2022)
 
@@ -319,5 +319,11 @@ Item | Body
 167. | The Hong Kong Society for the Blind (Added L.N. 160 of 2023)
 
 168. | TCHK (Added L.N. 160 of 2023)
+
+169. | Institute of Professional and Vocational Education and Lifelong Learning, The Education University of Hong Kong (Added L.N. 37 of 2025)
+
+170. | HKU School of Professional and Continuing Education (Added L.N. 37 of 2025)
+
+171. | The Hang Seng University of Hong Kong (Added L.N. 37 of 2025)
 
 (Schedule 2 replaced L.N. 269 of 1999)
