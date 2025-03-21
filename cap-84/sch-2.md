@@ -20,11 +20,13 @@ latitude | 22°15.908΄ | north,
 
 longitude | 114°15.814΄ | east.
 
-3. | Lam Kok Tsui (Black Point) in Urmston Road | An area of 0.5 nautical mile radius centred by position
+3. | Lam Kok Tsui (Black Point) in Urmston Road | An area of 1.0 nautical mile radius centred by position
 
 latitude | 22°24.925΄ | north,
 
-longitude | 113°53.347΄ | east.
+longitude | 113°53.347΄ | east. (Amended
+
+L.N. 2 of 2025)
 
 4. | Entrance to Tolo Channel | An area of 0.5 nautical mile radius centred by position
 
