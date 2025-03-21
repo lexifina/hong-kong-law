@@ -230,6 +230,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Anistreplase
 
+- Anlotinib; its salts
+
 - Antihistamine substances, the following; their salts; any compound with any substance falling within this item—
 
 - Antazoline
@@ -316,6 +318,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Avapritinib; its salts
 
+- Avatrombopag; its salts; its esters; their salts
+
 - Avelumab
 
 - Axitinib; its salts
@@ -364,7 +368,9 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Benactyzine; its salts
 
-- Benazepril, its salts
+- Benazepril; its salts
+
+- Benmelstobart
 
 - Benoxaprofen; its salts
 
@@ -928,6 +934,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Dipyridamole
 
+- Diquafosol; its salts
+
 - Disopyramide; its salts
 
 - Distigmine; its salts
@@ -1127,6 +1135,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Etoxeridine; its salts
 
 - Etranacogene dezaparvovec
+
+- Etrasimod; its salts; its esters; their salts
 
 - Etravirine
 
@@ -1422,6 +1432,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Idursulfase
 
+- Idursulfase beta
+
 - Ifosfamide
 
 - Iloprost; its salts
@@ -1549,6 +1561,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Latanoprostene bunod; its salts
 
 - Lead, compounds of, with acids from fixed oils
+
+- Lebrikizumab
 
 - Lecanemab
 
@@ -2030,6 +2044,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Omega-3 fatty acids; their salts; their esters; when contained in pharmaceutical products intended to be used for the treatment of hypertriglyceridaemia
 
+- Omidenepag; its salts; its esters; their salts
+
 - Onasemnogene abeparvovec
 
 - Ondansetron; its salts
@@ -2441,6 +2457,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 - Piroxicam, except when contained in preparations for external application only
 
 - Pirprofen; its salts
+
+- Pirtobrutinib; its salts
 
 - Pitolisant; its salts
 
@@ -3188,6 +3206,8 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Vitamin K and its salts when contained in pharmaceutical products, except products with recommended daily dose of 120 mcg or less of vitamin K1 or K2 or its salts
 
+- Vonoprazan; its salts
+
 - Voriconazole; its salts
 
 - Vortioxetine; its salts
@@ -3238,7 +3258,7 @@ Substances to which Certain Restrictions with respect to the Sale, Supply, Label
 
 - Zoxazolamine; its salts
 
-- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 66; L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025)
+- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 66; L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025)
 
 Division B (L.N. 41 of 2007)
 
