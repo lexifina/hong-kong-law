@@ -6,8 +6,6 @@ Exempt Persons
 
 (Schedule 3 added 25 of 2012 s. 23)
 
-(Note : Amendment made by the Dentists Registration (Amendment) Ordinance 2024 (22 of 2024) to this Schedule is partially commenced—see L.N. 146 of 2024.)
-
 - 1. A certified public accountant as defined by section 2(1) of the Professional Accountants Ordinance (Cap. 50). (Replaced L.N. 66 of 2022)
 
 - 1A. A corporate practice as defined by section 2(1) of the Accounting and Financial Reporting Council Ordinance (Cap. 588). (Added L.N. 66 of 2022)
