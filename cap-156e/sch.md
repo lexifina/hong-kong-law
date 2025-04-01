@@ -10,7 +10,7 @@ Column 1 Item | Column 2 Matter | Column 3 Amount $
 
 (a) full registration under section 9B of the Ordinance | 4,110
 
-*(b) provisional registration under section 7F of the Ordinance | 1,370
+(b) provisional registration under section 7F of the Ordinance | 1,370
 
 (c) limited registration under section 9F of the Ordinance | 4,110
 
