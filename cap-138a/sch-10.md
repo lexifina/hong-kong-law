@@ -1502,6 +1502,8 @@ Poisons List
 
     - Glucagon; its salts
 
+    - Glutathione; its salts; its derivatives; when contained in products for human parenteral administration
+
     - Glutethimide; its salts
 
     - Glycerol phenylbutyrate

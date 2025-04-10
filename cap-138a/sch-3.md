@@ -1260,6 +1260,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Glucagon; its salts
 
+- Glutathione; its salts; its derivatives; when contained in products for human parenteral administration
+
 - Glutethimide; its salts
 
 - Glycerol phenylbutyrate
