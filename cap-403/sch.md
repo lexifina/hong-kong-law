@@ -1,6 +1,8 @@
 # Schedule
 
-[ss. 2 & 17]
+[ss. 2, 3, 4, 5 & 17]
+
+(Amended 7 of 2025 s. 22)
 
 Scheduled Substances
 
@@ -223,3 +225,45 @@ A substance listed in this Schedule includes, except as otherwise stated, the su
 - Chemical Name | Chemical Formula
 
 - Bromochloromethane | CH2BrCl
+
+- Part 10 Hydrofluorocarbons (HFCs) (Part 10 added 7 of 2025 s. 22)
+
+- Column 1 | Column 2 | Column 3
+
+- Item | Chemical Name | Chemical Formula
+
+- 1. | 1,1,2,2-Tetrafluoroethane | CHF2CHF2
+
+- 2. | 1,1,1,2-Tetrafluoroethane | CH2FCF3
+
+- 3. | 1,1,2-Trifluoroethane | CH2FCHF2
+
+- 4. | 1,1,1,3,3-Pentafluoropropane | CHF2CH2CF3
+
+- 5. | 1,1,1,3,3-Pentafluorobutane | CF3CH2CF2CH3
+
+- 6. | 1,1,1,2,3,3,3-Heptafluoropropane | CF3CHFCF3
+
+- 7. | 1,1,1,2,2,3-Hexafluoropropane | CH2FCF2CF3
+
+- 8. | 1,1,1,2,3,3-Hexafluoropropane | CHF2CHFCF3
+
+- 9. | 1,1,1,3,3,3-Hexafluoropropane | CF3CH2CF3
+
+- 10. | 1,1,2,2,3-pentafluoropropane | CH2FCF2CHF2
+
+- 11. | 1,1,1,2,2,3,4,5,5,5-decafluoropentane | CF3CHFCHFCF2CF3
+
+- 12. | Difluoromethane | CH2F2
+
+- 13. | Pentafluoroethane | CHF2CF3
+
+- 14. | 1,1,1-Trifluoroethane | CH3CF3
+
+- 15. | Fluoromethane | CH3F
+
+- 16. | 1,2-Difluoroethane | CH2FCH2F
+
+- 17. | 1,1-Difluoroethane | CH3CHF2
+
+- 18. | Trifluoromethane | CHF3

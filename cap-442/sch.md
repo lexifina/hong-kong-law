@@ -182,7 +182,7 @@ Note: | The Board of Management of the Chinese Permanent Cemeteries is specified
 
 35. | Occupational Safety and Health Ordinance (Cap. 509) | A decision of the Commissioner for Labour under Part III. (Added 39 of 1997 s. 49)
 
-36. | Ozone Layer Protection Ordinance (Cap. 403) | A decision of the Director of Environmental Protection under section 5, 6 or 7 or under provisions of the regulations that may be specified to be subject to an appeal under section 8. (Added 6 of 1997 s. 10)
+36. | Ozone Layer Protection Ordinance (Cap. 403) | A decision of the Director of Environmental Protection under section 5, 6 or 7 or a decision of the Director of Environmental Protection or the Director of Electrical and Mechanical Services under provisions of the regulations that may be specified to be subject to an appeal under section 8. (Added 6 of 1997 s. 10. Amended 7 of 2025 s. 33)
 
 37. | Human Reproductive Technology Ordinance (Cap. 561) | (a) | A determination of the Council on Human Reproductive Technology referred to in section 28(5) to which section 28(6) applies.
 

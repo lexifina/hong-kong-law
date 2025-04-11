@@ -252,6 +252,8 @@ Director of Electrical and Mechanical Services | Aerial Ropeways (Safety) Ordina
 
 Director of Electrical and Mechanical Services | Peak Tramway Ordinance (Cap. 265), section 14A.
 
+Director of Electrical and Mechanical Services | Ozone Layer Protection Ordinance (Cap. 403). (7 of 2025 s. 32)
+
 Director of Electrical and Mechanical Services | Electricity Ordinance (Cap. 406).
 
 Director of Environmental Protection | Waste Disposal Ordinance (Cap. 354), sections 16(1), 17, 19(1) and 36(3).
