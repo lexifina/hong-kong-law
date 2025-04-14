@@ -144,6 +144,16 @@ s-079K.md
 s-079L.md
 s-080.md
 s-081.md
+s-081AA.md
+s-081AAB.md
+s-081AAC.md
+s-081AAD.md
+s-081AAE.md
+s-081AAF.md
+s-081AAG.md
+s-081AAH.md
+s-081AAI.md
+s-081AAJ.md
 s-081A.md
 s-081B.md
 s-081C.md
