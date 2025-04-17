@@ -1,6 +1,6 @@
 # Schedule 6
 
-[ss. 664 & 911]
+[ss. 272C, 664 & 911] (Amended 1 of 2025 s. 22)
 
 Information to be Contained in Annual Return and Documents by which Annual Return must be Accompanied
 

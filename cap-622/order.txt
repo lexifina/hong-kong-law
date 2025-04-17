@@ -271,6 +271,15 @@ s-269.md
 s-270.md
 s-271.md
 s-272.md
+s-272A.md
+s-272B.md
+s-272C.md
+s-272D.md
+s-272E.md
+s-272F.md
+s-272G.md
+s-272H.md
+s-272I.md
 s-273.md
 s-274.md
 s-275.md
@@ -873,6 +882,9 @@ s-830.md
 s-831.md
 s-832.md
 s-833.md
+s-833A.md
+s-833B.md
+s-833C.md
 s-834.md
 s-835.md
 s-836.md
