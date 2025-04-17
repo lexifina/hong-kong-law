@@ -42,7 +42,7 @@ Amounts of Compensation
 
 - Part II Compensation for Total Incapacity An amount equal to the average monthly earnings as defined in Part VII of this Schedule for the period to which the payment relates, rounded up to the nearest $10. (Replaced 4 of 1996 s. 12)
 
-- Part IIA Compensation for Pain, Suffering and Loss of Amenities $5,780. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023)
+- Part IIA Compensation for Pain, Suffering and Loss of Amenities $10,770. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023; L.N. 44 of 2025)
 
 - Part III Compensation for Period Prior to Date of Diagnosis
 
@@ -64,11 +64,11 @@ Amounts of Compensation
 
     - No. of months (月數) means the number of full months, not exceeding 24, in the period from the earliest diagnosed date to the date of diagnosis.
 
-- Part IV Compensation for Care and Attention $5,930. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023)
+- Part IV Compensation for Care and Attention $6,230. (Amended L.N. 567 of 1995; L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023; L.N. 44 of 2025)
 
-- Part V Compensation for Bereavement $238,530. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023)
+- Part V Compensation for Bereavement $249,260. (Amended L.N. 286 of 1998; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023; L.N. 44 of 2025)
 
-- Part VI Funeral Expenses An amount not exceeding $94,690, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023)
+- Part VI Funeral Expenses An amount not exceeding $98,950, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000; L.N. 127 of 2012; L.N. 32 of 2015; L.N. 31 of 2017; L.N. 61 of 2019; L.N. 43 of 2021; L.N. 37 of 2023; L.N. 44 of 2025)
 
 - Part VII Interpretation In this Schedule—
 
