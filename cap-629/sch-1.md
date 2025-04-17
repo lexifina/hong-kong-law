@@ -6,7 +6,7 @@ Specified Control Points
 
 1. | Lo Wu Control Point
 
-2. | Hung Hom Station
+2. | (Repealed L.N. 20 of 2025)
 
 3. | Man Kam To Boundary Control Point
 
@@ -20,7 +20,7 @@ Specified Control Points
 
 8. | Hong Kong International Airport
 
-9. | Tuen Mun Ferry Terminal
+9. | (Repealed L.N. 20 of 2025)
 
 10. | Shenzhen Bay Port Hong Kong Port Area
 
