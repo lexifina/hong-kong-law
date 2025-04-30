@@ -55,3 +55,5 @@ Socialist Republic of Viet Nam | A date in accordance with Article 4 of Chapter 
 10. | Hong Kong, China – Georgia Free Trade Agreement signed on 28 June 2018 (Added L.N. 167 of 2018) | Georgia | A date in accordance with Article 2 of Chapter 18 of the Agreement
 
 11. | Free Trade Agreement between Hong Kong, China and Australia signed on 26 March 2019 (Added L.N. 59 of 2019) | Australia | A date in accordance with Article 20.3 of Chapter 20 of the Agreement
+
+12. | Free Trade Agreement between Hong Kong, China and the Republic of Peru signed on 15 November 2024 (Added L.N. 22 of 2025) | Republic of Peru | A date in accordance with Article 20.4 of Chapter 20 of the Agreement
