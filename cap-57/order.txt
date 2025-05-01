@@ -98,12 +98,15 @@ s-031X.md
 s-031Y.md
 s-031YAA.md
 s-031YA.md
+s-031YB.md
+s-031YC.md
 s-031Z.md
 s-031ZA.md
 s-031ZB.md
 s-031ZC.md
 s-031ZD.md
 s-031ZE.md
+s-031ZEA.md
 s-031ZF.md
 s-031ZG.md
 s-032A.md
@@ -235,5 +238,6 @@ sch-7.md
 sch-8.md
 sch-9.md
 sch-10.md
+sch-11.md
 sch-12.md
 sch-13.md
