@@ -198,7 +198,7 @@ Mandatory Conditions
 
   - (11) A claim referred to in subsection (10) shall be accompanied by evidence satisfactory to the trustee of the relevant scheme that the claimant is a personal representative of the deceased new member concerned of the scheme or any other person specified in the governing rules of the scheme for the purposes of this section.
 
-  - (12) When a new member of a relevant scheme is eligible for severance payment or long service payment under the Employment Ordinance (Cap. 57) upon termination of employment with his employer, the employer may make use of the part of the new member’s minimum MPF benefits derived from the employer’s contributions, including the employer’s portion transferred from another relevant scheme, if any, to offset any such payment.
+  - (12) The minimum MPF benefits of a new member of a relevant scheme may be withdrawn for making a payment under section 70A of the relevant Ordinance. (4 of 2022 s. 34)
 
   - (12A) Subsection (12B) applies if a committee of the estate is appointed in relation to the property and affairs of a new member of a relevant scheme. (1 of 2015 s. 53)
 

@@ -64,10 +64,12 @@ Death of Employer or of Employee
 
   - 13. In relation to the making of a claim by a personal representative of a deceased employee who dies before the end of the period of 1 month beginning with the relevant date, section 31N shall apply with the substitution, for the words “3 months”, of the words “6 months”. (Amended 76 of 1985 s. 9)
 
-  - 14. Subject to this Part of this Schedule, in relation to an employee who has died, any reference in Part VA of this Ordinance to—
+  - 14. Subject to this Part of this Schedule, in relation to an employee who has died, any reference in Part VA of this Ordinance (including that Part as modified by Schedule 11) to— (Amended 4 of 2022 s. 19)
 
     - (a) the doing of anything by, or in relation to, an employee shall be construed as including a reference to the doing of that thing by, or in relation to, any personal representative of the deceased employee; and
 
     - (b) a thing required or authorized to be done by, or in relation to, an employee shall be construed as including a reference to anything which, in accordance with Part VA of this Ordinance as modified by this Part of this Schedule (including sub-paragraph (a)), is required or authorized to be done by, or in relation to, any personal representative of his.
 
-  - 15. Any right of a personal representative of a deceased employee to a severance payment, where that right had not accrued before the employee’s death, shall devolve as if it had accrued before his death. (Third Schedule added 67 of 1974 s. 6)
+  - 15. Any right of a personal representative of a deceased employee to a severance payment, where that right had not accrued before the employee’s death, shall devolve as if it had accrued before his death.
+
+- (Third Schedule added 67 of 1974 s. 6)
