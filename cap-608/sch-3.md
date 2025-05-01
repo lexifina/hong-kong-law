@@ -19,3 +19,5 @@ $34.5 | 1 May 2017 (Added L.N. 10 of 2017)
 $37.5 | 1 May 2019 (Added L.N. 8 of 2019)
 
 $40 | 1 May 2023 (Added L.N. 3 of 2023)
+
+$42.1 | 1 May 2025 (Added L.N. 30 of 2025)
