@@ -404,7 +404,7 @@ Election Committee
 
     - (4) In compiling a provisional register of members of the Election Committee, the Electoral Registration Officer shall—
 
-      - (a) after scrutinizing the existing final register of members of the Election Committee, strike out the names and other relevant particulars of those persons (other than ex-officio members) whom the Electoral Registration Officer is satisfied on reasonable grounds as, on the date of the making of the relevant vacancy declaration— (Amended 10 of 2006 s. 31)
+      - (a) after scrutinizing the existing final register of members of the Election Committee, strike out the names and other relevant particulars of those persons (other than ex-officio members) whom the Electoral Registration Officer is satisfied on reasonable grounds as, on the date of the making of the relevant vacancy declaration or on the date that is 14 days before the date of notice in the Gazette of publication of the provisional register of members of the Election Committee (whichever is earlier)— (Amended 10 of 2006 s. 31; 8 of 2025 s. 35)
 
         - (i) being dead;
 
@@ -1056,9 +1056,9 @@ Election Committee
 
           - (d) the NPC and CPPCC subsector; (Added 14 of 2021 s. 423)
 
-        - subsector final register (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
+        - subsector final register (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b), (1A)(b) or (1AB)(a)(ii); (Amended 33 of 2002 s. 11; 8 of 2025 s. 36)
 
-        - subsector provisional register (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a) or (1A)(a); (Amended 33 of 2002 s. 11)
+        - subsector provisional register (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a), (1A)(a) or (1AB)(a)(i); (Amended 33 of 2002 s. 11; 8 of 2025 s. 36)
 
         - voter (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
 
@@ -1144,7 +1144,11 @@ Election Committee
 
             - (A) is a specified entity of that subsector; and (Replaced 14 of 2021 s. 425)
 
-            - (B) where the person is a natural person, is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
+            - (B) where the person is a natural person—
+
+              - (I) is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; and
+
+              - (II) has reached 18 years of age by the date of publication of the subsector final register; or (Replaced 8 of 2025 s. 37)
 
           - (ii) the person—
 
@@ -1261,6 +1265,16 @@ Election Committee
         - (a) a provisional register required to be compiled and published under subsection (1)(a) for 2021 must be compiled and published not later than 18 July 2021; and
 
         - (b) a final register required to be compiled and published under subsection (1)(b) for 2021 must be compiled and published not later than 5 August 2021. (Replaced 14 of 2021 s. 427)
+
+      - (1AB) Despite subsection (1), if a subsector provisional register and a subsector final register are required to be compiled and published in a year in which a general election is also held under the Legislative Council Ordinance (Cap. 542)—
+
+        - (a) the Electoral Registration Officer may, by notice published in the Gazette, do any of the following—
+
+          - (i) specify an earlier date in the year by which the subsector provisional register must be so compiled and published;
+
+          - (ii) specify an earlier date in the year by which the subsector final register must be so compiled and published; and
+
+        - (b) the register concerned must be compiled and published not later than the earlier date so specified. (Added 8 of 2025 s. 38)
 
       - (1B)-(1C) (Repealed 14 of 2021 s. 427)
 
@@ -2194,7 +2208,7 @@ Election Committee
 
         - (b) a black rainstorm warning day as defined by section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1); or
 
-        - (b) a gale warning day as defined by that section.
+        - (c) a gale warning day as defined by that section.
 
   - (Added 14 of 2021 s. 442)
 
