@@ -152,20 +152,44 @@ Column 1 (section) | Column 2 (prescribed percentage or prescribed amount)
 
 1. | Salaries tax
 
-(a) section 100(1)(a) | 100%
+(a) | section 100(1)(a) | 100%
 
-(b) section 100(1)(b) | $3,000
+(b) | section 100(1)(b) | $3,000
 
 2. | Profits tax
 
-(a) section 100(2)(a) | 100%
+(a) | section 100(2)(a) | 100%
 
-(b) section 100(2)(b) | $3,000
+(b) | section 100(2)(b) | $3,000
 
 3. | Tax under personal assessment
 
-(a) section 100(4)(a) | 100%
+(a) | section 100(4)(a) | 100%
 
-(b) section 100(4)(b) | $3,000
+(b) | section 100(4)(b) | $3,000
 
 (Added 10 of 2024 s. 18)
+
+For the year of assessment 2024/25
+
+Column 1 (section) | Column 2 (prescribed percentage or prescribed amount)
+
+1. | Salaries tax
+
+(a) | section 100(1)(a) | 100%
+
+(b) | section 100(1)(b) | $1,500
+
+2. | Profits tax
+
+(a) | section 100(2)(a) | 100%
+
+(b) | section 100(2)(b) | $1,500
+
+3. | Tax under personal assessment
+
+(a) | section 100(4)(a) | 100%
+
+(b) | section 100(4)(b) | $1,500
+
+(Added 10 of 2025 s. 5)

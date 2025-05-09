@@ -1,6 +1,6 @@
 # Schedule 17FD
 
-[ss. 14, 19CA, 40AY, 40AZ, 51C, 63H, 80 & 82A]
+[ss. 14, 19CA, 40AY, 40AZ, 51C, 63H, 80, 82A & 100] (Amended 10 of 2025 s. 4)
 
 Eligible IP Income: Concessionary Tax Treatment and Nexus Requirement for Ascertaining Concessionary Portion
 
