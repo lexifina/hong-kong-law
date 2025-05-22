@@ -500,7 +500,7 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 79. | Small Unmanned Aircraft Order (Cap. 448 sub. leg. G) (Amended E.R. 5 of 2022) | A decision of the Director-General of Civil Aviation in a review under section 61(3). (Added L.N. 115 of 2021)
 
-80. | Construction Industry Security of Payment Ordinance (35 of 2024) | A decision of the Secretary for Development—
+80. | Construction Industry Security of Payment Ordinance (Cap. 652) (Amended E.R. 1 of 2025) | A decision of the Secretary for Development—
 
 (a) | to refuse to register a body corporate as a nominating body under section 62(2)(a);
 

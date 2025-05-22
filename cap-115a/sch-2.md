@@ -28,7 +28,7 @@ Fees Payable under the Ordinance
 
     - specified scheme (指明計劃) means an admission scheme specified by the Director of Immigration under regulation 11(6);
 
-    - specified scheme application (指明計劃申請) means an application made under a specified scheme at or after the time at which the Immigration (Amendment) Regulation 2025 comes into operation* for seeking—
+    - specified scheme application (指明計劃申請) means an application made under a specified scheme at or after the time at which the Immigration (Amendment) Regulation 2025 (L.N. 33 of 2025) comes into operation* for seeking— (E.R. 1 of 2025)
 
       - (a) an ordinary visa;
 
@@ -38,7 +38,7 @@ Fees Payable under the Ordinance
 
   - Editorial Note:
 
-  - * Operation time: 26 February 2025 11 a.m.
+  - * Operation time: 11 a.m. on 26 February 2025.
 
 - Part 2 Fees (L.N. 33 of 2025)
 

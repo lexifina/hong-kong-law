@@ -1,5 +1,7 @@
 Mandatory Provident Fund Schemes (Appointment of Dates for Purposes of Section 19Y(3)) Notice
 
-(Made by the Secretary for Financial Services and the Treasury under section 19ZE of the Mandatory Provident Fund Schemes Ordinance (Cap. 485))
+(Cap. 485, section 19ZE)
+
+(Enacting provision omitted—E.R. 1 of 2025)
 
 [26 September 2024]
