@@ -12,7 +12,11 @@
 
 - intended OFC (籌劃中公司), in relation to a non-Hong Kong fund corporation, means the re-domiciled OFC that the corporation is intended to become on the re-domiciliation date;
 
-- non-Hong Kong fund corporation (非香港基金法團) means a collective investment scheme constituted as a corporation that is incorporated outside Hong Kong as at the application date;
+- non-Hong Kong fund corporation (非香港基金法團)—
+
+  - (a) means a collective investment scheme constituted as a corporation that is incorporated outside Hong Kong as at the application date; but
+
+  - (b) does not include a re-domiciled company; (Replaced 14 of 2025 s. 244)
 
 - place of incorporation (成立地), in relation to a non-Hong Kong fund corporation, means—
 

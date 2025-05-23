@@ -26,9 +26,9 @@ Minimum Criteria for Authorization
 
     - (b) to hold any similar opinion or to be similarly satisfied, as the case may be, in respect of any similar matter which directly or indirectly relates to any other company seeking or having the same or a different authorization from that first-mentioned company.
 
-  - (4) Without prejudice to the generality of subparagraph (3), the Monetary Authority may regard himself as being satisfied in relation to any matter in respect of which he may be satisfied pursuant to the provisions of this Schedule where—
+  - (4) Without prejudice to the generality of subparagraph (3), the Monetary Authority may regard the Authority as being satisfied in relation to any matter in respect of which the Authority may be satisfied pursuant to the provisions of this Schedule where— (Amended 14 of 2025 s. 173)
 
-    - (a) the matter directly or indirectly relates to a company incorporated outside Hong Kong;
+    - (a) the matter directly or indirectly relates to a company incorporated outside Hong Kong that is not a re-domiciled entity; (Amended 14 of 2025 s. 173)
 
     - (b) the relevant banking supervisory authority informs the Monetary Authority that it is satisfied in relation to that matter; and
 
@@ -40,7 +40,7 @@ Minimum Criteria for Authorization
 
 - (Amended 19 of 2005 s. 7)
 
-- 2. If the company is incorporated outside Hong Kong, it is a bank—
+- 2. If the company is incorporated outside Hong Kong but is not a re-domiciled entity, it is a bank— (Amended 14 of 2025 s. 173)
 
   - (a) as defined in section 46(9); and
 
@@ -48,15 +48,15 @@ Minimum Criteria for Authorization
 
 - 3. The Monetary Authority is satisfied that he knows the identity of each controller of the company.
 
-- 4. If the company is incorporated in Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be, a director, controller, chief executive or executive officer of the company is a fit and proper person to hold the particular position which he holds or is to hold. (Amended 6 of 2002 s. 14)
+- 4. If the company is incorporated in Hong Kong or is a re-domiciled entity, the Monetary Authority is satisfied that each person who is, or is to be, a director, controller, chief executive or executive officer of the company is a fit and proper person to hold the particular position which that person holds or is to hold. (Amended 6 of 2002 s. 14; 14 of 2025 s. 173)
 
-- 5. If the company is incorporated outside Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be—
+- 5. If the company is incorporated outside Hong Kong but is not a re-domiciled entity, the Monetary Authority is satisfied that each person who is, or is to be— (Amended 14 of 2025 s. 173)
 
   - (a) a chief executive, or executive officer, of the business in Hong Kong of the company; (Amended 6 of 2002 s. 14)
 
   - (b) a director, controller or chief executive of the business of the company in the place where it is incorporated,
 
-- is a fit and proper person to hold the particular position which he holds or is to hold.
+- is a fit and proper person to hold the particular position which that person holds or is to hold. (Amended 14 of 2025 s. 173)
 
 - 5A. The Monetary Authority is satisfied that the company has, and will if it is authorized continue to have, adequate systems of control to ensure that each person who is, or is to be, a manager of the company is a fit and proper person to hold the particular position which he holds or is to hold. (Added 32 of 2001 s. 27)
 
@@ -68,7 +68,7 @@ Minimum Criteria for Authorization
 
   - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, the aggregate amount of its paid-up share capital and the balance of its share premium account (if any) is not less than $100,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
-  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization comply with the rules made under section 97C(1) applicable to it. (Amended L.N. 431 of 1997; 19 of 2005 s. 7; 3 of 2012 s. 18)
+  - (d) in the case of a company that is incorporated in Hong Kong or is a re-domiciled entity, the company, if it is authorized, will on and after authorization comply with the rules made under section 97C(1) applicable to it. (Amended L.N. 431 of 1997; 19 of 2005 s. 7; 3 of 2012 s. 18; 14 of 2025 s. 173)
 
   - (e) (Repealed 19 of 2005 s. 7)
 
@@ -86,7 +86,7 @@ Minimum Criteria for Authorization
 
 - 10. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate accounting systems and adequate systems of control.
 
-- 11. If the company is incorporated in Hong Kong, the Monetary Authority is satisfied that it presently discloses, and will if it is authorized continue to disclose, adequate information—
+- 11. If the company is incorporated in Hong Kong or is a re-domiciled entity, the Monetary Authority is satisfied that it presently discloses, and will if it is authorized continue to disclose, adequate information— (Amended 14 of 2025 s. 173)
 
   - (a) in relation to the state of its affairs, including its profit and loss and its financial resources (including capital resources and liquidity resources); and (Amended 19 of 2005 s. 7; 3 of 2012 s. 18)
 
@@ -106,7 +106,7 @@ Minimum Criteria for Authorization
 
   - (b) in a manner which is not detrimental, or likely to be detrimental, to the interests of depositors or potential depositors.
 
-- 13. If the company seeking authorization to carry on banking business in Hong Kong is a company incorporated in a place outside Hong Kong, either—
+- 13. If the company seeking authorization to carry on banking business in Hong Kong is a company incorporated in a place outside Hong Kong but is not a re-domiciled entity, either— (Amended 14 of 2025 s. 173)
 
   - (a) there is, in the opinion of the Monetary Authority, an acceptable degree of reciprocity in respect of banks incorporated in Hong Kong seeking to carry on banking business in that place; or
 

@@ -1,14 +1,12 @@
 # Nineteenth Schedule
 
-[sections 38AA, 38B,
-
-342AA & 360]
+[sections 38AA, 38B, 342AA & 360]
 
 (Amended 8 of 2011 s. 23)
 
-Contents and Publication Requirements of Advertisements Mentioned in Section 38b(2)(e) of this Ordinance
+Contents and Publication Requirements of Advertisements Mentioned in Section 38B(2)(e) of this Ordinance
 
-(Nineteenth Schedule added 30 of 2004 s. 2) (Format changes—E.R. 1 of 2014)
+(Nineteenth Schedule added 30 of 2004 s. 2. Amended 14 of 2025 s. 113) (Format changes—E.R. 1 of 2014)
 
 - 1. Contents of advertisement
 
@@ -22,7 +20,7 @@ Contents and Publication Requirements of Advertisements Mentioned in Section 38b
 
   - (2) The advertisement may contain the following discretionary particulars but, subject to section 38B(2AA) of this Ordinance, no other discretionary particulars—
 
-    - (a) the name of the company to which the advertisement relates and the place of incorporation of the company;
+    - (a) the name of the company to which the advertisement relates, the place of incorporation of the company, and if the company has, after its incorporation, changed its place of domicile on one or more occasions, its place of domicile on each occasion; (Amended 14 of 2025 s. 113)
 
     - (b) a description of the shares or debentures offered or proposed to be offered;
 

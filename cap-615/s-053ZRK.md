@@ -16,7 +16,7 @@
 
   - (i) a company as defined by section 2(1) of the Companies Ordinance (Cap. 622); or
 
-  - (ii) a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622); and
+  - (ii) a registered non-Hong Kong company; and (Amended 14 of 2025 s. 270)
 
 - (b) the Commission is satisfied that—
 

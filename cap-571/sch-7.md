@@ -26,7 +26,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - (b) particulars of any restriction in the constitution, by whatever name called, of the body in question on the right to transfer the securities, that has the effect of requiring the offerees, before transferring the securities, to offer those securities for purchase to any member of the body or to any other person and, where there is any such restriction, the arrangements (if any) being made to enable the securities to be transferred in pursuance of the offer.
 
-  - 3. If any requirement set out in sections 1 and 2 cannot be satisfied because any of the information and particulars required are not available, or because any of the matters covered by the requirement are not applicable to the body in question, the offer shall instead state that fact and the reasons therefor; and if the body in question is a corporation incorporated in Hong Kong but any of the information and particulars required under section 2 are not available in the returns of the corporation filed with the Registrar of Companies, the offer shall also state that fact.
+  - 3. If any requirement set out in sections 1 and 2 cannot be satisfied because any of the information and particulars required are not available, or because any of the matters covered by the requirement are not applicable to the body in question, the offer must instead state that fact and the reasons for that fact; and if the body in question is a corporation incorporated in Hong Kong, or a re-domiciled company, but any of the information and particulars required under section 2 are not available in the returns of the corporation filed with the Registrar of Companies, the offer must also state that fact. (Amended 14 of 2025 s. 250)
 
   - 4. The offer shall contain in a prominent position—
 
@@ -88,7 +88,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
       - (ii) the address of its registered or principal office in Hong Kong; and
 
-      - (iii) where the corporation has been incorporated outside Hong Kong, the address of its registered or principal office in the country or territory in which it is incorporated or is resident;
+      - (iii) if the corporation is incorporated outside Hong Kong and is not a re-domiciled company, the address of its registered or principal office in the country or territory in which it is incorporated or is resident; (Amended 14 of 2025 s. 250)
 
     - (b)
 
@@ -208,7 +208,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
       - (iii) whether or not application for permission to have the securities listed or quoted has been or will be made to any stock market, whether a recognized stock market or any other stock market outside Hong Kong, and, if such an application has been made, the name of the stock market to which the application has been made.
 
-  - 7. If any requirement set out in sections 1 to 6 cannot be satisfied because any of the information, particulars and documents required are not available, or because any of the matters covered by the requirement are not applicable to the body in question, the offer shall instead state that fact and the reasons therefor; and if the body in question is a corporation incorporated in Hong Kong but any of the information, particulars and documents required under sections 2 to 6 are not available in the returns of the corporation filed with the Registrar of Companies, the offer shall also state that fact.
+  - 7. If any requirement set out in sections 1 to 6 cannot be satisfied because any of the information, particulars and documents required are not available, or because any of the matters covered by the requirement are not applicable to the body in question, the offer must instead state that fact and the reasons for that fact; and if the body in question is a corporation incorporated in Hong Kong, or a re-domiciled company, but any of the information, particulars and documents required under sections 2 to 6 are not available in the returns of the corporation filed with the Registrar of Companies, the offer must also state that fact. (Amended 14 of 2025 s. 250)
 
   - 8. The offer shall contain in a prominent position—
 

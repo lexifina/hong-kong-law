@@ -232,6 +232,12 @@ Interpretation
 
     - recognized stock market (認可證券市場) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added 4 of 2018 s. 25)
 
+    - re-domiciled company (經遷冊公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Added 14 of 2025 s. 272)
+
+    - re-domiciled entity (經遷冊實體) means a re-domiciled company that is deregistered as required by section 820E(3)(a) of the Companies Ordinance (Cap. 622); (Added 14 of 2025 s. 272)
+
+    - registered non-Hong Kong company (註冊非香港公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Added 14 of 2025 s. 272)
+
     - Registrar (處長) means—
 
       - (a) the Registrar of Companies; or

@@ -120,4 +120,12 @@ Qualifying Criteria to be Met to be Tier 2 Capital
 
 - (L.N. 222 of 2018)
 
+- 4. Interpretation of certain expressions in section 1(k)(v) and (vi)
+
+  - (1) In section 1(k)(v), a reference to an overseas subsidiary of an authorized institution does not include a subsidiary of the institution that is a re-domiciled entity.
+
+  - (2) In section 1(k)(vi), a reference to a Hong Kong subsidiary of an overseas banking group includes a subsidiary of the banking group that is a re-domiciled entity.
+
+- (14 of 2025 s. 181)
+
 (Schedule 4C added L.N. 156 of 2012)

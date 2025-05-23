@@ -43,6 +43,13 @@ s-040.md
 s-041.md
 s-042.md
 s-043.md
+s-043A.md
+s-043B.md
+s-043C.md
+s-043D.md
+s-043E.md
+s-043F.md
+s-043G.md
 s-044.md
 s-045.md
 s-045A.md
@@ -73,6 +80,7 @@ s-059.md
 s-059A.md
 s-059B.md
 s-060.md
+s-060AA.md
 s-060A.md
 s-061.md
 s-062.md

@@ -16,6 +16,10 @@ Associated Entities—Prescribed Particulars
 
   - (d) the date and place of its incorporation;
 
+  - (da) its place of domicile, and the date beginning on which that place has been its place of domicile; (Added 14 of 2025 s. 274)
+
+  - (db) each of its former places of domicile (if any), and the period during which that place was its place of domicile; (Added 14 of 2025 s. 274)
+
   - (e) its telephone and fax number, electronic mail address and website address (if any);
 
   - (f) each of the following addresses, together with its effective date—

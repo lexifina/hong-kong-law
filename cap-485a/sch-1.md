@@ -266,7 +266,7 @@ Investment of Scheme Funds
 
     - but only in accordance with this section.
 
-    - (1A) The funds of a constituent fund must not be placed on deposit with a branch outside Hong Kong of an authorized financial institution incorporated outside Hong Kong unless the authorized financial institution satisfies a minimum credit rating set by the Authority, based on the credit rating of the authorized financial institution as determined by an approved credit rating agency. (L.N. 145 of 2006)
+    - (1A) The funds of a constituent fund must not be placed on deposit with a branch outside Hong Kong of an authorized financial institution incorporated outside Hong Kong that is not a re-domiciled entity unless the authorized financial institution satisfies a minimum credit rating set by the Authority, based on the credit rating of the authorized financial institution as determined by an approved credit rating agency. (L.N. 145 of 2006; 14 of 2025 s. 239)
 
     - (2) The funds of a constituent fund must not be placed on deposit with an authorized financial institution or an eligible overseas bank if the total amount so placed would be more than 10 per cent of the issued capital and reserves of the institution or bank. (L.N. 145 of 2006)
 
@@ -372,7 +372,7 @@ Investment of Scheme Funds
 
       - (b) the period of the contract is not more than 12 months.
 
-    - (2A) A currency forward contract must not be acquired from a branch outside Hong Kong of an authorized financial institution incorporated outside Hong Kong unless the authorized financial institution satisfies a minimum credit rating set by the Authority, based on the credit rating of the authorized financial institution as determined by an approved credit rating agency. (L.N. 145 of 2006)
+    - (2A) A currency forward contract must not be acquired from a branch outside Hong Kong of an authorized financial institution incorporated outside Hong Kong that is not a re-domiciled entity unless the authorized financial institution satisfies a minimum credit rating set by the Authority, based on the credit rating of the authorized financial institution as determined by an approved credit rating agency. (L.N. 145 of 2006; 14 of 2025 s. 239)
 
     - (3) (Repealed 29 of 2002 s. 14)
 

@@ -1,6 +1,6 @@
 # 23AAAC. Adjustment to assessable profits due to change in insurance capital requirements: election
 
-(1) Subject to subsections (3) and (4) and despite sections 23(1) and 23AAA(1)—
+(1) Subject to subsections (3) and (4) and despite sections 23(1) and 23AAA(1) and sections 7, 8, 9 and 10 of Schedule 17L— (Amended 14 of 2025 s. 148)
 
 - (a) if, for the material year of assessment of a corporation, an election under section 23(1)(b) is effective in relation to the corporation—
 

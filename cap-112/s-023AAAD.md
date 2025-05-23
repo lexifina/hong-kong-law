@@ -1,8 +1,8 @@
 # 23AAAD. Adjustment to assessable profits due to change in insurance capital requirements: life insurance business
 
-(1) The assessable profits of a corporation from its life insurance business for its material year of assessment are ascertained by deducting four-fifths of the specified amount from the assessable profits as ascertained in accordance with section 23(4), (4A), (4B), (5) and (7) for that year of assessment.
+(1) The assessable profits of a corporation from its life insurance business for its material year of assessment are ascertained by deducting four-fifths of the specified amount from the assessable profits as ascertained under section 23(4), (4A), (4B), (5) and (7) for that year of assessment. (Amended 14 of 2025 s. 149)
 
-(2) Subject to subsection (3), the assessable profits of the corporation from its life insurance business for each of the 4 consecutive years of assessment next following its material year of assessment are ascertained by adding one-fifth of the specified amount to the assessable profits as ascertained in accordance with section 23(4), (4A), (4B), (5) and (7) for the year of assessment concerned.
+(2) Subject to subsection (3), the assessable profits of the corporation from its life insurance business for each of the 4 consecutive years of assessment next following its material year of assessment are ascertained by adding one-fifth of the specified amount to the assessable profits as ascertained under section 23(4), (4A), (4B), (5) and (7) for the year of assessment concerned. (Amended 14 of 2025 s. 149)
 
 (3) If the corporation ceases to carry on life insurance business in Hong Kong at any time in the basis period for any year of assessment (cessation year) among the 3 consecutive years of assessment next following its material year of assessment, the portion of the specified amount that is required to be added to the assessable profits of the corporation for a year of assessment after the cessation year (subsequent year) under subsection (2) is to be added to the assessable profits of the corporation for the cessation year (instead of the subsequent year).
 

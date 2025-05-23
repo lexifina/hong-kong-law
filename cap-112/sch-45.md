@@ -1,6 +1,6 @@
 # Schedule 45
 
-[ss. 4, 15, 16, 16B, 37, 37A, 39B, 40, 40AO & 40AT & Schs. 17FC, 17FD & 17J] (Amended 18 of 2021 s. 20; 17 of 2022 s. 16; 17 of 2024 s. 14)
+[ss. 4, 15, 16, 16B, 37, 37A, 39B, 40, 40AO & 40AT & Schs. 17FC, 17FD, 17J & 17L] (Amended 18 of 2021 s. 20; 17 of 2022 s. 16; 17 of 2024 s. 14; 14 of 2025 s. 155)
 
 Deduction of R&D Expenditures
 
@@ -149,6 +149,8 @@ Deduction of R&D Expenditures
       - (a) a payment referred to in section 6(1)(a) or (b) of this Schedule made by the person;
 
       - (b) an expenditure referred to in section 6(1)(c) of this Schedule incurred by the person.
+
+    - (3) This section applies, subject to section 5 of Schedule 17L, to a person that is a re-domiciled company. (Added 14 of 2025 s. 155)
 
   - 8. Meaning of Type A expenditure A Type A expenditure, in relation to a trade, profession or business in respect of which a person is chargeable to tax under Part 4, is—
 

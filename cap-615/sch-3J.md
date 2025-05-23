@@ -64,7 +64,11 @@ Information to be Provided in Cash Transaction Report
 
           - (ii) address of the principal place of business of the person;
 
-          - (iii) if the person is a corporation, address of the registered office (or its equivalent) of the person in its place of incorporation;
+          - (iii) for a person that is a corporation—
+
+            - (A) subject to sub-subparagraph (B)—address of the registered office (or its equivalent) of the person in its place of incorporation; or
+
+            - (B) if the person has changed its place of domicile after its incorporation—address of the registered office (or its equivalent) of the person in its latest place of domicile; (Replaced 14 of 2025 s. 275)
 
           - (iv) the following particulars of each individual acting on behalf of the person in the transaction—
 

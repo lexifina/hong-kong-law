@@ -343,6 +343,7 @@ s-040AW.md
 s-040AX.md
 s-040AY.md
 s-040AZ.md
+s-040AZA.md
 s-040B.md
 s-041.md
 s-042.md
@@ -583,6 +584,7 @@ sch-17H.md
 sch-17I.md
 sch-17J.md
 sch-17K.md
+sch-17L.md
 sch-18.md
 sch-19.md
 sch-20.md

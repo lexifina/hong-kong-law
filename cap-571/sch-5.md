@@ -342,17 +342,17 @@ Regulated Activities
 
     - (vi) enters into a market contract;
 
-    - (vii) issues a prospectus which complies with, or is exempt from compliance with, Part II of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance; (Amended 28 of 2012 ss. 912 & 920)
+    - (vii) issues a prospectus which complies with, or is exempt from compliance with, Part II of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong that is not a re-domiciled company, Part XII of that Ordinance; (Amended 28 of 2012 ss. 912 & 920; 14 of 2025 s. 249)
 
     - (viii) issues a document relating to the securities of a corporation incorporated in Hong Kong which is not a company, being a document which—
 
       - (A) would, if the corporation were a company, be a prospectus to which section 38 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) applies, or would apply if not excluded by section 38(5)(b) or 38A of that Ordinance; and (Amended 28 of 2012 ss. 912 & 920)
 
-      - (B) contains all the matters which, under Part XII of that Ordinance, would be required to contain if the corporation were a corporation incorporated outside Hong Kong and the document were a prospectus issued by the corporation;
+      - (B) contains all the matters which, under Part XII of that Ordinance, would be required to contain if the corporation were a corporation incorporated outside Hong Kong that is not a re-domiciled company and the document were a prospectus issued by the corporation; (Amended 14 of 2025 s. 249)
 
     - (ix) issues a form of application for the shares or debentures of a corporation, together with—
 
-      - (A) a prospectus which complies with, or is exempt from compliance with, Part II of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance; or (Amended 28 of 2012 ss. 912 & 920)
+      - (A) a prospectus which complies with, or is exempt from compliance with, Part II of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong that is not a re-domiciled company, Part XII of that Ordinance; or (Amended 28 of 2012 ss. 912 & 920; 14 of 2025 s. 249)
 
       - (B) in the case of a corporation incorporated in Hong Kong which is not a company, a document which contains the matters specified in paragraph (viii)(B);
 

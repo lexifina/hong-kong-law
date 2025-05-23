@@ -60,6 +60,8 @@ Grounds for Revocation of Authorization
 
 - 21. The authorized institution has failed to comply with any requirement under the Deposit Protection Scheme Ordinance (Cap. 581) applicable to the institution. (Added 7 of 2004 s. 55)
 
+- 22. The authorized institution contravenes section 43C(1). (Added 14 of 2025 s. 174)
+
 Editorial Note:
 
 * | The operation of this paragraph is affected by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002). See the transitional provision in section 2 of that Notice.

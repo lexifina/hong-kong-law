@@ -141,6 +141,7 @@ s-020ZR.md
 s-020ZS.md
 s-020ZT.md
 s-020ZU.md
+s-020ZUA.md
 s-020ZV.md
 s-020ZW.md
 s-020ZX.md

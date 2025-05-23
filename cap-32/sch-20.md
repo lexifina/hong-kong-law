@@ -6,7 +6,7 @@ Amendment of Prospectus Consisting of One Document
 
 (Twentieth Schedule added 30 of 2004 s. 2) (Format changes—E.R. 1 of 2014)
 
-- Part 1 Companies Incorporated in Hong Kong
+- Part 1 Companies to which Part II of this Ordinance Applies (Amended 14 of 2025 s. 114)
 
   - 1. Amendments The information contained in—
 
@@ -28,7 +28,7 @@ Amendment of Prospectus Consisting of One Document
 
   - 3. Certain amendments made pursuant to section 1 to be read with prospectus Where it enables a provision of this Ordinance (including paragraph 3 of the Third Schedule to this Ordinance) to apply to an amendment made pursuant to section 1(a)(i) or (b)(i) or (ii), the amendment shall, for the purposes of that application, be read with the prospectus to which it relates and the addenda, if any, to the prospectus.
 
-- Part 2 Companies Incorporated Outside Hong Kong
+- Part 2 Companies to which Part XII of this Ordinance Applies (Amended 14 of 2025 s. 114)
 
   - 1. Amendments The information contained in—
 

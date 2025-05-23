@@ -126,7 +126,7 @@ Matters to be Specified in Prospectus and Reports to be set out therein
 
     - (b) particulars of any beneficial interest possessed by any director of the company in any shares so offered for sale.
 
-  - 29. The name, date and country of incorporation, whether public or private (if applicable), the general nature of the business, the issued capital and the proportion thereof held or intended to be held, of every company the whole of the capital of which or a substantial proportion thereof is held or intended to be held, or whose profits or assets make or will make a material contribution to the figures in the auditors’ report or to the next financial statements of the company. (Amended 28 of 2012 ss. 912 & 920)
+  - 29. The name, the date and place of incorporation (and if the company has, after its incorporation, changed its place of domicile on one or more occasions, its place of domicile on each occasion and the date on which that place became its place of domicile), the general nature of the business, the issued capital and the proportion of the issued capital held or intended to be held, of every company, whether public or private (if applicable), the whole of the capital of which or a substantial proportion thereof is held or intended to be held, or whose profits or assets make or will make a material contribution to the figures in the auditors’ report or to the next financial statements of the company. (Amended 28 of 2012 ss. 912 & 920; 14 of 2025 s. 112)
 
   - 30. A statement of the persons holding or beneficially interested in any substantial part of the share capital of the company and the amounts of the holdings in question.
 

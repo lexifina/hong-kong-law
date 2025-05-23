@@ -10,6 +10,12 @@
 
 - (c) a reference in that section to life insurance fund were a reference to non-life long term insurance fund.
 
+(2A) Despite subsections (1) and (2), sections 9 and 10 of Schedule 17L apply to a re-domiciled insurer in relation to its assessable profits for the year of assessment to which its critical basis period (as defined by section 1 of that Schedule) relates. (Added 14 of 2025 s. 147)
+
 (3) A corporation that carries on any non-life long term insurance business in or from Hong Kong must submit to the Commissioner a certified true copy of the latest report.
+
+(4) In this section—
+
+- re-domiciled insurer (經遷冊保險人) has the meaning given by section 3BA or 3BB of Cap. 41. (Added 14 of 2025 s. 147)
 
 (Added 20 of 2023 s. 104)

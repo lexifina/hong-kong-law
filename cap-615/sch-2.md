@@ -84,11 +84,15 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (a) in relation to an individual, means his or her identity card, certificate of identity, document of identity or travel document, as defined by section 2(1) of the Immigration Ordinance (Cap. 115);
 
-        - (b) in relation to a company as defined by section 2(1) of the Companies Ordinance (Cap. 622), means the certificate of incorporation issued in respect of the company under the Ordinance under which the company was formed and registered; (Replaced 28 of 2012 ss. 912 & 920)
+        - (b) in relation to a company as defined by section 2(1) of the Companies Ordinance (Cap. 622), means— (Amended 14 of 2025 s. 273)
 
-        - (c) in relation to a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622), means the certificate of registration issued in respect of the company under the Ordinance under which the company was registered as a registered non-Hong Kong company; (Replaced 28 of 2012 ss. 912 & 920)
+          - (i) the certificate of incorporation issued in respect of the company under the Ordinance under which the company was formed and registered; or
 
-        - (d) in relation to a corporation that is incorporated in a place outside Hong Kong other than a company falling within paragraph (c), means its certificate of incorporation or registration, or any other document evidencing its incorporation, issued by an authority in that place that performs functions similar to those of the Registrar of Companies;
+          - (ii) the certificate of re-domiciliation issued in respect of the company under section 820C(5)(c) of the Companies Ordinance (Cap. 622); (Amended 14 of 2025 s. 273)
+
+        - (c) in relation to a registered non-Hong Kong company, means the certificate of registration issued in respect of the company under the Ordinance under which the company was registered as a registered non-Hong Kong company; (Replaced 28 of 2012 ss. 912 & 920. Amended 14 of 2025 s. 273)
+
+        - (d) in relation to a corporation that is incorporated in a place outside Hong Kong and that is neither a re-domiciled company nor a company falling within paragraph (c), means its certificate of incorporation or registration, or any other document evidencing its incorporation, issued by an authority in that place that performs functions similar to those of the Registrar of Companies; (Amended 14 of 2025 s. 273)
 
         - (e) in relation to a partnership that carries on business in Hong Kong, means its business registration certificate issued under section 6 of the Business Registration Ordinance (Cap. 310); and
 
@@ -886,9 +890,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
             - (i) it is within the same group of companies as the financial institution;
 
-            - (ii) if the financial institution is incorporated in Hong Kong, it is a branch of the financial institution;
+            - (ii) if the financial institution is incorporated in Hong Kong or is a re-domiciled entity, it is a branch of the financial institution; (Amended 14 of 2025 s. 273)
 
-            - (iii) if the financial institution is incorporated outside Hong Kong—
+            - (iii) if the financial institution is incorporated outside Hong Kong and is not a re-domiciled entity— (Amended 14 of 2025 s. 273)
 
               - (A) it is the head office of the financial institution; or
 
@@ -952,7 +956,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
   - 22. Duties extended to branches and subsidiary undertakings outside Hong Kong
 
-    - (1) A financial institution incorporated in Hong Kong must ensure that—
+    - (1) A financial institution that is incorporated in Hong Kong or is a re-domiciled entity must ensure that— (Amended 14 of 2025 s. 273)
 
       - (a) its branches; and
 
@@ -966,7 +970,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - (b) take additional measures to effectively mitigate the risk of money laundering and terrorist financing faced by the branch or subsidiary undertaking as a result of its inability to comply with the requirement.
 
-    - (2A) A DNFBP incorporated in Hong Kong must ensure that—
+    - (2A) A DNFBP that is incorporated in Hong Kong or is a re-domiciled entity must ensure that— (Amended 14 of 2025 s. 273)
 
       - (a) its branches; and
 

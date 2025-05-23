@@ -96,7 +96,11 @@ Parent and Subsidiary Undertakings
 
       - (i) of a kind authorized by any document constituting or regulating the undertaking in relation to which the right is exercisable; and (Amended 28 of 2012 ss. 912 & 920)
 
-      - (ii) permitted by the law under which that undertaking is established.
+      - (ii) permitted by— (Amended 14 of 2025 s. 115)
+
+        - (A) unless sub-subparagraph (B) applies—the law under which that undertaking is established; or
+
+        - (B) if that undertaking has changed its place of domicile after its establishment—the law of the latest place of domicile of that undertaking. (Amended 14 of 2025 s. 115)
 
 - 6. Rights exercisable only in certain circumstances
 

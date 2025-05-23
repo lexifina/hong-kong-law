@@ -21,3 +21,5 @@ Grounds for Revocation of Approval of Money Broker
 - 7. The approved money broker requests in writing the Monetary Authority to revoke its approval.
 
 - 8. The Monetary Authority is satisfied that the approved money broker engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre.
+
+- 9. The approved money broker contravenes section 43C(1). (Added 14 of 2025 s. 177)

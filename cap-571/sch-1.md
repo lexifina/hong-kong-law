@@ -74,7 +74,7 @@ Interpretation and General Provisions
 
     - whether it is an authorized financial institution or not, and banker (銀行) shall be construed accordingly;
 
-    - bank incorporated outside Hong Kong (在香港以外地方成立為法團的銀行) means a bank incorporated outside Hong Kong that is not an authorized financial institution;
+    - bank incorporated outside Hong Kong (在香港以外地方成立為法團的銀行) means a bank incorporated outside Hong Kong that is not an authorized financial institution and is not a re-domiciled entity as defined by section 2(1) of the Banking Ordinance (Cap. 155); (Amended 14 of 2025 s. 248)
 
     - banker’s books (銀行簿冊) includes—
 
@@ -701,6 +701,8 @@ Interpretation and General Provisions
       - (b) any document, disc, tape, sound track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of other equipment) of being reproduced, and any film (including a microfilm), tape or other device in which visual images are embodied so as to be capable (with or without the aid of other equipment) of being reproduced;
 
     - record keeping obligation (備存紀錄責任) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
+
+    - re-domiciled company (經遷冊公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Added 14 of 2025 s. 248)
 
     - registered (註冊) means registered under section 119 of this Ordinance, and registration (註冊) shall be construed accordingly;
 

@@ -18,9 +18,9 @@ Powers of Manager of Authorized Institution
 
 - 6. Power to exercise any voting rights in respect of any shares which—
 
-  - (a) in the case of an institution incorporated in Hong Kong, are owned by the institution;
+  - (a) in the case of an authorized institution incorporated in Hong Kong, are owned by the institution; (Amended 14 of 2025 s. 175)
 
-  - (b) in the case of an institution incorporated outside Hong Kong, are an asset of the institution’s principal place of business in Hong Kong or of any local branch or local office. (Amended 32 of 2001 s. 28)
+  - (b) in the case of an authorized institution incorporated outside Hong Kong, are an asset of the institution’s principal place of business in Hong Kong or of any local branch or local office. (Amended 32 of 2001 s. 28; 14 of 2025 s. 175)
 
 - 7. Power to bring or defend any action or other legal proceedings in the name and on behalf of the institution.
 

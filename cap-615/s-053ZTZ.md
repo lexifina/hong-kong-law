@@ -46,7 +46,7 @@ In this Part—
 
       - (A) is an individual who does not ordinarily reside in Hong Kong; or
 
-      - (B) is a legal person, other than an individual, that is incorporated or established outside Hong Kong and is not a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622); and
+      - (B) is a legal person, other than an individual, that is incorporated or established outside Hong Kong and is neither a registered non-Hong Kong company nor a re-domiciled company; and (Amended 14 of 2025 s. 271)
 
     - (ii) does not have a place of business in Hong Kong; and
 
