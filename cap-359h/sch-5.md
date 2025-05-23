@@ -37,3 +37,5 @@ Part 2
 10. A medical clinic carried on by an individual and registered under the Medical Clinics Ordinance (Cap. 343) | 21(1)
 
 11. A medical clinic carried on by a corporation and registered under the Medical Clinics Ordinance (Cap. 343) | 20 and 21(1)
+
+12. The Chinese Medicine Hospital of Hong Kong (as defined by section 2(5) of The Chinese Medicine Hospital of Hong Kong Ordinance (15 of 2025)) (15 of 2025 s. 3) | 20 and 21(1)

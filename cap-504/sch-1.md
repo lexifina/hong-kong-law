@@ -78,6 +78,8 @@ Reporting of Deaths
 
     - (a) if the deceased died in a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) (Cap. 633) in respect of which a licence within the meaning of Cap. 633 is in force;
 
+    - (ab) if the deceased died in The Chinese Medicine Hospital of Hong Kong (as defined by section 2(5) of The Chinese Medicine Hospital of Hong Kong Ordinance (15 of 2025)); (Added 15 of 2025 s. 3)
+
     - (b) if the deceased died in a scheduled nursing home within the meaning of Cap. 633 in respect of which an exemption granted under section 128 of Cap. 633 is in force;
 
     - (c) if the deceased died in a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Regulation (Cap. 459 sub. leg. A) in respect of which a licence within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) (Cap. 459) is in force;

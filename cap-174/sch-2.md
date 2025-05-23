@@ -518,9 +518,11 @@ comes under a duty to make a report of that death to the coroner as soon as is r
 
 (a) | if the deceased died in a hospital within the meaning of the Private Healthcare Facilities Ordinance (Cap. 633) (Cap. 633) in respect of which a licence within the meaning of Cap. 633 is in force;
 
+(ab) | if the deceased died in The Chinese Medicine Hospital of Hong Kong (as defined by section 2(5) of The Chinese Medicine Hospital of Hong Kong Ordinance (15 of 2025));
+
 (b) | if the deceased died in a scheduled nursing home within the meaning of Cap. 633 in respect of which an exemption granted under section 128 of Cap. 633 is in force;
 
-(c) | if the deceased died in a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Regulation (Cap. 459 sub. leg. A) in respect of which a licence within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) (Cap. 459) is in force;.
+(c) | if the deceased died in a nursing home within the meaning of the Residential Care Homes (Elderly Persons) Regulation (Cap. 459 sub. leg. A) in respect of which a licence within the meaning of the Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) (Cap. 459) is in force;
 
 (d) | if—
 
@@ -552,7 +554,7 @@ comes under a duty to make a report of that death to the coroner as soon as is r
 
 3. | Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 34 of 2018 s. 161 and E.R. 5 of 2018; 21 of 2020 s. 83; 3 of 2023 s. 15; L.N. 161 of 2023) _ Form 19
+(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18; 6 of 2008 s. 43; 34 of 2018 s. 161 and E.R. 5 of 2018; 21 of 2020 s. 83; 3 of 2023 s. 15; L.N. 161 of 2023; 15 of 2025 s. 3) _ Form 19
 
 [s. 27(c)]
 
