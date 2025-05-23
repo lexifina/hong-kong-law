@@ -669,6 +669,7 @@ s-339AA.md
 s-339A.md
 s-340.md
 s-341.md
+s-341A.md
 s-342.md
 s-342A.md
 s-342AA.md
@@ -714,6 +715,7 @@ s-359A.md
 s-360.md
 s-360A.md
 s-360B.md
+s-360BA.md
 s-360C.md
 s-360D.md
 s-360E.md
