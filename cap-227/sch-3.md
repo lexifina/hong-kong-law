@@ -68,7 +68,7 @@ Offences to which Defendant May Plead Guilty by Letter
 
 - (Added L.N. 356 of 1997)
 
-- 17. Tai Lam Tunnel and Yuen Long Approach Road Any offence against the Tai Lam Tunnel and Yuen Long Approach Road Bylaw (Cap. 474 sub. leg. C). (Added 29 of 1999 s. 2)
+- 17. (Repealed 3 of 2025 s. 17)
 
 - 18. Tsing Sha Control Area
 

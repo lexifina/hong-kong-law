@@ -258,7 +258,13 @@ Keep to Two Lanes on the Left in Left-driving Tunnel
 
 This sign indicates that buses, medium goods vehicles and heavy goods vehicles must keep to the left most lane, or the lane next to the left most lane, of a road inside a tube of a left-driving tunnel.
 
-(L.N. 72 of 2018)
+(L.N. 72 of 2018) Figure No. 29
+
+Car Symbol
+
+This sign when displayed indicates that wind-susceptible vehicles are not allowed to proceed beyond the sign.
+
+(3 of 2025 s. 14)
 
 Editorial Note:
 

@@ -1,6 +1,8 @@
-# 8AAB. Western Harbour Crossing: control of use of traffic lanes for certain vehicles
+# 8AAB. Western Harbour Crossing and Tai Lam Tunnel: control of use of traffic lanes for certain vehicles
 
-(1) This regulation applies to the Western Harbour Crossing.
+(3 of 2025 s. 9)
+
+(1) This regulation applies to the Western Harbour Crossing and the Tai Lam Tunnel. (3 of 2025 s. 9)
 
 (2) Except when directed or signalled to do otherwise by an authorized officer, a person must not drive any of the following vehicles on a road inside a tunnel tube other than in the left most lane—
 

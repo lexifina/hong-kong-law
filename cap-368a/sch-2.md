@@ -6,7 +6,7 @@ Tolls and Fees
 
 (Format changes—E.R. 1 of 2022)
 
-- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel, Eastern Harbour Crossing, Tate’s Cairn Tunnel and Western Harbour Crossing) (7 of 2016 s. 18; 9 of 2018 s. 9; 18 of 2023 s. 20)
+- Part 1 Tolls (for Tunnels other than Cross-Harbour Tunnel, Eastern Harbour Crossing, Tate’s Cairn Tunnel, Western Harbour Crossing and Tai Lam Tunnel) (7 of 2016 s. 18; 9 of 2018 s. 9; 18 of 2023 s. 20; 3 of 2025 s. 15)
 
 - Vehicle | Tolls
 
@@ -486,6 +486,138 @@ Tolls and Fees
 
   - (18 of 2023 s. 20)
 
+- Part 3C Tolls (for Tai Lam Tunnel)
+
+  - Division 1 Motor Cycles, Motor Tricycles and Private Cars (Mondays to Saturdays (Excluding Public Holidays))
+
+  - Time slot | Starting time | End time (immediately before) | Toll for motor cycles and motor tricycles | Toll for private cars
+
+  - Off-peak time slot (a.m.) | 00:00 | 07:15 | $7.2 | $18
+
+  - Transitional time slot (off-peak to peak) | 07:15 | 07:41 | $7.6 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $19 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 07:15 | 07:17 | $7.6 | $19
+
+  - 07:17 | 07:19 | $8.4 | $21
+
+  - 07:19 | 07:21 | $9.2 | $23
+
+  - 07:21 | 07:23 | $10 | $25
+
+  - 07:23 | 07:25 | $10.8 | $27
+
+  - 07:25 | 07:27 | $11.6 | $29
+
+  - 07:27 | 07:29 | $12.4 | $31
+
+  - 07:29 | 07:31 | $13.2 | $33
+
+  - 07:31 | 07:33 | $14 | $35
+
+  - 07:33 | 07:35 | $14.8 | $37
+
+  - 07:35 | 07:37 | $15.6 | $39
+
+  - 07:37 | 07:39 | $16.4 | $41
+
+  - 07:39 | 07:41 | $17.2 | $43
+
+  - Peak time slot (a.m.) | 07:41 | 09:45 | $18 | $45
+
+  - Transitional time slot (peak to normal) | 09:45 | 09:59 | $17.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $43 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 09:45 | 09:47 | $17.2 | $43
+
+  - 09:47 | 09:49 | $16.4 | $41
+
+  - 09:49 | 09:51 | $15.6 | $39
+
+  - 09:51 | 09:53 | $14.8 | $37
+
+  - 09:53 | 09:55 | $14 | $35
+
+  - 09:55 | 09:57 | $13.2 | $33
+
+  - 09:57 | 09:59 | $12.4 | $31
+
+  - Normal time slot | 09:59 | 17:15 | $12 | $30
+
+  - Transitional time slot (normal to peak) | 17:15 | 17:29 | $12.4 for the first 2-minute interval with increase of $0.8 for each successive 2-minute interval | $31 for the first 2-minute interval with increase of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 17:15 | 17:17 | $12.4 | $31
+
+  - 17:17 | 17:19 | $13.2 | $33
+
+  - 17:19 | 17:21 | $14 | $35
+
+  - 17:21 | 17:23 | $14.8 | $37
+
+  - 17:23 | 17:25 | $15.6 | $39
+
+  - 17:25 | 17:27 | $16.4 | $41
+
+  - 17:27 | 17:29 | $17.2 | $43
+
+  - Peak time slot (p.m.) | 17:29 | 19:00 | $18 | $45
+
+  - Transitional time slot (peak to off-peak) | 19:00 | 19:26 | $17.2 for the first 2-minute interval with decrease of $0.8 for each successive 2-minute interval | $43 for the first 2-minute interval with decrease of $2 for each successive 2-minute interval
+
+  - Intervals
+
+  - 19:00 | 19:02 | $17.2 | $43
+
+  - 19:02 | 19:04 | $16.4 | $41
+
+  - 19:04 | 19:06 | $15.6 | $39
+
+  - 19:06 | 19:08 | $14.8 | $37
+
+  - 19:08 | 19:10 | $14 | $35
+
+  - 19:10 | 19:12 | $13.2 | $33
+
+  - 19:12 | 19:14 | $12.4 | $31
+
+  - 19:14 | 19:16 | $11.6 | $29
+
+  - 19:16 | 19:18 | $10.8 | $27
+
+  - 19:18 | 19:20 | $10 | $25
+
+  - 19:20 | 19:22 | $9.2 | $23
+
+  - 19:22 | 19:24 | $8.4 | $21
+
+  - 19:24 | 19:26 | $7.6 | $19
+
+  - Off-peak time slot (p.m.) | 19:26 | 00:00 (next day) | $7.2 | $18
+
+  - Division 2 Motor Cycles, Motor Tricycles and Private Cars (Sundays and Public Holidays)
+
+  - Time slot | Toll for motor cycles and motor tricycles | Toll for private cars
+
+  - Whole day | $7.2 | $18
+
+  - Division 3 Taxis
+
+  - Time slot | Toll for taxis
+
+  - Whole day | $28
+
+  - Division 4 Vehicles other than Motor Cycles, Motor Tricycles, Private Cars and Taxis
+
+  - Time slot | Toll for vehicles other than motor cycles, motor tricycles, private cars and taxis
+
+  - Whole day | $43
+
+  - (3 of 2025 s. 15)
+
 - Part 4 Removal Fee
 
   - 1. Interpretation In this Part—
@@ -523,6 +655,8 @@ Tolls and Fees
   - Scenic Hill Tunnel (觀景山隧道) | $140 | $175 | $215
 
   - Shing Mun Tunnels (城門隧道) | $140 | $175 | $215
+
+  - Tai Lam Tunnel (大欖隧道) (3 of 2025 s. 15) | $140 | $175 | $215
 
   - Tate’s Cairn Tunnel (大老山隧道) | $140 | $175 | $215
 
@@ -563,6 +697,8 @@ Tolls and Fees
 - Scenic Hill Tunnel (觀景山隧道) | $82
 
 - Shing Mun Tunnels (城門隧道) | $82
+
+- Tai Lam Tunnel (大欖隧道) (3 of 2025 s. 15) | $82
 
 - Tate’s Cairn Tunnel (大老山隧道) | $82
 

@@ -252,7 +252,7 @@ Item | Body composing the constituency
 
 123. | River Trade Terminal Co. Ltd.
 
-124. | Route 3 (CPS) Company Limited
+124. | (Repealed 3 of 2025 s. 22)
 
 125. | (Repealed 14 of 2021 s. 345)
 

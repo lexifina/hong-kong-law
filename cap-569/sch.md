@@ -2498,7 +2498,7 @@ Item | Body
 
 102. | River Trade Terminal Co. Ltd.
 
-103. | Route 3 (CPS) Company Limited
+103. | (Repealed 3 of 2025 s. 23)
 
 104. | Sai Kung Taxi Operators Association Ltd.
 

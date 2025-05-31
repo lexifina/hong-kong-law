@@ -160,7 +160,7 @@ Public Bodies
 
 77. | Legal Aid Services Council. (Added 17 of 1996 s. 14)
 
-78. | Route 3 (CPS) Company Limited. (Added 33 of 1995 s. 65)
+78. | (Repealed 3 of 2025 s. 16)
 
 79. | Privacy Commissioner for Personal Data. (Added 81 of 1995 s. 72)
 
