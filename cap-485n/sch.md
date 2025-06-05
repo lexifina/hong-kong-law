@@ -23,3 +23,7 @@ Item | Pre-existing scheme | Material day
 8. | Principal MPF - Simple Plan (L.N. 26 of 2025) | 7 May 2025
 
 9. | Principal MPF - Smart Plan (L.N. 26 of 2025) | 7 May 2025
+
+10. | BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 49 of 2025) | 5 June 2025
+
+11. | My Choice Mandatory Provident Fund Scheme (L.N. 49 of 2025) | 5 June 2025
