@@ -123,3 +123,37 @@ Item | Constituent fund of a registered scheme | Relevant day
 58. | BEA MPF Conservative Fund of the BEA (MPF) Value Scheme (L.N. 83 of 2024) | 29 January 2025
 
 59. | BEA Stable Fund of the BEA (MPF) Value Scheme (L.N. 83 of 2024) | 29 January 2025
+
+60. | BEA China Tracker Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+61. | BEA Hong Kong Tracker Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+62. | BEA (MPF) Age 65 Plus Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+63. | BEA (MPF) Asian Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+64. | BEA (MPF) Balanced Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+65. | BEA (MPF) Conservative Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+66. | BEA (MPF) Core Accumulation Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+67. | BEA (MPF) European Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+68. | BEA (MPF) Global Bond Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+69. | BEA (MPF) Global Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+70. | BEA (MPF) Greater China Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+71. | BEA (MPF) Growth Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+72. | BEA (MPF) Hong Kong Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+73. | BEA (MPF) Japan Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+74. | BEA (MPF) North American Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+75. | BEA (MPF) RMB & HKD Money Market Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+76. | BEA (MPF) Stable Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
