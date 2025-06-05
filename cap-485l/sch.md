@@ -113,3 +113,35 @@ Item | Constituent fund of a registered scheme | Relevant day
 53. | BEA Hong Kong Tracker Fund of the BEA (MPF) Value Scheme (L.N. 85 of 2024) | 29 January 2025
 
 54. | BEA Stable Fund of the BEA (MPF) Value Scheme (L.N. 85 of 2024) | 29 January 2025
+
+55. | BEA China Tracker Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+56. | BEA Hong Kong Tracker Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+57. | BEA (MPF) Age 65 Plus Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+58. | BEA (MPF) Asian Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+59. | BEA (MPF) Balanced Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+60. | BEA (MPF) Core Accumulation Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+61. | BEA (MPF) European Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+62. | BEA (MPF) Global Bond Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+63. | BEA (MPF) Global Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+64. | BEA (MPF) Greater China Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+65. | BEA (MPF) Growth Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+66. | BEA (MPF) Hong Kong Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+67. | BEA (MPF) Japan Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+68. | BEA (MPF) North American Equity Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+69. | BEA (MPF) RMB & HKD Money Market Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
+
+70. | BEA (MPF) Stable Fund of the BEA (MPF) Master Trust Scheme (L.N. 186 of 2024) | 5 June 2025
