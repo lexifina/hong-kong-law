@@ -1,6 +1,8 @@
 # Schedule 16E
 
-[ss. 19CA, 40AV, 40AW & 80 & Schs. 16C, 16F, 16G, 16H, 16I, 16J & 16K]
+[ss. 2, 19CA, 40AV, 40AW & 80 & Schs. 16C, 16F, 16G, 16H, 16I, 16J & 16K]
+
+(Amended 21 of 2025 s. 32)
 
 Tax Treatment of Family-owned Investment Holding Vehicle and Family-owned Special Purpose Entity
 

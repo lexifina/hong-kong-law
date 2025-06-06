@@ -1,6 +1,6 @@
 # 50AAA. Unilateral tax credits—no double taxation arrangements or specified DT arrangements made
 
-(1) This section applies if—
+(1) Subject to section 50AAAD, this section applies if— (Amended 21 of 2025 s. 17)
 
 - (a) no double taxation arrangements have been made with the government of a territory outside Hong Kong (subject territory); or
 
@@ -52,6 +52,10 @@
 
 - exemption article (豁免條文) means the rules contained in Article 23A of the Convention;
 
-- similar tax (類似稅項), in relation to specified income, means a tax that is of substantially the same nature as the tax specified in Part 2 of Schedule 54 for the income.
+- similar tax (類似稅項), in relation to specified income, means—
+
+  - (a) a tax that is of substantially the same nature as the tax specified in Part 2 of Schedule 54 for the income; or
+
+  - (b) a foreign DMTT regarded as a similar tax for the purposes of this section under section 50AAAD(3). (Replaced 21 of 2025 s. 17)
 
 (Added 17 of 2022 s. 6)

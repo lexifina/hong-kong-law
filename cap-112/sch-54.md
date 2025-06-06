@@ -1,8 +1,8 @@
 # Schedule 54
 
-[ss. 15OA & 50AAA]
+[ss. 2, 15OA, 50AAA & 50AAAD]
 
-(Amended 32 of 2023 s. 12)
+(Amended 32 of 2023 s. 12; 21 of 2025 s. 32)
 
 Specifications for Section 50AAA in relation to Unilateral Tax Credits
 

@@ -245,10 +245,15 @@ s-023D.md
 s-023E.md
 s-024.md
 s-025.md
+s-025A.md
 s-026.md
 s-026A.md
 s-026AB.md
 s-026AC.md
+s-026AD.md
+s-026AE.md
+s-026AF.md
+s-026AG.md
 s-026B.md
 s-026C.md
 s-026D.md
@@ -363,6 +368,7 @@ s-050.md
 s-050AAA.md
 s-050AAAB.md
 s-050AAAC.md
+s-050AAAD.md
 s-050AA.md
 s-050AAB.md
 s-050AAC.md
@@ -486,6 +492,7 @@ s-077.md
 s-077A.md
 s-078.md
 s-079.md
+s-079A.md
 s-080.md
 s-080A.md
 s-080B.md
@@ -501,6 +508,9 @@ s-080K.md
 s-080L.md
 s-080M.md
 s-080N.md
+s-080O.md
+s-080P.md
+s-080Q.md
 s-081.md
 s-082.md
 s-082A.md
@@ -628,3 +638,8 @@ sch-57.md
 sch-58.md
 sch-59.md
 sch-60.md
+sch-61.md
+sch-62.md
+sch-63.md
+sch-64.md
+sch-65.md

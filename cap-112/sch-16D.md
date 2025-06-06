@@ -1,6 +1,8 @@
 # Schedule 16D
 
-[ss. 4, 19CA, 40AC, 40AD, 51C & 80]
+[ss. 2, 4, 19CA, 40AC, 40AD, 51C & 80]
+
+(Amended 21 of 2025 s. 32)
 
 Eligible Carried Interest and its Tax Treatment
 

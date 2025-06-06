@@ -84,7 +84,7 @@ Note (with no legislative effect) providing an overview of Part 8AA—
 
 - enterprise (企業) means a person who carries on a trade, profession or business;
 
-- foreign tax (外地稅項) means any tax that is—
+- foreign tax (外地稅項) means any tax (other than a foreign IIR top-up tax, a foreign UTPR top-up tax or a foreign DMTT) that is— (Amended 21 of 2025 s. 20)
 
   - (a) chargeable in a territory outside Hong Kong; and
 
@@ -92,7 +92,7 @@ Note (with no legislative effect) providing an overview of Part 8AA—
 
 - Hong Kong resident person (香港居民人士) means a person who is resident for tax purposes in Hong Kong;
 
-- Hong Kong tax (香港稅項) means any tax imposed by this Ordinance other than additional tax charged under section 82A;
+- Hong Kong tax (香港稅項) means any tax imposed by this Ordinance other than a top-up tax or an additional tax charged under section 82A; (Amended 21 of 2025 s. 20)
 
 - income (收入) includes profits or gains;
 
@@ -112,7 +112,7 @@ Note (with no legislative effect) providing an overview of Part 8AA—
 
   - (a) the commentary on the associated enterprises article or the business profits article (as the case requires); and
 
-  - (b) the Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations published by the Organisation for Economic Co-operation and Development on 10 July 2017;
+  - (b) the Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations published by the Organisation for Economic Co-operation and Development on 20 January 2022; (Amended 21 of 2025 s. 20)
 
 - permanent establishment (常設機構) has the meaning given by subsection (5);
 

@@ -2,9 +2,9 @@
 
 [ss. 5B(7), 14A(6), 15(3A), 16(4A), 20AC(7), 20AN(7), 26A(2) & (4), 40AB, 51C(5), 60(4), 64(11), 79(4), 80(6) & 82A(8) & Schs. 6, 16, 16C & 29] (Amended 7 of 2014 s. 9; 5 of 2019 s. 12)
 
-Specified Alternative Bond Scheme and its Tax Treatment
+Specified Alternative Bond Scheme and its Treatment under this Ordinance (other than Part 4AA)
 
-(Schedule 17A added 10 of 2013 s. 4)
+(Schedule 17A added 10 of 2013 s. 4. Amended 21 of 2025 s. 30)
 
 Note—
 
@@ -132,9 +132,11 @@ The following is an overview of the content of this Schedule and does not have l
 
         - (a) is established solely for the purposes of the scheme or schemes (as the case requires); and
 
-        - (b) does not carry on any trade or activities except for the purposes of the scheme or schemes (as the case requires).
+        - (b) does not carry on any trade or activities except for the purposes of the scheme or schemes (as the case requires); (Amended 21 of 2025 s. 30)
 
-- Part 2 Specified Alternative Bond Scheme and its Tax Treatment
+      - tax (稅) does not include a top-up tax. (Added 21 of 2025 s. 30)
+
+- Part 2 Specified Alternative Bond Scheme and its Treatment under this Ordinance (other than Part 4AA) (Amended 21 of 2025 s. 30)
 
   - Division 1 Alternative Bond Scheme, Bond Arrangement and Investment Arrangement
 
@@ -410,7 +412,7 @@ The following is an overview of the content of this Schedule and does not have l
 
           - (iv) disposing of the specified asset, whether or not in stages, by the end of the specified term in return for the proceeds of disposal; and
 
-      - (c) the bond-issuer is entitled to the profits from the management of the specified asset (specified return), and the originator is entitled to an agency fee or an incentive fee, or both.
+        - (c) the bond-issuer is entitled to the profits from the management of the specified asset (specified return), and the originator is entitled to an agency fee or an incentive fee, or both.
 
       - (2) For the purposes of subsection (1), the bond-issuer may act otherwise than through the originator as its agent—
 

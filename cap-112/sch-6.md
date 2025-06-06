@@ -8,7 +8,7 @@
 
   - 2. A promissory note within the meaning of section 89 of the Bills of Exchange Ordinance (Cap. 19).
 
-  - 3. Subject to section 21(3)(a) of Schedule 17A (specified alternative bond scheme and its tax treatment), any other instrument (other than a regulatory capital security) which evidences an obligation to pay a stated or determinable amount to bearer or to order, on or before a fixed time, with or without interest, being an instrument by the delivery of which, with or without endorsement, the right to receive that stated or determinable amount, with or without interest, is transferable. (Amended 10 of 2013 s. 18; 12 of 2016 s. 15)
+  - 3. Subject to section 21(3)(a) of Schedule 17A (specified alternative bond scheme and its treatment under this Ordinance (other than Part 4AA)), any other instrument (other than a regulatory capital security) which evidences an obligation to pay a stated or determinable amount to bearer or to order, on or before a fixed time, with or without interest, being an instrument by the delivery of which, with or without endorsement, the right to receive that stated or determinable amount, with or without interest, is transferable. (Amended 10 of 2013 s. 18; 12 of 2016 s. 15; 21 of 2025 s. 33)
 
 - Part 2 Bodies
 

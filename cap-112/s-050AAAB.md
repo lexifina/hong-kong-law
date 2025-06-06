@@ -1,6 +1,6 @@
 # 50AAAB. Unilateral tax credits—no relief for underlying profits etc. under specified DT arrangements made
 
-(1) This section applies if—
+(1) Subject to section 50AAAD, this section applies if— (Amended 21 of 2025 s. 18)
 
 - (a) a Hong Kong resident person (subject person) receives a dividend (subject dividend) from a company that is a DTA territory resident person (subject company);
 
@@ -98,7 +98,11 @@ as ascertained when determining whether the subject person has an adequate inter
 
 - investee entity (獲投資實體), in relation to an entity, means a direct investee entity, or an indirect investee entity, of the entity;
 
-- similar tax (類似稅項) has the meaning given by section 16(2I)(b);
+- similar tax (類似稅項) means—
+
+  - (a) a similar tax as defined by section 16(2I)(b); or
+
+  - (b) a foreign DMTT regarded as a similar tax for the purposes of this section under section 50AAAD(3); (Replaced 21 of 2025 s. 18)
 
 - specified DT arrangements (指明雙重課稅安排) means double taxation arrangements that incorporate—
 

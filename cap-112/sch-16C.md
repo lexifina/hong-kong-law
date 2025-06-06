@@ -90,7 +90,7 @@ Classes of Assets Specified for Transactions for Purposes of Sections 20AN and 2
 
     - securities (證券) means—
 
-      - (a) subject to section 21(6) of Schedule 17A (specified alternative bond scheme and its tax treatment), shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body (including a special purpose entity), whether incorporated or unincorporated, or a government or municipal government authority;
+      - (a) subject to section 21(6) of Schedule 17A (specified alternative bond scheme and its treatment under this Ordinance (other than Part 4AA)), shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body (including a special purpose entity), whether incorporated or unincorporated, or a government or municipal government authority; (Amended 21 of 2025 s. 33)
 
       - (b) rights, options or interests (whether described as units or otherwise) in, or in respect of, such shares, stocks, debentures, loan stocks, funds, bonds or notes;
 

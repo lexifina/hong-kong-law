@@ -116,7 +116,7 @@ Specified Transactions
 
     - securities (證券) means—
 
-      - (a) subject to section 21(6) of Schedule 17A (specified alternative bond scheme and its tax treatment), shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body, whether incorporated or unincorporated, or a government or municipal government authority (excluding shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a private company which is not a special purpose vehicle or an excepted private company); (Amended 10 of 2013 s. 19; 13 of 2015 s. 11)
+      - (a) subject to section 21(6) of Schedule 17A (specified alternative bond scheme and its treatment under this Ordinance (other than Part 4AA)), shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body, whether incorporated or unincorporated, or a government or municipal government authority (excluding shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a private company which is not a special purpose vehicle or an excepted private company); (Amended 10 of 2013 s. 19; 13 of 2015 s. 11; 21 of 2025 s. 33)
 
       - (b) rights, options or interests (whether described as units or otherwise) in, or in respect of, such shares, stocks, debentures, loan stocks, funds, bonds or notes;
 
