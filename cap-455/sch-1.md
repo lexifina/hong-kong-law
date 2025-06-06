@@ -140,6 +140,8 @@ section 13 | possession of arms or ammunition without licence
 
 section 14 | dealing in arms or ammunition without a licence
 
+section 14A | manufacture or assembly of firearms from illicit component parts (Added 20 of 2025 s. 19)
+
 14A. | Trade Descriptions Ordinance (Cap. 362)
 
 section 9(1) and (2) | offences in respect of infringement of trade mark rights
