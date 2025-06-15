@@ -26,11 +26,25 @@ Modification of Road Traffic Ordinance
 
     - (b) in subsection (2), wherever after the word “Commissioner”, there shall be added “or the Authority”.
 
-  - 5. In sections 56(2), 63 and 67—
+  - 5. In sections 56(2), 63, 63B, 63E, 63F and 67— (13 of 2024 s. 73)
 
-    - (a) for sections 56(2), 63(4) and (7) and 67(1) and (2), after the words “police officer”, there shall be added “or an Authorized Person”;
+    - (a) for section 56(2), after the words “police officer”, add “or an Authorized Person”; (13 of 2024 s. 73)
 
-    - (b) for section 63(3)(a)(ii) and (b), after the words “police officer”, there shall be added “or a specified Authorized Person”.
+    - (b) for the heading of section 63, after the words “Police officer”, add “or Authorized Person”; (13 of 2024 s. 73)
+
+    - (c) for sections 63(2) and 63B(1) and (8)(b), after the words “police officer”, add “or an Authorized Person”; (13 of 2024 s. 73)
+
+    - (d) for section 63B(2)(a) and (b) and (3), after the words “police officer”, add “or the Authorized Person”; (13 of 2024 s. 73)
+
+    - (e) for section 63E(1) and (3)(a), after the words “Commissioner of Police”, add “or the Authority”; (13 of 2024 s. 73)
+
+    - (f) for the heading of section 63F, after the words “Commissioner of Police”, add “or Authority”; (13 of 2024 s. 73)
+
+    - (g) for section 63F(1) and (2), after the words “Commissioner of Police”, add “or the Authority”; (13 of 2024 s. 73)
+
+    - (h) for section 63F(3), for the words “or a police officer authorized by the Commissioner of Police”, substitute “, a police officer authorized by the Commissioner of Police, or an Authorized Person”; (13 of 2024 s. 73)
+
+    - (i) for section 67(1) and (2), after the words “police officer”, add “or an Authorized Person”. (13 of 2024 s. 73)
 
   - 6. In section 60, for the words “or traffic warden in uniform”, there shall be substituted the words “a traffic warden in uniform or an Authorized Person in uniform”.
 

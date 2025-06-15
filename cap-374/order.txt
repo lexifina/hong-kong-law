@@ -94,8 +94,17 @@ s-060.md
 s-061.md
 s-061A.md
 s-062.md
+s-062A.md
 s-063.md
+s-063A.md
+s-063B.md
+s-063C.md
+s-063D.md
+s-063E.md
+s-063F.md
+s-063G.md
 s-064.md
+s-064A.md
 s-065.md
 s-066.md
 s-067.md
