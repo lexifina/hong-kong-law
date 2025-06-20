@@ -28,6 +28,10 @@ Public Bodies Specified for Purposes of Definition of Public Servant
 
 11. | BEAM Society Limited. (Added L.N. 67 of 2016)
 
+12. | OTC Clearing Hong Kong Limited. (Added L.N. 132 of 2025)
+
+13. | CMU OmniClear Limited. (Added L.N. 132 of 2025)
+
 (Schedule 2 added 20 of 1999 s. 7)
 
 Editorial Note:

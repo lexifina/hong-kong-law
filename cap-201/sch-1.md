@@ -282,6 +282,14 @@ Public Bodies
 
 137. | HKMC Insurance Limited. (Added L.N. 3 of 2021)
 
+138. | Hong Kong Investment Corporation Limited. (Added L.N. 132 of 2025)
+
+139. | Hong Kong FMI Services Limited. (Added L.N. 132 of 2025)
+
+140. | OTC Clearing Hong Kong Limited. (Added L.N. 132 of 2025)
+
+141. | CMU OmniClear Limited. (Added L.N. 132 of 2025)
+
 (Replaced L.N. 272 of 1974)
 
 Editorial Note:
