@@ -246,6 +246,50 @@ List of Recognized Medical Qualifications
 
 - 118. | The United States of America | University of Florida | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 106 of 2024)
 
+- 119. | Australia | Monash University | Bachelor of Medical Science; Doctor of Medicine (4-year medical programme) (Added L.N. 135 of 2025)
+
+- 120. | Australia | The University of Queensland | Doctor of Medicine (4-year The University of Queensland-Ochsner medical programme) (Added L.N. 135 of 2025)
+
+- 121. | Canada | McGill University | Doctorem Medicinae et Chirurgiae Magistrum; Philosophiae Doctor (7-year to 8-year medical programme offered at Montreal Campus) (Added L.N. 135 of 2025)
+
+- 122. | Canada | University of Ottawa | Doctor of Medicine and Doctor of Philosophy (7-year medical programme) (Added L.N. 135 of 2025)
+
+- 123. | China | Sichuan University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 135 of 2025)
+
+- 124. | China | Sichuan University | Bachelor of Medicine and Bachelor of Surgery (a translation of “醫學學士”) (6-year Undergraduate Programme in Medicine and Surgery (a translation of “臨床醫學專業六年制”) medical programme) (Added L.N. 135 of 2025)
+
+- 125. | China | Sichuan University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士”) (8-year Clinical Medicine (a translation of “臨床醫學八年制”) medical programme) (Added L.N. 135 of 2025)
+
+- 126. | The United Kingdom | King’s College London | Bachelor of Medicine, Bachelor of Surgery (4-year Graduate Entry Medicine Programme offered at London Campus) (Added L.N. 135 of 2025)
+
+- 127. | The United Kingdom | King’s College London | Bachelor of Medicine, Bachelor of Surgery (6-year Extended Medical Degree Programme) (Added L.N. 135 of 2025)
+
+- 128. | The United States of America | Brown University | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 129. | The United States of America | Dartmouth College | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 130. | The United States of America | Johns Hopkins University | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 131. | The United States of America | Oregon Health and Science University | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 132. | The United States of America | The University of Texas Southwestern Medical Center | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 133. | The United States of America | University of California, San Diego | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 134. | The United States of America | University of California, San Francisco | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 135. | The United States of America | University of Chicago | Doctor of Medicine and Doctor of Philosophy (8-year Medicine, the Social Sciences and Humanities medical programme) (Added L.N. 135 of 2025)
+
+- 136. | The United States of America | University of North Carolina at Chapel Hill | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 137. | The United States of America | University of Pennsylvania | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 138. | The United States of America | University of Virginia | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 139. | The United States of America | University of Washington | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 140. | The United States of America | Vanderbilt University | Doctor of Medicine and Doctor of Philosophy (7-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
 - (Amended L.N. 56 of 2022)
 
 - Part 2
@@ -508,6 +552,50 @@ List of Recognized Medical Qualifications
 
 - 127. | The United States of America | University of Chicago | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 106 of 2024)
 
-- 128. | The United States of America | University of Florida | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 106 of 2024)
+- 128. | The United States of America | University of Florida | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Replaced L.N. 135 of 2025)
+
+- 129. | Australia | Monash University | Bachelor of Medical Science; Doctor of Medicine (4-year medical programme) (Added L.N. 135 of 2025)
+
+- 130. | Australia | The University of Queensland | Doctor of Medicine (4-year The University of Queensland-Ochsner medical programme) (Added L.N. 135 of 2025)
+
+- 131. | Canada | McGill University | Doctorem Medicinae et Chirurgiae Magistrum; Philosophiae Doctor (7-year to 8-year medical programme offered at Montreal Campus) (Added L.N. 135 of 2025)
+
+- 132. | Canada | University of Ottawa | Doctor of Medicine and Doctor of Philosophy (7-year medical programme) (Added L.N. 135 of 2025)
+
+- 133. | China | Sichuan University | Bachelor of Medicine (a translation of “醫學學士”) (5-year Clinical Medicine (a translation of “臨床醫學專業五年制”) medical programme) (Added L.N. 135 of 2025)
+
+- 134. | China | Sichuan University | Bachelor of Medicine and Bachelor of Surgery (a translation of “醫學學士”) (6-year Undergraduate Programme in Medicine and Surgery (a translation of “臨床醫學專業六年制”) medical programme) (Added L.N. 135 of 2025)
+
+- 135. | China | Sichuan University | Bachelor of Medicine; Doctor of Medicine (a translation of “醫學學士；臨床醫學博士”) (8-year Clinical Medicine (a translation of “臨床醫學八年制”) medical programme) (Added L.N. 135 of 2025)
+
+- 136. | The United Kingdom | King’s College London | Bachelor of Medicine, Bachelor of Surgery (4-year Graduate Entry Medicine Programme offered at London Campus) (Added L.N. 135 of 2025)
+
+- 137. | The United Kingdom | King’s College London | Bachelor of Medicine, Bachelor of Surgery (6-year Extended Medical Degree Programme) (Added L.N. 135 of 2025)
+
+- 138. | The United States of America | Brown University | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 139. | The United States of America | Dartmouth College | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 140. | The United States of America | Johns Hopkins University | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 141. | The United States of America | Oregon Health and Science University | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 142. | The United States of America | The University of Texas Southwestern Medical Center | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 143. | The United States of America | University of California, San Diego | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 144. | The United States of America | University of California, San Francisco | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 145. | The United States of America | University of Chicago | Doctor of Medicine and Doctor of Philosophy (8-year Medicine, the Social Sciences and Humanities medical programme) (Added L.N. 135 of 2025)
+
+- 146. | The United States of America | University of North Carolina at Chapel Hill | Doctor of Medicine and Doctor of Philosophy (8-year medical programme) (Added L.N. 135 of 2025)
+
+- 147. | The United States of America | University of Pennsylvania | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 148. | The United States of America | University of Virginia | Doctor of Medicine and Doctor of Philosophy (7-year to 8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 149. | The United States of America | University of Washington | Doctor of Medicine and Doctor of Philosophy (8-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
+
+- 150. | The United States of America | Vanderbilt University | Doctor of Medicine and Doctor of Philosophy (7-year Medical Scientist Training Programme medical programme) (Added L.N. 135 of 2025)
 
 - (Amended L.N. 56 of 2022) (Schedule 1A added 37 of 2021 s. 14)
