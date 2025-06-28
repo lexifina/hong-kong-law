@@ -294,7 +294,27 @@ Poisons List
 
     - Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters
 
-    - Steroid compounds with androgenic or oestrogenic or progestational activity; their esters
+    - Steroid compounds with androgenic or oestrogenic or progestational activity; their esters; except when contained in a preparation intended to be taken orally for contraceptive purposes only and each dose of the preparation contains not more than the following—
+
+    - 0.15 mg of Desogestrel;
+
+    - 3.00 mg of Drospirenone;
+
+    - 0.05 mg of Ethinyloestradiol;
+
+    - 0.10 mg of Gestodene;
+
+    - 0.25 mg of Levonorgestrel;
+
+    - 2.50 mg of Lynoestrenol;
+
+    - 0.05 mg of Mestranol;
+
+    - 1.00 mg of Norethisterone;
+
+    - 0.25 mg of Norgestimate; and
+
+    - 0.50 mg of Norgestrel
 
     - Anidulafungin; its salts; its esters; their salts
 
@@ -3604,9 +3624,31 @@ Poisons List
 
     - Salicylamide; its salts; when contained in pharmaceutical products
 
+    - Steroid compounds with androgenic or oestrogenic or progestational activity; their esters; when contained in a preparation intended to be taken orally for contraceptive purposes only and each dose of the preparation contains not more than the following—
+
+    - 0.15 mg of Desogestrel;
+
+    - 3.00 mg of Drospirenone;
+
+    - 0.05 mg of Ethinyloestradiol;
+
+    - 0.10 mg of Gestodene;
+
+    - 0.25 mg of Levonorgestrel;
+
+    - 2.50 mg of Lynoestrenol;
+
+    - 0.05 mg of Mestranol;
+
+    - 1.00 mg of Norethisterone;
+
+    - 0.25 mg of Norgestimate; and
+
+    - 0.50 mg of Norgestrel
+
     - Terbinafine; its salts; when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled only for the treatment of tinea pedis or tinea cruris, or both
 
-    - (L.N. 234 of 2015; L.N. 235 of 2015; L.N. 194 of 2022; L.N. 177 of 2024)
+    - (L.N. 234 of 2015; L.N. 235 of 2015; L.N. 194 of 2022; L.N. 105 of 2024; L.N. 177 of 2024)
 
   - Division B
 
