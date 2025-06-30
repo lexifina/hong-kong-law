@@ -306,6 +306,8 @@ Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for Acknowl
 
 1. The accompanying form of ACKNOWLEDGMENT OF SERVICE should be detached and completed by a Solicitor acting on behalf of the Defendant or by the Defendant if acting in person. After completion it must be delivered or sent by post to the Registry of the High Court at the following address:— [insert here the address of the Registry of the High Court]
 
+1A. However, a Defendant (or a Solicitor acting on behalf of a Defendant) who is a registered user or an Organization User account holder may send the Acknowledgment of Service to the Registry of the High Court by means of an e-system in accordance with the Court Proceedings (Electronic Technology) (High Court Civil Proceedings) Rules. Note— For the meaning of Organization User account holder and registered user, please see rule 2 of the Court Proceedings (Electronic Technology) (High Court Civil Proceedings) Rules.
+
 2. A Defendant who states in his Acknowledgment of Service that he intends to contest the proceedings MUST ALSO file a DEFENCE which must be written in either the Chinese or the English language with the registry and serve a copy thereof on the Solicitor for the Plaintiff (or on the Plaintiff if acting in person).
 
 If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of Claim” appear at the top of the back), the Defence must be filed and served within 28 days after the time for acknowledging service of the Writ, unless in the meantime a summons for judgment is served on the Defendant.
@@ -326,9 +328,9 @@ Notes for Guidance
 
 1. Each Defendant (if there are more than one) is required to complete an Acknowledgment of Service and return it to the Registry of the High Court.
 
-[2. For the purpose of calculating the period of 14 days for acknowledging service, a writ served on the Defendant personally is treated as having been served on the day it was delivered to him and a writ served by post or by insertion through the Defendant’s letter box is treated as having been served on the seventh day after the date of posting or insertion.]
+[2. For the purpose of calculating the period of 14 days for acknowledging service, a writ served on the Defendant personally is treated as having been served on the day it was delivered to him and a writ served by post or by insertion through the Defendant’s letter box, or by sending it by electronic transmission in accordance with the Court Proceedings (Electronic Technology) (High Court Civil Proceedings) Rules, is treated as having been served on the seventh day after the date of posting, insertion or sending by electronic transmission.]
 
-(Note: Not applicable if the defendant is a company served at its registered office.)
+(Note: Not applicable if the Defendant is a company served at its registered office.)
 
 3. Where the Defendant is sued in a name different from his own, the form must be completed by him with the addition in paragraph 1 of the words “sued as (the name stated on the Writ of Summons)”.
 
@@ -339,6 +341,8 @@ Notes for Guidance
 6. Where the Defendant is a LIMITED COMPANY the form must be completed by a Solicitor or by someone authorized to act on behalf of the Company, but the Company can take no further step in the proceedings without a Solicitor acting on its behalf.
 
 7. Where the Defendant is a MINOR or a MENTAL Patient, the form must be completed by a Solicitor acting for a guardian ad litem.
+
+7A. A Defendant (or a Solicitor acting on behalf of a Defendant) who has received a printout of a Writ of Summons issued by the High Court in electronic form may contact the Registry of the High Court to ascertain whether the Writ of Summons had been issued by quoting its document reference number. For details, please refer to the administrative instructions issued by the Judiciary Administrator.
 
 8. A Defendant acting in person may obtain help in completing the form at the Registry of the High Court.
 
@@ -380,7 +384,7 @@ Notes as to Address for Service
 
 - Indorsement by plaintiff’s solicitor (or by plaintiff if suing in person) of his name, address and reference, if any.
 
-(L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2; L.N. 129 of 2000; L.N. 152 of 2008)
+(L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2; L.N. 129 of 2000; L.N. 152 of 2008; L.N. 60 of 2025)
 
 _
 
@@ -2974,7 +2978,7 @@ No. 105
 
 Application for order for imprisonment in default of payment (O. 49B r. 1B) In the High Court of Hong Kong Court of First Instance
 
-Between | A.B. | Judgment Creditor
+Between | A. B. | Judgment Creditor
 
 and
 
