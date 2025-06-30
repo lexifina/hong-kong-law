@@ -1,6 +1,6 @@
 # First Schedule
 
-[r. 2]
+[rr. 2, 3 & 5 & 2nd Sch.] (L.N. 58 of 2025)
 
 Commencement of a Cause or Matter
 
@@ -58,11 +58,13 @@ Copies, Translations and Searches
 
 (b) | Additional copies, per page | $ | 4.00
 
-9. | (a) | Photostatic copy of a document made in the Registry, per page | $ | 4.00
+9. | (a) | Copy of a document made in the Registry, per page | $ | 4.00
 
-(b) | Photostatic copy and certification, per page | $ | 5.50
+Note (with no legislative effect)— No fee is payable for the copy if it is an electronic copy obtained from a designated information system: see rule 4 of the Court Proceedings (Electronic Technology) (High Court) (Electronic Fees) Rules. (L.N. 58 of 2025)
 
-(c) | Photostatic copy of a library book, per page | $ | 4.00
+(b) | Copy of a document made in the Registry and certification, per page (L.N. 58 of 2025) | $ | 5.50
+
+(c) | Copy of a library book, per page (L.N. 58 of 2025) | $ | 4.00
 
 10. | (a) | Translation made in the Registry of a document from Chinese into English, or vice versa including certificate, per page | $ | 72.00
 
@@ -130,9 +132,9 @@ Miscellaneous Fees
 
 21. | Authentication of document by the Registrar | $ | 125.00
 
-22. | On sealing of a notice in Form No. 80 under Order 50, rule 11(2) (L.N. 364 of 1992) | $ | 1,045.00
+22. | On sealing a notice in Form No. 80 in Appendix A of the Rules of the High Court (Cap. 4 sub. leg. A) filed under Order 50, rule 11(2) of those Rules (L.N. 364 of 1992; L.N. 58 of 2025) | $ | 1,045.00
 
-23. | On sealing of an injunction order undertaken before commencement of a cause or of an order made under section 21M of the Ordinance (L.N. 364 of 1992; L.N. 154 of 2008) | $ | 1,045.00
+23. | On sealing an injunction order undertaken before commencement of a cause or an order made under section 21M of the Ordinance (L.N. 364 of 1992; L.N. 154 of 2008; L.N. 58 of 2025) | $ | 1,045.00
 
 24. | Registration of an enduring power of attorney (L.N. 283 of 1997) | $ | 440.00
 

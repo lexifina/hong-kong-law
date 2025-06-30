@@ -1,6 +1,6 @@
 # Second Schedule
 
-[r. 2]
+[rr. 2 & 3] (L.N. 58 of 2025)
 
 Probate Jurisdiction
 
