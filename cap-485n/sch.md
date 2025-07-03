@@ -27,3 +27,9 @@ Item | Pre-existing scheme | Material day
 10. | BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 49 of 2025) | 5 June 2025
 
 11. | My Choice Mandatory Provident Fund Scheme (L.N. 49 of 2025) | 5 June 2025
+
+12. | AMTD MPF Scheme (L.N. 62 of 2025) | 3 July 2025
+
+13. | BCT Strategic MPF Scheme (L.N. 62 of 2025) | 3 July 2025
+
+14. | Manulife RetireChoice (MPF) Scheme (L.N. 62 of 2025) | 3 July 2025
