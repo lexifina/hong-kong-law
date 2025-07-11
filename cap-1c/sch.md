@@ -158,7 +158,9 @@ Commissioner for Transport | Tsing Sha Control Area (Tolls, Fees and Charges) Re
 
 Commissioner of Correctional Services | Training Centres Ordinance (Cap. 280).
 
-Commissioner of Customs and Excise | Import and Export Ordinance (Cap. 60), sections 7, 12, 13G, 13H, 27(3) and (3B), 28(2A) and (10), 29A(1) and 33A(1)(b). (16 of 2023 s. 4)
+Commissioner of Customs and Excise | Import and Export Ordinance (Cap. 60), sections 7, 12, 13G, 13H, 27(3) and (3B), 28(2A) and (10), 29A(1), 30B, 30D, 30E and 33A(1)(b). (16 of 2023 s. 4; 30 of 2025 s. 65)
+
+Commissioner of Customs and Excise | Import and Export (Fees) Regulations (Cap. 60 sub. leg. B). (30 of 2025 s. 65)
 
 Commissioner of Customs and Excise | Import and Export (Registration) Regulations (Cap. 60 sub. leg. E).
 
@@ -172,11 +174,13 @@ Commissioner of Customs and Excise | Dutiable Commodities (Marking and Colouring
 
 Commissioner of Customs and Excise | Control of Chemicals Ordinance (Cap. 145).
 
-Commissioner of Customs and Excise | Reserved Commodities Ordinance (Cap. 296), section 10.
+Commissioner of Customs and Excise | Reserved Commodities Ordinance (Cap. 296), sections 10, 16, 18 and 19. (30 of 2025 s. 65)
 
 Commissioner of Customs and Excise | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Cap. 296 sub. leg. A), regulations 7A and 9(2).
 
 Commissioner of Customs and Excise | Industrial Training (Clothing Industry) Ordinance (Cap. 318).
+
+Commissioner of Customs and Excise | Protection of Non-Government Certificates of Origin Ordinance (Cap. 324), sections 11A, 11C and 11D. (30 of 2025 s. 65)
 
 Commissioner of Customs and Excise | Trade Descriptions Ordinance (Cap. 362), sections 16(3), 16C(1), (2) and (3) and 30(2), (3) and (5).
 
