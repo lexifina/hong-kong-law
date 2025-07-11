@@ -75,6 +75,7 @@ s-051.md
 s-052.md
 s-052A.md
 s-052B.md
+s-052C.md
 s-053.md
 s-054.md
 s-055.md
@@ -99,6 +100,12 @@ s-071.md
 s-072.md
 s-073.md
 s-074.md
+s-075.md
+s-076.md
+s-077.md
+s-078.md
+s-079.md
+s-080.md
 sch-1A.md
 sch-1B.md
 sch-1.md
