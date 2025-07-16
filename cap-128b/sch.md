@@ -6,15 +6,15 @@
 
 Where the amount or value of the consideration or value of the property or share or interest affected—
 
-(a) | does not exceed $750,000 | $230
+(a) | does not exceed $750,000 | $265
 
-(b) | exceeds $750,000 | $450
+(b) | exceeds $750,000 | $520
 
 (L.N. 145 of 1996)
 
-2. | Registration of any agreement for sale and purchase or for mortgage | $210
+2. | Registration of any agreement for sale and purchase or for mortgage | $280
 
-3. | Registration of any lease, agreement for a lease, or renewal or surrender of a lease | $210
+3. | Registration of any lease, agreement for a lease, or renewal or surrender of a lease | $280
 
 4. | Registration of any deed of mutual covenant, its sub-deed or sub-sub-deed or any supplemental deed thereof—
 
@@ -26,11 +26,11 @@ Where the number of property units thereunder is—
 
 (L.N. 145 of 1996)
 
-5. | Registration of any probate, letters of administration, deed of appointment of new trustees, lis pendens, writ of foreign attachment, judgment, decree, prohibitory order, or other order of Court, certificate of satisfaction of a judgment or of dissolution of a writ of foreign attachment, or any other instrument whatsoever not otherwise specifically mentioned in this Schedule | $210
+5. | Registration of any probate, letters of administration, deed of appointment of new trustees, lis pendens, writ of foreign attachment, judgment, decree, prohibitory order, or other order of Court, certificate of satisfaction of a judgment or of dissolution of a writ of foreign attachment, or any other instrument whatsoever not otherwise specifically mentioned in this Schedule | $280
 
 6. | Registration of any instrument whereby any charge or mortgage, whether legal or equitable, on any property or on any share or interest in any property is assigned or transferred—
 
-per 100 charges or mortgages or part thereof assigned or transferred | $2,000
+per 100 charges or mortgages or part thereof assigned or transferred | $2,660
 
 7. | Receiving for registration any instrument withheld from registration and subsequently redelivered for registration, whether for the first or any subsequent time, in addition to the fees already paid under item 1, 2, 3, 4, 5 or 6—
 
@@ -86,4 +86,4 @@ $200
 
 17. | Certifying as a true copy | $150
 
-(L.N. 35 of 1996; 29 of 1998 s. 105; 20 of 2002 s. 5; L.N. 193 of 2004)
+(L.N. 35 of 1996; 29 of 1998 s. 105; 20 of 2002 s. 5; L.N. 193 of 2004; L.N. 79 of 2025)
