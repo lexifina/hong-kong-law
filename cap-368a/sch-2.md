@@ -638,6 +638,10 @@ Tolls and Fees
 
   - Airport Tunnel (機場隧道) | $140 | $175 | $215
 
+  - Central Kowloon Bypass (Kowloon Bay Section Tunnel) (中九龍繞道(九龍灣段隧道)) (L.N. 86 of 2025) | $140 | $175 | $215
+
+  - Central Kowloon Bypass (Yau Ma Tei Section Tunnel) (中九龍繞道(油麻地段隧道)) (L.N. 86 of 2025) | $140 | $175 | $215
+
   - Central-Wan Chai Bypass Tunnel (中環及灣仔繞道隧道) | $140 | $175 | $215
 
   - Cheung Shan Tunnel (長山隧道) | $140 | $175 | $215
@@ -679,6 +683,10 @@ Tolls and Fees
 - Aberdeen Tunnel (香港仔隧道) | $82
 
 - Airport Tunnel (機場隧道) | $82
+
+- Central Kowloon Bypass (Kowloon Bay Section Tunnel) (中九龍繞道(九龍灣段隧道)) (L.N. 86 of 2025) | $82
+
+- Central Kowloon Bypass (Yau Ma Tei Section Tunnel) (中九龍繞道(油麻地段隧道)) (L.N. 86 of 2025) | $82
 
 - Central-Wan Chai Bypass Tunnel (中環及灣仔繞道隧道) | $82
 

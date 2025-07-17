@@ -1,8 +1,8 @@
-# 8AAB. Western Harbour Crossing and Tai Lam Tunnel: control of use of traffic lanes for certain vehicles
+# 8AAB. Western Harbour Crossing, Tai Lam Tunnel and Central Kowloon Bypass (Yau Ma Tei Section Tunnel): control of use of traffic lanes for certain vehicles
 
-(3 of 2025 s. 9)
+(3 of 2025 s. 9; L.N. 86 of 2025)
 
-(1) This regulation applies to the Western Harbour Crossing and the Tai Lam Tunnel. (3 of 2025 s. 9)
+(1) This regulation applies to the Western Harbour Crossing, the Tai Lam Tunnel and the Central Kowloon Bypass (Yau Ma Tei Section Tunnel). (3 of 2025 s. 9; L.N. 86 of 2025)
 
 (2) Except when directed or signalled to do otherwise by an authorized officer, a person must not drive any of the following vehicles on a road inside a tunnel tube other than in the left most lane—
 
