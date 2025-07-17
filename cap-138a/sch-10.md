@@ -2188,6 +2188,8 @@ Poisons List
 
     - Nicocodine; its salts
 
+    - Nicotinamide mononucleotide when contained as an active ingredient in products for human parenteral administration
+
     - Nicotinic acid and its salts when contained in pharmaceutical products the recommended daily dose of which contains more than 200 mg of nicotinic acid
 
     - Nifedipine
