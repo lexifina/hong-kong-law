@@ -324,8 +324,6 @@ Poisons List
 
     - Anistreplase
 
-    - Anlotinib; its salts
-
     - Antihistamine substances, the following; their salts; any compound with any substance falling within this item—
 
     - Acrivastine
@@ -729,6 +727,8 @@ Poisons List
     - Casirivimab
 
     - Caspofungin; its salts
+
+    - Catequentinib (Anlotinib); its salts
 
     - Cedazuridine; its salts
 
@@ -1856,6 +1856,8 @@ Poisons List
 
     - Losartan; its salts
 
+    - Lotilaner; its salts
+
     - Lovastatin when contained in pharmaceutical products
 
     - Loxapine; its salts
@@ -1899,6 +1901,8 @@ Poisons List
     - Marbofloxacin; its salts
 
     - Maribavir; its salts
+
+    - Marstacimab
 
     - Mavacamten; its salts
 
@@ -2057,6 +2061,8 @@ Poisons List
     - Minoxidil
 
     - Mirabegron; its salts; its esters; their salts
+
+    - Mirogabalin; its salts; its esters; their salts
 
     - Mirtazapine; its salts
 
@@ -2688,6 +2694,8 @@ Poisons List
 
     - Pholcodine; its salts; its esters and ethers; their salts
 
+    - Phospholipid fraction; when contained in pharmaceutical products intended to be used as pulmonary surfactant for the treatment of respiratory distress syndrome
+
     - Pibrentasvir; its salts
 
     - Picric acid
@@ -3216,6 +3224,8 @@ Poisons List
 
     - Tepotinib; its salts
 
+    - Teprotumumab
+
     - Terazosin; its salts
 
     - Terbinafine; its salts; except when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled only for the treatment of tinea pedis or tinea cruris, or both
@@ -3552,7 +3562,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025; L.N. 116 of 2025)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025; L.N. 116 of 2025; L.N. 161 of 2025)
 
   - Division B
 
