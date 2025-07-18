@@ -160,8 +160,12 @@ Cemeteries, Crematoria and Gardens of Remembrance
 
 - Peng Chau
 
+- Sandy Ridge
+
+- Shek Mun
+
 - Tsang Tsui
 
 - Wo Hop Shek
 
-- (Part 7 replaced 78 of 1999 s. 7. Added L.N. 267 of 2020)
+- (Part 7 replaced 78 of 1999 s. 7. Amended L.N. 267 of 2020; L.N. 88 of 2025)
