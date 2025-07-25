@@ -72,7 +72,7 @@ Item | Ordinance | Decision
 
 (d) | A decision of the Commissioner referred to in section 34(1AA). (Added 14 of 2000 s. 33)
 
-(e) | The imposition of a term or condition under section 4(3), 12(4), 12A(3), 27A(1), 29 or 46C(3), which is considered to be unreasonable. (Added 14 of 2000 s. 33)
+(e) | The imposition of a term or condition under section 4(3), 12(4), 12A(3), 26C(2)(b), 27A(1), 29 or 46C(3), which is considered to be unreasonable. (Added 14 of 2000 s. 33. Amended 20 of 2025 s. 18)
 
 15. | Massage Establishments Ordinance (Cap. 266) | A decision of the licensing authority under section 6, 7, 8 or 9.
 
@@ -509,6 +509,12 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 (c) | to suspend the registration of a body corporate as a nominating body under section 62(2)(b); or
 
 (d) | to cancel the registration of a body corporate as a nominating body under section 62(2)(b). (Added 35 of 2024 s. 72)
+
+81. | Firearms and Ammunition (Marking of Firearms) Regulation | A decision of the Commissioner of Police to—
+
+(a) | refuse an application under section 8(1), 9(1) or 10(1); or
+
+(b) | refuse to accept an application under section 8(3). (Added L.N. 156 of 2025)
 
 (Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
