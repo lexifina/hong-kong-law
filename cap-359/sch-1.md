@@ -1,6 +1,8 @@
-# Schedule
+# Schedule 1
 
-[ss. 1 & 2] (Format changes—E.R. 2 of 2012)
+[ss. 1 & 2]
+
+(Format changes—E.R. 2 of 2012) (Renumbered 33 of 2025 s. 37)
 
 Item | Profession | Interpretation
 

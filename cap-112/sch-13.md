@@ -54,23 +54,23 @@ Item | Institution
 
 22. | The Medical Council of Hong Kong established by section 3 of the Medical Registration Ordinance (Cap. 161)
 
-23. | The Medical Laboratory Technologists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+23. | The Medical Laboratory Technologists Board established by section 5 of the Allied Health Professions Ordinance (Cap. 359) (Amended 33 of 2025 s. 187)
 
 24. | The Midwives Council of Hong Kong established by section 3 of the Midwives Registration Ordinance (Cap. 162)
 
 25. | The Nursing Council of Hong Kong established by section 3 of the Nurses Registration Ordinance (Cap. 164)
 
-26. | The Occupational Therapists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+26. | The Occupational Therapists Board established by section 5 of the Allied Health Professions Ordinance (Cap. 359) (Amended 33 of 2025 s. 187)
 
-27. | The Optometrists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+27. | The Optometrists Board established by section 5 of the Allied Health Professions Ordinance (Cap. 359) (Amended 33 of 2025 s. 187)
 
 28. | The Pharmacy and Poisons Board established by section 3 of the Pharmacy and Poisons Ordinance (Cap. 138)
 
-29. | The Physiotherapists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+29. | The Physiotherapists Board established by section 5 of the Allied Health Professions Ordinance (Cap. 359) (Amended 33 of 2025 s. 187)
 
 30. | The Planners Registration Board established by section 3 of the Planners Registration Ordinance (Cap. 418)
 
-31. | The Radiographers Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+31. | The Radiographers Board established by section 5 of the Allied Healthl Professions Ordinance (Cap. 359) (Amended 33 of 2025 s. 187)
 
 32. | The Security and Guarding Services Industry Authority established by section 4 of the Security and Guarding Services Ordinance (Cap. 460)
 

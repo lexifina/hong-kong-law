@@ -6,22 +6,24 @@ Fees
 
 Item | Particulars | Fee $
 
-1. | Registration under section 13 of the Ordinance | 1,330
+1. | Full registration under section 13 of the Ordinance (33 of 2025 s. 184) | 3,020
 
-2. | Provisional registration under section 15 of the Ordinance | 1,085
+1A. | Limited registration under section 13A of the Ordinance (33 of 2025 s. 184) | 3,020
 
-3. | Practising certificate issued under section 16 of the Ordinance | 435
+2. | (Repealed 33 of 2025 s. 184)
 
-4. | Certified copy of a certificate of registration under section 14(3) of the Ordinance | 310
+3. | Application for a practising certificate (33 of 2025 s. 184) | 540
 
-5. | Duplicate certificate of registration under section 14(7) of the Ordinance | 360
+4. | Certified copy of a certificate of registration under section 14(3) of the Ordinance | 655
 
-6. | Restoration to the register under section 10(5) of the Ordinance | 585
+5. | Duplicate certificate of registration under section 14(7) of the Ordinance | 845
 
-7. | Certificate of standing under section 14A of the Ordinance | 720
+6. | Restoration to the register under section 10(5) of the Ordinance | 1,450
 
-8. | Examination fee for any examination conducted under section 15A of the Ordinance | 1,750
+7. | Certificate of standing under section 14A of the Ordinance | 1,710
 
-9. | Certificate verifying registration under section 14A of the Ordinance | 545
+8. | Examination fee for any examination conducted under section 15A of the Ordinance | 6,050
 
-(L.N. 322 of 2000; L.N. 91 of 2006; L.N. 141 of 2015)
+9. | Certificate verifying registration under section 14A of the Ordinance | 1,300
+
+(L.N. 322 of 2000; L.N. 91 of 2006; L.N. 141 of 2015; 33 of 2025 s. 184)

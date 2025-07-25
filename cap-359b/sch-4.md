@@ -10,7 +10,9 @@ Part 1
 
 1. | A registered medical practitioner while practising medicine | 21(1)
 
-2. | A student in the course of undergoing any course in occupational therapy or medicine at the University of Hong Kong, The Chinese University of Hong Kong or The Hong Kong Polytechnic University (L.N. 643 of 1994) | 21(1)
+2. | A student in the course of undergoing any course in medicine at a university specified in Schedule 1 to the Medical Registration Ordinance (Cap. 161) (L.N. 643 of 1994; 33 of 2025 s. 95) | 21(1)
+
+2A. | A student in the course of undergoing any course for the programme that is for the conferment or award of— (a) any of the qualifications specified under regulation 4(1); or (b) a qualification under consideration by the Council for specification under regulation 4(1), at the university, school or institution operating that programme (33 of 2025 s. 95) | 21(1)
 
 Part 2
 
@@ -32,4 +34,4 @@ Part 2
 
 8. | A medical clinic carried on by a corporation and registered under the Medical Clinics Ordinance (Cap. 343) | 20 and 21(1)
 
-9. | The Chinese Medicine Hospital of Hong Kong (as defined by section 2(5) of The Chinese Medicine Hospital of Hong Kong Ordinance (15 of 2025)) (15 of 2025 s. 3) | 20 and 21(1)
+9. | The Chinese Medicine Hospital of Hong Kong (15 of 2025 s. 3; 33 of 2025 s. 95) | 20 and 21(1)

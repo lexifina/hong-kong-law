@@ -12,7 +12,9 @@ Part 1
 
 2. | A registered dentist as defined by section 2(1) of the Dentists Registration Ordinance (Cap. 156) while practising dentistry (22 of 2024 s. 130) | 21(1)
 
-3. | A student in the course of undergoing any course of training to be a medical laboratory technologist, in medicine or in dentistry at the University of Hong Kong, The Chinese University of Hong Kong or The Hong Kong Polytechnic University (L.N. 640 of 1994) | 21(1)
+3. | A student in the course of undergoing any course in medicine at a university specified in Schedule 1 to the Medical Registration Ordinance (Cap. 161) or in dentistry at a university specified in Schedule 1 to the Dentists Registration Ordinance (Cap. 156) (L.N. 640 of 1994; 33 of 2025 s. 66) | 21(1)
+
+3A. | A student in the course of undergoing any course for the programme that is for the conferment or award of— (a) any of the qualifications specified under regulation 4(1); or (b) a qualification under consideration by the Council for specification under regulation 4(1), at the university, school or institution operating that programme (33 of 2025 s. 66) | 21(1)
 
 4. | A veterinary surgeon registered under the Veterinary Surgeons Registration Ordinance (Cap. 529) in relation to any treatment by him of an animal (L.N. 5 of 1999) | 21(1) and (2)
 
@@ -30,4 +32,4 @@ Part 2
 
 11. | A medical clinic carried on by a corporation and registered under the Medical Clinics Ordinance (Cap. 343) | 20 and 21(1)
 
-12. | The Chinese Medicine Hospital of Hong Kong (as defined by section 2(5) of The Chinese Medicine Hospital of Hong Kong Ordinance (15 of 2025)) (15 of 2025 s. 3) | 20 and 21(1)
+12. | The Chinese Medicine Hospital of Hong Kong (15 of 2025 s. 3; 33 of 2025 s. 66) | 20 and 21(1)

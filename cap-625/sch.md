@@ -20,7 +20,7 @@ Healthcare Professionals
 
 8. | A registered occupational therapist within the meaning of the Occupational Therapists (Registration and Disciplinary Procedure) Regulations (Cap. 359 sub. leg. B).
 
-9. | A registered optometrist within the meaning of the Optometrists (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. F) whose name has been entered in Part I of the register as defined by section 2 of that Regulation.
+9. | A registered optometrist within the meaning of the Optometrists (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. F). (Amended 33 of 2025 s. 209)
 
 10. | A registered radiographer within the meaning of the Radiographers (Registration and Disciplinary Procedure) Regulation (Cap. 359 sub. leg. H).
 

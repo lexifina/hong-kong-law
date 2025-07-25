@@ -22,7 +22,7 @@ Authorization or Qualification Specified for the Purposes of Section 19(2) of th
 
   - (g) the Nurses Registration Ordinance (Cap. 164);
 
-  - (h) the Supplementary Medical Professions Ordinance (Cap. 359);
+  - (h) the Allied Health Professions Ordinance (Cap. 359); (Amended 33 of 2025 s. 206)
 
   - (i) the Chiropractors Registration Ordinance (Cap. 428);
 

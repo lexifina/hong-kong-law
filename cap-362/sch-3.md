@@ -30,7 +30,7 @@ Exempt Persons
 
 - 11. A registered nurse or an enrolled nurse, as defined by section 2(1) of the Nurses Registration Ordinance (Cap. 164), or a person deemed by section 26 of that Ordinance to be a registered nurse or an enrolled nurse.
 
-- 12. A person whose name is entered in the register kept under section 10 of the Supplementary Medical Professions Ordinance (Cap. 359) for the profession of medical laboratory technologist, radiographer, physiotherapist, occupational therapist or optometrist or a person who is deemed by section 30(2) of that Ordinance to be so registered or is provisionally so registered in accordance with the provisions of section 15 of that Ordinance.
+- 12. A person whose name is entered in the register kept under section 10 of the Allied Health Professions Ordinance (Cap. 359) for the profession of medical laboratory technologist, radiographer, physiotherapist, occupational therapist or optometrist or a person who is deemed by section 30(2) of that Ordinance to be so registered. (Amended 33 of 2025 s. 202)
 
 - 13. A person whose name is currently entered in the register of registered architects established and maintained under section 8 of the Architects Registration Ordinance (Cap. 408).
 

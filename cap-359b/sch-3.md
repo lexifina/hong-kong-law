@@ -6,24 +6,26 @@ Fees
 
 Item | Particular | Fee $
 
-1. | Any alteration to the register under section 10(2) | 460
+1. | (Repealed 33 of 2025 s. 94)
 
-2. | Restoration to the register under section 10(5) | 585
+2. | Restoration to the register under section 10(5) | 1,450
 
-3. | Registration under section 13 | 1,330
+3. | Full registration under section 13 | 3,020
 
-4. | Certified copy of a certificate of registration under section 14(3) | 310
+3A. | Limited registration under section 13A (33 of 2025 s. 94) | 3,020
 
-5. | Duplicate certificate of registration under section 14(7) | 360
+4. | Certified copy of a certificate of registration under section 14(3) | 655
 
-6. | Certificate of standing under section 14A | 720
+5. | Duplicate certificate of registration under section 14(7) | 845
 
-7. | Certificate verifying registration under section 14A | 545
+6. | Certificate of standing under section 14A | 1,710
 
-8. | Provisional registration under section 15 | 1,085
+7. | Certificate verifying registration under section 14A | 1,300
 
-9. | Examination fee for an examination under section 15A | 1,750
+8. | (Repealed 33 of 2025 s. 94)
 
-10. | Practising certificate issued under section 16 (34 of 1995 s. 42) | 435
+9. | Examination fee for an examination under section 15A | 6,050
 
-(L.N. 518 of 1994; L.N. 318 of 1996; L.N. 320 of 2000; L.N. 88 of 2006; L.N. 138 of 2015)
+10. | Application for a practising certificate (33 of 2025 s. 94) | 540
+
+(L.N. 518 of 1994; L.N. 318 of 1996; L.N. 320 of 2000; L.N. 88 of 2006; L.N. 138 of 2015; 33 of 2025 s. 94)
