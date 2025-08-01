@@ -202,15 +202,19 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (xxi) the section of Cheong Lin Road between Sky City Interchange and Airport South Interchange; (L.N. 62 of 2017)
 
-    - (xxii) the roundabout joining Cheong Lin Road and Cheong Shun Road, and the section of the westbound carriageway of Cheong Lin Road between the roundabout and Airport South Interchange; (L.N. 62 of 2017)
+    - (xxii) the roundabout joining Cheong Lin Road and Cheong Shun Road, and the section of Cheong Lin Road between the roundabout and Airport South Interchange; (L.N. 62 of 2017; L.N. 117 of 2025)
 
     - (xxiii) Cheong King Road; (L.N. 62 of 2017)
 
     - (xxiv) the section of the northbound carriageway of East Coast Road between Cheong King Road and Sky City Interchange; (L.N. 62 of 2017)
 
-    - (xxv) the slip road of Cheong Lin Road leading to Cheong Hong Road from the roundabout joining Cheong Lin Road and Cheong Shun Road; and (L.N. 62 of 2017)
+    - (xxv) the slip road of Cheong Lin Road leading to Cheong Hong Road from the roundabout joining Cheong Lin Road and Cheong Shun Road; (L.N. 62 of 2017; L.N. 117 of 2025)
 
-    - (xxvi) Shun Long Road. (L.N. 62 of 2017)
+    - (xxvi) Shun Long Road; (L.N. 62 of 2017; L.N. 117 of 2025)
+
+    - (xxvii) Cheong Shun Road; and (L.N. 117 of 2025)
+
+    - (xxviii) the northwest-bound section of Cheong Lin Road from its junction with Cheong Hong Road leading to the roundabout joining Cheong Lin Road and Cheong Shun Road, but excluding the slip road leading to Gate House No. 2. (L.N. 117 of 2025)
 
   - (j) The following roads in the Kwai Tsing District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— (L.N. 58 of 2005)
 
