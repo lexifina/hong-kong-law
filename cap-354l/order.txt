@@ -11,5 +11,5 @@ s-005A.md
 s-006.md
 s-007.md
 s-008.md
-sch-0.md
+sch-1.md
 sch-2.md
