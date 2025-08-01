@@ -16,7 +16,7 @@ Reporting Agencies
 
 - 4A. Caritas Bianchi College of Careers (Added L.N. 84 of 2023)
 
-- 4B. Caritas Institute of Higher Education (Added L.N. 84 of 2023)
+- 4B. (Repealed L.N. 118 of 2025)
 
 - 5. Caritas-Hong Kong
 
@@ -24,7 +24,7 @@ Reporting Agencies
 
 - 6A. Christian New Life Association Limited (Added L.N. 57 of 2011)
 
-- 7. Christian Zheng Sheng Association Limited
+- 7. (Repealed L.N. 118 of 2025)
 
 - 8. Chu Hai College of Higher Education (Amended L.N. 57 of 2011)
 
@@ -36,7 +36,7 @@ Reporting Agencies
 
 - 11. Customs and Excise Department
 
-- 12. DACARS, Limited
+- 12. (Repealed L.N. 118 of 2025)
 
 - 13. Department of Health
 
@@ -106,6 +106,8 @@ Reporting Agencies
 
 - 36. Precious Blood Hospital (Caritas)
 
+- 36A. Saint Francis University (Added L.N. 118 of 2025)
+
 - 37. Social Welfare Department
 
 - 38. St. James’ Settlement
@@ -121,6 +123,8 @@ Reporting Agencies
 - 43. The Boys’ and Girls’ Clubs Association of Hong Kong
 
 - 44. The Boys’ Brigade, Hong Kong (Amended L.N. 57 of 2011; L.N. 84 of 2023)
+
+- 44A. The Chinese Medicine Hospital of Hong Kong (as defined by section 2(5) of The Chinese Medicine Hospital of Hong Kong Ordinance (15 of 2025)) (Added L.N. 118 of 2025)
 
 - 45. The Chinese University of Hong Kong
 
