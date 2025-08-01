@@ -33,3 +33,7 @@ Item | Pre-existing scheme | Material day
 13. | BCT Strategic MPF Scheme (L.N. 62 of 2025) | 3 July 2025
 
 14. | Manulife RetireChoice (MPF) Scheme (L.N. 62 of 2025) | 3 July 2025
+
+15. | BCT (MPF) Pro Choice (L.N. 94 of 2025) | 1 August 2025
+
+16. | AIA MPF - Prime Value Choice (L.N. 94 of 2025) | 3 September 2025
