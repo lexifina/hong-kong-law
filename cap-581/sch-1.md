@@ -24,7 +24,9 @@ Deposits Specified for Purposes of Definitions of Protected Deposit and Relevant
 
   - (h) a deposit held by a depositor as a trustee for an excluded person only; (Amended 18 of 2015 s. 67)
 
-  - (i) any float or SVF deposit held by a depositor with a Scheme member. (Added 18 of 2015 s. 67)
+  - (i) any float or SVF deposit held by a depositor with a Scheme member; (Added 18 of 2015 s. 67. Amended 17 of 2025 s. 176)
+
+  - (j) a deposit comprising reserve assets as defined by section 2(1) of the Stablecoins Ordinance (17 of 2025), held by a depositor with a Scheme member. (Added 17 of 2025 s. 176)
 
 - 2. For the purpose of the definition of relevant deposit in section 2(1) of this Ordinance, the following deposits are specified—
 

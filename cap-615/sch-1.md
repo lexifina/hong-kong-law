@@ -190,15 +190,15 @@ Interpretation
 
       - (g) the Postmaster General; (Amended 18 of 2015 s. 71; 15 of 2022 s. 32)
 
-      - (h) an SVF licensee; or (Added 18 of 2015 s. 71. Amended 15 of 2022 s. 32)
+      - (h) an SVF licensee; (Added 18 of 2015 s. 71. Amended 15 of 2022 s. 32; 17 of 2025 s. 176)
 
-      - (i) subject to section 20A, a licensed VAS provider; (Added 15 of 2022 s. 32)
+      - (i) subject to section 20A, a licensed VAS provider; or (Added 15 of 2022 s. 32. Amended 17 of 2025 s. 176)
+
+      - (j) a stablecoin licensee; (Added 17 of 2025 s. 176)
 
     - HKICPA (香港會計師公會) means the body known as the Hong Kong Institute of Certified Public Accountants incorporated by section 3 of the Professional Accountants Ordinance (Cap. 50); (Added 4 of 2018 s. 25)
 
     - information system (資訊系統) has the meaning given by section 2(1) of the Electronic Transactions Ordinance (Cap. 553); (Added 15 of 2022 s. 32)
-
-    - licensed VAS provider (持牌虛擬資產服務提供者) means a licensed provider within the meaning of Part 5B; (Added 15 of 2022 s. 32)
 
     - Insurance Authority (保監局) means the Insurance Authority established under section 4AAA of the Insurance Ordinance (Cap. 41); (Replaced 12 of 2015 s. 162)
 
@@ -219,6 +219,8 @@ Interpretation
     - licensed insurance broker company (持牌保險經紀公司) has the meaning given by section 2(1) of the Insurance Ordinance (Cap. 41); (Added 12 of 2015 s. 162)
 
     - licensed money service operator (持牌金錢服務經營者) means the holder of a licence as defined by section 24;
+
+    - licensed VAS provider (持牌虛擬資產服務提供者) means a licensed provider within the meaning of Part 5B; (Added 15 of 2022 s. 32)
 
     - Monetary Authority (金融管理專員) means the Monetary Authority appointed under section 5A of the Exchange Fund Ordinance (Cap. 66);
 
@@ -262,7 +264,7 @@ Interpretation
 
     - relevant authority (有關當局)—
 
-      - (a) in relation to an authorized institution or SVF licensee, means the Monetary Authority; (Amended 18 of 2015 s. 71)
+      - (a) in relation to an authorized institution, SVF licensee or stablecoin licensee, means the Monetary Authority; (Amended 18 of 2015 s. 71; 17 of 2025 s. 176)
 
       - (b) in relation to a licensed corporation, means the Securities and Futures Commission;
 
@@ -285,6 +287,10 @@ Interpretation
     - Securities and Futures Commission, Commission (證監會) means the Securities and Futures Commission referred to in section 3(1) of the Securities and Futures Ordinance (Cap. 571); (Amended 18 of 2015 s. 71; 15 of 2022 s. 32)
 
     - settlement institution (交收機構) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
+
+    - stablecoin licence (穩定幣牌照) means a licence as defined by section 2(1) of the Stablecoins Ordinance (17 of 2025); (Added 17 of 2025 s. 176)
+
+    - stablecoin licensee (穩定幣持牌人) means a licensee as defined by section 2(1) of the Stablecoins Ordinance (17 of 2025); (Added 17 of 2025 s. 176)
 
     - SVF licensee (工具持牌人) means a person who is granted a licence under section 8F of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
 

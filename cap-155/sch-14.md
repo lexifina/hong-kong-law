@@ -18,6 +18,8 @@ Affairs or Business of Authorized Institutions Specified for Purposes of Definit
 
     - (d) the provision of facilities for the purchase or sale of foreign currencies, securities or other financial instruments;
 
+    - (da) the carrying on of a regulated stablecoin activity; (Added 17 of 2025 s. 176)
+
     - (e) the provision of financial advice;
 
     - (f) the incurring of exposures in connection with—
