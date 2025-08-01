@@ -52,6 +52,6 @@ Standards
 
 3. | ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in—
 
-ASTM F963-17 “Standard consumer safety specification for toy safety”
+ASTM F963-23 “Standard consumer safety specification for toy safety”
 
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020; L.N. 23 of 2021; L.N. 20 of 2022; L.N. 17 of 2024)
+(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15; L.N. 30 of 2013; L.N. 17 of 2015; L.N. 7 of 2016; L.N. 102 of 2017; L.N. 63 of 2018; L.N. 49 of 2019; L.N. 19 of 2020; L.N. 23 of 2021; L.N. 20 of 2022; L.N. 17 of 2024; L.N. 21 of 2025)
