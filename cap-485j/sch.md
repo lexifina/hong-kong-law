@@ -157,3 +157,85 @@ Item | Constituent fund of a registered scheme | Relevant day
 75. | BEA (MPF) RMB & HKD Money Market Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
 
 76. | BEA (MPF) Stable Fund of the BEA (MPF) Master Trust Scheme (L.N. 184 of 2024) | 5 June 2025
+
+77. | Principal Age 65 Plus Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+78. | Principal Aggressive Strategy Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+79. | Principal Asian Bond Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+80. | Principal Asian Equity Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+81. | Principal China Equity Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+82. | Principal Core Accumulation Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+83. | Principal Global Growth Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+84. | Principal Hang Seng Index Tracking Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+85. | Principal HK Dollar Savings Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+86. | Principal Hong Kong Bond Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+87. | Principal Hong Kong Equity Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+88. | Principal International Bond Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+89. | Principal International Equity Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+90. | Principal Long Term Accumulation Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+91. | Principal MPF Conservative Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+92. | Principal Stable Yield Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+93. | Principal US Equity Fund of the Principal MPF Scheme Series 800 (L.N. 27 of 2025) | 7 August 2025
+
+94. | Principal Age 65 Plus Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+95. | Principal Balanced Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+96. | Principal Core Accumulation Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+97. | Principal Dynamic Asia Pacific Equity Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+98. | Principal Dynamic Global Bond Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+99. | Principal Dynamic Global Equity Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+100. | Principal Dynamic Hong Kong Equity Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+101. | Principal Growth Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+102. | Principal - MPF Conservative Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+103. | Principal Stable Fund of the Principal MPF - Simple Plan (L.N. 27 of 2025) | 7 August 2025
+
+104. | Principal Age 65 Plus Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+105. | Principal Balanced Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+106. | Principal Cash Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+107. | Principal Core Accumulation Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+108. | Principal Dynamic Asia Pacific Equity Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+109. | Principal Dynamic Asian Bond Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+110. | Principal Dynamic Global Bond Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+111. | Principal Dynamic Global Equity Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+112. | Principal Dynamic Greater China Equity Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+113. | Principal Dynamic Hong Kong Equity Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+114. | Principal Growth Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+115. | Principal - Hang Seng Index Tracking Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+116. | Principal - MPF Conservative Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
+
+117. | Principal Stable Fund of the Principal MPF - Smart Plan (L.N. 27 of 2025) | 7 August 2025
