@@ -94,6 +94,8 @@ Director of Health where the offence committed is in respect of drugs
 
 83B | Director of Food and Environmental Hygiene
 
+86F | Director of Food and Environmental Hygiene
+
 92C | Director of Leisure and Cultural Services in respect of section 92A and Director of Food and Environmental Hygiene in respect of section 92AB
 
 93 | Director of Food and Environmental Hygiene
@@ -122,6 +124,8 @@ Director of Health where the offence committed is in respect of drugs
 
 124F | Director of Food and Environmental Hygiene
 
+126A | Director of Food and Environmental Hygiene
+
 127 | Director of Food and Environmental Hygiene
 
 128 | Director of Food and Environmental Hygiene
@@ -130,4 +134,4 @@ Director of Health where the offence committed is in respect of drugs
 
 128C | Director of Food and Environmental Hygiene
 
-(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5; 3 of 2009 s. 4; 5 of 2011 s. 72; E.R. 4 of 2019)
+(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5; 3 of 2009 s. 4; 5 of 2011 s. 72; E.R. 4 of 2019; 13 of 2025 s. 13)

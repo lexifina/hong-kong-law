@@ -121,6 +121,10 @@ s-086A.md
 s-086B.md
 s-086C.md
 s-086D.md
+s-086E.md
+s-086F.md
+s-086G.md
+s-086H.md
 s-087.md
 s-088.md
 s-089.md
@@ -236,6 +240,7 @@ s-125G.md
 s-125H.md
 s-125I.md
 s-126.md
+s-126A.md
 s-127.md
 s-128.md
 s-128A.md

@@ -28,7 +28,7 @@ Section | Penalty | Daily penalty
 
 20(3)(b) | level 2 | $ 300 fine
 
-22(1)(a) | level 2 | $ 50 fine
+22(1)(a) | level 3 | $ 300 fine
 
 22A(1)(b) | level 2 | $ 100 fine
 
@@ -54,9 +54,9 @@ Section | Penalty | Daily penalty
 
 43(2) | level 1 | —
 
-47(2)(a) | level 2 | $ 100 fine
+47(2)(a) | level 4 | $ 450 fine
 
-47(5) | level 1 | —
+47(5) | level 2 | —
 
 50(4) | level 3 and 3 months imprisonment | —
 
@@ -86,7 +86,11 @@ Section | Penalty | Daily penalty
 
 81(2) | level 1 | —
 
-83B(3) | level 2 and 1 month imprisonment (first conviction) level 3 and 6 months imprisonment (second or subsequent conviction) | $ 300 fine $ 300 fine
+83B(3) | level 2 and 1 month imprisonment (first conviction) | $ 300 fine
+
+level 3 and 6 months imprisonment (second or subsequent conviction) | $ 300 fine
+
+86F | level 4 and 3 months imprisonment | —
 
 92C(1) | level 2 and 6 months imprisonment | —
 
@@ -100,7 +104,7 @@ Section | Penalty | Daily penalty
 
 101(3) | level 3 and 3 months imprisonment | —
 
-104A(2) | level 3 | $ 300 fine
+104A(2) | level 4 | $ 450 fine
 
 104B(2) | level 3 | $ 300 fine
 
@@ -132,9 +136,11 @@ Section | Penalty | Daily penalty
 
 125(5) | level 2 | —
 
-127(3)(a) or (b) | level 3 | $ 200 fine
+126A(1) | level 2 | —
 
-127(7)(a) | level 4 | $ 450 fine
+127(3)(a) or (b) | level 4 | $ 450 fine
+
+127(7)(a) | level 5 | $ 600 fine
 
 128(3) | level 6 and 12 months imprisonment | $1,750 fine
 
@@ -148,4 +154,4 @@ Section | Penalty | Daily penalty
 
 139 | level 4 and 6 months imprisonment | —
 
-(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7; 1 of 2002 s. 7; 9 of 2006 s. 3; 3 of 2009 s. 5; 5 of 2011 s. 73)
+(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7; 1 of 2002 s. 7; 9 of 2006 s. 3; 3 of 2009 s. 5; 5 of 2011 s. 73; 13 of 2025 s. 14)
