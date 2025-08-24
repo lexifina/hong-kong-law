@@ -2,7 +2,9 @@
 
 [s. 15]
 
-Overseas Stabilization
+Stabilization Outside Hong Kong
+
+(31 of 2025 s. 177)
 
 Item | Specified provisions | Specified body or authority which made the specified provisions
 

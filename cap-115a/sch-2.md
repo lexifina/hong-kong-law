@@ -50,9 +50,7 @@ Fees Payable under the Ordinance
 
 - 2. | (Repealed L.N. 193 of 1992)
 
-- 3. | Seaman’s certificate of nationality and identity | 170
-
-- 4. | Renewal of a seaman’s certificate of nationality and identity | 35
+- 3-4. | (Repealed 31 of 2025 s. 29)
 
 - 5. | Ordinary visa—
 
@@ -110,7 +108,7 @@ Fees Payable under the Ordinance
 
 - 18. | Endorsement to a travel document for which no specific fee is provided | 240
 
-- 19. | Service charge for supplying, on application, a copy of any document, or for making or forwarding, or both, a request or recommendation to any authority of a foreign state, for consular or nationality registration or for the issue or renewal of a passport or other travel document or of a document of identity or for the grant of a visa or entry permit (23 of 1998 s. 2) | 260
+- 19. | Service charge for supplying, on application, a copy of any document, or for making or forwarding, or both, a request or recommendation to any authority of a place outside Hong Kong, for consular or nationality registration or for the issue or renewal of a passport or other travel document or of a document of identity or for the grant of a visa or entry permit (23 of 1998 s. 2; 31 of 2025 s. 29) | 260
 
 - 20. | Document of identity valid for 7 years—
 

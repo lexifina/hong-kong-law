@@ -470,7 +470,7 @@ Government copyright
 
     - (a) it was made, before commencement, by or under the direction or control of—
 
-      - (i) Her Majesty in right of the Government of Hong Kong; or
+      - (i) the Government of Hong Kong; or (Amended 31 of 2025 s. 153)
 
       - (ii) a department of that Government; or
 
@@ -564,11 +564,7 @@ Meaning of unauthorized
 
 Saving of subsidiary legislation
 
-- 41. Until rules are made by the Chief Justice under section 174 of this Ordinance, the Copyright Tribunal Rules (App. I, p. BF1)* in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance.
-
-- Editorial Note:
-
-- * Please see Revised Edition 1989 and also L.N. 5 of 1997.
+- 41. (Repealed 31 of 2025 s. 153)
 
 - 42. Until rules of court under the High Court Ordinance (Cap. 4) are made for the purposes of sections 144 and 271 of this Ordinance, the Copyright (Border Measures) Rules (Cap. 4 sub. leg. F), so far as they are not inconsistent with this Ordinance, continue in force and have effect as if made for the purposes of those sections subject to such necessary adaptations and modifications as may be necessary for those rules to have effect under the appropriate Part of this Ordinance. (Amended 25 of 1998 s. 2; E.R. 2 of 2019)
 

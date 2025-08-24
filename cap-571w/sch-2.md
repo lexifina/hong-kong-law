@@ -18,6 +18,6 @@ Notes:
 
 - (b)
 
-  - For the purposes of this Schedule, relevant market (有關市場) means the relevant recognized stock market, relevant authorized automated trading services, or relevant overseas stock market which the stabilizing manager believes to be the principal market on which those securities are dealt in at the time of the deal or transaction.
+  - For the purposes of this Schedule, relevant market (有關市場) means the relevant recognized stock market, relevant authorized automated trading services, or relevant non-Hong Kong stock market which the stabilizing manager believes to be the principal market on which those securities are dealt in at the time of the deal or transaction. (31 of 2025 s. 176)
 
 - (c) Where the price of any relevant securities on the relevant market is in a currency other than the currency of the price of the securities to be stabilized, stabilizing bids may be made or transactions effected at a price that reflects any change in the relevant rate of exchange; but this does not permit stabilizing action at a price above the equivalent, in the other currency, of the offer price in the currency of the relevant exchange.

@@ -40,7 +40,7 @@ Chief Secretary for Administration | Catholic Mission of Macao Incorporation Ord
 
 Chief Secretary for Administration | China Peniel Missionary Society Incorporation Ordinance (Cap. 1011), section 6(2).
 
-Chief Secretary for Administration | Church of England Trust Ordinance (Cap. 1014), sections 3(2) and 4(1).
+Chief Secretary for Administration | English-speaking Anglican Church Trust Ordinance (Cap. 1014), sections 3(2) and 4(1). (31 of 2025 s. 227)
 
 Chief Secretary for Administration | Daughters of Charity of the Canossian Institute Incorporation Ordinance (Cap. 1016), section 5(2).
 
@@ -296,8 +296,6 @@ Director of Intellectual Property as Registrar of Designs | Registered Designs R
 
 Director of Intellectual Property as Registrar of Patents | Patents Ordinance (Cap. 514).
 
-Director of Intellectual Property as Registrar of Patents | Patents (Transitional Arrangements) Rules (Cap. 514 sub. leg. B).
-
 Director of Intellectual Property as Registrar of Patents | Patents (General) Rules (Cap. 514 sub. leg. C).
 
 Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Ordinance (Cap. 559).
@@ -458,4 +456,4 @@ Secretary for Transport and Logistics | Merchant Shipping (Safety) Ordinance (Ca
 
 Secretary for Transport and Logistics | Roads (Works, Use and Compensation) Ordinance (Cap. 370). (L.N. 144 of 2022)
 
-(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12; 24 of 2023 s. 29; E.R. 4 of 2024)
+(Schedule replaced 18 of 2014 s. 62. 12 of 2015 s. 99; 7 of 2016 s. 21; 9 of 2018 s. 12; 24 of 2023 s. 29; E.R. 4 of 2024; 31 of 2025 s. 239)

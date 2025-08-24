@@ -178,7 +178,7 @@ the said
 
 * | the said
 
-on the . day of . 19
+on the . day of .,
 
 in the presence of
 
@@ -186,7 +186,7 @@ Signature
 
 * Delete where inapplicable.
 
-(L.N. 166 of 1995; 21 of 2024 s. 78) _
+(L.N. 166 of 1995; 21 of 2024 s. 78; 31 of 2025 s. 28) _
 
 FORM NO. 3 IMMIGRATION ORDINANCE (Chapter 115) Section 14(1) ALIEN REGISTRATION CARD
 
@@ -240,13 +240,13 @@ ought to be deported under section 20 of the Immigration Ordinance; and
 
 Now, therefore, in exercise of the powers conferred on me by section 29(1) of the Immigration Ordinance, I hereby authorize the detention of the said
 
-for a period of 14 days ending on the . day of . 19 .
+for a period of 14 days ending on the . day of ., .
 
-Dated this . day of . 19 .
+Dated this . day of ., .
 
 Secretary for Security
 
-(L.N. 103 of 1980; L.N. 166 of 1995) _
+(L.N. 103 of 1980; L.N. 166 of 1995; 31 of 2025 s. 28) _
 
 FORM NO. 5 IMMIGRATION ORDINANCE (Chapter 115) Section 29(2) WARRANT FOR FURTHER DETENTION
 
@@ -260,17 +260,17 @@ being a person who is detained under a detention warrant should be further detai
 
 Now, therefore, in exercise of the powers conferred on me by section 29(2) of the Immigration Ordinance, I hereby authorize the further detention of the said
 
-for a period of 7 days ending on the . day of
+for a period of 7 days ending on the . day of .,
 
-19 .
+.
 
-Dated this . day of . 19 .
+Dated this . day of ., .
 
 Secretary for Security
 
 * Insert here the reasons for further detention under section 29(2) of the Immigration Ordinance.
 
-(L.N. 8 of 1977; L.N. 103 of 1980; L.N. 166 of 1995) _
+(L.N. 8 of 1977; L.N. 103 of 1980; L.N. 166 of 1995; 31 of 2025 s. 28) _
 
 FORM NO. 6 IMMIGRATION ORDINANCE (Chapter 115) Section 31(1) WARRANT FOR DETENTION
 
@@ -294,13 +294,13 @@ Now, therefore, in exercise of the powers conferred on me by section 31(1) of th
 
 for a period of 14 days, ending on the
 
-day of . 19 .
+day of ., .
 
-Dated this . day of . 19 .
+Dated this . day of ., .
 
 Chief Executive
 
-(48 of 1992 s. 14; L.N. 166 of 1995; 21 of 2024 s. 78) _
+(48 of 1992 s. 14; L.N. 166 of 1995; 21 of 2024 s. 78; 31 of 2025 s. 28) _
 
 FORM NO. 7 IMMIGRATION ORDINANCE (Chapter 115) Section 31(2) WARRANT FOR FURTHER DETENTION
 
@@ -314,13 +314,13 @@ Now, therefore, in exercise of the powers conferred on me by section 31(2) of th
 
 . for a period of 7 days ending on the . day
 
-of . 19 .
+of ., .
 
-Dated this . day of . 19 .
+Dated this . day of ., .
 
 Chief Executive
 
-(L.N. 166 of 1995; 21 of 2024 s. 78) _
+(L.N. 166 of 1995; 21 of 2024 s. 78; 31 of 2025 s. 28) _
 
 FORM NO. 8 IMMIGRATION ORDINANCE (Chapter 115) Section 36(1) RECOGNIZANCE
 
@@ -382,9 +382,9 @@ Signed by—
 
 * | (3)
 
-on the . day of
+on the . day of .,
 
-20. in the presence of .
+in the presence of .
 
 Signature
 
@@ -396,7 +396,7 @@ Signature
 
 † Set out any other condition(s) imposed under section 36(1) of the Immigration Ordinance.
 
-(23 of 2012 s. 14) _
+(23 of 2012 s. 14; 31 of 2025 s. 28) _
 
 FORM NO. 8A IMMIGRATION ORDINANCE (Chapter 115) Section 36(3) RECOGNIZANCE
 
@@ -442,7 +442,7 @@ the said
 
 * | the said
 
-Taken before me the . day of . 19 .
+Taken before me the . day of ., .
 
 Explained by
 
@@ -452,7 +452,7 @@ Sworn Interpreter | Magistrate (or Magistrate’s Clerk)
 
 * Delete where inappropriate.
 
-(L.N. 279 of 1977; L.N. 166 of 1995; 21 of 2024 s. 78) _
+(L.N. 279 of 1977; L.N. 166 of 1995; 21 of 2024 s. 78; 31 of 2025 s. 28) _
 
 FORM NO. 8B IMMIGRATION ORDINANCE (Chapter 115) Section 37G/46A* APPLICATION FOR FORFEITURE OF PROPERTY
 
@@ -464,13 +464,13 @@ pursuant to an authorization by the Secretary for Justice under section 7 of the
 
 (here insert description of property)
 
-Dated this day of 19 .
+Dated this day of , .
 
 (Signature)
 
 * Delete where inappropriate.
 
-(L.N. 85 of 1980; L.N. 166 of 1995; L.N. 362 of 1997) _
+(L.N. 85 of 1980; L.N. 166 of 1995; L.N. 362 of 1997; 31 of 2025 s. 28) _
 
 FORM NO. 9 IMMIGRATION ORDINANCE (Chapter 115) Section 48(1) APPLICATION FOR FORFEITURE OF A SHIP/VEHICLE
 
@@ -486,11 +486,11 @@ apply for the forfeiture of
 
 The name and address of the claimant, as specified in a notice of claim given under section 47(6) of the Immigration Ordinance, is
 
-Dated this . day of . 19 .
+Dated this . day of ., .
 
 Director of Immigration
 
-(L.N. 166 of 1995) _
+(L.N. 166 of 1995; 31 of 2025 s. 28) _
 
 FORM NO. 10 IMMIGRATION ORDINANCE (Chapter 115) Section 48(2) SUMMONS TO CLAIMANT ON APPLICATION FOR FORFEITURE
 
@@ -508,13 +508,13 @@ Application having been made under section 48(1) of the Immigration Ordinance fo
 
 This summons requires you to appear on the . day
 
-of . 19 . at . o’clock in the
+of ., . at . o’clock in the
 
 noon, at the Magistrate’s Court at
 
 in Hong Kong before a magistrate on the hearing of the said application.
 
-Dated this . day of . 19 .
+Dated this . day of ., .
 
 Magistrate
 
@@ -528,7 +528,7 @@ by (here state method of service)
 
 Signature of process server and date—
 
-(L.N. 166 of 1995) _
+(L.N. 166 of 1995; 31 of 2025 s. 28) _
 
 FORM NO. 11 IMMIGRATION ORDINANCE (Chapter 115) Section 55(2) RECOGNIZANCE
 
@@ -564,7 +564,7 @@ the said
 
 * | the said
 
-on the . day of . 19
+on the . day of .,
 
 in the presence of
 
@@ -572,7 +572,7 @@ Signature
 
 * Delete where inapplicable.
 
-(82 of 1993 s. 16; L.N. 166 of 1995; E.R. 1 of 2019; 21 of 2024 s. 78) _
+(82 of 1993 s. 16; L.N. 166 of 1995; E.R. 1 of 2019; 21 of 2024 s. 78; 31 of 2025 s. 28) _
 
 FORM NO. 12
 

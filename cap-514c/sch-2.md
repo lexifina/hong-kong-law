@@ -14,7 +14,7 @@ $
 
 1. | On reference under section 13(1)(a) or (b), 14(5), 37H(1)(a) or (b) or 37K(7) of the Ordinance made to the Registrar to apply for grant of standard patent or licence or whether the period or terms of a licence are reasonable | 190
 
-2. | On filing of notice of opposition or counter-statement under section 2C(1), 3(7), 7(4)(a), 31G(1), 31L(1), 37(5), 40(3) or (4), 41(3), 48(5) or (6A) or 108(3) of these Rules | 325
+2. | On filing of notice of opposition or counter-statement under section 2C(1), 3(7), 7(4)(a), 31G(1), 31L(1), 37(5), 40(3) or (4), 41(3) or 48(5) or (6A) of these Rules (31 of 2025 s. 147) | 325
 
 3. | On application under section 13(5) or 37I(4) of the Ordinance for authorization by the Registrar to carry out directions under section 13(3)(c) or (4) or 37I(1)(d)(ii) of the Ordinance on behalf of the person to whom the directions were given | 190
 
