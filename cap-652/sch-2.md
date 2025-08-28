@@ -4,8 +4,6 @@
 
 Specified Structures
 
-(Not yet in operation)
-
 - 1. Any new land formed by reclamation or site formation, man-made slope, landslide hazard mitigation measures, earth-retaining structure, cavern or underground space, including the access tunnel or shaft of the underground space
 
 - 2. Any residential, commercial, industrial, institutional, communal or recreation building (whether it is constructed wholly or partly above or below ground level), including its foundation or support

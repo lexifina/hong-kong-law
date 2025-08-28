@@ -4,8 +4,6 @@
 
 Bodies Specified for Definition of Specified Entity in Section 4(3)
 
-(Not yet in operation)
-
 - 1. Airport Authority
 
 - 2. China Mobile Hong Kong Company Limited
