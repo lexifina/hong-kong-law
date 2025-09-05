@@ -239,3 +239,65 @@ Item | Constituent fund of a registered scheme | Relevant day
 116. | Principal - MPF Conservative Fund of the Principal MPF - Smart Plan (L.N. 28 of 2025) | 7 August 2025
 
 117. | Principal Stable Fund of the Principal MPF - Smart Plan (L.N. 28 of 2025) | 7 August 2025
+
+118. | BOC-Prudential Age 65 Plus Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+119. | BOC-Prudential Asia Equity Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+120. | BOC-Prudential Balanced Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+121. | BOC-Prudential Bond Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+122. | BOC-Prudential China Equity Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+123. | BOC-Prudential Core Accumulation Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+124. | BOC-Prudential CSI HK 100 Tracker Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+125. | BOC-Prudential European Index Tracking Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+126. | BOC-Prudential Global Equity Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+127. | BOC-Prudential Growth Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+128. | BOC-Prudential Hong Kong Equity Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+129. | BOC-Prudential Hong Kong Stable Retirement Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+130. | BOC-Prudential Japan Equity Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+131. | BOC-Prudential MPF Conservative Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+132. | BOC-Prudential MPF RMB & HKD Money Market Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+133. | BOC-Prudential North America Index Tracking Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+134. | BOC-Prudential Stable Fund of the BOC-Prudential Easy-Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+135. | My Choice Age 65 Plus Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+136. | My Choice Asia Equity Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+137. | My Choice Balanced Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+138. | My Choice China Equity Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+139. | My Choice Core Accumulation Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+140. | My Choice Global Bond Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+141. | My Choice Global Equity Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+142. | My Choice Growth Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+143. | My Choice HKD Bond Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+144. | My Choice Hong Kong Equity Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+145. | My Choice Hong Kong Tracking Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+146. | My Choice MPF Conservative Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+147. | My Choice RMB & HKD Money Market Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
+
+148. | My Choice Stable Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 51 of 2025) | 5 September 2025
