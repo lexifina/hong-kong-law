@@ -54,7 +54,7 @@ Cemeteries, Crematoria and Gardens of Remembrance
 
 - Chinese Permanent Cemetery | Cape Collinson
 
-- Chiu Yuen Cemetery | Mount Davis
+- Chiu Yuen Eurasian Cemetery | Mount Davis
 
 - Christian Chinese Cemetery | Pok Fu Lam Road
 
@@ -94,7 +94,7 @@ Cemeteries, Crematoria and Gardens of Remembrance
 
 - Zoroastrian Cemetery | Happy Valley
 
-- (Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7; L.N. 171 of 2012; E.R. 4 of 2019)
+- (Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7; L.N. 171 of 2012; E.R. 4 of 2019; L.N. 145 of 2025)
 
 - Part 2A Persons Specified for Purposes of Section 113A
 
