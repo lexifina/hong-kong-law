@@ -80,6 +80,7 @@ s-047.md
 s-048.md
 s-049.md
 s-049A.md
+s-049E.md
 s-050.md
 s-051.md
 s-052.md
