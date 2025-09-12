@@ -48,9 +48,23 @@ Permission to Enter or Leave
 
     - Map 1 (地圖1) means the map titled “MAP 1 - SECTION OF HONG KONG-ZHUHAI-MACAO BRIDGE HONG KONG LINK ROAD, HONG KONG-ZHUHAI-MACAO BRIDGE HONG KONG PORT AND ADJACENT AREAS”, numbered “ISM3745” and contained in Schedule 2; (L.N. 121 of 2025)
 
+    - Map 2 (地圖2) means the map titled “MAP 2 - SECTION OF HONG KONG-ZHUHAI-MACAO BRIDGE HONG KONG LINK ROAD, HONG KONG-ZHUHAI-MACAO BRIDGE HONG KONG PORT AND ADJACENT AREAS”, numbered “ISM3547a” and contained in Schedule 2; (L.N. 177 of 2025)
+
+    - “Park & Fly” Car Park (轉機停車場) means the “Park & Fly” Car Park delineated and shown edged blue on Map 2; (L.N. 177 of 2025)
+
+    - “Park & Visit” Car Park (訪港停車場) means the “Park & Visit” Car Park delineated and shown edged red on Map 2; (L.N. 177 of 2025)
+
+    - passenger (乘客), in relation to a vehicle, means a person carried in or on the vehicle other than the driver; (L.N. 177 of 2025)
+
     - Passenger Clearance Building (旅檢大樓) means the part of the Passenger Clearance Building located at the Hong Kong Port that is part of the Closed Area;
 
-    - Pick-up Area (上客區) means the cross-boundary coach and cross-boundary shuttle bus pick-up area located at the Hong Kong Port.
+    - Pick-up Area (上客區) means the cross-boundary coach and cross-boundary shuttle bus pick-up area located at the Hong Kong Port; (L.N. 177 of 2025)
+
+    - transport service (接駁服務) means the shuttle bus service, or any other transportation service, between—
+
+      - (a) the Hong Kong International Airport or the Passenger Clearance Building; and
+
+      - (b) the “Park & Fly” Car Park. (L.N. 177 of 2025)
 
 - Part 2 Permission to Enter or Leave
 
@@ -58,21 +72,27 @@ Permission to Enter or Leave
 
 - Item | Persons permitted to enter or leave | Conditions
 
-- 1. | The driver of a road vehicle to the Mainland of China or Macao, leaving Hong Kong via the Hong Kong Port and the Hong Kong Link Road | (a) The driver must drive the vehicle directly from the Hong Kong Port to the boundary of Hong Kong at the Hong Kong Link Road.
+- 1. | The driver of a road vehicle to the Mainland of China or Macao, leaving Hong Kong via the Hong Kong Port and the Hong Kong Link Road | (a) The driver must drive the vehicle directly from the Hong Kong Port to the boundary of Hong Kong at the Hong Kong Link Road. (b) Subject to paragraphs (c) and (d), the driver must not leave the immediate vicinity of the vehicle.
 
-- (b) Subject to paragraphs (c) and (d), the driver must not leave the immediate vicinity of the vehicle. (c) For a road vehicle using the Pick-up Area, the driver— (i) may leave the immediate vicinity of the vehicle but must not stay in any place other than the Departure Area; and (ii) may stay in the Departure Area only for the purpose of using the vehicle to pick up cross-boundary passengers.
+- (c) For a road vehicle using the Pick-up Area, the driver— (i) may leave the immediate vicinity of the vehicle but must not stay in any place other than the Departure Area; and (ii) may stay in the Departure Area only for the purpose of using the vehicle to pick up cross-boundary passengers.
 
 - (d) For a road vehicle using the Departure Private Car Annex, the driver may leave the immediate vicinity of the vehicle but must not stay in any place other than the Departure Private Car Annex. (e) The driver must leave the Closed Area without undue delay.
 
-- 2. | The driver of a road vehicle from the Mainland of China or Macao, entering Hong Kong via the Hong Kong Link Road | (a) The driver must drive the vehicle directly from the boundary of Hong Kong at the Hong Kong Link Road to the Hong Kong Port. (b) Subject to paragraphs (c) and (d), the driver must not leave the immediate vicinity of the vehicle.
+- 2. | The driver of a road vehicle from the Mainland of China or Macao, entering Hong Kong via the Hong Kong Link Road | (a) The driver must drive the vehicle directly from the boundary of Hong Kong at the Hong Kong Link Road to the Hong Kong Port. (b) Subject to paragraphs (c), (d), (da), (db) and (dc), the driver must not leave the immediate vicinity of the vehicle. (L.N. 177 of 2025)
 
-- (c) For a road vehicle using the Drop-off Area, the driver— (i) may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Area; and (ii) may stay in the Arrival Area only for the purpose of using the vehicle to drop off cross-boundary passengers. (d) For a road vehicle using the Arrival Private Car Annex, the driver may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Private Car Annex. (e) The driver must leave the Closed Area without undue delay.
+- (c) For a road vehicle using the Drop-off Area, the driver— (i) may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Area; and (ii) may stay in the Arrival Area only for the purpose of using the vehicle to drop off cross-boundary passengers.
+
+- (d) For a road vehicle using the Arrival Private Car Annex, the driver may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Private Car Annex. (da) For a road vehicle using the “Park & Fly” Car Park for the sole purpose of— (i) picking up a cross-boundary passenger; or (ii) dropping off a cross-boundary passenger, the driver of the vehicle may leave the immediate vicinity of the vehicle but must not stay in any place other than the “Park & Fly” Car Park. (L.N. 177 of 2025)
+
+- (db) For a road vehicle using the “Park & Fly” Car Park for the sole purpose of parking, the driver of the vehicle may leave the immediate vicinity of the vehicle only for taking the transport service to the Hong Kong International Airport with a view to leaving Hong Kong. (L.N. 177 of 2025) (dc) For a road vehicle using the “Park & Visit” Car Park for the sole purpose of parking, the driver of the vehicle may leave the immediate vicinity of the vehicle only for entering the Passenger Clearance Building with a view to entering Hong Kong. (L.N. 177 of 2025) (e) The driver must leave the Closed Area without undue delay.
 
 - 3. | A cross-boundary passenger on a road vehicle to the Mainland of China or Macao, leaving Hong Kong via the Hong Kong Port and the Hong Kong Link Road | (a) Subject to paragraphs (b) and (c), the passenger must not leave the immediate vicinity of the vehicle. (b) For a road vehicle using the Pick-up Area, the passenger— (i) may leave the immediate vicinity of the vehicle but must not stay in any place other than the Departure Area; and (ii) may stay in the Departure Area only for the purpose of using the vehicle to leave Hong Kong.
 
 - (c) For a road vehicle using the Departure Private Car Annex, the passenger may leave the immediate vicinity of the vehicle but must not stay in any place other than the Departure Private Car Annex. (d) The passenger must leave the Closed Area without undue delay.
 
-- 4. | A cross-boundary passenger on a road vehicle from the Mainland of China or Macao, entering Hong Kong via the Hong Kong Link Road | (a) Subject to paragraphs (b) and (c), the passenger must not leave the immediate vicinity of the vehicle. (b) For a road vehicle using the Drop-off Area, the passenger may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Area. (c) For a road vehicle using the Arrival Private Car Annex, the passenger may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Private Car Annex. (d) The passenger must leave the Closed Area without undue delay.
+- 4. | A cross-boundary passenger on a road vehicle from the Mainland of China or Macao, entering Hong Kong via the Hong Kong Link Road | (a) Subject to paragraphs (b), (c), (ca) and (cb), the passenger must not leave the immediate vicinity of the vehicle. (L.N. 177 of 2025) (b) For a road vehicle using the Drop-off Area, the passenger may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Area. (c) For a road vehicle using the Arrival Private Car Annex, the passenger may leave the immediate vicinity of the vehicle but must not stay in any place other than the Arrival Private Car Annex.
+
+- (ca) For a road vehicle using the “Park & Fly” Car Park, the passenger of the vehicle may leave the immediate vicinity of the vehicle only for taking the transport service to the Hong Kong International Airport with a view to leaving Hong Kong. (L.N. 177 of 2025) (cb) For a road vehicle using the “Park & Visit” Car Park, the passenger of the vehicle may leave the immediate vicinity of the vehicle only for entering the Passenger Clearance Building with a view to entering Hong Kong. (L.N. 177 of 2025) (d) The passenger must leave the Closed Area without undue delay.
 
 - 5. | A person who— (a) enters the Departure Area for the sole purpose of leaving Hong Kong by a road vehicle that provides cross-boundary services; and (b) has not yet boarded the vehicle | The person— (a) must not stay in any place other than the Departure Area; (b) may stay in the Departure Area only for the purpose of boarding the vehicle to leave Hong Kong; and (c) must board the vehicle without undue delay.
 
@@ -85,3 +105,9 @@ Permission to Enter or Leave
 - 9. | A user or intending user of the Airportcity Link pedestrian walkway (L.N. 121 of 2025) | The user— (a) must not stay in any place other than the Airportcity Link station platform or Airportcity Link pedestrian walkway; and (b) may stay on the platform or walkway only for using the walkway.
 
 - 10. | A person employed or otherwise engaged by the Airport Authority for the operation and maintenance of the Airportcity Link and Airportcity Link autonomous transportation system (L.N. 121 of 2025) | The person may stay in the Airportcity Link only for the operation and maintenance of the Airportcity Link and Airportcity Link autonomous transportation system.
+
+- 11. | A person who has taken the transport service to the “Park & Fly” Car Park from the Hong Kong International Airport for the sole purpose of travelling to the Mainland of China or Macao by a road vehicle described in paragraph (da) or (db) in column 3 of item 2 (L.N. 177 of 2025) | The person— (a) must not stay in any place other than the “Park & Fly” Car Park; (b) may stay in the “Park & Fly” Car Park only for boarding the vehicle; (c) must board the vehicle without undue delay; and (d) must leave the Closed Area without undue delay.
+
+- 12. | A person who enters the Passenger Clearance Building with a view to entering the “Park & Fly” Car Park for the sole purpose of travelling to the Mainland of China or Macao by a road vehicle described in paragraph (da)(i) or (db) in column 3 of item 2 (L.N. 177 of 2025) | The person— (a) must not stay in any place other than the Passenger Clearance Building or the “Park & Fly” Car Park; (b) must take the transport service from the Passenger Clearance Building to the “Park & Fly” Car Park; (c) may stay in the “Park & Fly” Car Park only for boarding the vehicle; (d) must board the vehicle without undue delay; and (e) must leave the Closed Area without undue delay.
+
+- 13. | A person who enters the Passenger Clearance Building with a view to entering the “Park & Visit” Car Park for the sole purpose of travelling to the Mainland of China or Macao by a road vehicle described in paragraph (dc) in column 3 of item 2 (L.N. 177 of 2025) | The person— (a) must not stay in any place other than the Passenger Clearance Building or the “Park & Visit” Car Park; (b) may stay in the “Park & Visit” Car Park only for boarding the vehicle; (c) must board the vehicle without undue delay; and (d) must leave the Closed Area without undue delay.

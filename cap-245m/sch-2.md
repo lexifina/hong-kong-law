@@ -2,6 +2,6 @@
 
 [Sch. 1]
 
-Map 1
+Maps
 
-(Schedule 2 added L.N. 121 of 2025)
+(L.N. 177 of 2025) (Schedule 2 added L.N. 121 of 2025. L.N. 177 of 2025)
