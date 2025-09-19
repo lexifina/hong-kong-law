@@ -88,7 +88,7 @@ Chief Secretary for Administration | Heung Yee Kuk Ordinance (Cap. 1097).
 
 Chief Secretary for Administration | Abbot of the Order of Cistercians of the Strict Observance Incorporation Ordinance (Cap. 1107), section 6(2).
 
-Collector of Stamp Revenue | Betting Duty Ordinance (Cap. 108), sections 6GH(3), 6GI(5), 6GJ(1), 6GK(1), (3)(b) and (4), 6GL(2), (3) and (5), 6GM(1), 6GN(4) and (8)(b), 6GO(4)(a), 6L(2), 6M(3), 6N(4), 6O(1), 6P, 6Q, 6R(1), 6S(4) and (7)(b), 6T(4)(a), 6V(2), (4) and (6)(b), 6ZL(1), 6ZM(1), 6ZO(2), (3), (4) and (6)(a) and 7(3).
+Collector of Stamp Revenue | Betting Duty Ordinance (Cap. 108), sections 6GH(3), 6GI(5), 6GJ(1), 6GK(1), (3)(b) and (4), 6GL(1), (2), (3) and (5), 6GM(1), 6GN(4) and (8)(b), 6GO(4)(a), 6L(2), 6M(3), 6N(4), 6O(1), 6P(1), (3A) and (4), 6Q(1) and (3), 6R(1), 6S(4) and (7)(b), 6T(4)(a), 6V(2), (4) and (6)(b), 6WE(1), (2)(b) and (3), 6WF(2), 6WK(2), 6WL(3), 6WM(4), 6WN(1), 6WO(1), (4) and (5), 6WP(1), (2) and (4), 6WQ(4) and (7)(b), 6WR(4)(a), 6WS(2) and (4), 6WT(3)(b), 6WU(2) and (4), 6ZL(1), 6ZM(1), 6ZO(2), (3), (4) and (6)(a) and 7(3). (38 of 2025 s. 24)
 
 Collector of Stamp Revenue | Betting Duty Regulations (Cap. 108 sub. leg. A), regulation 3(4).
 
