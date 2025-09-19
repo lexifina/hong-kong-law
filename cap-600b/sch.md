@@ -4,11 +4,11 @@
 
 Authorities and Public Officers
 
-Scheduled Offence* | Authority | Public Officer
+Column 1 Scheduled Offence* | Column 2 Authority | Column 3 Public Officer
 
 1 | Commissioner of Police | Police Officer
 
-1 | Director of Health | Inspectors appointed by the Secretary for Health under section 15F of the Smoking (Public Health) Ordinance (Cap. 371) (L.N. 144 of 2022)
+1 or 2 | Director of Health | Inspectors appointed by the Secretary for Health under section 15F of the Smoking (Public Health) Ordinance (Cap. 371) (L.N. 144 of 2022; 39 of 2025 s. 59)
 
 1 | Director of Food and Environmental Hygiene | Senior Health Inspector (Market Management)
 
@@ -37,6 +37,8 @@ Overseer (Markets)
 Foreman (Markets)
 
 Market Assistant
+
+Market Supervision Assistant (39 of 2025 s. 59)
 
 1 | Director of Housing | Housing Manager
 
@@ -84,4 +86,6 @@ Assistant Leisure Services Manager I
 
 Assistant Leisure Services Manager II
 
-* | In this column, a scheduled offence is described by reference to the item number set out opposite to the scheduled offence in column 1 of the Schedule to the Ordinance. Item 1 of that Schedule represents the offence of smoking in areas designated as no smoking areas or in public transport carriers under section 7(1) of the Smoking (Public Health) Ordinance (Cap. 371).
+* | In this column, a scheduled offence is described by reference to the item number set out opposite to the scheduled offence in column 1 of the Schedule to the Ordinance. (39 of 2025 s. 59)
+
+(39 of 2025 s.59)

@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 3AA & 4] (Amended 46 of 1996 s. 32; 16 of 2008 s. 5)
+[ss. 3AA, 4 & 40] (Amended 46 of 1996 s. 32; 16 of 2008 s. 5; 39 of 2025 s. 9)
 
 - Part I Duty on Liquor
 

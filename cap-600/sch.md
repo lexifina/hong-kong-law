@@ -4,8 +4,12 @@
 
 Scheduled Offence
 
-Item | Provision of the Smoking (Public Health) Ordinance (Cap. 371) | Description | Fixed Penalty
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
-1. | Section 7(1) | Smoking in areas designated as no smoking areas or in public transport carriers | $1,500
+Item | Provision of Cap. 371 | Specified Circumstance | Description | Fixed Penalty
 
-(Amended E.R. 4 of 2017)
+1. | Section 7(1) | Nil | Doing a smoking act in no smoking areas or in public transport carriers | $1,500
+
+2. | Section 15C(1) | The offence is committed wholly because of a contravention of section 15A(1A) of Cap. 371, and the aggravating factor (as construed in accordance with section 15C(1C) of Cap. 371) does not apply in relation to the offence | Giving of any conventional smoking product to a person under the age of 18 years for not more than a specified quantity and other than for commercial purposes | $3,000
+
+(Schedule replaced 39 of 2025 s. 56)
