@@ -452,9 +452,9 @@ Figure No. 149 Road Closed
 
 This sign may be placed on or near a road to indicate that the road has been closed.
 
-This sign may be used with the supplementary plates in Figure Nos. 405 and 433.
+This sign may be used with the supplementary plates in Figure Nos. 405, 433 and 435.
 
-(L.N. 16 of 2007) Regulatory
+(L.N. 16 of 2007; L.N. 167 of 2025) Regulatory
 
 Figure No. 150 Entry Point
 
@@ -1680,4 +1680,10 @@ Plate Figure No. 434
 
 This sign may be used with the sign in Figure No. 174 to indicate the Class or Classes of dangerous goods referred to in that figure.
 
-(L.N. 153 of 2007; 29 of 2021 s. 36)
+(L.N. 153 of 2007; 29 of 2021 s. 36) Supplementary
+
+Plate Figure No. 435
+
+This sign may be used with the sign in Figure No. 149 to indicate the exception of vehicles approved under a designated cross-boundary driving scheme to the particular restriction indicated by the sign in that figure.
+
+(L.N. 167 of 2025)
