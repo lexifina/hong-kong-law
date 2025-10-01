@@ -66,7 +66,7 @@ Fee No. | Matter or proceeding | Amount | When payable
 
 22 | Reference to Registrar under section 44 of the Ordinance and section 37 | $275 | On filing application under section 37
 
-23 | Counter-statement or notice of opposition under section 38, 39, 51 or 62 | $470 | On filing counter-statement or notice of opposition
+23 | Counter-statement or notice of opposition under section 38, 38A, 51 or 62 (L.N. 91 of 2025) | $470 | On filing counter-statement or notice of opposition
 
 24 | For certificate of Registrar under section 65(2) of the Ordinance and section 54 | $135 | On filing application for certificate
 
