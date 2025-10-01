@@ -50,6 +50,7 @@ s-048.md
 s-049.md
 s-050.md
 s-051.md
+s-051A.md
 s-052.md
 s-053.md
 s-054.md
@@ -122,4 +123,5 @@ s-119.md
 s-120.md
 s-121.md
 s-122.md
+s-123.md
 sch.md
