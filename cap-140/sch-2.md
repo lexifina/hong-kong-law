@@ -20,9 +20,25 @@ Passengers Exempted from Liability to Pay the Tax
 
 - 2A. Passengers who—
 
-  - (a) arrive at the airport from a place outside Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so arrive at the airport was issued, has been scheduled to land at the airport on a particular day; and
+  - (a) arrive at the airport from a place outside Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so arrive at the airport was issued, has been scheduled to land at the airport on a particular day on or after 1 October 2025 (arrival day); and
 
-  - (b) subsequently depart from Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so depart from Hong Kong was issued, has been scheduled to take off at the airport on the same day as the particular day referred to in paragraph (a). (Added L.N. 90 of 1999 and 44 of 1999 s. 23)
+  - (b) subsequently depart from Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so depart from Hong Kong was issued, has been scheduled to take off at the airport on the arrival day or the day following the arrival day.
+
+- (Added L.N. 90 of 1999 and 44 of 1999 s. 23. Amended L.N. 130 of 2025)
+
+- 2B. Passengers who—
+
+  - (a) enter Hong Kong through immigration controls (other than by an aircraft) on a particular day on or after 1 October 2025 (arrival day);
+
+  - (b) subsequently depart from Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so depart from Hong Kong was issued, has been scheduled to take off at the airport on the arrival day or the day following the arrival day; and
+
+  - (c) before departing from Hong Kong by the aircraft mentioned in subparagraph (b), have not left Hong Kong through immigration controls (other than by an aircraft) on—
+
+    - (i) the day on which the aircraft has been scheduled to take off at the airport (scheduled departure day); or
+
+    - (ii) the day before the scheduled departure day.
+
+- (Added L.N. 130 of 2025)
 
 - 3. Passengers who—
 
