@@ -14,7 +14,7 @@ $
 
 1. | On reference under section 13(1)(a) or (b), 14(5), 37H(1)(a) or (b) or 37K(7) of the Ordinance made to the Registrar to apply for grant of standard patent or licence or whether the period or terms of a licence are reasonable | 190
 
-2. | On filing of notice of opposition or counter-statement under section 2C(1), 3(7), 7(4)(a), 31G(1), 31L(1), 37(5), 40(3) or (4), 41(3) or 48(5) or (6A) of these Rules (31 of 2025 s. 147) | 325
+2. | On filing of notice of opposition or counter-statement under section 2C(1), 3(7), 7(4)(a), 31G(1), 31L(1), 37(5), 40(3) or (4), 41AAB(1), 41AAC(1) or 48(5) or (6A) of these Rules (31 of 2025 s. 147; L.N. 90 of 2025) | 325
 
 3. | On application under section 13(5) or 37I(4) of the Ordinance for authorization by the Registrar to carry out directions under section 13(3)(c) or (4) or 37I(1)(d)(ii) of the Ordinance on behalf of the person to whom the directions were given | 190
 
@@ -52,11 +52,11 @@ Application for maintenance for a further year after the expiry of the 5th year 
 
 13. | Request for renewal of a standard patent under section 39 of the Ordinance—
 
-request for renewal for a further year after the expiry of the 3rd, 4th, 5th, 6th, 7th, 8th or 9th year | 450
+request for renewal for a further year after the expiry of the 3rd, 4th, 5th, 6th, 7th, 8th or 9th year from the date specified in section 39(1)(b) of the Ordinance | 450
 
-request for renewal for a further year after the expiry of the 10th, 11th, 12th, 13th or 14th year | 620
+request for renewal for a further year after the expiry of the 10th, 11th, 12th, 13th or 14th year from the date specified in section 39(1)(b) of the Ordinance | 620
 
-request for renewal for a further year after the expiry of the 15th, 16th, 17th, 18th or 19th year (L.N. 35 of 2019) | 850
+request for renewal for a further year after the expiry of the 15th, 16th, 17th, 18th or 19th year from the date specified in section 39(1)(b) of the Ordinance (L.N. 35 of 2019; L.N. 90 of 2025) | 850
 
 14. | Additional fee for late payment of a renewal fee under section 39(4) of the Ordinance | 270
 
@@ -76,7 +76,7 @@ On application to restore a lapsed short-term patent under section 127 of the Or
 
 20. | On application to revoke a standard patent (R) under section 44(4) of the Ordinance | 190
 
-On reference to the Registrar under section 49 of the Ordinance to revoke a patent | 190
+On reference to the Registrar under 49(1) of the Ordinance and section 41(1) of these Rules to revoke a patent (L.N. 90 of 2025) | 190
 
 21. | On application to register or to give notice of rights acquired in or under a patent or an application for a patent under section 46 of these Rules | 325
 

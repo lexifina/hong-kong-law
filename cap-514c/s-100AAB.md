@@ -6,6 +6,8 @@
 
 - (b) the prescribed fee for the request is paid.
 
+(1A) If a request for the grant of an extended period is made under subsection (1), the requester must send a copy of the request to every other party to the proceedings. (L.N. 90 of 2025)
+
 (2) For the purposes of subsection (1), the time limit is—
 
 - (a) for a provision set out in Part 2 or 4 of Schedule 4 to these Rules—the current period;

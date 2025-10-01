@@ -44,7 +44,7 @@ Micro-organisms
 
   - whichever is the earlier.
 
-  - (4) For a standard patent (O) application, if the information specified in subparagraph (2)(b) is not submitted at the time the application is filed, it must be submitted before the earliest of the following time—
+  - (4) For a standard patent (O) application, if the information specified in subparagraph (2)(b) is not submitted at the time the application is filed, it must be submitted on or before the earliest of the following time— (L.N. 90 of 2025)
 
     - (a) the expiry of 16 months after—
 
@@ -298,7 +298,7 @@ Micro-organisms
 
     - (b) furnishes to the depositary institution with which the new deposit is made a declaration that the culture so deposited is of the same micro-organism as was the culture originally deposited; and
 
-    - (c) requests amendment of the specification under section 37ZA, 46 or 120 of the Ordinance, as the case may be, so as to indicate the accession number of the transferred or new deposit and, where applicable, the name of the depositary institution with which the deposit has been made. (L.N. 35 of 2019)
+    - (c) requests amendment of the specification under the Ordinance so as to indicate the accession number of the transferred or new deposit and, where applicable, the name of the depositary institution with which the deposit has been made. (L.N. 35 of 2019; L.N. 90 of 2025)
 
   - (3) The new deposit referred to in subparagraph (1)—
 
