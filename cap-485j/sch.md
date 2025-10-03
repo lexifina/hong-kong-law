@@ -301,3 +301,87 @@ Item | Constituent fund of a registered scheme | Relevant day
 147. | My Choice RMB & HKD Money Market Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 50 of 2025) | 5 September 2025
 
 148. | My Choice Stable Fund of the My Choice Mandatory Provident Fund Scheme (L.N. 50 of 2025) | 5 September 2025
+
+149. | AMTD Allianz Choice Balanced Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+150. | AMTD Allianz Choice Capital Stable Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+151. | AMTD Allianz Choice Dynamic Allocation Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+152. | AMTD Allianz Choice Growth Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+153. | AMTD Allianz Choice Stable Growth Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+154. | AMTD Invesco Age 65 Plus Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+155. | AMTD Invesco Asia Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+156. | AMTD Invesco Core Accumulation Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+157. | AMTD Invesco Europe Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+158. | AMTD Invesco Global Bond Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+159. | AMTD Invesco Hong Kong and China Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+160. | AMTD Invesco MPF Conservative Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+161. | AMTD Invesco Target 2028 Retirement Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+162. | AMTD Invesco Target 2038 Retirement Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+163. | AMTD Invesco Target 2048 Retirement Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+164. | AMTD Invesco Target Retirement Now Fund of the AMTD MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+165. | Invesco Age 65 Plus Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+166. | Invesco Asian Equity Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+167. | Invesco Balanced Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+168. | Invesco Capital Stable Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+169. | Invesco Core Accumulation Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+170. | Invesco Global Bond Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+171. | Invesco Global Index Tracking Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+172. | Invesco Growth Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+173. | Invesco Hang Seng Index Tracking Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+174. | Invesco Hong Kong and China Equity Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+175. | Invesco MPF Conservative Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+176. | Invesco RMB Bond Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+177. | Invesco US Index Tracking Fund of the BCT Strategic MPF Scheme (L.N. 63 of 2025) | 3 October 2025
+
+178. | Allianz Asian Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+179. | Allianz Balanced Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+180. | Allianz Capital Stable Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+181. | Allianz Flexi Balanced Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+182. | Allianz Greater China Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+183. | Allianz Growth Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+184. | Allianz Hong Kong Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+185. | Allianz MPF Age 65 Plus Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+186. | Allianz MPF Conservative Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+187. | Allianz MPF Core Accumulation Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+188. | Allianz Oriental Pacific Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+189. | Allianz RMB Money Market Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
+
+190. | Allianz Stable Growth Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 63 of 2025) | 3 October 2025
