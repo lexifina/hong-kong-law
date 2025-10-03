@@ -37,3 +37,5 @@ Item | Pre-existing scheme | Material day
 15. | BCT (MPF) Pro Choice (L.N. 94 of 2025) | 1 August 2025
 
 16. | AIA MPF - Prime Value Choice (L.N. 94 of 2025) | 3 September 2025
+
+17. | Sun Life Rainbow MPF Scheme (L.N. 189 of 2025) | 3 October 2025
