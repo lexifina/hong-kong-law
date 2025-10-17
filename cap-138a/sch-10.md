@@ -394,7 +394,7 @@ Poisons List
 
       - (a) the following— Bacillus Calmette-Guérin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
-      - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Respiratory syncytial virus Rubella Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Tetanus Typhoid Varicella Yellow fever
+      - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Dengue fever Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Respiratory syncytial virus Rubella Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Tetanus Typhoid Varicella Yellow fever
 
     - Antithymocyte Immunoglobulin
 
@@ -1404,6 +1404,8 @@ Poisons List
 
     - Firocoxib; its salts
 
+    - Fitusiran; its salts
+
     - Flavoxate; its salts
 
     - Flecainide; its salts
@@ -1580,6 +1582,8 @@ Poisons List
 
     - Hexobendine; its salts
 
+    - Human chondrocytes when contained in advanced therapy products indicated for the repair of symptomatic articular cartilage defects
+
     - Human cytomegalovirus immunoglobulin
 
     - Hydralazine; its salts
@@ -1653,6 +1657,8 @@ Poisons List
     - Imipramine; its salts
 
     - Imiquimod; its salts
+
+    - Inaticabtagene autoleucel
 
     - Inclisiran; its salts
 
@@ -1775,6 +1781,8 @@ Poisons List
     - Latanoprostene bunod; its salts
 
     - Laudexium; its salts
+
+    - Lazertinib; its salts
 
     - Lead acetates; compounds of lead with acids from fixed oils
 
@@ -3084,6 +3092,8 @@ Poisons List
 
     - Simvastatin
 
+    - Sintilimab
+
     - Siponimod; its salts; its esters; their salts
 
     - Sirolimus; its salts
@@ -3374,6 +3384,8 @@ Poisons List
 
     - Treosulfan; its salts
 
+    - Treprostinil; its salts; its esters; their salts
+
     - Tretamine; its salts
 
     - Tretinoin
@@ -3562,7 +3574,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025; L.N. 116 of 2025; L.N. 161 of 2025)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025; L.N. 116 of 2025; L.N. 161 of 2025; L.N. 211 of 2025)
 
   - Division B
 
