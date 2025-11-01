@@ -290,6 +290,14 @@ Public Bodies
 
 141. | CMU OmniClear Limited. (Added L.N. 132 of 2025)
 
+142. | The registration committee as defined by section 2 of the Fire Services (Registered Fire Engineers) Regulation. (Added L.N. 173 of 2025)
+
+143. | The interview board panel as defined by section 2 of the Fire Services (Registered Fire Engineers) Regulation, including an interview board as defined by that section. (Added L.N. 173 of 2025)
+
+144. | The disciplinary board panel as defined by section 2 of the Fire Services (Registered Fire Engineers) Regulation, including a disciplinary board as defined by that section. (Added L.N. 173 of 2025)
+
+145. | The appeal board panel as defined by section 2 of the Fire Services (Registered Fire Engineers) Regulation, including an appeal board as defined by that section. (Added L.N. 173 of 2025)
+
 (Replaced L.N. 272 of 1974)
 
 Editorial Note:
