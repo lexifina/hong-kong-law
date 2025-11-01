@@ -72,11 +72,17 @@ Fee $
 
 and in addition to the appropriate fee mentioned above, in the case of a private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109) | 1,898
 
-6. | Electrically powered passenger vehicle—
+6. | Electrically powered passenger vehicle the rated power of which—
 
-(a) not exceeding 1 tonne unladen weight; and | 572
+(a) does not exceed 75 kilowatts | 1,500
 
-(b) an additional fee for each 250 kg unladen weight or part thereof | 124
+(b) exceeds 75 kilowatts but does not exceed 125 kilowatts | 2,000
+
+(c) exceeds 125 kilowatts but does not exceed 175 kilowatts | 2,500
+
+(d) exceeds 175 kilowatts but does not exceed 225 kilowatts | 3,000
+
+(e) exceeds 225 kilowatts (L.N. 169 of 2025) | 5,000
 
 7. | Motor cycle | 1,200
 
