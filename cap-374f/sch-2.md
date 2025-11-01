@@ -6,35 +6,69 @@ Approved Seat Belts and Approved Anchorage Points
 
 - Part I Approved Seat Belts
 
-  - 1. Seat belts in respect of which either the seat belt assembly or the vehicle to which it is attached is permanently marked by the manufacturer of the belt or vehicle with the specification number, mark or symbol indicating compliance with any of the following—
+  - Division 1 Seat Belts (other than Child Restraining Devices)
 
-    - (a) British Standard for Seat Belt Assemblies for motor vehicles BS 3254: 1960 and BS 3254, including Part 1: 1988 Specification for restraining devices for adults; and BS 3254, including Part 2: 1991 Specification for restraining devices for children;
+    - 1. A seat belt (other than a child restraining device) in respect of which either the seat belt assembly or the vehicle to which it is attached is permanently marked by the manufacturer of the belt or vehicle with the specification number, mark or symbol indicating compliance with any of the following—
 
-    - (b) British Standard Specification for Passive Seat Belt Systems BS AU 160a and BS AU 183: 1989; and BS AU 157a, BS AU 185, BS AU 186, BS AU 186a, BS AU 202 and BS AU 202a for child restraint system;
+      - (a) British Standard for Seat Belt Assemblies for motor vehicles BS 3254: 1960 or BS 3254 (including Part 1: 1988 Specification for restraining devices for adults);
 
-    - (c) ECE Regulation No. 16 made by the Economic Commission for Europe dated 7 May 1973 including all Revisions for Seat Belt made before the date* this paragraph comes into operation; and ECE Regulation No. 44 made by the Economic Commission for Europe dated 1 February 1981 including all Revisions for restraining devices for children made before the date* this paragraph comes into operation;
+      - (b) British Standard Specification for Passive Seat Belt Systems BS AU 160a or BS AU 183: 1989;
 
-    - (d) Australian Standards for Seat Belt Assemblies for motor vehicles E35-1965, E35, Part I-1970 and E35, Part II-1970 (including retractors), including modification authorized by Australian Design Rules No. 4, 4A, 4B and 4C; AS 2596-1995 and 2596-1983, including modifications complying with Australian Design Rule No. 4; and AS 1754-1995 for restraining devices for children;
+      - (c) ECE Regulation No. 16 made by the Economic Commission for Europe dated 7 May 1973 (including all revisions for seat belt made before 1 August 1998);
 
-    - (e) New Zealand Specification for Seat Belt Assemblies for motor vehicles NZS 1662: 1969 and NZS 5401; and NZS 5411 for restraining devices for children;
+      - (d) Australian Standards for Seat Belt Assemblies for motor vehicles E35-1965, E35, Part 1-1970 or E35, Part 2-1970 (including retractors) (including modifications authorized by Australian Design Rules No. 4, 4A, 4B and 4C); AS 2596-1995 or AS 2596-1983 (including modifications complying with Australian Design Rule No. 4);
 
-    - (f) Federal Motor Vehicle Safety Standard (USA) No. 209 for Seat Belt; and No. 213 for restraining devices for children; (L.N. 65 of 2005)
+      - (e) New Zealand Specification for Seat Belt Assemblies for motor vehicles NZS 1662: 1969 or NZS 5401;
 
-    - (g) Japanese Industrial Standard JIS D4604: 1969 (three-point belts only) and D4604: 1988; and JIS D0401: 1990 and JIS D0401: 1996 for restraining devices for children; (L.N. 65 of 2005)
+      - (f) Federal Motor Vehicle Safety Standard (USA) No. 209 for Seat Belt;
 
-    - (h) Australian Design Rule 4/03 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions of that rule made before the date@ this subparagraph comes into operation; (L.N. 65 of 2005)
+      - (g) Japanese Industrial Standard JIS D4604: 1969 (three-point belts only) or D4604: 1988;
 
-    - (i)
+      - (h) Australian Design Rule 4/03 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) (including all revisions of that Rule made before 30 June 2005);
 
-      - (i) Technical Standard for Seat Belt Assemblies made by the Minister of Land, Infrastructure and Transport of Japan in Attachment 32 to Announcement No. 619 of 15 July 2002; and
+      - (i) Technical Standard for Seat Belt Assemblies made by the Minister of Land, Infrastructure and Transport of Japan in Attachment 32 to Announcement No. 619 of 15 July 2002 (including all revisions of that Standard made before 30 June 2005);
 
-      - (ii) Seat Belt Assembly Test Procedure (TRIAS) 31-1994 made by the Minister of Land, Infrastructure and Transport of Japan in Circular of Koshin No. 453 of 24 August 1971,
+      - (j) Seat Belt Assembly Test Procedure (TRIAS) 31-1994 made by the Minister of Land, Infrastructure and Transport of Japan in Circular of Koshin No. 453 of 24 August 1971 (including all revisions of that Test Procedure made before 30 June 2005);
 
-    - including all revisions of that standard and test procedure made before the date@ this subparagraph comes into operation; (L.N. 65 of 2005)
+      - (k) Directive 77/541/EEC issued by the European Economic Community dated 28 June 1977 (including all revisions of that Directive made before 30 June 2005).
 
-    - (j) Directive 77/541/EEC issued by the European Economic Community dated 28 June 1977 including all revisions of that directive made before the date@ this subparagraph comes into operation. (L.N. 65 of 2005)
+    - 2. A seat belt (other than a child restraining device) that—
 
-  - 2. Seat belts of a type approved by the Commissioner and specified by him by notice in the Gazette, bearing a marking determined by the Commissioner indicating that the type of seat belt has been accepted as capable of affording to persons in a motor vehicle a degree of protection from injury equal to or greater than that provided by seat belts of the types specified in paragraph 1. (L.N. 114 of 1998)
+      - (a) is of a type approved by the Commissioner and specified by the Commissioner by notice published in the Gazette; and
+
+      - (b) bears a marking determined by the Commissioner indicating that the type has been accepted as capable of affording to persons in a motor vehicle a degree of protection from injury equal to, or greater than, that provided by a seat belt of a type specified in paragraph 1.
+
+  - Division 2 Child Restraining Devices
+
+    - 3. A child restraining device in respect of which either the device assembly or the vehicle to which it is attached is permanently marked by the manufacturer of the device or vehicle with the specification number, mark or symbol indicating compliance with any of the following—
+
+      - (a) British Standard for Seat Belt Assemblies for motor vehicles BS 3254: 1960 or BS 3254 (including Part 2: 1991 Specification for restraining devices for children);
+
+      - (b) British Standard Specification for Passive Seat Belt Systems BS AU 157a, BS AU 185, BS AU 186, BS AU 186a, BS AU 202 or BS AU 202a;
+
+      - (c) ECE Regulation No. 16 made by the Economic Commission for Europe dated 7 May 1973 (including all revisions made before 1 August 1998); ECE Regulation No. 44 made by the Economic Commission for Europe dated 1 February 1981 (including all revisions for child restraining devices made before 1 August 1998); or UN Regulation No. 129 made by the United Nations Economic Commission for Europe dated 7 August 2013 (including all revisions for child restraining devices made before 1 November 2025);
+
+      - (d) Australian Standards for Seat Belt Assemblies for motor vehicles AS 1754-1995;
+
+      - (e) New Zealand Specification for Seat Belt Assemblies for motor vehicles NZS 5411;
+
+      - (f) Federal Motor Vehicle Safety Standard (USA) No. 213;
+
+      - (g) Japanese Industrial Standard JIS D0401: 1990 or JIS D0401: 1996;
+
+      - (h) Directive 77/541/EEC issued by the European Economic Community dated 28 June 1977 (including all revisions of that Directive made before 30 June 2005);
+
+      - (i) Australian/New Zealand Standard AS/NZS 1754: 2010 or AS/NZS 1754: 2013;
+
+      - (j) National Standard of the People’s Republic of China GB 27887-2011 for restraining devices for child occupants of power-driven vehicles.
+
+    - 4. A child restraining device that—
+
+      - (a) is of a type approved by the Commissioner and specified by the Commissioner by notice published in the Gazette; and
+
+      - (b) bears a marking determined by the Commissioner indicating that the type has been accepted as capable of affording to persons in a motor vehicle a degree of protection from injury equal to, or greater than, that provided by a child restraining device of a type specified in paragraph 3.
+
+    - (Part I replaced L.N. 179 of 2024)
 
 - Part II Approved Anchorage Points for Vehicles other than Goods Vehicles and Public Light Buses Registered on or after Specified Date (L.N. 37 of 1989; L.N. 148 of 2002)
 
@@ -92,7 +126,7 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (d) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date△ this paragraph comes into operation.
 
-- (L.N. 148 of 2002)
+- (Part IIIA added L.N. 148 of 2002)
 
 - Part IV Approved Anchorage Points for Goods Vehicles
 
@@ -104,7 +138,7 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (d) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date△ this paragraph comes into operation. (L.N. 148 of 2002; L.N. 65 of 2005)
 
-- (L.N. 37 of 1989; L.N. 148 of 2002)
+- (Part IV added L.N. 37 of 1989. L.N. 148 of 2002)
 
 - Part V Approved Anchorage Points for Public Light Buses Registered on or after Specified Date
 
@@ -118,12 +152,8 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (e) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date△ this paragraph comes into operation.
 
-- (L.N. 148 of 2002)
+- (Part V added L.N. 148 of 2002)
 
 Editorial Notes:
-
-* | Commencement date: 1 August 1998.
-
-@ | Commencement date: 30 June 2005.
 
 △ | Commencement date: 1 August 2004.
