@@ -357,3 +357,93 @@ Item | Constituent fund of a registered scheme | Relevant day
 175. | Allianz RMB Money Market Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 65 of 2025) | 3 October 2025
 
 176. | Allianz Stable Growth Fund of the Manulife RetireChoice (MPF) Scheme (L.N. 65 of 2025) | 3 October 2025
+
+177. | BCT (Pro) Age 65 Plus Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+178. | BCT (Pro) Asian Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+179. | BCT (Pro) Asian Income Retirement Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+180. | BCT (Pro) China and Hong Kong Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+181. | BCT (Pro) Core Accumulation Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+182. | BCT (Pro) E30 Mixed Asset Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+183. | BCT (Pro) E50 Mixed Asset Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+184. | BCT (Pro) E70 Mixed Asset Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+185. | BCT (Pro) E90 Mixed Asset Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+186. | BCT (Pro) European Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+187. | BCT (Pro) Flexi Mixed Asset Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+188. | BCT (Pro) Global Bond Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+189. | BCT (Pro) Global Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+190. | BCT (Pro) Greater China Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+191. | BCT (Pro) Hang Seng Index Tracking Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+192. | BCT (Pro) Hong Kong Dollar Bond Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+193. | BCT (Pro) RMB Bond Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+194. | BCT (Pro) SaveEasy 2020 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+195. | BCT (Pro) SaveEasy 2025 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+196. | BCT (Pro) SaveEasy 2030 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+197. | BCT (Pro) SaveEasy 2035 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+198. | BCT (Pro) SaveEasy 2040 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+199. | BCT (Pro) SaveEasy 2045 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+200. | BCT (Pro) SaveEasy 2050 Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+201. | BCT (Pro) U.S. Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+202. | BCT (Pro) World Equity Fund of the BCT (MPF) Pro Choice (L.N. 97 of 2025) | 1 November 2025
+
+203. | Age 65 Plus Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+204. | American Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+205. | Asian Bond Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+206. | Asian Equity Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+207. | Balanced Portfolio of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+208. | Capital Stable Portfolio of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+209. | China HK Dynamic Asset Allocation Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+210. | Core Accumulation Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+211. | Eurasia Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+212. | European Equity Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+213. | Global Bond Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+214. | Greater China Equity Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+215. | Green Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+216. | Growth Portfolio of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+217. | Guaranteed Portfolio of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+218. | Hong Kong and China Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+219. | Manager’s Choice Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+220. | North American Equity Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
+
+221. | World Fund of the AIA MPF - Prime Value Choice (L.N. 97 of 2025) | 3 December 2025
