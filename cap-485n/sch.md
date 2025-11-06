@@ -39,3 +39,13 @@ Item | Pre-existing scheme | Material day
 16. | AIA MPF - Prime Value Choice (L.N. 94 of 2025) | 3 September 2025
 
 17. | Sun Life Rainbow MPF Scheme (L.N. 189 of 2025) | 3 October 2025
+
+18. | Manulife Global Select (MPF) Scheme (L.N. 198 of 2025) | 6 November 2025
+
+19. | Fidelity Retirement Master Trust (L.N. 198 of 2025) | 30 December 2025
+
+20. | Haitong MPF Retirement Fund (L.N. 198 of 2025) | 30 December 2025
+
+21. | Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 198 of 2025) | 29 January 2026
+
+22. | HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 198 of 2025) | 29 January 2026
