@@ -428,7 +428,7 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (j) | to confirm or vary under section 13(3)(b) the directions given under section 13(1). (Added 14 of 2013 s. 28)
 
-74. | Electronic Health Record Sharing System Ordinance (Cap. 625) | A decision of the Commissioner for the Electronic Health Record—
+74. | Electronic Health System Ordinance (Cap. 625) (Amended 36 of 2025 s. 57) | A decision of the Commissioner for the Electronic Health Record—
 
 (a) | to refuse to register a healthcare recipient under section 8(1);
 
@@ -436,11 +436,13 @@ as referred to in section 30. (Added 28 of 2004 s. 35)
 
 (c) | to cancel the registration of a healthcare recipient under section 11(1);
 
-(d) | to refuse to register a healthcare provider as a healthcare provider for the Electronic Health Record Sharing System under section 20(1);
+(d) | to refuse to register a healthcare provider as a healthcare provider for the Electronic Health System under section 20(1); (Amended 36 of 2025 s. 57)
 
 (e) | to suspend a registration of a registered healthcare provider under section 24(1);
 
-(f) | to cancel a registration of a registered healthcare provider under section 25(1). (Added 15 of 2015 s. 63 and E.R. 3 of 2015)
+(f) | to cancel a registration of a registered healthcare provider under section 25(1); or (Added 15 of 2015 s. 63 and E.R. 3 of 2015. Amended 36 of 2025 s. 57)
+
+(g) | to give an enforcement notice under section 26R(1). (Added 36 of 2025 s. 57)
 
 75. | Private Healthcare Facilities Ordinance (Cap. 633) | A decision of the Director of Health—
 
