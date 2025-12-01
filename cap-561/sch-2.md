@@ -4,148 +4,120 @@
 
 Sex-linked Genetic Diseases
 
-Addison’s disease with cerebral sclerosis (Addison 病(並有腦硬化))
+46XY sex reversal 2 (46,XY性別反轉2型)
 
-Adrenoleucodystrophy (腎上腺白質營養不良)
+Aarskog-Scott syndrome (Aarskog-Scott綜合症)
 
-Adrenal hypoplasia (腎上腺發育不良)
+Adrenal hypoplasia, congenital (先天性腎上腺發育不全)
 
-Agammaglobulinaemia, Bruton type (血球蛋白血病 (Bruton 型))
+Adrenoleukodystrophy (腎上腺腦白質營養不良)
 
-Agammaglobulinaemia, Swiss type (血球蛋白血病(瑞士型))
+Agammaglobulinemia, X-linked (X-連鎖無丙種球蛋白血症)
 
-Albinism, ocular (眼部白化病)
+Albinism, ocular, type 1 (眼部白化病1型)
 
-Albinism-deafness syndrome (白化病——耳聾綜合症)
+Alport syndrome 1, X-linked (X-連鎖Alport綜合症1型)
 
-Aldrich syndrome (Aldrich 綜合症)
+Amelogenesis imperfecta, type 1E (牙釉質發育不全1E型)
 
-Alport syndrome (Alport 綜合症)
+Androgen insensitivity (雄激素不敏感綜合症)
 
-Amelogenesis imperfecta, hypomaturation type (釉質生長不全(成熟低下型))
+Anemia, sideroblastic, 1 (鐵粒幼細胞性貧血1型)
 
-Amelogenesis imperfecta, hypoplastic type (釉質生長不全(發育不良型))
+Arts syndrome (Arts綜合症)
 
-Anaemia, hereditary hypochromic (遺傳性低色數性貧血)
+Cataract 40, X-linked (X-連鎖白內障40型)
 
-Angiokeratoma (Fabry’s disease) (血管角質瘤 (Fabry 病))
+Charcot-Marie-Tooth disease, X-linked recessive, 5 (X-連鎖隱性Charcot-Marie-Tooth病5型)
 
-Cataract, congenital (先天性白內障)
-
-Cerebellar ataxia (小腦共濟失調)
-
-Cerebral sclerosis, diffuse (擴散性腦硬化)
-
-Charcot-Marie-Tooth peroneal muscular atrophy (Charcot-Marie-Tooth 腓骨肌萎縮症)
+Charcot-Marie-Tooth neuropathy, X-linked dominant, 1 (X-連鎖顯性Charcot-Marie-Tooth病1型)
 
 Choroideraemia (無脈絡膜症)
 
-Choroidoretinal degeneration (脈絡膜視網膜變質)
+Coffin-Lowry syndrome (Coffin-Lowry綜合症)
 
-Coffin-Lowry syndrome (Coffin-Lowry 綜合症)
+Deafness, X-linked (X-連鎖耳聾)
 
-Colour blindness, Deutan type (色盲(綠色系列型))
+Diabetes insipidus, nephrogenic, 1, X-linked (X-連鎖腎性多尿症1型)
 
-Colour blindness, Protan type (色盲(紅色系列型))
+Dyskeratosis congenita, X-linked (X-連鎖先天性角化不良)
 
-Diabetes insipidus, nephrogenic (腎原性尿崩症)
+Ectodermal dysplasia 1, hypohidrotic, X-linked (X-連鎖少汗性外胚層發育不良1型)
 
-Diabetes insipidus, neurohypophyseal (尿崩症(神經垂體型))
+Emery-Dreifuss muscular dystrophy 1, X-linked (X-連鎖埃默里——德里夫斯肌營養不良1型)
 
-Dyskeratosis congenita (先天性角化不良)
+Fabry disease (法布里病)
 
-Ectodermal dysplasia, anhidrotic (外胚層發育不全(無汗型))
+Focal dermal hypoplasia (局灶性皮膚發育不全)
 
-Ehlers-Danlos syndrome, type V (Ehlers-Danlos 綜合病(第V類型))
+Fragile X syndrome (脆性X綜合症)
 
-Faciogenital dysplasia (Aarskog syndrome) (面生殖發育不全 (Aarskog 綜合症))
+Glycogen storage disease, type IXa1 and type IXa2 (糖原貯積病IXa1型及IXa2型)
 
-Focal dermal hypoplasia (X-linked dominant, male lethal) (局灶性皮膚發育不良(與X染色體有關連的顯性，對男性而言可致死))
-
-Glucose 6-phosphate dehydrogenase deficiency (葡糖6磷酸脫氫酶缺乏)
-
-Glycogen storage disease, type VIII (糖原貯積症(第VIII類型))
-
-Gonadal dysgenesis (XY female type) (性腺發育不全(XY女性類型))
-
-Granulomatous disease (chronic) (慢性肉芽腫病)
+Granulomatous disease, chronic, X-linked (X-連鎖慢性肉芽腫病)
 
 Haemophilia A (血友病A)
 
 Haemophilia B (血友病B)
 
-Hydrocephalus (aqueduct stenosis) (腦積水(中腦水管狹窄))
+Hydrocephalus, congenital, X-linked (X-連鎖先天性腦積水)
 
-Hypophosphataemic rickets (低磷酸血性佝僂病)
+Hypophosphatemic rickets, X-linked (X-連鎖低磷酸鹽性佝僂病)
 
-Ichthyosis (steriod sulphatase deficiency) (魚鱗癬 (steriod sulphatase 缺乏))
+Incontinentia pigmenti (色素失調症)
 
-Incontinentia pigmenti (X-linked dominant, male lethal) (色素失節症(與X染色體有關連的顯性，對男性而言可致死))
+Intellectual developmental disorder, X-linked 1 (X-連鎖智力發育障礙1型)
 
-Kallmann syndrome (Kallmann 綜合症)
+Intellectual developmental disorder, X-linked 109 (X-連鎖智力發育障礙109型)
 
-Keratosis follicularis spinulosa (Spinulosa 毛囊角化病)
+Kallmann syndrome 1 (卡曼綜合症1型)
 
-Lesch-Nyhan syndrome (hypoxanthine-guanine-phosphoribosyl transferase deficiency) (Lesch-Nyhan 綜合症(次黃嘌呤——鳥嘌呤——磷酸核糖轉移酶缺乏))
+Keratosis follicularis spinulosa decalvans, X-linked (X-連鎖脫髮型毛囊角化病)
 
-Lowe (oculocerebrorenal) syndrome (Lowe (眼腦腎)綜合症)
+Lesch-Nyhan syndrome (hypoxanthine-guanine-phosphoribosyl transferase 1 deficiency) (Lesch-Nyhan綜合症 (次黃嘌呤——鳥嘌呤——磷酸核糖轉移酶1缺乏症))
 
-Macular dystrophy of the retina (視網膜黃斑營養不良)
+Lowe oculocerebrorenal syndrome (洛伊氏眼腦腎綜合症)
 
-Menkes syndrome (Menkes 綜合症)
+Menkes disease (Menkes病)
 
-Mental retardation, FMRI type (智力遲緩 (FMRI 型))
+Microphthalmia, syndromic 1 (微小眼綜合症1型)
 
-Mental retardation, FRAXE type (智力遲緩 (FRAXE 型))
+Mucopolysaccharidosis type II (黏多糖貯積症II型)
 
-Mental retardation, MRXI type (智力遲緩 (MRXI 型))
+Muscular dystrophy, Becker type (貝克型肌營養不良)
 
-Microphthalmia with multiple anomalies (Lenz syndrome) (小眼症(並有多種畸型) (Lenz 綜合症))
+Muscular dystrophy, Duchenne type (杜氏肌營養不良)
 
-Mucopolysaccharidosis II (Hunter syndrome) (黏多糖貯積病II (Hunter 綜合症))
+Myopathy, centronuclear, X-linked (X-連鎖中央核肌病)
 
-Muscular dystrophy, Becker type (肌營養不良 (Becker 型))
+Night blindness, congenital stationary, X-linked (X-連鎖先天性靜止性夜盲症)
 
-Muscular dystrophy, Duchenne type (肌營養不良 (Duchenne 型))
+Norrie disease (諾氏病)
 
-Muscular dystrophy, Emery-Dreifuss type (肌營養不良 (Emery-Dreifuss 型))
+Ornithine transcarbamylase deficiency (鳥氨酸轉羧酶缺乏症)
 
-Myotubular myopathy (肌小管肌病)
+Orofaciodigital syndrome I (口——面——指(趾)綜合症1型)
 
-Night blindness, congenital stationary (先天性靜止性夜盲症)
+Phosphoglycerate kinase 1 deficiency (磷酸甘油酸激酶1缺乏症)
 
-Norrie’s disease (pseudoglioma) (Norrie’s 病 (假性神經膠質瘤))
+Phosphoribosylpyrophosphate synthetase superactivity (磷酸核糖焦磷酸合成酶超活性)
 
-Nystagmus, oculomotor or ‘jerky’ (眼球震顫 (眼球運動的或抽動的))
+Retinitis pigmentosa, X-linked (X-連鎖視網膜色素變性)
 
-Ornithine transcarbamylase deficiency (type I hyperammonaemia) (鳥氨酸胺甲酰轉移酶缺陷症(高氨血症第I類型))
+Retinoschisis 1, X-linked, juvenile (X-連鎖青少年型視網膜劈裂症1型)
 
-Orofaciodigital syndrome (type I) (X-linked dominant, male lethal) (口——面——指(趾)綜合症(第I類型)(與X染色體有關連的顯性，對男性而言可致死))
+Severe combined immunodeficiency, X-linked (X-連鎖嚴重聯合免疫缺乏症)
 
-Perceptive deafness, DNFZ type (感覺性聾症 (DNFZ 型))
+Spastic paraplegia 2, X-linked (X-連鎖痙攣性截癱2型)
 
-Perceptive deafness, with ataxia and loss of vision (感覺性聾症(並有共濟失調和喪失視力))
+Spinal and bulbar muscular atrophy, X-linked 1 (X-連鎖脊髓延髓肌萎縮症1型)
 
-Phosphoglycerate kinase deficiency (磷酸甘油酸激酶缺乏)
+Spinocerebellar ataxia, X-linked 1 (X-連鎖脊髓小腦共濟失調1型)
 
-Phosphoribosylpyrophosphate (PRPP) synthetase deficiency (磷酸核糖焦磷酸合成酶缺乏)
+Spondyloepiphyseal dysplasia tarda, X-linked (X-連鎖晚發性脊柱骨骺發育不良)
 
-Reifenstein syndrome (Reifenstein 綜合症)
+Thrombocytopenia, X-linked (X-連鎖血小板減少症)
 
-Retinitis pigmentosa (視網膜色素變性)
+Wiskott-Aldrich syndrome (威斯科特——奧爾德里奇綜合症)
 
-Retinoschisis (視網膜裂)
-
-Spastic paraplegia (痙攣性痳痺)
-
-Spinal muscular atrophy (脊椎肌萎縮)
-
-Spondyloepiphyseal dysplasia tarda (遲發性脊椎骨骺發育不全)
-
-Testicular feminization syndrome (睪丸女性化綜合症)
-
-Thrombocytopenia, hereditary (遺傳性血小板減少症)
-
-Thyroxine-binding globulin, absence or variants of (甲狀腺素——結合球蛋白缺乏或變種)
-
-Xg blood group system (Xg 血型系統)
+(Schedule 2 replaced L.N. 178 of 2025)
