@@ -1,6 +1,6 @@
 # Schedule 1
 
-[s. 102 & Sch. 9] (Amended 26 of 1998 s. 38)
+[ss. 101 & 102 & Sch. 9] (Amended 26 of 1998 s. 38; E.R. 2 of 2025)
 
 Boundaries of the City of Victoria
 

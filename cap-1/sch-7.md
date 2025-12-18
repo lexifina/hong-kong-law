@@ -1,6 +1,8 @@
 # Schedule 7
 
-[ss. 85(2) & 90]
+[ss. 85, 90 & 101]
+
+(Amended E.R. 2 of 2025)
 
 Directorate Disciplined Officers
 
@@ -14,4 +16,4 @@ Directorate Disciplined Officers
 
   - (d) a member of the Customs and Excise Service at or above the rank of Chief Superintendent.
 
-(Added 88 of 1995 s. 3)
+(Schedule 7 added 88 of 1995 s. 3)

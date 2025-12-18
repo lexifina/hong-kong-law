@@ -1,6 +1,8 @@
 # Schedule 4
 
-[s. 3]
+[ss. 3 & 101]
+
+(Amended E.R. 2 of 2025)
 
 Area of Kowloon
 

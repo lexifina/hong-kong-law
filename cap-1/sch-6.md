@@ -1,6 +1,8 @@
 # Schedule 6
 
-[s. 62]
+[ss. 62 & 101]
+
+(Amended E.R. 2 of 2025)
 
 Public Officers
 

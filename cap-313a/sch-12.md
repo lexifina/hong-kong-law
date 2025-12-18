@@ -1,6 +1,6 @@
 # Twelfth Schedule
 
-[reg. 71]
+[regs. 71 & 72] (E.R. 2 of 2025)
 
 Shipping and Port Control Ordinance (Chapter 313) Notice under section 77 of the Shipping and Port Control
 

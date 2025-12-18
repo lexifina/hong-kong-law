@@ -1,6 +1,8 @@
 # Schedule 9
 
-[s. 102]
+[ss. 101 & 102]
+
+(Amended E.R. 2 of 2025)
 
 Temporary Provisions
 

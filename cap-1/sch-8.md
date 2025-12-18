@@ -1,6 +1,8 @@
 # Schedule 8
 
-[s. 2A(3)]
+[ss. 2A & 101]
+
+(Amended E.R. 2 of 2025)
 
 Construction on and after 1 July 1997 of Words and Expressions in Laws Previously in Force
 
@@ -72,4 +74,4 @@ Construction on and after 1 July 1997 of Words and Expressions in Laws Previousl
 
 - 21F. Any reference to “首席法官” or “首席大法官” shall be construed as a reference to “終審法院首席法官”. (Added 26 of 1998 s. 42)
 
-- 22. This Schedule applies unless the context otherwise requires. (Added 110 of 1997 s. 6)
+- 22. This Schedule applies unless the context otherwise requires. (Schedule 8 added 110 of 1997 s. 6)

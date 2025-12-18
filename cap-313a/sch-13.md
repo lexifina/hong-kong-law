@@ -1,6 +1,8 @@
 # Thirteenth Schedule
 
-[regs. 48, 49, 50, 51, 52 & 68]
+[regs. 48, 49, 50, 51, 52, 68 & 72]
+
+(E.R. 2 of 2025)
 
 Port Dues and Fees
 
