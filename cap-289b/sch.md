@@ -398,4 +398,6 @@ Item | Periods | Rate of interest
 
 197. | On or after 3 February 2025 and before 6 October 2025 (L.N. 9 of 2025; L.N. 204 of 2025) | 0.3417% per annum
 
-198. | On or after 6 October 2025 (L.N. 204 of 2025) | 0.2583% per annum
+198. | On or after 6 October 2025 and before 5 January 2026 (L.N. 204 of 2025; L.N. 219 of 2025) | 0.2583% per annum
+
+199. | On or after 5 January 2026 (L.N. 219 of 2025) | 0.2417% per annum
