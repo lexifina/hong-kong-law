@@ -12,9 +12,27 @@ Continuous Employment
 
 - 2. Subject to the following provisions, where at any time an employee has been employed under a contract of employment during the period of 4 or more weeks next preceding such time he shall be deemed to have been in continuous employment during that period.
 
+- 2A.
+
+  - (1) A week (except one to which subparagraph (2) applies) does not count for the purposes of paragraph 2 unless—
+
+    - (a) the employee has worked for 17 hours or more in that week; or
+
+    - (b) the employee—
+
+      - (i) has been employed by the employer concerned during the period of 3 weeks next preceding that week; and
+
+      - (ii) has worked for 68 hours or more in the period comprising that week and the 3 weeks described in sub-sub-subparagraph (i).
+
+  - (2) A week falling within either of the following descriptions does not count for the purposes of paragraph 2 unless the employee has worked for 18 hours or more in that week—
+
+    - (a) a week beginning before the date on which the Employment (Amendment) Ordinance 2025 (27 of 2025) comes into operation* (pre-amendment week);
+
+    - (b) a week that is one of the first 3 weeks immediately following the last pre-amendment week. (Added 27 of 2025 s. 3)
+
 - 3.
 
-  - (1) For the purposes of paragraph 2, no week shall count unless the employee has worked for 18 hours or more in that week, and in determining whether he has worked in any hour the provisions of sub-paragraph (2) shall apply.
+  - (1) In determining for the purposes of paragraph 2A whether the employee has worked in any hour, subparagraph (2) applies. (Replaced 27 of 2025 s. 3)
 
   - (2) If in any hour the employee is, for the whole or part of the hour—
 
@@ -45,3 +63,7 @@ Continuous Employment
   - week (星期) means a week ending with Saturday.
 
 - (Amended 5 of 1970 s. 9; 71 of 1970 s. 6; 41 of 1990 s. 23)
+
+Editorial Note:
+
+* Operation date: 28 December 2025.
