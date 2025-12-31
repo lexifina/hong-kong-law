@@ -12,19 +12,31 @@ Mercury-added Products
 
 - 2. | Switch and relay, other than— (a) very high accuracy capacitance and loss measurement bridge having a mercury content not exceeding 20 mg per bridge; or (b) high frequency radio frequency switch and relay, having a mercury content not exceeding 20 mg per switch or relay, in a monitoring and control instrument.
 
-- 3. | Compact fluorescent lamp for general lighting that— (a) has a power output not exceeding 30 W; and (b) has a mercury content exceeding 5 mg per lamp.
+- 3. | Compact fluorescent lamp for general lighting— (Amended L.N. 114 of 2025) (a) that— (i) is equipped with an integrated ballast; and (ii) has a power output not exceeding 30 W; or (b) that— (i) is equipped with a non-integrated ballast; (ii) has a power output not exceeding 30 W; and (iii) has a mercury content exceeding 5 mg per lamp. (Amended L.N. 114 of 2025)
 
 - 4. | Linear fluorescent lamp for general lighting— (a) that— (i) is made of triband phosphor; (ii) has a power output of less than 60 W; and (iii) has a mercury content exceeding 5 mg per lamp; or (b) that— (i) is made of halophosphate phosphor; (ii) has a power output not exceeding 40 W; and (iii) has a mercury content exceeding 10 mg per lamp.
 
 - 5. | High pressure mercury vapour lamp for general lighting.
 
-- 6. | Cold cathode fluorescent lamp, and external electrode fluorescent lamp, for electronic display— (a) that— (i) has a length not exceeding 500 mm; and (ii) has a mercury content exceeding 3.5 mg per lamp; (b) that— (i) has a length exceeding 500 mm but not exceeding 1 500 mm; and (ii) has a mercury content exceeding 5 mg per lamp; or (c) that— (i) has a length exceeding 1 500 mm; and (ii) has a mercury content exceeding 13 mg per lamp.
+- 6. | Cold cathode fluorescent lamp, and external electrode fluorescent lamp, of any length for electronic display. (Replaced L.N. 114 of 2025)
 
 - 7. | Cosmetics having a mercury content exceeding 1 ppm— (a) including skin lightening soap and cream; and (b) excluding a cosmetic product that is intended by its manufacturer to be applied only in the vicinity of the eyes and— (i) that contains mercury as preservative; (ii) for which no effective and safe substitute for preservative is available; and (iii) that has a mercury content not exceeding 70 ppm.
 
 - 8. | Biocide and topical antiseptic.
 
 - 9. | The following non-electronic measuring devices— (a) barometer; (b) hygrometer; (c) manometer; (d) thermometer; (e) sphygmomanometer, other than one that is installed in large-scale equipment, or used for high precision measurement, and for which no suitable mercury-free alternative is available in the market.
+
+- 10. | Strain gauge to be used in a plethysmograph. (Added L.N. 114 of 2025)
+
+- 11. | The following electrical and electronic measuring devices— (a) melt pressure transducer; (b) melt pressure transmitter; (c) melt pressure sensor, other than one that is installed in a large-scale equipment, or used for high precision measurement, and for which no suitable mercury-free alternative is available in the market. (Added L.N. 114 of 2025)
+
+- 12. | Mercury vacuum pump. (Added L.N. 114 of 2025)
+
+- 13. | Tyre balancer and wheel weight. (Added L.N. 114 of 2025)
+
+- 14. | Photographic film and paper. (Added L.N. 114 of 2025)
+
+- 15. | Propellant for satellites and spacecraft. (Added L.N. 114 of 2025)
 
 - Part 2 Exemptions
 
