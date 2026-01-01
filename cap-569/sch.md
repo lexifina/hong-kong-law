@@ -572,7 +572,7 @@ Election Committee
 
       - (g) the Chairman of the Midwives Council of Hong Kong;
 
-      - (h) the Chairman of the Supplementary Medical Professions Council;
+      - (h) the Chairman of the Allied Health Professions Council; (Amended 33 of 2025 s. 205)
 
       - (i) the Chairman of the Pharmacy and Poisons Board;
 
@@ -3350,7 +3350,7 @@ Item | Body
 
 7. | Midwives Council of Hong Kong
 
-8. | Supplementary Medical Professions Council
+8. | Allied Health Professions Council (Amended 33 of 2025 s. 205)
 
 9. | Pharmacy and Poisons Board
 
