@@ -1,6 +1,6 @@
 # Schedule 2
 
-[regs. 4, 5, 9, 12O, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55, 59 & 62A] (25 of 2005 s. 27; L.N. 101 of 2019; L.N. 31 of 2021 and 15 of 2021 ss. 6 and 7)
+[regs. 4, 5, 9, 12O, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55, 59, 62A & 62B] (25 of 2005 s. 27; L.N. 101 of 2019; L.N. 31 of 2021 and 15 of 2021 ss. 6 and 7; L.N. 168 of 2025)
 
 Fees
 
@@ -106,15 +106,15 @@ Fee $
 
 4. | Trade licence, per annum | 500
 
-5. | Closed road permit (other than for a road in Lantau), per annum—
+5. | Closed road permit (other than for a road in Lantau)— (L.N. 168 of 2025)
 
-(a) for a private car | 540
+(a) for a private car | 744
 
-(b) for a goods vehicle | 456
+(b) for a goods vehicle | 588
 
-(c) for a bus | 456
+(c) for a bus (L.N. 168 of 2025) | 588
 
-5A. | Closed road permit issued under regulation 49(1A) for use in connection with a trade licence (L.N. 88 of 2012) | 540
+5A. | Closed road permit issued under regulation 49(1A) for use in connection with a trade licence (L.N. 88 of 2012; L.N. 168 of 2025) | 744
 
 6. | Closed road permit for a road in Lantau, per annum—
 
