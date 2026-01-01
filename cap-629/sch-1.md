@@ -12,7 +12,7 @@ Specified Control Points
 
 4. | Sha Tau Kok Boundary Control Point
 
-5. | Hong Kong-Macau Ferry Terminal
+5. | Hong Kong-Macao Ferry Terminal (Amended 31 of 2025 s. 201)
 
 6. | China Ferry Terminal
 

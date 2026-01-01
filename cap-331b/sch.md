@@ -14,7 +14,7 @@
 
 - 6. (Repealed L.N. 53 of 2023)
 
-- 7. The area of the Hong Kong-Macau Ferry Terminal occupied by the Immigration Department set aside as a detention room.
+- 7. The area of the Hong Kong-Macao Ferry Terminal occupied by the Immigration Department set aside as a detention room. (31 of 2025 s. 101)
 
 - 8. The area of the first floor of the China Ferry Terminal, Canton Road, Tsimshatsui occupied by the Immigration Department set aside as detention quarters.
 
