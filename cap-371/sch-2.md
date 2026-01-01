@@ -1,166 +1,184 @@
 # Schedule 2
 
-[s. 3(1) & (1AA)]
+[s. 3]
+
+(Amended 39 of 2025 s. 45)
 
 Designated No Smoking Areas and Exempt Areas
 
-- Part 1 Designated No Smoking Areas
+- Part 1 Areas or Premises Described for Designation of No Smoking Areas (Amended 39 of 2025 s. 45)
 
-- Item | Type of area
+  - Division 1 Areas Described for Purposes of Section 3(1) (Added 39 of 2025 s. 45)
 
-- 1. | Any cinema, theatre or concert hall.
+  - Item | Type of area
 
-- 2. | Any public lift.
+  - 1. | Any cinema, theatre or concert hall.
 
-- 3. | Any escalator.
+  - 2. | Any public lift.
 
-- 4. | Any amusement game centre.
+  - 3. | Any escalator.
 
-- 5. | Any child care centre.
+  - 4. | Any amusement game centre.
 
-- 6. | Any school.
+  - 5. | Any child care centre.
 
-- 7. | Any specified educational establishment.
+  - 6. | Any school.
 
-- 8. | Any approved institution.
+  - 7. | Any specified educational establishment.
 
-- 9. | Any place of detention.
+  - 8. | Any approved institution.
 
-- 10. | Any place of refuge.
+  - 9. | Any place of detention.
 
-- 11. | Any reformatory school.
+  - 10. | Any place of refuge.
 
-- 12. | Any hospital.
+  - 11. | Any reformatory school.
 
-- 13. | (Repealed 34 of 2018 s. 182)
+  - 12. | Any hospital.
 
-- 14. | Any public pleasure ground other than a bathing beach.
+  - 13. | (Repealed 34 of 2018 s. 182)
 
-- 15. | The following areas within any bathing beach—
+  - 14. | Any public pleasure ground other than a bathing beach.
 
-- (a) | any part of the waters set aside for the sole use of swimmers under section 10 of the Bathing Beaches Regulation (Cap. 132 sub. leg. E) (which includes any beach raft and any other thing on the surface of or above those waters);
+  - 15. | The following areas within any bathing beach—
 
-- (b) | the shore covered with sand or stones, together with any structure, showering facilities or natural feature on such shore; and
+  - (a) | any part of the waters set aside for the sole use of swimmers under section 10 of the Bathing Beaches Regulation (Cap. 132 sub. leg. E) (which includes any beach raft and any other thing on the surface of or above those waters);
 
-- (c) | any area specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a barbecue area, camp site or children’s play area.
+  - (b) | the shore covered with sand or stones, together with any structure, showering facilities or natural feature on such shore; and
 
-- 16. | The following areas within any public swimming pool—
+  - (c) | any area specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a barbecue area, camp site or children’s play area.
 
-- (a) | any swimming pool;
+  - 16. | The following areas within any public swimming pool—
 
-- (b) | any sidewalk immediately adjacent to the swimming pool;
+  - (a) | any swimming pool;
 
-- (c) | any diving board or other apparatus or facility adjoining the swimming pool; and
+  - (b) | any sidewalk immediately adjacent to the swimming pool;
 
-- (d) | any spectator stand.
+  - (c) | any diving board or other apparatus or facility adjoining the swimming pool; and
 
-- 17. | The following areas within any stadium—
+  - (d) | any spectator stand.
 
-- (a) | any pitch;
+  - 17. | The following areas within any stadium—
 
-- (b) | any running track;
+  - (a) | any pitch;
 
-- (c) | any sidewalk immediately adjacent to the pitch or running track; and
+  - (b) | any running track;
 
-- (d) | any spectator stand.
+  - (c) | any sidewalk immediately adjacent to the pitch or running track; and
 
-- 18. | The Hong Kong Wetland Park designated under section 24(1) of the Country Parks Ordinance (Cap. 208).
+  - (d) | any spectator stand.
 
-- 19. | An indoor area in—
+  - 18. | The Hong Kong Wetland Park designated under section 24(1) of the Country Parks Ordinance (Cap. 208).
 
-- (a) | any shop, department store or shopping mall;
+  - 19. | An indoor area in—
 
-- (b) | any market (whether publicly or privately operated or managed);
+  - (a) | any shop, department store or shopping mall;
 
-- (c) | any supermarket;
+  - (b) | any market (whether publicly or privately operated or managed);
 
-- (d) | any bank;
+  - (c) | any supermarket;
 
-- (e) | any restaurant premises;
+  - (d) | any bank;
 
-- (f) | any bar;
+  - (e) | any restaurant premises;
 
-- (g) | any karaoke establishment;
+  - (f) | any bar;
 
-- (h) | any mahjong-tin kau premises;
+  - (g) | any karaoke establishment;
 
-- (i) | any bathhouse;
+  - (h) | any mahjong-tin kau premises;
 
-- (j) | any massage establishment;
+  - (i) | any bathhouse;
 
-- (k) | any residential care home;
+  - (j) | any massage establishment;
 
-- (l) | any treatment centre; or
+  - (k) | any residential care home;
 
-- (m) | any communal quarters (as defined in Part 3).
+  - (l) | any treatment centre; or
 
-- 20. | An indoor area in a workplace or public place to the extent that it is not an area described in any other item in this Part.
+  - (m) | any communal quarters (as defined in Part 3).
 
-- 21. | The following bus interchanges and adjoining facilities—
+  - 20. | An indoor area in a workplace or public place to the extent that it is not an area described in any other item in this Division. (Amended 39 of 2025 s. 45)
 
-- (a) | Lion Rock Tunnel Bus Interchange, located on both sides of the toll plaza of the Lion Rock Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-004V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+  - 21. | The following bus interchanges and adjoining facilities—
 
-- (b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases, part of the adjoining elevated walkways and the adjoining bus stop at Salisbury Road, as shown— (Amended L.N. 169 of 2021)
+  - (a) | Lion Rock Tunnel Bus Interchange, located on both sides of the toll plaza of the Lion Rock Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-004V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-- (i) | coloured orange and edged red;
+  - (b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases, part of the adjoining elevated walkways and the adjoining bus stop at Salisbury Road, as shown— (Amended L.N. 169 of 2021)
 
-- (ii) | coloured yellow and edged red;
+  - (i) | coloured orange and edged red;
 
-- (iii) | coloured orange stippled black and edged red; and
+  - (ii) | coloured yellow and edged red;
 
-- (iv) | coloured orange hatched black and edged red,
+  - (iii) | coloured orange stippled black and edged red; and
 
-- on Plan No. DH/TCO/T-001V2, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Amended L.N. 169 of 2021)
+  - (iv) | coloured orange hatched black and edged red,
 
-- (c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V2, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Amended L.N. 169 of 2021)
+  - on Plan No. DH/TCO/T-001V2, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Amended L.N. 169 of 2021)
 
-- (d) | Shing Mun Tunnels Bus Interchange, located on both sides of the toll plaza of the Shing Mun Tunnels, as shown coloured orange and edged red on Plan No. DH/TCO/T-006V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+  - (c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V2, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Amended L.N. 169 of 2021)
 
-- (e) | Tate’s Cairn Tunnel Bus Interchange, located on both sides of the toll plaza of the Tate’s Cairn Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-005V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+  - (d) | Shing Mun Tunnels Bus Interchange, located on both sides of the toll plaza of the Shing Mun Tunnels, as shown coloured orange and edged red on Plan No. DH/TCO/T-006V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-- (f) | Western Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Western Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-003V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+  - (e) | Tate’s Cairn Tunnel Bus Interchange, located on both sides of the toll plaza of the Tate’s Cairn Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-005V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-- (g) | Tai Lam Tunnel Bus Interchange, located on both sides of the toll plaza of the Tai Lam Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-007V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; (Amended L.N. 81 of 2018)
+  - (f) | Western Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Western Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-003V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
 
-- (h) | Tsing Sha Highway Bus Interchange, located on both sides of the toll plaza on Tsing Sha Highway, as shown coloured orange and edged red on Plan No. DH/TCO/T-008V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; (Added L.N. 237 of 2015. Amended L.N. 81 of 2018)
+  - (g) | Tai Lam Tunnel Bus Interchange, located on both sides of the toll plaza of the Tai Lam Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-007V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; (Amended L.N. 81 of 2018)
 
-- (i) | Tuen Mun Road Bus Interchange (Kowloon Bound), located at Tuen Mun Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-003V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
+  - (h) | Tsing Sha Highway Bus Interchange, located on both sides of the toll plaza on Tsing Sha Highway, as shown coloured orange and edged red on Plan No. DH/TCO/T-008V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; (Added L.N. 237 of 2015. Amended L.N. 81 of 2018)
 
-- (j) | Tuen Mun Road Bus Interchange (Tuen Mun Bound), located at Tuen Mun Road, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
+  - (i) | Tuen Mun Road Bus Interchange (Kowloon Bound), located at Tuen Mun Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-003V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
 
-- (i) | coloured orange and edged red;
+  - (j) | Tuen Mun Road Bus Interchange (Tuen Mun Bound), located at Tuen Mun Road, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
 
-- (ii) | coloured yellow and edged red;
+  - (i) | coloured orange and edged red;
 
-- (iii) | coloured orange stippled black and edged red; and
+  - (ii) | coloured yellow and edged red;
 
-- (iv) | coloured orange hatched black and edged red,
+  - (iii) | coloured orange stippled black and edged red; and
 
-- on Plan No. DH/TCO/E-004V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
+  - (iv) | coloured orange hatched black and edged red,
 
-- (k) | Lantau Toll Plaza Bus Interchange, located on both sides of the toll plaza on North Lantau Highway, as shown coloured orange and edged red on Plan No. DH/TCO/E-002V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018. Amended L.N. 169 of 2021)
+  - on Plan No. DH/TCO/E-004V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018)
 
-- (l) | Aberdeen Tunnel Bus Interchange, on both sides of the unnamed road near the junction of Nam Fung Road with Wong Chuk Hang Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-001V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018. Amended L.N. 169 of 2021)
+  - (k) | Lantau Toll Plaza Bus Interchange, located on both sides of the toll plaza on North Lantau Highway, as shown coloured orange and edged red on Plan No. DH/TCO/E-002V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018. Amended L.N. 169 of 2021)
 
-- (m) | Fanling Highway Bus Interchange, located on the Fanling Highway southbound, as shown coloured orange and edged red on Plan No. DH/TCO/E-005V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Added L.N. 169 of 2021)
+  - (l) | Aberdeen Tunnel Bus Interchange, on both sides of the unnamed road near the junction of Nam Fung Road with Wong Chuk Hang Road, as shown coloured orange and edged red on Plan No. DH/TCO/E-001V1, signed by the Secretary on 7 May 2018 and deposited in the Land Registry; (Added L.N. 81 of 2018. Amended L.N. 169 of 2021)
 
-- (n) | Tseung Kwan O Tunnel Bus Interchange, located on both sides of the toll plaza of the Tseung Kwan O Tunnel, together with the adjoining staircases and ramps and part of the adjoining elevated walkways, as shown—
+  - (m) | Fanling Highway Bus Interchange, located on the Fanling Highway southbound, as shown coloured orange and edged red on Plan No. DH/TCO/E-005V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Added L.N. 169 of 2021)
 
-- (i) | coloured orange and edged red;
+  - (n) | Tseung Kwan O Tunnel Bus Interchange, located on both sides of the toll plaza of the Tseung Kwan O Tunnel, together with the adjoining staircases and ramps and part of the adjoining elevated walkways, as shown—
 
-- (ii) | coloured orange stippled black and edged red; and
+  - (i) | coloured orange and edged red;
 
-- (iii) | coloured orange hatched black and edged red,
+  - (ii) | coloured orange stippled black and edged red; and
 
-- on Plan No. DH/TCO/E-006V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Added L.N. 169 of 2021)
+  - (iii) | coloured orange hatched black and edged red,
 
-- (o) | Tuen Mun-Chek Lap Kok Tunnel Bus Interchange, located at Tuen Mun Chek Lap Kok Tunnel Road, as shown coloured orange and edged red on Plan No. DH/TCO/T-009V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry. (Added L.N. 169 of 2021)
+  - on Plan No. DH/TCO/E-006V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry; (Added L.N. 169 of 2021)
+
+  - (o) | Tuen Mun-Chek Lap Kok Tunnel Bus Interchange, located at Tuen Mun Chek Lap Kok Tunnel Road, as shown coloured orange and edged red on Plan No. DH/TCO/T-009V1, signed by the Secretary on 12 August 2021 and deposited in the Land Registry. (Added L.N. 169 of 2021)
+
+  - Division 2 Premises Described for Purposes of Section 3(1AAA) (Division 2 added 39 of 2025 s. 45)
+
+  - Item | Premises
+
+  - 1. | Any child care centre.
+
+  - 2. | Any hospital.
+
+  - 3. | Any residential care home.
+
+  - 4. | Any school.
+
+  - 5. | Any specified clinic or health centre.
 
 - Part 2 Exempt Areas
 
 - Item | Type of area
 
-- 1. | An area described in item 20 of Part 1 that is situated in domestic premises.
+- 1. | An area described in item 20 of Division 1 of Part 1 that is situated in domestic premises. (Amended 39 of 2025 s. 45)
 
 - 2. | Type 1 private quarters (as defined in Part 3).
 
