@@ -14,7 +14,7 @@ Bodies of Persons Specified for Purposes of Section 49(2A)(a)
 
 4. | Midwives Council of Hong Kong
 
-5. | Supplementary Medical Professions Council
+5. | Allied Health Professions Council (Replaced L.N. 218 of 2025)
 
 6. | Chiropractors Council
 
