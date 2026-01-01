@@ -902,7 +902,9 @@ Schedule 1 Dangerous Goods
 
     - 0513 | DETONATORS, ELECTRONIC | 1.4S | Programmable for blasting
 
-    - (L.N. 21 of 2021; L.N. 145 of 2024)
+    - 0514 | FIRE SUPPRESSANT DISPERSING DEVICES | 1.4S
+
+    - (L.N. 21 of 2021; L.N. 145 of 2024; L.N. 154 of 2025)
 
   - Division 3 Special Class 9 Dangerous Goods
 

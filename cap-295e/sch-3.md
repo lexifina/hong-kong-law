@@ -4,24 +4,28 @@
 
 Class 9A Dangerous Goods
 
-- 1. Cotton waste (L.N. 21 of 2021)
+1. | Charcoal
 
-- 2. Cotton (raw) (L.N. 21 of 2021)
+2. | Cotton waste
 
-- 3. Kapok (L.N. 21 of 2021)
+3. | Cotton (raw)
 
-- 4. Polymethylmethacrylate (raw material)
+4. | Kapok
 
-- 5. Polypropylene (raw material)
+5. | Polymethylmethacrylate (raw material)
 
-- 6. Polystyrene (raw material)
+6. | Polypropylene (raw material)
 
-- 7. Polytetrafluoroethylene
+7. | Polystyrene (raw material)
 
-- 8. Polythene (raw material)
+8. | Polytetrafluoroethylene
 
-- 9. Polyvinyl chloride (raw material)
+9. | Polythene (raw material)
 
-- 10. Rubber (raw), excluding any Schedule 2 dangerous goods with UN number UN 1287 or UN 1345 (L.N. 21 of 2021)
+10. | Polyvinyl chloride (raw material)
 
-- 11. Rubber tyres for motor vehicles and aircrafts (L.N. 21 of 2021)
+11. | Rubber (raw), excluding any Schedule 2 dangerous goods with UN number UN 1287 or UN 1345
+
+12. | Rubber tyres for motor vehicles and aircrafts
+
+(Schedule 3 replaced L.N. 154 of 2025)

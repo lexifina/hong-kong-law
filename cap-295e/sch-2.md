@@ -98,19 +98,23 @@ Schedule 2 Dangerous Goods
 
 - 1005 | AMMONIA, ANHYDROUS | 2.3 | 8 | 25 | 50 | None | None | None
 
-- 1006 | ARGON, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None
+- 1006 | ARGON, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None | For pressure receptacles with a test pressure capacity product exceeding 15.2 MPa L (152 bar L)
+
+- 1006 | ARGON, COMPRESSED | 2.2 | None | 150 | 300 | None | 1 | None | For pressure receptacles with a test pressure capacity product not exceeding 15.2 MPa L (152 bar L)
 
 - 1008 | BORON TRIFLUORIDE | 2.3 | 8 | None | None | None | None | None
 
 - 1009 | BROMOTRIFLUOROMET HANE (also known as REFRIGERANT GAS R13B1) | 2.2 | None | 150 | 300 | None | 0.12 | None
 
-- 1010 | BUTADIENES, STABILIZED or BUTADIENES AND HYDROCARBON MIXTURE, STABILIZED | 2.1 | None | 75 | 150 | None | None | None | Containing more than 40% butadienes
+- 1010 | BUTADIENES, STABILIZED or BUTADIENES AND HYDROCARBON MIXTURE, STABILIZED | 2.1 | None | 75 | 150 | None | None | None | Containing more than 20% butadienes
 
 - 1011 | BUTANE | 2.1 | None | 75 | 150 | None | None | None
 
 - 1012 | BUTYLENE | 2.1 | None | 75 | 150 | None | None | None
 
-- 1013 | CARBON DIOXIDE | 2.2 | None | 150 | 300 | None | 0.12 | None
+- 1013 | CARBON DIOXIDE | 2.2 | None | 150 | 300 | None | 0.12 | None | For pressure receptacles with a test pressure capacity product exceeding 15.2 MPa L (152 bar L)
+
+- 1013 | CARBON DIOXIDE | 2.2 | None | 150 | 300 | None | 1 | None | For pressure receptacles with a test pressure capacity product not exceeding 15.2 MPa L (152 bar L)
 
 - 1016 | CARBON MONOXIDE, COMPRESSED | 2.3 | 2.1 | None | None | None | None | None
 
@@ -158,7 +162,9 @@ Schedule 2 Dangerous Goods
 
 - 1045 | FLUORINE, COMPRESSED | 2.3 | 5.1, 8 | None | None | None | None | None
 
-- 1046 | HELIUM, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None
+- 1046 | HELIUM, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None | For pressure receptacles with a test pressure capacity product exceeding 15.2 MPa L (152 bar L)
+
+- 1046 | HELIUM, COMPRESSED | 2.2 | None | 150 | 300 | None | 1 | None | For pressure receptacles with a test pressure capacity product not exceeding 15.2 MPa L (152 bar L)
 
 - 1048 | HYDROGEN BROMIDE, ANHYDROUS | 2.3 | 8 | None | None | None | None | None
 
@@ -192,7 +198,9 @@ Schedule 2 Dangerous Goods
 
 - 1065 | NEON, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None
 
-- 1066 | NITROGEN, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None
+- 1066 | NITROGEN, COMPRESSED | 2.2 | None | 150 | 300 | None | 0.12 | None | For pressure receptacles with a test pressure capacity product exceeding 15.2 MPa L (152 bar L)
+
+- 1066 | NITROGEN, COMPRESSED | 2.2 | None | 150 | 300 | None | 1 | None | For pressure receptacles with a test pressure capacity product not exceeding 15.2 MPa L (152 bar L)
 
 - 1067 | DINITROGEN TETROXIDE (also known as NITROGEN DIOXIDE) | 2.3 | 5.1, 8 | None | None | None | None | None
 
@@ -714,10 +722,6 @@ Schedule 2 Dangerous Goods
 
 - 1360 | CALCIUM PHOSPHIDE / PG I | 4.3 | 6.1 | None | None | 5 | None | None
 
-- 1361 | CARBON / PG II | 4.2 | None | 10 | 20 | None | None | None | Animal or vegetable origin. Non-activated carbon blacks of mineral origin and carbons made by steam activation process are not subject to the Dangerous Goods Ordinance (Cap. 295).
-
-- 1361 | CARBON / PG III | 4.2 | None | 25 | 50 | None | None | None | Animal or vegetable origin. Non-activated carbon blacks of mineral origin and carbons made by steam activation process are not subject to the Dangerous Goods Ordinance (Cap. 295).
-
 - 1362 | CARBON, ACTIVATED / PG III | 4.2 | None | 25 | 50 | None | None | None | Carbons made by steam activation process is not subject to the Dangerous Goods Ordinance (Cap. 295).
 
 - 1369 | p- NITROSODIMETHYLANIL INE / PG II | 4.2 | None | 10 | 20 | None | None | None | p- Nitrosodimethylaniline, wetted with more than 50% water is not subject to the Dangerous Goods Ordinance (Cap. 295).
@@ -957,6 +961,10 @@ Schedule 2 Dangerous Goods
 - 1498 | SODIUM NITRATE / PG III | 5.1 | None | 25 | 50 | None | 5 | 1 | This item is not subject to the Dangerous Goods Ordinance (Cap. 295) when in non-friable prills or granules form.
 
 - 1499 | SODIUM NITRATE AND POTASSIUM NITRATE MIXTURE / PG III | 5.1 | None | 25 | 50 | None | 5 | None | This item is not subject to the Dangerous Goods Ordinance (Cap. 295) when in non-friable prills or granules form.
+
+- Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10
+
+- UN No. | Proper Shipping Name / Packing Group (if any) | Class | Sub. Haz. | GEQ (units) | IEQ (units) | SEQ (units) | LQ (units) | MPS (units) | Specifications
 
 - 1500 | SODIUM NITRITE / PG III | 5.1 | 6.1 | 25 | 50 | None | 5 | None
 
@@ -2610,6 +2618,10 @@ Schedule 2 Dangerous Goods
 
 - 2502 | VALERYL CHLORIDE / PG II | 8 | 3 | 25 | 50 | None | 1 | None
 
+- Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10
+
+- UN No. | Proper Shipping Name / Packing Group (if any) | Class | Sub. Haz. | GEQ (units) | IEQ (units) | SEQ (units) | LQ (units) | MPS (units) | Specifications
+
 - 2503 | ZIRCONIUM TETRACHLORIDE / PG III | 8 | None | 50 | 150 | None | 5 | None
 
 - 2504 | TETRABROMOETHANE / PG III | 6.1 | None | 25 | 50 | None | 5 | None
@@ -3856,13 +3868,31 @@ Schedule 2 Dangerous Goods
 
 - 3267 | CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S. / PG II | 8 | None | 25 | 50 | None | 1 | 1
 
+- Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10
+
+- UN No. | Proper Shipping Name / Packing Group (if any) | Class | Sub. Haz. | GEQ (units) | IEQ (units) | SEQ (units) | LQ (units) | MPS (units) | Specifications
+
 - 3267 | CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S. / PG III | 8 | None | 50 | 150 | None | 5 | 1
 
 - 3269 | POLYESTER RESIN KIT / PG II | 3 | None | 25 | 150 | None | 5 | 1 | This item is pre-packed. Liquid base material.
 
 - 3269 | POLYESTER RESIN KIT / PG III | 3 | None | 25 | 150 | None | 5 | 1 | This item is pre-packed. Liquid base material.
 
-- 3270 | NITROCELLULOSE MEMBRANE FILTERS / PG II | 4.1 | None | 10 | 20 | None | 1 | None | With not more than 12.6% nitrogen, by dry mass. Nitrocellulose membrane filters covered by this item, each with a mass not exceeding 0.5 g, are not subject to the Dangerous Goods Ordinance (Cap. 295) when contained individually in an article or a sealed packet.
+- 3270 | NITROCELLULOSE MEMBRANE FILTERS / PG II | 4.1 | None | 10 | 20 | None | 1 | None | With not more than 12.6% nitrogen, by dry mass. Nitrocellulose membrane filters covered by this item are not subject to the Dangerous Goods Ordinance (Cap. 295) if—
+
+- (a) | the filters, each with a mass not exceeding 0.5 g, are contained individually in an article or a sealed packet; or
+
+- (b) | in the case of the filters with nitrocellulose content not exceeding 53 g/m² and a nitrocellulose net mass not exceeding 300 g per inner packaging—
+
+- (i) | the filters are packed with paper separators of minimum 80 g/m² placed between each layer of the filters; and
+
+- (ii) | the filters are packed to maintain the alignment of the filters and the paper separators in any of the following configurations—
+
+- (A) | rolls tightly wound and packed in plastic foil of minimum 80 g/m² or aluminum pouches with an oxygen permeability of equal to or less than 0.1%;
+
+- (B) | sheets packed in cardboard of minimum 250 g/m² or aluminum pouches with an oxygen permeability of equal to or less than 0.1%;
+
+- (C) | round filters packed in disc holders or cardboard packaging of minimum 250 g/m² or single packed in pouches of paper and plastic material of total minimum 100 g/m².
 
 - 3271 | ETHERS, N.O.S. / PG II | 3 | None | 25 | 150 | None | 1 | None
 
@@ -3875,6 +3905,10 @@ Schedule 2 Dangerous Goods
 - 3273 | NITRILES, FLAMMABLE, TOXIC, N.O.S. / PG I | 3 | 6.1 | 25 | 50 | None | None | None
 
 - 3273 | NITRILES, FLAMMABLE, TOXIC, N.O.S. / PG II | 3 | 6.1 | 25 | 150 | None | 1 | None
+
+- Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10
+
+- UN No. | Proper Shipping Name / Packing Group (if any) | Class | Sub. Haz. | GEQ (units) | IEQ (units) | SEQ (units) | LQ (units) | MPS (units) | Specifications
 
 - 3274 | ALCOHOLATES SOLUTION, N.O.S. / PG II | 3 | 8 | 25 | 150 | None | 1 | None | In alcohol
 
@@ -4438,7 +4472,11 @@ Schedule 2 Dangerous Goods
 
 - 3550 | COBALT DIHYDROXIDE POWDER / PG I | 6.1 | None | None | None | None | None | None | Containing not less than 10% respirable particles
 
-- (L.N. 21 of 2021; L.N. 145 of 2024)
+- 3553 | DISILANE | 2.1 | None | 75 | 150 | None | None | None
+
+- 3555 | TRIFLUOROM ETHYLTETRA ZOLE-SODIUM SALT IN ACETONE / PG II | 3 | None | 25 | 150 | None | None | None | With not less than 68% acetone, by mass
+
+- (L.N. 21 of 2021; L.N. 145 of 2024; L.N. 154 of 2025)
 
 - Part 3 Paint Materials Table
 
