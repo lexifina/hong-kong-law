@@ -479,3 +479,41 @@ Item | Constituent fund of a registered scheme | Relevant day
 236. | North American Equity Fund of the AIA MPF - Prime Value Choice (L.N. 96 of 2025) | 3 December 2025
 
 237. | World Fund of the AIA MPF - Prime Value Choice (L.N. 96 of 2025) | 3 December 2025
+
+238. | Sun Life FTSE MPF Hong Kong Index Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+239. | Sun Life MPF Age 65 Plus Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+240. | Sun Life MPF Asian Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+241. | Sun Life MPF Balanced Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+242. | Sun Life MPF Conservative Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+243. | Sun Life MPF Core Accumulation Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+244. | Sun Life MPF European Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+245. | Sun Life MPF Global Bond Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+246. | Sun Life MPF Global Low Carbon Index Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+247. | Sun Life MPF Greater China Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+248. | Sun Life MPF Growth Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+249. | Sun Life MPF Hong Kong Dollar Bond Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+250. | Sun Life MPF Hong Kong Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+251. | Sun Life MPF Income Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+252. | Sun Life MPF Multi-Sector Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+253. | Sun Life MPF RMB and HKD Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+254. | Sun Life MPF Stable Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+255. | Sun Life MPF US & Hong Kong Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
+
+256. | Sun Life MPF US Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 191 of 2025) | 3 January 2026
