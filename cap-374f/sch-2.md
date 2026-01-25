@@ -30,7 +30,11 @@ Approved Seat Belts and Approved Anchorage Points
 
       - (j) Seat Belt Assembly Test Procedure (TRIAS) 31-1994 made by the Minister of Land, Infrastructure and Transport of Japan in Circular of Koshin No. 453 of 24 August 1971 (including all revisions of that Test Procedure made before 30 June 2005);
 
-      - (k) Directive 77/541/EEC issued by the European Economic Community dated 28 June 1977 (including all revisions of that Directive made before 30 June 2005).
+      - (k) Directive 77/541/EEC issued by the European Economic Community dated 28 June 1977 (including all revisions of that Directive made before 30 June 2005); (L.N. 195 of 2025)
+
+      - (l) National Standard of the People’s Republic of China GB 14166-2013; (L.N. 195 of 2025)
+
+      - (m) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other subparagraph of this paragraph. (L.N. 195 of 2025)
 
     - 2. A seat belt (other than a child restraining device) that—
 
@@ -70,7 +74,7 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (Part I replaced L.N. 179 of 2024)
 
-- Part II Approved Anchorage Points for Vehicles other than Goods Vehicles and Public Light Buses Registered on or after Specified Date (L.N. 37 of 1989; L.N. 148 of 2002)
+- Part II Approved Anchorage Points for Vehicles other than Goods Vehicles, Special Purpose Vehicles, Public Light Buses Registered on or after 1 August 2004, Private Light Buses First Registered on or after 25 January 2026 and Buses First Registered on or after 25 January 2026 (L.N. 37 of 1989; L.N. 148 of 2002; L.N. 195 of 2025)
 
     - (a) British Standard for Seat Belt Anchorage Points—B.S. AU48:1965;
 
@@ -86,11 +90,15 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (g) Directive 76/115/EEC, as amended by 82/318/EEC, issued by the European Economic Community; (L.N. 37 of 1989)
 
-    - (h) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date△ this paragraph comes into operation. (L.N. 148 of 2002; L.N. 65 of 2005)
+    - (h) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date△ this paragraph comes into operation; (L.N. 148 of 2002; L.N. 65 of 2005; L.N. 195 of 2025)
+
+    - (i) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles; (L.N. 195 of 2025)
+
+    - (j) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part. (L.N. 195 of 2025)
 
 - (L.N. 148 of 2002)
 
-- Part III Seats with Integral Seat Belt Anchorages for Vehicles other than Public Light Buses Registered on or after Specified Date (L.N. 148 of 2002)
+- Part III Seats with Integral Seat Belt Anchorages for Vehicles other than Public Light Buses Registered on or after 1 August 2004, Private Light Buses First Registered on or after 25 January 2026 and Buses First Registered on or after 25 January 2026 (L.N. 148 of 2002; L.N. 195 of 2025)
 
     - (a) British Standard for seats with Integral Seat Belt Anchorages B.S. AU140:1967;
 
@@ -106,11 +114,15 @@ Approved Seat Belts and Approved Anchorage Points
 
       - (ii) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987,
 
-    - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date△ this paragraph comes into operation. (L.N. 148 of 2002; L.N. 65 of 2005)
+    - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date△ this paragraph comes into operation; (L.N. 148 of 2002; L.N. 65 of 2005; L.N. 195 of 2025)
+
+    - (f) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles; (L.N. 195 of 2025)
+
+    - (g) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part. (L.N. 195 of 2025)
 
 - (L.N. 148 of 2002)
 
-- Part IIIA Seats with Integral Seat Belt Anchorages for Public Light Buses Registered on or after Specified Date
+- Part IIIA Seats with Integral Seat Belt Anchorages for Public Light Buses Registered on or after 1 August 2004 and Private Light Buses (L.N. 195 of 2025)
 
     - (a) ECE Regulation No. 14 made by the Economic Commission for Europe dated 1 April 1970 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13) including all revisions for vehicles with regard to safety belt anchorage made before the date△ this paragraph comes into operation;
 
@@ -124,11 +136,15 @@ Approved Seat Belts and Approved Anchorage Points
 
     - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date△ this paragraph comes into operation; (L.N. 65 of 2005)
 
-    - (d) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date△ this paragraph comes into operation.
+    - (d) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date△ this paragraph comes into operation; (L.N. 195 of 2025)
+
+    - (e) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles; (L.N. 195 of 2025)
+
+    - (f) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part. (L.N. 195 of 2025)
 
 - (Part IIIA added L.N. 148 of 2002)
 
-- Part IV Approved Anchorage Points for Goods Vehicles
+- Part IV Approved Anchorage Points for Goods Vehicles and Special Purpose Vehicles (L.N. 195 of 2025)
 
     - (a) E.C.E. Regulation No. 14, including Revision 1, made by the Economic Commission for Europe dated 30 January 1970 and published by the United Nations;
 
@@ -136,11 +152,15 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (c) Directive 76/115/EEC of the European Economic Community, including amendment 82/318/EEC by the same authority;
 
-    - (d) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date△ this paragraph comes into operation. (L.N. 148 of 2002; L.N. 65 of 2005)
+    - (d) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date△ this paragraph comes into operation; (L.N. 148 of 2002; L.N. 65 of 2005; L.N. 195 of 2025)
+
+    - (e) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles; (L.N. 195 of 2025)
+
+    - (f) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part. (L.N. 195 of 2025)
 
 - (Part IV added L.N. 37 of 1989. L.N. 148 of 2002)
 
-- Part V Approved Anchorage Points for Public Light Buses Registered on or after Specified Date
+- Part V Approved Anchorage Points for Public Light Buses Registered on or after 1 August 2004 and Private Light Buses (L.N. 195 of 2025)
 
     - (a) ECE Regulation No. 14 made by the Economic Commission for Europe dated 1 April 1970 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13) including all revisions for vehicles with regard to safety belt anchorage made before the date△ this paragraph comes into operation;
 
@@ -150,10 +170,58 @@ Approved Seat Belts and Approved Anchorage Points
 
     - (d) Federal Motor Vehicle Safety Standard No. 210 of Federal Regulations Vol. 36 No. 232 of USA dated 2 December 1971 including all revisions for seat belt assembly anchorages made before the date△ this paragraph comes into operation;
 
-    - (e) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date△ this paragraph comes into operation.
+    - (e) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date△ this paragraph comes into operation; (L.N. 195 of 2025)
+
+    - (f) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles; (L.N. 195 of 2025)
+
+    - (g) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part. (L.N. 195 of 2025)
 
 - (Part V added L.N. 148 of 2002)
 
-Editorial Notes:
+- Part VI Approved Anchorage Points for Buses First Registered before 1 May 2027
+
+    - (a) Directive 76/115/EEC issued by the European Economic Community dated 18 December 1975 (including all revisions for vehicles with regard to safety belt anchorages up to Directive 2005/41/EC issued by the same authority on 7 September 2005);
+
+    - (b) United Nations Regulation No. 14 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13/Rev. 4) (including all revisions with regard to the strength of seats and their anchorages up to the 08 series of amendments);
+
+    - (c) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles;
+
+    - (d) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part.
+
+- (Part VI added L.N. 195 of 2025)
+
+- Part VII Approved Anchorage Points for Buses First Registered on or after 1 May 2027
+
+    - (a) United Nations Regulation No. 14 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13/Rev. 4) (including all revisions with regard to the strength of seats and their anchorages up to the 08 series of amendments);
+
+    - (b) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles;
+
+    - (c) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part.
+
+- (Part VII added L.N. 195 of 2025)
+
+- Part VIII Seats with Integral Seat Belt Anchorages for Buses First Registered before 1 May 2027
+
+    - (a) Directive 76/115/EEC issued by the European Economic Community dated 18 December 1975 (including all revisions for vehicles with regard to safety belt anchorages up to Directive 2005/41/EC issued by the same authority on 7 September 2005);
+
+    - (b) United Nations Regulation No. 14 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13/Rev. 4) (including all revisions with regard to the strength of seats and their anchorages up to the 08 series of amendments);
+
+    - (c) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles;
+
+    - (d) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part.
+
+- (Part VIII added L.N. 195 of 2025)
+
+- Part IX Seats with Integral Seat Belt Anchorages for Buses First Registered on or after 1 May 2027
+
+    - (a) United Nations Regulation No. 14 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13/Rev. 4) (including all revisions with regard to the strength of seats and their anchorages up to the 08 series of amendments);
+
+    - (b) National Standard of the People’s Republic of China GB 14167-2013 for safety-belt anchorages, ISOFIX anchorages systems and ISOFIX top tether anchorages for vehicles;
+
+    - (c) any other specifications and standards that are demonstrated to the Commissioner to be substantially the same as, or more stringent than, any specification or standard specified in any other paragraph of this Part.
+
+- (Part IX added L.N. 195 of 2025)
+
+Editorial Note:
 
 △ | Commencement date: 1 August 2004.
