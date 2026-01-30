@@ -254,7 +254,7 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Antisera, antitoxins, immunoglobulins and vaccines—
 
-  - (a) the following— Bacillus Calmette-Guérin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
+  - (a) the following— Bacillus Calmette-Guérin (BCG) Digoxin-specific antibody fragments Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
   - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Dengue fever Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Respiratory syncytial virus Rubella Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Tetanus Typhoid Varicella Yellow fever
 
@@ -306,6 +306,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Atracurium besylate
 
+- Atrasentan; its salts; its esters; their salts
+
 - Atropine; its salts; when contained in pharmaceutical products for human parenteral administration or pharmaceutical products intended to be used for slowing the progression of myopia
 
 - Auranofin
@@ -319,6 +321,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Avatrombopag; its salts; its esters; their salts
 
 - Avelumab
+
+- Axicabtagene ciloleucel
 
 - Axitinib; its salts
 
@@ -549,6 +553,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Carfilzomib; its salts
 
 - Carglumic acid; its salts; its esters; their salts
+
+- Cariprazine; its salts
 
 - Carisoprodol
 
@@ -822,6 +828,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Dasatinib; its salts
 
+- Datopotamab deruxtecan
+
 - Deanol acetamidobenzoate
 
 - Debrisoquine; its salts
@@ -923,6 +931,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Doravirine; its salts
 
 - Dornase alfa
+
+- Dorzagliatin; its salts
 
 - Dorzolamide; its salts
 
@@ -1234,6 +1244,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Fulvestrant
 
+- Fulzerasib; its salts
+
 - Futibatinib; its salts
 
 - Gabapentin; its salts
@@ -1253,6 +1265,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Ganciclovir; its salts
 
 - Ganirelix; its salts
+
+- Garadacimab
 
 - Gatifloxacin; its salts; its esters
 
@@ -1395,6 +1409,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Imiquimod; its salts
 
 - Inaticabtagene autoleucel
+
+- Inavolisib; its salts
 
 - Inclisiran; its salts
 
@@ -2630,6 +2646,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Roxadustat; its salts
 
+- Rozanolixizumab
+
 - Rufinamide; its salts
 
 - Rurioctocog alfa pegol
@@ -2671,6 +2689,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Semaglutide
 
 - Sermorelin; its salts
+
+- Serplulimab
 
 - Sertindole; its salts
 
@@ -2789,6 +2809,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 - Tafasitamab
 
 - Tafluprost
+
+- Tafolecimab
 
 - Tagraxofusp
 
@@ -3104,6 +3126,8 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Vonoprazan; its salts
 
+- Vorasidenib; its salts
+
 - Voriconazole; its salts
 
 - Vortioxetine; its salts
@@ -3152,11 +3176,13 @@ Substances Required by Regulation 9 to be Sold by Retail only upon a Prescriptio
 
 - Zomepirac; its salts
 
+- Zongertinib; its salts
+
 - Zopiclone
 
 - Zoxazolamine; its salts
 
-- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 67; L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025; L.N. 116 of 2025; L.N. 161 of 2025; L.N. 211 of 2025)
+- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 67; L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016; L.N. 119 of 2016; L.N. 172 of 2016; L.N. 11 of 2017; L.N. 38 of 2017; L.N. 119 of 2017; L.N. 140 of 2017; L.N. 167 of 2017; L.N. 10 of 2018; L.N. 42 of 2018; L.N. 80 of 2018; L.N. 136 of 2018; L.N. 191 of 2018; L.N. 210 of 2018; L.N. 228 of 2018; L.N. 3 of 2019; L.N. 10 of 2019; L.N. 30 of 2019; L.N. 145 of 2019; L.N. 184 of 2019; L.N. 14 of 2020; L.N. 41 of 2020; L.N. 126 of 2020; E.R. 5 of 2020; L.N. 212 of 2020; L.N. 252 of 2020; L.N. 104 of 2021; L.N. 218 of 2021; L.N. 1 of 2022; L.N. 19 of 2022; L.N. 33 of 2022; L.N. 122 of 2022; L.N. 194 of 2022; L.N. 232 of 2022; L.N. 10 of 2023; L.N. 108 of 2023; L.N. 138 of 2023; L.N. 9 of 2024; L.N. 73 of 2024; L.N. 105 of 2024; L.N. 135 of 2024; L.N. 177 of 2024; L.N. 5 of 2025; L.N. 38 of 2025; L.N. 116 of 2025; L.N. 161 of 2025; L.N. 211 of 2025; L.N. 13 of 2026)
 
 Division B (L.N. 41 of 2007)
 
