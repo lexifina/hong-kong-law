@@ -483,3 +483,193 @@ Item | Constituent fund of a registered scheme | Relevant day
 238. | Sun Life MPF US & Hong Kong Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 192 of 2025) | 3 January 2026
 
 239. | Sun Life MPF US Equity Fund of the Sun Life Rainbow MPF Scheme (L.N. 192 of 2025) | 3 January 2026
+
+240. | Manulife MPF 2025 Retirement Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+241. | Manulife MPF 2030 Retirement Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+242. | Manulife MPF 2035 Retirement Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+243. | Manulife MPF 2040 Retirement Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+244. | Manulife MPF 2045 Retirement Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+245. | Manulife MPF Age 65 Plus Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+246. | Manulife MPF Aggressive Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+247. | Manulife MPF China Value Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+248. | Manulife MPF Core Accumulation Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+249. | Manulife MPF European Equity Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+250. | Manulife MPF Fidelity Growth Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+251. | Manulife MPF Fidelity Stable Growth Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+252. | Manulife MPF Growth Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+253. | Manulife MPF Hang Seng Index ESG Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+254. | Manulife MPF Healthcare Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+255. | Manulife MPF Hong Kong Bond Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+256. | Manulife MPF Hong Kong Equity Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+257. | Manulife MPF Interest Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+258. | Manulife MPF International Bond Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+259. | Manulife MPF International Equity Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+260. | Manulife MPF Japan Equity Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+261. | Manulife MPF North American Equity Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+262. | Manulife MPF Pacific Asia Equity Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+263. | Manulife MPF Retirement Income Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+264. | Manulife MPF RMB Bond Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+265. | Manulife MPF Smart Retirement Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+266. | Manulife MPF Stable Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+267. | Manulife MPF Sustainable Pacific Asia Bond Fund of the Manulife Global Select (MPF) Scheme (L.N. 201 of 2025) | 6 February 2026
+
+268. | Age 65 Plus Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+269. | Americas Equity Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+270. | Asia Pacific Equity Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+271. | Balanced Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+272. | Capital Stable Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+273. | Core Accumulation Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+274. | European Equity Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+275. | Fidelity Hong Kong Tracker Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+276. | Fidelity SaveEasy 2020 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+277. | Fidelity SaveEasy 2025 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+278. | Fidelity SaveEasy 2030 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+279. | Fidelity SaveEasy 2035 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+280. | Fidelity SaveEasy 2040 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+281. | Fidelity SaveEasy 2045 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+282. | Fidelity SaveEasy 2050 Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+283. | Global Equity Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+284. | Growth Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+285. | Hong Kong Bond Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+286. | Hong Kong Equity Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+287. | RetireEasy Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+288. | RMB Bond Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+289. | Stable Growth Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+290. | World Bond Fund of the Fidelity Retirement Master Trust (L.N. 201 of 2025) | 30 March 2026
+
+291. | Haitong Age 65 Plus Fund of the Haitong MPF Retirement Fund (L.N. 201 of 2025) | 30 March 2026
+
+292. | Haitong Asia Pacific Fund of the Haitong MPF Retirement Fund (L.N. 201 of 2025) | 30 March 2026
+
+293. | Haitong Core Accumulation Fund of the Haitong MPF Retirement Fund (L.N. 201 of 2025) | 30 March 2026
+
+294. | Haitong Global Diversification Fund of the Haitong MPF Retirement Fund (L.N. 201 of 2025) | 30 March 2026
+
+295. | Haitong Hong Kong SAR Fund of the Haitong MPF Retirement Fund (L.N. 201 of 2025) | 30 March 2026
+
+296. | Haitong Korea Fund of the Haitong MPF Retirement Fund (L.N. 201 of 2025) | 30 March 2026
+
+297. | Age 65 Plus Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+298. | Asia Pacific Equity Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+299. | Balanced Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+300. | Chinese Equity Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+301. | Core Accumulation Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+302. | European Equity Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+303. | Global Bond Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+304. | Global Equity Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+305. | Growth Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+306. | Guaranteed Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+307. | Hang Seng China Enterprises Index Tracking Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+308. | Hang Seng Index Tracking Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+309. | Hong Kong and Chinese Equity Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+310. | North American Equity Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+311. | Stable Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+312. | ValueChoice Asia Pacific Equity Tracker Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+313. | ValueChoice Balanced Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+314. | ValueChoice Europe Equity Tracker Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+315. | ValueChoice North America Equity Tracker Fund of the Hang Seng Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+316. | Age 65 Plus Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+317. | Asia Pacific Equity Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+318. | Balanced Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+319. | Chinese Equity Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+320. | Core Accumulation Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+321. | European Equity Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+322. | Global Bond Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+323. | Global Equity Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+324. | Growth Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+325. | Guaranteed Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+326. | Hang Seng China Enterprises Index Tracking Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+327. | Hang Seng Index Tracking Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+328. | Hong Kong and Chinese Equity Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+329. | North American Equity Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+330. | Stable Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+331. | ValueChoice Asia Pacific Equity Tracker Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+332. | ValueChoice Balanced Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+333. | ValueChoice Europe Equity Tracker Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
+
+334. | ValueChoice North America Equity Tracker Fund of the HSBC Mandatory Provident Fund - SuperTrust Plus (L.N. 201 of 2025) | 29 April 2026
