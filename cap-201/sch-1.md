@@ -298,6 +298,8 @@ Public Bodies
 
 145. | The appeal board panel as defined by section 2 of the Fire Services (Registered Fire Engineers) Regulation, including an appeal board as defined by that section. (Added L.N. 173 of 2025)
 
+146. | The appeal panel as defined by section 2(1) of the Basic Housing Units Ordinance (Cap. 658), including an appeal board as defined by that section. (Added 41 of 2025 s. 96 and E.R. 2 of 2025)
+
 (Replaced L.N. 272 of 1974)
 
 Editorial Note:
