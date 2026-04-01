@@ -130,4 +130,24 @@ Marking and Labelling of Foods and Drugs
 
   - (b) In the case of tenderized meat which is not made up in or on a container, a label or ticket clearly and legibly marked with the words “TENDERIZED MEAT” in capital letters and the Chinese characters “加工製嫩肉類” shall be affixed or attached to that meat. (L.N. 116 of 1970; E.R. 3 of 2022)
 
-- 10. Irradiated foods. Every container containing irradiated food shall be clearly and legibly marked with the words “IRRADIATED” or “TREATED WITH IONIZING RADIATION” in English capital lettering and “輻照食品” in Chinese characters. (L.N. 80 of 1996) (L.N. 30 of 1967)
+- 10. Irradiated foods. Every container containing irradiated food shall be clearly and legibly marked with the words “IRRADIATED” or “TREATED WITH IONIZING RADIATION” in English capital lettering and “輻照食品” in Chinese characters. (L.N. 80 of 1996)
+
+- 11. Jelly confectionery that is prepackaged food and that contains konjac.
+
+  - (1) The outermost layer of packaging for sale of jelly confectionery that is prepackaged food and that contains konjac must be clearly and legibly marked with the words—
+
+    - (a) “Caution: Do not swallow whole. Elderly and children must consume under supervision.”; and
+
+    - (b) “注意：勿一口吞食，長者及兒童須在監護下食用。”.
+
+  - (2) The words must be marked in a conspicuous position on the packaging and be—
+
+    - (a) underlined and marked—
+
+      - (i) in dark colour on a light-coloured background; or
+
+      - (ii) in light colour on a dark-coloured background; or
+
+    - (b) marked in red text on a white or yellow background. (L.N. 159 of 2025)
+
+- (L.N. 30 of 1967)

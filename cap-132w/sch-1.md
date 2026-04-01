@@ -42,6 +42,8 @@ Schs. 1A & 2] (L.N. 80 of 1996; L.N. 69 of 2008; L.N. 90 of 2014)
 
     - (b) Available carbon dioxide— The weight of available carbon dioxide is the difference between the total weight of carbon dioxide and the weight of the residual carbon dioxide obtained when the sample is treated in the manner prescribed in subparagraph (a), the total weight of carbon dioxide being determined by ascertaining the weight evolved when a similar sample of the baking powder is treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling for 5 minutes or by means of reduced pressure. (E.R. 3 of 2022)
 
+  - 8A. Jelly confectionery that is prepackaged food and that is packed in a mini-cup-shaped container must not contain konjac if the height or width of the container does not exceed 45mm. (L.N. 159 of 2025)
+
 - Part II Composition of Milk and Milk Products
 
   - 9. Milk and reconstituted milk shall contain not less than 3.25% of milk fat, and the quantity of milk solids, other than milk fat, present in milk and reconstituted milk shall not be less than 8.5%.
