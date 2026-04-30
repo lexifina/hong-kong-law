@@ -8,7 +8,7 @@ Column 1 Scheduled Offence* | Column 2 Authority | Column 3 Public Officer
 
 1 | Commissioner of Police | Police Officer
 
-1 or 2 | Director of Health | Inspectors appointed by the Secretary for Health under section 15F of the Smoking (Public Health) Ordinance (Cap. 371) (L.N. 144 of 2022; 39 of 2025 s. 59)
+1, 2 or 3 | Director of Health | Inspectors appointed by the Secretary for Health under section 15F of the Smoking (Public Health) Ordinance (Cap. 371) (L.N. 144 of 2022; 39 of 2025 s. 59)
 
 1 | Director of Food and Environmental Hygiene | Senior Health Inspector (Market Management)
 
