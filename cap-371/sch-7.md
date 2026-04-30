@@ -1,6 +1,6 @@
 # Schedule 7
 
-[s. 2(1)]
+[ss. 2 & 15DAB] (Amended 39 of 2025 s. 23)
 
 Alternative Smoking Products
 
