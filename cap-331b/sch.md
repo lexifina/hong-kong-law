@@ -6,7 +6,7 @@
 
 - 2. Any police station.
 
-- 3. Custodial wards of the Queen Mary Hospital and Queen Elizabeth Hospital.
+- 3. Custodial wards of Queen Mary Hospital, Queen Elizabeth Hospital and Kai Tak Hospital (to the extent that those wards are not covered by item 1 of this Schedule). (L.N. 41 of 2026)
 
 - 4. San Uk Ling Holding Centre.
 
