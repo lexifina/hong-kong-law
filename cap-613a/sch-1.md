@@ -26,9 +26,7 @@ Minimum Staffing Requirements
 
 - Part 2 Minimum Staffing Requirements
 
-  - 3. High care level home For a high care level home, during or at the time specified in column 2 of Table 1 on every day, there must be at least the number of staff members that is specified in column 3 of Table 1 opposite the time.
-
-  - Table 1
+  - 3. High care level home For a high care level home, during or at the time specified in column 2 of Table 1 on every day, there must be at least the number of staff members that is specified in column 3 of Table 1 opposite the time. Table 1
 
   - Column 1 | Column 2 | Column 3
 
@@ -36,7 +34,7 @@ Minimum Staffing Requirements
 
   - Nurse and Health Worker
 
-  - 1. | 11 hours within the specified period | 1 health worker (on duty) for every 30 residents, and for this purpose, 1 nurse (on duty) is considered equivalent to 2 health workers (on duty)
+  - 1. | 13 hours within the specified period (12 of 2023 s. 106) | 1 health worker (on duty) for every 30 residents, and for this purpose, 1 nurse (on duty) is considered equivalent to 2 health workers (on duty)
 
   - Care Worker
 
@@ -54,9 +52,7 @@ Minimum Staffing Requirements
 
   - 6. | Any time when a resident is in the high care level home | 1 staff member (on-site and on duty) (who may be a person engaged for complying with a requirement specified in any other item of this Table)
 
-  - 4. Medium care level home For a medium care level home, during or at the time specified in column 2 of Table 2 on every day, there must be at least the number of staff members that is specified in column 3 of Table 2 opposite the time.
-
-  - Table 2
+  - 4. Medium care level home For a medium care level home, during or at the time specified in column 2 of Table 2 on every day, there must be at least the number of staff members that is specified in column 3 of Table 2 opposite the time. Table 2
 
   - Column 1 | Column 2 | Column 3
 
@@ -82,9 +78,7 @@ Minimum Staffing Requirements
 
   - 4. | Any time when a resident is in the medium care level home | 1 staff member (on-site and on duty) (who may be a person engaged for complying with a requirement specified in any other item of this Table)
 
-  - 5. Low care level home For a low care level home, during or at the time specified in column 2 of Table 3 on every day, there must be at least the number of staff members that is specified in column 3 of Table 3 opposite the time.
-
-  - Table 3
+  - 5. Low care level home For a low care level home, during or at the time specified in column 2 of Table 3 on every day, there must be at least the number of staff members that is specified in column 3 of Table 3 opposite the time. Table 3
 
   - Column 1 | Column 2 | Column 3
 
