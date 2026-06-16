@@ -34,7 +34,7 @@ Minimum Staffing Requirements
 
   - Nurse and Health Worker
 
-  - 1. | 11 hours within the specified period | 1 health worker (on-site and on duty) for every 30 residents, and for this purpose, 1 nurse (on-site and on duty) is considered equivalent to 2 health workers (on-site and on duty)
+  - 1. | 13 hours within the specified period (12 of 2023 s. 51) | 1 health worker (on-site and on duty) for every 30 residents, and for this purpose, 1 nurse (on-site and on duty) is considered equivalent to 2 health workers (on-site and on duty)
 
   - Care Worker
 
