@@ -256,6 +256,8 @@ Permitted Areas for New Territories and Lantau Taxis
 
     - (iv) all roads directly joining Lung Fu Road and Chek Lap Kok Road. (L.N. 62 of 2017)
 
+  - (m) All roads in the Huanggang Port Hong Kong Port Area. (L.N. 92 of 2026)
+
 - 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau—
 
   - (a) All roads in Lantau. (L.N. 62 of 2017)
