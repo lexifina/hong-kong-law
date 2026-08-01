@@ -87,6 +87,8 @@ s-069.md
 s-070.md
 s-071.md
 s-072.md
+s-073.md
 sch-1.md
 sch-2.md
 sch-3.md
+sch-4.md
