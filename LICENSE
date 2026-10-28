@@ -1,0 +1,51 @@
+SOURCE AND TERMS OF REUSE
+
+The text of the laws in this repository is data published by the Department of Justice of the Government of the Hong Kong
+Special Administrative Region (the "Government") as bulk files on DATA.GOV.HK:
+
+    Hong Kong e-Legislation (HKeL), past versions of legislation (English)
+    https://data.gov.hk/en-data/dataset/hk-doj-hkel-legislation-past
+    files: https://resource.data.one.gov.hk/doj/data/hkel_p_leg_cap_1_cap_200_en.zip
+           https://resource.data.one.gov.hk/doj/data/hkel_p_leg_cap_201_cap_400_en.zip
+           https://resource.data.one.gov.hk/doj/data/hkel_p_leg_cap_401_cap_600_en.zip
+           https://resource.data.one.gov.hk/doj/data/hkel_p_leg_cap_601_cap_end_en.zip
+
+Attribution: Department of Justice, the Government of the Hong Kong Special Administrative Region, Hong Kong
+e-Legislation, obtained through DATA.GOV.HK (operated by the Digital Policy Office). The Government owns the intellectual
+property rights in the Data and in all copies of it.
+
+The DATA.GOV.HK Terms and Conditions of Use (https://data.gov.hk/en/terms-and-conditions, Version 1.2, last updated 26 May
+2025), retrieved 28 October 2026 and checked again the same day before the expansion to every Cap., read in part:
+
+    You are allowed to browse, download, distribute, reproduce, hyperlink to, and print the Data for both commercial and
+    non-commercial purposes on a free-of-charge basis on condition that:-
+    you shall comply with the Terms of Use;
+    you shall identify clearly the source of the Data and acknowledge the Government and the Relevant Organisations'
+    ownership of the intellectual property rights in the Data and in all copies thereof including but not limited to paper
+    copies, digital copies and copies placed on other websites;
+    you shall indemnify the Government and the Relevant Organisations against any allegations or claims of infringement of
+    the rights of any person and all costs, losses, damages and liabilities incurred by the Government and the Relevant
+    Organisations, which in any case arise directly or indirectly in relation to your use, reproduction and/or distribution
+    of the Data;
+    you shall also give proper attribution to the Government, the Relevant Organisations and DATA.GOV.HK.
+
+    The Data are provided by the Government and the Relevant Organisations to you on an "AS IS" basis. No statement,
+    representation or warranty of any kind (whether express or implied) is given [...] in relation to the Data (including
+    the accuracy, completeness, non-infringement, reliability, security, timeliness and appropriateness of the Data for use in
+    any particular circumstances).
+
+WHAT IS NOT SETTLED
+
+The terms allow reproduction and distribution free of charge, including for commercial purposes, if the source is
+identified and the Government's ownership is acknowledged, which this file and the README do. They also require the user to
+indemnify the Government against infringement claims, a condition that Lexifina has not reviewed with a lawyer, and the
+terms may be revised without notice. The Data are provided as is; the version text is for information, and the
+authoritative text of Hong Kong law is the one published by the Government in the Gazette and on elegislation.gov.hk. The
+website elegislation.gov.hk has its own terms, which this repository does not rely on: nothing was fetched from it.
+
+Because this is unclear, **this repository is private and must not be made public** until the reuse terms are cleared.
+
+Everything else in this repository that is not the Data (the build scripts, the commit messages, the tables and the
+documentation) is dedicated to the public domain under CC0 1.0 Universal
+(https://creativecommons.org/publicdomain/zero/1.0/legalcode), to the extent possible under law; this does not extend to
+the Data, which remains the Government's.
