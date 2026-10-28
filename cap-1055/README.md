@@ -1,0 +1,21 @@
+# Cap. 1055: Zetland Hall Trustees Incorporation Ordinance
+
+5 versions in the record, in force from 1997-07-01 (the last from 2024-08-18).
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Long title and commencement | [intro.md](intro.md) | 1 | 2022-12-15 |
+| s. 1 | [s-001.md](s-001.md) | 0 |  |
+| s. 1A | [s-001A.md](s-001A.md) | 1 | 2022-12-15 |
+| s. 2 | [s-002.md](s-002.md) | 2 | 2022-12-15 |
+| s. 3 | [s-003.md](s-003.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 0 |  |
+| s. 5 | [s-005.md](s-005.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 0 |  |
+| s. 6A | [s-006A.md](s-006A.md) | 1 | 2022-12-15 |
+| s. 7 | [s-007.md](s-007.md) | 0 |  |
+| s. 7A | [s-007A.md](s-007A.md) | 0 |  |
+| s. 8 | [s-008.md](s-008.md) | 0 |  |
+| s. 9 | [s-009.md](s-009.md) | 1 | 2014-03-03 |
+| s. 10 | [s-010.md](s-010.md) | 1 | 2024-08-18 |
+| Sch. | [sch.md](sch.md) | 1 | 2022-12-15 |
