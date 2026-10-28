@@ -1,0 +1,11 @@
+{
+  "path": "hk",
+  "code": "HK",
+  "name": "Hong Kong",
+  "level": "country",
+  "note": "special administrative region of China",
+  "repo": "https://github.com/lexifina/hong-kong-law",
+  "build": "ready",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
