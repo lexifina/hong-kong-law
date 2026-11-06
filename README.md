@@ -1,5 +1,7 @@
 # Hong Kong law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Hong Kong's national law, which global-law reads at `hong-kong/national/acts/`.
+
 Every Cap. of the laws of the Hong Kong Special Administrative Region that the Department of Justice publishes with past
 versions, as a git repository, in English: the ordinances (Cap. 1 to Cap. 600-odd, such as the Personal Data (Privacy)
 Ordinance, Cap. 486) and the subsidiary legislation made under them (Cap. 486A, ...). Each amending law is one commit,
