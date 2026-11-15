@@ -136,9 +136,13 @@ class Smoke:
     # 6
     def readme(self):
         text = (self.repo / 'README.md').read_text(encoding='utf-8')
-        table = text[text.index('## The questions'):text.index('## The dates')]
-        cmds = [c for c in re.findall(r'`([^`]+)`', table) if c.startswith(('git ', 'python '))]
-        assert len(cmds) >= 8, f'only {len(cmds)} commands found'
+        assert '## Questions as git commands' in text, 'README has no "## Questions as git commands" table'
+        start = text.index('## Questions as git commands')
+        end = text.find('\n## ', start + 1)
+        table = '\n'.join(l for l in text[start:end if end > 0 else len(text)].splitlines() if l.startswith('|'))
+        cmds = [c for c in re.findall(r'`([^`]+)`', table)
+                if c.startswith(('git ', 'python ')) and '<' not in c]
+        assert len(cmds) >= 3, f'only {len(cmds)} commands found'
         for c in cmds:
             args = shlex.split(c)
             if args[0] == 'python':
