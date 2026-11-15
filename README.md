@@ -1,124 +1,88 @@
-# Hong Kong law, change by change
+# Hong Kong: law history in git
+
+
+The law of Hong Kong as a git history: one file per section, one commit per change on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Hong Kong's national law, which global-law reads at `hong-kong/national/acts/`.
 
-Every Cap. of the laws of the Hong Kong Special Administrative Region that the Department of Justice publishes with past
-versions, as a git repository, in English: the ordinances (Cap. 1 to Cap. 600-odd, such as the Personal Data (Privacy)
-Ordinance, Cap. 486) and the subsidiary legislation made under them (Cap. 486A, ...). Each amending law is one commit,
-credited to that law and dated the day it took effect, at noon in Hong Kong. The history starts on 1 July 1997. The text
-is the version text that the Department of Justice publishes as bulk data on [DATA.GOV.HK](https://data.gov.hk).
-[`caps.csv`](caps.csv) lists every Cap. with its versions.
+**What is in it now:** every Cap. that the Department of Justice publishes with past versions: 2,912 Caps (794 ordinances and 2,118 items of subsidiary legislation), with 14,318 versions from 1 July 1997 to 1 August 2026, changed by 4,947 laws. [`caps.csv`](caps.csv) lists every Cap. with its versions; [`data/labelled.tsv`](data/labelled.tsv) lists every change not credited to a law by its own source note.
 
-Each Cap. is a folder (`cap-486/`) with one file per section or schedule (`s-002.md`, `sch-1.md`), the opening matter
-(`intro.md`) and any closing matter (`outro.md`). `order.txt` in the folder lists the files in the order of the
-official text on that day; the file names cannot give it, because newer Caps put s. 3AA before s. 3A and older ones
-after it. A line of text that begins with `#` or `- ` is printed with a backslash before it (`\# Commencement date`),
-so it is not read as a heading or a list item. A table row is one line with its cells separated by ` | `; a `|`
-printed in the text is written `\|`.
+Each Cap. is a folder with one file per section or schedule, plus `intro.md` (the long title), `order.txt` (the order of the official text) and a `README.md` listing its provisions and their changes (`cap-57/s-041AA.md` is section 41AA, Annual leave, of the Employment Ordinance, Cap. 57; its subsidiary legislation is in `cap-57a/`, `cap-57b/` and `cap-57c/`).
 
-## The questions, as git commands
+The text is in English, as the Department of Justice publishes it; the Chinese equivalents of defined terms are kept as printed. The Chinese text is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did section 14 of the Personal Data (Privacy) Ordinance say on 1 January 2010? | `python tools/hkhistory.py 2010-01-01 cap-486 14` |
-| The whole Ordinance as it stood in 2000 | `python tools/hkhistory.py 2000-01-01 cap-486` |
-| The Bill of Rights Ordinance, section 3, on 1 January 1998 | `python tools/hkhistory.py 1998-01-01 cap-383 3` |
-| Which law wrote each line of section 2 (the definitions)? | `git blame cap-486/s-002.md` |
-| Every change to section 14, with the law and the day | `git log --follow cap-486/s-014.md` |
-| Everything one law changed on one day | `git show --stat ord/2012-18/2013-04-01` |
-| What changed in Cap. 486 on one day | `git show --stat cap-486/2021-10-08` |
-| The commit that holds a day's text, and why it was made | `python tools/hkhistory.py 2015-06-01 cap-486 --commit` |
-| Everything one law changed, across all Caps, on one day | `git show --stat ord/2024-6` |
-| The laws with all their dates | [`laws.csv`](laws.csv) |
-| Changes credited by date only (no new source note) | `git log --grep="Evidence: date only"` |
-| Changes no law explains | `git log --grep="Kind: Change no law explains"` |
-| Versions whose English text did not change | `git log --grep="Kind: Version with no change"` |
-| Laws made in 2012 that changed Cap. 486 | `git log --format="%an %s" --author=" of 2012" -- cap-486` |
+| Every change to section 41AA of the Employment Ordinance | `git log -p --word-diff -- cap-57/s-041AA.md` |
+| Which law wrote each line of section 41AA? | `git blame cap-57/s-041AA.md` |
+| Every change to the Ordinance, with the day each took effect and the law that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- cap-57 ':!cap-57/README.md'` |
+| Section 41AA as it stood on 1 January 2015 | `python tools/hkhistory.py 2015-01-01 cap-57 41AA` |
 
-## The dates, and which one we use
+**Outside git**, we also host this record publicly, for free:
 
-A Hong Kong law has the day it was enacted or made, the day it was published in the Gazette, and the day it took effect.
-**Commits are dated the day the change took effect**, at noon in Hong Kong (UTC+8; Hong Kong has no summer time): that is
-the day that decides which text applies, and it is the date of the version in the Department of Justice's file. Many laws
-take effect in steps: 18 of 2012 changed Cap. 486 on 1 October 2012 and again on 1 April 2013, which are two commits and two
-tags. The bulk data gives no enactment or gazette date, so this repository records none. Every commit carries an
-`In-force: YYYY-MM-DD` trailer. To ask what the law was on a day with plain git, use the end of that day:
-`git rev-list -1 --before="2013-04-01T23:59:59+08:00" main -- cap-486` (a bare date is read at the time of day you run
-it). `tools/hkhistory.py` does this by the trailer.
+- **[Ask Claude about Hong Kong law](https://global-law.lexifina.com/v1/try_claude?country=hong-kong)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=hong-kong)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=hong-kong)**: a search of Hong Kong law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## What "author" means
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-The author of a commit is the law that made the change: `18 of 2012` (an Ordinance, with an address ending
-`@hkel.invalid`, which cannot exist), `L.N. 130 of 2007` (a legal notice), so `git blame` names the law. Each provision in
-the source prints the laws that added, amended or repealed it ("(Added 18 of 2012 s. 3. Amended 32 of 2021 s. 3)"), and a
-change is credited to the law whose citation is new in that provision's notes. Rules, each labelled in the commit:
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-- Where two or more laws are new in a provision, the change is credited to none of them: it is committed by the
-  `Department of Justice (HKeL)`, with the laws named in `Candidate:` trailers.
-- Where no note is new but the added text cites one law in words that the provision did not cite before (the daily
-  specifications printed in editorial notes, "G.N. (E.) 212 of 2020"), the change is credited to it, labelled.
-- Where no note is new but the source dates the provision to the day, and exactly one law is new anywhere in that version,
-  the change is credited to it "by date only" (`Evidence: date only`). On an editorial revision day, when the version
-  prints a note of that revision on the Cap. ("(Format changes—E.R. 3 of 2015)") and the other laws newly cited in it
-  were already cited in the Cap. before, those are reprinted citations, and the change is credited to the revision by
-  date only (`Evidence: date only, editorial revision`).
-- A citation that only moves from one provision to another (the whole Cap. prints it no more often than before) is not
-  new, and neither is a law the provision already cited in words before a later version made those words a link.
-- A change that no note and no date explains is committed by the publisher and labelled.
-- A source note that cites a later law than the version (HKeL prints E.R. 1 of 2013 into the version of 1 October 2012) is
-  ignored and labelled.
-- **E.R. 1 of 2013** is an editorial revision (a revised printing by the Department of Justice: part headings, the way defined terms are
-  printed, spent sections omitted), not an amending law. It changed 55 files on 25 April 2013, so it is the author of that
-  commit, and the commit says what it is.
-- The first version of each Cap. (the text in force on 1 July 1997) is authored by the Cap. itself: the history before the
-  handover is not in the record.
-- Blame credits whole lines. Where two laws changed words of one line, the later one is credited with the line; use
-  `git log -p --word-diff` for the words.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add hong-kong/national/acts
+python3 tools/law.py show 2026-01-01 hong-kong/national/acts/cap-57/s-041AA.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Asia/Hong_Kong (UTC+8, no summer time), on the day the change took effect, and carries it in its `In-force:` trailer:
+
+- the day is the date of the version in the Department of Justice's file name (`cap_486_20211008000000_en_p.xml`); the bulk data gives no enactment or Gazette date, so none is recorded;
+- a law that took effect in steps has one commit and one tag per day (18 of 2012 changed Cap. 486 on 1 October 2012 and again on 1 April 2013: `ord/2012-18/2012-10-01`, `ord/2012-18/2013-04-01`);
+- the first version of each Cap. is the text in force on 1 July 1997, or its first version if it was made later.
+
+Each change is credited to the law whose citation is new in the provision's source notes ("(Added 18 of 2012 s. 3)"), as `18 of 2012 <ord-2012-18@hkel.invalid>` or `L.N. 130 of 2007`; the first version is credited to the Cap. itself (`Cap. 57 (text on 1 July 1997)`), and editorial revisions (`E.R. 3 of 2015`) to the revision, which says it is not an amending law. Where two or more laws are new in a provision, or no note or date explains a change, the commit is the publisher's (`Department of Justice (HKeL)`) and labelled; changes credited by the day alone carry `Evidence: date only`.
 
 ## How it is checked
 
-`tools/check_repo.py` reads every version of each Cap. back from git on the day it took effect and compares it with the
-official file: file by file with the text parsed from the XML (0 mismatches), and word for word with all the words of the
-XML, read independently of the parser. `tools/test_repo.py` checks that the commands above work. The results are in
-[`REPRODUCE.md`](REPRODUCE.md).
-
-## Files
-
-Each Cap. is a folder named after its number in lower case (`cap-486/`, `cap-486a/`). Each section is one file named after
-its number: `cap-486/s-033.md` is section 33, `cap-486/s-002A.md` section 2A (the rules, regulations and paragraphs of
-subsidiary legislation carry the same identifiers in the source and the same file names); `sch-1.md` is Schedule 1;
-`intro.md` is the long title or title, commencement note and enacting words; `outro.md` is matter after the last
-provision. The headings of the parts that begin with a section are `##` lines at the top of its file; its number and
-heading are the `#` line; each subsection is one line, and paragraphs, subparagraphs and definitions are list items. The
-source notes that print the amending law ("(Added 18 of 2012 s. 3)") and the commencement notes are part of the text and are
-kept. A repealed section stays as a file holding its heading and the note that repealed it. A provision not yet in
-operation is in the file with the official note "(Not yet in operation)". Each Cap.'s folder has a `README.md` listing its
-files with how often each changed. Images in schedules (forms, diagrams) are not in the text.
+- `tools/check_repo.py` reads every version of each Cap. back from git on the day it took effect and compares it, file by file, with the text parsed from the official XML: 14,318 versions, 0 mismatches.
+- It then compares the whole Cap., word for word and again letters and digits only, with all the text of the official file, read without the build's parser: 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/test_repo.py` checks that blame names a law, that the text differs before and after an amendment, that every tag resolves and that every commit carries `In-force:`.
+- A second build from the same bulk files gave the same 10,356 law commits and 19,682 tags with the same hashes; `data/versions.json` lists every file read with its sha256.
 
 ## What it does not show
 
-- The Basic Law and the other instruments: the bulk data has only the Basic Law's current text, with no versions and no
-  source notes, so it has no history; instruments are not Caps.
-- History before 1 July 1997, and Caps. that the bulk files hold only as an undated placeholder ("will be incorporated
-  ... as soon as possible"); see `REPRODUCE.md`.
-- Which of two laws of the same day made a change (above), or the words of a law that is not in the Cap.'s notes.
-- The Chinese text. The English text prints the Chinese equivalents of defined terms in brackets; they are kept as printed.
-- Versions of the Chinese text that changed alone: versions with the same English text as the one before are empty
-  labelled commits.
+- **The Basic Law, and case law.** The bulk data has only the Basic Law's current text, with no past versions and no source notes, so no history can be built from it; court decisions are not part of this record.
+- **History before 1 July 1997.** Each Cap. starts with the text in force that day; 5 Caps. that the bulk files hold only as a placeholder (Cap. 41W, 61J, 93B, 374AB and 374AC) are not here.
+- **The Chinese text.** 630 versions whose English text did not change (perhaps only the Chinese did) are empty labelled commits.
+- **Which law made some changes.** 577 commits name two or more candidate laws and 873 changes no law explains; both are the publisher's.
+- **Images** in schedules (forms, diagrams) are not in the text.
+- **Versions after 2026-10-28**, when the bulk files were retrieved; the latest version took effect on 2026-08-01.
 
-The version text is for information: the authoritative text is the one published in the Gazette and by the Department of
-Justice on elegislation.gov.hk.
+## Sources
 
-## How it is built
-
-`tools/build.py` reads the bulk files and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md).
-[`corpus.json`](corpus.json) describes the corpus for tools that read several of Lexifina's law repositories.
-After a rebuild, `git fetch --force --tags` replaces stale tags in an existing clone.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Hong Kong e-Legislation, past versions](https://data.gov.hk/en-data/dataset/hk-doj-hkel-legislation-past) (Department of Justice, on DATA.GOV.HK) | Bulk data: every Cap. as XML (Hong Kong Legislation Model) | yes, every dated version | The text, the day each version took effect and the source notes naming each amending law; for information: the authoritative text is the one in the Gazette and on elegislation.gov.hk, which this repository does not use |
 
 ## Licence
 
-Source: Department of Justice, the Government of the Hong Kong Special Administrative Region, Hong Kong e-Legislation, as
-published on DATA.GOV.HK. The Government owns the intellectual property rights in the Data. Reuse is governed by the
-DATA.GOV.HK Terms and Conditions of Use; see [`LICENSE`](LICENSE) for the text and for what is not settled. **This
-repository is private and stays private until its reuse terms are cleared.**
+See [`LICENSE`](LICENSE). The text is data of the Department of Justice, the Government of the Hong Kong Special Administrative Region, Hong Kong e-Legislation, obtained through DATA.GOV.HK; the Government owns the intellectual property rights in it, and the DATA.GOV.HK Terms and Conditions of Use allow its reproduction and distribution free of charge on their conditions. The history, commit messages, tables and tools are CC0 1.0.
+
+No AI model wrote or edited legal text, and none is called when the history is built or checked; the tools and documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
