@@ -59,6 +59,7 @@ Each change is credited to the law whose citation is new in the provision's sour
 - It then compares the whole Cap., word for word and again letters and digits only, with all the text of the official file, read without the build's parser: 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
 - `tools/test_repo.py` checks that blame names a law, that the text differs before and after an amendment, that every tag resolves and that every commit carries `In-force:`.
 - A second build from the same bulk files gave the same 10,356 law commits and 19,682 tags with the same hashes; `data/versions.json` lists every file read with its sha256.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the law whose citation is new in the provision's sour
 See [`LICENSE`](LICENSE). The text is data of the Department of Justice, the Government of the Hong Kong Special Administrative Region, Hong Kong e-Legislation, obtained through DATA.GOV.HK; the Government owns the intellectual property rights in it, and the DATA.GOV.HK Terms and Conditions of Use allow its reproduction and distribution free of charge on their conditions. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or edited legal text, and none is called when the history is built or checked; the tools and documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
